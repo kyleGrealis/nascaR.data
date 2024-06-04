@@ -25,4 +25,4 @@
 - [ ] data cleaning and variable creation
 
 ----
-The data has been obtained [NASCAR](https://www.nascar.com). 
+The data has been obtained from [NASCAR](https://www.nascar.com), with permission from [DriverAverages.com](https://www.driveraverages.com/), and supplemented with [Racing-Reference.info](https://www.racing-reference.info/). 
