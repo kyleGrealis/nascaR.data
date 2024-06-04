@@ -1,0 +1,1506 @@
+Season,Race,Track,Pos,St,#,Driver,Sponsor / Owner,Car,Laps,Money,Status,Led,Pts
+2009,1,Daytona,1.0,5.0,80.0,Tony Stewart,Hendrickcars.com (Rick Hendrick),Chevrolet,120.0,99895.0,running,23.0,190.0
+2009,1,Daytona,2.0,10.0,60.0,Carl Edwards,Scotts (Jack Roush),Ford,120.0,89800.0,running,8.0,175.0
+2009,1,Daytona,3.0,3.0,29.0,Clint Bowyer,Holiday Inn / Holiday Inn Express (Richard Childress),Chevrolet,120.0,79150.0,running,33.0,175.0
+2009,1,Daytona,4.0,13.0,18.0,Kyle Busch,Interstate Batteries (Joe Gibbs),Toyota,120.0,65625.0,running,14.0,165.0
+2009,1,Daytona,5.0,6.0,16.0,Greg Biffle,CitiFinancial (Jack Roush),Ford,120.0,59905.0,running,2.0,160.0
+2009,1,Daytona,6.0,27.0,32.0,Brian Vickers,Dollar General Stores (Todd Braun),Toyota,120.0,55930.0,running,10.0,155.0
+2009,1,Daytona,7.0,24.0,5.0,"Dale Earnhardt, Jr.",Hellmann's (JR Motorsports),Chevrolet,120.0,52255.0,running,0.0,146.0
+2009,1,Daytona,8.0,9.0,6.0,David Ragan,Discount Tire (Jack Roush),Ford,120.0,51180.0,running,0.0,142.0
+2009,1,Daytona,9.0,12.0,27.0,Jason Keller,Kroger / Scott Products (Mike Curb),Ford,120.0,63798.0,running,3.0,143.0
+2009,1,Daytona,10.0,2.0,17.0,Matt Kenseth,Kraft (Jack Roush),Ford,120.0,49980.0,running,15.0,139.0
+2009,1,Daytona,11.0,1.0,33.0,Kevin Harvick,Jimmy John's Gourmet Sandwiches (Kevin Harvick),Chevrolet,120.0,51480.0,running,4.0,135.0
+2009,1,Daytona,12.0,21.0,10.0,David Reutimann,Camping World (Todd Braun),Toyota,120.0,47505.0,running,0.0,127.0
+2009,1,Daytona,13.0,14.0,87.0,Joe Nemechek,DAB Constructors (Joe Nemechek),Chevrolet,120.0,47430.0,running,0.0,124.0
+2009,1,Daytona,14.0,41.0,47.0,Michael McDowell,Tom's Snacks (JTG-Daugherty Racing),Toyota,120.0,54198.0,running,0.0,121.0
+2009,1,Daytona,15.0,35.0,62.0,Brendan Gaughan,South Point Hotel & Casino (Rusty Wallace),Chevrolet,120.0,53248.0,running,0.0,118.0
+2009,1,Daytona,16.0,34.0,28.0,Kenny Wallace,U.S. Border Patrol (Jay Robinson),Chevrolet,120.0,52998.0,running,2.0,120.0
+2009,1,Daytona,17.0,16.0,81.0,D.J. Kennington,D.H. Griffin Companies (Pat MacDonald),Dodge,120.0,52348.0,running,0.0,112.0
+2009,1,Daytona,18.0,31.0,70.0,Mark Green,ForeTravel Motorcoach (Mary Louise Miller),Chevrolet,120.0,52523.0,running,0.0,109.0
+2009,1,Daytona,19.0,28.0,1.0,Mike Wallace,Fishburne Military School (Johnny Davis),Chevrolet,120.0,45630.0,running,0.0,106.0
+2009,1,Daytona,20.0,8.0,20.0,Joey Logano,GameStop (Joe Gibbs),Toyota,120.0,52823.0,running,0.0,103.0
+2009,1,Daytona,21.0,33.0,9.0,John Wes Townley,Zaxby's (Robby Benton),Ford,120.0,51848.0,running,0.0,0.0
+2009,1,Daytona,22.0,15.0,88.0,Brad Keselowski,GoDaddy (JR Motorsports),Chevrolet,120.0,51723.0,running,6.0,102.0
+2009,1,Daytona,23.0,7.0,0.0,"Danny O'Quinn, Jr.",Solar Bat Sunglasses (Johnny Davis),Chevrolet,120.0,51948.0,running,0.0,69.0
+2009,1,Daytona,24.0,11.0,99.0,Michael Waltrip,Aaron's Dream Machine (Michael Waltrip),Toyota,120.0,44955.0,running,0.0,91.0
+2009,1,Daytona,25.0,22.0,26.0,Brian Keselowski,Cajun Industries / Dusty's Collision (Dusty Whitney),Dodge,120.0,44980.0,running,0.0,88.0
+2009,1,Daytona,26.0,36.0,24.0,Eric McClure,Hefty (Ed Rensi),Ford,120.0,51173.0,running,0.0,85.0
+2009,1,Daytona,27.0,40.0,5.0,Jeff Green,31-W Insulation / Tobacco Free Florida (Wayne Day),Chevrolet,120.0,51073.0,running,0.0,82.0
+2009,1,Daytona,28.0,25.0,1.0,Mike Bliss,Miccosukee Resort & Gaming (James Finch),Chevrolet,120.0,50998.0,running,0.0,79.0
+2009,1,Daytona,29.0,30.0,84.0,Mike Harmon,DAB Constructors / Hotjackets.com (Mike Harmon),Chevrolet,120.0,44430.0,running,0.0,51.0
+2009,1,Daytona,30.0,37.0,7.0,David Green,SK Motorsports (Pete Szekeres),Toyota,119.0,51073.0,running,0.0,73.0
+2009,1,Daytona,31.0,38.0,34.0,Tony Raines,Long John Silver's (Bob Jenkins),Chevrolet,116.0,50623.0,crash,0.0,70.0
+2009,1,Daytona,32.0,43.0,40.0,Scott Wimmer,Carfax.com (Curtis Key),Chevrolet,116.0,44080.0,crash,0.0,67.0
+2009,1,Daytona,33.0,4.0,38.0,Jason Leffler,Great Clips (Todd Braun),Toyota,115.0,50598.0,running,0.0,64.0
+2009,1,Daytona,34.0,29.0,23.0,"Robert Richardson, Jr.","Mahindra Tractors (Robert Richardson, Sr.)",Chevrolet,115.0,50448.0,running,0.0,61.0
+2009,1,Daytona,35.0,18.0,15.0,Michael Annett,Pilot Travel Centers (Germain Racing),Toyota,113.0,50298.0,running,0.0,58.0
+2009,1,Daytona,36.0,42.0,52.0,Donnie Neuenberger,Quaker City Castings (Jimmy Means),Chevrolet,110.0,50223.0,running,0.0,55.0
+2009,1,Daytona,37.0,39.0,61.0,Brandon Whitt,Specialty Racing (Charles Shoffner),Ford,102.0,50158.0,running,0.0,52.0
+2009,1,Daytona,38.0,26.0,49.0,Kertus Davis,GetMoreVacations.com (Jay Robinson),Chevrolet,95.0,43630.0,running,0.0,49.0
+2009,1,Daytona,39.0,20.0,89.0,Morgan Shepherd,Five-R Truck & Trailer / Renegade (Morgan Shepherd),Chevrolet,92.0,50048.0,running,0.0,46.0
+2009,1,Daytona,40.0,32.0,12.0,Justin Allgaier,Verizon Wireless (Roger Penske),Dodge,82.0,49998.0,crash,0.0,43.0
+2009,1,Daytona,41.0,23.0,42.0,Kenny Hendrick,"""Real Deal"" Holyfield / Smith Iron Works (Eddie Smith)",Dodge,80.0,49948.0,crash,0.0,40.0
+2009,1,Daytona,42.0,17.0,66.0,Steve Wallace,U.S. Fidelis (Rusty Wallace),Chevrolet,71.0,49898.0,crash,0.0,37.0
+2009,1,Daytona,43.0,19.0,11.0,"Scott Lagasse, Jr.",America's Incredible Pizza Company (Bryan Mullet),Toyota,71.0,49826.0,crash,0.0,34.0
+2009,2,Fontana,1.0,2.0,18.0,Kyle Busch,Z-Line Designs / Frys.com (Joe Gibbs),Toyota,150.0,76820.0,running,143.0,195.0
+2009,2,Fontana,2.0,9.0,33.0,Kevin Harvick,Rheem (Kevin Harvick),Chevrolet,150.0,60525.0,running,0.0,170.0
+2009,2,Fontana,3.0,7.0,20.0,Joey Logano,GameStop / KillZone 2 (Joe Gibbs),Toyota,150.0,56893.0,running,0.0,165.0
+2009,2,Fontana,4.0,1.0,60.0,Carl Edwards,Scotts (Jack Roush),Ford,150.0,44150.0,running,5.0,165.0
+2009,2,Fontana,5.0,8.0,6.0,David Ragan,America's Tire / Discount Tire (Jack Roush),Ford,150.0,34375.0,running,0.0,155.0
+2009,2,Fontana,6.0,6.0,29.0,Jeff Burton,Holiday Inn / Holiday Inn Express (Richard Childress),Chevrolet,150.0,31325.0,running,0.0,150.0
+2009,2,Fontana,7.0,29.0,10.0,David Reutimann,Beringer Vineyards (Todd Braun),Toyota,150.0,28275.0,running,0.0,146.0
+2009,2,Fontana,8.0,12.0,32.0,Brian Vickers,Dollar General (Todd Braun),Toyota,150.0,26825.0,running,0.0,142.0
+2009,2,Fontana,9.0,11.0,62.0,Brendan Gaughan,South Point Hotel & Casino (Rusty Wallace),Chevrolet,150.0,35903.0,running,0.0,138.0
+2009,2,Fontana,10.0,15.0,66.0,Steve Wallace,U.S. Fidelis (Rusty Wallace),Chevrolet,150.0,35493.0,running,0.0,134.0
+2009,2,Fontana,11.0,18.0,38.0,Jason Leffler,Great Clips (Todd Braun),Toyota,150.0,32393.0,running,0.0,130.0
+2009,2,Fontana,12.0,23.0,11.0,"Scott Lagasse, Jr.",Gatorz Precision Built Eyewear (Bryan Mullet),Toyota,150.0,32143.0,running,0.0,127.0
+2009,2,Fontana,13.0,4.0,1.0,Mike Bliss,Miccosukee Resort & Gaming (James Finch),Chevrolet,150.0,32943.0,running,0.0,124.0
+2009,2,Fontana,14.0,17.0,12.0,Justin Allgaier,Verizon Wireless (Roger Penske),Dodge,150.0,31808.0,running,0.0,121.0
+2009,2,Fontana,15.0,10.0,99.0,Michael Waltrip,BestWestern.com (Michael Waltrip),Toyota,150.0,26055.0,running,0.0,118.0
+2009,2,Fontana,16.0,42.0,15.0,Michael Annett,Pilot Travel Centers (Germain Racing),Toyota,149.0,31563.0,running,0.0,115.0
+2009,2,Fontana,17.0,19.0,27.0,Jason Keller,Cottonelle / Stater Bros. Charities (Mike Curb),Ford,149.0,31353.0,running,0.0,112.0
+2009,2,Fontana,18.0,36.0,7.0,David Green,SK Motorsports (Pete Szekeres),Toyota,149.0,31518.0,running,0.0,109.0
+2009,2,Fontana,19.0,27.0,89.0,Morgan Shepherd,Lagina Plumbing / Eldora Speedway (Morgan Shepherd),Chevrolet,149.0,31108.0,running,0.0,106.0
+2009,2,Fontana,20.0,24.0,23.0,Ken Butler III,"Aaron's Dream Machine (Robert Richardson, Sr.)",Chevrolet,149.0,31498.0,running,0.0,103.0
+2009,2,Fontana,21.0,30.0,34.0,Tony Raines,Long John Silver's (Bob Jenkins),Chevrolet,149.0,31238.0,running,0.0,100.0
+2009,2,Fontana,22.0,14.0,9.0,John Wes Townley,Zaxby's (Robby Benton),Ford,148.0,30753.0,running,0.0,97.0
+2009,2,Fontana,23.0,20.0,61.0,Brandon Whitt,Specialty Racing (Charles Shoffner),Ford,147.0,31068.0,running,0.0,94.0
+2009,2,Fontana,24.0,25.0,81.0,D.J. Kennington,Red Bank Outfitters (Pat MacDonald),Dodge,147.0,30508.0,running,0.0,91.0
+2009,2,Fontana,25.0,26.0,49.0,Kertus Davis,GetMoreVacations.com (Jay Robinson),Chevrolet,146.0,24055.0,running,0.0,88.0
+2009,2,Fontana,26.0,32.0,42.0,Kenny Hendrick,"""Real Deal"" Holyfield / Smith Iron Works (Eddie Smith)",Dodge,146.0,30263.0,running,0.0,85.0
+2009,2,Fontana,27.0,13.0,88.0,Brad Keselowski,GoDaddy.com (JR Motorsports),Chevrolet,145.0,30128.0,running,2.0,87.0
+2009,2,Fontana,28.0,43.0,31.0,Stanton Barrett,Interush.net (Rick Ware),Chevrolet,145.0,23540.0,running,0.0,79.0
+2009,2,Fontana,29.0,31.0,26.0,Brian Keselowski,Schweitzer Title (Dusty Whitney),Dodge,145.0,23390.0,running,0.0,76.0
+2009,2,Fontana,30.0,38.0,24.0,Eric McClure,Hefty (Ed Rensi),Ford,145.0,30048.0,running,0.0,73.0
+2009,2,Fontana,31.0,37.0,28.0,Kenny Wallace,U.S. Border Patrol (Jay Robinson),Chevrolet,143.0,29638.0,running,0.0,70.0
+2009,2,Fontana,32.0,40.0,52.0,Scott Gaylord,Motel 6 Hesperia (Jimmy Means),Chevrolet,143.0,29528.0,running,0.0,67.0
+2009,2,Fontana,33.0,33.0,1.0,"Danny O'Quinn, Jr.",Team Too Termite & Pest Control (Johnny Davis),Chevrolet,134.0,22950.0,running,0.0,64.0
+2009,2,Fontana,34.0,5.0,16.0,Greg Biffle,CitiFinancial (Jack Roush),Ford,127.0,23190.0,crash,0.0,61.0
+2009,2,Fontana,35.0,28.0,87.0,Joe Nemechek,NEMCO Motorsports (Joe Nemechek),Chevrolet,61.0,22730.0,rear end,0.0,58.0
+2009,2,Fontana,36.0,3.0,47.0,Michael McDowell,Pacific Packaging Group (JTG-Daugherty Racing),Toyota,50.0,29838.0,crash,0.0,55.0
+2009,2,Fontana,37.0,16.0,91.0,Terry Cook,MSRP Motorsports (MSRP Motorsports),Chevrolet,15.0,28973.0,ignition,0.0,52.0
+2009,2,Fontana,38.0,35.0,0.0,J.C. Stout,SponsorDavis.com (Johnny Davis),Chevrolet,13.0,22395.0,overheating,0.0,49.0
+2009,2,Fontana,39.0,39.0,90.0,Johnny Chapman,MSRP Motorsports (MSRP Motorsports),Chevrolet,10.0,28808.0,ignition,0.0,46.0
+2009,2,Fontana,40.0,22.0,85.0,Casey Atwood,31-W Insulation (Wayne Day),Chevrolet,5.0,22305.0,rear end,0.0,43.0
+2009,2,Fontana,41.0,41.0,5.0,Justin Ashburn,31-W Insulation (Wayne Day),Chevrolet,5.0,28713.0,ignition,0.0,40.0
+2009,2,Fontana,42.0,21.0,96.0,Dennis Setzer,Dusty's Collision (Dusty Whitney),Dodge,3.0,22165.0,vibration,0.0,37.0
+2009,2,Fontana,43.0,34.0,41.0,Derrike Cope,Rick Ware Racing (Rick Ware),Chevrolet,3.0,22127.0,vibration,0.0,34.0
+2009,3,Las Vegas,1.0,3.0,16.0,Greg Biffle,CitiFinancial (Jack Roush),Ford,209.0,94870.0,running,86.0,195.0
+2009,3,Las Vegas,2.0,7.0,60.0,Carl Edwards,Save-A-lot (Jack Roush),Ford,209.0,64150.0,running,35.0,175.0
+2009,3,Las Vegas,3.0,10.0,32.0,Brian Vickers,Dollar General Stores (Todd Braun),Toyota,209.0,48900.0,running,11.0,170.0
+2009,3,Las Vegas,4.0,23.0,38.0,Jason Leffler,Great Clips (Todd Braun),Toyota,209.0,46518.0,running,0.0,160.0
+2009,3,Las Vegas,5.0,15.0,5.0,"Dale Earnhardt, Jr.",GoDaddy (JR Motorsports),Chevrolet,209.0,32275.0,running,0.0,155.0
+2009,3,Las Vegas,6.0,16.0,47.0,Michael McDowell,Kingsford / Smith's (JTG-Daugherty Racing),Toyota,209.0,42693.0,running,0.0,150.0
+2009,3,Las Vegas,7.0,13.0,62.0,Brendan Gaughan,South Point Hotel & Casino (Rusty Wallace),Chevrolet,209.0,36693.0,running,3.0,151.0
+2009,3,Las Vegas,8.0,11.0,12.0,Justin Allgaier,Verizon Wireless (Roger Penske),Dodge,209.0,35043.0,running,5.0,147.0
+2009,3,Las Vegas,9.0,42.0,11.0,"Scott Lagasse, Jr.",America's Incredible Pizza Company (Bryan Mullet),Toyota,209.0,34953.0,running,0.0,138.0
+2009,3,Las Vegas,10.0,14.0,29.0,Jeff Burton,Holiday Inn / Holiday Inn Express (Richard Childress),Chevrolet,209.0,28075.0,running,1.0,139.0
+2009,3,Las Vegas,11.0,28.0,40.0,Scott Wimmer,Federated Auto Parts (Curtis Key),Chevrolet,208.0,26375.0,running,0.0,130.0
+2009,3,Las Vegas,12.0,35.0,42.0,Kenny Hendrick,"""Real Deal"" Holyfield / Smith Iron Works (Eddie Smith)",Dodge,208.0,32293.0,running,0.0,127.0
+2009,3,Las Vegas,13.0,24.0,89.0,Morgan Shepherd,Victory in Jesus / Eldora Speedway (Morgan Shepherd),Chevrolet,207.0,31743.0,running,0.0,124.0
+2009,3,Las Vegas,14.0,20.0,28.0,Kenny Wallace,U.S. Border Patrol (Jay Robinson),Chevrolet,207.0,31633.0,running,0.0,121.0
+2009,3,Las Vegas,15.0,39.0,34.0,Tony Raines,Long John Silver's (Bob Jenkins),Chevrolet,207.0,32023.0,running,0.0,118.0
+2009,3,Las Vegas,16.0,33.0,24.0,Eric McClure,Hefty (Ed Rensi),Ford,207.0,30763.0,running,0.0,115.0
+2009,3,Las Vegas,17.0,37.0,23.0,Ken Butler III,"Aaron's (Robert Richardson, Sr.)",Chevrolet,207.0,30578.0,running,0.0,112.0
+2009,3,Las Vegas,18.0,31.0,1.0,"Danny O'Quinn, Jr.",Station Casinos / Shaug Construction (Johnny Davis),Chevrolet,206.0,23975.0,running,0.0,109.0
+2009,3,Las Vegas,19.0,32.0,26.0,Brian Keselowski,Schweitzer Title (Dusty Whitney),Dodge,205.0,23865.0,running,0.0,106.0
+2009,3,Las Vegas,20.0,29.0,87.0,Joe Nemechek,NEMCO Motorsports (Joe Nemechek),Chevrolet,205.0,24605.0,running,0.0,103.0
+2009,3,Las Vegas,21.0,4.0,20.0,Denny Hamlin,Interstate Batteries (Joe Gibbs),Toyota,196.0,23645.0,crash,7.0,105.0
+2009,3,Las Vegas,22.0,9.0,1.0,Mike Bliss,Miccosukee Resort & Gaming (James Finch),Chevrolet,194.0,32478.0,crash,16.0,102.0
+2009,3,Las Vegas,23.0,27.0,2.0,Andy Ponstein,CorrieStottRacing.com (Corrie Stott),Chevrolet,189.0,23375.0,engine,0.0,94.0
+2009,3,Las Vegas,24.0,36.0,61.0,Brandon Whitt,Specialty Racing (Charles Shoffner),Ford,182.0,30133.0,running,0.0,91.0
+2009,3,Las Vegas,25.0,26.0,27.0,Jason Keller,Scott Tissue / Cottonelle / Smith's (Mike Curb),Ford,177.0,29748.0,crash,0.0,88.0
+2009,3,Las Vegas,26.0,12.0,6.0,David Ragan,Discount Tire (Jack Roush),Ford,169.0,23020.0,crash,1.0,90.0
+2009,3,Las Vegas,27.0,8.0,88.0,Brad Keselowski,Klondike (JR Motorsports),Chevrolet,165.0,29353.0,running,0.0,82.0
+2009,3,Las Vegas,28.0,43.0,31.0,Stanton Barrett,Zona Health (Rick Ware),Chevrolet,151.0,22740.0,running,0.0,79.0
+2009,3,Las Vegas,29.0,2.0,33.0,Kevin Harvick,Rheem Tankless Water Heaters (Kevin Harvick),Chevrolet,146.0,22590.0,running,41.0,81.0
+2009,3,Las Vegas,30.0,6.0,66.0,Steve Wallace,U.S. Fidelis (Rusty Wallace),Chevrolet,144.0,29248.0,running,0.0,73.0
+2009,3,Las Vegas,31.0,19.0,7.0,David Green,PMCLife.com (Pete Szekeres),Toyota,104.0,28838.0,crash,0.0,70.0
+2009,3,Las Vegas,32.0,34.0,15.0,Michael Annett,Pilot Travel Centers (Germain Racing),Toyota,90.0,28728.0,crash,0.0,67.0
+2009,3,Las Vegas,33.0,25.0,81.0,D.J. Kennington,Red Bank Outfitters / NPP (Pat MacDonald),Dodge,89.0,28618.0,crash,0.0,64.0
+2009,3,Las Vegas,34.0,30.0,0.0,"Robert Richardson, Jr.","North Texas Pipe (Robert Richardson, Sr.)",Chevrolet,89.0,22040.0,crash,0.0,61.0
+2009,3,Las Vegas,35.0,17.0,5.0,Casey Atwood,MC2 Energy Drink / 31-W Insulation (Wayne Day),Ford,76.0,28398.0,engine,0.0,58.0
+2009,3,Las Vegas,36.0,38.0,52.0,Scott Gaylord,Hooters Casino Hotel (Jimmy Means),Chevrolet,65.0,28363.0,crash,0.0,55.0
+2009,3,Las Vegas,37.0,18.0,10.0,Kelly Bires,Braun Racing (Todd Braun),Toyota,32.0,21855.0,ignition,1.0,57.0
+2009,3,Las Vegas,38.0,41.0,9.0,John Wes Townley,Zaxby's (Robby Benton),Ford,26.0,28288.0,crash,0.0,49.0
+2009,3,Las Vegas,39.0,5.0,18.0,Kyle Busch,Z-Line Designs (Joe Gibbs),Toyota,21.0,21765.0,crash,0.0,46.0
+2009,3,Las Vegas,40.0,1.0,99.0,Scott Speed,Red Bull (Michael Waltrip),Toyota,21.0,31298.0,crash,2.0,48.0
+2009,3,Las Vegas,41.0,22.0,91.0,Terry Cook,MSRP Motorsports (MSRP Motorsports),Chevrolet,20.0,28138.0,electrical,0.0,40.0
+2009,3,Las Vegas,42.0,40.0,90.0,Johnny Chapman,MSRP Motorsports (MSRP Motorsports),Chevrolet,12.0,28093.0,rear end,0.0,37.0
+2009,3,Las Vegas,43.0,21.0,96.0,Dennis Setzer,Dusty's Collision (Dusty Whitney),Dodge,3.0,21582.0,transmission,0.0,34.0
+2009,4,Bristol,1.0,13.0,33.0,Kevin Harvick,Armour Meats (Kevin Harvick),Chevrolet,300.0,51820.0,running,46.0,190.0
+2009,4,Bristol,2.0,2.0,60.0,Carl Edwards,Scotts Turf Builder (Jack Roush),Ford,300.0,41875.0,running,75.0,175.0
+2009,4,Bristol,3.0,7.0,29.0,Clint Bowyer,Holiday Inn / Holiday Inn Express (Richard Childress),Chevrolet,300.0,34575.0,running,3.0,170.0
+2009,4,Bristol,4.0,6.0,16.0,Matt Kenseth,CitiFinancial (Jack Roush),Ford,300.0,28275.0,running,0.0,160.0
+2009,4,Bristol,5.0,14.0,12.0,Justin Allgaier,Verizon Wireless (Roger Penske),Dodge,300.0,35318.0,running,0.0,155.0
+2009,4,Bristol,6.0,4.0,18.0,Kyle Busch,Z-Line Designs (Joe Gibbs),Toyota,300.0,25725.0,running,156.0,160.0
+2009,4,Bristol,7.0,30.0,66.0,Steve Wallace,5-Hour Energy Drink (Rusty Wallace),Chevrolet,300.0,30703.0,running,0.0,146.0
+2009,4,Bristol,8.0,19.0,99.0,Scott Speed,Red Bull (Michael Waltrip),Toyota,300.0,32663.0,running,0.0,142.0
+2009,4,Bristol,9.0,23.0,20.0,Joey Logano,GameStop / Halo Wars (Joe Gibbs),Toyota,300.0,30368.0,running,0.0,138.0
+2009,4,Bristol,10.0,9.0,38.0,Jason Leffler,Great Clips (Todd Braun),Toyota,300.0,30868.0,running,0.0,134.0
+2009,4,Bristol,11.0,11.0,98.0,Paul Menard,Richmond / Menards (Yates Racing),Ford,300.0,23375.0,running,0.0,130.0
+2009,4,Bristol,12.0,15.0,88.0,Brad Keselowski,GoDaddy (JR Motorsports),Chevrolet,300.0,29743.0,running,0.0,127.0
+2009,4,Bristol,13.0,20.0,11.0,"Scott Lagasse, Jr.",America's Incredible Pizza Company (Bryan Mullet),Toyota,300.0,30043.0,running,0.0,124.0
+2009,4,Bristol,14.0,34.0,28.0,Kenny Wallace,U.S. Border Patrol (Jay Robinson),Chevrolet,300.0,29593.0,running,1.0,126.0
+2009,4,Bristol,15.0,16.0,32.0,Burney Lamar,Dollar General Stores (Todd Braun),Toyota,300.0,30568.0,running,0.0,118.0
+2009,4,Bristol,16.0,12.0,9.0,John Wes Townley,Zaxby's (Robby Benton),Ford,299.0,29468.0,running,0.0,115.0
+2009,4,Bristol,17.0,40.0,7.0,David Green,ConstructionJobs.com / PMClife.com (Pete Szekeres),Toyota,298.0,29418.0,running,0.0,112.0
+2009,4,Bristol,18.0,33.0,87.0,Joe Nemechek,NEMCO Motorsports (Joe Nemechek),Chevrolet,298.0,25400.0,running,12.0,114.0
+2009,4,Bristol,19.0,8.0,6.0,David Ragan,Discount Tire (Jack Roush),Ford,298.0,22825.0,running,0.0,106.0
+2009,4,Bristol,20.0,21.0,15.0,Michael Annett,Pilot Travel Centers (Germain Racing),Toyota,297.0,30093.0,running,1.0,108.0
+2009,4,Bristol,21.0,1.0,62.0,Brendan Gaughan,South Point Hotel & Casino (Rusty Wallace),Chevrolet,297.0,32268.0,running,6.0,105.0
+2009,4,Bristol,22.0,29.0,40.0,Scott Wimmer,StopRepairBills.com (Curtis Key),Chevrolet,296.0,22650.0,running,0.0,97.0
+2009,4,Bristol,23.0,26.0,52.0,Trevor Bayne,Taco Bell (Jimmy Means),Chevrolet,296.0,29468.0,running,0.0,94.0
+2009,4,Bristol,24.0,41.0,61.0,Brandon Whitt,Specialty Racing (Charles Shoffner),Ford,295.0,29018.0,running,0.0,91.0
+2009,4,Bristol,25.0,37.0,5.0,Casey Atwood,31-W Insulation (Wayne Day),Chevrolet,295.0,29118.0,running,0.0,88.0
+2009,4,Bristol,26.0,28.0,24.0,Eric McClure,Hefty (Ed Rensi),Ford,294.0,28893.0,running,0.0,85.0
+2009,4,Bristol,27.0,27.0,36.0,Marc Davis,Howard University Radio WHUR 96.3 (Marc Davis),Toyota,293.0,22375.0,running,0.0,82.0
+2009,4,Bristol,28.0,3.0,27.0,Jason Keller,Scott Tissue / Kleenex / Kroger (Mike Curb),Ford,292.0,28793.0,running,0.0,79.0
+2009,4,Bristol,29.0,36.0,23.0,"Robert Richardson, Jr.","Mahindra Tractors (Robert Richardson, Sr.)",Chevrolet,289.0,28743.0,running,0.0,76.0
+2009,4,Bristol,30.0,10.0,42.0,Kenny Hendrick,Interstate Equipment (Eddie Smith),Dodge,288.0,28493.0,running,0.0,73.0
+2009,4,Bristol,31.0,42.0,47.0,Michael McDowell,Tom's Snacks (JTG-Daugherty Racing),Toyota,283.0,27988.0,running,0.0,70.0
+2009,4,Bristol,32.0,32.0,34.0,Tony Raines,Long John Silver's (Bob Jenkins),Chevrolet,283.0,27853.0,running,0.0,67.0
+2009,4,Bristol,33.0,39.0,81.0,Kevin Hamlin,D.H. Griffin Companies (Pat MacDonald),Dodge,280.0,27743.0,running,0.0,64.0
+2009,4,Bristol,34.0,38.0,89.0,Morgan Shepherd,Victory in Jesus Racing (Morgan Shepherd),Chevrolet,254.0,27708.0,crash,0.0,61.0
+2009,4,Bristol,35.0,22.0,1.0,Mike Bliss,Miccosukee Resort & Gaming (James Finch),Chevrolet,254.0,27678.0,running,0.0,58.0
+2009,4,Bristol,36.0,18.0,73.0,Kevin Lepage,FlipNBags.com (Derrike Cope),Dodge,96.0,21175.0,engine,0.0,55.0
+2009,4,Bristol,37.0,17.0,1.0,"Danny O'Quinn, Jr.",Cash4Gold.com / Racing 1-800-527-1801 (Johnny Davis),Chevrolet,81.0,21140.0,crash,0.0,52.0
+2009,4,Bristol,38.0,35.0,96.0,Dennis Setzer,Dusty's Collision (Dusty Whitney),Dodge,55.0,21080.0,overheating,0.0,49.0
+2009,4,Bristol,39.0,24.0,2.0,Andy Ponstein,Carnegie Hotels / Showbiz Graphics (Corrie Stott),Chevrolet,22.0,21055.0,rear end,0.0,46.0
+2009,4,Bristol,40.0,31.0,91.0,Terry Cook,Cajun Industries (MSRP Motorsports),Chevrolet,20.0,21030.0,rear end,0.0,43.0
+2009,4,Bristol,41.0,25.0,90.0,Johnny Chapman,Cajun Industries (MSRP Motorsports),Chevrolet,10.0,21005.0,brakes,0.0,40.0
+2009,4,Bristol,42.0,5.0,10.0,Kelly Bires,Braun Racing (Todd Braun),Toyota,5.0,20980.0,brakes,0.0,37.0
+2009,4,Bristol,43.0,43.0,0.0,Steve Grissom,Cash4Gold.com / Racing 1-800-527-1801 (Johnny Davis),Chevrolet,2.0,20927.0,vibration,0.0,34.0
+2009,5,Fort Worth,1.0,1.0,18.0,Kyle Busch,NOS Energy Drink (Joe Gibbs),Toyota,200.0,76345.0,running,178.0,195.0
+2009,5,Fort Worth,2.0,8.0,33.0,Tony Stewart,Armor All (Kevin Harvick),Chevrolet,200.0,54575.0,running,5.0,175.0
+2009,5,Fort Worth,3.0,42.0,88.0,Brad Keselowski,Hellmann's (JR Motorsports),Chevrolet,200.0,48843.0,running,1.0,170.0
+2009,5,Fort Worth,4.0,4.0,6.0,David Ragan,Discount Tire (Jack Roush),Ford,200.0,38675.0,running,0.0,160.0
+2009,5,Fort Worth,5.0,3.0,98.0,Paul Menard,Richmond / Menards (Yates Racing),Ford,200.0,31850.0,running,0.0,155.0
+2009,5,Fort Worth,6.0,2.0,16.0,Matt Kenseth,CitiFinancial (Jack Roush),Ford,200.0,29775.0,running,0.0,150.0
+2009,5,Fort Worth,7.0,13.0,1.0,Mike Bliss,Miccosukee Resort & Gaming (James Finch),Chevrolet,200.0,38443.0,running,0.0,146.0
+2009,5,Fort Worth,8.0,5.0,29.0,Jeff Burton,Holiday Inn / Holiday Inn Express (Richard Childress),Chevrolet,200.0,25425.0,running,16.0,147.0
+2009,5,Fort Worth,9.0,20.0,10.0,David Reutimann,Beringer Vineyards (Todd Braun),Toyota,200.0,25135.0,running,0.0,138.0
+2009,5,Fort Worth,10.0,11.0,12.0,Justin Allgaier,Verizon FIOS Internet (Roger Penske),Dodge,200.0,32043.0,running,0.0,134.0
+2009,5,Fort Worth,11.0,31.0,15.0,Michael Annett,Pilot Travel Centers (Germain Racing),Toyota,200.0,31493.0,running,0.0,130.0
+2009,5,Fort Worth,12.0,10.0,20.0,Joey Logano,GameStop / Guitar Hero Metallica (Joe Gibbs),Toyota,200.0,30493.0,running,0.0,127.0
+2009,5,Fort Worth,13.0,12.0,38.0,Jason Leffler,Great Clips (Todd Braun),Toyota,200.0,30643.0,running,0.0,124.0
+2009,5,Fort Worth,14.0,30.0,66.0,Steve Wallace,U.S. Fidelis (Rusty Wallace),Chevrolet,200.0,29883.0,running,0.0,121.0
+2009,5,Fort Worth,15.0,16.0,27.0,Jason Keller,Cottonelle / Brookshire's (Mike Curb),Ford,199.0,30348.0,running,0.0,118.0
+2009,5,Fort Worth,16.0,17.0,11.0,"Scott Lagasse, Jr.",America's Incredible Pizza Company (Bryan Mullet),Toyota,199.0,29688.0,running,0.0,115.0
+2009,5,Fort Worth,17.0,15.0,47.0,Michael McDowell,Tom's Snacks (JTG-Daugherty Racing),Toyota,199.0,29078.0,running,0.0,112.0
+2009,5,Fort Worth,18.0,6.0,60.0,Carl Edwards,Scotts Turf Builder (Jack Roush),Ford,198.0,23225.0,running,0.0,109.0
+2009,5,Fort Worth,19.0,19.0,99.0,Michael Waltrip,Aaron's Dream Machine (Michael Waltrip),Toyota,198.0,22115.0,running,0.0,106.0
+2009,5,Fort Worth,20.0,9.0,5.0,"Dale Earnhardt, Jr.",Fastenal (JR Motorsports),Chevrolet,197.0,22655.0,running,0.0,103.0
+2009,5,Fort Worth,21.0,38.0,28.0,Kenny Wallace,U.S. Border Patrol (Jay Robinson),Chevrolet,197.0,28563.0,running,0.0,100.0
+2009,5,Fort Worth,22.0,36.0,34.0,Tony Raines,Long John Silver's (Bob Jenkins),Chevrolet,197.0,28253.0,running,0.0,97.0
+2009,5,Fort Worth,23.0,40.0,61.0,Brandon Whitt,Flyin R Electric (Charles Shoffner),Ford,196.0,28493.0,running,0.0,94.0
+2009,5,Fort Worth,24.0,35.0,23.0,"Robert Richardson, Jr.","Mahindra Tractors (Robert Richardson, Sr.)",Chevrolet,195.0,27983.0,running,0.0,91.0
+2009,5,Fort Worth,25.0,33.0,42.0,Kenny Hendrick,Smith-Ganassi Racing (Eddie Smith),Dodge,195.0,27998.0,running,0.0,88.0
+2009,5,Fort Worth,26.0,23.0,77.0,Peyton Sellers,SFP (William Spencer),Chevrolet,195.0,21270.0,running,0.0,85.0
+2009,5,Fort Worth,27.0,41.0,5.0,Casey Atwood,31-W Insulation / MC2 Energy Drink (Wayne Day),Ford,195.0,27628.0,running,0.0,82.0
+2009,5,Fort Worth,28.0,39.0,89.0,Morgan Shepherd,Eldora Speedway / Lagina Plumbing (Morgan Shepherd),Chevrolet,195.0,27508.0,running,0.0,79.0
+2009,5,Fort Worth,29.0,26.0,1.0,"Danny O'Quinn, Jr.",Cash4Gold.com / Racing 1-800-527-1801 (Johnny Davis),Chevrolet,195.0,20865.0,running,0.0,76.0
+2009,5,Fort Worth,30.0,32.0,7.0,David Green,PMCLife.com / Comfort Suites (Pete Szekeres),Toyota,194.0,27523.0,running,0.0,73.0
+2009,5,Fort Worth,31.0,14.0,81.0,Kevin Hamlin,D.H. Griffin Companies (Pat MacDonald),Dodge,194.0,27113.0,running,0.0,70.0
+2009,5,Fort Worth,32.0,27.0,70.0,Shelby Howard,Foretravel Motorcoach (Mary Louise Miller),Chevrolet,194.0,27003.0,running,0.0,67.0
+2009,5,Fort Worth,33.0,37.0,52.0,Kevin Lepage,Courtyard by Marriott (Jimmy Means),Chevrolet,189.0,26893.0,running,0.0,64.0
+2009,5,Fort Worth,34.0,25.0,24.0,Eric McClure,Hefty (Ed Rensi),Ford,188.0,26783.0,running,0.0,61.0
+2009,5,Fort Worth,35.0,28.0,32.0,Burney Lamar,Dollar General Stores (Todd Braun),Toyota,185.0,26673.0,running,0.0,58.0
+2009,5,Fort Worth,36.0,29.0,9.0,John Wes Townley,Zaxby's (Robby Benton),Ford,182.0,26563.0,crash,0.0,55.0
+2009,5,Fort Worth,37.0,18.0,62.0,Brendan Gaughan,South Point Hotel & Casino (Rusty Wallace),Chevrolet,175.0,26448.0,running,0.0,52.0
+2009,5,Fort Worth,38.0,22.0,96.0,Brian Keselowski,my123backup.com (Dusty Whitney),Dodge,133.0,19945.0,handling,0.0,49.0
+2009,5,Fort Worth,39.0,24.0,87.0,Joe Nemechek,NEMCO Motorsports (Joe Nemechek),Chevrolet,56.0,19890.0,rear end,0.0,46.0
+2009,5,Fort Worth,40.0,43.0,0.0,J.C. Stout,Cash4Gold.com / Racing 1-800-527-1801 (Johnny Davis),Chevrolet,41.0,19855.0,vibration,0.0,43.0
+2009,5,Fort Worth,41.0,21.0,2.0,Andy Ponstein,CorrieStottRacing.com (Corrie Stott),Chevrolet,18.0,19820.0,electrical,0.0,40.0
+2009,5,Fort Worth,42.0,7.0,91.0,Terry Cook,MSRP Motorsports (MSRP Motorsports),Chevrolet,7.0,19765.0,vibration,0.0,37.0
+2009,5,Fort Worth,43.0,34.0,90.0,Johnny Chapman,MSRP Motorsports (MSRP Motorsports),Chevrolet,5.0,19718.0,vibration,0.0,34.0
+2009,6,Nashville,1.0,2.0,20.0,Joey Logano,GameStop (Joe Gibbs),Toyota,225.0,47020.0,running,95.0,195.0
+2009,6,Nashville,2.0,4.0,18.0,Kyle Busch,Z-Line Designs (Joe Gibbs),Toyota,225.0,34150.0,running,77.0,175.0
+2009,6,Nashville,3.0,19.0,88.0,Brad Keselowski,GoDaddy.com (JR Motorsports),Chevrolet,225.0,32893.0,running,0.0,165.0
+2009,6,Nashville,4.0,10.0,33.0,Kelly Bires,Charter Communications (Kevin Harvick),Chevrolet,225.0,30718.0,running,0.0,160.0
+2009,6,Nashville,5.0,1.0,60.0,Carl Edwards,Save-A-lot (Jack Roush),Ford,225.0,25050.0,running,45.0,160.0
+2009,6,Nashville,6.0,21.0,38.0,Jason Leffler,Great Clips (Todd Braun),Toyota,225.0,27518.0,running,0.0,150.0
+2009,6,Nashville,7.0,8.0,6.0,David Ragan,Discount Tire (Jack Roush),Ford,225.0,17050.0,running,0.0,146.0
+2009,6,Nashville,8.0,7.0,1.0,Mike Bliss,Miccosukee Resort & Gaming (James Finch),Chevrolet,225.0,22418.0,running,0.0,142.0
+2009,6,Nashville,9.0,6.0,66.0,Steve Wallace,U.S. Fidelis (Rusty Wallace),Chevrolet,225.0,22143.0,running,0.0,138.0
+2009,6,Nashville,10.0,38.0,11.0,"Scott Lagasse, Jr.",America's Incredible Pizza / Jason Aldean (Bryan Mullet),Toyota,225.0,23668.0,running,0.0,134.0
+2009,6,Nashville,11.0,16.0,29.0,Stephen Leicht,Holiday Inn / Holiday Inn Express (Richard Childress),Chevrolet,225.0,21793.0,running,0.0,130.0
+2009,6,Nashville,12.0,15.0,27.0,Jason Keller,Scott Tissue / Kroger / Kleenex (Mike Curb),Ford,225.0,21718.0,running,0.0,127.0
+2009,6,Nashville,13.0,17.0,32.0,Burney Lamar,Dollar General (Todd Braun),Toyota,225.0,24118.0,running,0.0,124.0
+2009,6,Nashville,14.0,35.0,70.0,Shelby Howard,Foretravel Motorcoach (Mary Louise Miller),Chevrolet,225.0,15075.0,running,0.0,121.0
+2009,6,Nashville,15.0,3.0,47.0,Michael McDowell,Tom's Snacks / Fred's Discount Pharmacy (JTG-Daugherty Racing),Toyota,225.0,24718.0,running,7.0,123.0
+2009,6,Nashville,16.0,12.0,99.0,Michael Waltrip,BestWestern.com (Michael Waltrip),Toyota,225.0,14925.0,running,0.0,115.0
+2009,6,Nashville,17.0,14.0,62.0,Brendan Gaughan,U.S. Fidelis (Rusty Wallace),Chevrolet,225.0,21318.0,running,0.0,112.0
+2009,6,Nashville,18.0,18.0,9.0,John Wes Townley,Zaxby's (Robby Benton),Ford,225.0,14750.0,running,0.0,109.0
+2009,6,Nashville,19.0,13.0,15.0,Michael Annett,Pilot Travel Centers (Germain Racing),Toyota,225.0,21143.0,running,1.0,111.0
+2009,6,Nashville,20.0,34.0,26.0,Dennis Setzer,Schweitzer Title (Dusty Whitney),Dodge,224.0,15775.0,running,0.0,103.0
+2009,6,Nashville,21.0,36.0,81.0,Jeff Green,D.H. Griffin Companies (Pat MacDonald),Dodge,224.0,14550.0,running,0.0,100.0
+2009,6,Nashville,22.0,23.0,5.0,Casey Atwood,31-W Insulation (Wayne Day),Chevrolet,224.0,14515.0,running,0.0,97.0
+2009,6,Nashville,23.0,5.0,16.0,Ricky Stenhouse Jr,CitiFinancial (Jack Roush),Ford,224.0,21348.0,running,0.0,94.0
+2009,6,Nashville,24.0,37.0,28.0,Kenny Wallace,U.S. Border Patrol (Jay Robinson),Chevrolet,223.0,20913.0,running,0.0,91.0
+2009,6,Nashville,25.0,24.0,10.0,Brian Scott,Dollar General (Todd Braun),Toyota,223.0,21018.0,running,0.0,88.0
+2009,6,Nashville,26.0,31.0,24.0,Eric McClure,Hefty (Ed Rensi),Ford,223.0,20823.0,running,0.0,85.0
+2009,6,Nashville,27.0,32.0,34.0,Tony Raines,Long John Silver's (Bob Jenkins),Chevrolet,223.0,20778.0,running,0.0,82.0
+2009,6,Nashville,28.0,29.0,40.0,Scott Wimmer,StopRepairBills.com (Curtis Key),Chevrolet,222.0,14275.0,running,0.0,79.0
+2009,6,Nashville,29.0,9.0,12.0,Justin Allgaier,Verizon Wireless (Roger Penske),Dodge,222.0,20708.0,running,0.0,76.0
+2009,6,Nashville,30.0,41.0,61.0,Brandon Whitt,Nationwide Insurance Dash 4 Cash (Charles Shoffner),Ford,222.0,20973.0,running,0.0,73.0
+2009,6,Nashville,31.0,39.0,89.0,Morgan Shepherd,Eldora Speedway / Lagina Plumbing (Morgan Shepherd),Chevrolet,221.0,20638.0,running,0.0,70.0
+2009,6,Nashville,32.0,22.0,1.0,"Danny O'Quinn, Jr.",Nationwide Dash4Cash / Cash-4-Gold.com Racing (Johnny Davis),Chevrolet,221.0,20593.0,running,0.0,67.0
+2009,6,Nashville,33.0,27.0,31.0,Tim Andrews,Zona Health (Rick Ware),Chevrolet,220.0,14060.0,running,0.0,64.0
+2009,6,Nashville,34.0,26.0,87.0,Joe Nemechek,Nationwide Insurance Dash 4 Cash / Finncastle (Joe Nemechek),Chevrolet,218.0,20508.0,crash,0.0,61.0
+2009,6,Nashville,35.0,40.0,42.0,Kenny Hendrick,Smith-Ganassi Racing (Eddie Smith),Dodge,194.0,20488.0,oil leak,0.0,58.0
+2009,6,Nashville,36.0,43.0,72.0,Benny Gordon,VSI / Samuel & Sons (Frank Varischetti),Ford,157.0,14000.0,handling,0.0,55.0
+2009,6,Nashville,37.0,30.0,23.0,Ken Butler III,"Aaron's Dream Machine (Robert Richardson, Sr.)",Chevrolet,145.0,20448.0,crash,0.0,52.0
+2009,6,Nashville,38.0,42.0,7.0,David Green,PMCLife.com / Nationwide Dash4Cash (Pete Szekeres),Toyota,144.0,20428.0,crash,0.0,49.0
+2009,6,Nashville,39.0,28.0,50.0,Jeremy Clements,1 Stop (Tony Clements),Chevrolet,132.0,13930.0,sway bar,0.0,46.0
+2009,6,Nashville,40.0,20.0,49.0,Kertus Davis,GetMoreVacations.com (Jay Robinson),Chevrolet,46.0,13850.0,brakes,0.0,43.0
+2009,6,Nashville,41.0,33.0,96.0,Brian Keselowski,Dusty's Collision (Dusty Whitney),Dodge,32.0,13825.0,handling,0.0,40.0
+2009,6,Nashville,42.0,11.0,91.0,Terry Cook,MSRP Motorsports (MSRP Motorsports),Chevrolet,20.0,13805.0,brakes,0.0,37.0
+2009,6,Nashville,43.0,25.0,90.0,Johnny Chapman,MSRP Motorsports (MSRP Motorsports),Chevrolet,15.0,13727.0,brakes,0.0,34.0
+2009,7,Phoenix,1.0,4.0,16.0,Greg Biffle,CitiFinancial (Jack Roush),Ford,203.0,71420.0,running,106.0,195.0
+2009,7,Phoenix,2.0,8.0,38.0,Jason Leffler,Great Clips (Todd Braun),Toyota,203.0,63543.0,running,0.0,170.0
+2009,7,Phoenix,3.0,7.0,88.0,Brad Keselowski,Delphi (JR Motorsports),Chevrolet,203.0,45393.0,running,0.0,165.0
+2009,7,Phoenix,4.0,2.0,20.0,Joey Logano,Sport Clips (Joe Gibbs),Toyota,203.0,33050.0,running,6.0,165.0
+2009,7,Phoenix,5.0,6.0,33.0,Kevin Harvick,Rheem Tankless Water Heaters (Kevin Harvick),Chevrolet,203.0,28000.0,running,0.0,155.0
+2009,7,Phoenix,6.0,12.0,6.0,David Ragan,Discount Tire (Jack Roush),Ford,203.0,24200.0,running,0.0,150.0
+2009,7,Phoenix,7.0,14.0,62.0,Brendan Gaughan,South Point Hotel & Casino (Rusty Wallace),Chevrolet,203.0,30428.0,running,0.0,146.0
+2009,7,Phoenix,8.0,42.0,12.0,Justin Allgaier,Verizon Wireless (Roger Penske),Dodge,203.0,27938.0,running,0.0,142.0
+2009,7,Phoenix,9.0,10.0,1.0,Mike Bliss,Miccosukee Resort & Gaming (James Finch),Chevrolet,203.0,26843.0,running,0.0,138.0
+2009,7,Phoenix,10.0,5.0,18.0,Kyle Busch,Z-Line Designs (Joe Gibbs),Toyota,203.0,20075.0,running,8.0,139.0
+2009,7,Phoenix,11.0,27.0,47.0,Michael McDowell,Pacific Packaging Group (JTG-Daugherty Racing),Toyota,203.0,25218.0,running,0.0,130.0
+2009,7,Phoenix,12.0,41.0,66.0,Steve Wallace,U.S. Fidelis (Rusty Wallace),Chevrolet,203.0,24518.0,running,0.0,127.0
+2009,7,Phoenix,13.0,16.0,32.0,Burney Lamar,Dollar General Stores (Todd Braun),Toyota,203.0,24343.0,running,0.0,124.0
+2009,7,Phoenix,14.0,3.0,98.0,Paul Menard,Richmond / Menards (Yates Racing),Ford,203.0,17100.0,running,0.0,121.0
+2009,7,Phoenix,15.0,23.0,10.0,Brian Scott,Great Clips (Todd Braun),Toyota,203.0,24368.0,running,0.0,118.0
+2009,7,Phoenix,16.0,29.0,15.0,Michael Annett,Pilot Travel Centers (Germain Racing),Toyota,203.0,23118.0,running,0.0,115.0
+2009,7,Phoenix,17.0,17.0,27.0,Jason Keller,Huggies / Kleenex (Mike Curb),Ford,203.0,22918.0,running,0.0,112.0
+2009,7,Phoenix,18.0,34.0,7.0,David Green,PMCLife.com (Pete Szekeres),Toyota,203.0,24818.0,running,0.0,109.0
+2009,7,Phoenix,19.0,15.0,40.0,Scott Wimmer,StopRepairBills.com (Curtis Key),Chevrolet,202.0,22543.0,running,0.0,106.0
+2009,7,Phoenix,20.0,11.0,29.0,Jeff Burton,Holiday Inn / Holiday Inn Express (Richard Childress),Chevrolet,201.0,16775.0,running,0.0,103.0
+2009,7,Phoenix,21.0,21.0,1.0,"Danny O'Quinn, Jr.",Cash4Gold.com / Racing 1-800-527-1801 (Johnny Davis),Chevrolet,201.0,22293.0,running,0.0,100.0
+2009,7,Phoenix,22.0,18.0,24.0,Eric McClure,Hefty (Ed Rensi),Ford,201.0,22168.0,running,0.0,97.0
+2009,7,Phoenix,23.0,30.0,81.0,D.J. Kennington,Northern Provincial Pipelines (Pat MacDonald),Dodge,201.0,22443.0,running,0.0,94.0
+2009,7,Phoenix,24.0,36.0,34.0,Tony Raines,Long John Silver's (Bob Jenkins),Chevrolet,200.0,21968.0,running,0.0,91.0
+2009,7,Phoenix,25.0,20.0,87.0,Joe Nemechek,NEMCO Motorsports (Joe Nemechek),Chevrolet,200.0,21993.0,running,0.0,88.0
+2009,7,Phoenix,26.0,38.0,61.0,Brandon Whitt,Specialty Racing (Charles Shoffner),Ford,200.0,21768.0,running,0.0,85.0
+2009,7,Phoenix,27.0,43.0,26.0,Brian Keselowski,Schweitzer Title (Dusty Whitney),Dodge,200.0,15200.0,running,0.0,82.0
+2009,7,Phoenix,28.0,40.0,23.0,Ken Butler III,"Aaron's (Robert Richardson, Sr.)",Chevrolet,199.0,21618.0,running,0.0,79.0
+2009,7,Phoenix,29.0,28.0,28.0,Kenny Wallace,U.S. Border Patrol (Jay Robinson),Chevrolet,194.0,21568.0,running,0.0,76.0
+2009,7,Phoenix,30.0,26.0,83.0,Johnny Borneman III,"Borneman Plastering/Twisted X/Red Line Oil (John Borneman, Jr.)",Ford,184.0,15350.0,running,0.0,73.0
+2009,7,Phoenix,31.0,24.0,5.0,Casey Atwood,31-W Insulation (Wayne Day),Ford,181.0,21463.0,crash,0.0,70.0
+2009,7,Phoenix,32.0,22.0,11.0,"Scott Lagasse, Jr.",America's Incredible Pizza Company (Bryan Mullet),Toyota,180.0,21403.0,crash,0.0,67.0
+2009,7,Phoenix,33.0,1.0,60.0,Carl Edwards,Aflac (Jack Roush),Ford,178.0,19000.0,running,79.0,69.0
+2009,7,Phoenix,34.0,35.0,2.0,Austin Dillon,RCR Thanks Chevrolet (Richard Childress),Chevrolet,173.0,14865.0,running,0.0,61.0
+2009,7,Phoenix,35.0,39.0,89.0,Morgan Shepherd,Eldora Speedway / Lagina Plumbing (Morgan Shepherd),Chevrolet,169.0,21303.0,running,0.0,58.0
+2009,7,Phoenix,36.0,32.0,9.0,John Wes Townley,Zaxby's (Robby Benton),Ford,163.0,21268.0,crash,0.0,55.0
+2009,7,Phoenix,37.0,25.0,31.0,Daryl Harr,Circle K Thirst Buster (Rick Ware),Chevrolet,142.0,14765.0,engine,0.0,52.0
+2009,7,Phoenix,38.0,33.0,0.0,Mark Green,Cash4Gold.com / Racing 1-800-527-1801 (Johnny Davis),Chevrolet,58.0,14710.0,brakes,0.0,49.0
+2009,7,Phoenix,39.0,19.0,49.0,Kertus Davis,GetMoreVacations.com (Jay Robinson),Chevrolet,46.0,14670.0,overheating,0.0,46.0
+2009,7,Phoenix,40.0,9.0,99.0,Michael Waltrip,Best Western (Michael Waltrip),Toyota,29.0,14620.0,crash,4.0,48.0
+2009,7,Phoenix,41.0,37.0,52.0,Kevin Hamlin,Best Western Tempe by the Mall (Jimmy Means),Chevrolet,21.0,14565.0,crash,0.0,40.0
+2009,7,Phoenix,42.0,13.0,91.0,Terry Cook,MSRP Motorsports (MSRP Motorsports),Chevrolet,7.0,14525.0,suspension,0.0,37.0
+2009,7,Phoenix,43.0,31.0,90.0,Dave Blaney,MSRP Motorsports (MSRP Motorsports),Chevrolet,4.0,14472.0,brakes,0.0,34.0
+2009,8,Talladega,1.0,14.0,6.0,David Ragan,Discount Tire (Jack Roush),Ford,120.0,51245.0,running,1.0,190.0
+2009,8,Talladega,2.0,1.0,33.0,Ryan Newman,Rheem (Kevin Harvick),Chevrolet,120.0,43025.0,running,21.0,175.0
+2009,8,Talladega,3.0,16.0,20.0,Joey Logano,GameStop (Joe Gibbs),Toyota,120.0,32200.0,running,1.0,170.0
+2009,8,Talladega,4.0,23.0,34.0,Tony Raines,Long John Silver's (Bob Jenkins),Chevrolet,120.0,37968.0,running,0.0,160.0
+2009,8,Talladega,5.0,12.0,5.0,"Dale Earnhardt, Jr.",GoDaddy.com (JR Motorsports),Chevrolet,120.0,25150.0,running,8.0,160.0
+2009,8,Talladega,6.0,4.0,38.0,Jason Leffler,Great Clips (Todd Braun),Toyota,120.0,31593.0,running,0.0,150.0
+2009,8,Talladega,7.0,21.0,27.0,Jason Keller,Scott Shop Towels / Walmart (Mike Curb),Ford,120.0,29193.0,running,0.0,146.0
+2009,8,Talladega,8.0,8.0,11.0,"Scott Lagasse, Jr.",America's Incredible Pizza Company (Bryan Mullet),Toyota,120.0,31643.0,running,4.0,147.0
+2009,8,Talladega,9.0,10.0,88.0,Brad Keselowski,Klondike (JR Motorsports),Chevrolet,120.0,27918.0,running,19.0,143.0
+2009,8,Talladega,10.0,9.0,18.0,Kyle Busch,Z-Line Designs (Joe Gibbs),Toyota,120.0,21975.0,running,31.0,144.0
+2009,8,Talladega,11.0,19.0,87.0,Joe Nemechek,Maui Shower Company (Joe Nemechek),Chevrolet,120.0,27768.0,running,0.0,130.0
+2009,8,Talladega,12.0,20.0,31.0,Kerry Earnhardt,FW1 / Fastwax.com (Rick Ware),Chevrolet,120.0,21075.0,running,0.0,127.0
+2009,8,Talladega,13.0,6.0,60.0,Carl Edwards,Save-A-lot (Jack Roush),Ford,120.0,21475.0,running,20.0,129.0
+2009,8,Talladega,14.0,17.0,26.0,Brian Keselowski,Schweitzer Title (Dusty Whitney),Dodge,120.0,27243.0,running,1.0,126.0
+2009,8,Talladega,15.0,41.0,47.0,Michael McDowell,Tom's Snacks (JTG-Daugherty Racing),Toyota,120.0,27868.0,running,0.0,118.0
+2009,8,Talladega,16.0,39.0,23.0,"Robert Richardson, Jr.","Mahindra Tractors (Robert Richardson, Sr.)",Chevrolet,120.0,27293.0,running,0.0,115.0
+2009,8,Talladega,17.0,30.0,28.0,Kenny Wallace,U.S. Border Patrol (Jay Robinson),Chevrolet,120.0,26868.0,running,0.0,112.0
+2009,8,Talladega,18.0,31.0,9.0,John Wes Townley,Zaxby's (Robby Benton),Ford,120.0,26718.0,running,0.0,109.0
+2009,8,Talladega,19.0,11.0,81.0,D.J. Kennington,D.H. Griffin Companies (Pat MacDonald),Dodge,120.0,26593.0,running,0.0,106.0
+2009,8,Talladega,20.0,2.0,32.0,Brian Vickers,Dollar General (Todd Braun),Toyota,120.0,21400.0,running,2.0,108.0
+2009,8,Talladega,21.0,22.0,15.0,Michael Annett,Pilot Travel Centers (Germain Racing),Toyota,120.0,26293.0,running,0.0,100.0
+2009,8,Talladega,22.0,27.0,49.0,Kertus Davis,GetMoreVacations.com (Jay Robinson),Chevrolet,120.0,19675.0,running,0.0,97.0
+2009,8,Talladega,23.0,34.0,89.0,Morgan Shepherd,Eldora Speedway / Lagina Plumbing (Morgan Shepherd),Chevrolet,120.0,28493.0,running,3.0,99.0
+2009,8,Talladega,24.0,37.0,7.0,David Green,PMCLife.com (Pete Szekeres),Toyota,120.0,26268.0,running,0.0,91.0
+2009,8,Talladega,25.0,36.0,24.0,Eric McClure,Hefty (Ed Rensi),Ford,120.0,25868.0,running,0.0,88.0
+2009,8,Talladega,26.0,32.0,83.0,Johnny Borneman III,"Borneman Plastering/Twisted X/Red Line Oil (John Borneman, Jr.)",Ford,120.0,19100.0,running,0.0,85.0
+2009,8,Talladega,27.0,26.0,70.0,Shelby Howard,Foretravel Motorcoach (Mary Louise Miller),Chevrolet,120.0,18975.0,running,0.0,82.0
+2009,8,Talladega,28.0,33.0,52.0,Donnie Neuenberger,Quaker City Castings (Jimmy Means),Chevrolet,119.0,25318.0,running,0.0,79.0
+2009,8,Talladega,29.0,24.0,10.0,David Reutimann,Copart.com (Todd Braun),Toyota,118.0,18725.0,running,0.0,76.0
+2009,8,Talladega,30.0,42.0,61.0,Brandon Whitt,Nationwide Insurance Dash 4 Cash (Charles Shoffner),Ford,118.0,25268.0,running,0.0,73.0
+2009,8,Talladega,31.0,7.0,29.0,Clint Bowyer,Holiday Inn / Holiday Inn Express (Richard Childress),Chevrolet,117.0,19450.0,running,2.0,75.0
+2009,8,Talladega,32.0,28.0,12.0,Justin Allgaier,Verizon Wireless (Roger Penske),Dodge,114.0,24843.0,crash,0.0,67.0
+2009,8,Talladega,33.0,5.0,75.0,Bobby Gerhart,Lucas Oil (Bob Schacht),Chevrolet,114.0,18560.0,crash,0.0,64.0
+2009,8,Talladega,34.0,35.0,66.0,Steve Wallace,U.S. Fidelis (Rusty Wallace),Chevrolet,109.0,24768.0,suspension,0.0,61.0
+2009,8,Talladega,35.0,3.0,16.0,Matt Kenseth,CitiFinancial (Jack Roush),Ford,104.0,18615.0,crash,4.0,63.0
+2009,8,Talladega,36.0,43.0,5.0,Jeff Green,31-W Insulation (Wayne Day),Chevrolet,104.0,24673.0,running,0.0,55.0
+2009,8,Talladega,37.0,38.0,1.0,"Danny O'Quinn, Jr.",SalonWish.com (Johnny Davis),Chevrolet,86.0,24638.0,engine,0.0,52.0
+2009,8,Talladega,38.0,18.0,62.0,Brendan Gaughan,5-Hour Energy Drink (Rusty Wallace),Chevrolet,73.0,24603.0,overheating,0.0,49.0
+2009,8,Talladega,39.0,25.0,0.0,Mike Wallace,Fishburne Military School (Johnny Davis),Chevrolet,58.0,18100.0,engine,1.0,51.0
+2009,8,Talladega,40.0,13.0,99.0,Michael Waltrip,Aaron's Dream Machine (Michael Waltrip),Toyota,52.0,18015.0,crash,2.0,48.0
+2009,8,Talladega,41.0,40.0,1.0,Mike Bliss,Miccosukee Resort & Gaming (James Finch),Chevrolet,41.0,24448.0,overheating,0.0,40.0
+2009,8,Talladega,42.0,15.0,42.0,Kenny Hendrick,Big Oak Ranch (Eddie Smith),Dodge,19.0,24413.0,overheating,0.0,37.0
+2009,8,Talladega,43.0,29.0,4.0,Mark Green,Randolph Trucking (Johnny Davis),Chevrolet,2.0,17873.0,vibration,0.0,34.0
+2009,9,Richmond,1.0,3.0,18.0,Kyle Busch,NOS Energy Drink (Joe Gibbs),Toyota,250.0,41970.0,running,115.0,195.0
+2009,9,Richmond,2.0,7.0,60.0,Carl Edwards,Scotts Miracle-Gro Moisture Control (Jack Roush),Ford,250.0,32000.0,running,71.0,175.0
+2009,9,Richmond,3.0,1.0,16.0,Matt Kenseth,CitiFinancial (Jack Roush),Ford,250.0,26875.0,running,2.0,170.0
+2009,9,Richmond,4.0,27.0,88.0,Brad Keselowski,Delphi (JR Motorsports),Chevrolet,250.0,26768.0,running,0.0,160.0
+2009,9,Richmond,5.0,8.0,33.0,Kevin Harvick,Rheem Tankless Water Heaters (Kevin Harvick),Chevrolet,250.0,20275.0,running,0.0,155.0
+2009,9,Richmond,6.0,4.0,20.0,Joey Logano,GameStop / Wii (Joe Gibbs),Toyota,250.0,18075.0,running,0.0,150.0
+2009,9,Richmond,7.0,5.0,5.0,Mark Martin,Lipton Tea (JR Motorsports),Chevrolet,250.0,17460.0,running,0.0,146.0
+2009,9,Richmond,8.0,22.0,47.0,Michael McDowell,Kroger / Tom's Snacks (JTG-Daugherty Racing),Toyota,250.0,27538.0,running,0.0,142.0
+2009,9,Richmond,9.0,17.0,27.0,Jason Keller,Huggies / Kotex / Kroger (Mike Curb),Ford,250.0,23343.0,running,0.0,138.0
+2009,9,Richmond,10.0,9.0,38.0,Jason Leffler,Great Clips (Todd Braun),Toyota,250.0,24293.0,running,0.0,134.0
+2009,9,Richmond,11.0,26.0,66.0,Steve Wallace,U.S. Fidelis (Rusty Wallace),Chevrolet,249.0,25018.0,running,0.0,130.0
+2009,9,Richmond,12.0,20.0,6.0,Erik Darnell,Northern Tool + Equipment (Jack Roush),Ford,249.0,22818.0,running,0.0,127.0
+2009,9,Richmond,13.0,13.0,70.0,Shelby Howard,Foretravel Motorcoach (Mary Louise Miller),Chevrolet,249.0,16650.0,running,0.0,124.0
+2009,9,Richmond,14.0,34.0,7.0,David Green,PMCLife.com (Pete Szekeres),Toyota,249.0,22668.0,running,0.0,121.0
+2009,9,Richmond,15.0,36.0,34.0,Tony Raines,Long John Silver's (Bob Jenkins),Chevrolet,249.0,23643.0,running,0.0,118.0
+2009,9,Richmond,16.0,6.0,40.0,Scott Wimmer,StopRepairBills.com (Curtis Key),Chevrolet,249.0,16050.0,running,0.0,115.0
+2009,9,Richmond,17.0,42.0,11.0,"Scott Lagasse, Jr.",America's Incredible Pizza Company (Bryan Mullet),Toyota,248.0,22343.0,running,0.0,112.0
+2009,9,Richmond,18.0,16.0,87.0,Joe Nemechek,NEMCO Motorsports (Joe Nemechek),Chevrolet,248.0,22243.0,running,0.0,109.0
+2009,9,Richmond,19.0,12.0,77.0,Peyton Sellers,SFP (William Spencer),Chevrolet,248.0,15700.0,running,0.0,106.0
+2009,9,Richmond,20.0,25.0,1.0,"Danny O'Quinn, Jr.",American Basketball Association (Johnny Davis),Chevrolet,248.0,22968.0,running,0.0,103.0
+2009,9,Richmond,21.0,38.0,26.0,Brian Keselowski,Schweitzer Title (Dusty Whitney),Dodge,248.0,22068.0,running,0.0,100.0
+2009,9,Richmond,22.0,31.0,73.0,Derrike Cope,FlipNBags.com (Derrike Cope),Dodge,248.0,15550.0,running,0.0,97.0
+2009,9,Richmond,23.0,28.0,28.0,Kenny Wallace,U.S. Border Patrol (Jay Robinson),Chevrolet,247.0,22343.0,running,0.0,94.0
+2009,9,Richmond,24.0,32.0,81.0,D.J. Kennington,D.H. Griffin Companies (Pat MacDonald),Dodge,247.0,21893.0,running,0.0,91.0
+2009,9,Richmond,25.0,19.0,5.0,Casey Atwood,31-W Insulation (Wayne Day),Chevrolet,247.0,15500.0,running,0.0,88.0
+2009,9,Richmond,26.0,11.0,62.0,Brendan Gaughan,Loanmax Title Loans (Rusty Wallace),Chevrolet,246.0,21768.0,running,0.0,85.0
+2009,9,Richmond,27.0,21.0,99.0,Scott Speed,Red Bull (Michael Waltrip),Toyota,246.0,21718.0,running,0.0,82.0
+2009,9,Richmond,28.0,24.0,32.0,Burney Lamar,Dollar General Stores (Todd Braun),Toyota,246.0,21668.0,running,0.0,79.0
+2009,9,Richmond,29.0,30.0,36.0,Marc Davis,Howard University Radio WHUR 96.3 (Marc Davis),Toyota,244.0,15150.0,running,0.0,76.0
+2009,9,Richmond,30.0,41.0,61.0,Brandon Whitt,Specialty Racing (Charles Shoffner),Ford,237.0,21868.0,running,0.0,73.0
+2009,9,Richmond,31.0,33.0,29.0,Jeff Burton,Holiday Inn / Holiday Inn Express (Richard Childress),Chevrolet,233.0,15045.0,crash,0.0,70.0
+2009,9,Richmond,32.0,10.0,10.0,Brian Scott,Great Clips (Todd Braun),Toyota,232.0,21453.0,crash,0.0,67.0
+2009,9,Richmond,33.0,2.0,1.0,Mike Bliss,Miccosukee Resort & Gaming (James Finch),Chevrolet,229.0,23918.0,running,62.0,69.0
+2009,9,Richmond,34.0,35.0,15.0,Michael Annett,Pilot Travel Centers (Germain Racing),Toyota,219.0,21308.0,running,0.0,61.0
+2009,9,Richmond,35.0,40.0,23.0,Ken Butler III,"Aaron's (Robert Richardson, Sr.)",Chevrolet,216.0,21278.0,crash,0.0,58.0
+2009,9,Richmond,36.0,37.0,89.0,Morgan Shepherd,Eldora Speedway / Lagina Plumbing (Morgan Shepherd),Chevrolet,200.0,21243.0,oil,0.0,55.0
+2009,9,Richmond,37.0,15.0,72.0,Benny Gordon,VSI / Samuel & Sons (Frank Varischetti),Ford,157.0,14715.0,rear end,0.0,52.0
+2009,9,Richmond,38.0,39.0,12.0,Justin Allgaier,Star Trek / Verizon Wireless (Roger Penske),Dodge,140.0,21128.0,running,0.0,49.0
+2009,9,Richmond,39.0,18.0,24.0,Eric McClure,Hefty / Kroger (Ed Rensi),Ford,82.0,21088.0,crash,0.0,46.0
+2009,9,Richmond,40.0,14.0,0.0,Mark Green,Cash4Gold.com / Racing 1-800-527-1801 (Johnny Davis),Chevrolet,30.0,14580.0,brakes,0.0,43.0
+2009,9,Richmond,41.0,29.0,91.0,Terry Cook,MSRP Motorsports (MSRP Motorsports),Chevrolet,24.0,14540.0,suspension,0.0,40.0
+2009,9,Richmond,42.0,23.0,49.0,Kertus Davis,GetMoreVacations.com (Jay Robinson),Chevrolet,22.0,14495.0,brakes,0.0,37.0
+2009,9,Richmond,43.0,43.0,90.0,Johnny Chapman,MSRP Motorsports (MSRP Motorsports),Chevrolet,12.0,14428.0,brakes,0.0,34.0
+2009,10,Darlington,1.0,6.0,16.0,Matt Kenseth,CitiFinancial (Jack Roush),Ford,153.0,44795.0,running,4.0,190.0
+2009,10,Darlington,2.0,7.0,38.0,Jason Leffler,Great Clips (Todd Braun),Toyota,153.0,38868.0,running,0.0,170.0
+2009,10,Darlington,3.0,3.0,60.0,Carl Edwards,Scotts Miracle-Gro LiquaFeed (Jack Roush),Ford,153.0,24400.0,running,5.0,170.0
+2009,10,Darlington,4.0,5.0,6.0,Erik Darnell,Northern Tool + Equipment (Jack Roush),Ford,153.0,27518.0,running,0.0,160.0
+2009,10,Darlington,5.0,16.0,12.0,Justin Allgaier,Verizon Wireless (Roger Penske),Dodge,153.0,24143.0,running,0.0,155.0
+2009,10,Darlington,6.0,2.0,33.0,Ryan Newman,Kevin Harvick Inc. (Kevin Harvick),Chevrolet,153.0,19375.0,running,0.0,150.0
+2009,10,Darlington,7.0,19.0,1.0,Mike Bliss,Miccosukee Resort & Gaming (James Finch),Chevrolet,153.0,25678.0,running,0.0,146.0
+2009,10,Darlington,8.0,9.0,29.0,Jeff Burton,Holiday Inn / Holiday Inn Express (Richard Childress),Chevrolet,153.0,16770.0,running,0.0,142.0
+2009,10,Darlington,9.0,31.0,5.0,Scott Wimmer,Fastenal (JR Motorsports),Chevrolet,153.0,22568.0,running,0.0,138.0
+2009,10,Darlington,10.0,10.0,32.0,Brian Vickers,Dollar General (Todd Braun),Toyota,153.0,16625.0,running,0.0,134.0
+2009,10,Darlington,11.0,8.0,88.0,Brad Keselowski,Delphi (JR Motorsports),Chevrolet,153.0,22143.0,running,0.0,130.0
+2009,10,Darlington,12.0,4.0,20.0,Joey Logano,GameStop (Joe Gibbs),Toyota,153.0,15600.0,running,0.0,127.0
+2009,10,Darlington,13.0,24.0,99.0,Scott Speed,Red Bull (Michael Waltrip),Toyota,153.0,22418.0,running,0.0,124.0
+2009,10,Darlington,14.0,14.0,66.0,Steve Wallace,U.S. Fidelis (Rusty Wallace),Chevrolet,153.0,21968.0,running,0.0,121.0
+2009,10,Darlington,15.0,11.0,27.0,Jason Keller,Rite-Aid / Kleenex (Mike Curb),Ford,153.0,22668.0,running,0.0,118.0
+2009,10,Darlington,16.0,1.0,18.0,Kyle Busch,Z-Line Designs (Joe Gibbs),Toyota,153.0,15325.0,running,143.0,125.0
+2009,10,Darlington,17.0,23.0,7.0,Patrick Carpentier,PMCLife.com (Pete Szekeres),Toyota,153.0,21743.0,running,0.0,112.0
+2009,10,Darlington,18.0,17.0,28.0,Kenny Wallace,U.S. Border Patrol (Jay Robinson),Chevrolet,153.0,21693.0,running,0.0,109.0
+2009,10,Darlington,19.0,15.0,62.0,Brendan Gaughan,5-Hour Energy Extra Strength (Rusty Wallace),Chevrolet,152.0,21643.0,running,0.0,106.0
+2009,10,Darlington,20.0,21.0,10.0,Brian Scott,Dollar General (Todd Braun),Toyota,152.0,22718.0,running,0.0,103.0
+2009,10,Darlington,21.0,18.0,34.0,Tony Raines,Long John Silver's (Bob Jenkins),Chevrolet,152.0,24018.0,running,1.0,105.0
+2009,10,Darlington,22.0,13.0,11.0,"Scott Lagasse, Jr.",America's Incredible Pizza Company (Bryan Mullet),Toyota,152.0,21468.0,running,0.0,97.0
+2009,10,Darlington,23.0,32.0,40.0,Jeff Green,StopRepairBills.com (Curtis Key),Chevrolet,151.0,14950.0,running,0.0,94.0
+2009,10,Darlington,24.0,29.0,26.0,Brian Keselowski,Schweitzer Title (Dusty Whitney),Dodge,151.0,21768.0,running,0.0,91.0
+2009,10,Darlington,25.0,30.0,61.0,Brandon Whitt,Specialty Racing (Charles Shoffner),Ford,150.0,21468.0,running,0.0,88.0
+2009,10,Darlington,26.0,25.0,81.0,Kevin Hamlin,D.H. Griffin Companies (Pat MacDonald),Dodge,150.0,21268.0,running,0.0,85.0
+2009,10,Darlington,27.0,28.0,1.0,"Danny O'Quinn, Jr.",MC2 Energy Drink / Black's Tire (Johnny Davis),Chevrolet,150.0,21218.0,running,0.0,82.0
+2009,10,Darlington,28.0,27.0,24.0,Eric McClure,Hefty (Ed Rensi),Ford,149.0,21168.0,running,0.0,79.0
+2009,10,Darlington,29.0,20.0,15.0,Michael Annett,Pilot Travel Centers (Germain Racing),Toyota,149.0,21133.0,running,0.0,76.0
+2009,10,Darlington,30.0,26.0,23.0,Jeff Fuller,"Mahindra Tractors (Robert Richardson, Sr.)",Chevrolet,148.0,21393.0,running,0.0,73.0
+2009,10,Darlington,31.0,33.0,89.0,Morgan Shepherd,Eldora Speedway / Lagina Plumbing (Morgan Shepherd),Chevrolet,148.0,21038.0,running,0.0,70.0
+2009,10,Darlington,32.0,22.0,87.0,Joe Nemechek,NEMCO Motorsports (Joe Nemechek),Chevrolet,142.0,20993.0,crash,0.0,67.0
+2009,10,Darlington,33.0,12.0,47.0,Michael McDowell,Tom's Snacks (JTG-Daugherty Racing),Toyota,140.0,20973.0,running,0.0,64.0
+2009,10,Darlington,34.0,35.0,9.0,John Wes Townley,Zaxby's (Robby Benton),Ford,117.0,14485.0,throttle,0.0,61.0
+2009,10,Darlington,35.0,37.0,52.0,Kevin Lepage,Means Racing (Jimmy Means),Ford,57.0,14440.0,crash,0.0,58.0
+2009,10,Darlington,36.0,36.0,42.0,Kenny Hendrick,BailOutForBarney.com / Smith Iron Works (Eddie Smith),Dodge,54.0,14420.0,crash,0.0,55.0
+2009,10,Darlington,37.0,43.0,84.0,Mike Harmon,"TEC Partners, LLC (Mike Harmon)",Chevrolet,36.0,14400.0,brakes,0.0,52.0
+2009,10,Darlington,38.0,38.0,31.0,Travis Kittleson,Bob Steele Chevrolet / Circle K Thirst Buster (Rick Ware),Chevrolet,19.0,14350.0,overheating,0.0,49.0
+2009,10,Darlington,39.0,40.0,0.0,Mark Green,SponsorDavis.com (Johnny Davis),Chevrolet,17.0,14315.0,brakes,0.0,46.0
+2009,10,Darlington,40.0,39.0,49.0,Kertus Davis,GetMoreVacations.com (Jay Robinson),Chevrolet,15.0,14290.0,ignition,0.0,43.0
+2009,10,Darlington,41.0,41.0,91.0,Terry Cook,MSRP Motorsports (MSRP Motorsports),Chevrolet,13.0,14265.0,vibration,0.0,40.0
+2009,10,Darlington,42.0,42.0,90.0,Johnny Chapman,MSRP Motorsports (MSRP Motorsports),Chevrolet,12.0,14240.0,ignition,0.0,37.0
+2009,10,Darlington,43.0,34.0,5.0,Casey Atwood,31-W Insulation (Wayne Day),Chevrolet,11.0,14203.0,transmission,0.0,34.0
+2009,11,Charlotte,1.0,10.0,1.0,Mike Bliss,Miccosukee Resort & Gaming (James Finch),Chevrolet,170.0,72438.0,running,21.0,190.0
+2009,11,Charlotte,2.0,15.0,62.0,Brendan Gaughan,5-Hour Energy Extra Strength (Rusty Wallace),Chevrolet,170.0,51243.0,running,4.0,175.0
+2009,11,Charlotte,3.0,2.0,18.0,Kyle Busch,NOS Energy Drink (Joe Gibbs),Toyota,170.0,38525.0,running,98.0,175.0
+2009,11,Charlotte,4.0,5.0,32.0,Brian Vickers,Dollar General (Todd Braun),Toyota,170.0,30575.0,running,6.0,165.0
+2009,11,Charlotte,5.0,12.0,20.0,Joey Logano,GameStop (Joe Gibbs),Toyota,170.0,26275.0,running,0.0,155.0
+2009,11,Charlotte,6.0,28.0,38.0,Jason Leffler,Great Clips (Todd Braun),Toyota,170.0,30468.0,running,1.0,155.0
+2009,11,Charlotte,7.0,4.0,6.0,David Ragan,Discount Tire (Jack Roush),Ford,170.0,22475.0,running,0.0,146.0
+2009,11,Charlotte,8.0,40.0,88.0,Brad Keselowski,GoDaddy.com (JR Motorsports),Chevrolet,170.0,27943.0,running,0.0,142.0
+2009,11,Charlotte,9.0,9.0,29.0,Jeff Burton,Holiday Inn / Holiday Inn Express (Richard Childress),Chevrolet,170.0,20700.0,running,0.0,138.0
+2009,11,Charlotte,10.0,1.0,60.0,Carl Edwards,Scotts Miracle-Gro Moisture Control (Jack Roush),Ford,170.0,29800.0,running,37.0,139.0
+2009,11,Charlotte,11.0,14.0,99.0,Scott Speed,Red Bull (Michael Waltrip),Toyota,170.0,19375.0,running,0.0,130.0
+2009,11,Charlotte,12.0,3.0,16.0,Greg Biffle,CitiFinancial (Jack Roush),Ford,170.0,18975.0,running,0.0,127.0
+2009,11,Charlotte,13.0,13.0,5.0,"Dale Earnhardt, Jr.",Klondike (JR Motorsports),Chevrolet,170.0,18650.0,running,0.0,124.0
+2009,11,Charlotte,14.0,38.0,12.0,Justin Allgaier,Verizon Wireless (Roger Penske),Dodge,169.0,24293.0,running,0.0,121.0
+2009,11,Charlotte,15.0,7.0,42.0,David Gilliland,nexusnews.org / Smith Iron Works (Eddie Smith),Dodge,169.0,25043.0,running,0.0,118.0
+2009,11,Charlotte,16.0,22.0,27.0,Jason Keller,Scott Products / Walmart (Mike Curb),Ford,169.0,23718.0,running,0.0,115.0
+2009,11,Charlotte,17.0,17.0,66.0,Steve Wallace,U.S. Fidelis (Rusty Wallace),Chevrolet,169.0,23493.0,running,0.0,112.0
+2009,11,Charlotte,18.0,27.0,28.0,Kenny Wallace,U.S. Border Patrol (Jay Robinson),Chevrolet,169.0,23268.0,running,3.0,114.0
+2009,11,Charlotte,19.0,29.0,24.0,Eric McClure,Hefty (Ed Rensi),Ford,169.0,23193.0,running,0.0,106.0
+2009,11,Charlotte,20.0,6.0,47.0,Michael McDowell,Tom's Snacks (JTG-Daugherty Racing),Toyota,169.0,23943.0,running,0.0,103.0
+2009,11,Charlotte,21.0,20.0,98.0,Paul Menard,Richmond / Menards (Yates Racing),Ford,169.0,16525.0,running,0.0,100.0
+2009,11,Charlotte,22.0,41.0,10.0,Burney Lamar,Dollar General (Todd Braun),Toyota,169.0,22943.0,running,0.0,97.0
+2009,11,Charlotte,23.0,8.0,33.0,Kevin Harvick,VFW (Kevin Harvick),Chevrolet,168.0,16875.0,running,0.0,94.0
+2009,11,Charlotte,24.0,30.0,1.0,"Danny O'Quinn, Jr.",Sun Drop (Johnny Davis),Chevrolet,168.0,22853.0,running,0.0,91.0
+2009,11,Charlotte,25.0,11.0,31.0,Stanton Barrett,Circle K Thirst Buster (Rick Ware),Chevrolet,168.0,22968.0,running,0.0,88.0
+2009,11,Charlotte,26.0,36.0,34.0,Tony Raines,Long John Silver's (Bob Jenkins),Chevrolet,168.0,22783.0,running,0.0,85.0
+2009,11,Charlotte,27.0,26.0,50.0,Jeremy Clements,1 Stop Convenience Store / Appling Boring (Tony Clements),Chevrolet,168.0,16280.0,running,0.0,82.0
+2009,11,Charlotte,28.0,25.0,40.0,Scott Wimmer,StopRepairBills.com (Curtis Key),Chevrolet,168.0,22713.0,running,0.0,79.0
+2009,11,Charlotte,29.0,32.0,61.0,Brandon Whitt,Ford Racing (Charles Shoffner),Ford,167.0,22668.0,running,0.0,76.0
+2009,11,Charlotte,30.0,39.0,26.0,Brian Keselowski,Schweitzer Title (Dusty Whitney),Dodge,167.0,22923.0,running,0.0,73.0
+2009,11,Charlotte,31.0,16.0,77.0,Peyton Sellers,SFP (William Spencer),Chevrolet,167.0,16120.0,running,0.0,70.0
+2009,11,Charlotte,32.0,23.0,11.0,"Scott Lagasse, Jr.",America's Incredible Pizza Company (Bryan Mullet),Toyota,166.0,22543.0,running,0.0,67.0
+2009,11,Charlotte,33.0,37.0,23.0,"Robert Richardson, Jr.","Mahindra Tractors (Robert Richardson, Sr.)",Chevrolet,166.0,22513.0,running,0.0,64.0
+2009,11,Charlotte,34.0,43.0,73.0,Derrike Cope,FlipNBags.com (Derrike Cope),Dodge,164.0,16015.0,running,0.0,61.0
+2009,11,Charlotte,35.0,21.0,81.0,Kevin Hamlin,D.H. Griffin Companies / Go 'Canes (Pat MacDonald),Dodge,147.0,22463.0,crash,0.0,58.0
+2009,11,Charlotte,36.0,35.0,87.0,Joe Nemechek,LubePro's.com (Joe Nemechek),Chevrolet,147.0,22443.0,engine,0.0,55.0
+2009,11,Charlotte,37.0,31.0,19.0,J.C. Stout,Stellar-Quest Racing Team (Donald Stout),Chevrolet,143.0,15950.0,running,0.0,52.0
+2009,11,Charlotte,38.0,33.0,96.0,Dennis Setzer,Dusty's Collision (Dusty Whitney),Dodge,28.0,15930.0,vibration,0.0,49.0
+2009,11,Charlotte,39.0,24.0,15.0,Michael Annett,Pilot Travel Centers (Germain Racing),Toyota,22.0,22378.0,crash,0.0,46.0
+2009,11,Charlotte,40.0,18.0,91.0,Terry Cook,MSRP Motorsports (MSRP Motorsports),Chevrolet,14.0,15840.0,overheating,0.0,43.0
+2009,11,Charlotte,41.0,19.0,0.0,Mark Green,Lowery Plumbing (Johnny Davis),Chevrolet,11.0,22283.0,electrical,0.0,40.0
+2009,11,Charlotte,42.0,34.0,90.0,Johnny Chapman,MSRP Motorsports (MSRP Motorsports),Chevrolet,10.0,15790.0,handling,0.0,37.0
+2009,11,Charlotte,43.0,42.0,7.0,Donny Lia,SK Motorsports (Pete Szekeres),Toyota,1.0,22196.0,ignition,0.0,34.0
+2009,12,Dover,1.0,12.0,88.0,Brad Keselowski,GoDaddy.com (JR Motorsports),Chevrolet,200.0,44388.0,running,2.0,190.0
+2009,12,Dover,2.0,1.0,20.0,Joey Logano,GameStop (Joe Gibbs),Toyota,200.0,38300.0,running,87.0,175.0
+2009,12,Dover,3.0,17.0,29.0,Clint Bowyer,Holiday Inn / Holiday Inn Express (Richard Childress),Chevrolet,200.0,28025.0,running,0.0,165.0
+2009,12,Dover,4.0,7.0,32.0,Brian Vickers,Dollar General Stores (Todd Braun),Toyota,200.0,23100.0,running,0.0,160.0
+2009,12,Dover,5.0,8.0,60.0,Carl Edwards,Scotts / Ortho (Jack Roush),Ford,200.0,20275.0,running,0.0,155.0
+2009,12,Dover,6.0,10.0,98.0,Paul Menard,Richmond / Menards (Yates Racing),Ford,200.0,18675.0,running,0.0,150.0
+2009,12,Dover,7.0,4.0,99.0,Scott Speed,Red Bull (Michael Waltrip),Toyota,200.0,18285.0,running,0.0,146.0
+2009,12,Dover,8.0,23.0,38.0,Jason Leffler,Great Clips (Todd Braun),Toyota,200.0,26113.0,running,0.0,142.0
+2009,12,Dover,9.0,13.0,27.0,Jason Keller,A&P / MDA (Mike Curb),Ford,200.0,23768.0,running,0.0,138.0
+2009,12,Dover,10.0,21.0,12.0,Justin Allgaier,Verizon Wireless (Roger Penske),Dodge,200.0,24418.0,running,0.0,134.0
+2009,12,Dover,11.0,29.0,47.0,Michael McDowell,ConstructionJobs.com (JTG-Daugherty Racing),Toyota,200.0,23893.0,running,0.0,130.0
+2009,12,Dover,12.0,9.0,62.0,Brendan Gaughan,U.S. Fidelis (Rusty Wallace),Chevrolet,200.0,23018.0,running,0.0,127.0
+2009,12,Dover,13.0,5.0,33.0,Kevin Harvick,Copart.com (Kevin Harvick),Chevrolet,200.0,16850.0,running,0.0,124.0
+2009,12,Dover,14.0,16.0,1.0,Mike Bliss,Miccosukee Championship (James Finch),Chevrolet,200.0,22793.0,running,0.0,121.0
+2009,12,Dover,15.0,30.0,81.0,"Bobby Hamilton, Jr.",AA Auto Warranty (Pat MacDonald),Dodge,200.0,23468.0,running,0.0,118.0
+2009,12,Dover,16.0,39.0,26.0,Brian Keselowski,Go Wings (Dusty Whitney),Dodge,200.0,22943.0,running,0.0,115.0
+2009,12,Dover,17.0,3.0,18.0,Kyle Busch,Food Lion - Feeding America (Joe Gibbs),Toyota,200.0,16100.0,running,108.0,122.0
+2009,12,Dover,18.0,14.0,40.0,Scott Wimmer,StopRepairBills.com (Curtis Key),Chevrolet,199.0,22518.0,running,0.0,109.0
+2009,12,Dover,19.0,40.0,15.0,Michael Annett,Germain.com (Germain Racing),Toyota,198.0,24568.0,running,1.0,111.0
+2009,12,Dover,20.0,31.0,61.0,Brandon Whitt,Specialty Racing (Charles Shoffner),Ford,198.0,23268.0,running,0.0,103.0
+2009,12,Dover,21.0,38.0,1.0,"Danny O'Quinn, Jr.",Arthritis Foundation Delaware (Johnny Davis),Chevrolet,196.0,22368.0,running,0.0,100.0
+2009,12,Dover,22.0,34.0,89.0,Morgan Shepherd,Prelude To The Dream / Lagina Plumbing (Morgan Shepherd),Chevrolet,196.0,22268.0,running,0.0,97.0
+2009,12,Dover,23.0,18.0,24.0,Eric McClure,Hefty (Ed Rensi),Ford,196.0,22593.0,running,0.0,94.0
+2009,12,Dover,24.0,41.0,87.0,Kevin Conway,Extenze (Joe Nemechek),Toyota,194.0,22143.0,running,0.0,91.0
+2009,12,Dover,25.0,11.0,16.0,Greg Biffle,CitiFinancial (Jack Roush),Ford,191.0,15775.0,running,0.0,88.0
+2009,12,Dover,26.0,42.0,7.0,Mike Harmon,Harrington Raceway & Casino (Pete Szekeres),Chevrolet,175.0,22043.0,too slow,0.0,85.0
+2009,12,Dover,27.0,33.0,11.0,"Scott Lagasse, Jr.",America's Incredible Pizza Company (Bryan Mullet),Toyota,158.0,21993.0,crash,0.0,82.0
+2009,12,Dover,28.0,37.0,34.0,Tony Raines,Continental Fire & Safety/Long John Silver's (Bob Jenkins),Chevrolet,151.0,21943.0,running,0.0,79.0
+2009,12,Dover,29.0,20.0,66.0,Steve Wallace,5-Hour Energy Drink (Rusty Wallace),Chevrolet,145.0,21868.0,crash,0.0,76.0
+2009,12,Dover,30.0,2.0,6.0,David Ragan,Discount Tire (Jack Roush),Ford,143.0,15650.0,crash,0.0,73.0
+2009,12,Dover,31.0,25.0,77.0,Peyton Sellers,SFP (William Spencer),Chevrolet,128.0,15295.0,running,0.0,70.0
+2009,12,Dover,32.0,6.0,5.0,Ryan Newman,Fastenal (JR Motorsports),Chevrolet,126.0,15235.0,crash,0.0,67.0
+2009,12,Dover,33.0,28.0,28.0,Kenny Wallace,U.S. Border Patrol (Jay Robinson),Chevrolet,97.0,24143.0,engine,2.0,69.0
+2009,12,Dover,34.0,22.0,10.0,Marc Davis,The Word Network / WHUR Radio (Todd Braun),Toyota,83.0,21608.0,crash,0.0,61.0
+2009,12,Dover,35.0,35.0,52.0,Kevin Lepage,Means Racing (Jimmy Means),Chevrolet,65.0,15110.0,crash,0.0,58.0
+2009,12,Dover,36.0,43.0,49.0,Kertus Davis,GetMoreVacations.com (Jay Robinson),Chevrolet,43.0,15085.0,overheating,0.0,55.0
+2009,12,Dover,37.0,36.0,23.0,Ken Butler III,"Aaron's (Robert Richardson, Sr.)",Chevrolet,26.0,21533.0,crash,0.0,52.0
+2009,12,Dover,38.0,27.0,9.0,John Wes Townley,Zaxby's (Robby Benton),Ford,26.0,21468.0,crash,0.0,49.0
+2009,12,Dover,39.0,19.0,0.0,Mark Green,SponsorDavis.com (Johnny Davis),Chevrolet,14.0,14975.0,overheating,0.0,46.0
+2009,12,Dover,40.0,26.0,90.0,Johnny Chapman,MSRP Motorsports (MSRP Motorsports),Chevrolet,13.0,14920.0,vibration,0.0,43.0
+2009,12,Dover,41.0,15.0,91.0,Terry Cook,MSRP Motorsports (MSRP Motorsports),Chevrolet,11.0,14895.0,overheating,0.0,40.0
+2009,12,Dover,42.0,24.0,96.0,Dennis Setzer,ConleyAuto.com (Dusty Whitney),Dodge,8.0,14860.0,vibration,0.0,37.0
+2009,12,Dover,43.0,32.0,5.0,Casey Atwood,31-W Insulation (Wayne Day),Chevrolet,8.0,21272.0,transmission,0.0,34.0
+2009,13,Nashville,1.0,1.0,18.0,Kyle Busch,NOS Energy Drink (Joe Gibbs),Toyota,225.0,52220.0,running,173.0,195.0
+2009,13,Nashville,2.0,10.0,88.0,Brad Keselowski,Hellmann's (JR Motorsports),Chevrolet,225.0,40868.0,running,10.0,175.0
+2009,13,Nashville,3.0,6.0,60.0,Carl Edwards,Scotts / Ortho (Jack Roush),Ford,225.0,32250.0,running,1.0,170.0
+2009,13,Nashville,4.0,8.0,1.0,Mike Bliss,Miccosukee Resort & Gaming (James Finch),Chevrolet,225.0,35318.0,running,6.0,165.0
+2009,13,Nashville,5.0,12.0,38.0,Jason Leffler,Great Clips (Todd Braun),Toyota,225.0,29318.0,running,26.0,160.0
+2009,13,Nashville,6.0,9.0,29.0,Stephen Leicht,Holiday Inn / Holiday Inn Express (Richard Childress),Chevrolet,225.0,26818.0,running,0.0,150.0
+2009,13,Nashville,7.0,16.0,66.0,Steve Wallace,5-Hour Energy Drink (Rusty Wallace),Chevrolet,224.0,27318.0,running,0.0,146.0
+2009,13,Nashville,8.0,3.0,47.0,Michael McDowell,ConstructionJobs.com (JTG-Daugherty Racing),Toyota,224.0,24493.0,running,1.0,147.0
+2009,13,Nashville,9.0,27.0,6.0,Erik Darnell,Northern Tool + Equipment (Jack Roush),Ford,224.0,25218.0,running,1.0,143.0
+2009,13,Nashville,10.0,4.0,20.0,Brad Coleman,Rudy's.com (Joe Gibbs),Toyota,224.0,24643.0,running,0.0,134.0
+2009,13,Nashville,11.0,5.0,11.0,"Scott Lagasse, Jr.",America's Incredible Pizza Company (Bryan Mullet),Toyota,223.0,23968.0,running,0.0,130.0
+2009,13,Nashville,12.0,35.0,70.0,Shelby Howard,Foretravel Motorcoach (Mary Louise Miller),Chevrolet,223.0,17325.0,running,0.0,127.0
+2009,13,Nashville,13.0,24.0,12.0,Justin Allgaier,Verizon Wireless (Roger Penske),Dodge,223.0,23693.0,running,0.0,124.0
+2009,13,Nashville,14.0,21.0,81.0,"Bobby Hamilton, Jr.",D.H. Griffin Companies / NPP (Pat MacDonald),Dodge,223.0,24018.0,running,0.0,121.0
+2009,13,Nashville,15.0,22.0,32.0,Burney Lamar,Dollar General (Todd Braun),Toyota,222.0,24593.0,running,0.0,118.0
+2009,13,Nashville,16.0,28.0,28.0,Kenny Wallace,U.S. Border Patrol (Jay Robinson),Chevrolet,221.0,25968.0,running,7.0,120.0
+2009,13,Nashville,17.0,43.0,89.0,Morgan Shepherd,Eldora Speedway / Lagina Plumbing (Morgan Shepherd),Chevrolet,221.0,16900.0,running,0.0,112.0
+2009,13,Nashville,18.0,42.0,1.0,"Danny O'Quinn, Jr.",Sun Drop (Johnny Davis),Chevrolet,219.0,16800.0,running,0.0,109.0
+2009,13,Nashville,19.0,40.0,34.0,Tony Raines,Long John Silver's (Bob Jenkins),Chevrolet,219.0,23193.0,running,0.0,106.0
+2009,13,Nashville,20.0,37.0,61.0,Brandon Whitt,Ford Racing (Charles Shoffner),Ford,218.0,17525.0,running,0.0,103.0
+2009,13,Nashville,21.0,29.0,23.0,"Robert Richardson, Jr.","Mahindra Tractors (Robert Richardson, Sr.)",Chevrolet,218.0,16600.0,running,0.0,100.0
+2009,13,Nashville,22.0,30.0,24.0,Eric McClure,Hefty (Ed Rensi),Ford,218.0,23028.0,running,0.0,97.0
+2009,13,Nashville,23.0,18.0,87.0,Kevin Conway,Extenze (Joe Nemechek),Toyota,213.0,23393.0,running,0.0,94.0
+2009,13,Nashville,24.0,7.0,62.0,Brendan Gaughan,U.S. Fidelis (Rusty Wallace),Chevrolet,211.0,22958.0,running,0.0,91.0
+2009,13,Nashville,25.0,38.0,10.0,Marc Davis,The Word Network / WHUR Radio (Todd Braun),Toyota,182.0,23063.0,electrical,0.0,88.0
+2009,13,Nashville,26.0,11.0,27.0,Jason Keller,State Water Heaters (Mike Curb),Ford,170.0,22878.0,running,0.0,85.0
+2009,13,Nashville,27.0,31.0,15.0,Michael Annett,Pilot Travel Centers / Hype Energy Drink (Germain Racing),Toyota,143.0,22843.0,running,0.0,82.0
+2009,13,Nashville,28.0,2.0,99.0,Trevor Bayne,Aaron's Dream Machine (Michael Waltrip),Toyota,128.0,22808.0,crash,0.0,79.0
+2009,13,Nashville,29.0,13.0,2.0,Sean Caisse,Richard Childress Racing (Richard Childress),Chevrolet,127.0,16305.0,crash,0.0,0.0
+2009,13,Nashville,30.0,25.0,26.0,Brian Keselowski,Go Wings (Dusty Whitney),Dodge,127.0,23008.0,crash,0.0,73.0
+2009,13,Nashville,31.0,15.0,33.0,Cale Gale,Rheem.com (Kevin Harvick),Chevrolet,123.0,22668.0,crash,0.0,70.0
+2009,13,Nashville,32.0,19.0,16.0,Ricky Stenhouse Jr,CitiFinancial (Jack Roush),Ford,123.0,22633.0,crash,0.0,67.0
+2009,13,Nashville,33.0,33.0,40.0,Scott Wimmer,Federated Auto Parts (Curtis Key),Chevrolet,79.0,16140.0,wheel,0.0,64.0
+2009,13,Nashville,34.0,39.0,52.0,Kevin Lepage,Hilton Garden Inn Nashville (Jimmy Means),Chevrolet,64.0,16120.0,engine,0.0,61.0
+2009,13,Nashville,35.0,26.0,49.0,Kertus Davis,GetMoreVacations.com (Jay Robinson),Chevrolet,30.0,16100.0,vibration,0.0,58.0
+2009,13,Nashville,36.0,17.0,96.0,Willie Allen,ConelyAuto.com (Dusty Whitney),Dodge,16.0,16080.0,vibration,0.0,55.0
+2009,13,Nashville,37.0,32.0,91.0,Kelly Bires,MSRP Motorsports (MSRP Motorsports),Chevrolet,9.0,16060.0,brakes,0.0,52.0
+2009,13,Nashville,38.0,23.0,90.0,Johnny Chapman,MSRP Motorsports (MSRP Motorsports),Chevrolet,8.0,16040.0,vibration,0.0,49.0
+2009,13,Nashville,39.0,41.0,7.0,Mike Harmon,CBR Championship Bull Riding (Pete Szekeres),Chevrolet,4.0,22463.0,crash,0.0,46.0
+2009,13,Nashville,40.0,34.0,5.0,Casey Atwood,Western KY University / 31-W Insulation (Wayne Day),Chevrolet,4.0,15925.0,crash,0.0,43.0
+2009,13,Nashville,41.0,36.0,85.0,Brad Baker,31-W Insulation (Wayne Day),Ford,4.0,15880.0,crash,0.0,40.0
+2009,13,Nashville,42.0,14.0,9.0,John Wes Townley,Zaxby's (Robby Benton),Ford,2.0,15860.0,crash,0.0,37.0
+2009,13,Nashville,43.0,20.0,0.0,Mark Green,SponsorDavis.com (Johnny Davis),Chevrolet,1.0,15776.0,vibration,0.0,34.0
+2009,14,Kentucky,1.0,1.0,20.0,Joey Logano,GameStop (Joe Gibbs),Toyota,200.0,91495.0,running,20.0,190.0
+2009,14,Kentucky,2.0,2.0,18.0,Kyle Busch,NOS Energy Drink (Joe Gibbs),Toyota,200.0,61050.0,running,162.0,180.0
+2009,14,Kentucky,3.0,9.0,88.0,Brad Keselowski,GoDaddy.com (JR Motorsports),Chevrolet,200.0,49993.0,running,0.0,165.0
+2009,14,Kentucky,4.0,6.0,62.0,Brendan Gaughan,5-Hour Energy Drink (Rusty Wallace),Chevrolet,200.0,45668.0,running,6.0,165.0
+2009,14,Kentucky,5.0,3.0,12.0,Justin Allgaier,Verizon Wireless (Roger Penske),Dodge,200.0,35718.0,running,5.0,160.0
+2009,14,Kentucky,6.0,11.0,38.0,Jason Leffler,Great Clips (Todd Braun),Toyota,200.0,35943.0,running,0.0,150.0
+2009,14,Kentucky,7.0,4.0,15.0,Michael Annett,Pilot Travel Centers (Germain Racing),Toyota,200.0,33318.0,running,0.0,146.0
+2009,14,Kentucky,8.0,18.0,32.0,Burney Lamar,Dollar General Stores (Todd Braun),Toyota,200.0,31293.0,running,0.0,142.0
+2009,14,Kentucky,9.0,7.0,16.0,Ricky Stenhouse Jr,CitiFinancial (Jack Roush),Ford,200.0,29868.0,running,0.0,138.0
+2009,14,Kentucky,10.0,42.0,33.0,Kelly Bires,Copart (Kevin Harvick),Chevrolet,200.0,30093.0,running,0.0,134.0
+2009,14,Kentucky,11.0,5.0,6.0,Erik Darnell,Northern Tool + Equipment (Jack Roush),Ford,199.0,28818.0,running,0.0,130.0
+2009,14,Kentucky,12.0,8.0,99.0,Trevor Bayne,Michael Waltrip Racing (Michael Waltrip),Toyota,199.0,28293.0,running,0.0,127.0
+2009,14,Kentucky,13.0,15.0,11.0,"Scott Lagasse, Jr.",America's Incredible Pizza Company (Bryan Mullet),Toyota,199.0,28143.0,running,0.0,124.0
+2009,14,Kentucky,14.0,13.0,66.0,Steve Wallace,U.S. Fidelis (Rusty Wallace),Chevrolet,199.0,27243.0,running,0.0,121.0
+2009,14,Kentucky,15.0,27.0,87.0,Kevin Conway,Extenze (Joe Nemechek),Toyota,199.0,28068.0,running,0.0,118.0
+2009,14,Kentucky,16.0,30.0,40.0,Scott Wimmer,Westerman Companies (Curtis Key),Chevrolet,198.0,20325.0,running,1.0,120.0
+2009,14,Kentucky,17.0,36.0,23.0,Ken Butler III,"Aaron's (Robert Richardson, Sr.)",Chevrolet,198.0,20200.0,running,0.0,112.0
+2009,14,Kentucky,18.0,33.0,1.0,"Danny O'Quinn, Jr.",Sun Drop (Johnny Davis),Chevrolet,198.0,26518.0,running,0.0,109.0
+2009,14,Kentucky,19.0,22.0,0.0,Mark Green,American Patriot Getaways (Johnny Davis),Chevrolet,197.0,22025.0,running,0.0,106.0
+2009,14,Kentucky,20.0,10.0,60.0,Carl Edwards,Save-A-Lot (Jack Roush),Ford,197.0,21650.0,running,4.0,108.0
+2009,14,Kentucky,21.0,38.0,34.0,Tony Raines,Long John Silver's (Bob Jenkins),Chevrolet,197.0,26143.0,running,0.0,100.0
+2009,14,Kentucky,22.0,28.0,73.0,Derrike Cope,FlipNBags.com (Derrike Cope),Dodge,197.0,19550.0,running,0.0,97.0
+2009,14,Kentucky,23.0,16.0,27.0,Jason Keller,Cottonelle / Huggies / Meijer (Mike Curb),Ford,196.0,26268.0,running,0.0,94.0
+2009,14,Kentucky,24.0,25.0,61.0,Brandon Whitt,Specialty Racing (Charles Shoffner),Ford,196.0,25718.0,running,0.0,91.0
+2009,14,Kentucky,25.0,29.0,89.0,Morgan Shepherd,Lagina Plumbing / Eldora Speedway / Viox Svc. (Morgan Shepherd),Chevrolet,195.0,19275.0,running,0.0,88.0
+2009,14,Kentucky,26.0,24.0,70.0,Shelby Howard,Foretravel Motorcoach (Mary Louise Miller),Chevrolet,195.0,19005.0,running,0.0,85.0
+2009,14,Kentucky,27.0,17.0,81.0,"Bobby Hamilton, Jr.",CreationMuseum.org (Pat MacDonald),Dodge,192.0,25343.0,electrical,0.0,82.0
+2009,14,Kentucky,28.0,21.0,1.0,Mike Bliss,Miccosukee Resort & Gaming (James Finch),Chevrolet,182.0,25223.0,crash,0.0,79.0
+2009,14,Kentucky,29.0,23.0,47.0,Michael McDowell,Tom's Snacks (JTG-Daugherty Racing),Toyota,168.0,25088.0,handling,0.0,76.0
+2009,14,Kentucky,30.0,37.0,24.0,Eric McClure,Hefty (Ed Rensi),Ford,154.0,25278.0,running,0.0,73.0
+2009,14,Kentucky,31.0,12.0,29.0,Stephen Leicht,Holiday Inn / Holiday Inn Express (Richard Childress),Chevrolet,137.0,24868.0,overheating,0.0,70.0
+2009,14,Kentucky,32.0,14.0,9.0,John Wes Townley,Zaxby's (Robby Benton),Ford,83.0,18290.0,crash,0.0,67.0
+2009,14,Kentucky,33.0,40.0,7.0,Mike Harmon,Travelbug.com / Harrington Raceway & Casino (Pete Szekeres),Chevrolet,77.0,24648.0,handling,0.0,64.0
+2009,14,Kentucky,34.0,32.0,42.0,Kenny Hendrick,Smith Iron Works / Little Red Wagon (Eddie Smith),Dodge,75.0,18070.0,crash,0.0,61.0
+2009,14,Kentucky,35.0,41.0,26.0,Brian Keselowski,Nationwide Insurance Dash 4 Cash (Dusty Whitney),Dodge,38.0,17960.0,brakes,0.0,58.0
+2009,14,Kentucky,36.0,19.0,49.0,Kevin Hamlin,GetMoreVacations.com (Jay Robinson),Chevrolet,35.0,17925.0,electrical,2.0,60.0
+2009,14,Kentucky,37.0,20.0,28.0,Kenny Wallace,U.S. Border Patrol (Jay Robinson),Chevrolet,19.0,24353.0,engine,0.0,52.0
+2009,14,Kentucky,38.0,26.0,58.0,Chris Horn,Horn Auto Racing (Fred Horn),Chevrolet,17.0,17830.0,oil pump,0.0,49.0
+2009,14,Kentucky,39.0,31.0,90.0,Johnny Chapman,MSRP Motorsports (MSRP Motorsports),Chevrolet,6.0,17795.0,overheating,0.0,46.0
+2009,14,Kentucky,40.0,34.0,5.0,Brad Baker,31-W Insulation (Wayne Day),Ford,2.0,17735.0,handling,0.0,43.0
+2009,14,Kentucky,41.0,43.0,41.0,Justin Hobgood,Circle K Thirst Buster (Rick Ware),Chevrolet,2.0,17675.0,overheating,0.0,40.0
+2009,14,Kentucky,42.0,39.0,10.0,Chad Blount,Braun Racing (Todd Braun),Toyota,1.0,24108.0,brakes,0.0,37.0
+2009,14,Kentucky,43.0,35.0,79.0,Stanton Barrett,Circle K Thirst Buster (Rick Ware),Chevrolet,1.0,17583.0,engine,0.0,0.0
+2009,15,Milwaukee,1.0,11.0,60.0,Carl Edwards,Save-A-lot (Jack Roush),Ford,250.0,47420.0,running,46.0,190.0
+2009,15,Milwaukee,2.0,10.0,18.0,Kyle Busch,Combos (Joe Gibbs),Toyota,250.0,36700.0,running,80.0,180.0
+2009,15,Milwaukee,3.0,5.0,88.0,Brad Keselowski,GoDaddy.com (JR Motorsports),Chevrolet,250.0,32468.0,running,23.0,170.0
+2009,15,Milwaukee,4.0,1.0,6.0,Erik Darnell,Northern Tool + Equipment (Jack Roush),Ford,250.0,34918.0,running,19.0,165.0
+2009,15,Milwaukee,5.0,4.0,16.0,Ricky Stenhouse Jr,CitiFinancial (Jack Roush),Ford,250.0,26518.0,running,46.0,160.0
+2009,15,Milwaukee,6.0,28.0,66.0,Steve Wallace,U.S. Fidelis (Rusty Wallace),Chevrolet,250.0,27818.0,running,0.0,150.0
+2009,15,Milwaukee,7.0,18.0,1.0,Mike Bliss,Miccosukee Resort & Gaming (James Finch),Chevrolet,250.0,26318.0,running,0.0,146.0
+2009,15,Milwaukee,8.0,6.0,29.0,Stephen Leicht,Holiday Inn / Holiday Inn Express (Richard Childress),Chevrolet,250.0,27418.0,running,1.0,147.0
+2009,15,Milwaukee,9.0,13.0,33.0,"Ron Hornaday, Jr.",Jimmy John's Gourmet Sandwiches (Kevin Harvick),Chevrolet,250.0,24493.0,running,0.0,138.0
+2009,15,Milwaukee,10.0,8.0,38.0,Jason Leffler,Great Clips (Todd Braun),Toyota,250.0,25118.0,running,0.0,134.0
+2009,15,Milwaukee,11.0,20.0,40.0,Aric Almirola,StopRepairBills.com (Curtis Key),Chevrolet,250.0,17775.0,running,0.0,130.0
+2009,15,Milwaukee,12.0,9.0,99.0,Trevor Bayne,Michael Waltrip Racing (Michael Waltrip),Toyota,249.0,24118.0,running,0.0,127.0
+2009,15,Milwaukee,13.0,3.0,62.0,Brendan Gaughan,5-Hour Energy Extra Strength (Rusty Wallace),Chevrolet,249.0,24918.0,running,0.0,124.0
+2009,15,Milwaukee,14.0,19.0,47.0,Michael McDowell,www.constructionjobs.com (JTG-Daugherty Racing),Toyota,249.0,23868.0,running,0.0,121.0
+2009,15,Milwaukee,15.0,24.0,77.0,Peyton Sellers,SFP (William Spencer),Chevrolet,249.0,18025.0,running,0.0,118.0
+2009,15,Milwaukee,16.0,16.0,11.0,"Scott Lagasse, Jr.",America's Incredible Pizza Company (Bryan Mullet),Toyota,249.0,23918.0,running,0.0,115.0
+2009,15,Milwaukee,17.0,21.0,12.0,Justin Allgaier,Verizon Wireless (Roger Penske),Dodge,249.0,23493.0,running,0.0,112.0
+2009,15,Milwaukee,18.0,7.0,5.0,Scott Wimmer,Fastenal (JR Motorsports),Chevrolet,249.0,16875.0,running,0.0,109.0
+2009,15,Milwaukee,19.0,15.0,81.0,"Bobby Hamilton, Jr.",D.H. Griffin Companies (Pat MacDonald),Dodge,249.0,23218.0,running,0.0,106.0
+2009,15,Milwaukee,20.0,27.0,27.0,Jason Keller,Scott Tissue / Pick 'n Save (Mike Curb),Ford,248.0,23943.0,running,0.0,103.0
+2009,15,Milwaukee,21.0,42.0,34.0,Tony Raines,Long John Silver's (Bob Jenkins),Chevrolet,248.0,22968.0,running,0.0,100.0
+2009,15,Milwaukee,22.0,26.0,32.0,Burney Lamar,Dollar General Stores (Todd Braun),Toyota,248.0,22843.0,running,0.0,97.0
+2009,15,Milwaukee,23.0,17.0,70.0,Shelby Howard,Foretravel Motorcoach (Mary Louise Miller),Chevrolet,248.0,16600.0,running,0.0,94.0
+2009,15,Milwaukee,24.0,2.0,20.0,Brad Coleman,Rudy's.com (Joe Gibbs),Toyota,247.0,25793.0,running,35.0,96.0
+2009,15,Milwaukee,25.0,22.0,5.0,Casey Atwood,31-W Insulation (Wayne Day),Chevrolet,247.0,16100.0,running,0.0,88.0
+2009,15,Milwaukee,26.0,37.0,23.0,Ken Butler III,"Aaron's Dream Machine (Robert Richardson, Sr.)",Chevrolet,247.0,15800.0,running,0.0,85.0
+2009,15,Milwaukee,27.0,30.0,1.0,"Danny O'Quinn, Jr.",Milwaukee Valvoline Instant Oil Change (Johnny Davis),Chevrolet,247.0,22143.0,running,0.0,82.0
+2009,15,Milwaukee,28.0,33.0,15.0,Michael Annett,Pilot Travel Centers (Germain Racing),Toyota,246.0,21993.0,running,0.0,79.0
+2009,15,Milwaukee,29.0,31.0,31.0,Travis Kittleson,Bob Steele Chevrolet (Rick Ware),Chevrolet,245.0,15400.0,running,0.0,76.0
+2009,15,Milwaukee,30.0,36.0,61.0,Brandon Whitt,Hilton Garden Inn Milwaukee Park Place (Charles Shoffner),Ford,245.0,22043.0,running,0.0,73.0
+2009,15,Milwaukee,31.0,43.0,26.0,Brian Keselowski,Fischer Honda (Dusty Whitney),Dodge,243.0,15150.0,running,0.0,70.0
+2009,15,Milwaukee,32.0,38.0,24.0,Eric McClure,Hefty (Ed Rensi),Ford,237.0,21493.0,running,0.0,67.0
+2009,15,Milwaukee,33.0,25.0,28.0,Kenny Wallace,U.S. Border Patrol (Jay Robinson),Chevrolet,224.0,21378.0,running,0.0,64.0
+2009,15,Milwaukee,34.0,40.0,7.0,Mike Harmon,PeelsPlus.com (Pete Szekeres),Chevrolet,213.0,14800.0,rear end,0.0,61.0
+2009,15,Milwaukee,35.0,14.0,49.0,Mark Green,Anderson's Pure Maple Syrup (Jay Robinson),Chevrolet,30.0,14665.0,brakes,0.0,58.0
+2009,15,Milwaukee,36.0,39.0,10.0,Kelly Bires,Braun Racing (Todd Braun),Toyota,16.0,20998.0,electrical,0.0,55.0
+2009,15,Milwaukee,37.0,32.0,0.0,J.C. Stout,SponsorDavis.com (Johnny Davis),Chevrolet,10.0,14420.0,brakes,0.0,52.0
+2009,15,Milwaukee,38.0,41.0,87.0,Chad Blount,NEMCO Motorsports (Joe Nemechek),Chevrolet,8.0,20853.0,brakes,0.0,49.0
+2009,15,Milwaukee,39.0,12.0,91.0,Terry Cook,MSRP Motorsports (MSRP Motorsports),Chevrolet,5.0,14325.0,overheating,0.0,46.0
+2009,15,Milwaukee,40.0,29.0,73.0,Derrike Cope,Derrike Cope Inc. (Derrike Cope),Dodge,4.0,14240.0,brakes,0.0,43.0
+2009,15,Milwaukee,41.0,34.0,96.0,Dennis Setzer,ConelyAuto.com (Dusty Whitney),Dodge,4.0,14205.0,vibration,0.0,40.0
+2009,15,Milwaukee,42.0,35.0,4.0,Kertus Davis,Sleep Inn Milwaukee (Johnny Davis),Chevrolet,3.0,14170.0,brakes,0.0,37.0
+2009,15,Milwaukee,43.0,23.0,90.0,Johnny Chapman,MSRP Motorsports (MSRP Motorsports),Chevrolet,2.0,14105.0,ignition,0.0,34.0
+2009,16,Loudon,1.0,9.0,18.0,Kyle Busch,Z-Line Designs (Joe Gibbs),Toyota,200.0,44120.0,running,37.0,190.0
+2009,16,Loudon,2.0,1.0,20.0,Joey Logano,GameStop / Singularity (Joe Gibbs),Toyota,200.0,39675.0,running,108.0,180.0
+2009,16,Loudon,3.0,7.0,88.0,Brad Keselowski,GoDaddy (JR Motorsports),Chevrolet,200.0,32743.0,running,0.0,165.0
+2009,16,Loudon,4.0,10.0,1.0,Mike Bliss,Miccosukee Championship Oct. 15-18 (James Finch),Chevrolet,200.0,37043.0,running,3.0,165.0
+2009,16,Loudon,5.0,5.0,33.0,Kevin Harvick,Copart (Kevin Harvick),Chevrolet,200.0,21475.0,running,0.0,155.0
+2009,16,Loudon,6.0,2.0,60.0,Carl Edwards,Scotts / Ortho (Jack Roush),Ford,200.0,20200.0,running,51.0,155.0
+2009,16,Loudon,7.0,6.0,16.0,Greg Biffle,CitiFinancial (Jack Roush),Ford,200.0,18650.0,running,0.0,146.0
+2009,16,Loudon,8.0,4.0,99.0,Scott Speed,Red Bull (Michael Waltrip),Toyota,200.0,18150.0,running,0.0,142.0
+2009,16,Loudon,9.0,11.0,6.0,Erik Darnell,Northern Tool + Equipment (Jack Roush),Ford,200.0,25193.0,running,0.0,138.0
+2009,16,Loudon,10.0,12.0,38.0,Jason Leffler,Great Clips (Todd Braun),Toyota,200.0,24818.0,running,0.0,134.0
+2009,16,Loudon,11.0,24.0,66.0,Steve Wallace,U.S. Fidelis (Rusty Wallace),Chevrolet,200.0,23943.0,running,0.0,130.0
+2009,16,Loudon,12.0,8.0,32.0,Brian Vickers,Dollar General Stores (Todd Braun),Toyota,200.0,17350.0,running,0.0,127.0
+2009,16,Loudon,13.0,13.0,12.0,Justin Allgaier,Verizon Wireless (Roger Penske),Dodge,200.0,23668.0,running,0.0,124.0
+2009,16,Loudon,14.0,3.0,29.0,Clint Bowyer,Holiday Inn / Holiday Inn Express (Richard Childress),Chevrolet,200.0,18930.0,running,0.0,121.0
+2009,16,Loudon,15.0,16.0,47.0,Michael McDowell,Tom's Snacks (JTG-Daugherty Racing),Toyota,200.0,24118.0,running,0.0,118.0
+2009,16,Loudon,16.0,14.0,11.0,"Scott Lagasse, Jr.",America's Incredible Pizza Company (Bryan Mullet),Toyota,200.0,23543.0,running,0.0,115.0
+2009,16,Loudon,17.0,20.0,40.0,Scott Wimmer,StopRepairBills.com (Curtis Key),Chevrolet,200.0,23118.0,running,0.0,112.0
+2009,16,Loudon,18.0,28.0,10.0,Elliott Sadler,Auto Value / Bumper to Bumper (Todd Braun),Toyota,200.0,16500.0,running,0.0,109.0
+2009,16,Loudon,19.0,31.0,15.0,Michael Annett,Pilot Travel Centers (Germain Racing),Toyota,200.0,22918.0,running,1.0,111.0
+2009,16,Loudon,20.0,21.0,28.0,Kenny Wallace,U.S. Border Patrol (Jay Robinson),Chevrolet,199.0,25818.0,running,0.0,103.0
+2009,16,Loudon,21.0,38.0,62.0,Brendan Gaughan,5-Hour Energy Extra Strength (Rusty Wallace),Chevrolet,199.0,22793.0,running,0.0,100.0
+2009,16,Loudon,22.0,43.0,2.0,Sean Caisse,Richard Childress Racing (Richard Childress),Chevrolet,198.0,16275.0,running,0.0,97.0
+2009,16,Loudon,23.0,23.0,27.0,Jason Keller,Scott Products / Walmart (Mike Curb),Ford,198.0,23093.0,running,0.0,94.0
+2009,16,Loudon,24.0,35.0,61.0,Matt Carter,Shoffner Racing (Charles Shoffner),Ford,196.0,22653.0,running,0.0,91.0
+2009,16,Loudon,25.0,30.0,23.0,Ken Butler III,"Aaron's (Robert Richardson, Sr.)",Chevrolet,196.0,22768.0,running,0.0,88.0
+2009,16,Loudon,26.0,39.0,1.0,"Danny O'Quinn, Jr.",SponsorDavis.com (Johnny Davis),Chevrolet,196.0,22583.0,running,0.0,85.0
+2009,16,Loudon,27.0,18.0,87.0,Joe Nemechek,NEMCO Motorsports (Joe Nemechek),Chevrolet,196.0,22548.0,running,0.0,82.0
+2009,16,Loudon,28.0,36.0,9.0,John Wes Townley,Zaxby's (Robby Benton),Ford,196.0,22513.0,running,0.0,79.0
+2009,16,Loudon,29.0,25.0,81.0,"Bobby Hamilton, Jr.",D.H. Griffin Companies (Pat MacDonald),Dodge,196.0,22478.0,running,0.0,76.0
+2009,16,Loudon,30.0,40.0,34.0,Tony Raines,Long John Silver's (Bob Jenkins),Chevrolet,196.0,22743.0,running,0.0,73.0
+2009,16,Loudon,31.0,34.0,72.0,Benny Gordon,Samuel & Sons (Frank Varischetti),Ford,196.0,15940.0,running,0.0,70.0
+2009,16,Loudon,32.0,42.0,7.0,Chase Mattioli,Qik Joe (Pete Szekeres),Chevrolet,192.0,22373.0,running,0.0,67.0
+2009,16,Loudon,33.0,41.0,24.0,Eric McClure,Hefty (Ed Rensi),Ford,176.0,22348.0,engine,0.0,64.0
+2009,16,Loudon,34.0,26.0,26.0,Brian Keselowski,Fischer Honda (Dusty Whitney),Dodge,92.0,22328.0,overheating,0.0,61.0
+2009,16,Loudon,35.0,15.0,98.0,Paul Menard,Richmond / Menards (Yates Racing),Ford,50.0,15840.0,engine,0.0,58.0
+2009,16,Loudon,36.0,32.0,49.0,Mark Green,GetMoreVacations.com (Jay Robinson),Chevrolet,23.0,15820.0,brakes,0.0,55.0
+2009,16,Loudon,37.0,33.0,73.0,Derrike Cope,Derrike Cope Inc. (Derrike Cope),Dodge,19.0,15800.0,overheating,0.0,52.0
+2009,16,Loudon,38.0,29.0,31.0,Travis Kittleson,Bob Steele Chevrolet (Rick Ware),Chevrolet,13.0,22248.0,overheating,0.0,49.0
+2009,16,Loudon,39.0,27.0,52.0,Kevin Lepage,Means Racing (Jimmy Means),Chevrolet,13.0,15760.0,ignition,0.0,46.0
+2009,16,Loudon,40.0,22.0,5.0,Casey Atwood,31-W Insulation (Wayne Day),Chevrolet,8.0,22158.0,rear end,0.0,43.0
+2009,16,Loudon,41.0,19.0,91.0,Kelly Bires,MSRP Motorsports (MSRP Motorsports),Chevrolet,4.0,15670.0,brakes,0.0,40.0
+2009,16,Loudon,42.0,37.0,96.0,Willie Allen,ConelyAuto.com (Dusty Whitney),Dodge,3.0,15650.0,parked,0.0,37.0
+2009,16,Loudon,43.0,17.0,90.0,Johnny Chapman,MSRP Motorsports (MSRP Motorsports),Chevrolet,2.0,15599.0,brakes,0.0,34.0
+2009,17,Daytona,1.0,1.0,29.0,Clint Bowyer,Holiday Inn / Holiday Inn Express (Richard Childress),Chevrolet,102.0,93695.0,running,48.0,195.0
+2009,17,Daytona,2.0,19.0,18.0,Kyle Busch,NOS Energy Drink (Joe Gibbs),Toyota,102.0,63150.0,running,14.0,175.0
+2009,17,Daytona,3.0,11.0,60.0,Carl Edwards,Save-A-Lot (Jack Roush),Ford,102.0,46375.0,running,0.0,165.0
+2009,17,Daytona,4.0,23.0,20.0,Joey Logano,Sport Clips (Joe Gibbs),Toyota,102.0,35150.0,running,0.0,160.0
+2009,17,Daytona,5.0,15.0,10.0,Kasey Kahne,McDonald's McCafe (Todd Braun),Toyota,102.0,32475.0,running,0.0,155.0
+2009,17,Daytona,6.0,4.0,88.0,Brad Keselowski,Klondike (JR Motorsports),Chevrolet,102.0,35643.0,running,0.0,150.0
+2009,17,Daytona,7.0,30.0,32.0,Brian Vickers,Dollar General (Todd Braun),Toyota,102.0,28460.0,running,0.0,146.0
+2009,17,Daytona,8.0,31.0,12.0,Justin Allgaier,Verizon Wireless (Roger Penske),Dodge,102.0,36488.0,running,0.0,142.0
+2009,17,Daytona,9.0,2.0,6.0,David Ragan,Discount Tire (Jack Roush),Ford,102.0,26425.0,running,7.0,143.0
+2009,17,Daytona,10.0,3.0,33.0,Kevin Harvick,VFW (Kevin Harvick),Chevrolet,102.0,26050.0,running,0.0,134.0
+2009,17,Daytona,11.0,34.0,99.0,Michael Waltrip,Aaron's Dream Machine (Michael Waltrip),Toyota,102.0,24725.0,running,4.0,135.0
+2009,17,Daytona,12.0,26.0,66.0,Steve Wallace,U.S. Fidelis (Rusty Wallace),Chevrolet,102.0,30643.0,running,0.0,127.0
+2009,17,Daytona,13.0,39.0,47.0,Michael McDowell,Tom's Snacks (JTG-Daugherty Racing),Toyota,102.0,30518.0,running,0.0,124.0
+2009,17,Daytona,14.0,6.0,16.0,Matt Kenseth,CitiFinancial (Jack Roush),Ford,102.0,23125.0,running,24.0,126.0
+2009,17,Daytona,15.0,37.0,61.0,Matt Carter,KeepOurHeroesSafe.org (Charles Shoffner),Ford,102.0,32518.0,running,0.0,118.0
+2009,17,Daytona,16.0,36.0,28.0,Kenny Wallace,U.S. Border Patrol (Jay Robinson),Chevrolet,102.0,31618.0,running,1.0,120.0
+2009,17,Daytona,17.0,41.0,62.0,Brendan Gaughan,5-Hour Energy Extra Strength (Rusty Wallace),Chevrolet,102.0,28993.0,running,0.0,112.0
+2009,17,Daytona,18.0,38.0,11.0,"Scott Lagasse, Jr.",E-Pak Manufacturing (Bryan Mullet),Toyota,102.0,28868.0,running,0.0,109.0
+2009,17,Daytona,19.0,24.0,38.0,Jason Leffler,Great Clips (Todd Braun),Toyota,102.0,28743.0,running,0.0,106.0
+2009,17,Daytona,20.0,12.0,75.0,Bobby Gerhart,Lucas Oil (Bob Schacht),Chevrolet,102.0,23000.0,running,0.0,103.0
+2009,17,Daytona,21.0,42.0,40.0,Scott Wimmer,StopRepairBills.com (Curtis Key),Chevrolet,102.0,28493.0,running,0.0,100.0
+2009,17,Daytona,22.0,16.0,27.0,Jason Keller,Scott Tissue / Walmart (Mike Curb),Ford,102.0,28368.0,running,0.0,97.0
+2009,17,Daytona,23.0,28.0,34.0,Tony Raines,Gander Mountain / Remington (Bob Jenkins),Chevrolet,102.0,28618.0,running,1.0,99.0
+2009,17,Daytona,24.0,14.0,87.0,Joe Nemechek,NEMCO Motorsports (Joe Nemechek),Chevrolet,102.0,28093.0,running,0.0,91.0
+2009,17,Daytona,25.0,43.0,83.0,Johnny Borneman III,"Borneman Plastering/Twisted X/Red Line Oil (John Borneman, Jr.)",Ford,101.0,21650.0,crash,0.0,88.0
+2009,17,Daytona,26.0,32.0,23.0,"Robert Richardson, Jr.","Mahindra Tractors (Robert Richardson, Sr.)",Chevrolet,101.0,27843.0,crash,0.0,85.0
+2009,17,Daytona,27.0,5.0,42.0,David Gilliland,ResortQuest.com (Eddie Smith),Dodge,101.0,21225.0,crash,0.0,82.0
+2009,17,Daytona,28.0,33.0,24.0,Eric McClure,Hefty (Ed Rensi),Ford,101.0,27543.0,running,1.0,84.0
+2009,17,Daytona,29.0,29.0,1.0,Mike Bliss,Miccosukee Resort & Gaming (James Finch),Chevrolet,100.0,27418.0,crash,0.0,76.0
+2009,17,Daytona,30.0,40.0,1.0,"Danny O'Quinn, Jr.",Venom Energy (Johnny Davis),Chevrolet,99.0,27593.0,running,0.0,73.0
+2009,17,Daytona,31.0,20.0,58.0,Mike Harmon,Cavi Clothing / Macy's (Johnathan Cohen),Chevrolet,97.0,20695.0,running,0.0,70.0
+2009,17,Daytona,32.0,10.0,89.0,Morgan Shepherd,Lagina Plumbing / Eldora Speedway (Morgan Shepherd),Chevrolet,95.0,27028.0,crash,0.0,67.0
+2009,17,Daytona,33.0,18.0,4.0,Kertus Davis,NuTone Heating & Cooling Products (Johnny Davis),Chevrolet,94.0,20450.0,crash,0.0,64.0
+2009,17,Daytona,34.0,13.0,5.0,Jeff Green,Sour Patch (Wayne Day),Chevrolet,94.0,26808.0,crash,0.0,61.0
+2009,17,Daytona,35.0,9.0,15.0,Michael Annett,Pilot Travel Centers / Ventrilo (Germain Racing),Toyota,84.0,26703.0,brakes,0.0,58.0
+2009,17,Daytona,36.0,22.0,9.0,John Wes Townley,Zaxby's (Robby Benton),Ford,81.0,26668.0,running,1.0,60.0
+2009,17,Daytona,37.0,35.0,7.0,Chase Austin,Cavi Clothing / Macy's (Pete Szekeres),Chevrolet,76.0,26633.0,crash,1.0,57.0
+2009,17,Daytona,38.0,8.0,31.0,Kerry Earnhardt,LibertyPort.com (Rick Ware),Chevrolet,76.0,26578.0,crash,0.0,49.0
+2009,17,Daytona,39.0,21.0,49.0,Mark Green,GetMoreVacations.com (Jay Robinson),Chevrolet,62.0,20070.0,crash,0.0,46.0
+2009,17,Daytona,40.0,7.0,5.0,"Dale Earnhardt, Jr.",Fastenal (JR Motorsports),Chevrolet,58.0,20030.0,crash,0.0,43.0
+2009,17,Daytona,41.0,27.0,81.0,Patrick Sheltra,D.H. Griffin Companies (Pat MacDonald),Dodge,57.0,26468.0,crash,0.0,40.0
+2009,17,Daytona,42.0,17.0,52.0,Donnie Neuenberger,Quaker City Castings (Jimmy Means),Chevrolet,9.0,26423.0,crash,0.0,37.0
+2009,17,Daytona,43.0,25.0,90.0,Johnny Chapman,MSRP Motorsports (MSRP Motorsports),Chevrolet,2.0,19887.0,drive shaft,0.0,34.0
+2009,18,Chicago,1.0,3.0,20.0,Joey Logano,GameStop / Wii Sports Resort (Joe Gibbs),Toyota,200.0,82270.0,running,96.0,195.0
+2009,18,Chicago,2.0,6.0,18.0,Kyle Busch,Z-Line Designs (Joe Gibbs),Toyota,200.0,60275.0,running,78.0,175.0
+2009,18,Chicago,3.0,2.0,32.0,Brian Vickers,Dollar General Stores (Todd Braun),Toyota,200.0,53550.0,running,2.0,170.0
+2009,18,Chicago,4.0,12.0,38.0,Jason Leffler,Great Clips (Todd Braun),Toyota,200.0,47318.0,running,0.0,160.0
+2009,18,Chicago,5.0,10.0,33.0,Kevin Harvick,Jimmy John's Gourmet Sandwiches (Kevin Harvick),Chevrolet,200.0,33625.0,running,0.0,155.0
+2009,18,Chicago,6.0,1.0,60.0,Carl Edwards,Scotts / Ortho (Jack Roush),Ford,200.0,35525.0,running,17.0,155.0
+2009,18,Chicago,7.0,17.0,16.0,Greg Biffle,CitiFinancial (Jack Roush),Ford,200.0,28675.0,running,1.0,151.0
+2009,18,Chicago,8.0,13.0,10.0,David Reutimann,Dollar General Big Stage Sweepstakes (Todd Braun),Toyota,200.0,27625.0,running,0.0,142.0
+2009,18,Chicago,9.0,15.0,1.0,Mike Bliss,Miccosukee Resort & Gaming (James Finch),Chevrolet,200.0,37603.0,running,1.0,143.0
+2009,18,Chicago,10.0,9.0,12.0,Justin Allgaier,Verizon Wireless (Roger Penske),Dodge,200.0,33193.0,running,0.0,134.0
+2009,18,Chicago,11.0,16.0,29.0,Jeff Burton,Holiday Inn / Holiday Inn Express (Richard Childress),Chevrolet,200.0,25925.0,running,0.0,130.0
+2009,18,Chicago,12.0,8.0,99.0,Trevor Bayne,Aaron's (Michael Waltrip),Toyota,199.0,31093.0,running,0.0,127.0
+2009,18,Chicago,13.0,25.0,62.0,Brendan Gaughan,5-Hour Energy Extra Strength (Rusty Wallace),Chevrolet,199.0,30943.0,running,0.0,124.0
+2009,18,Chicago,14.0,11.0,98.0,Paul Menard,Libman / Menards (Yates Racing),Ford,198.0,23565.0,running,0.0,121.0
+2009,18,Chicago,15.0,26.0,40.0,Scott Wimmer,StopRepairBills.com (Curtis Key),Chevrolet,198.0,29598.0,running,0.0,118.0
+2009,18,Chicago,16.0,21.0,66.0,Steve Wallace,U.S. Fidelis (Rusty Wallace),Chevrolet,198.0,29613.0,running,0.0,115.0
+2009,18,Chicago,17.0,18.0,15.0,Michael Annett,Hype Energy Drink (Germain Racing),Toyota,198.0,29478.0,running,0.0,112.0
+2009,18,Chicago,18.0,14.0,88.0,Brad Keselowski,Degree V12 (JR Motorsports),Chevrolet,197.0,28818.0,running,0.0,109.0
+2009,18,Chicago,19.0,35.0,27.0,Jason Keller,Huggies Pull-Ups / Jewel-Osco (Mike Curb),Ford,197.0,28608.0,running,0.0,106.0
+2009,18,Chicago,20.0,30.0,11.0,"Scott Lagasse, Jr.",E-Pak Manufacturing (Bryan Mullet),Toyota,197.0,29548.0,running,0.0,103.0
+2009,18,Chicago,21.0,22.0,9.0,John Wes Townley,Zaxby's (Robby Benton),Ford,197.0,28288.0,running,0.0,100.0
+2009,18,Chicago,22.0,4.0,5.0,Ryan Newman,Fastenal (JR Motorsports),Chevrolet,197.0,22460.0,running,5.0,102.0
+2009,18,Chicago,23.0,34.0,34.0,Tony Raines,Lube Pros (Bob Jenkins),Chevrolet,196.0,28443.0,running,0.0,94.0
+2009,18,Chicago,24.0,24.0,87.0,Joe Nemechek,New York City Bagel Deli (Joe Nemechek),Chevrolet,196.0,27933.0,running,0.0,91.0
+2009,18,Chicago,25.0,39.0,81.0,Michael McDowell,D.H. Griffin Companies / NPP (Pat MacDonald),Dodge,196.0,27948.0,running,0.0,88.0
+2009,18,Chicago,26.0,29.0,70.0,Shelby Howard,Foretravel Motorcoach (Mary Louise Miller),Chevrolet,196.0,27688.0,running,0.0,85.0
+2009,18,Chicago,27.0,37.0,28.0,Kenny Wallace,U.S. Border Patrol (Jay Robinson),Chevrolet,196.0,27578.0,running,0.0,82.0
+2009,18,Chicago,28.0,41.0,23.0,"Robert Richardson, Jr.","Mahindra Tractors (Robert Richardson, Sr.)",Chevrolet,195.0,27458.0,running,0.0,79.0
+2009,18,Chicago,29.0,23.0,1.0,"Danny O'Quinn, Jr.",7-Up / Sun Drop (Johnny Davis),Chevrolet,194.0,27308.0,running,0.0,76.0
+2009,18,Chicago,30.0,27.0,26.0,Dennis Setzer,Fischer Honda (Dusty Whitney),Dodge,194.0,27498.0,running,0.0,73.0
+2009,18,Chicago,31.0,38.0,24.0,Eric McClure,Hefty (Ed Rensi),Ford,194.0,27063.0,running,0.0,70.0
+2009,18,Chicago,32.0,40.0,61.0,Matt Carter,Shoffner Racing (Charles Shoffner),Ford,189.0,26953.0,running,0.0,67.0
+2009,18,Chicago,33.0,42.0,7.0,Mike Harmon,Protex by Bardahl (Pete Szekeres),Chevrolet,185.0,26843.0,running,0.0,64.0
+2009,18,Chicago,34.0,5.0,6.0,David Ragan,Discount Tire (Jack Roush),Ford,107.0,20715.0,running,0.0,61.0
+2009,18,Chicago,35.0,43.0,50.0,Jeremy Clements,Graphic Arts Express / Bail USA (Tony Clements),Chevrolet,92.0,20155.0,steering,0.0,58.0
+2009,18,Chicago,36.0,36.0,73.0,Derrike Cope,Derrike Cope Inc. (Derrike Cope),Dodge,24.0,20045.0,ignition,0.0,55.0
+2009,18,Chicago,37.0,31.0,5.0,Casey Atwood,31-W Insulation (Wayne Day),Ford,19.0,26398.0,overheating,0.0,52.0
+2009,18,Chicago,38.0,33.0,0.0,Mike Wallace,SponsorDavis.com (Johnny Davis),Chevrolet,19.0,19870.0,engine,0.0,49.0
+2009,18,Chicago,39.0,32.0,78.0,Kevin Lepage,CKM (Derrike Cope),Dodge,15.0,19740.0,rear end,0.0,46.0
+2009,18,Chicago,40.0,7.0,47.0,Kelly Bires,ConstructionJobs.com (JTG-Daugherty Racing),Toyota,8.0,26098.0,transmission,0.0,43.0
+2009,18,Chicago,41.0,19.0,91.0,Terry Cook,MSRP Motorsports (MSRP Motorsports),Chevrolet,6.0,19520.0,vibration,0.0,40.0
+2009,18,Chicago,42.0,20.0,4.0,Kertus Davis,JD Racing (Johnny Davis),Chevrolet,2.0,19340.0,vibration,0.0,37.0
+2009,18,Chicago,43.0,28.0,49.0,Mark Green,GetMoreVacations.com (Jay Robinson),Chevrolet,1.0,19212.0,ignition,0.0,34.0
+2009,19,Gateway,1.0,9.0,18.0,Kyle Busch,New Balance (Joe Gibbs),Toyota,200.0,56170.0,running,90.0,190.0
+2009,19,Gateway,2.0,2.0,32.0,Reed Sorenson,Dollar General (Todd Braun),Toyota,200.0,45925.0,running,0.0,170.0
+2009,19,Gateway,3.0,4.0,60.0,Carl Edwards,Save-A-Lot (Jack Roush),Ford,200.0,36325.0,running,4.0,170.0
+2009,19,Gateway,4.0,6.0,1.0,Mike Bliss,Miccosukee Resort & Gaming (James Finch),Chevrolet,200.0,41618.0,running,0.0,160.0
+2009,19,Gateway,5.0,15.0,20.0,Brad Coleman,Rudy's.com (Joe Gibbs),Toyota,200.0,35593.0,running,0.0,155.0
+2009,19,Gateway,6.0,7.0,29.0,Stephen Leicht,Holiday Inn / Holiday Inn Express (Richard Childress),Chevrolet,200.0,33443.0,running,0.0,150.0
+2009,19,Gateway,7.0,38.0,15.0,Michael Annett,Ventrilo / Pilot Travel Centers (Germain Racing),Toyota,200.0,33893.0,running,0.0,146.0
+2009,19,Gateway,8.0,1.0,88.0,Brad Keselowski,Degree V12 (JR Motorsports),Chevrolet,200.0,36893.0,running,1.0,147.0
+2009,19,Gateway,9.0,30.0,27.0,Jason Keller,Kleenex (Mike Curb),Ford,200.0,32128.0,running,0.0,138.0
+2009,19,Gateway,10.0,16.0,6.0,Erik Darnell,Northern Tool + Equipment (Jack Roush),Ford,200.0,32718.0,running,0.0,134.0
+2009,19,Gateway,11.0,13.0,12.0,Justin Allgaier,Verizon Wireless (Roger Penske),Dodge,200.0,31818.0,running,0.0,130.0
+2009,19,Gateway,12.0,32.0,34.0,Tony Raines,Long John Silver's (Bob Jenkins),Chevrolet,200.0,31668.0,running,0.0,127.0
+2009,19,Gateway,13.0,21.0,70.0,Shelby Howard,Foretravel Motorcoach (Mary Louise Miller),Chevrolet,199.0,25450.0,running,0.0,124.0
+2009,19,Gateway,14.0,5.0,38.0,Jason Leffler,Great Clips (Todd Braun),Toyota,199.0,31683.0,running,0.0,121.0
+2009,19,Gateway,15.0,27.0,40.0,Scott Wimmer,StopRepairBills.com (Curtis Key),Chevrolet,199.0,31348.0,running,0.0,118.0
+2009,19,Gateway,16.0,22.0,50.0,Jeremy Clements,Saxon Group (Tony Clements),Chevrolet,198.0,27695.0,running,0.0,115.0
+2009,19,Gateway,17.0,3.0,33.0,Kevin Harvick,Jimmy John's Gourmet Sandwiches (Kevin Harvick),Chevrolet,198.0,25460.0,running,105.0,122.0
+2009,19,Gateway,18.0,39.0,1.0,"Danny O'Quinn, Jr.",SponsorDavis.com (Johnny Davis),Chevrolet,198.0,30793.0,running,0.0,109.0
+2009,19,Gateway,19.0,28.0,61.0,Matt Carter,Specialty Racing (Charles Shoffner),Ford,198.0,30683.0,running,0.0,106.0
+2009,19,Gateway,20.0,23.0,26.0,Brian Keselowski,Fischer Honda (Dusty Whitney),Dodge,198.0,24955.0,running,0.0,103.0
+2009,19,Gateway,21.0,25.0,9.0,John Wes Townley,Zaxby's (Robby Benton),Ford,197.0,23995.0,running,0.0,100.0
+2009,19,Gateway,22.0,35.0,0.0,Mike Wallace,SponsorDavis.com (Johnny Davis),Chevrolet,196.0,23885.0,running,0.0,97.0
+2009,19,Gateway,23.0,42.0,24.0,Eric McClure,Hefty (Ed Rensi),Ford,195.0,30643.0,running,0.0,94.0
+2009,19,Gateway,24.0,24.0,66.0,Steve Wallace,U.S. Fidelis (Rusty Wallace),Chevrolet,191.0,30083.0,running,0.0,91.0
+2009,19,Gateway,25.0,36.0,23.0,Ken Butler III,"Aaron's Dream Machine (Robert Richardson, Sr.)",Chevrolet,191.0,30098.0,running,0.0,88.0
+2009,19,Gateway,26.0,41.0,7.0,Mike Harmon,Protex by Bardahl (Pete Szekeres),Chevrolet,190.0,23370.0,running,0.0,85.0
+2009,19,Gateway,27.0,12.0,99.0,Trevor Bayne,Aaron's Dream Machine (Michael Waltrip),Toyota,183.0,29728.0,running,0.0,82.0
+2009,19,Gateway,28.0,37.0,87.0,Kevin Conway,Extenze (Joe Nemechek),Toyota,183.0,29608.0,running,0.0,79.0
+2009,19,Gateway,29.0,33.0,28.0,Kenny Wallace,U.S. Border Patrol (Jay Robinson),Chevrolet,182.0,29458.0,engine,0.0,76.0
+2009,19,Gateway,30.0,8.0,16.0,Ricky Stenhouse Jr,CitiFinancial (Jack Roush),Ford,133.0,29648.0,running,0.0,73.0
+2009,19,Gateway,31.0,26.0,62.0,Brendan Gaughan,U.S. Fidelis (Rusty Wallace),Chevrolet,121.0,29238.0,crash,0.0,70.0
+2009,19,Gateway,32.0,14.0,81.0,Michael McDowell,Missouri-Illinois Dodge Dealers (Pat MacDonald),Dodge,110.0,29128.0,crash,0.0,67.0
+2009,19,Gateway,33.0,19.0,11.0,"Scott Lagasse, Jr.",America's Incredible Pizza Company (Bryan Mullet),Toyota,101.0,29018.0,crash,0.0,64.0
+2009,19,Gateway,34.0,17.0,5.0,Casey Atwood,31-W Insulation (Wayne Day),Chevrolet,93.0,22440.0,engine,0.0,61.0
+2009,19,Gateway,35.0,11.0,49.0,Mark Green,GetMoreVacations.com (Jay Robinson),Chevrolet,61.0,22330.0,engine,0.0,58.0
+2009,19,Gateway,36.0,40.0,10.0,Chad Blount,Braun Racing (Todd Braun),Toyota,12.0,28688.0,electrical,0.0,55.0
+2009,19,Gateway,37.0,43.0,78.0,Kevin Lepage,Derrike Cope Inc. (Derrike Cope),Dodge,10.0,22130.0,drive shaft,0.0,52.0
+2009,19,Gateway,38.0,34.0,73.0,Derrike Cope,CKR (Derrike Cope),Dodge,9.0,22070.0,clutch,0.0,49.0
+2009,19,Gateway,39.0,20.0,90.0,Johnny Chapman,MSRP Motorsports (MSRP Motorsports),Chevrolet,5.0,22015.0,brakes,0.0,46.0
+2009,19,Gateway,40.0,31.0,47.0,Kelly Bires,ConstructionJobs.com (JTG-Daugherty Racing),Toyota,2.0,28448.0,engine,0.0,43.0
+2009,19,Gateway,41.0,18.0,96.0,Willie Allen,ConelyAuto.com (Dusty Whitney),Dodge,1.0,21945.0,brakes,0.0,40.0
+2009,19,Gateway,42.0,29.0,91.0,Chase Miller,MSRP Motorsports (MSRP Motorsports),Chevrolet,1.0,21865.0,overheating,0.0,37.0
+2009,19,Gateway,43.0,10.0,42.0,Kevin Hamlin,Smith Iron Works (Eddie Smith),Dodge,0.0,21803.0,electrical,0.0,0.0
+2009,20,IRP,1.0,42.0,60.0,Carl Edwards,Vitamin Water (Jack Roush),Ford,200.0,47145.0,running,72.0,195.0
+2009,20,IRP,2.0,41.0,18.0,Kyle Busch,NOS Energy Drink (Joe Gibbs),Toyota,200.0,31650.0,running,32.0,175.0
+2009,20,IRP,3.0,34.0,16.0,Matt Kenseth,CitiFinancial (Jack Roush),Ford,200.0,23900.0,running,0.0,165.0
+2009,20,IRP,4.0,7.0,88.0,Brad Keselowski,GoDaddy.com (JR Motorsports),Chevrolet,200.0,25643.0,running,0.0,160.0
+2009,20,IRP,5.0,3.0,66.0,Steve Wallace,U.S. Fidelis (Rusty Wallace),Chevrolet,200.0,26543.0,running,0.0,155.0
+2009,20,IRP,6.0,8.0,33.0,"Ron Hornaday, Jr.",Vlasic (Kevin Harvick),Chevrolet,200.0,23768.0,running,19.0,155.0
+2009,20,IRP,7.0,1.0,99.0,Trevor Bayne,Aaron's Dream Machine (Michael Waltrip),Toyota,200.0,29993.0,running,34.0,151.0
+2009,20,IRP,8.0,14.0,38.0,Jason Leffler,Great Clips (Todd Braun),Toyota,200.0,21568.0,running,0.0,142.0
+2009,20,IRP,9.0,15.0,5.0,Scott Wimmer,Fastenal (JR Motorsports),Chevrolet,200.0,14600.0,running,39.0,143.0
+2009,20,IRP,10.0,24.0,28.0,Kenny Wallace,U.S. Border Patrol (Jay Robinson),Chevrolet,200.0,21593.0,running,0.0,134.0
+2009,20,IRP,11.0,37.0,32.0,David Reutimann,Dollar General (Todd Braun),Toyota,200.0,14150.0,running,0.0,130.0
+2009,20,IRP,12.0,9.0,62.0,Brendan Gaughan,5-Hour Energy Extra Strength (Rusty Wallace),Chevrolet,200.0,21568.0,running,0.0,127.0
+2009,20,IRP,13.0,12.0,29.0,Stephen Leicht,Holiday Inn / Holiday Inn Express (Richard Childress),Chevrolet,200.0,20868.0,running,0.0,124.0
+2009,20,IRP,14.0,13.0,40.0,Aric Almirola,Westerman Companies (Curtis Key),Chevrolet,200.0,20418.0,running,0.0,121.0
+2009,20,IRP,15.0,21.0,34.0,Tony Raines,Long John Silver's (Bob Jenkins),Chevrolet,199.0,21418.0,running,0.0,118.0
+2009,20,IRP,16.0,2.0,20.0,Brad Coleman,Joe Gibbs Game Plan for Life (Joe Gibbs),Toyota,199.0,20318.0,running,0.0,115.0
+2009,20,IRP,17.0,27.0,89.0,Morgan Shepherd,Lagina Plumbing / Eldora Speedway (Morgan Shepherd),Chevrolet,199.0,13800.0,running,0.0,112.0
+2009,20,IRP,18.0,26.0,2.0,Austin Dillon,RCR Thanks Chevrolet (Richard Childress),Chevrolet,199.0,13735.0,running,0.0,109.0
+2009,20,IRP,19.0,22.0,70.0,Shelby Howard,Foretravel Motorcoach (Mary Louise Miller),Chevrolet,199.0,13700.0,running,0.0,106.0
+2009,20,IRP,20.0,31.0,87.0,Kevin Conway,Extenze (Joe Nemechek),Toyota,199.0,20983.0,running,0.0,103.0
+2009,20,IRP,21.0,25.0,12.0,Justin Allgaier,Verizon Wireless (Roger Penske),Dodge,199.0,20093.0,running,0.0,100.0
+2009,20,IRP,22.0,28.0,25.0,"Bobby Hamilton, Jr.",Eckrich / Kroger (Gary Weisbaum),Ford,199.0,13575.0,running,0.0,97.0
+2009,20,IRP,23.0,38.0,24.0,Eric McClure,Hefty / Kroger (Ed Rensi),Ford,198.0,20393.0,running,0.0,94.0
+2009,20,IRP,24.0,33.0,5.0,Jeff Green,31-W Insulation (Wayne Day),Ford,198.0,13450.0,running,0.0,91.0
+2009,20,IRP,25.0,17.0,27.0,Jason Keller,Kroger / Riley Hospital for Children (Mike Curb),Ford,198.0,20023.0,running,4.0,93.0
+2009,20,IRP,26.0,23.0,77.0,Peyton Sellers,SFP (William Spencer),Chevrolet,198.0,13355.0,running,0.0,85.0
+2009,20,IRP,27.0,29.0,31.0,Travis Kittleson,Circle K Thirst Buster (Rick Ware),Chevrolet,197.0,13300.0,running,0.0,82.0
+2009,20,IRP,28.0,36.0,81.0,Michael McDowell,D.H. Griffin Companies (Pat MacDonald),Dodge,197.0,19738.0,running,0.0,79.0
+2009,20,IRP,29.0,4.0,6.0,Erik Darnell,Discount Tire (Jack Roush),Ford,196.0,19718.0,running,0.0,76.0
+2009,20,IRP,30.0,18.0,61.0,Matt Carter,Specialty Racing (Charles Shoffner),Ford,196.0,19998.0,running,0.0,73.0
+2009,20,IRP,31.0,35.0,23.0,Ken Butler III,"Aaron's Dream Machine (Robert Richardson, Sr.)",Chevrolet,184.0,19653.0,running,0.0,70.0
+2009,20,IRP,32.0,16.0,7.0,Chase Austin,Cavi Clothing / Macy's (Pete Szekeres),Chevrolet,179.0,13165.0,running,0.0,67.0
+2009,20,IRP,33.0,10.0,1.0,Mike Bliss,Miccosukee Resort & Gaming (James Finch),Chevrolet,115.0,19613.0,running,0.0,64.0
+2009,20,IRP,34.0,30.0,1.0,"Danny O'Quinn, Jr.",National Watermelon Association (Johnny Davis),Chevrolet,111.0,19593.0,engine,0.0,61.0
+2009,20,IRP,35.0,20.0,15.0,Michael Annett,Pilot Travel Centers (Germain Racing),Toyota,107.0,19548.0,running,0.0,58.0
+2009,20,IRP,36.0,43.0,52.0,Chris Lawson,Means Racing (Jimmy Means),Chevrolet,63.0,13060.0,brakes,0.0,55.0
+2009,20,IRP,37.0,6.0,11.0,"Scott Lagasse, Jr.",America's Incredible Pizza Company (Bryan Mullet),Toyota,21.0,19503.0,crash,0.0,52.0
+2009,20,IRP,38.0,40.0,10.0,Chad Blount,Braun Racing (Todd Braun),Toyota,15.0,19458.0,overheating,0.0,49.0
+2009,20,IRP,39.0,39.0,47.0,Kelly Bires,ConstructionJobs.com (JTG-Daugherty Racing),Toyota,13.0,19438.0,overheating,0.0,46.0
+2009,20,IRP,40.0,5.0,91.0,Terry Cook,MSRP Motorsports (MSRP Motorsports),Chevrolet,11.0,12915.0,vibration,0.0,43.0
+2009,20,IRP,41.0,19.0,90.0,Johnny Chapman,MSRP Motorsports (MSRP Motorsports),Chevrolet,11.0,12870.0,brakes,0.0,40.0
+2009,20,IRP,42.0,32.0,4.0,Kertus Davis,SponsorDavis.com (Johnny Davis),Chevrolet,9.0,12835.0,vibration,0.0,37.0
+2009,20,IRP,43.0,11.0,49.0,Mark Green,GetMoreVacations.com (Jay Robinson),Chevrolet,9.0,12785.0,brakes,0.0,34.0
+2009,21,Iowa,1.0,11.0,88.0,Brad Keselowski,GoDaddy.com (JR Motorsports),Chevrolet,250.0,154743.0,running,121.0,195.0
+2009,21,Iowa,2.0,27.0,18.0,Kyle Busch,Pizza Ranch (Joe Gibbs),Toyota,250.0,59600.0,running,84.0,175.0
+2009,21,Iowa,3.0,15.0,38.0,Jason Leffler,Great Clips (Todd Braun),Toyota,250.0,58368.0,running,0.0,165.0
+2009,21,Iowa,4.0,40.0,60.0,Carl Edwards,CitiFinancial (Jack Roush),Ford,250.0,37100.0,running,0.0,160.0
+2009,21,Iowa,5.0,12.0,10.0,Kelly Bires,Fraternal Order of Eagles / Diabetes Research (Todd Braun),Toyota,250.0,40093.0,running,0.0,155.0
+2009,21,Iowa,6.0,13.0,27.0,Jason Keller,Cottonelle / HyVee (Mike Curb),Ford,250.0,35543.0,running,0.0,150.0
+2009,21,Iowa,7.0,24.0,28.0,Kenny Wallace,U.S. Border Patrol (Jay Robinson),Chevrolet,250.0,33428.0,running,0.0,146.0
+2009,21,Iowa,8.0,9.0,26.0,Michael McDowell,Fischer Honda (Dusty Whitney),Dodge,250.0,27320.0,running,0.0,142.0
+2009,21,Iowa,9.0,17.0,11.0,"Scott Lagasse, Jr.",America's Incredible Pizza / Fat Brain Toys (Bryan Mullet),Toyota,250.0,31293.0,running,0.0,138.0
+2009,21,Iowa,10.0,6.0,29.0,Stephen Leicht,Holiday Inn / Holiday Inn Express (Richard Childress),Chevrolet,250.0,31168.0,running,0.0,134.0
+2009,21,Iowa,11.0,36.0,15.0,Michael Annett,Northland Oil (Germain Racing),Toyota,250.0,29843.0,running,0.0,130.0
+2009,21,Iowa,12.0,25.0,72.0,Benny Gordon,VSI / Samuel & Sons (Frank Varischetti),Ford,250.0,22825.0,running,0.0,127.0
+2009,21,Iowa,13.0,5.0,20.0,Brad Coleman,BigSpot.com (Joe Gibbs),Toyota,250.0,28768.0,running,0.0,124.0
+2009,21,Iowa,14.0,10.0,1.0,Mike Bliss,Miccosukee Resort & Gaming (James Finch),Chevrolet,250.0,31143.0,running,3.0,126.0
+2009,21,Iowa,15.0,2.0,12.0,Justin Allgaier,Verizon Wireless (Roger Penske),Dodge,250.0,28018.0,running,35.0,123.0
+2009,21,Iowa,16.0,20.0,83.0,Johnny Borneman III,"Borneman Plastering / Twisted X Boots (John Borneman, Jr.)",Ford,250.0,21850.0,running,0.0,115.0
+2009,21,Iowa,17.0,8.0,66.0,Steve Wallace,U.S. Fidelis (Rusty Wallace),Chevrolet,249.0,27343.0,running,0.0,112.0
+2009,21,Iowa,18.0,18.0,34.0,Tony Raines,Long John Silver's (Bob Jenkins),Chevrolet,249.0,27093.0,running,0.0,109.0
+2009,21,Iowa,19.0,43.0,89.0,Morgan Shepherd,Eldora Speedway / Lagina Plumbing (Morgan Shepherd),Chevrolet,249.0,20400.0,running,0.0,106.0
+2009,21,Iowa,20.0,39.0,24.0,Eric McClure,Hefty (Ed Rensi),Ford,249.0,27493.0,running,0.0,103.0
+2009,21,Iowa,21.0,37.0,61.0,Matt Carter,Specialty Racing (Charles Shoffner),Ford,248.0,26518.0,running,0.0,100.0
+2009,21,Iowa,22.0,1.0,16.0,Ricky Stenhouse Jr,3M (Jack Roush),Ford,248.0,29493.0,running,7.0,102.0
+2009,21,Iowa,23.0,3.0,6.0,Erik Darnell,Northern Tool + Equipment (Jack Roush),Ford,247.0,26643.0,running,0.0,94.0
+2009,21,Iowa,24.0,33.0,1.0,"Danny O'Quinn, Jr.",Meskwaki Bingo Casino Hotel / Barr Nunn (Johnny Davis),Chevrolet,245.0,26118.0,running,0.0,91.0
+2009,21,Iowa,25.0,21.0,62.0,Brendan Gaughan,5-Hour Energy Extra Strength (Rusty Wallace),Chevrolet,244.0,26143.0,running,0.0,88.0
+2009,21,Iowa,26.0,4.0,99.0,Trevor Bayne,Aaron's Dream Machine (Michael Waltrip),Toyota,244.0,25868.0,running,0.0,85.0
+2009,21,Iowa,27.0,38.0,81.0,Sean Murphy,D.H. Griffin Companies (Pat MacDonald),Dodge,222.0,25743.0,running,0.0,82.0
+2009,21,Iowa,28.0,16.0,2.0,Austin Dillon,High Point University (Richard Childress),Chevrolet,211.0,19150.0,crash,0.0,79.0
+2009,21,Iowa,29.0,30.0,9.0,John Wes Townley,Zaxby's (Robby Benton),Ford,205.0,19025.0,running,0.0,76.0
+2009,21,Iowa,30.0,34.0,33.0,Kevin Harvick,Jimmy John's Gourmet Sandwiches (Kevin Harvick),Chevrolet,195.0,19200.0,running,0.0,73.0
+2009,21,Iowa,31.0,7.0,5.0,Scott Wimmer,Fastenal (JR Motorsports),Chevrolet,168.0,18745.0,engine,0.0,70.0
+2009,21,Iowa,32.0,29.0,32.0,Brian Ickler,Dollar General (Todd Braun),Toyota,165.0,25078.0,crash,0.0,67.0
+2009,21,Iowa,33.0,23.0,23.0,Ken Butler III,"Aaron's Dream Machine (Robert Richardson, Sr.)",Chevrolet,108.0,18500.0,crash,0.0,64.0
+2009,21,Iowa,34.0,28.0,40.0,Aric Almirola,Westerman Companies (Curtis Key),Chevrolet,74.0,24858.0,crash,0.0,61.0
+2009,21,Iowa,35.0,22.0,5.0,Casey Atwood,31-W Insulation (Wayne Day),Ford,37.0,18285.0,crash,0.0,58.0
+2009,21,Iowa,36.0,41.0,87.0,Jeff Fuller,NEMCO Motorsports (Joe Nemechek),Chevrolet,31.0,24643.0,overheating,0.0,55.0
+2009,21,Iowa,37.0,31.0,0.0,Kertus Davis,SponsorDavis.com (Johnny Davis),Chevrolet,26.0,18065.0,brakes,0.0,52.0
+2009,21,Iowa,38.0,19.0,49.0,Mark Green,GetMoreVacations.com (Jay Robinson),Chevrolet,21.0,17985.0,brakes,0.0,49.0
+2009,21,Iowa,39.0,35.0,73.0,Kevin Lepage,Iowa House Bed & Breakfast (Derrike Cope),Dodge,19.0,17870.0,rear end,0.0,46.0
+2009,21,Iowa,40.0,32.0,91.0,Chase Miller,MSRP Motorsports (MSRP Motorsports),Chevrolet,9.0,17755.0,brakes,0.0,43.0
+2009,21,Iowa,41.0,26.0,47.0,Coleman Pressley,ConstructionJobs.com (JTG-Daugherty Racing),Toyota,8.0,24058.0,engine,0.0,40.0
+2009,21,Iowa,42.0,14.0,90.0,Johnny Chapman,MSRP Motorsports (MSRP Motorsports),Chevrolet,7.0,17475.0,overheating,0.0,37.0
+2009,21,Iowa,43.0,42.0,7.0,Mike Harmon,PMC Life (Pete Szekeres),Chevrolet,6.0,17361.0,brakes,0.0,34.0
+2009,22,Watkins Glen,1.0,2.0,47.0,Marcos Ambrose,STP Octane Booster (JTG-Daugherty Racing),Toyota,82.0,44570.0,running,26.0,195.0
+2009,22,Watkins Glen,2.0,7.0,18.0,Kyle Busch,NOS Energy Drink (Joe Gibbs),Toyota,82.0,35450.0,running,15.0,175.0
+2009,22,Watkins Glen,3.0,11.0,60.0,Carl Edwards,Save-A-Lot (Jack Roush),Ford,82.0,29175.0,running,25.0,170.0
+2009,22,Watkins Glen,4.0,1.0,33.0,Kevin Harvick,Copart (Kevin Harvick),Chevrolet,82.0,23625.0,running,12.0,165.0
+2009,22,Watkins Glen,5.0,10.0,5.0,Ron Fellows,Fastenal (JR Motorsports),Chevrolet,82.0,26018.0,running,0.0,155.0
+2009,22,Watkins Glen,6.0,17.0,29.0,Jeff Burton,Holiday Inn / Holiday Inn Express (Richard Childress),Chevrolet,82.0,19150.0,running,0.0,150.0
+2009,22,Watkins Glen,7.0,18.0,16.0,Greg Biffle,CitiFinancial (Jack Roush),Ford,82.0,18450.0,running,0.0,146.0
+2009,22,Watkins Glen,8.0,21.0,6.0,David Ragan,Discount Tire / Northern Tool (Jack Roush),Ford,82.0,17975.0,running,1.0,147.0
+2009,22,Watkins Glen,9.0,14.0,88.0,Brad Keselowski,GoDaddy (JR Motorsports),Chevrolet,82.0,23868.0,running,0.0,138.0
+2009,22,Watkins Glen,10.0,4.0,99.0,Scott Speed,Red Bull (Michael Waltrip),Toyota,82.0,17975.0,running,1.0,139.0
+2009,22,Watkins Glen,11.0,9.0,9.0,Boris Said,Zaxby's (Robby Benton),Ford,82.0,25518.0,running,0.0,130.0
+2009,22,Watkins Glen,12.0,22.0,66.0,Steve Wallace,5-Hour Energy Drink (Rusty Wallace),Chevrolet,82.0,27843.0,running,2.0,132.0
+2009,22,Watkins Glen,13.0,20.0,91.0,Dave Blaney,SFP (William Spencer),Chevrolet,82.0,23543.0,running,0.0,124.0
+2009,22,Watkins Glen,14.0,3.0,55.0,Robby Gordon,Hard Rock Hotel & Casino / The Rogue Joint (Robby Gordon),Toyota,82.0,16575.0,running,0.0,121.0
+2009,22,Watkins Glen,15.0,28.0,38.0,Jason Leffler,Great Clips (Todd Braun),Toyota,82.0,24018.0,running,0.0,118.0
+2009,22,Watkins Glen,16.0,26.0,27.0,Jason Keller,Baker-Curb Racing (Mike Curb),Ford,82.0,22918.0,running,0.0,115.0
+2009,22,Watkins Glen,17.0,27.0,12.0,Justin Allgaier,Verizon Wireless (Roger Penske),Dodge,82.0,23868.0,running,0.0,112.0
+2009,22,Watkins Glen,18.0,16.0,4.0,J.R. Fitzpatrick,Kevin Harvick Inc. (Kevin Harvick),Chevrolet,82.0,16325.0,running,0.0,109.0
+2009,22,Watkins Glen,19.0,24.0,28.0,Kenny Wallace,U.S. Border Patrol (Jay Robinson),Chevrolet,82.0,22718.0,running,0.0,106.0
+2009,22,Watkins Glen,20.0,35.0,15.0,Michael Annett,Pilot Travel Centers (Germain Racing),Toyota,82.0,23518.0,running,0.0,103.0
+2009,22,Watkins Glen,21.0,31.0,89.0,Morgan Shepherd,Lagina Plumbing / Eldora Speedway (Morgan Shepherd),Chevrolet,82.0,22618.0,running,0.0,100.0
+2009,22,Watkins Glen,22.0,37.0,62.0,Brendan Gaughan,U.S. Fidelis (Rusty Wallace),Chevrolet,82.0,22568.0,running,0.0,97.0
+2009,22,Watkins Glen,23.0,41.0,81.0,Sean Murphy,MacDonald Motorsports (Pat MacDonald),Dodge,82.0,22893.0,running,0.0,94.0
+2009,22,Watkins Glen,24.0,36.0,40.0,Jeffrey Earnhardt,FAB Grills (Curtis Key),Chevrolet,82.0,22393.0,running,0.0,91.0
+2009,22,Watkins Glen,25.0,38.0,1.0,"Danny O'Quinn, Jr.",SponsorDavis.com (Johnny Davis),Chevrolet,82.0,22493.0,running,0.0,88.0
+2009,22,Watkins Glen,26.0,25.0,87.0,Joe Nemechek,NEMCO Motorsports (Joe Nemechek),Chevrolet,82.0,22298.0,running,0.0,85.0
+2009,22,Watkins Glen,27.0,19.0,26.0,Michael McDowell,Fischer Honda (Dusty Whitney),Dodge,82.0,22243.0,running,0.0,82.0
+2009,22,Watkins Glen,28.0,39.0,34.0,Tony Raines,Long John Silver's (Bob Jenkins),Dodge,81.0,22173.0,crash,0.0,79.0
+2009,22,Watkins Glen,29.0,23.0,98.0,Paul Menard,Richmond / Menards (Yates Racing),Ford,80.0,15670.0,running,0.0,76.0
+2009,22,Watkins Glen,30.0,40.0,24.0,Eric McClure,Del Monte (Ed Rensi),Ford,80.0,22403.0,running,0.0,73.0
+2009,22,Watkins Glen,31.0,42.0,23.0,Chris Cook,"Aaron's Dream Machine (Robert Richardson, Sr.)",Chevrolet,79.0,22068.0,running,0.0,70.0
+2009,22,Watkins Glen,32.0,13.0,10.0,Justin Marks,Construct Corps (Todd Braun),Toyota,76.0,22008.0,transmission,0.0,67.0
+2009,22,Watkins Glen,33.0,6.0,20.0,Joey Logano,GameStop / Mad Catz (Joe Gibbs),Toyota,69.0,15505.0,crash,0.0,64.0
+2009,22,Watkins Glen,34.0,5.0,11.0,Denny Hamlin,RideMakerz.com (Bryan Mullet),Toyota,68.0,15445.0,suspension,0.0,61.0
+2009,22,Watkins Glen,35.0,12.0,1.0,Ryan Newman,Miccosukee Resort & Gaming (James Finch),Chevrolet,51.0,15410.0,fuel pump,0.0,58.0
+2009,22,Watkins Glen,36.0,34.0,61.0,Matt Carter,Specialty Racing (Charles Shoffner),Ford,50.0,21843.0,crash,0.0,55.0
+2009,22,Watkins Glen,37.0,8.0,32.0,Brian Vickers,Dollar General Stores (Todd Braun),Toyota,31.0,15335.0,transmission,0.0,52.0
+2009,22,Watkins Glen,38.0,33.0,49.0,Mark Green,GetMoreVacations.Com (Jay Robinson),Chevrolet,28.0,21748.0,transmission,0.0,49.0
+2009,22,Watkins Glen,39.0,43.0,0.0,Mike Wallace,SponsorDavis.com (Johnny Davis),Chevrolet,23.0,21713.0,clutch,0.0,46.0
+2009,22,Watkins Glen,40.0,15.0,86.0,Antonio Perez,Continental Electric/Telmex/Chivas Racing (Troy Williams),Dodge,22.0,15135.0,vibration,0.0,0.0
+2009,22,Watkins Glen,41.0,29.0,41.0,Tom Hubert,Matthews Mobile Media (Rick Ware),Chevrolet,14.0,15100.0,brakes,0.0,40.0
+2009,22,Watkins Glen,42.0,30.0,7.0,Kris Szekeres,Dynamic Technology (Pete Szekeres),Chevrolet,9.0,21533.0,electrical,0.0,37.0
+2009,22,Watkins Glen,43.0,32.0,90.0,Mike Bliss,MSRP Motorsports (MSRP Motorsports),Chevrolet,4.0,14996.0,brakes,0.0,34.0
+2009,23,Michigan,1.0,13.0,88.0,Brad Keselowski,GoDaddy.com (JR Motorsports),Chevrolet,125.0,46688.0,running,3.0,190.0
+2009,23,Michigan,2.0,1.0,32.0,Brian Vickers,Dollar General (Todd Braun),Toyota,125.0,42300.0,running,78.0,180.0
+2009,23,Michigan,3.0,3.0,18.0,Kyle Busch,NOS Energy Drink (Joe Gibbs),Toyota,125.0,28300.0,running,32.0,170.0
+2009,23,Michigan,4.0,6.0,6.0,David Ragan,Discount Tire (Jack Roush),Ford,125.0,23200.0,running,3.0,165.0
+2009,23,Michigan,5.0,9.0,33.0,Kevin Harvick,Jimmy John's Gourmet Sandwiches (Kevin Harvick),Chevrolet,125.0,21725.0,running,0.0,155.0
+2009,23,Michigan,6.0,11.0,5.0,Ryan Newman,Fastenal (JR Motorsports),Chevrolet,125.0,19325.0,running,0.0,150.0
+2009,23,Michigan,7.0,28.0,12.0,Justin Allgaier,Verizon Wireless (Roger Penske),Dodge,125.0,28978.0,running,8.0,151.0
+2009,23,Michigan,8.0,10.0,16.0,Greg Biffle,CitiFinancial (Jack Roush),Ford,125.0,18945.0,running,0.0,142.0
+2009,23,Michigan,9.0,4.0,29.0,Jeff Burton,Holiday Inn / Holiday Inn Express (Richard Childress),Chevrolet,125.0,19500.0,running,0.0,138.0
+2009,23,Michigan,10.0,23.0,98.0,Paul Menard,Richmond / Menards (Yates Racing),Ford,125.0,18925.0,running,0.0,134.0
+2009,23,Michigan,11.0,22.0,38.0,Jason Leffler,Great Clips (Todd Braun),Toyota,125.0,25143.0,running,0.0,130.0
+2009,23,Michigan,12.0,21.0,1.0,Reed Sorenson,Miccosukee Resort & Gaming (James Finch),Chevrolet,125.0,18175.0,running,1.0,132.0
+2009,23,Michigan,13.0,18.0,15.0,Michael Annett,Pilot Travel Centers (Germain Racing),Toyota,125.0,24793.0,running,0.0,124.0
+2009,23,Michigan,14.0,36.0,10.0,David Reutimann,Beringer Vineyards (Todd Braun),Toyota,125.0,17800.0,running,0.0,121.0
+2009,23,Michigan,15.0,14.0,66.0,Steve Wallace,5-Hour Energy Drink (Rusty Wallace),Chevrolet,125.0,24493.0,running,0.0,118.0
+2009,23,Michigan,16.0,19.0,14.0,Justin Lofton,Lofton Cattle (Bryan Mullet),Toyota,125.0,18250.0,running,0.0,115.0
+2009,23,Michigan,17.0,24.0,26.0,Michael McDowell,2XL Sound Gear / ConelyAuto.com (Dusty Whitney),Dodge,125.0,26068.0,running,0.0,112.0
+2009,23,Michigan,18.0,39.0,70.0,Shelby Howard,Foretravel Motorcoach (Mary Louise Miller),Chevrolet,125.0,23918.0,running,0.0,109.0
+2009,23,Michigan,19.0,37.0,2.0,Austin Dillon,Richard Childress Racing (Richard Childress),Chevrolet,125.0,17400.0,running,0.0,106.0
+2009,23,Michigan,20.0,12.0,27.0,Jason Keller,Ford and the American Dream / TeCoup (Mike Curb),Ford,124.0,24668.0,running,0.0,103.0
+2009,23,Michigan,21.0,17.0,81.0,J.J. Yeley,MacDonald Motorsports (Pat MacDonald),Dodge,124.0,23743.0,running,0.0,100.0
+2009,23,Michigan,22.0,20.0,28.0,Kenny Wallace,U.S. Border Patrol (Jay Robinson),Chevrolet,124.0,23693.0,running,0.0,97.0
+2009,23,Michigan,23.0,5.0,20.0,Brad Coleman,BigSpot.com (Joe Gibbs),Toyota,124.0,24293.0,running,0.0,94.0
+2009,23,Michigan,24.0,34.0,23.0,"Robert Richardson, Jr.","Mahindra Tractors (Robert Richardson, Sr.)",Chevrolet,123.0,23593.0,running,0.0,91.0
+2009,23,Michigan,25.0,29.0,50.0,Jeremy Clements,Saxon Group / Diamond Pistons (Tony Clements),Chevrolet,123.0,17225.0,running,0.0,88.0
+2009,23,Michigan,26.0,27.0,61.0,Matt Carter,Specialty Racing (Charles Shoffner),Ford,123.0,23468.0,running,0.0,85.0
+2009,23,Michigan,27.0,35.0,87.0,Mike Bliss,NEMCO Motorsports (Joe Nemechek),Chevrolet,123.0,23418.0,running,0.0,82.0
+2009,23,Michigan,28.0,40.0,24.0,Eric McClure,Hefty (Ed Rensi),Ford,123.0,23368.0,running,0.0,79.0
+2009,23,Michigan,29.0,15.0,62.0,Brendan Gaughan,U.S. Fidelis (Rusty Wallace),Chevrolet,123.0,23318.0,running,0.0,76.0
+2009,23,Michigan,30.0,2.0,99.0,Trevor Bayne,Aaron's Dream Machine (Michael Waltrip),Toyota,122.0,24268.0,crash,0.0,73.0
+2009,23,Michigan,31.0,33.0,1.0,"Danny O'Quinn, Jr.",Bank of Ann Arbor Mortgages (Johnny Davis),Chevrolet,121.0,23213.0,running,0.0,70.0
+2009,23,Michigan,32.0,8.0,11.0,Denny Hamlin,Carfax (Bryan Mullet),Toyota,117.0,16685.0,running,0.0,67.0
+2009,23,Michigan,33.0,41.0,34.0,Tony Raines,Long John Silver's (Bob Jenkins),Dodge,74.0,23118.0,handling,0.0,64.0
+2009,23,Michigan,34.0,43.0,52.0,Mike Wallace,Jimmy Means Racing (Jimmy Means),Chevrolet,44.0,23098.0,vibration,0.0,61.0
+2009,23,Michigan,35.0,42.0,40.0,Scott Wimmer,StopRepairBills.com (Curtis Key),Chevrolet,42.0,23083.0,engine,0.0,58.0
+2009,23,Michigan,36.0,16.0,49.0,Mark Green,GetMoreVacations.com (Jay Robinson),Chevrolet,32.0,23063.0,electrical,0.0,55.0
+2009,23,Michigan,37.0,38.0,47.0,Chase Miller,ConstructionJobs.com (JTG-Daugherty Racing),Toyota,11.0,23043.0,overheating,0.0,52.0
+2009,23,Michigan,38.0,26.0,91.0,Terry Cook,MSRP Motorsports (MSRP Motorsports),Chevrolet,8.0,23003.0,overheating,0.0,49.0
+2009,23,Michigan,39.0,32.0,90.0,Johnny Chapman,MSRP Motorsports (MSRP Motorsports),Chevrolet,6.0,16490.0,electrical,0.0,46.0
+2009,23,Michigan,40.0,7.0,60.0,Carl Edwards,Save-A-Lot (Jack Roush),Ford,2.0,17460.0,crash,0.0,43.0
+2009,23,Michigan,41.0,31.0,31.0,Kevin Hamlin,Fastwax.com / Circle K Thirst Buster (Rick Ware),Chevrolet,1.0,22903.0,rear end,0.0,40.0
+2009,23,Michigan,42.0,30.0,96.0,Dennis Setzer,Dusty's Collision (Dusty Whitney),Dodge,1.0,16390.0,ignition,0.0,37.0
+2009,23,Michigan,43.0,25.0,92.0,Willie Allen,Holloway / Dusty's Collision (Dusty Whitney),Dodge,1.0,16345.0,vibration,0.0,34.0
+2009,24,Bristol,1.0,9.0,6.0,David Ragan,Discount Tire (Jack Roush),Ford,254.0,50545.0,running,56.0,190.0
+2009,24,Bristol,2.0,2.0,60.0,Carl Edwards,Save-A-Lot (Jack Roush),Ford,254.0,37350.0,running,51.0,175.0
+2009,24,Bristol,3.0,1.0,88.0,Brad Keselowski,Degree V12 (JR Motorsports),Chevrolet,254.0,40293.0,running,43.0,170.0
+2009,24,Bristol,4.0,11.0,33.0,Kevin Harvick,Rheem Tankless Water Heaters (Kevin Harvick),Chevrolet,254.0,28775.0,running,91.0,170.0
+2009,24,Bristol,5.0,4.0,16.0,Matt Kenseth,CitiFinancial (Jack Roush),Ford,254.0,24650.0,running,0.0,155.0
+2009,24,Bristol,6.0,26.0,38.0,Jason Leffler,Great Clips (Todd Braun),Toyota,254.0,32018.0,running,0.0,150.0
+2009,24,Bristol,7.0,3.0,29.0,Clint Bowyer,Holiday Inn / Holiday Inn Express (Richard Childress),Chevrolet,254.0,24110.0,running,0.0,146.0
+2009,24,Bristol,8.0,13.0,15.0,Michael Annett,Pilot Travel Centers (Germain Racing),Toyota,254.0,30238.0,running,0.0,142.0
+2009,24,Bristol,9.0,43.0,98.0,Paul Menard,Richmond / Menards (Yates Racing),Ford,254.0,22150.0,running,0.0,138.0
+2009,24,Bristol,10.0,19.0,26.0,Michael McDowell,Fischer Honda (Dusty Whitney),Dodge,254.0,29143.0,running,0.0,134.0
+2009,24,Bristol,11.0,41.0,32.0,David Reutimann,Dollar General Stores (Todd Braun),Toyota,254.0,21700.0,running,0.0,130.0
+2009,24,Bristol,12.0,25.0,61.0,Matt Carter,Specialty Racing (Charles Shoffner),Ford,254.0,30168.0,running,0.0,127.0
+2009,24,Bristol,13.0,10.0,5.0,Ryan Newman,Fastenal (JR Motorsports),Chevrolet,254.0,21900.0,running,0.0,124.0
+2009,24,Bristol,14.0,30.0,28.0,Kenny Wallace,U.S. Border Patrol (Jay Robinson),Chevrolet,253.0,27903.0,running,0.0,121.0
+2009,24,Bristol,15.0,37.0,87.0,Mike Bliss,NEMCO Motorsports (Joe Nemechek),Chevrolet,253.0,28608.0,running,0.0,118.0
+2009,24,Bristol,16.0,17.0,27.0,Jason Keller,Kleenex / Food City (Mike Curb),Ford,253.0,27823.0,running,0.0,115.0
+2009,24,Bristol,17.0,8.0,66.0,Steve Wallace,U.S. Fidelis (Rusty Wallace),Chevrolet,253.0,27778.0,running,0.0,112.0
+2009,24,Bristol,18.0,33.0,72.0,Benny Gordon,VSI / Samuel & Sons (Frank Varischetti),Ford,252.0,21565.0,running,0.0,109.0
+2009,24,Bristol,19.0,20.0,62.0,Brendan Gaughan,5-Hour Energy Extra Strength (Rusty Wallace),Chevrolet,252.0,30198.0,running,10.0,111.0
+2009,24,Bristol,20.0,40.0,81.0,Sean Murphy,D.H. Griffin Companies (Pat MacDonald),Dodge,252.0,28158.0,running,0.0,103.0
+2009,24,Bristol,21.0,22.0,40.0,Scott Wimmer,Westerman Companies (Curtis Key),Chevrolet,251.0,27593.0,running,0.0,100.0
+2009,24,Bristol,22.0,38.0,23.0,Ken Butler III,"Aaron's Dream Machine (Robert Richardson, Sr.)",Chevrolet,251.0,27548.0,running,0.0,97.0
+2009,24,Bristol,23.0,42.0,34.0,Tony Raines,Long John Silver's (Bob Jenkins),Chevrolet,250.0,28238.0,running,0.0,94.0
+2009,24,Bristol,24.0,5.0,99.0,Trevor Bayne,Aaron's Dream Machine (Michael Waltrip),Toyota,250.0,27453.0,running,0.0,91.0
+2009,24,Bristol,25.0,39.0,24.0,Eric McClure,Hefty / Food City (Ed Rensi),Ford,249.0,27543.0,running,0.0,88.0
+2009,24,Bristol,26.0,32.0,73.0,Derrike Cope,FlipNBags / EZPCBackup.com (Derrike Cope),Dodge,236.0,20860.0,running,0.0,85.0
+2009,24,Bristol,27.0,6.0,12.0,Justin Allgaier,Verizon Wireless (Roger Penske),Dodge,226.0,27268.0,running,2.0,87.0
+2009,24,Bristol,28.0,15.0,18.0,Kyle Busch,NOS Energy Drink (Joe Gibbs),Toyota,195.0,20755.0,running,1.0,84.0
+2009,24,Bristol,29.0,7.0,20.0,Brad Coleman,BigSpot.com (Joe Gibbs),Toyota,177.0,27188.0,running,0.0,76.0
+2009,24,Bristol,30.0,16.0,11.0,Brian Scott,Ridemakerz.com (Bryan Mullet),Toyota,162.0,27443.0,crash,0.0,73.0
+2009,24,Bristol,31.0,18.0,77.0,Peyton Sellers,SFP (William Spencer),Chevrolet,161.0,20635.0,crash,0.0,70.0
+2009,24,Bristol,32.0,23.0,1.0,"Danny O'Quinn, Jr.",Sun Drop (Johnny Davis),Chevrolet,137.0,27058.0,crash,0.0,67.0
+2009,24,Bristol,33.0,21.0,9.0,John Wes Townley,Zaxby's (Robby Benton),Ford,133.0,27038.0,suspension,0.0,64.0
+2009,24,Bristol,34.0,36.0,52.0,Brad Teague,Scag Mowers / Greg's Pizza / Austein Ent. (Jimmy Means),Chevrolet,79.0,20550.0,ignition,0.0,61.0
+2009,24,Bristol,35.0,12.0,1.0,Reed Sorenson,Miccosukee Resort & Gaming (James Finch),Chevrolet,52.0,20535.0,crash,0.0,58.0
+2009,24,Bristol,36.0,27.0,7.0,Chase Austin,Cavi Clothing / Macy's (Pete Szekeres),Chevrolet,51.0,26983.0,crash,0.0,55.0
+2009,24,Bristol,37.0,14.0,10.0,Kasey Kahne,McDonald's (Todd Braun),Toyota,30.0,20495.0,overheating,0.0,52.0
+2009,24,Bristol,38.0,29.0,49.0,Mark Green,GetMoreVacations.com (Jay Robinson),Chevrolet,25.0,26923.0,brakes,0.0,49.0
+2009,24,Bristol,39.0,28.0,47.0,Coleman Pressley,ConstructionJobs.com (JTG-Daugherty Racing),Toyota,23.0,26898.0,overheating,0.0,46.0
+2009,24,Bristol,40.0,31.0,78.0,Kevin Lepage,Derrike Cope Inc. (Derrike Cope),Dodge,13.0,20405.0,ignition,0.0,43.0
+2009,24,Bristol,41.0,24.0,5.0,Casey Atwood,31-W Insulation (Wayne Day),Chevrolet,12.0,26848.0,transmission,0.0,40.0
+2009,24,Bristol,42.0,34.0,91.0,Terry Cook,MSRP Motorsports (MSRP Motorsports),Chevrolet,3.0,20355.0,brakes,0.0,37.0
+2009,24,Bristol,43.0,35.0,90.0,Johnny Chapman,MSRP Motorsports (MSRP Motorsports),Chevrolet,2.0,20314.0,ignition,0.0,34.0
+2009,25,Montreal,1.0,2.0,60.0,Carl Edwards,CitiFinancial (Jack Roush),Ford,76.0,104070.0,running,3.0,190.0
+2009,25,Montreal,2.0,1.0,47.0,Marcos Ambrose,Armor All (JTG-Daugherty Racing),Toyota,76.0,72600.0,running,60.0,180.0
+2009,25,Montreal,3.0,9.0,11.0,Andrew Ranger,Ridemakerz (Bryan Mullet),Toyota,76.0,63643.0,running,10.0,170.0
+2009,25,Montreal,4.0,6.0,32.0,Jacques Villeneuve,Dollar General Stores (Todd Braun),Toyota,76.0,52543.0,running,3.0,165.0
+2009,25,Montreal,5.0,19.0,88.0,Brad Keselowski,GoDaddy (JR Motorsports),Chevrolet,76.0,47293.0,running,0.0,155.0
+2009,25,Montreal,6.0,33.0,34.0,Tony Raines,Long John Silver's (Bob Jenkins),Chevrolet,76.0,48268.0,running,0.0,150.0
+2009,25,Montreal,7.0,16.0,23.0,J.F. Dumoulin,"Mahindra Tractors (Robert Richardson, Sr.)",Chevrolet,76.0,37475.0,running,0.0,146.0
+2009,25,Montreal,8.0,11.0,29.0,Stephen Leicht,Holiday Inn / Holiday Inn Express (Richard Childress),Chevrolet,76.0,42718.0,running,0.0,142.0
+2009,25,Montreal,9.0,17.0,62.0,Brendan Gaughan,U.S. Fidelis (Rusty Wallace),Chevrolet,76.0,43418.0,running,0.0,138.0
+2009,25,Montreal,10.0,12.0,18.0,Kyle Busch,Interstate Batteries (Joe Gibbs),Toyota,76.0,35575.0,running,0.0,134.0
+2009,25,Montreal,11.0,32.0,96.0,Michael McDowell,ConelyAuto.com (Dusty Whitney),Dodge,76.0,34500.0,running,0.0,130.0
+2009,25,Montreal,12.0,29.0,6.0,Erik Darnell,Northern Tool + Equipment (Jack Roush),Ford,76.0,40593.0,running,0.0,127.0
+2009,25,Montreal,13.0,8.0,86.0,Antonio Perez,Continental Electric/Telmex/Chivas Racing (Troy Williams),Dodge,76.0,34225.0,running,0.0,124.0
+2009,25,Montreal,14.0,36.0,5.0,"Victor Gonzalez, Jr.",GDSI / Ford Racing (Wayne Day),Ford,76.0,33700.0,running,0.0,121.0
+2009,25,Montreal,15.0,10.0,98.0,Paul Menard,Tarkett / Menards (Yates Racing),Ford,76.0,33975.0,running,0.0,118.0
+2009,25,Montreal,16.0,13.0,66.0,Steve Wallace,5-Hour Energy Drink (Rusty Wallace),Chevrolet,76.0,40168.0,running,0.0,115.0
+2009,25,Montreal,17.0,38.0,28.0,Kenny Wallace,Thank You Fans (Jay Robinson),Chevrolet,76.0,40193.0,running,0.0,112.0
+2009,25,Montreal,18.0,31.0,15.0,Michael Annett,Hype Energy Drink (Germain Racing),Toyota,76.0,39643.0,running,0.0,109.0
+2009,25,Montreal,19.0,30.0,1.0,Mike Wallace,SponsorDavis.com (Johnny Davis),Chevrolet,76.0,39518.0,running,0.0,106.0
+2009,25,Montreal,20.0,28.0,1.0,Max Papis,Miccosukee Resort & Gaming (James Finch),Chevrolet,76.0,40243.0,running,0.0,103.0
+2009,25,Montreal,21.0,37.0,75.0,Brett Rowe,Imperial Bedding Company (Dana Tomes),Chevrolet,76.0,32875.0,running,0.0,100.0
+2009,25,Montreal,22.0,41.0,24.0,Eric McClure,Hefty (Ed Rensi),Ford,76.0,39293.0,running,0.0,97.0
+2009,25,Montreal,23.0,21.0,27.0,Jason Keller,Scott Towels / Uniprix (Mike Curb),Ford,76.0,39643.0,running,0.0,94.0
+2009,25,Montreal,24.0,34.0,41.0,Stanton Barrett,Matthews Mobile Media (Rick Ware),Chevrolet,76.0,32700.0,running,0.0,91.0
+2009,25,Montreal,25.0,4.0,9.0,Boris Said,Zaxby's (Robby Benton),Ford,76.0,32800.0,running,0.0,88.0
+2009,25,Montreal,26.0,23.0,81.0,Alex Tagliani,Quebec Dodge Dealers Association (Pat MacDonald),Dodge,76.0,39073.0,running,0.0,85.0
+2009,25,Montreal,27.0,18.0,33.0,J.R. Fitzpatrick,Schick (Kevin Harvick),Chevrolet,75.0,39018.0,running,0.0,82.0
+2009,25,Montreal,28.0,5.0,20.0,Brad Coleman,BigSpot.com (Joe Gibbs),Toyota,72.0,38973.0,crash,0.0,79.0
+2009,25,Montreal,29.0,22.0,38.0,Jason Leffler,Great Clips (Todd Braun),Toyota,70.0,38938.0,crash,0.0,76.0
+2009,25,Montreal,30.0,7.0,10.0,Justin Marks,Future Electronics (Todd Braun),Toyota,70.0,39203.0,crash,0.0,73.0
+2009,25,Montreal,31.0,25.0,40.0,Jeffrey Earnhardt,Key Motorsports (Curtis Key),Chevrolet,67.0,38843.0,running,0.0,70.0
+2009,25,Montreal,32.0,24.0,61.0,D.J. Kennington,Castrol / Northern Provincial Pipelines (Charles Shoffner),Ford,57.0,38808.0,crash,0.0,67.0
+2009,25,Montreal,33.0,26.0,49.0,Mark Green,GetMoreVacations.com (Jay Robinson),Chevrolet,39.0,32305.0,fuel pump,0.0,64.0
+2009,25,Montreal,34.0,20.0,87.0,Mike Bliss,NEMCO Motorsports (Joe Nemechek),Chevrolet,30.0,38738.0,brakes,0.0,61.0
+2009,25,Montreal,35.0,3.0,5.0,Ron Fellows,Fastenal (JR Motorsports),Chevrolet,26.0,32235.0,crash,0.0,58.0
+2009,25,Montreal,36.0,39.0,12.0,Justin Allgaier,Verizon Wireless (Roger Penske),Dodge,25.0,38668.0,crash,0.0,55.0
+2009,25,Montreal,37.0,14.0,0.0,Andy Lally,SponsorDavis.com (Johnny Davis),Chevrolet,17.0,32160.0,brakes,0.0,52.0
+2009,25,Montreal,38.0,40.0,99.0,Patrick Carpentier,NAPA (Michael Waltrip),Toyota,15.0,38573.0,engine,0.0,49.0
+2009,25,Montreal,39.0,43.0,52.0,Tony Ave,Jimmy Means Racing (Jimmy Means),Chevrolet,14.0,32070.0,brakes,0.0,46.0
+2009,25,Montreal,40.0,15.0,16.0,Colin Braun,3M (Jack Roush),Ford,2.0,38428.0,engine,0.0,43.0
+2009,25,Montreal,41.0,27.0,90.0,Chris Cook,MSRP Motorsports (MSRP Motorsports),Chevrolet,1.0,31875.0,brakes,0.0,40.0
+2009,25,Montreal,42.0,42.0,26.0,Brian Keselowski,2XL Sound Gear / ConelyAuto.com (Dusty Whitney),Dodge,1.0,31815.0,brakes,0.0,37.0
+2009,25,Montreal,43.0,35.0,91.0,Tom Hubert,SFP (MSRP Motorsports),Chevrolet,0.0,31643.0,overheating,0.0,34.0
+2009,26,Atlanta,1.0,2.0,33.0,Kevin Harvick,Jimmy John's Gourmet Sandwiches (Kevin Harvick),Chevrolet,195.0,50825.0,running,131.0,195.0
+2009,26,Atlanta,2.0,8.0,18.0,Kyle Busch,NOS Energy Drink (Joe Gibbs),Toyota,195.0,38025.0,running,45.0,175.0
+2009,26,Atlanta,3.0,1.0,5.0,"Dale Earnhardt, Jr.",Degree V12 (JR Motorsports),Chevrolet,195.0,29700.0,running,16.0,170.0
+2009,26,Atlanta,4.0,19.0,88.0,Brad Keselowski,Delphi (JR Motorsports),Chevrolet,195.0,29018.0,running,1.0,165.0
+2009,26,Atlanta,5.0,15.0,29.0,Jeff Burton,Holiday Inn / Holiday Inn Express (Richard Childress),Chevrolet,195.0,23925.0,running,0.0,155.0
+2009,26,Atlanta,6.0,11.0,20.0,Joey Logano,GameStop / The Beatles Rockband (Joe Gibbs),Toyota,194.0,19875.0,running,0.0,150.0
+2009,26,Atlanta,7.0,12.0,60.0,Carl Edwards,Save-A-Lot (Jack Roush),Ford,194.0,21285.0,running,0.0,146.0
+2009,26,Atlanta,8.0,20.0,16.0,Greg Biffle,CitiFinancial (Jack Roush),Ford,194.0,19245.0,running,0.0,142.0
+2009,26,Atlanta,9.0,3.0,6.0,David Ragan,Discount Tire (Jack Roush),Ford,194.0,18900.0,running,0.0,138.0
+2009,26,Atlanta,10.0,4.0,1.0,Reed Sorenson,Miccosukee Resort & Gaming (James Finch),Chevrolet,193.0,18525.0,running,2.0,139.0
+2009,26,Atlanta,11.0,5.0,10.0,Kasey Kahne,Fritos (Todd Braun),Toyota,193.0,17175.0,running,0.0,130.0
+2009,26,Atlanta,12.0,9.0,98.0,Paul Menard,Richmond / Menards (Yates Racing),Ford,193.0,16675.0,running,0.0,127.0
+2009,26,Atlanta,13.0,16.0,32.0,Brian Vickers,Dollar General (Todd Braun),Toyota,193.0,16275.0,running,0.0,124.0
+2009,26,Atlanta,14.0,24.0,15.0,Michael Annett,Pilot Travel Centers (Germain Racing),Toyota,192.0,24793.0,running,0.0,121.0
+2009,26,Atlanta,15.0,6.0,42.0,David Gilliland,moveforever.com / Arthritis.org (Eddie Smith),Dodge,192.0,16375.0,running,0.0,118.0
+2009,26,Atlanta,16.0,7.0,99.0,Trevor Bayne,Aaron's Dream Machine (Michael Waltrip),Toyota,192.0,21543.0,running,0.0,115.0
+2009,26,Atlanta,17.0,33.0,12.0,Justin Allgaier,Verizon Wireless (Roger Penske),Dodge,192.0,21468.0,running,0.0,112.0
+2009,26,Atlanta,18.0,29.0,40.0,Scott Wimmer,StopRepairBills.com (Curtis Key),Chevrolet,192.0,21368.0,running,0.0,109.0
+2009,26,Atlanta,19.0,37.0,1.0,Mike Wallace,Sun Drop (Johnny Davis),Chevrolet,192.0,21293.0,running,0.0,106.0
+2009,26,Atlanta,20.0,40.0,38.0,Jason Leffler,Great Clips (Todd Braun),Toyota,191.0,24143.0,running,0.0,103.0
+2009,26,Atlanta,21.0,18.0,70.0,Shelby Howard,Foretravel Motorcoach (Mary Louise Miller),Chevrolet,191.0,21118.0,running,0.0,100.0
+2009,26,Atlanta,22.0,26.0,23.0,"Robert Richardson, Jr.","Mahindra Tractors (Robert Richardson, Sr.)",Chevrolet,191.0,21043.0,running,0.0,97.0
+2009,26,Atlanta,23.0,25.0,66.0,Steve Wallace,U.S. Fidelis (Rusty Wallace),Chevrolet,191.0,21368.0,running,0.0,94.0
+2009,26,Atlanta,24.0,31.0,34.0,Tony Raines,Long John Silver's (Bob Jenkins),Dodge,190.0,20893.0,running,0.0,91.0
+2009,26,Atlanta,25.0,38.0,61.0,Matt Carter,Bob Maddox Heating & Air (Charles Shoffner),Ford,189.0,20993.0,running,0.0,88.0
+2009,26,Atlanta,26.0,34.0,24.0,Eric McClure,Hefty (Ed Rensi),Ford,189.0,20793.0,running,0.0,85.0
+2009,26,Atlanta,27.0,39.0,28.0,Kenny Wallace,U.S. Border Patrol (Jay Robinson),Chevrolet,189.0,20743.0,running,0.0,82.0
+2009,26,Atlanta,28.0,28.0,77.0,Peyton Sellers,SFP (William Spencer),Chevrolet,189.0,14225.0,running,0.0,79.0
+2009,26,Atlanta,29.0,22.0,7.0,Chase Austin,Cavi Clothing / Macy's (Pete Szekeres),Chevrolet,186.0,20643.0,running,0.0,76.0
+2009,26,Atlanta,30.0,41.0,81.0,"Bobby Hamilton, Jr.",D.H. Griffin Companies (Pat MacDonald),Dodge,185.0,20868.0,running,0.0,73.0
+2009,26,Atlanta,31.0,21.0,62.0,Brendan Gaughan,5-Hour Energy Extra Strength (Rusty Wallace),Chevrolet,132.0,20513.0,running,0.0,70.0
+2009,26,Atlanta,32.0,32.0,11.0,Kelly Bires,Ridemakerz.com (Bryan Mullet),Toyota,127.0,20453.0,engine,0.0,67.0
+2009,26,Atlanta,33.0,42.0,26.0,Brian Keselowski,Fischer Honda (Dusty Whitney),Dodge,71.0,20418.0,transmission,0.0,64.0
+2009,26,Atlanta,34.0,36.0,87.0,Mike Bliss,NEMCO Motorsports (Joe Nemechek),Chevrolet,46.0,20383.0,handling,0.0,61.0
+2009,26,Atlanta,35.0,23.0,96.0,Michael McDowell,Fischer Honda (Dusty Whitney),Dodge,41.0,13885.0,transmission,0.0,58.0
+2009,26,Atlanta,36.0,43.0,50.0,Jeremy Clements,Saxon Group / Boaty's Produce Inc. (Tony Clements),Chevrolet,38.0,13850.0,transmission,0.0,55.0
+2009,26,Atlanta,37.0,13.0,27.0,Jason Keller,Scott Tissue / Walmart (Mike Curb),Ford,31.0,20283.0,engine,0.0,52.0
+2009,26,Atlanta,38.0,30.0,5.0,Casey Atwood,31-W Insulation / CertainTeed (Wayne Day),Ford,12.0,20228.0,engine,0.0,49.0
+2009,26,Atlanta,39.0,35.0,47.0,Chase Miller,ConstructionJobs.com (JTG-Daugherty Racing),Toyota,9.0,20188.0,electrical,0.0,46.0
+2009,26,Atlanta,40.0,14.0,49.0,Mark Green,GetMoreVacations.com (Jay Robinson),Chevrolet,9.0,20123.0,electrical,0.0,43.0
+2009,26,Atlanta,41.0,17.0,78.0,Kevin Lepage,DCI (Derrike Cope),Dodge,6.0,13590.0,ignition,0.0,40.0
+2009,26,Atlanta,42.0,27.0,90.0,Johnny Chapman,MSRP Motorsports (MSRP Motorsports),Chevrolet,4.0,13545.0,rear end,0.0,37.0
+2009,26,Atlanta,43.0,10.0,91.0,Dave Blaney,MSRP Motorsports (MSRP Motorsports),Chevrolet,3.0,19937.0,electrical,0.0,34.0
+2009,27,Richmond,1.0,39.0,60.0,Carl Edwards,Scotts Wild Bird Food / Songbird Selections (Jack Roush),Ford,250.0,41245.0,running,24.0,190.0
+2009,27,Richmond,2.0,18.0,33.0,Kevin Harvick,Jimmy John's Gourmet Sandwiches (Kevin Harvick),Chevrolet,250.0,30575.0,running,25.0,175.0
+2009,27,Richmond,3.0,2.0,18.0,Kyle Busch,Z-Line Designs / Racing For Kids (Joe Gibbs),Toyota,250.0,26600.0,running,30.0,170.0
+2009,27,Richmond,4.0,5.0,88.0,Brad Keselowski,Lipton Tea (JR Motorsports),Chevrolet,250.0,26893.0,running,70.0,165.0
+2009,27,Richmond,5.0,15.0,32.0,David Reutimann,Dollar General Stores (Todd Braun),Toyota,250.0,20050.0,running,0.0,155.0
+2009,27,Richmond,6.0,6.0,1.0,Martin Truex Jr,Miccosukee Resort & Gaming (James Finch),Chevrolet,250.0,18550.0,running,0.0,150.0
+2009,27,Richmond,7.0,9.0,11.0,Trevor Bayne,Ridemakerz (Bryan Mullet),Toyota,250.0,25928.0,running,0.0,146.0
+2009,27,Richmond,8.0,19.0,12.0,Justin Allgaier,Verizon Wireless (Roger Penske),Dodge,250.0,24688.0,running,0.0,142.0
+2009,27,Richmond,9.0,29.0,66.0,Steve Wallace,5-Hour Energy Drink (Rusty Wallace),Chevrolet,250.0,23468.0,running,0.0,138.0
+2009,27,Richmond,10.0,8.0,99.0,Scott Speed,Red Bull (Michael Waltrip),Toyota,250.0,17575.0,running,0.0,134.0
+2009,27,Richmond,11.0,4.0,29.0,Clint Bowyer,Holiday Inn / Holiday Inn Express (Richard Childress),Chevrolet,250.0,17725.0,running,0.0,130.0
+2009,27,Richmond,12.0,10.0,16.0,Greg Biffle,CitiFinancial (Jack Roush),Ford,250.0,16650.0,running,0.0,127.0
+2009,27,Richmond,13.0,3.0,98.0,Paul Menard,Richmond / Menards (Yates Racing),Ford,250.0,17000.0,running,0.0,124.0
+2009,27,Richmond,14.0,25.0,6.0,Erik Darnell,Northern Tool + Equipment / Discount Tire (Jack Roush),Ford,250.0,23018.0,running,0.0,121.0
+2009,27,Richmond,15.0,16.0,27.0,Jason Keller,Depend Products / Family Dollar (Mike Curb),Ford,250.0,25818.0,running,0.0,118.0
+2009,27,Richmond,16.0,24.0,40.0,Mike Bliss,Westerman Companies (Curtis Key),Chevrolet,250.0,22893.0,running,0.0,115.0
+2009,27,Richmond,17.0,1.0,20.0,Denny Hamlin,Z-Line Designs / Operation Helmet (Joe Gibbs),Toyota,250.0,19450.0,running,101.0,122.0
+2009,27,Richmond,18.0,17.0,5.0,Scott Wimmer,Fastenal (JR Motorsports),Chevrolet,249.0,22768.0,running,0.0,109.0
+2009,27,Richmond,19.0,23.0,26.0,Michael McDowell,Fischer Honda (Dusty Whitney),Dodge,248.0,23018.0,running,0.0,106.0
+2009,27,Richmond,20.0,35.0,9.0,Travis Kvapil,Zaxby's (Robby Benton),Ford,248.0,23518.0,running,0.0,103.0
+2009,27,Richmond,21.0,12.0,62.0,Brendan Gaughan,U.S. Fidelis (Rusty Wallace),Chevrolet,248.0,22618.0,running,0.0,100.0
+2009,27,Richmond,22.0,38.0,34.0,Tony Raines,Long John Silver's (Bob Jenkins),Chevrolet,248.0,22518.0,running,0.0,97.0
+2009,27,Richmond,23.0,31.0,81.0,"Bobby Hamilton, Jr.",D.H. Griffin Companies (Pat MacDonald),Dodge,248.0,22833.0,running,0.0,94.0
+2009,27,Richmond,24.0,41.0,1.0,Mike Wallace,Union Bank & Trust (Johnny Davis),Chevrolet,248.0,22318.0,running,0.0,91.0
+2009,27,Richmond,25.0,36.0,15.0,Michael Annett,Pilot Travel Centers (Germain Racing),Toyota,247.0,22418.0,running,0.0,88.0
+2009,27,Richmond,26.0,27.0,28.0,Kenny Wallace,U.S. Border Patrol (Jay Robinson),Chevrolet,246.0,22168.0,running,0.0,85.0
+2009,27,Richmond,27.0,32.0,31.0,Travis Kittleson,Bob Steele Chevrolet (Rick Ware),Chevrolet,246.0,15650.0,running,0.0,82.0
+2009,27,Richmond,28.0,37.0,23.0,"Robert Richardson, Jr.","Mahindra Tractors (Robert Richardson, Sr.)",Chevrolet,246.0,21993.0,running,0.0,79.0
+2009,27,Richmond,29.0,42.0,24.0,Eric McClure,Hefty (Ed Rensi),Ford,245.0,21943.0,running,0.0,76.0
+2009,27,Richmond,30.0,30.0,72.0,Benny Gordon,VSI / Samuel & Sons / 9/11 Memorial (Frank Varischetti),Ford,245.0,15375.0,running,0.0,73.0
+2009,27,Richmond,31.0,40.0,10.0,Justin Marks,Braun Ability (Todd Braun),Toyota,245.0,22088.0,running,0.0,70.0
+2009,27,Richmond,32.0,14.0,38.0,Jason Leffler,Great Clips / Comcast (Todd Braun),Toyota,227.0,21703.0,running,0.0,67.0
+2009,27,Richmond,33.0,34.0,61.0,Matt Carter,Specialty Racing (Charles Shoffner),Ford,77.0,21643.0,handling,0.0,64.0
+2009,27,Richmond,34.0,43.0,96.0,Dennis Setzer,ConelyAuto.com (Dusty Whitney),Dodge,47.0,15140.0,vibration,0.0,61.0
+2009,27,Richmond,35.0,22.0,70.0,Shelby Howard,Foretravel Motorcoach (Mary Louise Miller),Chevrolet,40.0,21558.0,crash,0.0,58.0
+2009,27,Richmond,36.0,33.0,87.0,Joe Nemechek,NEMCO Motorsports (Joe Nemechek),Chevrolet,32.0,21498.0,overheating,0.0,55.0
+2009,27,Richmond,37.0,26.0,7.0,Josh Wise,SK Motorsports (Pete Szekeres),Chevrolet,23.0,21438.0,electrical,0.0,52.0
+2009,27,Richmond,38.0,7.0,49.0,Mark Green,GetMoreVacations.com (Jay Robinson),Chevrolet,22.0,14890.0,brakes,0.0,49.0
+2009,27,Richmond,39.0,11.0,91.0,Justin Hobgood,MSRP Motorsports (MSRP Motorsports),Chevrolet,18.0,14845.0,parked,0.0,46.0
+2009,27,Richmond,40.0,28.0,0.0,J.C. Stout,SponsorDavis.com (Johnny Davis),Chevrolet,17.0,14805.0,electrical,0.0,43.0
+2009,27,Richmond,41.0,13.0,47.0,Coleman Pressley,ConstructionJobs.com (JTG-Daugherty Racing),Toyota,16.0,21233.0,overheating,0.0,40.0
+2009,27,Richmond,42.0,21.0,90.0,Johnny Chapman,MSRP Motorsports (MSRP Motorsports),Chevrolet,8.0,14725.0,overheating,0.0,37.0
+2009,27,Richmond,43.0,20.0,78.0,Kevin Lepage,Derrike Cope Inc. (Derrike Cope),Dodge,0.0,14677.0,crash,0.0,34.0
+2009,28,Dover,1.0,16.0,29.0,Clint Bowyer,Holiday Inn / Holiday Inn Express (Richard Childress),Chevrolet,200.0,42070.0,running,83.0,190.0
+2009,28,Dover,2.0,3.0,11.0,Mike Bliss,Ridemakerz (Bryan Mullet),Toyota,200.0,43518.0,running,0.0,170.0
+2009,28,Dover,3.0,12.0,88.0,Brad Keselowski,GoDaddy (JR Motorsports),Chevrolet,200.0,30093.0,running,7.0,170.0
+2009,28,Dover,4.0,1.0,18.0,Kyle Busch,NOS Energy Drink (Joe Gibbs),Toyota,200.0,27400.0,running,109.0,170.0
+2009,28,Dover,5.0,2.0,60.0,Carl Edwards,Scotts Wild Bird Food / Songbird Selections (Jack Roush),Ford,200.0,19875.0,running,1.0,160.0
+2009,28,Dover,6.0,15.0,38.0,Jason Leffler,Great Clips / Comcast (Todd Braun),Toyota,200.0,27243.0,running,0.0,150.0
+2009,28,Dover,7.0,10.0,10.0,Reed Sorenson,AccuDoc Solutions (Todd Braun),Toyota,200.0,17885.0,running,0.0,146.0
+2009,28,Dover,8.0,5.0,99.0,Scott Speed,Red Bull (Michael Waltrip),Toyota,200.0,17645.0,running,0.0,142.0
+2009,28,Dover,9.0,13.0,32.0,David Reutimann,Dollar General Stores (Todd Braun),Toyota,200.0,17300.0,running,0.0,138.0
+2009,28,Dover,10.0,18.0,27.0,Jason Keller,Depends / Rite Aid Against Prostate Cancer (Mike Curb),Ford,200.0,24168.0,running,0.0,134.0
+2009,28,Dover,11.0,11.0,16.0,Matt Kenseth,CitiFinancial (Jack Roush),Ford,200.0,16675.0,running,0.0,130.0
+2009,28,Dover,12.0,7.0,66.0,Steve Wallace,U.S. Fidelis (Rusty Wallace),Chevrolet,200.0,23018.0,running,0.0,127.0
+2009,28,Dover,13.0,42.0,15.0,Michael Annett,Pilot Travel Centers / Lumber Liquidators (Germain Racing),Toyota,200.0,24318.0,running,0.0,124.0
+2009,28,Dover,14.0,32.0,40.0,Scott Wimmer,StopRepairBills.com (Curtis Key),Chevrolet,199.0,22793.0,running,0.0,121.0
+2009,28,Dover,15.0,29.0,34.0,Tony Raines,Long John Silver's (Bob Jenkins),Chevrolet,199.0,23768.0,running,0.0,118.0
+2009,28,Dover,16.0,24.0,1.0,Martin Truex Jr,Miccosukee Resort & Gaming (James Finch),Chevrolet,199.0,16175.0,running,0.0,115.0
+2009,28,Dover,17.0,17.0,6.0,Erik Darnell,Northern Tool + Equipment (Jack Roush),Ford,198.0,22568.0,running,0.0,112.0
+2009,28,Dover,18.0,8.0,9.0,John Wes Townley,Zaxby's (Robby Benton),Ford,198.0,22518.0,running,0.0,109.0
+2009,28,Dover,19.0,36.0,62.0,Brendan Gaughan,5-Hour Energy Extra Strength (Rusty Wallace),Chevrolet,198.0,22468.0,running,0.0,106.0
+2009,28,Dover,20.0,30.0,28.0,Kenny Wallace,U.S. Border Patrol (Jay Robinson),Chevrolet,197.0,23268.0,running,0.0,103.0
+2009,28,Dover,21.0,20.0,89.0,Morgan Shepherd,Lagina Plumbing / Eldora Speedway (Morgan Shepherd),Chevrolet,196.0,22368.0,running,0.0,100.0
+2009,28,Dover,22.0,35.0,1.0,Mike Wallace,WSFS Bank (Johnny Davis),Chevrolet,195.0,22268.0,running,0.0,97.0
+2009,28,Dover,23.0,33.0,23.0,Ken Butler III,"Aaron's Dream Machine (Robert Richardson, Sr.)",Chevrolet,195.0,22593.0,running,0.0,94.0
+2009,28,Dover,24.0,40.0,24.0,Eric McClure,Hefty (Ed Rensi),Ford,195.0,22143.0,running,0.0,91.0
+2009,28,Dover,25.0,26.0,12.0,Justin Allgaier,Verizon Wireless (Roger Penske),Dodge,192.0,22093.0,running,0.0,88.0
+2009,28,Dover,26.0,38.0,61.0,Matt Carter,Specialty Racing (Charles Shoffner),Ford,191.0,22193.0,running,0.0,85.0
+2009,28,Dover,27.0,4.0,20.0,Denny Hamlin,Doosan Infracore (Joe Gibbs),Toyota,189.0,15525.0,crash,0.0,82.0
+2009,28,Dover,28.0,37.0,81.0,"Bobby Hamilton, Jr.",AA Auto Warranty (Pat MacDonald),Dodge,185.0,21943.0,running,0.0,79.0
+2009,28,Dover,29.0,23.0,96.0,Michael McDowell,Fischer Honda (Dusty Whitney),Dodge,150.0,15400.0,running,0.0,76.0
+2009,28,Dover,30.0,6.0,33.0,Ryan Newman,Copart (Kevin Harvick),Chevrolet,144.0,15650.0,crash,0.0,73.0
+2009,28,Dover,31.0,14.0,31.0,Tim Andrews,Circle K Thirst Buster (Rick Ware),Chevrolet,100.0,15295.0,engine,0.0,70.0
+2009,28,Dover,32.0,28.0,52.0,Brad Teague,Harrington Raceway & Casino (Jimmy Means),Chevrolet,51.0,15235.0,ignition,0.0,67.0
+2009,28,Dover,33.0,22.0,7.0,Jarit Johnson,Dynamic Technology (Pete Szekeres),Chevrolet,35.0,21643.0,ignition,0.0,64.0
+2009,28,Dover,34.0,41.0,26.0,"Danny O'Quinn, Jr.",Detroit Tigers / 2XL (Dusty Whitney),Dodge,34.0,21608.0,transmission,0.0,61.0
+2009,28,Dover,35.0,27.0,87.0,Joe Nemechek,NEMCO Motorsports (Joe Nemechek),Chevrolet,25.0,21578.0,ignition,0.0,58.0
+2009,28,Dover,36.0,25.0,5.0,Casey Atwood,31-W Insulation (Wayne Day),Chevrolet,10.0,21553.0,vibration,0.0,55.0
+2009,28,Dover,37.0,43.0,2.0,Andy Ponstein,CorrieStottRacing.com (Corrie Stott),Chevrolet,6.0,15065.0,electrical,0.0,52.0
+2009,28,Dover,38.0,9.0,92.0,Dennis Setzer,Dusty's Collision (Dusty Whitney),Dodge,4.0,15000.0,handling,0.0,49.0
+2009,28,Dover,39.0,31.0,91.0,Chase Miller,MSRP Motorsports (MSRP Motorsports),Chevrolet,3.0,14975.0,brakes,0.0,46.0
+2009,28,Dover,40.0,19.0,90.0,Johnny Chapman,MSRP Motorsports (MSRP Motorsports),Chevrolet,3.0,14920.0,handling,0.0,43.0
+2009,28,Dover,41.0,39.0,47.0,Coleman Pressley,ConstructionJobs.com / Pacific Packaging (JTG-Daugherty Racing),Toyota,2.0,21363.0,suspension,0.0,40.0
+2009,28,Dover,42.0,34.0,49.0,Mark Green,GetMoreVacations.com (Jay Robinson),Chevrolet,2.0,21328.0,electrical,0.0,37.0
+2009,28,Dover,43.0,21.0,41.0,Kevin Hamlin,Circle K Thirst Buster / FastWax.com (Rick Ware),Chevrolet,1.0,14804.0,engine,0.0,34.0
+2009,29,Kansas,1.0,7.0,20.0,Joey Logano,GameStop / Our House Party (Joe Gibbs),Toyota,200.0,79270.0,running,4.0,190.0
+2009,29,Kansas,2.0,2.0,18.0,Kyle Busch,NOS Energy Drink (Joe Gibbs),Toyota,200.0,63775.0,running,173.0,180.0
+2009,29,Kansas,3.0,19.0,88.0,Brad Keselowski,Delphi (JR Motorsports),Chevrolet,200.0,56118.0,running,7.0,170.0
+2009,29,Kansas,4.0,14.0,33.0,Kevin Harvick,Jimmy John's Gourmet Sandwiches (Kevin Harvick),Chevrolet,200.0,39850.0,running,0.0,160.0
+2009,29,Kansas,5.0,3.0,16.0,Greg Biffle,CitiFinancial (Jack Roush),Ford,200.0,34825.0,running,4.0,160.0
+2009,29,Kansas,6.0,18.0,12.0,Justin Allgaier,Verizon Wireless (Roger Penske),Dodge,200.0,39693.0,running,0.0,150.0
+2009,29,Kansas,7.0,5.0,60.0,Carl Edwards,Save-A-Lot (Jack Roush),Ford,200.0,29525.0,running,0.0,146.0
+2009,29,Kansas,8.0,11.0,99.0,Scott Speed,Red Bull (Michael Waltrip),Toyota,200.0,28325.0,running,0.0,142.0
+2009,29,Kansas,9.0,34.0,29.0,Clint Bowyer,Holiday Inn / Holiday Inn Express (Richard Childress),Chevrolet,200.0,27535.0,running,0.0,138.0
+2009,29,Kansas,10.0,13.0,10.0,Reed Sorenson,AccuDoc Solutions (Todd Braun),Toyota,200.0,26475.0,running,0.0,134.0
+2009,29,Kansas,11.0,10.0,38.0,Jason Leffler,Great Clips (Todd Braun),Toyota,200.0,31643.0,running,0.0,130.0
+2009,29,Kansas,12.0,15.0,5.0,Scott Wimmer,Fastenal (JR Motorsports),Chevrolet,200.0,31093.0,running,0.0,127.0
+2009,29,Kansas,13.0,26.0,27.0,Jason Keller,Scott Tissue / Huggies (Mike Curb),Ford,200.0,30943.0,running,0.0,124.0
+2009,29,Kansas,14.0,8.0,11.0,Brian Scott,Ridemakerz (Bryan Mullet),Toyota,200.0,30033.0,running,0.0,121.0
+2009,29,Kansas,15.0,27.0,66.0,Steve Wallace,U.S. Fidelis (Rusty Wallace),Chevrolet,200.0,29848.0,running,0.0,118.0
+2009,29,Kansas,16.0,1.0,22.0,Parker Kligerman,Penske Truck Rental (Roger Penske),Dodge,200.0,27595.0,running,7.0,120.0
+2009,29,Kansas,17.0,22.0,1.0,Mike Wallace,Village West Discount Liquors (Johnny Davis),Chevrolet,200.0,31578.0,running,0.0,112.0
+2009,29,Kansas,18.0,12.0,6.0,Erik Darnell,Northern Tool + Equipment (Jack Roush),Ford,200.0,28818.0,running,0.0,109.0
+2009,29,Kansas,19.0,6.0,1.0,David Gilliland,Miccosukee Resort & Gaming (James Finch),Chevrolet,200.0,28608.0,running,0.0,106.0
+2009,29,Kansas,20.0,37.0,28.0,Kenny Wallace,U.S. Border Patrol (Jay Robinson),Chevrolet,200.0,29248.0,running,0.0,103.0
+2009,29,Kansas,21.0,36.0,40.0,Mike Bliss,StopRepairBills.com (Curtis Key),Chevrolet,200.0,28288.0,running,0.0,100.0
+2009,29,Kansas,22.0,31.0,23.0,"Robert Richardson, Jr.","Mahindra Tractors (Robert Richardson, Sr.)",Chevrolet,199.0,28178.0,running,0.0,97.0
+2009,29,Kansas,23.0,40.0,34.0,Tony Raines,Long John Silver's (Bob Jenkins),Dodge,197.0,28468.0,running,0.0,94.0
+2009,29,Kansas,24.0,41.0,26.0,Kevin Conway,"Extenze (Robert Richardson, Sr.)",Chevrolet,197.0,27958.0,running,0.0,91.0
+2009,29,Kansas,25.0,42.0,24.0,Eric McClure,Hefty (Ed Rensi),Ford,196.0,27973.0,running,0.0,88.0
+2009,29,Kansas,26.0,29.0,70.0,Shelby Howard,Foretravel Motorcoach (Mary Louise Miller),Chevrolet,195.0,21220.0,running,0.0,85.0
+2009,29,Kansas,27.0,39.0,61.0,Matt Carter,Specialty Racing (Charles Shoffner),Ford,194.0,27578.0,running,0.0,82.0
+2009,29,Kansas,28.0,4.0,32.0,Brian Vickers,Dollar General Stores (Todd Braun),Toyota,191.0,21740.0,crash,5.0,84.0
+2009,29,Kansas,29.0,17.0,62.0,Brendan Gaughan,5-Hour Energy Extra Strength (Rusty Wallace),Chevrolet,191.0,27308.0,crash,0.0,76.0
+2009,29,Kansas,30.0,9.0,15.0,Michael Annett,Germain Racing (Germain Racing),Toyota,181.0,27498.0,crash,0.0,73.0
+2009,29,Kansas,31.0,16.0,9.0,John Wes Townley,Zaxby's (Robby Benton),Ford,100.0,27088.0,suspension,0.0,70.0
+2009,29,Kansas,32.0,23.0,0.0,Jeremy Clements,Saxon Group / SponsorDavis.com (Johnny Davis),Chevrolet,96.0,20485.0,oil pump,0.0,67.0
+2009,29,Kansas,33.0,32.0,77.0,Peyton Sellers,SFP (William Spencer),Chevrolet,74.0,20375.0,crash,0.0,64.0
+2009,29,Kansas,34.0,35.0,7.0,Jarit Johnson,"Dynamic Technology, Inc. (Pete Szekeres)",Chevrolet,44.0,26733.0,handling,0.0,61.0
+2009,29,Kansas,35.0,25.0,87.0,Joe Nemechek,NEMCO Motorsports (Joe Nemechek),Chevrolet,39.0,26623.0,ignition,0.0,58.0
+2009,29,Kansas,36.0,43.0,5.0,Casey Atwood,31-W Insulation (Wayne Day),Chevrolet,24.0,26513.0,electrical,0.0,55.0
+2009,29,Kansas,37.0,38.0,81.0,Patrick Sheltra,Buffalo Wings & Rings / MC2 Energy Drink (Pat MacDonald),Dodge,18.0,26398.0,crash,0.0,52.0
+2009,29,Kansas,38.0,33.0,49.0,Mark Green,GetMoreVacations.com (Jay Robinson),Chevrolet,16.0,19870.0,rear end,0.0,49.0
+2009,29,Kansas,39.0,21.0,47.0,Michael McDowell,ConstructionJobs.com (JTG-Daugherty Racing),Toyota,12.0,26183.0,electrical,0.0,46.0
+2009,29,Kansas,40.0,28.0,78.0,Kevin Lepage,The Holtze Hotel (Derrike Cope),Dodge,11.0,19605.0,overheating,0.0,43.0
+2009,29,Kansas,41.0,30.0,91.0,Terry Cook,MSRP Motorsports (MSRP Motorsports),Chevrolet,6.0,19470.0,handling,0.0,40.0
+2009,29,Kansas,42.0,24.0,90.0,Johnny Chapman,MSRP Motorsports (MSRP Motorsports),Chevrolet,4.0,19340.0,transmission,0.0,37.0
+2009,29,Kansas,43.0,20.0,44.0,"Danny O'Quinn, Jr.","Dynamic Technology, Inc. (Pete Szekeres)",Chevrolet,3.0,19212.0,electrical,0.0,34.0
+2009,30,Fontana,1.0,1.0,20.0,Joey Logano,GameStop / Brutal Legend (Joe Gibbs),Toyota,152.0,95670.0,running,20.0,190.0
+2009,30,Fontana,2.0,5.0,32.0,Brian Vickers,Dollar General Stores (Todd Braun),Toyota,152.0,63950.0,running,11.0,175.0
+2009,30,Fontana,3.0,16.0,60.0,Carl Edwards,Valvoline (Jack Roush),Ford,152.0,46925.0,running,11.0,170.0
+2009,30,Fontana,4.0,10.0,33.0,Kevin Harvick,Rheem Tankless Water Heaters (Kevin Harvick),Chevrolet,152.0,37800.0,running,0.0,160.0
+2009,30,Fontana,5.0,7.0,88.0,Brad Keselowski,GoDaddy (JR Motorsports),Chevrolet,152.0,38018.0,running,27.0,160.0
+2009,30,Fontana,6.0,24.0,15.0,Michael Annett,Germain Racing (Germain Racing),Toyota,152.0,42643.0,running,0.0,150.0
+2009,30,Fontana,7.0,18.0,62.0,Brendan Gaughan,5-Hour Energy Extra Strength (Rusty Wallace),Chevrolet,152.0,35603.0,running,0.0,146.0
+2009,30,Fontana,8.0,6.0,1.0,David Gilliland,Miccosukee Resort & Gaming (James Finch),Chevrolet,152.0,35213.0,running,0.0,142.0
+2009,30,Fontana,9.0,9.0,6.0,David Ragan,America's Tire / Discount Tire (Jack Roush),Ford,152.0,27125.0,running,0.0,138.0
+2009,30,Fontana,10.0,13.0,27.0,Jason Keller,Cottonelle / Stater Bros. (Mike Curb),Ford,152.0,33593.0,running,0.0,134.0
+2009,30,Fontana,11.0,22.0,98.0,Paul Menard,Richmond / Menards (Yates Racing),Ford,152.0,25800.0,running,0.0,130.0
+2009,30,Fontana,12.0,21.0,0.0,Jeremy Clements,Saxon Group / SponsorDavis.com (Johnny Davis),Chevrolet,152.0,25225.0,running,0.0,127.0
+2009,30,Fontana,13.0,8.0,81.0,Mike Bliss,MacDonald Motorsports (Pat MacDonald),Dodge,152.0,31718.0,running,0.0,124.0
+2009,30,Fontana,14.0,14.0,16.0,Greg Biffle,CitiFinancial (Jack Roush),Ford,152.0,24150.0,running,15.0,126.0
+2009,30,Fontana,15.0,25.0,1.0,Mike Wallace,SponsorDavis.com (Johnny Davis),Chevrolet,152.0,33943.0,running,1.0,123.0
+2009,30,Fontana,16.0,3.0,12.0,Justin Allgaier,Verizon Wireless (Roger Penske),Dodge,152.0,30918.0,running,0.0,115.0
+2009,30,Fontana,17.0,23.0,9.0,John Wes Townley,Zaxby's (Robby Benton),Ford,152.0,30043.0,running,0.0,112.0
+2009,30,Fontana,18.0,32.0,23.0,Kevin Conway,"Extenze (Robert Richardson, Sr.)",Chevrolet,152.0,29918.0,running,0.0,109.0
+2009,30,Fontana,19.0,11.0,11.0,Trevor Bayne,Ridemakerz (Bryan Mullet),Toyota,152.0,29768.0,running,0.0,106.0
+2009,30,Fontana,20.0,39.0,34.0,Tony Raines,Long John Silver's (Bob Jenkins),Chevrolet,152.0,30493.0,running,1.0,108.0
+2009,30,Fontana,21.0,40.0,40.0,Scott Wimmer,StopRepairBills.com (Curtis Key),Chevrolet,152.0,29518.0,running,0.0,100.0
+2009,30,Fontana,22.0,19.0,83.0,Johnny Borneman III,"Borneman Plastering / Twisted X Boots (John Borneman, Jr.)",Ford,152.0,22925.0,running,0.0,97.0
+2009,30,Fontana,23.0,12.0,10.0,Brian Scott,AccuDoc Solutions (Todd Braun),Toyota,152.0,29643.0,running,0.0,94.0
+2009,30,Fontana,24.0,41.0,28.0,Kenny Wallace,U.S. Border Patrol (Jay Robinson),Chevrolet,152.0,29118.0,running,0.0,91.0
+2009,30,Fontana,25.0,36.0,61.0,Matt Carter,Specialty Racing (Charles Shoffner),Ford,152.0,29143.0,running,0.0,88.0
+2009,30,Fontana,26.0,29.0,29.0,Clint Bowyer,Holiday Inn / Holiday Inn Express (Richard Childress),Chevrolet,152.0,23400.0,running,0.0,85.0
+2009,30,Fontana,27.0,4.0,99.0,Scott Speed,Red Bull (Michael Waltrip),Toyota,152.0,22800.0,running,0.0,82.0
+2009,30,Fontana,28.0,42.0,24.0,Eric McClure,Hefty (Ed Rensi),Ford,152.0,28568.0,running,0.0,79.0
+2009,30,Fontana,29.0,15.0,66.0,Steve Wallace,U.S. Fidelis (Rusty Wallace),Chevrolet,152.0,28443.0,running,0.0,76.0
+2009,30,Fontana,30.0,17.0,38.0,Jason Leffler,Great Clips (Todd Braun),Toyota,149.0,28618.0,running,0.0,73.0
+2009,30,Fontana,31.0,2.0,18.0,Kyle Busch,Z-Line Designs (Joe Gibbs),Toyota,141.0,22770.0,crash,66.0,80.0
+2009,30,Fontana,32.0,38.0,26.0,Michael McDowell,"AT&T ""The Real Yellow Pages"" (Dusty Whitney)",Dodge,124.0,28053.0,crash,0.0,67.0
+2009,30,Fontana,33.0,43.0,89.0,Morgan Shepherd,Lagina Plumbing / Eldora Speedway (Morgan Shepherd),Chevrolet,101.0,27943.0,engine,0.0,64.0
+2009,30,Fontana,34.0,20.0,7.0,"Danny O'Quinn, Jr.","Dynamic Technology, Inc. / Hampton Inn (Pete Szekeres)",Chevrolet,44.0,27833.0,transmission,0.0,61.0
+2009,30,Fontana,35.0,34.0,49.0,Mark Green,GetMoreVacations.com (Jay Robinson),Chevrolet,42.0,27728.0,handling,0.0,58.0
+2009,30,Fontana,36.0,28.0,96.0,Dennis Setzer,Fischer Honda (Dusty Whitney),Dodge,40.0,21225.0,overheating,0.0,55.0
+2009,30,Fontana,37.0,30.0,87.0,Joe Nemechek,NEMCO Motorsports (Joe Nemechek),Chevrolet,31.0,27658.0,transmission,0.0,52.0
+2009,30,Fontana,38.0,37.0,41.0,Kevin Hamlin,Circle K Thirst Buster / Fuel Doctor (Rick Ware),Chevrolet,9.0,21135.0,rear end,0.0,49.0
+2009,30,Fontana,39.0,27.0,73.0,Derrike Cope,Derrike Cope Inc. (Derrike Cope),Dodge,7.0,21095.0,vibration,0.0,46.0
+2009,30,Fontana,40.0,31.0,78.0,Kevin Lepage,CKM (Derrike Cope),Dodge,6.0,21065.0,drive shaft,0.0,43.0
+2009,30,Fontana,41.0,35.0,91.0,Terry Cook,MSRP Motorsports (MSRP Motorsports),Chevrolet,5.0,21030.0,rear end,0.0,40.0
+2009,30,Fontana,42.0,33.0,90.0,Johnny Chapman,MSRP Motorsports (MSRP Motorsports),Chevrolet,4.0,20990.0,transmission,0.0,37.0
+2009,30,Fontana,43.0,26.0,47.0,Chase Miller,ConstructionJobs.com (JTG-Daugherty Racing),Toyota,3.0,27400.0,brakes,0.0,34.0
+2009,31,Charlotte,1.0,5.0,18.0,Kyle Busch,Z-Line Designs (Joe Gibbs),Toyota,200.0,69745.0,running,137.0,195.0
+2009,31,Charlotte,2.0,11.0,11.0,Mike Bliss,Ridemakerz.com (Bryan Mullet),Toyota,200.0,65818.0,running,0.0,170.0
+2009,31,Charlotte,3.0,12.0,87.0,Dave Blaney,AccuDoc Solutions (Todd Braun),Toyota,200.0,47018.0,running,0.0,165.0
+2009,31,Charlotte,4.0,9.0,32.0,Brian Vickers,Dollar General (Todd Braun),Toyota,200.0,32725.0,running,8.0,165.0
+2009,31,Charlotte,5.0,1.0,60.0,Carl Edwards,Ortho Mouse & Rat Control (Jack Roush),Ford,200.0,36650.0,running,0.0,155.0
+2009,31,Charlotte,6.0,29.0,88.0,Brad Keselowski,Hellmann's Real Fan of the Year (JR Motorsports),Chevrolet,200.0,30693.0,running,0.0,150.0
+2009,31,Charlotte,7.0,15.0,33.0,Ryan Newman,Hungry Man (Kevin Harvick),Chevrolet,200.0,23385.0,running,0.0,146.0
+2009,31,Charlotte,8.0,16.0,43.0,Kasey Kahne,Auto Value / Bumper to Bumper (Mike Curb),Toyota,200.0,21895.0,running,1.0,147.0
+2009,31,Charlotte,9.0,25.0,29.0,Jeff Burton,Holiday Inn / Holiday Inn Express (Richard Childress),Chevrolet,200.0,20800.0,running,24.0,143.0
+2009,31,Charlotte,10.0,35.0,34.0,Tony Raines,Long John Silver's (Bob Jenkins),Chevrolet,200.0,27043.0,running,0.0,134.0
+2009,31,Charlotte,11.0,22.0,5.0,Tony Stewart,Delphi (JR Motorsports),Chevrolet,200.0,19075.0,running,1.0,135.0
+2009,31,Charlotte,12.0,3.0,12.0,Justin Allgaier,Verizon Wireless (Roger Penske),Dodge,200.0,26093.0,running,0.0,127.0
+2009,31,Charlotte,13.0,31.0,15.0,Michael Annett,Lumber Liquidators (Germain Racing),Toyota,200.0,24793.0,running,0.0,124.0
+2009,31,Charlotte,14.0,10.0,20.0,Joey Logano,GameStop (Joe Gibbs),Toyota,199.0,17575.0,running,4.0,126.0
+2009,31,Charlotte,15.0,30.0,62.0,Brendan Gaughan,U.S. Fidelis (Rusty Wallace),Chevrolet,199.0,24118.0,running,0.0,118.0
+2009,31,Charlotte,16.0,8.0,10.0,Reed Sorenson,Dollar General (Todd Braun),Toyota,199.0,17850.0,running,0.0,115.0
+2009,31,Charlotte,17.0,19.0,27.0,Jason Keller,Kleenex / Bi-Lo (Mike Curb),Ford,199.0,23368.0,running,0.0,112.0
+2009,31,Charlotte,18.0,39.0,24.0,Eric McClure,Hefty SteelSak (Ed Rensi),Ford,199.0,23168.0,running,0.0,109.0
+2009,31,Charlotte,19.0,4.0,1.0,David Gilliland,Miccosukee Resort & Gaming (James Finch),Chevrolet,198.0,23093.0,running,0.0,106.0
+2009,31,Charlotte,20.0,13.0,99.0,David Reutimann,Lowe's Foods (Michael Waltrip),Toyota,198.0,16875.0,running,0.0,103.0
+2009,31,Charlotte,21.0,14.0,28.0,Kenny Wallace,U.S. Border Patrol (Jay Robinson),Chevrolet,198.0,25543.0,running,1.0,105.0
+2009,31,Charlotte,22.0,20.0,0.0,Jeremy Clements,NuTone Heating & Cooling Products (Johnny Davis),Chevrolet,198.0,22593.0,running,0.0,97.0
+2009,31,Charlotte,23.0,28.0,96.0,Michael McDowell,"AT&T ""The Real Yellow Pages"" (Dusty Whitney)",Dodge,198.0,16425.0,running,0.0,94.0
+2009,31,Charlotte,24.0,32.0,26.0,Kevin Conway,"Extenze (Robert Richardson, Sr.)",Chevrolet,197.0,22393.0,running,0.0,91.0
+2009,31,Charlotte,25.0,40.0,40.0,Scott Wimmer,Westerman Companies (Curtis Key),Chevrolet,197.0,22293.0,running,0.0,88.0
+2009,31,Charlotte,26.0,26.0,31.0,Tim Andrews,LibertyPort.com (Rick Ware),Chevrolet,195.0,15900.0,running,0.0,85.0
+2009,31,Charlotte,27.0,43.0,42.0,Aric Almirola,Smith Iron Works / National Tailgating League (Eddie Smith),Dodge,194.0,15625.0,running,0.0,82.0
+2009,31,Charlotte,28.0,27.0,9.0,John Wes Townley,Zaxby's (Robby Benton),Ford,179.0,22018.0,running,0.0,79.0
+2009,31,Charlotte,29.0,42.0,61.0,Matt Carter,Specialty Racing (Charles Shoffner),Ford,163.0,21968.0,running,0.0,76.0
+2009,31,Charlotte,30.0,38.0,1.0,Mike Wallace,Sun Drop (Johnny Davis),Chevrolet,114.0,22218.0,overheating,0.0,73.0
+2009,31,Charlotte,31.0,34.0,66.0,Steve Wallace,5-Hour Energy Drink (Rusty Wallace),Chevrolet,79.0,21863.0,crash,0.0,70.0
+2009,31,Charlotte,32.0,33.0,38.0,Jason Leffler,Great Clips (Todd Braun),Toyota,70.0,21803.0,crash,0.0,67.0
+2009,31,Charlotte,33.0,2.0,16.0,Matt Kenseth,CitiFinancial (Jack Roush),Ford,69.0,15575.0,crash,24.0,-31.0
+2009,31,Charlotte,34.0,6.0,6.0,Erik Darnell,Northern Tool + Equipment (Jack Roush),Ford,68.0,21758.0,crash,0.0,61.0
+2009,31,Charlotte,35.0,37.0,23.0,Ken Butler III,"Aaron's Outdoors Mossy Oak (Robert Richardson, Sr.)",Chevrolet,68.0,21678.0,crash,0.0,58.0
+2009,31,Charlotte,36.0,41.0,81.0,Kevin Hamlin,D.H. Griffin Companies (Pat MacDonald),Dodge,62.0,21643.0,crash,0.0,55.0
+2009,31,Charlotte,37.0,21.0,7.0,"Danny O'Quinn, Jr.",Dynamic Technology (Pete Szekeres),Chevrolet,52.0,21608.0,handling,0.0,52.0
+2009,31,Charlotte,38.0,17.0,49.0,Mark Green,Anderson's Pure Maple Syrup (Jay Robinson),Chevrolet,50.0,21553.0,rear end,0.0,49.0
+2009,31,Charlotte,39.0,23.0,2.0,Andy Ponstein,CorrieStottRacing.com (Corrie Stott),Chevrolet,27.0,15045.0,rear end,0.0,0.0
+2009,31,Charlotte,40.0,7.0,17.0,Ricky Stenhouse Jr,Save-A-Lot (Jack Roush),Ford,12.0,15070.0,crash,0.0,43.0
+2009,31,Charlotte,41.0,36.0,47.0,Chase Miller,ConstructionJobs.com (JTG-Daugherty Racing),Toyota,4.0,21458.0,overheating,0.0,40.0
+2009,31,Charlotte,42.0,18.0,92.0,Dennis Setzer,K Automotive Performance (Dusty Whitney),Dodge,3.0,14950.0,oil pump,0.0,37.0
+2009,31,Charlotte,43.0,24.0,90.0,Johnny Chapman,MSRP Motorsports (MSRP Motorsports),Chevrolet,3.0,14902.0,overheating,0.0,34.0
+2009,32,Memphis,1.0,7.0,88.0,Brad Keselowski,Delphi (JR Motorsports),Chevrolet,254.0,80338.0,running,34.0,190.0
+2009,32,Memphis,2.0,11.0,18.0,Kyle Busch,FedEx (Joe Gibbs),Toyota,254.0,42025.0,running,17.0,175.0
+2009,32,Memphis,3.0,29.0,38.0,Jason Leffler,Great Clips (Todd Braun),Toyota,254.0,44993.0,running,0.0,165.0
+2009,32,Memphis,4.0,6.0,11.0,Mike Bliss,Ridemakerz (Bryan Mullet),Toyota,254.0,37793.0,running,85.0,170.0
+2009,32,Memphis,5.0,13.0,62.0,Brendan Gaughan,U.S. Fidelis (Rusty Wallace),Chevrolet,254.0,32693.0,running,8.0,160.0
+2009,32,Memphis,6.0,35.0,60.0,Carl Edwards,Save-A-Lot (Jack Roush),Ford,254.0,25050.0,running,65.0,155.0
+2009,32,Memphis,7.0,2.0,40.0,Scott Wimmer,StopRepairBills.com (Curtis Key),Chevrolet,254.0,29493.0,running,0.0,146.0
+2009,32,Memphis,8.0,17.0,99.0,David Reutimann,Aaron's Dream Machine (Michael Waltrip),Toyota,254.0,20500.0,running,0.0,142.0
+2009,32,Memphis,9.0,31.0,29.0,Stephen Leicht,Holiday Inn / Holiday Inn Express (Richard Childress),Chevrolet,254.0,26693.0,running,0.0,138.0
+2009,32,Memphis,10.0,14.0,1.0,Landon Cassill,Miccosukee Resort & Gaming (James Finch),Chevrolet,254.0,27068.0,running,0.0,134.0
+2009,32,Memphis,11.0,18.0,16.0,Matt Kenseth,CitiFinancial (Jack Roush),Ford,254.0,19725.0,running,0.0,130.0
+2009,32,Memphis,12.0,15.0,70.0,Shelby Howard,Foretravel Motorcoach (Mary Louise Miller),Chevrolet,254.0,19600.0,running,0.0,102.0
+2009,32,Memphis,13.0,5.0,28.0,Kenny Wallace,U.S. Border Patrol (Jay Robinson),Chevrolet,254.0,26818.0,running,2.0,129.0
+2009,32,Memphis,14.0,4.0,20.0,Matt DiBenedetto,Pizza Ranch (Joe Gibbs),Toyota,254.0,26543.0,running,0.0,121.0
+2009,32,Memphis,15.0,10.0,1.0,Mike Wallace,NuTone Heating & Cooling Products (Johnny Davis),Chevrolet,254.0,26668.0,running,0.0,118.0
+2009,32,Memphis,16.0,34.0,15.0,Michael Annett,Germain Racing (Germain Racing),Toyota,254.0,27993.0,running,9.0,120.0
+2009,32,Memphis,17.0,25.0,81.0,Blake Koch,Joe Michael / Crusader Staffing (Pat MacDonald),Dodge,254.0,25368.0,running,0.0,112.0
+2009,32,Memphis,18.0,38.0,34.0,Tony Raines,Long John Silver's (Bob Jenkins),Chevrolet,254.0,25218.0,running,0.0,109.0
+2009,32,Memphis,19.0,1.0,12.0,Justin Allgaier,Verizon Wireless (Roger Penske),Dodge,254.0,29693.0,running,34.0,111.0
+2009,32,Memphis,20.0,12.0,66.0,Steve Wallace,5-Hour Energy Drink (Rusty Wallace),Chevrolet,253.0,25818.0,running,0.0,103.0
+2009,32,Memphis,21.0,43.0,96.0,Michael McDowell,"AT&T ""The Real Yellow Pages"" (Dusty Whitney)",Dodge,252.0,18375.0,running,0.0,100.0
+2009,32,Memphis,22.0,27.0,39.0,Eddie MacDonald,Go Green Racing (Archie St. Hilaire),Ford,250.0,18250.0,running,0.0,97.0
+2009,32,Memphis,23.0,3.0,5.0,Richard Boswell,Racing Collectibles Club of America (JR Motorsports),Chevrolet,249.0,19500.0,running,0.0,94.0
+2009,32,Memphis,24.0,30.0,10.0,Justin Marks,Construct Corps (Todd Braun),Toyota,249.0,24468.0,running,0.0,91.0
+2009,32,Memphis,25.0,32.0,33.0,Kelly Bires,Copart (Kevin Harvick),Chevrolet,235.0,24543.0,running,0.0,88.0
+2009,32,Memphis,26.0,33.0,32.0,Brian Ickler,Dollar General Stores (Todd Braun),Toyota,234.0,24348.0,crash,0.0,85.0
+2009,32,Memphis,27.0,37.0,26.0,Kevin Conway,"Extenze (Robert Richardson, Sr.)",Chevrolet,215.0,17825.0,running,0.0,82.0
+2009,32,Memphis,28.0,21.0,27.0,Jason Keller,Cottonelle (Mike Curb),Ford,207.0,24248.0,engine,0.0,79.0
+2009,32,Memphis,29.0,24.0,0.0,Jeremy Clements,Saxon Group (Johnny Davis),Chevrolet,206.0,17745.0,oil pump,0.0,76.0
+2009,32,Memphis,30.0,42.0,24.0,Eric McClure,Hefty (Ed Rensi),Ford,163.0,24478.0,crash,0.0,73.0
+2009,32,Memphis,31.0,22.0,6.0,Erik Darnell,Northern Tool + Equipment (Jack Roush),Ford,152.0,24143.0,crash,0.0,70.0
+2009,32,Memphis,32.0,36.0,23.0,"Robert Richardson, Jr.","Mahindra Tractors (Robert Richardson, Sr.)",Chevrolet,89.0,24108.0,crash,0.0,67.0
+2009,32,Memphis,33.0,9.0,5.0,Mark Day,31-W Insulation (Wayne Day),Chevrolet,86.0,17605.0,overheating,0.0,64.0
+2009,32,Memphis,34.0,23.0,89.0,Morgan Shepherd,Lagina Plumbing / Eldora Speedway (Morgan Shepherd),Chevrolet,58.0,17570.0,brakes,0.0,61.0
+2009,32,Memphis,35.0,41.0,87.0,Jeff Fuller,NEMCO Motorsports (Joe Nemechek),Chevrolet,52.0,24003.0,overheating,0.0,58.0
+2009,32,Memphis,36.0,16.0,2.0,Andy Ponstein,CorrieStottRacing.com (Corrie Stott),Chevrolet,38.0,17500.0,vibration,0.0,55.0
+2009,32,Memphis,37.0,40.0,61.0,Kenny Hendrick,Specialty Racing (Charles Shoffner),Ford,25.0,23928.0,brakes,0.0,52.0
+2009,32,Memphis,38.0,39.0,47.0,Coleman Pressley,ConstructionJobs.com (JTG-Daugherty Racing),Toyota,15.0,23873.0,overheating,0.0,49.0
+2009,32,Memphis,39.0,28.0,73.0,Chase Miller,Derrike Cope Inc. (Derrike Cope),Dodge,8.0,17370.0,crash,0.0,46.0
+2009,32,Memphis,40.0,20.0,9.0,John Wes Townley,Zaxby's (Robby Benton),Ford,7.0,17310.0,crash,0.0,43.0
+2009,32,Memphis,41.0,26.0,91.0,Justin Hobgood,MSRP Motorsports (MSRP Motorsports),Chevrolet,4.0,17270.0,brakes,0.0,40.0
+2009,32,Memphis,42.0,19.0,7.0,"Danny O'Quinn, Jr.",Fitz Racing (Pete Szekeres),Chevrolet,4.0,17235.0,ignition,0.0,37.0
+2009,32,Memphis,43.0,8.0,92.0,Willie Allen,K-Automotive Motorsports (Dusty Whitney),Dodge,3.0,17130.0,vibration,0.0,34.0
+2009,33,Fort Worth,1.0,6.0,18.0,Kyle Busch,Z-Line Designs / WWE Raw (Joe Gibbs),Toyota,200.0,68270.0,running,179.0,170.0
+2009,33,Fort Worth,2.0,14.0,29.0,Casey Mears,Holiday Inn / Holiday Inn Express (Richard Childress),Chevrolet,200.0,52875.0,running,0.0,170.0
+2009,33,Fort Worth,3.0,3.0,38.0,Jason Leffler,Great Clips (Todd Braun),Toyota,200.0,49543.0,running,0.0,165.0
+2009,33,Fort Worth,4.0,1.0,16.0,Matt Kenseth,CitiFinancial (Jack Roush),Ford,200.0,35525.0,running,10.0,165.0
+2009,33,Fort Worth,5.0,7.0,88.0,Brad Keselowski,Degree V12 (JR Motorsports),Chevrolet,200.0,32468.0,running,4.0,160.0
+2009,33,Fort Worth,6.0,5.0,33.0,Kevin Harvick,Jimmy John's Gourmet Sandwiches (Kevin Harvick),Chevrolet,200.0,24500.0,running,6.0,155.0
+2009,33,Fort Worth,7.0,9.0,32.0,Brian Vickers,Dollar General Stores (Todd Braun),Toyota,200.0,22960.0,running,0.0,146.0
+2009,33,Fort Worth,8.0,2.0,6.0,David Ragan,Discount Tire (Jack Roush),Ford,200.0,21520.0,running,0.0,142.0
+2009,33,Fort Worth,9.0,8.0,60.0,Carl Edwards,Ortho Mouse & Rat Control / Home Defense Max (Jack Roush),Ford,200.0,21425.0,running,0.0,138.0
+2009,33,Fort Worth,10.0,10.0,11.0,Mike Bliss,Ridemakerz (Bryan Mullet),Toyota,200.0,26518.0,running,0.0,134.0
+2009,33,Fort Worth,11.0,28.0,1.0,James Buescher,Miccosukee Resort & Gaming (James Finch),Chevrolet,200.0,25193.0,running,0.0,130.0
+2009,33,Fort Worth,12.0,16.0,27.0,Jason Keller,Scott Tissue / Brookshire's (Mike Curb),Ford,200.0,24643.0,running,0.0,127.0
+2009,33,Fort Worth,13.0,11.0,99.0,Trevor Bayne,Aaron's Outdoors Mossy Oak (Michael Waltrip),Toyota,200.0,24518.0,running,0.0,124.0
+2009,33,Fort Worth,14.0,24.0,40.0,Scott Wimmer,StopRepairBills.com (Curtis Key),Chevrolet,200.0,23693.0,running,0.0,121.0
+2009,33,Fort Worth,15.0,37.0,34.0,Tony Raines,Long John Silver's (Bob Jenkins),Chevrolet,200.0,24518.0,running,0.0,118.0
+2009,33,Fort Worth,16.0,18.0,62.0,Brendan Gaughan,Loan Star Title Loans (Rusty Wallace),Chevrolet,200.0,24343.0,running,0.0,115.0
+2009,33,Fort Worth,17.0,29.0,28.0,Kenny Wallace,U.S. Border Patrol (Jay Robinson),Chevrolet,198.0,23218.0,running,0.0,112.0
+2009,33,Fort Worth,18.0,27.0,9.0,John Wes Townley,Zaxby's (Robby Benton),Ford,197.0,25193.0,running,0.0,109.0
+2009,33,Fort Worth,19.0,33.0,24.0,Eric McClure,Hefty SteelSak (Ed Rensi),Ford,197.0,22968.0,running,0.0,106.0
+2009,33,Fort Worth,20.0,31.0,26.0,Kevin Conway,"Extenze (Robert Richardson, Sr.)",Chevrolet,196.0,23693.0,running,0.0,103.0
+2009,33,Fort Worth,21.0,23.0,66.0,Steve Wallace,5-Hour Energy Drink (Rusty Wallace),Chevrolet,179.0,22718.0,crash,0.0,100.0
+2009,33,Fort Worth,22.0,26.0,15.0,Michael Annett,Pilot Travel Centers (Germain Racing),Toyota,177.0,22593.0,crash,0.0,97.0
+2009,33,Fort Worth,23.0,42.0,81.0,"Bobby Hillin, Jr.",T-Rex Companies (Pat MacDonald),Dodge,167.0,22868.0,running,0.0,94.0
+2009,33,Fort Worth,24.0,21.0,20.0,Joey Logano,GameStop / WWE SmackDown (Joe Gibbs),Toyota,152.0,15875.0,crash,0.0,91.0
+2009,33,Fort Worth,25.0,17.0,12.0,Justin Allgaier,Verizon Wireless (Roger Penske),Dodge,144.0,22193.0,running,0.0,88.0
+2009,33,Fort Worth,26.0,40.0,23.0,"Robert Richardson, Jr.","Mahindra Tractors (Robert Richardson, Sr.)",Chevrolet,138.0,22218.0,engine,0.0,85.0
+2009,33,Fort Worth,27.0,34.0,58.0,Josh Wise,Cavi Clothing / Macy's (Johnathan Cohen),Chevrolet,134.0,15475.0,electrical,0.0,82.0
+2009,33,Fort Worth,28.0,19.0,1.0,Mike Wallace,NuTone Heating & Cooling / IQ Drive (Johnny Davis),Chevrolet,119.0,21843.0,crash,0.0,79.0
+2009,33,Fort Worth,29.0,22.0,96.0,Michael McDowell,my123backup.com (Dusty Whitney),Dodge,118.0,15300.0,crash,0.0,76.0
+2009,33,Fort Worth,30.0,4.0,10.0,Kasey Kahne,Great Clips (Todd Braun),Toyota,112.0,15550.0,suspension,1.0,78.0
+2009,33,Fort Worth,31.0,39.0,70.0,Shelby Howard,Foretravel Motorcoach / WCF (Mary Louise Miller),Chevrolet,109.0,15195.0,ignition,0.0,70.0
+2009,33,Fort Worth,32.0,36.0,89.0,Morgan Shepherd,Lagina Plumbing / Eldora Speedway (Morgan Shepherd),Chevrolet,103.0,21603.0,crash,0.0,67.0
+2009,33,Fort Worth,33.0,20.0,0.0,Jeremy Clements,Saxon Group (Johnny Davis),Chevrolet,103.0,15100.0,crash,0.0,64.0
+2009,33,Fort Worth,34.0,43.0,83.0,Johnny Borneman III,"Twisted X Boots (John Borneman, Jr.)",Ford,50.0,15065.0,ignition,0.0,61.0
+2009,33,Fort Worth,35.0,15.0,7.0,"Danny O'Quinn, Jr.",Hotel Trinity Fort Worth (Pete Szekeres),Chevrolet,32.0,21478.0,handling,0.0,58.0
+2009,33,Fort Worth,36.0,38.0,87.0,Joe Nemechek,NEMCO Motorsports (Joe Nemechek),Chevrolet,25.0,21443.0,electrical,0.0,55.0
+2009,33,Fort Worth,37.0,41.0,61.0,Kenny Hendrick,Specialty Racing (Charles Shoffner),Ford,15.0,21408.0,rear end,0.0,52.0
+2009,33,Fort Worth,38.0,32.0,5.0,Mark Day,31-W Insulation / CertainTeed (Wayne Day),Chevrolet,8.0,21353.0,transmission,0.0,49.0
+2009,33,Fort Worth,39.0,30.0,47.0,Chase Miller,ConstructionJobs.com (JTG-Daugherty Racing),Toyota,6.0,21313.0,vibration,0.0,46.0
+2009,33,Fort Worth,40.0,12.0,90.0,Johnny Chapman,MSRP Motorsports (MSRP Motorsports),Chevrolet,4.0,14805.0,overheating,0.0,43.0
+2009,33,Fort Worth,41.0,13.0,91.0,Terry Cook,MSRP Motorsports (MSRP Motorsports),Chevrolet,4.0,14740.0,vibration,0.0,40.0
+2009,33,Fort Worth,42.0,35.0,92.0,Dennis Setzer,K-Automotive Motorsports (Dusty Whitney),Dodge,2.0,14700.0,overheating,0.0,37.0
+2009,33,Fort Worth,43.0,25.0,49.0,Mark Green,GetMoreVacations.com (Jay Robinson),Chevrolet,2.0,14627.0,handling,0.0,34.0
+2009,34,Phoenix,1.0,2.0,60.0,Carl Edwards,Valvoline / O'Reilly Auto Parts (Jack Roush),Ford,200.0,57895.0,running,109.0,195.0
+2009,34,Phoenix,2.0,3.0,33.0,Kevin Harvick,Rheem Solar Water Heaters (Kevin Harvick),Chevrolet,200.0,41175.0,running,0.0,170.0
+2009,34,Phoenix,3.0,10.0,32.0,Reed Sorenson,Dollar General (Todd Braun),Toyota,200.0,34825.0,running,0.0,165.0
+2009,34,Phoenix,4.0,5.0,29.0,Clint Bowyer,Holiday Inn / Holiday Inn Express (Richard Childress),Chevrolet,200.0,31700.0,running,0.0,160.0
+2009,34,Phoenix,5.0,17.0,88.0,Brad Keselowski,GoDaddy.com (JR Motorsports),Chevrolet,200.0,33493.0,running,0.0,155.0
+2009,34,Phoenix,6.0,9.0,6.0,David Ragan,Discount Tire (Jack Roush),Ford,200.0,26075.0,running,0.0,150.0
+2009,34,Phoenix,7.0,12.0,16.0,Matt Kenseth,CitiFinancial (Jack Roush),Ford,200.0,24175.0,running,0.0,146.0
+2009,34,Phoenix,8.0,8.0,11.0,Mike Bliss,Ridemakerz.com (Bryan Mullet),Toyota,200.0,31993.0,running,0.0,142.0
+2009,34,Phoenix,9.0,4.0,18.0,Kyle Busch,NOS Energy Drink (Joe Gibbs),Toyota,200.0,23535.0,running,0.0,138.0
+2009,34,Phoenix,10.0,15.0,66.0,Steve Wallace,U.S. Fidelis (Rusty Wallace),Chevrolet,200.0,31693.0,running,0.0,134.0
+2009,34,Phoenix,11.0,16.0,27.0,Jason Keller,Scott Tissue / Huggies (Mike Curb),Ford,200.0,28693.0,running,0.0,130.0
+2009,34,Phoenix,12.0,1.0,20.0,Denny Hamlin,GameStop (Joe Gibbs),Toyota,200.0,26675.0,running,91.0,132.0
+2009,34,Phoenix,13.0,20.0,1.0,James Buescher,Miccosukee Resort & Gaming (James Finch),Chevrolet,200.0,28793.0,running,0.0,124.0
+2009,34,Phoenix,14.0,37.0,99.0,Trevor Bayne,Aaron's Dream Machine (Michael Waltrip),Toyota,200.0,28283.0,running,0.0,121.0
+2009,34,Phoenix,15.0,31.0,40.0,Scott Wimmer,StopRepairBills.com (Curtis Key),Chevrolet,200.0,28248.0,running,0.0,118.0
+2009,34,Phoenix,16.0,11.0,12.0,Justin Allgaier,Verizon Wireless (Roger Penske),Dodge,200.0,29338.0,running,0.0,115.0
+2009,34,Phoenix,17.0,24.0,28.0,Kenny Wallace,U.S. Border Patrol (Jay Robinson),Chevrolet,200.0,28478.0,running,0.0,112.0
+2009,34,Phoenix,18.0,19.0,10.0,David Reutimann,Beringer Vineyards (Todd Braun),Toyota,199.0,21225.0,running,0.0,109.0
+2009,34,Phoenix,19.0,32.0,62.0,Brendan Gaughan,5-Hour Energy Extra Strength (Rusty Wallace),Chevrolet,199.0,27583.0,running,0.0,106.0
+2009,34,Phoenix,20.0,14.0,15.0,Michael Annett,Pilot Travel Centers / Germain.com (Germain Racing),Toyota,198.0,28323.0,running,0.0,103.0
+2009,34,Phoenix,21.0,25.0,34.0,Tony Raines,Long John Silver's (Bob Jenkins),Chevrolet,198.0,27363.0,running,0.0,100.0
+2009,34,Phoenix,22.0,40.0,1.0,Mike Wallace,NuTone Heating & Cooling Products (Johnny Davis),Chevrolet,197.0,27253.0,running,0.0,97.0
+2009,34,Phoenix,23.0,28.0,9.0,John Wes Townley,Zaxby's (Robby Benton),Ford,197.0,27518.0,running,0.0,94.0
+2009,34,Phoenix,24.0,35.0,26.0,Kevin Conway,"Extenze (Robert Richardson, Sr.)",Chevrolet,196.0,27008.0,running,0.0,91.0
+2009,34,Phoenix,25.0,26.0,96.0,Michael McDowell,K Motorsports (Dusty Whitney),Dodge,195.0,20630.0,running,0.0,88.0
+2009,34,Phoenix,26.0,29.0,83.0,Johnny Borneman III,"Red Line Oil / Twisted X Boots (John Borneman, Jr.)",Ford,194.0,20445.0,running,0.0,85.0
+2009,34,Phoenix,27.0,6.0,38.0,Jason Leffler,Great Clips (Todd Braun),Toyota,187.0,26878.0,running,0.0,82.0
+2009,34,Phoenix,28.0,38.0,24.0,Eric McClure,Hefty (Ed Rensi),Ford,158.0,26808.0,overheating,0.0,79.0
+2009,34,Phoenix,29.0,43.0,0.0,Jeremy Clements,The Saxon Group (Johnny Davis),Chevrolet,96.0,26733.0,crash,0.0,76.0
+2009,34,Phoenix,30.0,7.0,98.0,Paul Menard,Richmond / Menards (Yates Racing),Ford,95.0,20530.0,crash,0.0,73.0
+2009,34,Phoenix,31.0,33.0,61.0,Jason Bowles,Specialty Racing (Charles Shoffner),Ford,95.0,26663.0,crash,0.0,70.0
+2009,34,Phoenix,32.0,39.0,23.0,Ken Butler III,"Aaron's Outdoors (Robert Richardson, Sr.)",Chevrolet,86.0,26628.0,engine,0.0,67.0
+2009,34,Phoenix,33.0,27.0,58.0,Josh Wise,Cavi Clothing / Macy's (Johnathan Cohen),Chevrolet,65.0,20125.0,oil pump,0.0,64.0
+2009,34,Phoenix,34.0,22.0,49.0,Mark Green,Juggle.com (Jay Robinson),Chevrolet,49.0,26558.0,brakes,0.0,61.0
+2009,34,Phoenix,35.0,30.0,7.0,"Danny O'Quinn, Jr.",Dynamic Technology (Pete Szekeres),Chevrolet,29.0,26523.0,ignition,0.0,58.0
+2009,34,Phoenix,36.0,21.0,87.0,Joe Nemechek,NEMCO Motorsports (Joe Nemechek),Chevrolet,26.0,26488.0,vibration,0.0,55.0
+2009,34,Phoenix,37.0,18.0,37.0,Kevin Hamlin,Baker-Curb Racing (Gary Baker),Ford,17.0,19980.0,brakes,0.0,0.0
+2009,34,Phoenix,38.0,41.0,81.0,Alex Tagliani,Quebec Dodge Dealers Association (Pat MacDonald),Dodge,14.0,26413.0,rear end,0.0,49.0
+2009,34,Phoenix,39.0,13.0,91.0,Terry Cook,MSRP Motorsports (MSRP Motorsports),Chevrolet,12.0,19890.0,brakes,0.0,46.0
+2009,34,Phoenix,40.0,23.0,90.0,Johnny Chapman,MSRP Motorsports (MSRP Motorsports),Chevrolet,10.0,19855.0,brakes,0.0,43.0
+2009,34,Phoenix,41.0,36.0,85.0,Casey Atwood,31-W Insulation / CertainTeed (Wayne Day),Chevrolet,4.0,19820.0,transmission,0.0,40.0
+2009,34,Phoenix,42.0,34.0,92.0,Dennis Setzer,Dusty's Collision (Dusty Whitney),Dodge,3.0,19765.0,electrical,0.0,37.0
+2009,34,Phoenix,43.0,42.0,47.0,Chris Cook,ConstructionJobs.com (JTG-Daugherty Racing),Toyota,1.0,26183.0,overheating,0.0,34.0
+2009,35,Homestead,1.0,5.0,18.0,Kyle Busch,Z-Line Designs (Joe Gibbs),Toyota,200.0,85995.0,running,73.0,195.0
+2009,35,Homestead,2.0,1.0,60.0,Carl Edwards,Ortho Mouse & Rat Control (Jack Roush),Ford,200.0,70100.0,running,53.0,175.0
+2009,35,Homestead,3.0,3.0,29.0,Jeff Burton,Holiday Inn / Holiday Inn Express (Richard Childress),Chevrolet,200.0,53300.0,running,49.0,170.0
+2009,35,Homestead,4.0,4.0,20.0,Joey Logano,GameStop / Call Of Duty Modern Warfare 2 (Joe Gibbs),Toyota,200.0,44025.0,running,13.0,165.0
+2009,35,Homestead,5.0,6.0,11.0,Denny Hamlin,GodSpeaks.com (Bryan Mullet),Toyota,200.0,38400.0,running,7.0,160.0
+2009,35,Homestead,6.0,11.0,32.0,David Reutimann,Dollar General Stores (Todd Braun),Toyota,200.0,30700.0,running,0.0,150.0
+2009,35,Homestead,7.0,2.0,33.0,Ryan Newman,Copart (Kevin Harvick),Chevrolet,200.0,28100.0,running,0.0,146.0
+2009,35,Homestead,8.0,15.0,66.0,Steve Wallace,U.S. Fidelis (Rusty Wallace),Chevrolet,200.0,34768.0,running,1.0,147.0
+2009,35,Homestead,9.0,9.0,99.0,Scott Speed,Red Bull (Michael Waltrip),Toyota,200.0,25425.0,running,0.0,138.0
+2009,35,Homestead,10.0,7.0,16.0,Matt Kenseth,CitiFinancial (Jack Roush),Ford,200.0,25300.0,running,0.0,134.0
+2009,35,Homestead,11.0,10.0,62.0,Brendan Gaughan,5-Hour Energy Extra Strength (Rusty Wallace),Chevrolet,200.0,31043.0,running,0.0,130.0
+2009,35,Homestead,12.0,8.0,88.0,Brad Keselowski,GoDaddy (JR Motorsports),Chevrolet,200.0,29343.0,running,0.0,127.0
+2009,35,Homestead,13.0,29.0,27.0,Jason Keller,U.S. Postal Service (Mike Curb),Ford,200.0,31643.0,running,3.0,129.0
+2009,35,Homestead,14.0,13.0,98.0,Paul Menard,Richmond / Menards (Yates Racing),Ford,200.0,22075.0,running,0.0,121.0
+2009,35,Homestead,15.0,16.0,1.0,Mike Wallace,NuTone Heating & Cooling Products (Johnny Davis),Chevrolet,200.0,29408.0,running,1.0,123.0
+2009,35,Homestead,16.0,18.0,1.0,Mike Bliss,Miccosukee Resort & Gaming (James Finch),Chevrolet,200.0,28228.0,running,0.0,115.0
+2009,35,Homestead,17.0,38.0,28.0,Kenny Wallace,U.S. Border Patrol (Jay Robinson),Chevrolet,200.0,28118.0,running,0.0,112.0
+2009,35,Homestead,18.0,14.0,38.0,Jason Leffler,Great Clips / Comcast (Todd Braun),Toyota,200.0,30103.0,running,0.0,109.0
+2009,35,Homestead,19.0,35.0,40.0,Scott Wimmer,Westerman Companies (Curtis Key),Chevrolet,199.0,27843.0,running,0.0,106.0
+2009,35,Homestead,20.0,20.0,12.0,Justin Allgaier,Verizon Wireless (Roger Penske),Dodge,199.0,28083.0,running,0.0,103.0
+2009,35,Homestead,21.0,42.0,15.0,Michael Annett,Pilot Travel Centers / Germain.com (Germain Racing),Toyota,199.0,28123.0,running,0.0,100.0
+2009,35,Homestead,22.0,19.0,26.0,Kevin Conway,"Extenze (Robert Richardson, Sr.)",Chevrolet,199.0,27513.0,running,0.0,97.0
+2009,35,Homestead,23.0,40.0,34.0,Tony Raines,Long John Silver's (Bob Jenkins),Chevrolet,199.0,27778.0,running,0.0,94.0
+2009,35,Homestead,24.0,25.0,9.0,John Wes Townley,Zaxby's (Robby Benton),Ford,198.0,27268.0,running,0.0,91.0
+2009,35,Homestead,25.0,27.0,42.0,Parker Kligerman,Team 42 Racing / Smith Iron Works (Eddie Smith),Dodge,198.0,20815.0,running,0.0,88.0
+2009,35,Homestead,26.0,31.0,49.0,Mark Green,Juggle.com (Jay Robinson),Chevrolet,198.0,20530.0,running,0.0,85.0
+2009,35,Homestead,27.0,28.0,23.0,Ken Butler III,"Aaron's Outdoors Mossy Oak (Robert Richardson, Sr.)",Chevrolet,198.0,26888.0,running,0.0,82.0
+2009,35,Homestead,28.0,33.0,24.0,Eric McClure,Hefty SteelSak (Ed Rensi),Ford,198.0,26773.0,running,0.0,79.0
+2009,35,Homestead,29.0,24.0,5.0,Kelly Bires,Ragu (JR Motorsports),Chevrolet,198.0,26668.0,running,0.0,76.0
+2009,35,Homestead,30.0,26.0,31.0,Tim Andrews,Fuel-Doctor.com (Rick Ware),Chevrolet,197.0,20390.0,running,0.0,73.0
+2009,35,Homestead,31.0,41.0,6.0,Erik Darnell,Northern Tool + Equipment (Jack Roush),Ford,197.0,26448.0,running,0.0,70.0
+2009,35,Homestead,32.0,32.0,10.0,Justin Marks,Borrell Electric Company / Construct Corps (Todd Braun),Toyota,196.0,26333.0,running,0.0,67.0
+2009,35,Homestead,33.0,12.0,70.0,Shelby Howard,Foretravel Motorcoach (Mary Louise Miller),Chevrolet,196.0,19810.0,running,0.0,64.0
+2009,35,Homestead,34.0,34.0,81.0,Blake Koch,Tire Kingdom (Pat MacDonald),Dodge,189.0,26213.0,running,0.0,61.0
+2009,35,Homestead,35.0,30.0,7.0,"Danny O'Quinn, Jr.",Dynamic Technology (Pete Szekeres),Chevrolet,52.0,26178.0,overheating,0.0,58.0
+2009,35,Homestead,36.0,37.0,87.0,Joe Nemechek,NEMCO Motorsports (Joe Nemechek),Chevrolet,47.0,26143.0,power steering,0.0,55.0
+2009,35,Homestead,37.0,36.0,47.0,Chase Miller,ConstructionJobs.com (JTG-Daugherty Racing),Toyota,26.0,26103.0,electrical,0.0,52.0
+2009,35,Homestead,38.0,39.0,61.0,Kenny Hendrick,Specialty Racing (Charles Shoffner),Ford,15.0,26048.0,transmission,0.0,49.0
+2009,35,Homestead,39.0,22.0,5.0,Mark Day,31-W Insulation / Middle Tennessee St. Univ. (Wayne Day),Chevrolet,11.0,25968.0,transmission,0.0,46.0
+2009,35,Homestead,40.0,17.0,91.0,Terry Cook,Dukes Sweet Tea Vodka (MSRP Motorsports),Chevrolet,7.0,19460.0,overheating,0.0,43.0
+2009,35,Homestead,41.0,21.0,92.0,Dennis Setzer,K Automotive (Dusty Whitney),Dodge,5.0,19400.0,vibration,0.0,40.0
+2009,35,Homestead,42.0,23.0,90.0,Johnny Chapman,MSRP Motorsports (MSRP Motorsports),Chevrolet,4.0,19345.0,rear end,0.0,37.0
+2009,35,Homestead,43.0,43.0,37.0,Kevin Hamlin,BCR (Gary Baker),Ford,3.0,19281.0,transmission,0.0,34.0

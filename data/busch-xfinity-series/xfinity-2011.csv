@@ -1,0 +1,1454 @@
+Season,Race,Track,Pos,St,#,Driver,Sponsor / Owner,Car,Laps,Money,Status,Led,Pts
+2011,1,Daytona,1.0,14.0,4.0,Tony Stewart,Oreo / Ritz (Kevin Harvick),Chevrolet,120.0,103695.0,running,13.0,0.0
+2011,1,Daytona,2.0,1.0,33.0,Clint Bowyer,"Rheem Heating, Cooling & Water Heating (Kevin Harvick)",Chevrolet,120.0,87650.0,running,40.0,0.0
+2011,1,Daytona,3.0,2.0,1.0,Landon Cassill,Phoenix Construction (James Finch),Chevrolet,120.0,74875.0,running,0.0,41.0
+2011,1,Daytona,4.0,3.0,5.0,"Dale Earnhardt, Jr.",Hellmann's (JR Motorsports),Chevrolet,120.0,60750.0,running,0.0,0.0
+2011,1,Daytona,5.0,16.0,32.0,Reed Sorenson,Dollar General (Steve Turner),Chevrolet,120.0,63128.0,running,0.0,39.0
+2011,1,Daytona,6.0,22.0,30.0,Jason Leffler,AccuDoc (Steve Turner),Chevrolet,120.0,58453.0,running,0.0,38.0
+2011,1,Daytona,7.0,8.0,18.0,Kyle Busch,Z-Line Designs (Joe Gibbs),Toyota,120.0,49710.0,running,17.0,0.0
+2011,1,Daytona,8.0,10.0,6.0,Ricky Stenhouse Jr,Blackwell Angus Beef (Jack Roush),Ford,120.0,55603.0,running,0.0,36.0
+2011,1,Daytona,9.0,26.0,99.0,Michael Waltrip,Pastrana Waltrip Racing (Michael Waltrip),Toyota,120.0,53853.0,running,0.0,0.0
+2011,1,Daytona,10.0,7.0,16.0,Trevor Bayne,Ford. Drive One. (Jack Roush),Ford,120.0,54528.0,running,9.0,35.0
+2011,1,Daytona,11.0,20.0,38.0,Kasey Kahne,Great Clips (Steve Turner),Chevrolet,120.0,45335.0,running,0.0,0.0
+2011,1,Daytona,12.0,6.0,20.0,Joey Logano,GameStop / NASCAR - The Game (Joe Gibbs),Toyota,120.0,44960.0,running,22.0,0.0
+2011,1,Daytona,13.0,30.0,19.0,Mike Bliss,Floridian View (Mark Smith),Chevrolet,119.0,52153.0,running,0.0,31.0
+2011,1,Daytona,14.0,4.0,7.0,Danica Patrick,GoDaddy.com (JR Motorsports),Chevrolet,119.0,50728.0,running,1.0,31.0
+2011,1,Daytona,15.0,18.0,87.0,Joe Nemechek,D.A.B. Constructors (Joe Nemechek),Toyota,119.0,51453.0,running,0.0,29.0
+2011,1,Daytona,16.0,29.0,51.0,Jeremy Clements,Daytona Beach Kennel & Poker Club (Jeremy Clements),Chevrolet,119.0,46160.0,running,0.0,28.0
+2011,1,Daytona,17.0,23.0,52.0,Bobby Santos III,TaxSlayer.com / Target Your Market (Jimmy Means),Chevrolet,119.0,43310.0,running,0.0,27.0
+2011,1,Daytona,18.0,36.0,15.0,Todd Bodine,Tire Kingdom / Valvoline (Germain Racing),Toyota,119.0,49653.0,running,0.0,0.0
+2011,1,Daytona,19.0,15.0,88.0,Aric Almirola,GT Vodka / Hard Rock (JR Motorsports),Chevrolet,119.0,49528.0,running,0.0,25.0
+2011,1,Daytona,20.0,21.0,66.0,Steve Wallace,5-hour Energy (Rusty Wallace),Toyota,118.0,50128.0,running,0.0,24.0
+2011,1,Daytona,21.0,43.0,5.0,David Starr,31-W Insulation / Owens-Corning (Wayne Day),Chevrolet,118.0,42810.0,running,0.0,0.0
+2011,1,Daytona,22.0,24.0,70.0,Shelby Howard,Foretravel Motorcoach (Mary Louise Miller),Chevrolet,118.0,49153.0,running,0.0,22.0
+2011,1,Daytona,23.0,33.0,81.0,Donnie Neuenberger,Eagle Convenience Stores (Pat MacDonald),Dodge,118.0,49378.0,running,0.0,21.0
+2011,1,Daytona,24.0,35.0,41.0,Patrick Sheltra,Fuel Doctor (Rick Ware),Ford,118.0,42385.0,running,0.0,20.0
+2011,1,Daytona,25.0,41.0,28.0,Derrike Cope,ThePreventionPlan.com (Jay Robinson),Chevrolet,118.0,49328.0,running,0.0,19.0
+2011,1,Daytona,26.0,39.0,89.0,Morgan Shepherd,Salvation Army (Morgan Shepherd),Chevrolet,117.0,48578.0,running,0.0,18.0
+2011,1,Daytona,27.0,5.0,31.0,Justin Allgaier,Brandt (Steve Turner),Chevrolet,116.0,48478.0,running,0.0,17.0
+2011,1,Daytona,28.0,25.0,9.0,Kenny Wallace,University of Northwestern Ohio (Robby Benton),Toyota,115.0,48403.0,running,0.0,16.0
+2011,1,Daytona,29.0,9.0,60.0,Carl Edwards,Fastenal (Jack Roush),Ford,107.0,41835.0,running,0.0,0.0
+2011,1,Daytona,30.0,12.0,22.0,Brad Keselowski,Discount Tire (Roger Penske),Dodge,105.0,42710.0,crash,17.0,0.0
+2011,1,Daytona,31.0,31.0,39.0,Josh Wise,Cajun USA (Archie St. Hilaire),Ford,103.0,48703.0,crash,0.0,13.0
+2011,1,Daytona,32.0,38.0,23.0,"Robert Richardson, Jr.","Wildlife Conservation Society (Robert Richardson, Sr.)",Dodge,103.0,47928.0,overheating,0.0,12.0
+2011,1,Daytona,33.0,34.0,14.0,Eric McClure,Hefty BlackOut / Reynolds (Mark Smith),Chevrolet,95.0,47878.0,running,0.0,11.0
+2011,1,Daytona,34.0,11.0,11.0,Brian Scott,Shore Lodge (Joe Gibbs),Toyota,70.0,47828.0,engine,0.0,10.0
+2011,1,Daytona,35.0,42.0,40.0,Scott Wimmer,Key Motorsports (Curtis Key),Chevrolet,57.0,47678.0,engine,0.0,9.0
+2011,1,Daytona,36.0,17.0,12.0,"Sam Hornish, Jr.",392 Dodge Challenger (Roger Penske),Dodge,53.0,41135.0,crash,0.0,8.0
+2011,1,Daytona,37.0,27.0,1.0,Mike Wallace,G&K Services (Johnny Davis),Chevrolet,51.0,47538.0,running,1.0,8.0
+2011,1,Daytona,38.0,19.0,2.0,Elliott Sadler,OneMain Financial (Kevin Harvick),Chevrolet,45.0,41010.0,running,0.0,6.0
+2011,1,Daytona,39.0,13.0,62.0,Michael Annett,Pilot Travel Centers / Flying J (Rusty Wallace),Toyota,26.0,47428.0,crash,0.0,5.0
+2011,1,Daytona,40.0,28.0,44.0,Jeff Green,Floridian View (Mark Smith),Chevrolet,18.0,40910.0,rear gear,0.0,4.0
+2011,1,Daytona,41.0,37.0,24.0,Kevin Lepage,RaceDaySponsor.com (Ed Rensi),Ford,12.0,40865.0,vibration,0.0,3.0
+2011,1,Daytona,42.0,40.0,27.0,J.R. Fitzpatrick,Schick Hydro / Energizer Canada (Mike Curb),Ford,10.0,47278.0,crash,0.0,2.0
+2011,1,Daytona,43.0,32.0,25.0,Kelly Bires,RaceDaySponsor.com (Ed Rensi),Ford,5.0,40721.0,overheating,0.0,1.0
+2011,2,Phoenix,1.0,1.0,18.0,Kyle Busch,Interstate Batteries (Joe Gibbs),Toyota,200.0,64550.0,running,200.0,0.0
+2011,2,Phoenix,2.0,2.0,60.0,Carl Edwards,Ford Mustang / Ford. Drive one. (Jack Roush),Ford,200.0,51025.0,running,0.0,0.0
+2011,2,Phoenix,3.0,9.0,33.0,Kevin Harvick,Rheem / Menards (Kevin Harvick),Chevrolet,200.0,35625.0,running,0.0,0.0
+2011,2,Phoenix,4.0,6.0,30.0,Ryan Newman,Dollar General (Steve Turner),Chevrolet,200.0,26175.0,running,0.0,0.0
+2011,2,Phoenix,5.0,10.0,32.0,Reed Sorenson,Dollar General (Steve Turner),Chevrolet,200.0,30818.0,running,0.0,39.0
+2011,2,Phoenix,6.0,3.0,20.0,Joey Logano,SportClips (Joe Gibbs),Toyota,200.0,19000.0,running,0.0,0.0
+2011,2,Phoenix,7.0,15.0,6.0,Ricky Stenhouse Jr,Roush Fenway Racing (Jack Roush),Ford,200.0,24728.0,running,0.0,37.0
+2011,2,Phoenix,8.0,16.0,31.0,Justin Allgaier,Brandt / Monterey Ag Resources (Steve Turner),Chevrolet,200.0,23138.0,running,0.0,36.0
+2011,2,Phoenix,9.0,5.0,11.0,Brian Scott,Shore Lodge (Joe Gibbs),Toyota,200.0,24418.0,running,0.0,35.0
+2011,2,Phoenix,10.0,18.0,9.0,Kenny Wallace,Family Farmers (Robby Benton),Toyota,200.0,22693.0,running,0.0,34.0
+2011,2,Phoenix,11.0,13.0,38.0,Jason Leffler,Great Clips (Steve Turner),Chevrolet,200.0,20268.0,running,0.0,33.0
+2011,2,Phoenix,12.0,11.0,2.0,Elliott Sadler,Fast Fixin' On the Go Sandwiches (Kevin Harvick),Chevrolet,200.0,13200.0,running,0.0,32.0
+2011,2,Phoenix,13.0,25.0,88.0,Aric Almirola,TaxSlayer.com (JR Motorsports),Chevrolet,199.0,19543.0,running,0.0,31.0
+2011,2,Phoenix,14.0,14.0,99.0,Ryan Truex,Pastrana Waltrip Racing (Michael Waltrip),Toyota,199.0,19718.0,running,0.0,30.0
+2011,2,Phoenix,15.0,12.0,87.0,Joe Nemechek,NEMCO Motorsports (Joe Nemechek),Chevrolet,198.0,21093.0,running,0.0,29.0
+2011,2,Phoenix,16.0,26.0,40.0,Scott Wimmer,Key Motorsports (Curtis Key),Chevrolet,198.0,18268.0,running,0.0,28.0
+2011,2,Phoenix,17.0,20.0,7.0,Danica Patrick,GoDaddy.com (JR Motorsports),Chevrolet,197.0,18068.0,running,0.0,27.0
+2011,2,Phoenix,18.0,24.0,39.0,Josh Wise,StopRepairBills.com (Archie St. Hilaire),Ford,197.0,18818.0,running,0.0,26.0
+2011,2,Phoenix,19.0,17.0,62.0,Michael Annett,Pilot Travel Centers / Flying J (Rusty Wallace),Toyota,197.0,17693.0,running,0.0,25.0
+2011,2,Phoenix,20.0,19.0,19.0,Mike Bliss,Tri-Star Motorsports (Mark Smith),Chevrolet,197.0,18043.0,running,0.0,24.0
+2011,2,Phoenix,21.0,23.0,44.0,Charles Lewandoski,Northeast Marine Electronics (Mark Smith),Chevrolet,196.0,11200.0,running,0.0,23.0
+2011,2,Phoenix,22.0,22.0,51.0,Jeremy Clements,Mitchell Swaback Charities (Jeremy Clements),Chevrolet,196.0,17318.0,running,0.0,22.0
+2011,2,Phoenix,23.0,35.0,28.0,Derrike Cope,ThePreventionPlan.com (Jay Robinson),Chevrolet,195.0,17593.0,running,0.0,21.0
+2011,2,Phoenix,24.0,31.0,23.0,"Robert Richardson, Jr.","North Texas Pipe (Robert Richardson, Sr.)",Dodge,194.0,17118.0,running,0.0,20.0
+2011,2,Phoenix,25.0,27.0,14.0,Eric McClure,Hefty BlackOut / Reynolds (Mark Smith),Chevrolet,193.0,17618.0,running,0.0,19.0
+2011,2,Phoenix,26.0,21.0,1.0,Mike Wallace,HalfOffDeals.com (Johnny Davis),Chevrolet,193.0,16893.0,running,0.0,18.0
+2011,2,Phoenix,27.0,32.0,81.0,Blake Koch,RizeUp.us (Pat MacDonald),Dodge,193.0,17193.0,running,0.0,17.0
+2011,2,Phoenix,28.0,29.0,70.0,Shelby Howard,Foretravel Motorcoach / Race Fuel Energy (Mary Louise Miller),Chevrolet,191.0,16718.0,running,0.0,16.0
+2011,2,Phoenix,29.0,30.0,15.0,Timmy Hill,Fuel Doctor (Rick Ware),Ford,191.0,16668.0,running,0.0,15.0
+2011,2,Phoenix,30.0,8.0,66.0,Steve Wallace,5-hour Energy (Rusty Wallace),Toyota,190.0,16918.0,running,0.0,14.0
+2011,2,Phoenix,31.0,7.0,16.0,Trevor Bayne,Roush Fenway Racing (Jack Roush),Ford,164.0,16563.0,crash,0.0,13.0
+2011,2,Phoenix,32.0,40.0,79.0,Jennifer Jo Cobb,CarportEmpire.com (Rick Russell),Ford,162.0,10035.0,running,0.0,12.0
+2011,2,Phoenix,33.0,28.0,89.0,Morgan Shepherd,Victory in Jesus /Racing / Imperial Bedding (Morgan Shepherd),Chevrolet,108.0,16468.0,handling,0.0,11.0
+2011,2,Phoenix,34.0,4.0,22.0,Brad Keselowski,Discount Tire (Roger Penske),Dodge,105.0,10965.0,crash,0.0,0.0
+2011,2,Phoenix,35.0,34.0,52.0,Daryl Harr,WestWorldComputers.com (Jimmy Means),Chevrolet,101.0,9935.0,radiator,0.0,9.0
+2011,2,Phoenix,36.0,38.0,41.0,Carl Long,Lilly Trucking of Virginia / RWR (Rick Ware),Ford,19.0,9900.0,brakes,0.0,8.0
+2011,2,Phoenix,37.0,37.0,24.0,Kevin Lepage,RaceDaySponsor.com (Ed Rensi),Ford,17.0,9865.0,overheating,0.0,7.0
+2011,2,Phoenix,38.0,33.0,25.0,Kelly Bires,RaceDaySponsor.com (Ed Rensi),Ford,10.0,9810.0,brakes,0.0,6.0
+2011,2,Phoenix,39.0,39.0,55.0,Brett Rowe,Salvation Army / Imperial Bedding Co. (Morgan Shepherd),Chevrolet,8.0,9770.0,handling,0.0,5.0
+2011,2,Phoenix,40.0,36.0,27.0,Justin Marks,Baker Curb Racing (Mike Curb),Ford,7.0,9715.0,brakes,0.0,0.0
+2011,3,Las Vegas,1.0,5.0,32.0,Mark Martin,Dollar General (Steve Turner),Chevrolet,200.0,82020.0,running,1.0,0.0
+2011,3,Las Vegas,2.0,10.0,31.0,Justin Allgaier,Brandt / Monterey Ag Resources (Steve Turner),Chevrolet,200.0,63015.0,running,0.0,42.0
+2011,3,Las Vegas,3.0,11.0,22.0,Brad Keselowski,Discount Tire (Roger Penske),Dodge,200.0,40525.0,running,11.0,0.0
+2011,3,Las Vegas,4.0,22.0,7.0,Danica Patrick,GoDaddy.com (JR Motorsports),Chevrolet,200.0,41180.0,running,0.0,40.0
+2011,3,Las Vegas,5.0,7.0,16.0,Trevor Bayne,As Seen On TV HD Vision Aviators (Jack Roush),Ford,200.0,38380.0,running,0.0,39.0
+2011,3,Las Vegas,6.0,1.0,60.0,Carl Edwards,Roush Clean Tech (Jack Roush),Ford,200.0,28050.0,running,68.0,0.0
+2011,3,Las Vegas,7.0,9.0,20.0,Denny Hamlin,Interstate Batteries (Joe Gibbs),Toyota,200.0,22450.0,running,28.0,0.0
+2011,3,Las Vegas,8.0,3.0,6.0,Ricky Stenhouse Jr,As Seen on TV Easy Feet (Jack Roush),Ford,200.0,28405.0,running,0.0,36.0
+2011,3,Las Vegas,9.0,26.0,38.0,Jason Leffler,Great Clips (Steve Turner),Chevrolet,200.0,27315.0,running,0.0,35.0
+2011,3,Las Vegas,10.0,15.0,9.0,Kenny Wallace,Federated Auto Parts (Robby Benton),Toyota,200.0,27980.0,running,0.0,34.0
+2011,3,Las Vegas,11.0,8.0,30.0,Reed Sorenson,Rexall (Steve Turner),Chevrolet,199.0,26205.0,running,0.0,33.0
+2011,3,Las Vegas,12.0,6.0,2.0,Elliott Sadler,Tapout (Kevin Harvick),Chevrolet,199.0,18625.0,running,0.0,32.0
+2011,3,Las Vegas,13.0,12.0,62.0,Michael Annett,Pilot Travel Centers / Flying J (Rusty Wallace),Toyota,199.0,25105.0,running,0.0,31.0
+2011,3,Las Vegas,14.0,13.0,11.0,Brian Scott,Shore Lodge (Joe Gibbs),Toyota,199.0,25045.0,running,0.0,30.0
+2011,3,Las Vegas,15.0,14.0,88.0,Aric Almirola,TaxSlayer.com (JR Motorsports),Chevrolet,198.0,25185.0,running,0.0,29.0
+2011,3,Las Vegas,16.0,17.0,66.0,Steve Wallace,5-hour Energy (Rusty Wallace),Toyota,198.0,24400.0,running,0.0,28.0
+2011,3,Las Vegas,17.0,19.0,19.0,Mike Bliss,Tri-Star Motorsports (Mark Smith),Chevrolet,197.0,25440.0,running,0.0,27.0
+2011,3,Las Vegas,18.0,36.0,89.0,Morgan Shepherd,Imperial Bedding Company (Morgan Shepherd),Chevrolet,196.0,23805.0,running,0.0,26.0
+2011,3,Las Vegas,19.0,16.0,99.0,Ryan Truex,Pastrana Waltrip Racing (Michael Waltrip),Toyota,195.0,24695.0,running,0.0,25.0
+2011,3,Las Vegas,20.0,20.0,14.0,Eric McClure,Hefty BlackOut / Reynolds (Mark Smith),Chevrolet,194.0,25060.0,running,0.0,24.0
+2011,3,Las Vegas,21.0,18.0,1.0,Mike Wallace,HalfOffDeals.com (Johnny Davis),Chevrolet,193.0,23675.0,running,0.0,23.0
+2011,3,Las Vegas,22.0,33.0,23.0,"Robert Richardson, Jr.","Wildlife Conservation Society (Robert Richardson, Sr.)",Dodge,193.0,23340.0,running,0.0,22.0
+2011,3,Las Vegas,23.0,38.0,97.0,Joe Nemechek,NEMCO Motorsports (Joe Nemechek),Chevrolet,193.0,16575.0,running,0.0,21.0
+2011,3,Las Vegas,24.0,35.0,15.0,Timmy Hill,Rick Ware Racing (Rick Ware),Ford,193.0,23095.0,running,0.0,20.0
+2011,3,Las Vegas,25.0,34.0,28.0,Derrike Cope,ThePreventionPlan.com (Jay Robinson),Chevrolet,190.0,23570.0,running,0.0,19.0
+2011,3,Las Vegas,26.0,41.0,81.0,Donnie Neuenberger,Eagle Convenience Stores / IHOP (Pat MacDonald),Dodge,189.0,22825.0,running,0.0,18.0
+2011,3,Las Vegas,27.0,23.0,51.0,Jeremy Clements,RaceDaySponsor.com (Jeremy Clements),Chevrolet,181.0,23090.0,fuel pump,0.0,17.0
+2011,3,Las Vegas,28.0,4.0,33.0,Kevin Harvick,"Rheem Heating, Cooling & Water Heating (Kevin Harvick)",Chevrolet,168.0,15515.0,running,8.0,0.0
+2011,3,Las Vegas,29.0,29.0,70.0,Shelby Howard,Race Fuel Energy Drink (Mary Louise Miller),Chevrolet,165.0,22395.0,running,0.0,15.0
+2011,3,Las Vegas,30.0,2.0,18.0,Kyle Busch,Z-Line Designs (Joe Gibbs),Toyota,130.0,15530.0,crash,84.0,0.0
+2011,3,Las Vegas,31.0,30.0,79.0,Jennifer Jo Cobb,2nd Chance Motorsports (Rick Russell),Ford,127.0,15120.0,crash,0.0,13.0
+2011,3,Las Vegas,32.0,37.0,41.0,Carl Long,Koma Unwind (Rick Ware),Ford,83.0,15010.0,wheel,0.0,12.0
+2011,3,Las Vegas,33.0,32.0,40.0,Scott Wimmer,Key Motorsports (Curtis Key),Chevrolet,72.0,14900.0,engine,0.0,11.0
+2011,3,Las Vegas,34.0,24.0,27.0,J.J. Yeley,Darlington Raceway / Espar Heater Systems (Mike Curb),Ford,25.0,14790.0,engine,0.0,0.0
+2011,3,Las Vegas,35.0,21.0,25.0,Kelly Bires,RaceDaySponsor.com (Ed Rensi),Ford,14.0,14680.0,vibration,0.0,9.0
+2011,3,Las Vegas,36.0,27.0,55.0,Brett Rowe,Imperial Bedding Company (Morgan Shepherd),Chevrolet,12.0,14645.0,handling,0.0,8.0
+2011,3,Las Vegas,37.0,25.0,24.0,Kevin Lepage,RaceDaySponsor.com (Ed Rensi),Ford,11.0,14600.0,power,0.0,7.0
+2011,3,Las Vegas,38.0,28.0,39.0,Josh Wise,Cajun Industries (Archie St. Hilaire),Ford,10.0,21595.0,crash,0.0,6.0
+2011,3,Las Vegas,39.0,43.0,52.0,Daryl Harr,WestWorldComputers.com (Jimmy Means),Chevrolet,8.0,14490.0,overheating,0.0,5.0
+2011,3,Las Vegas,40.0,40.0,3.0,Charles Lewandoski,"North Texas Pipe (Robert Richardson, Sr.)",Dodge,6.0,14455.0,clutch,0.0,0.0
+2011,3,Las Vegas,41.0,39.0,68.0,Tim Andrews,Stratosphere Hotel / Lilly Trucking (Rick Ware),Ford,4.0,14400.0,transmisson,0.0,3.0
+2011,3,Las Vegas,42.0,31.0,44.0,Jeff Green,Tri-Star Motorsports (Mark Smith),Chevrolet,2.0,14355.0,vibration,0.0,2.0
+2011,3,Las Vegas,43.0,42.0,87.0,Kevin Conway,NEMCO Motorsports (Joe Nemechek),Chevrolet,2.0,14311.0,overheating,0.0,0.0
+2011,4,Bristol,1.0,5.0,18.0,Kyle Busch,Z-Line Designs (Joe Gibbs),Toyota,300.0,44725.0,running,268.0,0.0
+2011,4,Bristol,2.0,9.0,38.0,Kasey Kahne,Great Clips (Steve Turner),Chevrolet,300.0,31900.0,running,1.0,0.0
+2011,4,Bristol,3.0,11.0,5.0,"Dale Earnhardt, Jr.",TaxSlayer.com (JR Motorsports),Chevrolet,300.0,29550.0,running,3.0,0.0
+2011,4,Bristol,4.0,6.0,2.0,Elliott Sadler,Armour Vienna Sausage / Food City (Kevin Harvick),Chevrolet,300.0,24975.0,running,0.0,40.0
+2011,4,Bristol,5.0,10.0,20.0,Joey Logano,GameStop (Joe Gibbs),Toyota,300.0,22675.0,running,0.0,0.0
+2011,4,Bristol,6.0,8.0,33.0,Kevin Harvick,Rheem Tankless Water Heaters (Kevin Harvick),Chevrolet,300.0,20400.0,running,0.0,0.0
+2011,4,Bristol,7.0,7.0,60.0,Carl Edwards,Scotts EZ Seed (Jack Roush),Ford,300.0,21060.0,running,0.0,0.0
+2011,4,Bristol,8.0,2.0,30.0,Jason Leffler,AccuDoc (Steve Turner),Chevrolet,300.0,28388.0,running,0.0,36.0
+2011,4,Bristol,9.0,12.0,22.0,Brad Keselowski,Ruby Tuesday / Discount Tire (Roger Penske),Dodge,300.0,21225.0,running,0.0,0.0
+2011,4,Bristol,10.0,15.0,88.0,Aric Almirola,Grand Touring Vodka (JR Motorsports),Chevrolet,300.0,26793.0,running,0.0,34.0
+2011,4,Bristol,11.0,14.0,66.0,Steve Wallace,5-hour Energy (Rusty Wallace),Toyota,300.0,26018.0,running,0.0,33.0
+2011,4,Bristol,12.0,13.0,11.0,Brian Scott,Shore Lodge (Joe Gibbs),Toyota,299.0,25543.0,running,0.0,32.0
+2011,4,Bristol,13.0,16.0,34.0,James Buescher,Exide Batteries (Steve Turner),Chevrolet,298.0,19425.0,running,0.0,0.0
+2011,4,Bristol,14.0,1.0,6.0,Ricky Stenhouse Jr,Blackwell Angus Beef (Jack Roush),Ford,298.0,29093.0,running,28.0,31.0
+2011,4,Bristol,15.0,3.0,31.0,Justin Allgaier,Brandt (Steve Turner),Chevrolet,298.0,26443.0,running,0.0,29.0
+2011,4,Bristol,16.0,23.0,51.0,Jeremy Clements,RaceDaySponsor.com (Jeremy Clements),Chevrolet,298.0,20500.0,running,0.0,28.0
+2011,4,Bristol,17.0,20.0,9.0,Kenny Wallace,University of Northwestern Ohio (Robby Benton),Toyota,298.0,25218.0,running,0.0,27.0
+2011,4,Bristol,18.0,24.0,39.0,Josh Wise,Cajun USA / Fatheadz Eyewear (Archie St. Hilaire),Ford,297.0,28318.0,running,0.0,26.0
+2011,4,Bristol,19.0,4.0,16.0,Trevor Bayne,Roush Fenway Racing (Jack Roush),Ford,297.0,25093.0,running,0.0,25.0
+2011,4,Bristol,20.0,21.0,99.0,Ryan Truex,Pastrana Waltrip Racing (Michael Waltrip),Toyota,296.0,26543.0,running,0.0,24.0
+2011,4,Bristol,21.0,31.0,87.0,Joe Nemechek,AMFMEnergy.com (Joe Nemechek),Chevrolet,296.0,25193.0,running,0.0,23.0
+2011,4,Bristol,22.0,19.0,40.0,Scott Wimmer,Preval Spray Gun / Anderson's Maple Syrup (Curtis Key),Chevrolet,296.0,24918.0,running,0.0,22.0
+2011,4,Bristol,23.0,32.0,28.0,Derrike Cope,Anderson's Pure Maple Syrup (Jay Robinson),Chevrolet,296.0,25268.0,running,0.0,21.0
+2011,4,Bristol,24.0,18.0,62.0,Michael Annett,Pilot Travel Centers / Flying J (Rusty Wallace),Toyota,295.0,24818.0,running,0.0,20.0
+2011,4,Bristol,25.0,37.0,14.0,Eric McClure,Hefty BlackOut / Reynolds (Mark Smith),Chevrolet,295.0,25393.0,running,0.0,19.0
+2011,4,Bristol,26.0,26.0,19.0,Mike Bliss,Misty Mountain Spring Water (Mark Smith),Chevrolet,295.0,24693.0,running,0.0,18.0
+2011,4,Bristol,27.0,30.0,70.0,Shelby Howard,Foretravel Motorcoach / Race Fuel Energy (Mary Louise Miller),Chevrolet,294.0,25043.0,running,0.0,17.0
+2011,4,Bristol,28.0,22.0,41.0,Carl Long,Greeting Express (Rick Ware),Ford,294.0,18100.0,running,0.0,16.0
+2011,4,Bristol,29.0,25.0,15.0,Timmy Hill,Lilly Trucking of Virginia (Rick Ware),Ford,293.0,24518.0,running,0.0,15.0
+2011,4,Bristol,30.0,42.0,81.0,Blake Koch,Daystar.com (Pat MacDonald),Dodge,293.0,24268.0,running,0.0,14.0
+2011,4,Bristol,31.0,39.0,89.0,Morgan Shepherd,Racing With Jesus / Imperial Bedding (Morgan Shepherd),Chevrolet,284.0,23763.0,running,0.0,13.0
+2011,4,Bristol,32.0,27.0,1.0,Mike Wallace,TCRA / Colormatch.com (Johnny Davis),Chevrolet,276.0,23628.0,engine,0.0,12.0
+2011,4,Bristol,33.0,29.0,7.0,Danica Patrick,GoDaddy.com (JR Motorsports),Chevrolet,245.0,23518.0,crash,0.0,11.0
+2011,4,Bristol,34.0,17.0,32.0,Reed Sorenson,Dollar General (Steve Turner),Chevrolet,210.0,23483.0,engine,0.0,10.0
+2011,4,Bristol,35.0,34.0,5.0,Willie Allen,Owens Corning / 31-W Insulation (Wayne Day),Chevrolet,204.0,23453.0,crash,0.0,9.0
+2011,4,Bristol,36.0,28.0,52.0,Tim Schendel,Johnson City Press (Jimmy Means),Chevrolet,146.0,16950.0,overheating,0.0,8.0
+2011,4,Bristol,37.0,38.0,23.0,"Robert Richardson, Jr.","Wildlife Conservation Society (Robert Richardson, Sr.)",Dodge,63.0,23383.0,crash,0.0,7.0
+2011,4,Bristol,38.0,35.0,44.0,Jeff Green,Misty Mountain Spring Water (Mark Smith),Chevrolet,27.0,16855.0,vibration,0.0,6.0
+2011,4,Bristol,39.0,36.0,27.0,J.J. Yeley,Baker Curb Racing (Mike Curb),Ford,7.0,16830.0,vibration,0.0,0.0
+2011,4,Bristol,40.0,40.0,55.0,Brett Rowe,Imperial Bedding Company / Salvation Army (Morgan Shepherd),Chevrolet,5.0,16805.0,brakes,0.0,4.0
+2011,4,Bristol,41.0,41.0,79.0,Chris Lawson,2nd Chance Motorsports (Rick Russell),Ford,4.0,16775.0,parked,0.0,3.0
+2011,4,Bristol,42.0,43.0,49.0,Brad Teague,High Country Paint & Performance (Jay Robinson),Chevrolet,3.0,16725.0,vibration,0.0,2.0
+2011,4,Bristol,43.0,33.0,25.0,Kelly Bires,Team Rensi Motorsports (Ed Rensi),Ford,2.0,16668.0,handling,0.0,1.0
+2011,5,Fontana,1.0,7.0,18.0,Kyle Busch,Z-Line Designs (Joe Gibbs),Toyota,150.0,61445.0,running,18.0,0.0
+2011,5,Fontana,2.0,1.0,60.0,Carl Edwards,Ford. Drive One. (Jack Roush),Ford,150.0,57675.0,running,48.0,0.0
+2011,5,Fontana,3.0,2.0,33.0,Kevin Harvick,Rheem Pool & Spa Heaters (Kevin Harvick),Chevrolet,150.0,44700.0,running,64.0,0.0
+2011,5,Fontana,4.0,12.0,6.0,Ricky Stenhouse Jr,Roush Fenway Racing (Jack Roush),Ford,150.0,35793.0,running,10.0,41.0
+2011,5,Fontana,5.0,34.0,2.0,Elliott Sadler,Bad Boy Buggies (Kevin Harvick),Chevrolet,150.0,26125.0,running,0.0,39.0
+2011,5,Fontana,6.0,9.0,16.0,Trevor Bayne,Roush Fenway Racing (Jack Roush),Ford,150.0,29218.0,running,0.0,38.0
+2011,5,Fontana,7.0,4.0,20.0,Joey Logano,GameStop (Joe Gibbs),Toyota,150.0,20275.0,running,0.0,0.0
+2011,5,Fontana,8.0,8.0,32.0,Mark Martin,Dollar General (Steve Turner),Chevrolet,150.0,18800.0,running,5.0,0.0
+2011,5,Fontana,9.0,3.0,88.0,Aric Almirola,Ragu / Food 4 Less (JR Motorsports),Chevrolet,150.0,25478.0,running,2.0,36.0
+2011,5,Fontana,10.0,5.0,22.0,Brad Keselowski,America's Tire / Discount Tire (Roger Penske),Dodge,150.0,19900.0,running,0.0,0.0
+2011,5,Fontana,11.0,16.0,38.0,Jason Leffler,Great Clips (Steve Turner),Chevrolet,150.0,26893.0,running,0.0,33.0
+2011,5,Fontana,12.0,10.0,31.0,Justin Allgaier,Brandt / Monterey Ag Resources (Steve Turner),Chevrolet,150.0,24068.0,running,0.0,32.0
+2011,5,Fontana,13.0,11.0,11.0,Brian Scott,Shore Lodge (Joe Gibbs),Toyota,150.0,24268.0,running,0.0,31.0
+2011,5,Fontana,14.0,14.0,30.0,Reed Sorenson,Rexall (Steve Turner),Chevrolet,149.0,26033.0,running,0.0,30.0
+2011,5,Fontana,15.0,17.0,9.0,Kenny Wallace,Toyota (Robby Benton),Toyota,149.0,24823.0,running,0.0,29.0
+2011,5,Fontana,16.0,6.0,7.0,Josh Wise,TaxSlayer.com (JR Motorsports),Chevrolet,149.0,23638.0,running,0.0,28.0
+2011,5,Fontana,17.0,19.0,99.0,Ryan Truex,Pastrana Waltrip Racing (Michael Waltrip),Toyota,149.0,24178.0,running,0.0,27.0
+2011,5,Fontana,18.0,20.0,62.0,Michael Annett,Oakley (Rusty Wallace),Toyota,149.0,23043.0,running,0.0,26.0
+2011,5,Fontana,19.0,13.0,19.0,Mike Bliss,DoubleTree Hotel (Mark Smith),Chevrolet,149.0,24433.0,running,0.0,25.0
+2011,5,Fontana,20.0,25.0,27.0,J.R. Fitzpatrick,Schick Hydro / Energizer Canada (Mike Curb),Ford,147.0,24298.0,running,0.0,24.0
+2011,5,Fontana,21.0,22.0,14.0,Eric McClure,Hefty BlackOut / Reynolds (Mark Smith),Chevrolet,146.0,22713.0,running,0.0,23.0
+2011,5,Fontana,22.0,18.0,87.0,Kevin Conway,Extenze (Joe Nemechek),Toyota,146.0,16085.0,running,0.0,0.0
+2011,5,Fontana,23.0,35.0,89.0,Morgan Shepherd,Racing With Jesus / Imperial Bedding (Morgan Shepherd),Chevrolet,146.0,22468.0,running,0.0,21.0
+2011,5,Fontana,24.0,23.0,1.0,Mike Wallace,G&K Services (Johnny Davis),Chevrolet,145.0,22708.0,running,0.0,20.0
+2011,5,Fontana,25.0,21.0,39.0,Charles Lewandoski,SunriseFord.com (Archie St. Hilaire),Ford,145.0,22798.0,running,2.0,20.0
+2011,5,Fontana,26.0,33.0,52.0,Tony Raines,Metro Ministries (Jimmy Means),Chevrolet,144.0,15595.0,running,0.0,0.0
+2011,5,Fontana,27.0,15.0,66.0,Steve Wallace,5-hour Energy (Rusty Wallace),Toyota,143.0,21928.0,running,0.0,17.0
+2011,5,Fontana,28.0,26.0,24.0,Kevin Lepage,Living Waters (Ed Rensi),Ford,143.0,21808.0,running,1.0,17.0
+2011,5,Fontana,29.0,41.0,23.0,"Robert Richardson, Jr.","Wildlife Conservation Society (Robert Richardson, Sr.)",Dodge,143.0,22058.0,running,0.0,15.0
+2011,5,Fontana,30.0,30.0,79.0,Tim Andrews,2nd Chance Motorsports (Rick Russell),Ford,142.0,15380.0,engine,0.0,14.0
+2011,5,Fontana,31.0,36.0,28.0,Derrike Cope,Maxelence (Jay Robinson),Chevrolet,140.0,21438.0,running,0.0,13.0
+2011,5,Fontana,32.0,32.0,15.0,Timmy Hill,Rick Ware Racing (Rick Ware),Ford,139.0,21328.0,running,0.0,12.0
+2011,5,Fontana,33.0,29.0,81.0,Blake Koch,"""Soul Surfer"" the Movie (Pat MacDonald)",Dodge,128.0,21218.0,running,0.0,11.0
+2011,5,Fontana,34.0,24.0,40.0,Scott Wimmer,Key Motorsports (Curtis Key),Chevrolet,115.0,21108.0,running,0.0,10.0
+2011,5,Fontana,35.0,31.0,51.0,Jeremy Clements,www.racedaysponsor.com (Jeremy Clements),Chevrolet,91.0,14530.0,axle,0.0,9.0
+2011,5,Fontana,36.0,42.0,70.0,Dennis Setzer,All American Sports Pouch (Mary Louise Miller),Dodge,86.0,20888.0,transmission,0.0,0.0
+2011,5,Fontana,37.0,27.0,44.0,Jeff Green,Tri-Star Motorsports (Mark Smith),Chevrolet,41.0,14300.0,vibration,0.0,7.0
+2011,5,Fontana,38.0,40.0,41.0,Jennifer Jo Cobb,Greeting Express (Rick Ware),Ford,38.0,14190.0,handling,0.0,6.0
+2011,5,Fontana,39.0,43.0,97.0,Joe Nemechek,AM FM Energy (Joe Nemechek),Chevrolet,31.0,14115.0,brakes,0.0,5.0
+2011,5,Fontana,40.0,28.0,3.0,Alex Kennedy,"Wildlife Conservation Soc. / St. Baldrick's (Robert Richardson, Sr.)",Dodge,21.0,14080.0,rear end,0.0,4.0
+2011,5,Fontana,41.0,37.0,68.0,Carl Long,Glidden Professional (Craig Partee),Chevrolet,12.0,14020.0,steering,0.0,3.0
+2011,5,Fontana,42.0,38.0,55.0,Brett Rowe,Salvation Army / Imperial Bedding Co. (Morgan Shepherd),Chevrolet,3.0,13940.0,handling,0.0,2.0
+2011,5,Fontana,43.0,39.0,74.0,Mike Harmon,Riverwalk Cafe (Mike Harmon),Chevrolet,3.0,13907.0,vibration,0.0,1.0
+2011,6,Fort Worth,1.0,1.0,60.0,Carl Edwards,Fastenal (Jack Roush),Ford,200.0,70175.0,running,169.0,0.0
+2011,6,Fort Worth,2.0,2.0,22.0,Brad Keselowski,Discount Tire (Roger Penske),Dodge,200.0,46525.0,running,16.0,0.0
+2011,6,Fort Worth,3.0,5.0,33.0,Paul Menard,Menards / Rheem (Kevin Harvick),Chevrolet,200.0,38975.0,running,0.0,0.0
+2011,6,Fort Worth,4.0,7.0,20.0,Joey Logano,GameStop / NASCAR 2011 The Game (Joe Gibbs),Toyota,200.0,32300.0,running,0.0,0.0
+2011,6,Fort Worth,5.0,3.0,2.0,Elliott Sadler,OneMain Financial (Kevin Harvick),Chevrolet,200.0,36218.0,running,0.0,39.0
+2011,6,Fort Worth,6.0,11.0,31.0,Justin Allgaier,Brandt (Steve Turner),Chevrolet,200.0,30293.0,running,0.0,38.0
+2011,6,Fort Worth,7.0,12.0,32.0,Reed Sorenson,Dollar General (Steve Turner),Chevrolet,200.0,28243.0,running,0.0,37.0
+2011,6,Fort Worth,8.0,4.0,6.0,Ricky Stenhouse Jr,As Seen on TV Easy Feet (Jack Roush),Ford,200.0,27268.0,running,5.0,37.0
+2011,6,Fort Worth,9.0,14.0,99.0,David Reutimann,Pastrana Waltrip Racing (Michael Waltrip),Toyota,200.0,20110.0,running,0.0,0.0
+2011,6,Fort Worth,10.0,13.0,11.0,Brian Scott,Shore Lodge (Joe Gibbs),Toyota,200.0,27043.0,running,2.0,35.0
+2011,6,Fort Worth,11.0,9.0,38.0,Kasey Kahne,Great Clips (Steve Turner),Chevrolet,200.0,19450.0,running,0.0,0.0
+2011,6,Fort Worth,12.0,10.0,88.0,Aric Almirola,Hellmann's (JR Motorsports),Chevrolet,200.0,25468.0,running,0.0,32.0
+2011,6,Fort Worth,13.0,6.0,16.0,Trevor Bayne,RickyVsTrevor.com (Jack Roush),Ford,200.0,25668.0,running,0.0,31.0
+2011,6,Fort Worth,14.0,17.0,7.0,Josh Wise,TaxSlayer.com (JR Motorsports),Chevrolet,200.0,24858.0,running,0.0,30.0
+2011,6,Fort Worth,15.0,15.0,30.0,Jason Leffler,Wolfpack Rentals (Steve Turner),Chevrolet,199.0,25173.0,running,0.0,29.0
+2011,6,Fort Worth,16.0,16.0,12.0,"Sam Hornish, Jr.",Alliance Parts (Roger Penske),Dodge,199.0,18070.0,running,0.0,28.0
+2011,6,Fort Worth,17.0,24.0,66.0,Steve Wallace,5-hour Energy (Rusty Wallace),Toyota,199.0,24028.0,running,0.0,27.0
+2011,6,Fort Worth,18.0,18.0,62.0,Michael Annett,Northland Motor Oils (Rusty Wallace),Toyota,199.0,23643.0,running,8.0,27.0
+2011,6,Fort Worth,19.0,36.0,19.0,Mike Bliss,Cattlemen's Steakhouse (Mark Smith),Chevrolet,198.0,25008.0,running,0.0,25.0
+2011,6,Fort Worth,20.0,22.0,9.0,Kenny Wallace,American Ethanol (Robby Benton),Toyota,198.0,24623.0,running,0.0,24.0
+2011,6,Fort Worth,21.0,30.0,51.0,Jeremy Clements,RaceDaySponsor.com (Jeremy Clements),Chevrolet,198.0,24038.0,running,0.0,23.0
+2011,6,Fort Worth,22.0,29.0,1.0,Mike Wallace,G&K Services (Johnny Davis),Chevrolet,197.0,23178.0,running,0.0,22.0
+2011,6,Fort Worth,23.0,19.0,5.0,David Starr,Texas Farm and Ranch / 31-W Insulation (Wayne Day),Chevrolet,197.0,16950.0,running,0.0,0.0
+2011,6,Fort Worth,24.0,23.0,87.0,Joe Nemechek,HostGator.com (Joe Nemechek),Toyota,196.0,25308.0,running,0.0,20.0
+2011,6,Fort Worth,25.0,20.0,81.0,Blake Koch,Daystar.com (Pat MacDonald),Dodge,195.0,24398.0,running,0.0,19.0
+2011,6,Fort Worth,26.0,43.0,23.0,"Robert Richardson, Jr.","Wildlife Conservation Society (Robert Richardson, Sr.)",Dodge,193.0,22663.0,running,0.0,18.0
+2011,6,Fort Worth,27.0,34.0,39.0,"Danny O'Quinn, Jr.",Heil Trailers (Archie St. Hilaire),Ford,192.0,22953.0,running,0.0,17.0
+2011,6,Fort Worth,28.0,38.0,15.0,Timmy Hill,Rick Ware Racing (Rick Ware),Ford,192.0,22433.0,running,0.0,16.0
+2011,6,Fort Worth,29.0,37.0,41.0,Jennifer Jo Cobb,Lilly Trucking of Virginia (Rick Ware),Ford,184.0,15790.0,running,0.0,15.0
+2011,6,Fort Worth,30.0,27.0,70.0,Shelby Howard,Race Fuel Energy Drink (Mary Louise Miller),Chevrolet,176.0,22448.0,suspension,0.0,14.0
+2011,6,Fort Worth,31.0,41.0,14.0,Eric McClure,Hefty BlackOut / Reynolds (Mark Smith),Chevrolet,147.0,22038.0,running,0.0,13.0
+2011,6,Fort Worth,32.0,40.0,28.0,Derrike Cope,Pouch Tech (Jay Robinson),Chevrolet,140.0,21928.0,engine,0.0,12.0
+2011,6,Fort Worth,33.0,25.0,40.0,Scott Wimmer,Key Motorsports (Curtis Key),Chevrolet,121.0,21818.0,engine,0.0,11.0
+2011,6,Fort Worth,34.0,8.0,18.0,Kyle Busch,Z-Line Designs (Joe Gibbs),Toyota,88.0,15240.0,crash,0.0,0.0
+2011,6,Fort Worth,35.0,39.0,52.0,Tim Schendel,TexasCountrytv.com / Fire & Ice Heating & AC (Jimmy Means),Chevrolet,78.0,15130.0,crash,0.0,9.0
+2011,6,Fort Worth,36.0,21.0,79.0,Tim Andrews,Great Wolf Lodge (Rick Russell),Ford,27.0,15020.0,brakes,0.0,8.0
+2011,6,Fort Worth,37.0,42.0,89.0,Morgan Shepherd,Racing With Jesus / Imperial Bedding (Morgan Shepherd),Chevrolet,23.0,21368.0,engine,0.0,7.0
+2011,6,Fort Worth,38.0,31.0,49.0,Dennis Setzer,Jay Robinson Racing (Jay Robinson),Chevrolet,13.0,14865.0,vibration,0.0,6.0
+2011,6,Fort Worth,39.0,35.0,24.0,Kevin Lepage,Team Rensi Motorsports (Ed Rensi),Ford,6.0,14790.0,power steering,0.0,5.0
+2011,6,Fort Worth,40.0,28.0,74.0,J.J. Yeley,Riverwalk Cafe (Mike Harmon),Chevrolet,5.0,14755.0,rear gear,0.0,0.0
+2011,6,Fort Worth,41.0,33.0,68.0,Matt Carter,Fleur-de-Lis Motorsports (Craig Partee),Chevrolet,4.0,14720.0,vibration,0.0,3.0
+2011,6,Fort Worth,42.0,26.0,75.0,Carl Long,Rick Ware Racing (Rick Ware),Ford,3.0,14660.0,handling,0.0,2.0
+2011,6,Fort Worth,43.0,32.0,44.0,Jeff Green,Tri-Star Motorsports (Mark Smith),Chevrolet,2.0,14609.0,vibration,0.0,1.0
+2011,7,Talladega,1.0,22.0,18.0,Kyle Busch,Z-Line Designs (Joe Gibbs),Toyota,124.0,42345.0,running,4.0,0.0
+2011,7,Talladega,2.0,7.0,20.0,Joey Logano,GameStop / Mortal Kombat (Joe Gibbs),Toyota,124.0,31650.0,running,0.0,0.0
+2011,7,Talladega,3.0,20.0,87.0,Joe Nemechek,ExtenZe (Joe Nemechek),Toyota,124.0,41093.0,running,4.0,42.0
+2011,7,Talladega,4.0,16.0,22.0,Brad Keselowski,Discount Tire (Roger Penske),Dodge,124.0,25900.0,running,14.0,0.0
+2011,7,Talladega,5.0,1.0,2.0,Elliott Sadler,OneMain Financial (Kevin Harvick),Chevrolet,124.0,36643.0,running,8.0,40.0
+2011,7,Talladega,6.0,5.0,16.0,Trevor Bayne,RickyVsTrevor.com (Jack Roush),Ford,124.0,27593.0,running,23.0,40.0
+2011,7,Talladega,7.0,17.0,31.0,Justin Allgaier,Brandt (Steve Turner),Chevrolet,124.0,25668.0,running,0.0,37.0
+2011,7,Talladega,8.0,3.0,7.0,"Dale Earnhardt, Jr.",Suave Men (JR Motorsports),Chevrolet,124.0,18900.0,running,16.0,0.0
+2011,7,Talladega,9.0,13.0,32.0,Reed Sorenson,Dollar General (Steve Turner),Chevrolet,124.0,24393.0,running,6.0,36.0
+2011,7,Talladega,10.0,10.0,88.0,Aric Almirola,Grand Touring Vodka (JR Motorsports),Chevrolet,124.0,25118.0,running,2.0,35.0
+2011,7,Talladega,11.0,23.0,11.0,Brian Scott,Shore Lodge (Joe Gibbs),Toyota,124.0,24518.0,running,0.0,33.0
+2011,7,Talladega,12.0,35.0,40.0,Scott Wimmer,Key Motorsports (Curtis Key),Chevrolet,124.0,17550.0,running,0.0,32.0
+2011,7,Talladega,13.0,12.0,12.0,"Sam Hornish, Jr.",Alliance (Roger Penske),Dodge,124.0,17775.0,running,2.0,32.0
+2011,7,Talladega,14.0,34.0,15.0,Timmy Hill,Rick Ware Racing (Rick Ware),Ford,124.0,25168.0,running,0.0,30.0
+2011,7,Talladega,15.0,9.0,38.0,Jason Leffler,Great Clips (Steve Turner),Chevrolet,124.0,24218.0,running,0.0,29.0
+2011,7,Talladega,16.0,32.0,82.0,Blake Koch,RIzeUp.us / Daystar.com (Pat MacDonald),Dodge,124.0,18450.0,running,0.0,28.0
+2011,7,Talladega,17.0,6.0,60.0,Carl Edwards,Fastenal (Jack Roush),Ford,124.0,17050.0,running,3.0,0.0
+2011,7,Talladega,18.0,27.0,1.0,Mike Wallace,G&K Services (Johnny Davis),Chevrolet,124.0,23193.0,running,6.0,27.0
+2011,7,Talladega,19.0,8.0,62.0,Michael Annett,Pilot Travel Centers / Flying J (Rusty Wallace),Toyota,122.0,23068.0,running,0.0,25.0
+2011,7,Talladega,20.0,31.0,81.0,Donnie Neuenberger,Eagle Convenience Stores (Pat MacDonald),Dodge,121.0,23668.0,running,0.0,24.0
+2011,7,Talladega,21.0,36.0,52.0,Danny Efland,TRX Alliance (Jimmy Means),Chevrolet,121.0,16300.0,running,0.0,23.0
+2011,7,Talladega,22.0,2.0,33.0,Clint Bowyer,Rheem.com (Kevin Harvick),Chevrolet,120.0,16700.0,running,2.0,0.0
+2011,7,Talladega,23.0,15.0,30.0,James Buescher,ABF U-Pack Moving (Steve Turner),Chevrolet,118.0,22868.0,crash,0.0,0.0
+2011,7,Talladega,24.0,41.0,51.0,Jeremy Clements,Co-ops USA (Jeremy Clements),Chevrolet,110.0,22318.0,running,0.0,20.0
+2011,7,Talladega,25.0,19.0,9.0,Kenny Wallace,Family Farmers (Robby Benton),Toyota,109.0,22793.0,electrical,2.0,20.0
+2011,7,Talladega,26.0,25.0,14.0,Eric McClure,Hefty BlackOut / Reynolds (Mark Smith),Chevrolet,109.0,22018.0,running,0.0,18.0
+2011,7,Talladega,27.0,38.0,28.0,Derrike Cope,All American Sports Pouch (Jay Robinson),Chevrolet,104.0,22293.0,running,1.0,18.0
+2011,7,Talladega,28.0,26.0,23.0,"Robert Richardson, Jr.","Wildlife Conservation Society (Robert Richardson, Sr.)",Dodge,103.0,21768.0,running,1.0,17.0
+2011,7,Talladega,29.0,43.0,70.0,Dennis Setzer,ML Motorsports (Mary Louise Miller),Dodge,100.0,21618.0,running,0.0,15.0
+2011,7,Talladega,30.0,40.0,89.0,Morgan Shepherd,Victory in Jesus Racing (Morgan Shepherd),Chevrolet,98.0,21693.0,rear axle,0.0,14.0
+2011,7,Talladega,31.0,39.0,39.0,Josh Wise,Cajun Industries (Archie St. Hilaire),Ford,92.0,21343.0,crash,0.0,13.0
+2011,7,Talladega,32.0,18.0,66.0,Steve Wallace,5-hour Energy (Rusty Wallace),Toyota,88.0,21268.0,crash,0.0,12.0
+2011,7,Talladega,33.0,24.0,99.0,Michael Waltrip,Aaron's Coloring Contest (Michael Waltrip),Toyota,87.0,21228.0,crash,0.0,0.0
+2011,7,Talladega,34.0,4.0,1.0,Jamie McMurray,Phoenix Construction (James Finch),Chevrolet,87.0,14975.0,crash,20.0,0.0
+2011,7,Talladega,35.0,29.0,19.0,Mike Bliss,Tri-Star Motorsports (Mark Smith),Chevrolet,87.0,21158.0,crash,0.0,9.0
+2011,7,Talladega,36.0,21.0,21.0,"Tim George, Jr.",Applebee's / Potomac Family Dining Group (Richard Childress),Chevrolet,87.0,14630.0,crash,0.0,8.0
+2011,7,Talladega,37.0,33.0,41.0,Jennifer Jo Cobb,Rick Ware Racing (Rick Ware),Ford,87.0,14595.0,crash,0.0,7.0
+2011,7,Talladega,38.0,14.0,6.0,Ricky Stenhouse Jr,Blackwell Angus Beef (Jack Roush),Ford,68.0,21028.0,crash,6.0,7.0
+2011,7,Talladega,39.0,11.0,4.0,Kevin Harvick,Armour Vienna Sausage (Kevin Harvick),Chevrolet,21.0,14525.0,engine,4.0,0.0
+2011,7,Talladega,40.0,28.0,74.0,Mike Harmon,Riverwalk Cafe / IPT Pellet Grills (Mike Harmon),Chevrolet,11.0,14425.0,ignition,0.0,4.0
+2011,7,Talladega,41.0,42.0,79.0,Tim Andrews,Howard Johnson (Rick Russell),Ford,4.0,14380.0,rear end,0.0,3.0
+2011,7,Talladega,42.0,37.0,68.0,Carl Long,Marro's Truck (Craig Partee),Chevrolet,2.0,14345.0,electrical,0.0,2.0
+2011,7,Talladega,43.0,30.0,44.0,Jeff Green,Tri-Star Motorsports (Mark Smith),Chevrolet,1.0,14284.0,vibration,0.0,1.0
+2011,8,Nashville,1.0,7.0,60.0,Carl Edwards,Ford. Drive One. (Jack Roush),Ford,225.0,41950.0,running,148.0,0.0
+2011,8,Nashville,2.0,6.0,18.0,Kyle Busch,Z-Line Designs (Joe Gibbs),Toyota,225.0,29000.0,running,39.0,0.0
+2011,8,Nashville,3.0,9.0,22.0,Brad Keselowski,Discount Tire (Roger Penske),Dodge,225.0,22425.0,running,1.0,0.0
+2011,8,Nashville,4.0,1.0,20.0,Joey Logano,Harvest Investments (Joe Gibbs),Toyota,225.0,22675.0,running,30.0,0.0
+2011,8,Nashville,5.0,4.0,6.0,Ricky Stenhouse Jr,RickyVsTrevor.com (Jack Roush),Ford,225.0,27068.0,running,0.0,39.0
+2011,8,Nashville,6.0,2.0,16.0,Trevor Bayne,RickyVsTrevor.com (Jack Roush),Ford,225.0,20618.0,running,1.0,39.0
+2011,8,Nashville,7.0,3.0,33.0,Austin Dillon,"Rheem Heating, Cooling & Water Heating (Kevin Harvick)",Chevrolet,225.0,21418.0,running,0.0,0.0
+2011,8,Nashville,8.0,13.0,32.0,Reed Sorenson,Dollar General (Steve Turner),Chevrolet,225.0,18718.0,running,0.0,36.0
+2011,8,Nashville,9.0,12.0,7.0,Josh Wise,Eutechnyx (JR Motorsports),Chevrolet,225.0,18443.0,running,5.0,36.0
+2011,8,Nashville,10.0,16.0,88.0,Aric Almirola,Grand Touring Vodka (JR Motorsports),Chevrolet,225.0,19043.0,running,1.0,35.0
+2011,8,Nashville,11.0,14.0,31.0,Justin Allgaier,Wolfpack Rentals (Steve Turner),Chevrolet,225.0,18443.0,running,0.0,33.0
+2011,8,Nashville,12.0,11.0,9.0,Kenny Wallace,RAB Racing (Robby Benton),Toyota,225.0,17993.0,running,0.0,32.0
+2011,8,Nashville,13.0,8.0,2.0,Elliott Sadler,Hunt Brothers Pizza (Kevin Harvick),Chevrolet,225.0,18343.0,running,0.0,31.0
+2011,8,Nashville,14.0,5.0,64.0,David Reutimann,Flatout Flatbread (Rusty Wallace),Toyota,225.0,11350.0,running,0.0,0.0
+2011,8,Nashville,15.0,19.0,38.0,Jason Leffler,Great Clips (Steve Turner),Chevrolet,225.0,18368.0,running,0.0,29.0
+2011,8,Nashville,16.0,20.0,99.0,Ryan Truex,Pastrana Waltrip Racing (Michael Waltrip),Toyota,225.0,19168.0,running,0.0,28.0
+2011,8,Nashville,17.0,15.0,66.0,Steve Wallace,5-hour Energy (Rusty Wallace),Toyota,224.0,17593.0,running,0.0,27.0
+2011,8,Nashville,18.0,26.0,1.0,Mike Wallace,Colormatch Coating Solutions (Johnny Davis),Chevrolet,224.0,19193.0,running,0.0,26.0
+2011,8,Nashville,19.0,17.0,62.0,Michael Annett,Pilot Travel Centers / Flying J (Rusty Wallace),Toyota,224.0,17418.0,running,0.0,25.0
+2011,8,Nashville,20.0,25.0,70.0,David Stremme,Foretravel Motorcoach (Mary Louise Miller),Chevrolet,223.0,12375.0,running,0.0,0.0
+2011,8,Nashville,21.0,29.0,40.0,Scott Wimmer,Key Motorsports (Curtis Key),Chevrolet,223.0,17293.0,running,0.0,23.0
+2011,8,Nashville,22.0,10.0,11.0,Brian Scott,Shore Lodge (Joe Gibbs),Toyota,223.0,17258.0,running,0.0,22.0
+2011,8,Nashville,23.0,28.0,51.0,Jeremy Clements,www.racedaysponsor.com (Jeremy Clements),Chevrolet,223.0,17623.0,running,0.0,21.0
+2011,8,Nashville,24.0,24.0,87.0,Kevin Conway,Extenze (Joe Nemechek),Toyota,222.0,17163.0,running,0.0,0.0
+2011,8,Nashville,25.0,30.0,81.0,Blake Koch,Daystar.com (Pat MacDonald),Dodge,222.0,17718.0,running,0.0,19.0
+2011,8,Nashville,26.0,23.0,39.0,"Danny O'Quinn, Jr.",Rimz One Wheels Tires Accessories (Archie St. Hilaire),Ford,222.0,17043.0,running,0.0,18.0
+2011,8,Nashville,27.0,21.0,67.0,J.R. Fitzpatrick,Go Canada Racing (Steve Meehan),Ford,221.0,10935.0,running,0.0,17.0
+2011,8,Nashville,28.0,37.0,89.0,Morgan Shepherd,Racing With Jesus / Imperial Bedding (Morgan Shepherd),Chevrolet,220.0,10500.0,running,0.0,16.0
+2011,8,Nashville,29.0,22.0,30.0,Mikey Kile,AccuDoc (Steve Turner),Chevrolet,220.0,16933.0,running,0.0,15.0
+2011,8,Nashville,30.0,36.0,28.0,Derrike Cope,Jay Robinson Inc. (Jay Robinson),Dodge,218.0,17198.0,running,0.0,14.0
+2011,8,Nashville,31.0,18.0,19.0,Mike Bliss,Tri-Star Motorsports (Mark Smith),Chevrolet,218.0,16863.0,running,0.0,13.0
+2011,8,Nashville,32.0,34.0,14.0,Eric McClure,Hefty BlackOut / Reynolds (Mark Smith),Chevrolet,217.0,16818.0,running,0.0,12.0
+2011,8,Nashville,33.0,27.0,15.0,Timmy Hill,Rick Ware Racing (Rick Ware),Ford,215.0,16753.0,running,0.0,11.0
+2011,8,Nashville,34.0,42.0,23.0,"Robert Richardson, Jr.","Wildlife Conservation Society (Robert Richardson, Sr.)",Dodge,143.0,10265.0,engine,0.0,10.0
+2011,8,Nashville,35.0,35.0,52.0,Tim Schendel,TRX Alliance (Jimmy Means),Chevrolet,32.0,10245.0,brakes,0.0,9.0
+2011,8,Nashville,36.0,31.0,79.0,Tim Andrews,Sports Massage USA (Rick Russell),Ford,29.0,10225.0,brakes,0.0,8.0
+2011,8,Nashville,37.0,40.0,49.0,Dennis Setzer,Jay Robinson Inc. (Jay Robinson),Chevrolet,10.0,10205.0,brakes,0.0,7.0
+2011,8,Nashville,38.0,43.0,74.0,Mike Harmon,Riverwalk Cafe (Mike Harmon),Chevrolet,6.0,10185.0,overheating,0.0,6.0
+2011,8,Nashville,39.0,32.0,68.0,Matt Carter,Fleur-de-Lis Farms (Craig Partee),Chevrolet,4.0,10155.0,electrical,0.0,5.0
+2011,8,Nashville,40.0,39.0,41.0,Carl Long,Lilly Trucking of Virginia (Rick Ware),Ford,3.0,10060.0,overheating,0.0,4.0
+2011,8,Nashville,41.0,41.0,5.0,Willie Allen,31-W Insulation (Wayne Day),Chevrolet,3.0,10025.0,brakes,0.0,3.0
+2011,8,Nashville,42.0,33.0,44.0,Jeff Green,Tri-Star Motorsports (Mark Smith),Chevrolet,1.0,10005.0,vibration,0.0,2.0
+2011,8,Nashville,43.0,38.0,75.0,Johnny Chapman,Rick Ware Racing (Rick Ware),Ford,1.0,9921.0,vibration,0.0,1.0
+2011,9,Richmond,1.0,11.0,20.0,Denny Hamlin,SportClips Haircuts (Joe Gibbs),Toyota,251.0,35500.0,running,199.0,0.0
+2011,9,Richmond,2.0,6.0,33.0,Paul Menard,Rheem / Menards (Kevin Harvick),Chevrolet,251.0,27250.0,running,0.0,0.0
+2011,9,Richmond,3.0,5.0,31.0,Justin Allgaier,Wolfpack Rentals (Steve Turner),Chevrolet,251.0,28593.0,running,0.0,41.0
+2011,9,Richmond,4.0,18.0,2.0,Elliott Sadler,OneMain Financial (Kevin Harvick),Chevrolet,251.0,25843.0,running,0.0,40.0
+2011,9,Richmond,5.0,10.0,22.0,Brad Keselowski,Discount Tire / Ruby Tuesday (Roger Penske),Dodge,251.0,18475.0,running,0.0,0.0
+2011,9,Richmond,6.0,17.0,7.0,Josh Wise,NASCAR The Game 2011 (JR Motorsports),Chevrolet,250.0,23343.0,running,0.0,38.0
+2011,9,Richmond,7.0,2.0,12.0,"Sam Hornish, Jr.",PPG (Roger Penske),Dodge,250.0,15860.0,running,0.0,37.0
+2011,9,Richmond,8.0,20.0,99.0,Ryan Truex,Pastrana Waltrip Racing (Michael Waltrip),Toyota,250.0,22738.0,running,0.0,36.0
+2011,9,Richmond,9.0,19.0,70.0,David Stremme,Foretravel Motorcoach (Mary Louise Miller),Chevrolet,250.0,16725.0,running,0.0,0.0
+2011,9,Richmond,10.0,16.0,38.0,Jason Leffler,Great Clips (Steve Turner),Chevrolet,250.0,22268.0,running,0.0,34.0
+2011,9,Richmond,11.0,14.0,66.0,Steve Wallace,5-hour Energy (Rusty Wallace),Toyota,250.0,20793.0,running,0.0,33.0
+2011,9,Richmond,12.0,15.0,32.0,Reed Sorenson,Dollar General (Steve Turner),Chevrolet,250.0,20693.0,running,0.0,32.0
+2011,9,Richmond,13.0,7.0,9.0,Kenny Wallace,American Ethanol (Robby Benton),Toyota,250.0,20993.0,running,0.0,31.0
+2011,9,Richmond,14.0,4.0,88.0,Aric Almirola,Hellmann's / Martin's (JR Motorsports),Chevrolet,250.0,20993.0,running,7.0,31.0
+2011,9,Richmond,15.0,3.0,11.0,Brian Scott,Shore Lodge (Joe Gibbs),Toyota,249.0,20993.0,running,0.0,29.0
+2011,9,Richmond,16.0,25.0,62.0,Michael Annett,Pilot Travel Centers / Flying J (Rusty Wallace),Toyota,249.0,20393.0,running,0.0,28.0
+2011,9,Richmond,17.0,21.0,16.0,Chris Buescher,RickyVsTrevor.com (Jack Roush),Ford,249.0,20993.0,running,0.0,27.0
+2011,9,Richmond,18.0,12.0,19.0,Mike Bliss,Tri-Star Motorsports (Mark Smith),Chevrolet,249.0,20843.0,running,0.0,26.0
+2011,9,Richmond,19.0,13.0,87.0,Joe Nemechek,AM FM Energy / Pellet & Wood Stoves (Joe Nemechek),Chevrolet,248.0,20018.0,running,0.0,25.0
+2011,9,Richmond,20.0,29.0,23.0,"Robert Richardson, Jr.","North Texas Pipe (Robert Richardson, Sr.)",Dodge,248.0,16625.0,running,0.0,24.0
+2011,9,Richmond,21.0,9.0,6.0,Ricky Stenhouse Jr,RickyVsTrevor.com (Jack Roush),Ford,248.0,19918.0,running,2.0,24.0
+2011,9,Richmond,22.0,36.0,30.0,James Buescher,ABF U-Pack Moving (Steve Turner),Chevrolet,247.0,19843.0,running,0.0,0.0
+2011,9,Richmond,23.0,24.0,51.0,Jeremy Clements,Co-opsUSA.com / RaceDaySponsor.com (Jeremy Clements),Chevrolet,247.0,20168.0,running,0.0,21.0
+2011,9,Richmond,24.0,22.0,40.0,Scott Wimmer,Draw-Tite (Curtis Key),Chevrolet,247.0,19718.0,running,0.0,20.0
+2011,9,Richmond,25.0,1.0,60.0,Carl Edwards,Fastenal (Jack Roush),Ford,246.0,17100.0,running,43.0,0.0
+2011,9,Richmond,26.0,32.0,15.0,Timmy Hill,Lilly Trucking of Virginia (Rick Ware),Ford,246.0,19593.0,running,0.0,18.0
+2011,9,Richmond,27.0,26.0,81.0,Blake Koch,Daystar.com (Pat MacDonald),Dodge,245.0,19943.0,running,0.0,17.0
+2011,9,Richmond,28.0,30.0,89.0,Morgan Shepherd,Victory in Jesus Racing (Morgan Shepherd),Chevrolet,244.0,13000.0,running,0.0,16.0
+2011,9,Richmond,29.0,28.0,28.0,Derrike Cope,Bubba Bear (Jay Robinson),Dodge,243.0,19418.0,running,0.0,15.0
+2011,9,Richmond,30.0,8.0,18.0,Kelly Bires,Heil Heating & Cooling Products (Joe Gibbs),Toyota,243.0,19668.0,running,0.0,14.0
+2011,9,Richmond,31.0,31.0,39.0,Charles Lewandoski,Rimz One Wheel & Tires (Archie St. Hilaire),Ford,243.0,19313.0,running,0.0,13.0
+2011,9,Richmond,32.0,37.0,14.0,Eric McClure,Hefty BlackOut / Reynolds (Mark Smith),Chevrolet,243.0,19253.0,running,0.0,12.0
+2011,9,Richmond,33.0,23.0,1.0,Mike Wallace,G&K Services (Johnny Davis),Chevrolet,64.0,19218.0,engine,0.0,11.0
+2011,9,Richmond,34.0,39.0,52.0,Kevin Lepage,TRX Alliance (Jimmy Means),Chevrolet,54.0,12640.0,engine,0.0,10.0
+2011,9,Richmond,35.0,40.0,41.0,Carl Long,Lilly Trucking of Virginia (Rick Ware),Ford,28.0,12610.0,oil pressure,0.0,9.0
+2011,9,Richmond,36.0,33.0,79.0,Tim Andrews,Roy's Auto Body Shop (Rick Russell),Ford,22.0,12575.0,brakes,0.0,8.0
+2011,9,Richmond,37.0,41.0,74.0,Mike Harmon,Riverwalk Cafe (Mike Harmon),Chevrolet,11.0,12515.0,brakes,0.0,7.0
+2011,9,Richmond,38.0,38.0,49.0,Dennis Setzer,Jay Robinson Racing (Jay Robinson),Chevrolet,10.0,12460.0,brakes,0.0,6.0
+2011,9,Richmond,39.0,35.0,75.0,Johnny Chapman,Rick Ware Racing (Rick Ware),Ford,10.0,12420.0,vibration,0.0,5.0
+2011,9,Richmond,40.0,27.0,44.0,Jeff Green,Tri-Star Motorsports (Mark Smith),Chevrolet,6.0,12380.0,vibration,0.0,4.0
+2011,9,Richmond,41.0,34.0,68.0,Matt Carter,Marro's Truck & Welding (Craig Partee),Chevrolet,6.0,12340.0,vibration,0.0,3.0
+2011,10,Darlington,1.0,1.0,18.0,Kyle Busch,Z-Line Designs (Joe Gibbs),Toyota,147.0,38825.0,running,49.0,0.0
+2011,10,Darlington,2.0,16.0,20.0,Denny Hamlin,Raybestos / WIX Filters (Joe Gibbs),Toyota,147.0,24250.0,running,0.0,0.0
+2011,10,Darlington,3.0,6.0,2.0,Elliott Sadler,OneMain Financial (Kevin Harvick),Chevrolet,147.0,28768.0,running,23.0,42.0
+2011,10,Darlington,4.0,12.0,31.0,Justin Allgaier,Brandt (Steve Turner),Chevrolet,147.0,22443.0,running,13.0,41.0
+2011,10,Darlington,5.0,7.0,66.0,Steve Wallace,5-hour Energy (Rusty Wallace),Toyota,147.0,21143.0,running,0.0,39.0
+2011,10,Darlington,6.0,2.0,33.0,Clint Bowyer,ruud.com (Kevin Harvick),Chevrolet,147.0,14725.0,running,0.0,0.0
+2011,10,Darlington,7.0,4.0,38.0,Kasey Kahne,Great Clips (Steve Turner),Chevrolet,147.0,12585.0,running,42.0,0.0
+2011,10,Darlington,8.0,5.0,32.0,Reed Sorenson,Dollar General (Steve Turner),Chevrolet,147.0,18913.0,running,0.0,36.0
+2011,10,Darlington,9.0,11.0,30.0,Jason Leffler,AccuDoc Solutions (Steve Turner),Chevrolet,147.0,18643.0,running,0.0,35.0
+2011,10,Darlington,10.0,8.0,6.0,Ricky Stenhouse Jr,RickyVsTrevor.com (Jack Roush),Ford,147.0,20643.0,running,0.0,34.0
+2011,10,Darlington,11.0,19.0,9.0,Kenny Wallace,Toyota (Robby Benton),Toyota,147.0,18693.0,running,0.0,33.0
+2011,10,Darlington,12.0,20.0,87.0,Joe Nemechek,ExtenZe (Joe Nemechek),Toyota,146.0,19618.0,running,0.0,32.0
+2011,10,Darlington,13.0,31.0,23.0,Scott Riggs,"Wildlife Conservation Society (Robert Richardson, Sr.)",Dodge,146.0,19268.0,running,0.0,31.0
+2011,10,Darlington,14.0,13.0,7.0,Josh Wise,TaxSlayer.com (JR Motorsports),Chevrolet,146.0,18018.0,running,0.0,30.0
+2011,10,Darlington,15.0,23.0,1.0,Mike Wallace,G&K Services (Johnny Davis),Chevrolet,146.0,21893.0,running,0.0,29.0
+2011,10,Darlington,16.0,24.0,39.0,Danny Efland,C3i Sports (Archie St. Hilaire),Ford,146.0,18043.0,running,0.0,28.0
+2011,10,Darlington,17.0,17.0,16.0,Chris Buescher,RickyVsTrevor.com (Jack Roush),Ford,146.0,17793.0,running,0.0,27.0
+2011,10,Darlington,18.0,26.0,81.0,Blake Koch,Daystar.com (Pat MacDonald),Dodge,146.0,18743.0,running,0.0,26.0
+2011,10,Darlington,19.0,27.0,15.0,Timmy Hill,Lilly Trucking of Virginia (Rick Ware),Ford,146.0,17693.0,running,0.0,25.0
+2011,10,Darlington,20.0,3.0,60.0,Carl Edwards,Ford. Drive One. (Jack Roush),Ford,144.0,11875.0,running,20.0,0.0
+2011,10,Darlington,21.0,39.0,52.0,Kevin Lepage,Metro Ministries / TRX Alliance (Jimmy Means),Chevrolet,143.0,11100.0,running,0.0,23.0
+2011,10,Darlington,22.0,33.0,89.0,Morgan Shepherd,Victory in Jesus Racing (Morgan Shepherd),Chevrolet,143.0,17518.0,running,0.0,22.0
+2011,10,Darlington,23.0,30.0,70.0,Dennis Setzer,Sports Pouch Beverages (Mary Louise Miller),Dodge,140.0,17868.0,running,0.0,21.0
+2011,10,Darlington,24.0,25.0,28.0,Derrike Cope,Maxelence (Jay Robinson),Chevrolet,135.0,17418.0,running,0.0,20.0
+2011,10,Darlington,25.0,14.0,99.0,Ryan Truex,Pastrana Waltrip Racing (Michael Waltrip),Toyota,132.0,17818.0,running,0.0,19.0
+2011,10,Darlington,26.0,29.0,51.0,Jeremy Clements,Co-opsUSA.com (Jeremy Clements),Chevrolet,110.0,17493.0,transmission,0.0,18.0
+2011,10,Darlington,27.0,10.0,22.0,Brad Keselowski,Ruby Tuesday (Roger Penske),Dodge,99.0,11800.0,crash,0.0,0.0
+2011,10,Darlington,28.0,9.0,88.0,Aric Almirola,Grand Touring Vodka (JR Motorsports),Chevrolet,95.0,17193.0,crash,0.0,16.0
+2011,10,Darlington,29.0,15.0,11.0,Brian Scott,Shore Lodge (Joe Gibbs),Toyota,94.0,17158.0,crash,0.0,15.0
+2011,10,Darlington,30.0,21.0,19.0,Mike Bliss,Tri-Star Motorsports (Mark Smith),Chevrolet,94.0,17818.0,crash,0.0,14.0
+2011,10,Darlington,31.0,18.0,62.0,Michael Annett,Pilot Travel Centers / Flying J (Rusty Wallace),Toyota,89.0,17063.0,crash,0.0,13.0
+2011,10,Darlington,32.0,42.0,13.0,Jennifer Jo Cobb,DrivenMale.com / DriverBoutique.com (Jennifer Jo Cobb),Ford,42.0,10550.0,clutch,0.0,12.0
+2011,10,Darlington,33.0,32.0,41.0,Carl Long,Lilly Trucking of Virginia (Rick Ware),Ford,29.0,10530.0,brakes,0.0,11.0
+2011,10,Darlington,34.0,35.0,44.0,Jeff Green,Tri-Star Motorsports / Pro Motor Express (Mark Smith),Chevrolet,26.0,10510.0,vibration,0.0,10.0
+2011,10,Darlington,35.0,34.0,79.0,Tim Andrews,"Days Inn Lake City, SC (Rick Russell)",Ford,19.0,10465.0,brakes,0.0,9.0
+2011,10,Darlington,36.0,22.0,14.0,Eric McClure,Hefty BlackOut / Reynolds (Mark Smith),Chevrolet,12.0,16913.0,oil pump,0.0,8.0
+2011,10,Darlington,37.0,38.0,75.0,Johnny Chapman,Lilly Trucking of Virginia (Rick Ware),Ford,12.0,10425.0,clutch,0.0,7.0
+2011,10,Darlington,38.0,28.0,40.0,Scott Wimmer,Key Motorsports (Curtis Key),Chevrolet,11.0,10350.0,handling,0.0,6.0
+2011,10,Darlington,39.0,37.0,68.0,Matt Carter,Marro's Truck & Welding (Craig Partee),Chevrolet,9.0,10315.0,engine,0.0,5.0
+2011,10,Darlington,40.0,41.0,72.0,John Jackson,CrashClaimsR.us (James Carter),Toyota,8.0,10290.0,vibration,0.0,0.0
+2011,10,Darlington,41.0,36.0,74.0,Mike Harmon,Riverwalk Cafe (Mike Harmon),Chevrolet,7.0,10265.0,carburetor,0.0,3.0
+2011,10,Darlington,42.0,40.0,49.0,David Green,Acredale Vending (Jay Robinson),Chevrolet,2.0,10235.0,engine,0.0,0.0
+2011,10,Darlington,43.0,43.0,0.0,James Hylton,G&K Services (Johnny Davis),Chevrolet,2.0,10188.0,rear end,0.0,0.0
+2011,11,Dover,1.0,1.0,60.0,Carl Edwards,Fastenal (Jack Roush),Ford,209.0,39775.0,running,87.0,0.0
+2011,11,Dover,2.0,13.0,18.0,Kyle Busch,MAC Tools (Joe Gibbs),Toyota,209.0,26725.0,running,0.0,0.0
+2011,11,Dover,3.0,10.0,32.0,Reed Sorenson,Dollar General (Steve Turner),Chevrolet,209.0,28868.0,running,0.0,41.0
+2011,11,Dover,4.0,2.0,6.0,Ricky Stenhouse Jr,Mississippi Flood Relief / NASCAR Unites (Jack Roush),Ford,209.0,26218.0,running,33.0,41.0
+2011,11,Dover,5.0,32.0,64.0,David Reutimann,5-hour Energy Extra Strength Grape (Rusty Wallace),Toyota,209.0,16700.0,running,0.0,0.0
+2011,11,Dover,6.0,8.0,2.0,Elliott Sadler,OneMain Financial (Kevin Harvick),Chevrolet,209.0,22418.0,running,0.0,38.0
+2011,11,Dover,7.0,14.0,9.0,Kenny Wallace,G-Oil (Robby Benton),Toyota,209.0,21928.0,running,0.0,37.0
+2011,11,Dover,8.0,12.0,30.0,James Buescher,ABF (Steve Turner),Chevrolet,209.0,21288.0,running,0.0,0.0
+2011,11,Dover,9.0,18.0,88.0,Aric Almirola,Degree Men / Giant (JR Motorsports),Chevrolet,209.0,23318.0,running,0.0,35.0
+2011,11,Dover,10.0,21.0,1.0,Mike Wallace,G&K Services (Johnny Davis),Chevrolet,209.0,23293.0,running,0.0,34.0
+2011,11,Dover,11.0,9.0,38.0,Jason Leffler,Great Clips (Steve Turner),Chevrolet,209.0,20268.0,running,0.0,33.0
+2011,11,Dover,12.0,6.0,22.0,Brad Keselowski,Ruby Tuesday (Roger Penske),Dodge,208.0,14675.0,crash,8.0,0.0
+2011,11,Dover,13.0,11.0,20.0,Joey Logano,GameStop (Joe Gibbs),Toyota,208.0,14025.0,crash,37.0,0.0
+2011,11,Dover,14.0,3.0,33.0,Clint Bowyer,"Rheem Heating, Cooling & Water Heating (Kevin Harvick)",Chevrolet,208.0,13450.0,crash,37.0,0.0
+2011,11,Dover,15.0,31.0,14.0,Mike Bliss,Tri-Star Motorsports (Mark Smith),Chevrolet,208.0,21718.0,crash,0.0,29.0
+2011,11,Dover,16.0,15.0,66.0,Steve Wallace,5-hour Energy (Rusty Wallace),Toyota,208.0,19768.0,crash,0.0,28.0
+2011,11,Dover,17.0,16.0,7.0,Josh Wise,We Salute You (JR Motorsports),Chevrolet,208.0,19693.0,running,5.0,28.0
+2011,11,Dover,18.0,17.0,99.0,Ryan Truex,Pastrana Waltrip Racing (Michael Waltrip),Toyota,207.0,20643.0,running,0.0,26.0
+2011,11,Dover,19.0,20.0,87.0,Joe Nemechek,NEMCO Motorsports (Joe Nemechek),Toyota,207.0,19593.0,running,0.0,25.0
+2011,11,Dover,20.0,19.0,62.0,Michael Annett,Pilot Travel Centers / 5-hour Energy (Rusty Wallace),Toyota,205.0,20268.0,running,0.0,24.0
+2011,11,Dover,21.0,35.0,67.0,J.R. Fitzpatrick,Go Canada Racing (Steve Meehan),Ford,204.0,13225.0,running,0.0,23.0
+2011,11,Dover,22.0,30.0,15.0,Timmy Hill,Lilly Trucking of Virginia (Rick Ware),Ford,204.0,19393.0,running,0.0,22.0
+2011,11,Dover,23.0,26.0,39.0,Danny Efland,C3i Sports (Archie St. Hilaire),Ford,203.0,19718.0,running,0.0,21.0
+2011,11,Dover,24.0,25.0,51.0,Jeremy Clements,Co-ops USA / NCB Development Corp. (Jeremy Clements),Chevrolet,202.0,19268.0,running,0.0,20.0
+2011,11,Dover,25.0,23.0,19.0,Eric McClure,Hefty BlackOut / Reynolds (Mark Smith),Chevrolet,201.0,19843.0,running,0.0,19.0
+2011,11,Dover,26.0,38.0,89.0,Morgan Shepherd,Victory in Jesus Racing (Morgan Shepherd),Chevrolet,184.0,12700.0,running,0.0,18.0
+2011,11,Dover,27.0,28.0,28.0,Derrike Cope,Maxelence (Jay Robinson),Chevrolet,166.0,19518.0,engine,0.0,17.0
+2011,11,Dover,28.0,29.0,70.0,Dennis Setzer,Sports Pouch Beverages (Mary Louise Miller),Dodge,140.0,19043.0,electrical,0.0,16.0
+2011,11,Dover,29.0,4.0,31.0,Justin Allgaier,Wolfpack Rentals (Steve Turner),Chevrolet,138.0,18968.0,crash,0.0,15.0
+2011,11,Dover,30.0,7.0,11.0,Brian Scott,Shore Lodge (Joe Gibbs),Toyota,87.0,19218.0,crash,0.0,14.0
+2011,11,Dover,31.0,5.0,16.0,Kevin Swindell,RickyVsTrevor.com (Jack Roush),Ford,86.0,18863.0,crash,0.0,13.0
+2011,11,Dover,32.0,24.0,23.0,Alex Kennedy,"St. Baldrick's / Funny Dan The Race Car Man (Robert Richardson, Sr.)",Dodge,84.0,18803.0,crash,0.0,12.0
+2011,11,Dover,33.0,27.0,81.0,Donnie Neuenberger,Eagle Convenience Stores (Pat MacDonald),Dodge,70.0,18743.0,too slow,0.0,11.0
+2011,11,Dover,34.0,40.0,41.0,Carl Long,Lilly Trucking of Virginia (Rick Ware),Ford,52.0,12240.0,rear gear,0.0,10.0
+2011,11,Dover,35.0,22.0,40.0,Scott Wimmer,Key Motorsports (Curtis Key),Chevrolet,44.0,12210.0,transmission,2.0,10.0
+2011,11,Dover,36.0,34.0,79.0,Tim Andrews,Sleep Inn Rehoboth Beach (Rick Russell),Ford,44.0,12185.0,transmission,0.0,8.0
+2011,11,Dover,37.0,43.0,13.0,Jennifer Jo Cobb,DrivenMale.com / DriverBoutique.com (Jennifer Jo Cobb),Ford,43.0,12165.0,axle,0.0,7.0
+2011,11,Dover,38.0,36.0,52.0,Kevin Lepage,TRX Alliance (Jimmy Means),Chevrolet,19.0,12100.0,crash,0.0,6.0
+2011,11,Dover,39.0,41.0,0.0,Brad Teague,G&K Services (Johnny Davis),Chevrolet,10.0,12075.0,engine,0.0,5.0
+2011,11,Dover,40.0,39.0,55.0,Brett Rowe,Salvation Army / Imperial Bedding Co. (Morgan Shepherd),Chevrolet,7.0,12020.0,handling,0.0,4.0
+2011,11,Dover,41.0,37.0,44.0,Jeff Green,Tri-Star Motorsports (Mark Smith),Chevrolet,6.0,11990.0,vibration,0.0,3.0
+2011,11,Dover,42.0,42.0,4.0,Charles Lewandoski,Go Green Racing (Archie St. Hilaire),Ford,4.0,11950.0,ignition,0.0,2.0
+2011,11,Dover,43.0,33.0,82.0,Blake Koch,Daystar.com (Pat MacDonald),Dodge,1.0,11892.0,crash,0.0,1.0
+2011,12,Iowa,1.0,8.0,6.0,Ricky Stenhouse Jr,Blackwell Angus Beef (Jack Roush),Ford,250.0,74343.0,running,41.0,47.0
+2011,12,Iowa,2.0,4.0,60.0,Carl Edwards,Polaris Off-Road Vehicles (Jack Roush),Ford,250.0,51675.0,running,33.0,0.0
+2011,12,Iowa,3.0,10.0,22.0,Brad Keselowski,Discount Tire (Roger Penske),Dodge,250.0,39950.0,running,30.0,0.0
+2011,12,Iowa,4.0,5.0,32.0,Reed Sorenson,Dollar General (Steve Turner),Chevrolet,250.0,39343.0,running,77.0,42.0
+2011,12,Iowa,5.0,6.0,2.0,Elliott Sadler,OneMain Financial (Kevin Harvick),Chevrolet,250.0,32493.0,running,0.0,39.0
+2011,12,Iowa,6.0,14.0,9.0,Kenny Wallace,American Ethanol / Iowa Corn / G-Oil (Robby Benton),Toyota,250.0,28443.0,running,0.0,38.0
+2011,12,Iowa,7.0,2.0,18.0,Michael McDowell,Pizza Ranch (Joe Gibbs),Toyota,250.0,27328.0,running,19.0,0.0
+2011,12,Iowa,8.0,9.0,31.0,Justin Allgaier,Brandt (Steve Turner),Chevrolet,250.0,26288.0,running,11.0,37.0
+2011,12,Iowa,9.0,13.0,30.0,James Buescher,Fraternal Order of Eagles (Steve Turner),Chevrolet,250.0,25193.0,running,0.0,0.0
+2011,12,Iowa,10.0,3.0,33.0,Austin Dillon,"Rheem Heating, Cooling & Water Heating (Kevin Harvick)",Chevrolet,250.0,25543.0,running,0.0,0.0
+2011,12,Iowa,11.0,17.0,66.0,Steve Wallace,5-hour Energy (Rusty Wallace),Toyota,250.0,23718.0,running,0.0,33.0
+2011,12,Iowa,12.0,1.0,20.0,Drew Herring,SportClips (Joe Gibbs),Toyota,250.0,23168.0,running,39.0,33.0
+2011,12,Iowa,13.0,19.0,62.0,Michael Annett,Pilot Travel Centers / Flying J (Rusty Wallace),Toyota,250.0,22643.0,running,0.0,31.0
+2011,12,Iowa,14.0,22.0,51.0,Jeremy Clements,RepairableVehicles.com (Jeremy Clements),Chevrolet,250.0,24068.0,running,0.0,30.0
+2011,12,Iowa,15.0,24.0,70.0,Scott Wimmer,Foretravel Motorcoach (Mary Louise Miller),Chevrolet,250.0,23193.0,running,0.0,29.0
+2011,12,Iowa,16.0,18.0,87.0,Joe Nemechek,NEMCO Motorsports (Joe Nemechek),Toyota,250.0,21718.0,running,0.0,28.0
+2011,12,Iowa,17.0,11.0,88.0,Aric Almirola,2011 NASCAR Hall of Fame (JR Motorsports),Chevrolet,250.0,21218.0,running,0.0,27.0
+2011,12,Iowa,18.0,20.0,19.0,Mike Bliss,Tri-Star Motorsports (Mark Smith),Chevrolet,249.0,20968.0,running,0.0,26.0
+2011,12,Iowa,19.0,21.0,1.0,Mike Wallace,G&K Services (Johnny Davis),Chevrolet,249.0,20943.0,running,0.0,25.0
+2011,12,Iowa,20.0,31.0,89.0,Morgan Shepherd,Victory in Jesus Racing (Morgan Shepherd),Chevrolet,247.0,14550.0,running,0.0,24.0
+2011,12,Iowa,21.0,26.0,81.0,Blake Koch,Daystar.com (Pat MacDonald),Dodge,247.0,24018.0,running,0.0,23.0
+2011,12,Iowa,22.0,28.0,23.0,"Robert Richardson, Jr.","North Texas Pipe (Robert Richardson, Sr.)",Dodge,246.0,13800.0,running,0.0,22.0
+2011,12,Iowa,23.0,29.0,14.0,Eric McClure,Hefty BlackOut / Reynolds (Mark Smith),Chevrolet,246.0,14050.0,running,0.0,21.0
+2011,12,Iowa,24.0,32.0,52.0,Daryl Harr,WestWorld Computers (Jimmy Means),Chevrolet,246.0,13525.0,running,0.0,20.0
+2011,12,Iowa,25.0,27.0,28.0,Dennis Setzer,Maxelence (Jay Robinson),Chevrolet,243.0,20493.0,running,0.0,19.0
+2011,12,Iowa,26.0,40.0,13.0,Jennifer Jo Cobb,DrivenMale.com / DriverBoutique.com (Jennifer Jo Cobb),Ford,238.0,13275.0,running,0.0,18.0
+2011,12,Iowa,27.0,16.0,11.0,Brian Scott,Shore Lodge (Joe Gibbs),Toyota,233.0,19618.0,running,0.0,17.0
+2011,12,Iowa,28.0,34.0,44.0,Angela Ruch,Odyssey Extreme Batteries / Warrior Energy (Mark Smith),Chevrolet,230.0,13400.0,running,0.0,16.0
+2011,12,Iowa,29.0,12.0,7.0,Josh Wise,GoDaddy.com (JR Motorsports),Chevrolet,224.0,19343.0,running,0.0,15.0
+2011,12,Iowa,30.0,23.0,15.0,Timmy Hill,Lilly Trucking of Virginia (Rick Ware),Ford,222.0,19518.0,engine,0.0,14.0
+2011,12,Iowa,31.0,25.0,39.0,"Luis Martinez, Jr.",King Taco (Archie St. Hilaire),Ford,204.0,19063.0,running,0.0,13.0
+2011,12,Iowa,32.0,43.0,93.0,Amber Cope,Elie Hydro Salon Specialties / Odyssey Batt. (Jared Keeney),Chevrolet,203.0,12485.0,too slow,0.0,0.0
+2011,12,Iowa,33.0,7.0,38.0,Jason Leffler,Great Clips (Steve Turner),Chevrolet,187.0,18843.0,running,0.0,11.0
+2011,12,Iowa,34.0,15.0,99.0,Ryan Truex,Pastrana Waltrip Racing (Michael Waltrip),Toyota,109.0,18733.0,crash,0.0,10.0
+2011,12,Iowa,35.0,33.0,41.0,Carl Long,Lilly Trucking of Virginia (Rick Ware),Ford,65.0,12160.0,handling,0.0,9.0
+2011,12,Iowa,36.0,39.0,75.0,Johnny Chapman,Rick Ware Racing (Rick Ware),Ford,15.0,12050.0,brakes,0.0,8.0
+2011,12,Iowa,37.0,37.0,74.0,Mike Harmon,Riverwalk Cafe (Mike Harmon),Chevrolet,11.0,11940.0,ignition,0.0,7.0
+2011,12,Iowa,38.0,38.0,49.0,Brad Teague,Jay Robinson Racing (Jay Robinson),Chevrolet,8.0,11860.0,engine,0.0,6.0
+2011,12,Iowa,39.0,42.0,46.0,Tim Andrews,Key Motorsports (Curtis Key),Chevrolet,7.0,11745.0,transmission,0.0,0.0
+2011,12,Iowa,40.0,35.0,68.0,Chase Miller,Marro's Truck (Craig Partee),Chevrolet,6.0,11630.0,overheating,0.0,4.0
+2011,12,Iowa,41.0,30.0,40.0,Charles Lewandoski,Key Motorsports (Curtis Key),Chevrolet,5.0,11465.0,brakes,0.0,3.0
+2011,12,Iowa,42.0,41.0,0.0,Tim Schendel,G&K Services (Johnny Davis),Chevrolet,5.0,11345.0,electrical,0.0,2.0
+2011,12,Iowa,43.0,36.0,55.0,Brett Rowe,Imperial Bedding Company (Morgan Shepherd),Chevrolet,2.0,11228.0,brakes,0.0,1.0
+2011,13,Charlotte,1.0,3.0,16.0,Matt Kenseth,Fastenal (Jack Roush),Ford,200.0,51800.0,running,41.0,0.0
+2011,13,Charlotte,2.0,5.0,60.0,Carl Edwards,Fastenal (Jack Roush),Ford,200.0,40850.0,running,63.0,0.0
+2011,13,Charlotte,3.0,4.0,18.0,Kyle Busch,Z-Line Designs (Joe Gibbs),Toyota,200.0,28650.0,running,44.0,0.0
+2011,13,Charlotte,4.0,1.0,6.0,Ricky Stenhouse Jr,Fastenal (Jack Roush),Ford,200.0,38143.0,running,12.0,41.0
+2011,13,Charlotte,5.0,6.0,32.0,Reed Sorenson,Dollar General (Steve Turner),Chevrolet,200.0,29718.0,running,0.0,39.0
+2011,13,Charlotte,6.0,13.0,22.0,Brad Keselowski,Discount Tire (Roger Penske),Dodge,200.0,19075.0,running,0.0,0.0
+2011,13,Charlotte,7.0,16.0,66.0,Steve Wallace,5-hour Energy (Rusty Wallace),Toyota,200.0,23418.0,running,0.0,37.0
+2011,13,Charlotte,8.0,12.0,11.0,Brian Scott,Shore Lodge (Joe Gibbs),Toyota,200.0,24918.0,running,0.0,36.0
+2011,13,Charlotte,9.0,8.0,88.0,Aric Almirola,Hellmann's (JR Motorsports),Chevrolet,200.0,21768.0,running,0.0,35.0
+2011,13,Charlotte,10.0,10.0,2.0,Elliott Sadler,OneMain Financial (Kevin Harvick),Chevrolet,200.0,22243.0,running,0.0,34.0
+2011,13,Charlotte,11.0,11.0,20.0,Joey Logano,GameStop / Kongregate (Joe Gibbs),Toyota,199.0,13950.0,running,0.0,0.0
+2011,13,Charlotte,12.0,7.0,12.0,"Sam Hornish, Jr.",Alliance Truck Parts (Roger Penske),Dodge,199.0,13450.0,running,1.0,33.0
+2011,13,Charlotte,13.0,15.0,31.0,Justin Allgaier,SEM / Wolfpack Rentals (Steve Turner),Chevrolet,199.0,19743.0,running,5.0,32.0
+2011,13,Charlotte,14.0,18.0,62.0,Michael Annett,Pilot Travel Centers / Flying J (Rusty Wallace),Toyota,199.0,18868.0,running,1.0,31.0
+2011,13,Charlotte,15.0,14.0,99.0,Cole Whitt,Red Bull (Michael Waltrip),Toyota,199.0,19368.0,running,0.0,0.0
+2011,13,Charlotte,16.0,2.0,33.0,Kevin Harvick,Rheem Tankless Water Heaters (Kevin Harvick),Chevrolet,199.0,12400.0,running,33.0,0.0
+2011,13,Charlotte,17.0,20.0,7.0,Josh Wise,Voodoo Ride (JR Motorsports),Chevrolet,198.0,18068.0,running,0.0,27.0
+2011,13,Charlotte,18.0,25.0,19.0,Mike Bliss,MillerWelds.com (Mark Smith),Chevrolet,198.0,19343.0,running,0.0,26.0
+2011,13,Charlotte,19.0,39.0,39.0,Danny Efland,C3i Sports (Archie St. Hilaire),Ford,198.0,18718.0,running,0.0,25.0
+2011,13,Charlotte,20.0,21.0,9.0,Kenny Wallace,Family Farmers (Robby Benton),Toyota,198.0,18343.0,running,0.0,24.0
+2011,13,Charlotte,21.0,17.0,38.0,Jason Leffler,Great Clips (Steve Turner),Chevrolet,197.0,17568.0,running,0.0,23.0
+2011,13,Charlotte,22.0,9.0,30.0,Kasey Kahne,Rexall / Dollar General (Steve Turner),Chevrolet,197.0,11075.0,running,0.0,0.0
+2011,13,Charlotte,23.0,33.0,15.0,Timmy Hill,Nuts Off / Lilly Trucking of Virginia (Rick Ware),Ford,197.0,18868.0,running,0.0,21.0
+2011,13,Charlotte,24.0,41.0,89.0,Morgan Shepherd,Victory in Jesus / Happy 70th Birthday Morgan (Morgan Shepherd),Chevrolet,197.0,17403.0,running,0.0,20.0
+2011,13,Charlotte,25.0,24.0,1.0,Mike Wallace,CoyboysAndAliensMovie.com (Johnny Davis),Chevrolet,197.0,17993.0,running,0.0,19.0
+2011,13,Charlotte,26.0,23.0,51.0,Jeremy Clements,Co-ops USA.com / Carolina Collision (Jeremy Clements),Chevrolet,196.0,17333.0,running,0.0,18.0
+2011,13,Charlotte,27.0,22.0,87.0,Kimi Raikkonen,Perky Jerky (Kyle Busch),Toyota,196.0,17698.0,running,0.0,0.0
+2011,13,Charlotte,28.0,34.0,14.0,Eric McClure,Hefty BlackOut / Reynolds (Mark Smith),Chevrolet,195.0,17263.0,running,0.0,16.0
+2011,13,Charlotte,29.0,19.0,97.0,Joe Nemechek,AM FM Energy / Pellet & Wood Stoves (Joe Nemechek),Toyota,194.0,10750.0,engine,0.0,15.0
+2011,13,Charlotte,30.0,32.0,28.0,Derrike Cope,Maxelence.com (Jay Robinson),Dodge,193.0,17473.0,running,0.0,14.0
+2011,13,Charlotte,31.0,40.0,13.0,Jennifer Jo Cobb,DrivenMale.com / DriverBoutique.com (Jennifer Jo Cobb),Ford,191.0,10670.0,running,0.0,13.0
+2011,13,Charlotte,32.0,36.0,70.0,Dennis Setzer,Sports Pouch Beverage (Mary Louise Miller),Chevrolet,162.0,17093.0,power steering,0.0,12.0
+2011,13,Charlotte,33.0,30.0,52.0,Kevin Lepage,TRX Alliance / MetroMinistries.org (Jimmy Means),Chevrolet,112.0,17043.0,engine,0.0,11.0
+2011,13,Charlotte,34.0,27.0,81.0,Blake Koch,Daystar.com / Set Free (Pat MacDonald),Dodge,80.0,17013.0,engine,0.0,10.0
+2011,13,Charlotte,35.0,29.0,41.0,Jeffrey Earnhardt,Pepsi Max / Nuts Off / Fast Wax (Rick Ware),Chevrolet,71.0,10520.0,rear end,0.0,0.0
+2011,13,Charlotte,36.0,42.0,23.0,"Robert Richardson, Jr.","FunnyDanRaceCarMan.com / North Texas Pipe (Robert Richardson, Sr.)",Dodge,42.0,16968.0,crash,0.0,8.0
+2011,13,Charlotte,37.0,31.0,72.0,John Jackson,James Carter Attorney / CrashClaimsR.us (James Carter),Toyota,41.0,10475.0,vibration,0.0,7.0
+2011,13,Charlotte,38.0,26.0,79.0,Tim Andrews,Mooresville Ford / el2web (Rick Russell),Ford,24.0,10455.0,ignition,0.0,6.0
+2011,13,Charlotte,39.0,37.0,75.0,Carl Long,Lilly Trucking of Virginia (Rick Ware),Ford,15.0,10435.0,overheating,0.0,5.0
+2011,13,Charlotte,40.0,38.0,74.0,Mike Harmon,IPT Pellet Grills / Riverwalk Cafe (Mike Harmon),Chevrolet,10.0,10330.0,wheel,0.0,4.0
+2011,13,Charlotte,41.0,43.0,49.0,David Green,Acredale Vending (Jay Robinson),Chevrolet,6.0,10295.0,vibration,0.0,3.0
+2011,13,Charlotte,42.0,28.0,4.0,Kelly Bires,Go Green Racing (Archie St. Hilaire),Ford,5.0,10270.0,overheating,0.0,2.0
+2011,13,Charlotte,43.0,35.0,44.0,Jeff Green,Tri-Star Motorsports / Pro Motor Engines (Mark Smith),Chevrolet,4.0,10209.0,vibration,0.0,1.0
+2011,14,Chicago,1.0,13.0,31.0,Justin Allgaier,Brandt / STP (Steve Turner),Chevrolet,200.0,82868.0,running,1.0,47.0
+2011,14,Chicago,2.0,4.0,60.0,Carl Edwards,Fastenal (Jack Roush),Ford,200.0,57125.0,running,144.0,0.0
+2011,14,Chicago,3.0,31.0,16.0,Trevor Bayne,Avnet / Business Marketing Association (Jack Roush),Ford,200.0,45818.0,running,0.0,41.0
+2011,14,Chicago,4.0,1.0,88.0,Aric Almirola,TaxSlayer.com (JR Motorsports),Chevrolet,200.0,33693.0,running,9.0,41.0
+2011,14,Chicago,5.0,14.0,38.0,Jason Leffler,Great Clips (Steve Turner),Chevrolet,200.0,30193.0,running,0.0,39.0
+2011,14,Chicago,6.0,7.0,32.0,Reed Sorenson,Dollar General (Steve Turner),Chevrolet,200.0,27743.0,running,0.0,38.0
+2011,14,Chicago,7.0,15.0,9.0,Kenny Wallace,Family Farmers / Marquis Energy (Robby Benton),Toyota,200.0,27053.0,running,2.0,38.0
+2011,14,Chicago,8.0,17.0,18.0,Kelly Bires,Heil Heating & Cooling Products (Joe Gibbs),Toyota,200.0,28013.0,running,2.0,37.0
+2011,14,Chicago,9.0,11.0,62.0,Michael Annett,Pilot Travel Centers / Flying J (Rusty Wallace),Toyota,200.0,24518.0,running,0.0,35.0
+2011,14,Chicago,10.0,16.0,7.0,Danica Patrick,Tissot / GoDaddy.com (JR Motorsports),Chevrolet,199.0,24743.0,running,0.0,34.0
+2011,14,Chicago,11.0,2.0,2.0,Elliott Sadler,OneMain Financial (Kevin Harvick),Chevrolet,199.0,23668.0,running,29.0,34.0
+2011,14,Chicago,12.0,10.0,66.0,Steve Wallace,5-hour Energy (Rusty Wallace),Toyota,199.0,22743.0,running,2.0,33.0
+2011,14,Chicago,13.0,18.0,33.0,Kevin Harvick,Rheem (Kevin Harvick),Chevrolet,199.0,16200.0,running,1.0,0.0
+2011,14,Chicago,14.0,3.0,6.0,Ricky Stenhouse Jr,RickyVsTrevor.com (Jack Roush),Ford,199.0,21693.0,running,1.0,31.0
+2011,14,Chicago,15.0,25.0,15.0,Timmy Hill,Nuts Off / Lilly Trucking of Virginia (Rick Ware),Ford,199.0,23068.0,running,1.0,30.0
+2011,14,Chicago,16.0,22.0,1.0,Mike Wallace,CowboysAndAliensMovie.com (Johnny Davis),Chevrolet,199.0,23418.0,running,0.0,28.0
+2011,14,Chicago,17.0,8.0,11.0,Brian Scott,Sandvik (Joe Gibbs),Toyota,199.0,21093.0,running,0.0,27.0
+2011,14,Chicago,18.0,27.0,14.0,Eric McClure,Hefty BlackOut / Reynolds (Mark Smith),Chevrolet,199.0,21718.0,running,0.0,26.0
+2011,14,Chicago,19.0,19.0,70.0,Scott Wimmer,Foretravel Motorcoach (Mary Louise Miller),Chevrolet,198.0,20843.0,running,0.0,25.0
+2011,14,Chicago,20.0,9.0,99.0,Ryan Truex,Pastrana Waltrip Racing (Michael Waltrip),Toyota,198.0,21218.0,running,0.0,24.0
+2011,14,Chicago,21.0,29.0,87.0,Joe Nemechek,NEMCO Motorsports (Joe Nemechek),Toyota,198.0,20818.0,running,0.0,23.0
+2011,14,Chicago,22.0,12.0,19.0,Mike Bliss,Tri-Star Motorsports (Mark Smith),Chevrolet,196.0,20443.0,running,0.0,22.0
+2011,14,Chicago,23.0,24.0,28.0,Derrike Cope,Jay Robinson Inc. (Jay Robinson),Chevrolet,196.0,14225.0,running,1.0,22.0
+2011,14,Chicago,24.0,26.0,40.0,Charles Lewandoski,Key Motorsports (Curtis Key),Chevrolet,196.0,13700.0,running,0.0,20.0
+2011,14,Chicago,25.0,28.0,89.0,Morgan Shepherd,Victory in Jesus Racing (Morgan Shepherd),Chevrolet,196.0,13710.0,running,0.0,19.0
+2011,14,Chicago,26.0,21.0,39.0,Josh Wise,Cajun Industries / Eaglewood Resort (Archie St. Hilaire),Ford,195.0,20368.0,running,0.0,18.0
+2011,14,Chicago,27.0,20.0,81.0,Blake Koch,Daystar.com (Pat MacDonald),Dodge,194.0,20143.0,running,0.0,17.0
+2011,14,Chicago,28.0,38.0,52.0,Kevin Lepage,Just Rite Acoustics (Jimmy Means),Chevrolet,193.0,13100.0,running,0.0,16.0
+2011,14,Chicago,29.0,23.0,51.0,Jeremy Clements,Gerber Collision & Glass (Jeremy Clements),Chevrolet,186.0,19443.0,running,0.0,15.0
+2011,14,Chicago,30.0,6.0,22.0,Brad Keselowski,Discount Tire (Roger Penske),Dodge,139.0,12825.0,engine,7.0,0.0
+2011,14,Chicago,31.0,41.0,41.0,Carl Long,Lilly Trucking of Virginia (Rick Ware),Ford,79.0,12995.0,steering box,0.0,13.0
+2011,14,Chicago,32.0,30.0,23.0,"Robert Richardson, Jr.","North Texas Pipe (Robert Richardson, Sr.)",Dodge,64.0,19028.0,electrical,0.0,12.0
+2011,14,Chicago,33.0,5.0,30.0,Mikey Kile,Sears Auto Center / Battery Tender (Steve Turner),Chevrolet,62.0,18918.0,engine,0.0,11.0
+2011,14,Chicago,34.0,37.0,79.0,Tim Andrews,el2Web / Howard Johnson's (Rick Russell),Ford,29.0,12340.0,ignition,0.0,10.0
+2011,14,Chicago,35.0,32.0,49.0,Dennis Setzer,Jay Robinson Inc. (Jay Robinson),Chevrolet,24.0,12235.0,vibration,0.0,9.0
+2011,14,Chicago,36.0,35.0,13.0,Rick Crawford,DrivenMale.com / DriverBoutique.com (Jennifer Jo Cobb),Ford,22.0,12200.0,vibration,0.0,8.0
+2011,14,Chicago,37.0,36.0,68.0,Matt Carter,Fleur-de-Lis Construction (Craig Partee),Chevrolet,18.0,12165.0,rear end,0.0,7.0
+2011,14,Chicago,38.0,42.0,75.0,Johnny Chapman,Lilly Trucking of Virginia (Rick Ware),Ford,15.0,12110.0,overheating,0.0,6.0
+2011,14,Chicago,39.0,40.0,74.0,Mike Harmon,Riverwalk Cafe (Mike Harmon),Chevrolet,6.0,12070.0,clutch,0.0,5.0
+2011,14,Chicago,40.0,33.0,44.0,Jeff Green,Tri-Star Motorsports / Pro Motor (Mark Smith),Chevrolet,3.0,12030.0,transmission,0.0,4.0
+2011,14,Chicago,41.0,34.0,46.0,Chase Miller,Key Motorsports (Curtis Key),Chevrolet,3.0,11965.0,handling,0.0,3.0
+2011,14,Chicago,42.0,39.0,55.0,Brett Rowe,Imperial Bedding Company (Morgan Shepherd),Chevrolet,3.0,11935.0,brakes,0.0,2.0
+2011,15,Michigan,1.0,3.0,60.0,Carl Edwards,Fastenal (Jack Roush),Ford,125.0,40200.0,running,62.0,0.0
+2011,15,Michigan,2.0,5.0,6.0,Ricky Stenhouse Jr,Tender Ridge Angus Beef (Jack Roush),Ford,125.0,37568.0,running,38.0,43.0
+2011,15,Michigan,3.0,12.0,18.0,Kyle Busch,Pizza Ranch (Joe Gibbs),Toyota,125.0,19450.0,running,0.0,0.0
+2011,15,Michigan,4.0,1.0,33.0,Paul Menard,Rheem / Menards (Kevin Harvick),Chevrolet,125.0,20625.0,running,1.0,0.0
+2011,15,Michigan,5.0,7.0,16.0,Trevor Bayne,RickyVsTrevor.com (Jack Roush),Ford,125.0,22543.0,running,1.0,40.0
+2011,15,Michigan,6.0,9.0,20.0,Joey Logano,GameStop / Cars 2 (Joe Gibbs),Toyota,125.0,14125.0,running,0.0,0.0
+2011,15,Michigan,7.0,11.0,32.0,Mark Martin,Dollar General (Steve Turner),Chevrolet,125.0,13910.0,running,5.0,0.0
+2011,15,Michigan,8.0,6.0,2.0,Elliott Sadler,OneMain Financial (Kevin Harvick),Chevrolet,125.0,22213.0,running,6.0,37.0
+2011,15,Michigan,9.0,8.0,22.0,Brad Keselowski,Discount Tire (Roger Penske),Dodge,125.0,14550.0,running,11.0,0.0
+2011,15,Michigan,10.0,22.0,38.0,Jason Leffler,Great Clips (Steve Turner),Chevrolet,125.0,21018.0,running,0.0,34.0
+2011,15,Michigan,11.0,15.0,30.0,Reed Sorenson,Rexall (Steve Turner),Chevrolet,125.0,19568.0,running,0.0,33.0
+2011,15,Michigan,12.0,10.0,70.0,David Stremme,Foretravel Motorcoach (Mary Louise Miller),Chevrolet,125.0,20893.0,running,0.0,0.0
+2011,15,Michigan,13.0,13.0,31.0,Justin Allgaier,Deft (Steve Turner),Chevrolet,125.0,19593.0,running,0.0,31.0
+2011,15,Michigan,14.0,14.0,66.0,Steve Wallace,5-hour Energy (Rusty Wallace),Toyota,125.0,19018.0,running,0.0,30.0
+2011,15,Michigan,15.0,4.0,88.0,Aric Almirola,Suave Men (JR Motorsports),Chevrolet,125.0,20093.0,running,0.0,29.0
+2011,15,Michigan,16.0,25.0,7.0,Josh Wise,Air Hogs (JR Motorsports),Chevrolet,125.0,18768.0,running,0.0,28.0
+2011,15,Michigan,17.0,16.0,11.0,Brian Scott,Shore Lodge (Joe Gibbs),Toyota,125.0,18993.0,running,0.0,27.0
+2011,15,Michigan,18.0,28.0,64.0,David Reutimann,Aspen Dental (Rusty Wallace),Toyota,125.0,12200.0,running,0.0,0.0
+2011,15,Michigan,19.0,21.0,62.0,Michael Annett,Pilot Travel Centers / Flying J (Rusty Wallace),Toyota,124.0,18618.0,running,0.0,25.0
+2011,15,Michigan,20.0,19.0,9.0,Kenny Wallace,Toyota (Robby Benton),Toyota,124.0,19493.0,running,0.0,24.0
+2011,15,Michigan,21.0,23.0,87.0,Joe Nemechek,D.A.B. Constructors (Joe Nemechek),Toyota,124.0,19243.0,running,0.0,23.0
+2011,15,Michigan,22.0,27.0,1.0,Mike Wallace,Cowboys & Aliens (Johnny Davis),Chevrolet,124.0,18443.0,running,0.0,22.0
+2011,15,Michigan,23.0,17.0,19.0,Mike Bliss,Tri-Star Motorsports (Mark Smith),Chevrolet,124.0,18793.0,running,0.0,21.0
+2011,15,Michigan,24.0,2.0,12.0,"Sam Hornish, Jr.",Alliance (Roger Penske),Dodge,123.0,12575.0,running,1.0,21.0
+2011,15,Michigan,25.0,18.0,81.0,Blake Koch,Daystar.com (Pat MacDonald),Dodge,123.0,19918.0,running,0.0,19.0
+2011,15,Michigan,26.0,29.0,51.0,Jeremy Clements,Diamond Pistons (Jeremy Clements),Chevrolet,123.0,18218.0,running,0.0,18.0
+2011,15,Michigan,27.0,39.0,15.0,Timmy Hill,EPH Tools / Nuts Off (Rick Ware),Ford,123.0,18168.0,running,0.0,17.0
+2011,15,Michigan,28.0,35.0,28.0,Derrike Cope,Jay Robinson Inc. (Jay Robinson),Chevrolet,121.0,18493.0,running,0.0,16.0
+2011,15,Michigan,29.0,33.0,14.0,Eric McClure,Hefty BlackOut / Reynolds (Mark Smith),Chevrolet,121.0,18043.0,running,0.0,15.0
+2011,15,Michigan,30.0,31.0,40.0,Charles Lewandoski,Precisionwerx (Curtis Key),Chevrolet,121.0,18293.0,running,0.0,14.0
+2011,15,Michigan,31.0,41.0,23.0,"Robert Richardson, Jr.","North Texas Pipe (Robert Richardson, Sr.)",Dodge,120.0,17938.0,running,0.0,13.0
+2011,15,Michigan,32.0,36.0,13.0,Jennifer Jo Cobb,DrivenMale.com / DriverBoutique.com (Jennifer Jo Cobb),Ford,120.0,11410.0,running,0.0,12.0
+2011,15,Michigan,33.0,26.0,39.0,Danny Efland,Go Green Racing (Archie St. Hilaire),Ford,119.0,17843.0,running,0.0,11.0
+2011,15,Michigan,34.0,38.0,89.0,Morgan Shepherd,Victory in Jesus Racing (Morgan Shepherd),Chevrolet,95.0,17823.0,electrical,0.0,10.0
+2011,15,Michigan,35.0,37.0,41.0,Carl Long,Lilly Trucking of Virginia (Rick Ware),Chevrolet,27.0,11340.0,rear end,0.0,9.0
+2011,15,Michigan,36.0,20.0,68.0,Matt Carter,Marro's Truck (Craig Partee),Chevrolet,17.0,11300.0,overheating,0.0,8.0
+2011,15,Michigan,37.0,43.0,3.0,Scott Riggs,"North Texas Pipe (Robert Richardson, Sr.)",Chevrolet,15.0,11280.0,engine,0.0,7.0
+2011,15,Michigan,38.0,40.0,75.0,Andy Ponstein,Lilly Trucking of Virginia (Rick Ware),Ford,7.0,11240.0,vibration,0.0,6.0
+2011,15,Michigan,39.0,30.0,74.0,J.J. Yeley,Riverwalk Cafe (Mike Harmon),Chevrolet,5.0,11190.0,vibration,0.0,0.0
+2011,15,Michigan,40.0,34.0,42.0,Tim Andrews,Key Motorsports (Curtis Key),Chevrolet,2.0,11160.0,brakes,0.0,4.0
+2011,15,Michigan,41.0,32.0,44.0,Jeff Green,Tri-Star Motorsports (Mark Smith),Chevrolet,2.0,11135.0,vibration,0.0,3.0
+2011,15,Michigan,42.0,42.0,52.0,Tony Raines,MDS Trucking / Metro Ministries (Jimmy Means),Chevrolet,2.0,11080.0,electrical,0.0,0.0
+2011,15,Michigan,43.0,24.0,49.0,Dennis Setzer,Jay Robinson Inc. (Jay Robinson),Chevrolet,1.0,11030.0,vibration,0.0,1.0
+2011,16,Elkhart Lake,1.0,12.0,32.0,Reed Sorenson,Dollar General (Steve Turner),Chevrolet,57.0,44093.0,running,1.0,47.0
+2011,16,Elkhart Lake,2.0,5.0,7.0,Ron Fellows,AER Manufacturing (JR Motorsports),Chevrolet,57.0,39268.0,running,6.0,43.0
+2011,16,Elkhart Lake,3.0,3.0,22.0,Jacques Villeneuve,Discount Tire (Roger Penske),Dodge,57.0,29268.0,running,5.0,42.0
+2011,16,Elkhart Lake,4.0,7.0,2.0,Elliott Sadler,OneMain Financial (Kevin Harvick),Chevrolet,57.0,27943.0,running,0.0,40.0
+2011,16,Elkhart Lake,5.0,25.0,1.0,Mike Wallace,Cowboys & Aliens (Johnny Davis),Chevrolet,57.0,26618.0,running,2.0,40.0
+2011,16,Elkhart Lake,6.0,21.0,53.0,Andrew Ranger,WM Recycling (Robert Torriere),Dodge,57.0,16250.0,running,0.0,38.0
+2011,16,Elkhart Lake,7.0,22.0,62.0,Michael Annett,Pilot Travel Centers / Flying J (Rusty Wallace),Toyota,57.0,20343.0,running,0.0,37.0
+2011,16,Elkhart Lake,8.0,8.0,6.0,Ricky Stenhouse Jr,RickyVsTrevor.com (Jack Roush),Ford,57.0,20868.0,running,0.0,36.0
+2011,16,Elkhart Lake,9.0,15.0,30.0,Ricky Carmichael,Monster Energy (Steve Turner),Chevrolet,57.0,19343.0,running,0.0,0.0
+2011,16,Elkhart Lake,10.0,17.0,67.0,J.R. Fitzpatrick,Go Canada Racing (Steve Meehan),Ford,57.0,13875.0,running,0.0,34.0
+2011,16,Elkhart Lake,11.0,23.0,15.0,Timmy Hill,New Orleans Voodoo (Rick Ware),Ford,57.0,19993.0,running,0.0,33.0
+2011,16,Elkhart Lake,12.0,1.0,18.0,Michael McDowell,Pizza Ranch (Joe Gibbs),Toyota,57.0,25218.0,running,30.0,0.0
+2011,16,Elkhart Lake,13.0,18.0,39.0,Josh Wise,Cajun Industries / Go Green Racing (Archie St. Hilaire),Ford,57.0,19268.0,running,0.0,31.0
+2011,16,Elkhart Lake,14.0,24.0,81.0,Blake Koch,Daystar.com (Pat MacDonald),Dodge,57.0,12275.0,running,0.0,30.0
+2011,16,Elkhart Lake,15.0,26.0,19.0,Mike Bliss,SheboyganAuto.com (Mark Smith),Chevrolet,57.0,19793.0,running,0.0,29.0
+2011,16,Elkhart Lake,16.0,13.0,11.0,Brian Scott,Shore Lodge (Joe Gibbs),Toyota,57.0,18593.0,running,5.0,29.0
+2011,16,Elkhart Lake,17.0,32.0,28.0,Derrike Cope,Maxelence.com (Jay Robinson),Chevrolet,57.0,12025.0,running,0.0,27.0
+2011,16,Elkhart Lake,18.0,39.0,70.0,Dennis Setzer,All American Sports Pouch (Mary Louise Miller),Dodge,57.0,20793.0,running,0.0,26.0
+2011,16,Elkhart Lake,19.0,14.0,31.0,Justin Allgaier,Florida Gulf Safe (Steve Turner),Chevrolet,56.0,19318.0,out of fuel,4.0,26.0
+2011,16,Elkhart Lake,20.0,9.0,38.0,Jason Leffler,Great Clips (Steve Turner),Chevrolet,56.0,18993.0,out of fuel,0.0,24.0
+2011,16,Elkhart Lake,21.0,19.0,23.0,Alex Kennedy,"St. Baldrick's Foundation / Media Master (Robert Richardson, Sr.)",Dodge,56.0,11725.0,running,0.0,23.0
+2011,16,Elkhart Lake,22.0,20.0,88.0,Aric Almirola,TaxSlayer.com (JR Motorsports),Chevrolet,56.0,18153.0,running,0.0,22.0
+2011,16,Elkhart Lake,23.0,2.0,33.0,Max Papis,Rheem / Menards (Kevin Harvick),Chevrolet,55.0,19268.0,running,0.0,21.0
+2011,16,Elkhart Lake,24.0,28.0,87.0,Kevin Conway,AM FM Energy / Pellet & Wood Stoves (Joe Nemechek),Toyota,54.0,18058.0,running,0.0,20.0
+2011,16,Elkhart Lake,25.0,41.0,52.0,Tim Schendel,Boulders / Dean's Satellite (Jimmy Means),Chevrolet,54.0,12345.0,running,0.0,19.0
+2011,16,Elkhart Lake,26.0,6.0,66.0,Steve Wallace,5-hour Energy (Rusty Wallace),Toyota,52.0,17953.0,crash,4.0,19.0
+2011,16,Elkhart Lake,27.0,29.0,14.0,Eric McClure,Hefty BlackOut / Reynolds (Mark Smith),Chevrolet,52.0,18318.0,crash,0.0,17.0
+2011,16,Elkhart Lake,28.0,16.0,9.0,Kenny Wallace,Toyota (Robby Benton),Toyota,49.0,17888.0,running,0.0,16.0
+2011,16,Elkhart Lake,29.0,42.0,13.0,Jennifer Jo Cobb,DrivenMale.com / DriverBoutique.com (Jennifer Jo Cobb),Ford,49.0,11385.0,running,0.0,15.0
+2011,16,Elkhart Lake,30.0,30.0,41.0,Doug Harrington,New Orleans Voodoo (Rick Ware),Ford,45.0,11640.0,crash,0.0,14.0
+2011,16,Elkhart Lake,31.0,11.0,16.0,Trevor Bayne,RickyVsTrevor.com (Jack Roush),Ford,36.0,17763.0,overheating,0.0,13.0
+2011,16,Elkhart Lake,32.0,27.0,51.0,Jeremy Clements,RaceDaySponsor.com (Jeremy Clements),Chevrolet,26.0,17718.0,engine,0.0,12.0
+2011,16,Elkhart Lake,33.0,4.0,60.0,Billy Johnson,Fastenal (Jack Roush),Ford,25.0,17683.0,engine,0.0,11.0
+2011,16,Elkhart Lake,34.0,10.0,64.0,Jason Bowles,Fuel Doctor Platinum FD-47 / Advance Auto (Rusty Wallace),Toyota,16.0,11195.0,crash,0.0,10.0
+2011,16,Elkhart Lake,35.0,35.0,89.0,Morgan Shepherd,Victory in Jesus Racing (Morgan Shepherd),Chevrolet,11.0,11175.0,handling,0.0,9.0
+2011,16,Elkhart Lake,36.0,33.0,75.0,Carl Long,Lilly Trucking of Virginia (Rick Ware),Ford,6.0,11155.0,carburetor,0.0,8.0
+2011,16,Elkhart Lake,37.0,40.0,40.0,Charles Lewandoski,Key Motorsports (Curtis Key),Chevrolet,4.0,11135.0,ignition,0.0,7.0
+2011,16,Elkhart Lake,38.0,31.0,44.0,Jeff Green,Tri-Star Motorsports (Mark Smith),Chevrolet,3.0,11115.0,vibration,0.0,6.0
+2011,16,Elkhart Lake,39.0,36.0,3.0,Scott Wimmer,"R3 Motorsports (Robert Richardson, Sr.)",Dodge,3.0,11075.0,brakes,0.0,0.0
+2011,16,Elkhart Lake,40.0,34.0,46.0,Chase Miller,Key Motorsports (Curtis Key),Chevrolet,2.0,10975.0,brakes,0.0,4.0
+2011,16,Elkhart Lake,41.0,38.0,42.0,Tim Andrews,Key Motorsports (Curtis Key),Chevrolet,2.0,10930.0,brakes,0.0,3.0
+2011,16,Elkhart Lake,42.0,37.0,55.0,Brett Rowe,Imperial Bedding Company (Morgan Shepherd),Chevrolet,2.0,10895.0,brakes,0.0,2.0
+2011,17,Daytona,1.0,18.0,20.0,Joey Logano,SportClips (Joe Gibbs),Toyota,100.0,79100.0,running,1.0,0.0
+2011,17,Daytona,2.0,15.0,38.0,Jason Leffler,Great Clips (Steve Turner),Chevrolet,100.0,60193.0,running,0.0,42.0
+2011,17,Daytona,3.0,9.0,32.0,Reed Sorenson,Dollar General (Steve Turner),Chevrolet,100.0,44068.0,running,1.0,42.0
+2011,17,Daytona,4.0,14.0,18.0,Kyle Busch,NOS Energy Charged Citrus (Joe Gibbs),Toyota,100.0,29800.0,running,1.0,0.0
+2011,17,Daytona,5.0,10.0,31.0,Justin Allgaier,Trademark Nitrogen / Brandt (Steve Turner),Chevrolet,100.0,31868.0,running,0.0,39.0
+2011,17,Daytona,6.0,22.0,62.0,Michael Annett,Infinite Hero Foundation / Oakley (Rusty Wallace),Toyota,100.0,29118.0,running,0.0,38.0
+2011,17,Daytona,7.0,42.0,9.0,Kenny Wallace,G-Oil (Robby Benton),Toyota,100.0,32853.0,running,0.0,37.0
+2011,17,Daytona,8.0,3.0,2.0,Elliott Sadler,OneMain Financial (Kevin Harvick),Chevrolet,100.0,28063.0,running,31.0,38.0
+2011,17,Daytona,9.0,13.0,88.0,Aric Almirola,Suave Men / BJ's (JR Motorsports),Chevrolet,100.0,25868.0,running,1.0,36.0
+2011,17,Daytona,10.0,7.0,7.0,Danica Patrick,GoDaddy.com (JR Motorsports),Chevrolet,100.0,26093.0,running,13.0,35.0
+2011,17,Daytona,11.0,19.0,66.0,Steve Wallace,5-hour Energy / Infinite Hero Foundation (Rusty Wallace),Toyota,100.0,25018.0,running,0.0,33.0
+2011,17,Daytona,12.0,17.0,11.0,Brian Scott,Shore Lodge (Joe Gibbs),Toyota,100.0,24093.0,running,0.0,32.0
+2011,17,Daytona,13.0,2.0,9.0,Tony Stewart,TapOut.com (Kevin Harvick),Chevrolet,100.0,18050.0,running,4.0,0.0
+2011,17,Daytona,14.0,8.0,60.0,Carl Edwards,Subway (Jack Roush),Ford,100.0,17075.0,running,22.0,0.0
+2011,17,Daytona,15.0,21.0,1.0,Mike Wallace,Cowboys & Aliens (Johnny Davis),Chevrolet,100.0,25843.0,running,0.0,29.0
+2011,17,Daytona,16.0,6.0,1.0,Jamie McMurray,Phoenix Construction (James Finch),Chevrolet,100.0,17050.0,running,0.0,0.0
+2011,17,Daytona,17.0,11.0,22.0,Brad Keselowski,Discount Tire (Roger Penske),Dodge,100.0,16975.0,running,7.0,0.0
+2011,17,Daytona,18.0,1.0,4.0,Kevin Harvick,OneMain Financial (Kevin Harvick),Chevrolet,100.0,19650.0,running,13.0,0.0
+2011,17,Daytona,19.0,27.0,41.0,Jeffrey Earnhardt,Fastwax.com (Rick Ware),Chevrolet,100.0,15725.0,running,0.0,0.0
+2011,17,Daytona,20.0,32.0,19.0,Mike Bliss,Racing 4 Education (Mark Smith),Chevrolet,100.0,22793.0,running,0.0,24.0
+2011,17,Daytona,21.0,16.0,21.0,"Tim George, Jr.",Applebee's / Potomac Family Dining Group (Richard Childress),Chevrolet,100.0,15475.0,running,0.0,24.0
+2011,17,Daytona,22.0,5.0,16.0,Trevor Bayne,RickyVsTrevor.com (Jack Roush),Ford,100.0,21818.0,running,0.0,22.0
+2011,17,Daytona,23.0,25.0,15.0,Timmy Hill,Lilly Trucking of Virginia (Rick Ware),Ford,100.0,23068.0,running,0.0,21.0
+2011,17,Daytona,24.0,35.0,39.0,Josh Wise,Cajun Industries (Archie St. Hilaire),Ford,100.0,21543.0,running,0.0,20.0
+2011,17,Daytona,25.0,24.0,87.0,Kevin Conway,ExtenZe (Joe Nemechek),Toyota,100.0,22043.0,running,0.0,19.0
+2011,17,Daytona,26.0,23.0,97.0,Joe Nemechek,ExtenZe (Joe Nemechek),Toyota,100.0,14825.0,running,0.0,18.0
+2011,17,Daytona,27.0,12.0,6.0,Ricky Stenhouse Jr,RickyVsTrevor.com (Jack Roush),Ford,100.0,21143.0,running,5.0,18.0
+2011,17,Daytona,28.0,30.0,81.0,Blake Koch,Daystar.com (Pat MacDonald),Dodge,100.0,21368.0,running,0.0,16.0
+2011,17,Daytona,29.0,39.0,28.0,Derrike Cope,Maxelence (Jay Robinson),Chevrolet,100.0,20843.0,running,0.0,15.0
+2011,17,Daytona,30.0,43.0,7.0,Danny Efland,"C3i Sports (Thomas Efland, Jr.)",Chevrolet,99.0,14550.0,running,0.0,14.0
+2011,17,Daytona,31.0,26.0,23.0,"Robert Richardson, Jr.","North Texas Pipe (Robert Richardson, Sr.)",Dodge,98.0,20588.0,running,0.0,13.0
+2011,17,Daytona,32.0,36.0,51.0,Jeremy Clements,Daytona Beach Kennel Club & Poker Room (Jeremy Clements),Chevrolet,96.0,20453.0,running,0.0,12.0
+2011,17,Daytona,33.0,40.0,52.0,Kevin Lepage,TaxExact / TRX Software / Curry's Roofing (Jimmy Means),Chevrolet,92.0,20343.0,running,0.0,11.0
+2011,17,Daytona,34.0,4.0,33.0,Clint Bowyer,Rheem / Menards (Kevin Harvick),Chevrolet,80.0,13765.0,crash,1.0,0.0
+2011,17,Daytona,35.0,41.0,70.0,Dennis Setzer,All American Sports Pouch (Mary Louise Miller),Dodge,69.0,20128.0,vibration,0.0,9.0
+2011,17,Daytona,36.0,33.0,13.0,Jennifer Jo Cobb,Keen's Portable Buildings (Jennifer Jo Cobb),Ford,56.0,13625.0,running,0.0,8.0
+2011,17,Daytona,37.0,37.0,14.0,Eric McClure,Hefty BlackOut / Reynolds (Mark Smith),Chevrolet,43.0,20058.0,crash,0.0,7.0
+2011,17,Daytona,38.0,34.0,89.0,Morgan Shepherd,Victory in Jesus Racing (Morgan Shepherd),Chevrolet,41.0,13535.0,engine,0.0,6.0
+2011,17,Daytona,39.0,20.0,30.0,Ricky Carmichael,Monster Energy (Steve Turner),Chevrolet,34.0,19963.0,crash,0.0,0.0
+2011,17,Daytona,40.0,38.0,40.0,Charles Lewandoski,Curtis Key Motorsports (Curtis Key),Chevrolet,29.0,13430.0,engine,0.0,4.0
+2011,17,Daytona,41.0,29.0,74.0,Mike Harmon,IPT Pellet Grills (Mike Harmon),Chevrolet,29.0,13370.0,running,0.0,3.0
+2011,17,Daytona,42.0,31.0,68.0,Carl Long,Iron Horse Saloon (Craig Partee),Chevrolet,4.0,13320.0,overheating,0.0,2.0
+2011,17,Daytona,43.0,28.0,44.0,Jeff Green,East Central Floridian View / #HURT (Mark Smith),Chevrolet,3.0,13253.0,vibration,0.0,1.0
+2011,18,Kentucky,1.0,5.0,22.0,Brad Keselowski,Discount Tire (Roger Penske),Dodge,200.0,74100.0,running,132.0,0.0
+2011,18,Kentucky,2.0,6.0,33.0,Kevin Harvick,"Rheem Heating, Cooling & Water Heating (Kevin Harvick)",Chevrolet,200.0,55325.0,running,56.0,0.0
+2011,18,Kentucky,3.0,41.0,18.0,Kyle Busch,NOS (Joe Gibbs),Toyota,200.0,37375.0,running,0.0,0.0
+2011,18,Kentucky,4.0,18.0,7.0,Kasey Kahne,GoDaddy.com / Verisign (JR Motorsports),Chevrolet,200.0,27925.0,running,0.0,0.0
+2011,18,Kentucky,5.0,1.0,2.0,Elliott Sadler,OneMain Financial (Kevin Harvick),Chevrolet,200.0,33968.0,running,8.0,40.0
+2011,18,Kentucky,6.0,19.0,9.0,Kenny Wallace,UNOH (Robby Benton),Toyota,200.0,26543.0,running,0.0,38.0
+2011,18,Kentucky,7.0,21.0,62.0,Michael Annett,Pilot Travel Centers / Flying J (Rusty Wallace),Toyota,200.0,24668.0,running,0.0,37.0
+2011,18,Kentucky,8.0,2.0,60.0,Carl Edwards,Valvoline NextGen (Jack Roush),Ford,200.0,17375.0,running,1.0,0.0
+2011,18,Kentucky,9.0,3.0,6.0,Ricky Stenhouse Jr,Blackwell Angus Beef (Jack Roush),Ford,200.0,24818.0,running,0.0,35.0
+2011,18,Kentucky,10.0,4.0,20.0,Joey Logano,GameStop / Wipeout (Joe Gibbs),Toyota,200.0,16450.0,running,0.0,0.0
+2011,18,Kentucky,11.0,10.0,16.0,Trevor Bayne,RickyVsTrevor.com (Jack Roush),Ford,199.0,21543.0,running,0.0,33.0
+2011,18,Kentucky,12.0,13.0,87.0,Joe Nemechek,D.A.B. Constructors (Joe Nemechek),Toyota,199.0,22318.0,running,2.0,33.0
+2011,18,Kentucky,13.0,14.0,38.0,Jason Leffler,Great Clips (Steve Turner),Chevrolet,199.0,20718.0,running,0.0,31.0
+2011,18,Kentucky,14.0,12.0,32.0,Mark Martin,Dollar General (Steve Turner),Chevrolet,199.0,13300.0,running,0.0,0.0
+2011,18,Kentucky,15.0,7.0,11.0,Brian Scott,Shore Lodge (Joe Gibbs),Toyota,199.0,20068.0,running,0.0,29.0
+2011,18,Kentucky,16.0,17.0,1.0,Mike Wallace,Cowboys & Aliens (Johnny Davis),Chevrolet,199.0,20868.0,running,1.0,29.0
+2011,18,Kentucky,17.0,11.0,30.0,Reed Sorenson,Rexall (Steve Turner),Chevrolet,199.0,19193.0,running,0.0,27.0
+2011,18,Kentucky,18.0,26.0,64.0,David Reutimann,Aspen Dental (Rusty Wallace),Toyota,199.0,12575.0,running,0.0,0.0
+2011,18,Kentucky,19.0,8.0,31.0,Justin Allgaier,Brandt (Steve Turner),Chevrolet,199.0,18918.0,running,0.0,25.0
+2011,18,Kentucky,20.0,20.0,88.0,Aric Almirola,Grand Touring Vodka (JR Motorsports),Chevrolet,198.0,19293.0,running,0.0,24.0
+2011,18,Kentucky,21.0,9.0,66.0,Steve Wallace,5-hour Energy (Rusty Wallace),Toyota,198.0,18893.0,running,0.0,23.0
+2011,18,Kentucky,22.0,27.0,81.0,Blake Koch,Daystar.com (Pat MacDonald),Dodge,198.0,19543.0,running,0.0,22.0
+2011,18,Kentucky,23.0,23.0,70.0,David Stremme,"Keen Parts, Inc. (Mary Louise Miller)",Chevrolet,196.0,18793.0,running,0.0,0.0
+2011,18,Kentucky,24.0,16.0,19.0,Mike Bliss,Tri-Star Motorsports (Mark Smith),Chevrolet,196.0,18243.0,running,0.0,20.0
+2011,18,Kentucky,25.0,22.0,28.0,Derrike Cope,Becker Law Office (Jay Robinson),Chevrolet,196.0,18718.0,running,0.0,19.0
+2011,18,Kentucky,26.0,34.0,15.0,Timmy Hill,Lilly Trucking of Virginia (Rick Ware),Ford,195.0,17973.0,running,0.0,18.0
+2011,18,Kentucky,27.0,32.0,14.0,Eric McClure,Hefty BlackOut / Reynolds (Mark Smith),Chevrolet,194.0,18243.0,running,0.0,17.0
+2011,18,Kentucky,28.0,39.0,40.0,Charles Lewandoski,Key Motorsports (Curtis Key),Chevrolet,193.0,17723.0,running,0.0,16.0
+2011,18,Kentucky,29.0,35.0,52.0,Kevin Lepage,Jimmy Means Racing (Jimmy Means),Chevrolet,193.0,17588.0,running,0.0,15.0
+2011,18,Kentucky,30.0,38.0,2.0,Jamie Dick,VivaAutoGroup.com (Jimmy Dick),Chevrolet,193.0,11310.0,running,0.0,0.0
+2011,18,Kentucky,31.0,42.0,51.0,Jeremy Clements,RaceDaySponsor.com (Jeremy Clements),Chevrolet,176.0,17368.0,running,0.0,13.0
+2011,18,Kentucky,32.0,29.0,13.0,Jennifer Jo Cobb,TenForJen.com (Jennifer Jo Cobb),Dodge,169.0,10790.0,ignition,0.0,12.0
+2011,18,Kentucky,33.0,40.0,23.0,"Robert Richardson, Jr.","North Texas Pipe (Robert Richardson, Sr.)",Chevrolet,119.0,17148.0,crash,0.0,11.0
+2011,18,Kentucky,34.0,30.0,89.0,Morgan Shepherd,Victory in Jesus Racing (Morgan Shepherd),Chevrolet,104.0,17038.0,crash,0.0,10.0
+2011,18,Kentucky,35.0,15.0,39.0,Will Kimmel,Crosley / Clarksville Schwinn Cyclery (Archie St. Hilaire),Ford,62.0,16928.0,crash,0.0,9.0
+2011,18,Kentucky,36.0,28.0,3.0,Scott Riggs,"North Texas Pipe (Robert Richardson, Sr.)",Dodge,20.0,10425.0,overheating,0.0,0.0
+2011,18,Kentucky,37.0,25.0,44.0,Jeff Green,Tri-Star Motorsports (Mark Smith),Chevrolet,18.0,10375.0,vibration,0.0,7.0
+2011,18,Kentucky,38.0,36.0,42.0,Tim Andrews,Key Motorsports (Curtis Key),Chevrolet,11.0,10330.0,transmission,0.0,6.0
+2011,18,Kentucky,39.0,37.0,75.0,Johnny Chapman,Rick Ware Racing (Rick Ware),Chevrolet,10.0,10295.0,ignition,0.0,5.0
+2011,18,Kentucky,40.0,43.0,74.0,Mike Harmon,IPT Pellet Grills / Riverwalk Cafe (Mike Harmon),Chevrolet,7.0,10210.0,brakes,0.0,4.0
+2011,18,Kentucky,41.0,33.0,46.0,Chase Miller,Key Motorsports (Curtis Key),Chevrolet,3.0,10150.0,ignition,0.0,3.0
+2011,18,Kentucky,42.0,24.0,72.0,John Jackson,CrashClaimsR.us (James Carter),Toyota,3.0,10120.0,electrical,0.0,2.0
+2011,18,Kentucky,43.0,31.0,49.0,Dennis Setzer,Jay Robinson Racing (Jay Robinson),Chevrolet,2.0,10053.0,brakes,0.0,1.0
+2011,19,Loudon,1.0,5.0,18.0,Kyle Busch,Z-Line Designs (Joe Gibbs),Toyota,206.0,34250.0,running,33.0,0.0
+2011,19,Loudon,2.0,2.0,33.0,Kevin Harvick,"Rheem Heating, Cooling & Water Heating (Kevin Harvick)",Chevrolet,206.0,30625.0,running,59.0,0.0
+2011,19,Loudon,3.0,12.0,7.0,Kasey Kahne,GoDaddy.com / Verisign (JR Motorsports),Chevrolet,206.0,22375.0,running,0.0,0.0
+2011,19,Loudon,4.0,14.0,6.0,Ricky Stenhouse Jr,NESN / Boston Red Sox / Fenway Park 100 Years (Jack Roush),Ford,206.0,24268.0,running,26.0,41.0
+2011,19,Loudon,5.0,4.0,88.0,Aric Almirola,Grand Touring Vodka (JR Motorsports),Chevrolet,206.0,24543.0,running,0.0,39.0
+2011,19,Loudon,6.0,13.0,9.0,Kenny Wallace,Toyota (Robby Benton),Toyota,206.0,20618.0,running,5.0,39.0
+2011,19,Loudon,7.0,18.0,62.0,Michael Annett,Pilot Travel Centers / Flying J (Rusty Wallace),Toyota,206.0,21218.0,running,0.0,37.0
+2011,19,Loudon,8.0,1.0,22.0,Brad Keselowski,Ruby Tuesday (Roger Penske),Dodge,206.0,18250.0,running,22.0,0.0
+2011,19,Loudon,9.0,17.0,66.0,Steve Wallace,5-hour Energy (Rusty Wallace),Toyota,206.0,18693.0,running,0.0,35.0
+2011,19,Loudon,10.0,8.0,31.0,Justin Allgaier,Wolfpack Rentals (Steve Turner),Chevrolet,206.0,19793.0,running,0.0,34.0
+2011,19,Loudon,11.0,16.0,87.0,Joe Nemechek,D.A.B. Constructors (Joe Nemechek),Toyota,206.0,19943.0,running,0.0,33.0
+2011,19,Loudon,12.0,15.0,2.0,Elliott Sadler,OneMain Financial (Kevin Harvick),Chevrolet,206.0,18318.0,running,0.0,32.0
+2011,19,Loudon,13.0,7.0,16.0,Trevor Bayne,NESN / Boston Red Sox / Boston Bruins (Jack Roush),Ford,206.0,18618.0,running,58.0,32.0
+2011,19,Loudon,14.0,20.0,19.0,Mike Bliss,Tri-Star Motorsports (Mark Smith),Chevrolet,206.0,18718.0,running,0.0,30.0
+2011,19,Loudon,15.0,6.0,32.0,Reed Sorenson,Dollar General (Steve Turner),Chevrolet,206.0,18468.0,running,0.0,29.0
+2011,19,Loudon,16.0,19.0,30.0,Mikey Kile,Battery Tender / Muc-Off (Steve Turner),Chevrolet,206.0,17718.0,running,0.0,28.0
+2011,19,Loudon,17.0,9.0,11.0,Brian Scott,Shore Lodge (Joe Gibbs),Toyota,206.0,17593.0,running,0.0,27.0
+2011,19,Loudon,18.0,25.0,81.0,Blake Koch,Daystar.com (Pat MacDonald),Dodge,205.0,19143.0,running,0.0,26.0
+2011,19,Loudon,19.0,26.0,51.0,Jeremy Clements,RaceDaySponsor.com (Jeremy Clements),Chevrolet,205.0,17393.0,running,0.0,25.0
+2011,19,Loudon,20.0,23.0,14.0,Eric McClure,Hefty BlackOut / Reynolds (Mark Smith),Chevrolet,204.0,18068.0,running,0.0,24.0
+2011,19,Loudon,21.0,27.0,89.0,Morgan Shepherd,Victory in Jesus Racing (Morgan Shepherd),Chevrolet,202.0,17243.0,running,0.0,23.0
+2011,19,Loudon,22.0,28.0,40.0,Charles Lewandoski,Key Motorsports (Curtis Key),Chevrolet,202.0,17193.0,running,0.0,22.0
+2011,19,Loudon,23.0,24.0,15.0,Timmy Hill,Lilly Trucking of Virginia (Rick Ware),Ford,202.0,17543.0,running,0.0,21.0
+2011,19,Loudon,24.0,36.0,52.0,Kevin Lepage,TRX Alliance / Metro Ministries (Jimmy Means),Chevrolet,202.0,10610.0,running,0.0,20.0
+2011,19,Loudon,25.0,39.0,44.0,Angela Ruch,Horizon Entertainment / Xinergy (Mark Smith),Chevrolet,200.0,11200.0,running,0.0,19.0
+2011,19,Loudon,26.0,35.0,39.0,Matt Frahm,Gilchrist Metal Fabricating (Archie St. Hilaire),Ford,198.0,17008.0,running,0.0,18.0
+2011,19,Loudon,27.0,22.0,1.0,Mike Wallace,G&K Services (Johnny Davis),Chevrolet,196.0,17373.0,crash,0.0,17.0
+2011,19,Loudon,28.0,21.0,67.0,Andrew Ranger,Go Canada Racing (Steve Meehan),Ford,196.0,10470.0,crash,0.0,16.0
+2011,19,Loudon,29.0,3.0,20.0,Joey Logano,GameStop / Captain America: Super Soldier (Joe Gibbs),Toyota,196.0,10935.0,crash,0.0,0.0
+2011,19,Loudon,30.0,11.0,38.0,Jason Leffler,Great Clips (Steve Turner),Chevrolet,176.0,17168.0,running,0.0,14.0
+2011,19,Loudon,31.0,31.0,28.0,Derrike Cope,Maxelence.com (Jay Robinson),Chevrolet,112.0,16833.0,engine,0.0,13.0
+2011,19,Loudon,32.0,34.0,70.0,Dennis Setzer,Bubba Bear (Mary Louise Miller),Dodge,110.0,16798.0,ignition,0.0,12.0
+2011,19,Loudon,33.0,30.0,23.0,David Green,Jay Robinson Racing (Jay Robinson),Chevrolet,109.0,16773.0,ignition,0.0,11.0
+2011,19,Loudon,34.0,10.0,60.0,Carl Edwards,Fastenal / Lenox (Jack Roush),Ford,56.0,10285.0,engine,3.0,0.0
+2011,19,Loudon,35.0,42.0,13.0,Jennifer Jo Cobb,Jennifer Jo Cobb Racing (Jennifer Jo Cobb),Dodge,45.0,10265.0,engine,0.0,9.0
+2011,19,Loudon,36.0,40.0,41.0,Carl Long,Lilly Trucking of Virginia (Rick Ware),Ford,37.0,10245.0,brakes,0.0,8.0
+2011,19,Loudon,37.0,29.0,74.0,Mike Harmon,IPT Pellet Grills (Mike Harmon),Chevrolet,25.0,10225.0,power steering,0.0,7.0
+2011,19,Loudon,38.0,38.0,75.0,Johnny Chapman,Rick Ware Racing (Rick Ware),Chevrolet,12.0,10210.0,brakes,0.0,6.0
+2011,19,Loudon,39.0,33.0,46.0,Chase Miller,Key Motorsports (Curtis Key),Chevrolet,9.0,10190.0,ignition,0.0,5.0
+2011,19,Loudon,40.0,41.0,4.0,Danny Efland,BBI Waste Disposal / Bestway (Archie St. Hilaire),Ford,7.0,10105.0,rear gear,0.0,4.0
+2011,19,Loudon,41.0,32.0,42.0,Tim Andrews,Key Motorsports (Curtis Key),Chevrolet,7.0,10075.0,rear gear,0.0,3.0
+2011,19,Loudon,42.0,37.0,47.0,Scott Wimmer,Key Motorsports (Curtis Key),Chevrolet,5.0,10060.0,engine,0.0,2.0
+2011,20,Nashville,1.0,3.0,60.0,Carl Edwards,Fastenal / GearWrench (Jack Roush),Ford,225.0,42100.0,running,124.0,0.0
+2011,20,Nashville,2.0,6.0,6.0,Ricky Stenhouse Jr,RickyVsTrevor.com (Jack Roush),Ford,225.0,37418.0,running,0.0,42.0
+2011,20,Nashville,3.0,4.0,33.0,Austin Dillon,Rheem (Kevin Harvick),Chevrolet,225.0,31118.0,running,9.0,0.0
+2011,20,Nashville,4.0,16.0,31.0,Justin Allgaier,Dollar General (Steve Turner),Chevrolet,225.0,24093.0,running,0.0,40.0
+2011,20,Nashville,5.0,12.0,88.0,Aric Almirola,Degree Men (JR Motorsports),Chevrolet,225.0,22968.0,running,0.0,39.0
+2011,20,Nashville,6.0,8.0,12.0,"Sam Hornish, Jr.",Alliance (Roger Penske),Dodge,225.0,14700.0,running,0.0,38.0
+2011,20,Nashville,7.0,17.0,18.0,Drew Herring,SportClips (Joe Gibbs),Toyota,225.0,19993.0,running,0.0,37.0
+2011,20,Nashville,8.0,11.0,32.0,Reed Sorenson,Dollar General (Steve Turner),Chevrolet,225.0,18818.0,running,0.0,36.0
+2011,20,Nashville,9.0,7.0,16.0,Trevor Bayne,RickyVsTrevor.com (Jack Roush),Ford,225.0,18543.0,running,0.0,35.0
+2011,20,Nashville,10.0,9.0,9.0,Kenny Wallace,Federated Auto Parts (Robby Benton),Toyota,225.0,19543.0,running,0.0,34.0
+2011,20,Nashville,11.0,2.0,66.0,Steve Wallace,5-hour Energy (Rusty Wallace),Toyota,225.0,18193.0,running,0.0,33.0
+2011,20,Nashville,12.0,1.0,22.0,Brad Keselowski,Discount Tire (Roger Penske),Dodge,225.0,15950.0,running,89.0,0.0
+2011,20,Nashville,13.0,14.0,87.0,Scott Wimmer,NEMCO Motorsports (Joe Nemechek),Toyota,225.0,22368.0,running,0.0,31.0
+2011,20,Nashville,14.0,15.0,62.0,Michael Annett,Pilot Travel Centers / Flying J (Rusty Wallace),Toyota,224.0,17943.0,running,0.0,30.0
+2011,20,Nashville,15.0,19.0,30.0,Mikey Kile,Battery Tender / Muc-Off (Steve Turner),Chevrolet,224.0,18493.0,running,0.0,29.0
+2011,20,Nashville,16.0,23.0,70.0,David Stremme,Foretravel Motorcoach (Mary Louise Miller),Chevrolet,224.0,19043.0,running,0.0,0.0
+2011,20,Nashville,17.0,10.0,11.0,Brian Scott,Shore Lodge (Joe Gibbs),Toyota,224.0,17693.0,running,0.0,27.0
+2011,20,Nashville,18.0,13.0,38.0,Jason Leffler,Great Clips (Steve Turner),Chevrolet,224.0,17593.0,running,0.0,26.0
+2011,20,Nashville,19.0,21.0,1.0,Mike Wallace,Cowboys & Aliens (Johnny Davis),Chevrolet,224.0,17718.0,running,0.0,25.0
+2011,20,Nashville,20.0,20.0,7.0,Josh Wise,TaxSlayer.com (JR Motorsports),Chevrolet,224.0,17968.0,running,0.0,24.0
+2011,20,Nashville,21.0,27.0,51.0,Jeremy Clements,RaceDaySponsor.com (Jeremy Clements),Chevrolet,222.0,17643.0,running,0.0,23.0
+2011,20,Nashville,22.0,22.0,15.0,Timmy Hill,FastWax.com (Rick Ware),Ford,219.0,18368.0,running,0.0,22.0
+2011,20,Nashville,23.0,32.0,14.0,Eric McClure,Hefty BlackOut / Reynolds (Mark Smith),Chevrolet,219.0,17718.0,running,0.0,21.0
+2011,20,Nashville,24.0,18.0,19.0,Mike Bliss,Racing 4 Education (Mark Smith),Chevrolet,218.0,17243.0,running,0.0,20.0
+2011,20,Nashville,25.0,24.0,28.0,Derrike Cope,Jay Robinson Racing (Jay Robinson),Chevrolet,217.0,17838.0,running,0.0,19.0
+2011,20,Nashville,26.0,26.0,39.0,Danny Efland,C3i Sports (Archie St. Hilaire),Ford,216.0,17178.0,running,0.0,18.0
+2011,20,Nashville,27.0,29.0,81.0,Blake Koch,Daystar.com (Pat MacDonald),Dodge,214.0,17543.0,running,0.0,17.0
+2011,20,Nashville,28.0,35.0,52.0,Kevin Lepage,TRX Software Development (Jimmy Means),Chevrolet,212.0,10640.0,running,0.0,16.0
+2011,20,Nashville,29.0,40.0,13.0,Jennifer Jo Cobb,TenForJen.com (Jennifer Jo Cobb),Dodge,211.0,10605.0,running,0.0,15.0
+2011,20,Nashville,30.0,5.0,2.0,Elliott Sadler,OneMain Financial (Kevin Harvick),Chevrolet,193.0,17308.0,running,3.0,15.0
+2011,20,Nashville,31.0,28.0,40.0,Chase Miller,Key Motorsports (Curtis Key),Chevrolet,174.0,10500.0,clutch,0.0,13.0
+2011,20,Nashville,32.0,42.0,89.0,Morgan Shepherd,Victory in Jesus Racing (Morgan Shepherd),Chevrolet,131.0,10465.0,handling,0.0,12.0
+2011,20,Nashville,33.0,34.0,41.0,Carl Long,Lilly Trucking of Virginia (Rick Ware),Ford,54.0,10440.0,overheating,0.0,11.0
+2011,20,Nashville,34.0,41.0,23.0,Dennis Setzer,Battery Tender / Muc-Off (Jay Robinson),Dodge,28.0,10420.0,vibration,0.0,10.0
+2011,20,Nashville,35.0,33.0,44.0,Jeff Green,Tri-Star Motorsports (Mark Smith),Chevrolet,19.0,10400.0,vibration,0.0,9.0
+2011,20,Nashville,36.0,31.0,75.0,Johnny Chapman,FW1 / Fastwax.com (Rick Ware),Chevrolet,13.0,10380.0,suspension,0.0,8.0
+2011,20,Nashville,37.0,36.0,71.0,Matt Carter,Lilly Trucking of Virginia (Rick Ware),Ford,12.0,10360.0,handling,0.0,0.0
+2011,20,Nashville,38.0,43.0,74.0,Mike Harmon,Global Pigeon Supply (Mike Harmon),Chevrolet,11.0,10340.0,fuel pump,0.0,6.0
+2011,20,Nashville,39.0,25.0,42.0,Tim Andrews,Key Motorsports (Curtis Key),Chevrolet,8.0,10295.0,transmission,0.0,5.0
+2011,20,Nashville,40.0,38.0,49.0,Mark Green,Jay Robinson Racing (Jay Robinson),Chevrolet,7.0,10205.0,handling,0.0,4.0
+2011,20,Nashville,41.0,30.0,47.0,Charles Lewandoski,Key Motorsports (Curtis Key),Chevrolet,6.0,10125.0,brakes,0.0,3.0
+2011,20,Nashville,42.0,37.0,4.0,"Danny O'Quinn, Jr.",Rimz One / BBI Waste Disposal / Bestway (Archie St. Hilaire),Ford,3.0,10100.0,brakes,0.0,0.0
+2011,20,Nashville,43.0,39.0,3.0,Marc Davis,"R3 Motorsports (Robert Richardson, Sr.)",Chevrolet,1.0,10026.0,alternator,0.0,0.0
+2011,21,IRP,1.0,2.0,22.0,Brad Keselowski,Discount Tire (Roger Penske),Dodge,204.0,30925.0,running,7.0,0.0
+2011,21,IRP,2.0,17.0,30.0,James Buescher,Fraternal Order of Eagles (Steve Turner),Chevrolet,204.0,36968.0,running,0.0,0.0
+2011,21,IRP,3.0,1.0,6.0,Ricky Stenhouse Jr,Blackwell Angus Beef / Cargill (Jack Roush),Ford,204.0,35443.0,running,189.0,43.0
+2011,21,IRP,4.0,13.0,88.0,Aric Almirola,Grand Touring Vodka (JR Motorsports),Chevrolet,204.0,24843.0,running,0.0,40.0
+2011,21,IRP,5.0,3.0,60.0,Carl Edwards,Fastenal / WypAll (Jack Roush),Ford,204.0,16300.0,running,4.0,0.0
+2011,21,IRP,6.0,7.0,38.0,Jason Leffler,Great Clips (Steve Turner),Chevrolet,204.0,18893.0,running,0.0,38.0
+2011,21,IRP,7.0,21.0,87.0,Joe Nemechek,D.A.B. Constructors (Joe Nemechek),Toyota,204.0,19718.0,running,0.0,37.0
+2011,21,IRP,8.0,15.0,20.0,Drew Herring,SportClips (Joe Gibbs),Toyota,204.0,17793.0,running,0.0,36.0
+2011,21,IRP,9.0,16.0,32.0,Reed Sorenson,Dollar General (Steve Turner),Chevrolet,204.0,17693.0,running,0.0,35.0
+2011,21,IRP,10.0,9.0,18.0,Michael McDowell,Muscle Milk (Joe Gibbs),Toyota,204.0,18493.0,running,0.0,0.0
+2011,21,IRP,11.0,14.0,19.0,Mike Bliss,Tri-Star Motorsports (Mark Smith),Chevrolet,204.0,18193.0,running,0.0,33.0
+2011,21,IRP,12.0,11.0,9.0,Kenny Wallace,Federated Auto Parts (Robby Benton),Toyota,204.0,17193.0,running,0.0,32.0
+2011,21,IRP,13.0,18.0,70.0,David Stremme,KeenParts.com Corvette Parts (Mary Louise Miller),Chevrolet,204.0,17543.0,running,0.0,0.0
+2011,21,IRP,14.0,12.0,33.0,Austin Dillon,Rheem / Menards (Kevin Harvick),Chevrolet,204.0,17043.0,running,4.0,0.0
+2011,21,IRP,15.0,6.0,11.0,Brian Scott,Shore Lodge (Joe Gibbs),Toyota,204.0,17518.0,running,0.0,29.0
+2011,21,IRP,16.0,42.0,2.0,Elliott Sadler,OneMain Financial (Kevin Harvick),Chevrolet,203.0,19943.0,running,0.0,28.0
+2011,21,IRP,17.0,24.0,1.0,Mike Wallace,Cowboys & Aliens (Johnny Davis),Chevrolet,202.0,17093.0,running,0.0,27.0
+2011,21,IRP,18.0,26.0,51.0,Jeremy Clements,Clements Racing Engines (Jeremy Clements),Chevrolet,202.0,16828.0,running,0.0,26.0
+2011,21,IRP,19.0,20.0,7.0,Josh Wise,iRacing.com (JR Motorsports),Chevrolet,201.0,16793.0,running,0.0,25.0
+2011,21,IRP,20.0,23.0,81.0,Blake Koch,K-Love 101.9 (Pat MacDonald),Dodge,201.0,18458.0,running,0.0,24.0
+2011,21,IRP,21.0,25.0,14.0,Eric McClure,Hefty BlackOut / Reynolds (Mark Smith),Chevrolet,201.0,10225.0,running,0.0,23.0
+2011,21,IRP,22.0,19.0,28.0,Derrike Cope,MudJug.com (Jay Robinson),Chevrolet,201.0,16643.0,running,0.0,22.0
+2011,21,IRP,23.0,22.0,15.0,Timmy Hill,Fastwax.com (Rick Ware),Ford,199.0,16993.0,running,0.0,21.0
+2011,21,IRP,24.0,30.0,52.0,Tim Schendel,Metro Ministries / Sesame King (Jimmy Means),Chevrolet,197.0,10050.0,running,0.0,20.0
+2011,21,IRP,25.0,33.0,39.0,Matt Frahm,Gilchrist Metal Fabricating (Archie St. Hilaire),Ford,197.0,17073.0,running,0.0,19.0
+2011,21,IRP,26.0,34.0,41.0,Fain Skinner,Carport Empire (Rick Ware),Chevrolet,197.0,9930.0,running,0.0,18.0
+2011,21,IRP,27.0,4.0,31.0,Justin Allgaier,Brandt / Deft Finishes (Steve Turner),Chevrolet,193.0,16343.0,oil pump,0.0,17.0
+2011,21,IRP,28.0,5.0,16.0,Trevor Bayne,RickyVsTrevor.com (Jack Roush),Ford,188.0,16313.0,engine,0.0,16.0
+2011,21,IRP,29.0,8.0,62.0,Michael Annett,Pilot Travel Centers / Flying J (Rusty Wallace),Toyota,174.0,16293.0,crash,0.0,15.0
+2011,21,IRP,30.0,10.0,66.0,Steve Wallace,5-hour Energy (Rusty Wallace),Toyota,174.0,16573.0,crash,0.0,14.0
+2011,21,IRP,31.0,31.0,40.0,Tim Andrews,Key Motorsports (Curtis Key),Chevrolet,169.0,9760.0,crash,0.0,13.0
+2011,21,IRP,32.0,32.0,89.0,Morgan Shepherd,Racing With Jesus / Kigerssigns.com (Morgan Shepherd),Chevrolet,33.0,9740.0,handling,0.0,12.0
+2011,21,IRP,33.0,27.0,44.0,Jeff Green,Tri-Star Motorsports (Mark Smith),Chevrolet,26.0,10120.0,overheating,0.0,11.0
+2011,21,IRP,34.0,28.0,23.0,Dennis Setzer,R3 Motorsports (Jay Robinson),Dodge,21.0,9700.0,brakes,0.0,10.0
+2011,21,IRP,35.0,29.0,49.0,Mark Green,Jay Robinson Racing (Jay Robinson),Chevrolet,16.0,9655.0,brakes,0.0,9.0
+2011,21,IRP,36.0,39.0,4.0,"Danny O'Quinn, Jr.",BBI Waste Disposal / Bestway (Archie St. Hilaire),Ford,13.0,9635.0,electrical,0.0,8.0
+2011,21,IRP,37.0,38.0,75.0,Johnny Chapman,Lilly Trucking of Virginia (Rick Ware),Ford,12.0,9600.0,overheating,0.0,7.0
+2011,21,IRP,38.0,35.0,74.0,Mike Harmon,IPT Pellet Grills (Mike Harmon),Chevrolet,11.0,9565.0,brakes,0.0,6.0
+2011,21,IRP,39.0,40.0,42.0,Scott Wimmer,Key Motorsports (Curtis Key),Chevrolet,9.0,9545.0,brakes,0.0,5.0
+2011,21,IRP,40.0,36.0,47.0,Charles Lewandoski,Key Motorsports (Curtis Key),Chevrolet,8.0,9465.0,vibration,0.0,4.0
+2011,21,IRP,41.0,37.0,46.0,Chase Miller,Key Motorsports (Curtis Key),Chevrolet,7.0,9420.0,brakes,0.0,3.0
+2011,21,IRP,42.0,41.0,13.0,Jennifer Jo Cobb,Lilly Trucking of Virginia (Jennifer Jo Cobb),Ford,2.0,9385.0,handling,0.0,2.0
+2011,22,Iowa,1.0,4.0,6.0,Ricky Stenhouse Jr,RickyVsTrevor.com (Jack Roush),Ford,250.0,74343.0,running,25.0,47.0
+2011,22,Iowa,2.0,17.0,60.0,Carl Edwards,Fastenal (Jack Roush),Ford,250.0,54675.0,running,109.0,0.0
+2011,22,Iowa,3.0,1.0,2.0,Elliott Sadler,OneMain Financial (Kevin Harvick),Chevrolet,250.0,52218.0,running,38.0,42.0
+2011,22,Iowa,4.0,18.0,7.0,Josh Wise,iRacing.com (JR Motorsports),Chevrolet,250.0,34293.0,running,0.0,40.0
+2011,22,Iowa,5.0,11.0,88.0,Aric Almirola,Ragu / HyVee (JR Motorsports),Chevrolet,250.0,31193.0,running,0.0,39.0
+2011,22,Iowa,6.0,16.0,32.0,Reed Sorenson,Dollar General (Steve Turner),Chevrolet,250.0,28893.0,running,0.0,38.0
+2011,22,Iowa,7.0,8.0,9.0,Kenny Wallace,American Ethanol / Iowa Corn (Robby Benton),Toyota,250.0,27728.0,running,0.0,37.0
+2011,22,Iowa,8.0,12.0,66.0,Steve Wallace,5-hour Energy / Oakley / Kum & Go (Rusty Wallace),Toyota,250.0,26288.0,running,0.0,36.0
+2011,22,Iowa,9.0,9.0,18.0,Michael McDowell,"Pizza Ranch Store #6800 Primghar, IA (Joe Gibbs)",Toyota,250.0,25193.0,running,17.0,0.0
+2011,22,Iowa,10.0,13.0,33.0,David Mayhew,Rheem / Menards (Kevin Harvick),Chevrolet,250.0,25543.0,running,4.0,0.0
+2011,22,Iowa,11.0,5.0,20.0,Drew Herring,SportClips (Joe Gibbs),Toyota,250.0,23718.0,running,0.0,33.0
+2011,22,Iowa,12.0,22.0,62.0,Michael Annett,Northland Oil (Rusty Wallace),Toyota,250.0,23168.0,running,4.0,33.0
+2011,22,Iowa,13.0,7.0,38.0,Jason Leffler,Great Clips Online Check-In (Steve Turner),Chevrolet,250.0,23093.0,running,0.0,31.0
+2011,22,Iowa,14.0,10.0,11.0,Brian Scott,Shore Lodge (Joe Gibbs),Toyota,250.0,22118.0,running,0.0,30.0
+2011,22,Iowa,15.0,20.0,70.0,Scott Wimmer,Foretravel Motorcoach / Biomet (Mary Louise Miller),Chevrolet,250.0,26343.0,running,0.0,29.0
+2011,22,Iowa,16.0,14.0,87.0,Joe Nemechek,D.A.B. Constructors / AMFMEnergy.com (Joe Nemechek),Toyota,250.0,22468.0,running,0.0,28.0
+2011,22,Iowa,17.0,27.0,51.0,Jeremy Clements,Clements Racing Engines (Jeremy Clements),Chevrolet,250.0,21418.0,running,2.0,28.0
+2011,22,Iowa,18.0,19.0,19.0,Mike Bliss,Courtyard Marriott W. Des Moines / Croftgate (Mark Smith),Chevrolet,250.0,20968.0,running,0.0,26.0
+2011,22,Iowa,19.0,15.0,30.0,Mikey Kile,AccuDoc Solutions (Steve Turner),Chevrolet,249.0,20743.0,running,0.0,25.0
+2011,22,Iowa,20.0,34.0,39.0,Joey Gase,Agrigold Seed / The New Agrigold Giants (Archie St. Hilaire),Ford,248.0,21243.0,running,0.0,24.0
+2011,22,Iowa,21.0,24.0,15.0,Timmy Hill,Lilly Trucking of Virginia (Rick Ware),Ford,248.0,21393.0,running,0.0,23.0
+2011,22,Iowa,22.0,28.0,40.0,Charles Lewandoski,Key Motorsports (Curtis Key),Chevrolet,247.0,13800.0,running,0.0,22.0
+2011,22,Iowa,23.0,23.0,23.0,"Robert Richardson, Jr.","North Texas Pipe (Robert Richardson, Sr.)",Chevrolet,247.0,14050.0,running,0.0,21.0
+2011,22,Iowa,24.0,3.0,22.0,"Sam Hornish, Jr.",Discount Tire (Roger Penske),Dodge,245.0,19993.0,running,39.0,21.0
+2011,22,Iowa,25.0,2.0,16.0,Trevor Bayne,3M (Jack Roush),Ford,243.0,20493.0,running,12.0,20.0
+2011,22,Iowa,26.0,36.0,14.0,Eric McClure,Hefty BlackOut / Reynolds (Mark Smith),Chevrolet,238.0,13275.0,running,0.0,18.0
+2011,22,Iowa,27.0,38.0,52.0,Tim Schendel,Marr Promotions (Jimmy Means),Chevrolet,216.0,13550.0,rear gear,0.0,17.0
+2011,22,Iowa,28.0,21.0,81.0,Blake Koch,Daystar.com (Pat MacDonald),Dodge,214.0,19468.0,crash,0.0,16.0
+2011,22,Iowa,29.0,6.0,31.0,Justin Allgaier,Brandt / PT&E (Steve Turner),Chevrolet,187.0,19343.0,running,0.0,15.0
+2011,22,Iowa,30.0,29.0,28.0,Derrike Cope,Maxelence.com (Jay Robinson),Chevrolet,123.0,13050.0,vibration,0.0,14.0
+2011,22,Iowa,31.0,33.0,1.0,Mike Wallace,Iowa 80 Truck Stop (Johnny Davis),Chevrolet,99.0,19063.0,crash,0.0,13.0
+2011,22,Iowa,32.0,39.0,89.0,Morgan Shepherd,Victory In Jesus Racing (Morgan Shepherd),Chevrolet,78.0,12485.0,suspension,0.0,12.0
+2011,22,Iowa,33.0,43.0,13.0,Jennifer Jo Cobb,TenForJen.com (Jennifer Jo Cobb),Dodge,66.0,12375.0,engine,0.0,11.0
+2011,22,Iowa,34.0,32.0,2.0,Jamie Dick,VivaAutoGroup.com (Jimmy Dick),Chevrolet,46.0,12265.0,crash,0.0,0.0
+2011,22,Iowa,35.0,37.0,41.0,Matt Carter,Lilly Trucking of Virginia / Carport Empire (Rick Ware),Chevrolet,37.0,12160.0,vibration,0.0,9.0
+2011,22,Iowa,36.0,42.0,74.0,Mike Harmon,IPT Pellet Grills (Mike Harmon),Chevrolet,20.0,12050.0,overheating,0.0,8.0
+2011,22,Iowa,37.0,30.0,49.0,Mark Green,Jay Robinson Racing (Jay Robinson),Chevrolet,17.0,11940.0,brakes,0.0,7.0
+2011,22,Iowa,38.0,40.0,75.0,Johnny Chapman,Fastwax.com (Rick Ware),Ford,11.0,11860.0,overheating,0.0,6.0
+2011,22,Iowa,39.0,26.0,46.0,Chase Miller,Key Motorsports (Curtis Key),Chevrolet,8.0,11745.0,brakes,0.0,5.0
+2011,22,Iowa,40.0,41.0,71.0,Carl Long,Lilly Trucking of Virginia (Rick Ware),Ford,7.0,11630.0,brakes,0.0,4.0
+2011,22,Iowa,41.0,31.0,42.0,Tim Andrews,Key Motorsports (Curtis Key),Chevrolet,5.0,11465.0,brakes,0.0,3.0
+2011,22,Iowa,42.0,35.0,47.0,Brian Keselowski,Key Motorsports (Curtis Key),Chevrolet,4.0,11345.0,overheating,0.0,0.0
+2011,22,Iowa,43.0,25.0,44.0,Jeff Green,Tri-Star Motorsports (Mark Smith),Chevrolet,3.0,11228.0,vibration,0.0,1.0
+2011,23,Watkins Glen,1.0,1.0,22.0,Kurt Busch,Ruby Tuesday / Discount Tire (Roger Penske),Dodge,85.0,35150.0,running,37.0,0.0
+2011,23,Watkins Glen,2.0,6.0,7.0,Jimmie Johnson,Jimmie Johnson's Anything With an Engine (JR Motorsports),Chevrolet,85.0,31475.0,running,0.0,0.0
+2011,23,Watkins Glen,3.0,8.0,20.0,Joey Logano,GameStop (Joe Gibbs),Toyota,85.0,21875.0,running,0.0,0.0
+2011,23,Watkins Glen,4.0,2.0,18.0,Kyle Busch,Z-Line Designs (Joe Gibbs),Toyota,85.0,17425.0,running,48.0,0.0
+2011,23,Watkins Glen,5.0,3.0,60.0,Carl Edwards,Fastenal (Jack Roush),Ford,85.0,18000.0,running,0.0,0.0
+2011,23,Watkins Glen,6.0,7.0,33.0,Paul Menard,Rheem / Menards (Kevin Harvick),Chevrolet,85.0,13350.0,running,0.0,0.0
+2011,23,Watkins Glen,7.0,5.0,5.0,Ron Fellows,Canadian Tire (JR Motorsports),Chevrolet,85.0,12600.0,running,0.0,37.0
+2011,23,Watkins Glen,8.0,17.0,88.0,Aric Almirola,Ragu (JR Motorsports),Chevrolet,85.0,18693.0,running,0.0,36.0
+2011,23,Watkins Glen,9.0,11.0,16.0,Trevor Bayne,RickyVsTrevor.com (Jack Roush),Ford,85.0,18893.0,running,0.0,35.0
+2011,23,Watkins Glen,10.0,4.0,2.0,Elliott Sadler,OneMain Financial (Kevin Harvick),Chevrolet,85.0,21543.0,running,0.0,34.0
+2011,23,Watkins Glen,11.0,19.0,87.0,Joe Nemechek,NEMCO Motorsports (Joe Nemechek),Toyota,85.0,19643.0,running,0.0,33.0
+2011,23,Watkins Glen,12.0,13.0,31.0,Justin Allgaier,Florida Gulf Safe (Steve Turner),Chevrolet,84.0,20268.0,running,0.0,32.0
+2011,23,Watkins Glen,13.0,15.0,32.0,Reed Sorenson,Dollar General (Steve Turner),Chevrolet,84.0,18218.0,running,0.0,31.0
+2011,23,Watkins Glen,14.0,16.0,11.0,Brian Scott,Shore Lodge (Joe Gibbs),Toyota,84.0,17668.0,running,0.0,30.0
+2011,23,Watkins Glen,15.0,12.0,6.0,Ricky Stenhouse Jr,RickyVsTrevor.com (Jack Roush),Ford,84.0,18918.0,running,0.0,29.0
+2011,23,Watkins Glen,16.0,14.0,66.0,Steve Wallace,5-hour Energy (Rusty Wallace),Toyota,84.0,17543.0,running,0.0,28.0
+2011,23,Watkins Glen,17.0,10.0,30.0,James Buescher,AccuDoc Solutions (Steve Turner),Chevrolet,84.0,17493.0,running,0.0,0.0
+2011,23,Watkins Glen,18.0,9.0,38.0,Jason Leffler,Great Clips Online Check-In (Steve Turner),Chevrolet,84.0,17418.0,running,0.0,26.0
+2011,23,Watkins Glen,19.0,27.0,62.0,Michael Annett,Pilot Travel Centers / Flying J (Rusty Wallace),Toyota,83.0,17343.0,running,0.0,25.0
+2011,23,Watkins Glen,20.0,26.0,1.0,Mike Wallace,Biagi Bros. / Smith Transportation (Johnny Davis),Chevrolet,83.0,18768.0,running,0.0,24.0
+2011,23,Watkins Glen,21.0,22.0,21.0,"Tim George, Jr.",Applebee's / Potomac Family Dining Group (Richard Childress),Chevrolet,83.0,10775.0,running,0.0,23.0
+2011,23,Watkins Glen,22.0,23.0,19.0,Mike Bliss,Tri-Star Motorsports (Mark Smith),Chevrolet,83.0,17193.0,running,0.0,22.0
+2011,23,Watkins Glen,23.0,25.0,23.0,Alex Kennedy,"St. Baldricks / Primalyn Ent. / Dream Factory (Robert Richardson, Sr.)",Chevrolet,82.0,17518.0,running,0.0,21.0
+2011,23,Watkins Glen,24.0,31.0,51.0,Jeremy Clements,Racing For a Cause (Jeremy Clements),Chevrolet,82.0,17018.0,running,0.0,20.0
+2011,23,Watkins Glen,25.0,24.0,39.0,Casey Roderick,Abilene Christian Univ. / Randy Hill Racing (Archie St. Hilaire),Ford,82.0,17568.0,running,0.0,19.0
+2011,23,Watkins Glen,26.0,33.0,97.0,Kyle Kelley,Jamison (Joe Nemechek),Chevrolet,81.0,10430.0,running,0.0,18.0
+2011,23,Watkins Glen,27.0,34.0,75.0,Tomy Drissi,Alvin and the Chipmunks: Chipwrecked (Rick Ware),Ford,79.0,10375.0,running,0.0,0.0
+2011,23,Watkins Glen,28.0,39.0,40.0,Josh Wise,Key Motorsports (Curtis Key),Chevrolet,78.0,10305.0,running,0.0,16.0
+2011,23,Watkins Glen,29.0,37.0,81.0,Blake Koch,Daystar.com / RizeUp.us (Pat MacDonald),Dodge,77.0,18138.0,running,0.0,15.0
+2011,23,Watkins Glen,30.0,42.0,28.0,Derrike Cope,Maxelence.com (Jay Robinson),Chevrolet,69.0,17003.0,transmission,0.0,14.0
+2011,23,Watkins Glen,31.0,32.0,15.0,Timmy Hill,Fastwax FW1 (Rick Ware),Ford,66.0,16643.0,running,0.0,13.0
+2011,23,Watkins Glen,32.0,18.0,9.0,Kenny Wallace,Toyota (Robby Benton),Toyota,64.0,16583.0,overheating,0.0,12.0
+2011,23,Watkins Glen,33.0,41.0,70.0,Dennis Setzer,ML Motorsports (Mary Louise Miller),Dodge,63.0,16548.0,brakes,0.0,11.0
+2011,23,Watkins Glen,34.0,40.0,89.0,Morgan Shepherd,Victory in Jesus Racing (Morgan Shepherd),Chevrolet,56.0,16488.0,oil pump,0.0,10.0
+2011,23,Watkins Glen,35.0,35.0,14.0,Eric McClure,Hefty BlackOut / Reynolds (Mark Smith),Chevrolet,53.0,16453.0,crash,0.0,9.0
+2011,23,Watkins Glen,36.0,28.0,64.0,Jason Bowles,Aspen Dental (Rusty Wallace),Toyota,52.0,9950.0,transmission,0.0,8.0
+2011,23,Watkins Glen,37.0,20.0,53.0,Andrew Ranger,Van Dyk Baler / Bollegraaf / Lobo USA (Robert Torriere),Dodge,42.0,9900.0,suspension,0.0,7.0
+2011,23,Watkins Glen,38.0,21.0,67.0,J.R. Fitzpatrick,Go Canada Racing (Steve Meehan),Ford,34.0,9855.0,transmission,0.0,6.0
+2011,23,Watkins Glen,39.0,38.0,52.0,Dan Clarke,couponchad.com / Sesame King (Jimmy Means),Chevrolet,21.0,16288.0,engine,0.0,5.0
+2011,23,Watkins Glen,40.0,36.0,49.0,Mark Green,Jay Robinson Racing (Jay Robinson),Chevrolet,6.0,9695.0,brakes,0.0,4.0
+2011,23,Watkins Glen,41.0,30.0,82.0,J.J. Yeley,Crusader Staffing Associates (Pat MacDonald),Dodge,4.0,9655.0,brakes,0.0,0.0
+2011,23,Watkins Glen,42.0,29.0,13.0,T.J. Bell,DrivenMale.com / DriverBoutique.com (Jennifer Jo Cobb),Dodge,4.0,9615.0,brakes,0.0,0.0
+2011,23,Watkins Glen,43.0,43.0,44.0,Jeff Green,Tri-Star Motorsports (Mark Smith),Chevrolet,1.0,9534.0,brakes,0.0,1.0
+2011,24,Montreal,1.0,9.0,9.0,Marcos Ambrose,Stanley / DeWalt Tools (Richard Petty Motorsports),Ford,74.0,87550.0,running,10.0,0.0
+2011,24,Montreal,2.0,2.0,12.0,Alex Tagliani,Hot Wheels / Dodge / Genacol / Pennzoil (Roger Penske),Dodge,74.0,54975.0,running,11.0,43.0
+2011,24,Montreal,3.0,5.0,18.0,Michael McDowell,Sherwin Williams / Fix Auto (Joe Gibbs),Toyota,74.0,47743.0,running,0.0,0.0
+2011,24,Montreal,4.0,7.0,66.0,Steve Wallace,5-hour Energy (Rusty Wallace),Toyota,74.0,40268.0,running,0.0,40.0
+2011,24,Montreal,5.0,21.0,67.0,J.R. Fitzpatrick,Go Canada Racing (Steve Meehan),Ford,74.0,36175.0,running,0.0,39.0
+2011,24,Montreal,6.0,4.0,33.0,Scott Speed,"Rheem Heating, Cooling & Water Heating (Kevin Harvick)",Chevrolet,74.0,33143.0,running,5.0,39.0
+2011,24,Montreal,7.0,14.0,60.0,Carl Edwards,Fastenal / Metabo (Jack Roush),Ford,74.0,26800.0,running,0.0,0.0
+2011,24,Montreal,8.0,10.0,31.0,Justin Allgaier,Florida Gulf Safe (Steve Turner),Chevrolet,74.0,30543.0,running,0.0,36.0
+2011,24,Montreal,9.0,3.0,38.0,Jason Leffler,Great Clips (Steve Turner),Chevrolet,74.0,30243.0,running,5.0,36.0
+2011,24,Montreal,10.0,16.0,2.0,Elliott Sadler,OneMain Financial (Kevin Harvick),Chevrolet,74.0,30443.0,running,0.0,34.0
+2011,24,Montreal,11.0,13.0,5.0,Ron Fellows,Canadian Tire (JR Motorsports),Chevrolet,74.0,22225.0,running,9.0,34.0
+2011,24,Montreal,12.0,19.0,11.0,Brian Scott,Shore Lodge (Joe Gibbs),Toyota,74.0,28418.0,running,0.0,32.0
+2011,24,Montreal,13.0,15.0,64.0,Jason Bowles,Fuel Doctor / Canadian Tire (Rusty Wallace),Toyota,74.0,21625.0,running,0.0,31.0
+2011,24,Montreal,14.0,22.0,97.0,Kyle Kelley,Jamison (Joe Nemechek),Chevrolet,74.0,22700.0,running,0.0,30.0
+2011,24,Montreal,15.0,29.0,19.0,Mike Bliss,Del Monte (Mark Smith),Chevrolet,74.0,28968.0,running,0.0,29.0
+2011,24,Montreal,16.0,24.0,9.0,Kenny Wallace,Toyota (Robby Benton),Toyota,74.0,28118.0,running,0.0,28.0
+2011,24,Montreal,17.0,27.0,1.0,Mike Wallace,G&K Services (Johnny Davis),Chevrolet,74.0,27793.0,running,0.0,27.0
+2011,24,Montreal,18.0,28.0,62.0,Michael Annett,Pilot Travel Centers / Flying J (Rusty Wallace),Toyota,74.0,27443.0,running,0.0,26.0
+2011,24,Montreal,19.0,34.0,39.0,"Luis Martinez, Jr.",King Taco (Archie St. Hilaire),Ford,74.0,27318.0,running,0.0,25.0
+2011,24,Montreal,20.0,20.0,88.0,Aric Almirola,Grand Touring Vodka (JR Motorsports),Chevrolet,74.0,27693.0,running,0.0,24.0
+2011,24,Montreal,21.0,36.0,87.0,Joe Nemechek,D.A.B. Constructors (Joe Nemechek),Toyota,74.0,27368.0,running,0.0,23.0
+2011,24,Montreal,22.0,32.0,15.0,Timmy Hill,FW1 / Fastwax.com (Rick Ware),Ford,74.0,28093.0,running,0.0,22.0
+2011,24,Montreal,23.0,17.0,16.0,Trevor Bayne,3M (Jack Roush),Ford,74.0,27443.0,running,0.0,21.0
+2011,24,Montreal,24.0,25.0,7.0,Danica Patrick,GoDaddy.com (JR Motorsports),Chevrolet,74.0,26968.0,running,0.0,20.0
+2011,24,Montreal,25.0,23.0,32.0,Reed Sorenson,Dollar General (Steve Turner),Chevrolet,73.0,27518.0,running,0.0,19.0
+2011,24,Montreal,26.0,18.0,6.0,Ricky Stenhouse Jr,Fastenal Automated Supply (Jack Roush),Ford,72.0,26848.0,engine,0.0,18.0
+2011,24,Montreal,27.0,1.0,22.0,Jacques Villeneuve,Discount Tire / Ruby Tuesday (Roger Penske),Dodge,72.0,30093.0,running,29.0,19.0
+2011,24,Montreal,28.0,41.0,52.0,L.P. Dumoulin,HairFax.com / Maskimo / DaVinci (Jimmy Means),Chevrolet,72.0,20680.0,running,0.0,16.0
+2011,24,Montreal,29.0,35.0,40.0,Josh Wise,Key Motorsports (Curtis Key),Chevrolet,72.0,20245.0,running,0.0,15.0
+2011,24,Montreal,30.0,39.0,81.0,Maryeve Dufault,Quebec Dodge Dealers (Pat MacDonald),Dodge,69.0,26978.0,running,0.0,14.0
+2011,24,Montreal,31.0,6.0,77.0,Robby Gordon,MAPEI / Menards / Speed Energy (Robby Gordon),Dodge,67.0,20150.0,engine,5.0,0.0
+2011,24,Montreal,32.0,8.0,99.0,Patrick Carpentier,NAPA Auto Parts (Michael Waltrip),Toyota,65.0,20115.0,crash,0.0,12.0
+2011,24,Montreal,33.0,26.0,23.0,Alex Kennedy,"Media Master / St. Baldrick's (Robert Richardson, Sr.)",Chevrolet,64.0,20080.0,suspension,0.0,11.0
+2011,24,Montreal,34.0,31.0,75.0,Tomy Drissi,Alvin and the Chipmunks: Chipwrecked (Rick Ware),Ford,64.0,20045.0,rear gear,0.0,0.0
+2011,24,Montreal,35.0,40.0,28.0,Derrike Cope,Maxelence.com (Jay Robinson),Dodge,59.0,26478.0,transmission,0.0,9.0
+2011,24,Montreal,36.0,33.0,14.0,Eric McClure,Hefty BlackOut / Reynolds (Mark Smith),Chevrolet,54.0,19975.0,running,0.0,8.0
+2011,24,Montreal,37.0,12.0,30.0,Boris Said,Great Clips (Steve Turner),Chevrolet,51.0,26393.0,crash,0.0,0.0
+2011,24,Montreal,38.0,38.0,70.0,Blake Koch,Daystar.com (Pat MacDonald),Dodge,47.0,26348.0,electrical,0.0,6.0
+2011,24,Montreal,39.0,37.0,51.0,Jeremy Clements,Clements Racing Engines (Jeremy Clements),Chevrolet,45.0,26313.0,rear gear,0.0,5.0
+2011,24,Montreal,40.0,43.0,13.0,D.J. Kennington,DrivenMale.com / DriverBoutique.com (Jennifer Jo Cobb),Dodge,28.0,19710.0,suspension,0.0,4.0
+2011,24,Montreal,41.0,11.0,53.0,Andrew Ranger,Quebec Dodge Dealers / Bollegraaf (Robert Torriere),Dodge,23.0,19625.0,engine,0.0,3.0
+2011,24,Montreal,42.0,42.0,89.0,Morgan Shepherd,Victory in Jesus Racing (Morgan Shepherd),Chevrolet,5.0,19570.0,engine,0.0,2.0
+2011,24,Montreal,43.0,30.0,44.0,Jeff Green,Tri-Star Motorsports (Mark Smith),Chevrolet,1.0,19392.0,brakes,0.0,1.0
+2011,25,Bristol,1.0,1.0,18.0,Kyle Busch,Z-Line Designs (Joe Gibbs),Toyota,250.0,46575.0,running,186.0,0.0
+2011,25,Bristol,2.0,2.0,20.0,Joey Logano,MadCatz / GameStop (Joe Gibbs),Toyota,250.0,31600.0,running,12.0,0.0
+2011,25,Bristol,3.0,9.0,33.0,Clint Bowyer,Rheem.com (Kevin Harvick),Chevrolet,250.0,27025.0,running,52.0,0.0
+2011,25,Bristol,4.0,6.0,60.0,Carl Edwards,Fastenal (Jack Roush),Ford,250.0,25000.0,running,0.0,0.0
+2011,25,Bristol,5.0,16.0,88.0,Aric Almirola,Degree Men Adrenaline Series (JR Motorsports),Chevrolet,250.0,29918.0,running,0.0,39.0
+2011,25,Bristol,6.0,21.0,62.0,Michael Annett,Pilot Travel Centers / Flying J (Rusty Wallace),Toyota,250.0,27868.0,running,0.0,38.0
+2011,25,Bristol,7.0,5.0,30.0,Jason Leffler,AccuDoc Solutions (Steve Turner),Chevrolet,250.0,25078.0,running,0.0,37.0
+2011,25,Bristol,8.0,3.0,2.0,Elliott Sadler,OneMain Financial (Kevin Harvick),Chevrolet,250.0,24938.0,running,0.0,36.0
+2011,25,Bristol,9.0,12.0,22.0,Parker Kligerman,Discount Tire (Roger Penske),Dodge,250.0,25218.0,running,0.0,0.0
+2011,25,Bristol,10.0,11.0,11.0,Brian Scott,Shore Lodge (Joe Gibbs),Toyota,250.0,25518.0,running,0.0,34.0
+2011,25,Bristol,11.0,10.0,6.0,Ricky Stenhouse Jr,Fastenal (Jack Roush),Ford,250.0,24843.0,running,0.0,33.0
+2011,25,Bristol,12.0,18.0,32.0,Reed Sorenson,Dollar General (Steve Turner),Chevrolet,250.0,24143.0,running,0.0,32.0
+2011,25,Bristol,13.0,7.0,16.0,Trevor Bayne,Fastenal (Jack Roush),Ford,250.0,24493.0,running,0.0,31.0
+2011,25,Bristol,14.0,15.0,66.0,Steve Wallace,5-hour Energy (Rusty Wallace),Toyota,250.0,23978.0,running,0.0,30.0
+2011,25,Bristol,15.0,8.0,31.0,Justin Allgaier,Brandt (Steve Turner),Chevrolet,250.0,24558.0,running,0.0,29.0
+2011,25,Bristol,16.0,19.0,7.0,Josh Wise,TaxSlayer.com (JR Motorsports),Chevrolet,249.0,24398.0,running,0.0,28.0
+2011,25,Bristol,17.0,13.0,70.0,David Stremme,Foretravel Motorcoach / Blue Devil (Mary Louise Miller),Chevrolet,249.0,25353.0,running,0.0,0.0
+2011,25,Bristol,18.0,20.0,19.0,Mike Bliss,Hot Rod Grills (Mark Smith),Chevrolet,249.0,24558.0,running,0.0,26.0
+2011,25,Bristol,19.0,17.0,38.0,Kasey Kahne,Great Clips (Steve Turner),Chevrolet,248.0,17305.0,running,0.0,0.0
+2011,25,Bristol,20.0,14.0,64.0,David Reutimann,Aspen Dental (Rusty Wallace),Toyota,248.0,17990.0,running,0.0,0.0
+2011,25,Bristol,21.0,22.0,97.0,Joe Nemechek,AM FM Energy / Pellet & Wood Stoves (Joe Nemechek),Toyota,247.0,17200.0,running,0.0,23.0
+2011,25,Bristol,22.0,30.0,15.0,Timmy Hill,Lilly Trucking of Virginia (Rick Ware),Ford,247.0,24623.0,running,0.0,22.0
+2011,25,Bristol,23.0,40.0,81.0,Blake Koch,Daystar.com (Pat MacDonald),Dodge,247.0,24163.0,running,0.0,21.0
+2011,25,Bristol,24.0,37.0,40.0,Scott Wimmer,ExtremeBidder.com (Curtis Key),Chevrolet,246.0,17060.0,running,0.0,20.0
+2011,25,Bristol,25.0,33.0,28.0,Derrike Cope,Maxelence.com (Jay Robinson),Chevrolet,246.0,24093.0,running,0.0,19.0
+2011,25,Bristol,26.0,39.0,1.0,Mike Wallace,G&K Services (Johnny Davis),Chevrolet,245.0,23403.0,running,0.0,18.0
+2011,25,Bristol,27.0,36.0,14.0,Eric McClure,Hefty BlackOut / Reynolds (Mark Smith),Chevrolet,245.0,23743.0,running,0.0,17.0
+2011,25,Bristol,28.0,26.0,4.0,Benny Gordon,Samuel Metals (Archie St. Hilaire),Ford,244.0,16805.0,running,0.0,16.0
+2011,25,Bristol,29.0,34.0,87.0,Kevin Conway,Extenze (Joe Nemechek),Toyota,243.0,23238.0,running,0.0,15.0
+2011,25,Bristol,30.0,41.0,39.0,Fain Skinner,Carport Empire / Bennett Building Systems (Archie St. Hilaire),Ford,242.0,23493.0,running,0.0,14.0
+2011,25,Bristol,31.0,42.0,52.0,Kevin Lepage,RaceDaySponsor.com (Jimmy Means),Chevrolet,241.0,16685.0,running,0.0,13.0
+2011,25,Bristol,32.0,25.0,51.0,Jeremy Clements,7 Select / Mahle (Jeremy Clements),Chevrolet,219.0,23083.0,running,0.0,12.0
+2011,25,Bristol,33.0,24.0,5.0,David Starr,AdvoCare (Wayne Day),Chevrolet,187.0,16595.0,crash,0.0,0.0
+2011,25,Bristol,34.0,38.0,89.0,Morgan Shepherd,Racing With Jesus / Able EMS (Morgan Shepherd),Chevrolet,161.0,23043.0,vibration,0.0,10.0
+2011,25,Bristol,35.0,32.0,23.0,Dennis Setzer,"Anderson's Pure Maple Syrup (Robert Richardson, Sr.)",Chevrolet,137.0,23028.0,suspension,0.0,9.0
+2011,25,Bristol,36.0,4.0,9.0,Kenny Wallace,Federated Auto Parts (Robby Benton),Toyota,136.0,23008.0,crash,0.0,8.0
+2011,25,Bristol,37.0,23.0,3.0,Scott Riggs,"North Texas Pipe (Robert Richardson, Sr.)",Chevrolet,19.0,16520.0,overheating,0.0,7.0
+2011,25,Bristol,38.0,27.0,49.0,Mark Green,Jay Robinson Racing (Jay Robinson),Chevrolet,11.0,16480.0,rear gear,0.0,6.0
+2011,25,Bristol,39.0,28.0,42.0,Tim Andrews,Key Motorsports (Curtis Key),Chevrolet,11.0,16455.0,electrical,0.0,5.0
+2011,25,Bristol,40.0,29.0,46.0,Chase Miller,Key Motorsports (Curtis Key),Chevrolet,7.0,16430.0,brakes,0.0,4.0
+2011,25,Bristol,41.0,31.0,71.0,Matt Carter,Lilly Trucking of Virginia (Rick Ware),Ford,7.0,16405.0,brakes,0.0,3.0
+2011,25,Bristol,42.0,35.0,47.0,Brian Keselowski,Key Motorsports (Curtis Key),Chevrolet,6.0,16375.0,brakes,0.0,0.0
+2011,25,Bristol,43.0,43.0,44.0,Jeff Green,Tri-Star Motorsports (Mark Smith),Chevrolet,4.0,16330.0,vibration,0.0,1.0
+2011,26,Atlanta,1.0,1.0,60.0,Carl Edwards,Fastenal (Jack Roush),Ford,195.0,60125.0,running,101.0,0.0
+2011,26,Atlanta,2.0,3.0,18.0,Kyle Busch,Z-Line Designs (Joe Gibbs),Toyota,195.0,30450.0,running,31.0,0.0
+2011,26,Atlanta,3.0,5.0,6.0,Ricky Stenhouse Jr,Blackwell Angus Beef (Jack Roush),Ford,195.0,33018.0,running,3.0,42.0
+2011,26,Atlanta,4.0,8.0,33.0,Kevin Harvick,Rheem.com (Kevin Harvick),Chevrolet,195.0,18100.0,running,31.0,0.0
+2011,26,Atlanta,5.0,7.0,38.0,Kasey Kahne,Great Clips (Steve Turner),Chevrolet,195.0,17750.0,running,24.0,0.0
+2011,26,Atlanta,6.0,14.0,31.0,Justin Allgaier,Brandt (Steve Turner),Chevrolet,195.0,24268.0,running,2.0,39.0
+2011,26,Atlanta,7.0,2.0,22.0,Brad Keselowski,Discount Tire (Roger Penske),Dodge,195.0,17110.0,running,0.0,0.0
+2011,26,Atlanta,8.0,11.0,88.0,Aric Almirola,Hellmann's / Race In To Win (JR Motorsports),Chevrolet,195.0,21138.0,running,0.0,36.0
+2011,26,Atlanta,9.0,16.0,30.0,Jason Leffler,Great Clips (Steve Turner),Chevrolet,195.0,20543.0,running,0.0,35.0
+2011,26,Atlanta,10.0,9.0,2.0,Elliott Sadler,OneMain Financial (Kevin Harvick),Chevrolet,195.0,21143.0,running,0.0,34.0
+2011,26,Atlanta,11.0,4.0,20.0,Ryan Truex,Schick Xtreme 3 (Joe Gibbs),Toyota,195.0,20568.0,running,0.0,33.0
+2011,26,Atlanta,12.0,19.0,11.0,Brian Scott,Boise State Broncos (Joe Gibbs),Toyota,195.0,19043.0,running,0.0,32.0
+2011,26,Atlanta,13.0,13.0,66.0,Steve Wallace,5-hour Energy (Rusty Wallace),Toyota,195.0,18243.0,running,0.0,31.0
+2011,26,Atlanta,14.0,21.0,51.0,Jeremy Clements,Clements Racing Engines (Jeremy Clements),Chevrolet,195.0,19643.0,running,1.0,31.0
+2011,26,Atlanta,15.0,15.0,19.0,Mike Bliss,Tri-Star Motorsports (Mark Smith),Chevrolet,194.0,19393.0,running,0.0,29.0
+2011,26,Atlanta,16.0,18.0,1.0,Mike Wallace,G&K Services (Johnny Davis),Chevrolet,193.0,17643.0,running,0.0,28.0
+2011,26,Atlanta,17.0,23.0,39.0,Matt Carter,CarportEmpire.com / Bennett Steel Structures (Archie St. Hilaire),Ford,193.0,19768.0,running,0.0,27.0
+2011,26,Atlanta,18.0,17.0,87.0,Joe Nemechek,D.A.B. Constructors / Pellet & Wood Stoves (Joe Nemechek),Toyota,192.0,17268.0,running,0.0,26.0
+2011,26,Atlanta,19.0,20.0,9.0,Kenny Wallace,G-Oil (Robby Benton),Toyota,192.0,17193.0,running,0.0,25.0
+2011,26,Atlanta,20.0,24.0,62.0,Michael Annett,Pilot Travel Centers / Flying J (Rusty Wallace),Toyota,191.0,17818.0,running,0.0,24.0
+2011,26,Atlanta,21.0,10.0,7.0,Jamie McMurray,GoDaddy.com / GetTogetherGetOnline.org (JR Motorsports),Chevrolet,190.0,10550.0,running,0.0,0.0
+2011,26,Atlanta,22.0,36.0,40.0,Josh Wise,ThermaCote.com (Curtis Key),Chevrolet,190.0,16943.0,running,0.0,22.0
+2011,26,Atlanta,23.0,27.0,81.0,Blake Koch,Daystar.com (Pat MacDonald),Dodge,189.0,17268.0,running,0.0,21.0
+2011,26,Atlanta,24.0,42.0,28.0,Derrike Cope,Maxelence.com (Jay Robinson),Chevrolet,189.0,16793.0,running,0.0,20.0
+2011,26,Atlanta,25.0,41.0,89.0,Morgan Shepherd,Able EMS / Victory in Jesus Racing (Morgan Shepherd),Chevrolet,188.0,16893.0,running,0.0,19.0
+2011,26,Atlanta,26.0,35.0,23.0,"Robert Richardson, Jr.","North Texas Pipe (Robert Richardson, Sr.)",Chevrolet,187.0,17168.0,running,0.0,18.0
+2011,26,Atlanta,27.0,29.0,50.0,T.J. Bell,Liberty Tire Recycling/Pinnacle Rubber Mulch (Mark Beaver),Chevrolet,187.0,10575.0,running,0.0,0.0
+2011,26,Atlanta,28.0,26.0,14.0,Eric McClure,Hefty BlackOut / Reynolds (Mark Smith),Chevrolet,184.0,16568.0,running,0.0,16.0
+2011,26,Atlanta,29.0,34.0,13.0,Jennifer Jo Cobb,HipChixFundraisers.com (Jennifer Jo Cobb),Dodge,183.0,10050.0,running,0.0,15.0
+2011,26,Atlanta,30.0,39.0,52.0,Kevin Lepage,American Red Cross (Jimmy Means),Chevrolet,183.0,10250.0,running,0.0,14.0
+2011,26,Atlanta,31.0,31.0,72.0,John Jackson,CrashClaimsR.us (James Carter),Toyota,178.0,9895.0,running,0.0,13.0
+2011,26,Atlanta,32.0,12.0,32.0,Reed Sorenson,Dollar General (Steve Turner),Chevrolet,169.0,16303.0,crash,0.0,12.0
+2011,26,Atlanta,33.0,6.0,16.0,Trevor Bayne,Ford. Drive One. (Jack Roush),Ford,169.0,16443.0,crash,2.0,12.0
+2011,26,Atlanta,34.0,40.0,70.0,Dennis Setzer,Anderson's Pure Maple Syrup (Mary Louise Miller),Chevrolet,104.0,16233.0,handling,0.0,10.0
+2011,26,Atlanta,35.0,43.0,71.0,Clay Greenfield,Lilly Trucking of Virginia (Rick Ware),Ford,94.0,9735.0,suspension,0.0,0.0
+2011,26,Atlanta,36.0,22.0,15.0,Timmy Hill,Lilly Trucking of Virginia (Rick Ware),Ford,76.0,16143.0,transmission,0.0,8.0
+2011,26,Atlanta,37.0,28.0,44.0,Jeff Green,Tri-Star Motorsports (Mark Smith),Chevrolet,17.0,9640.0,vibration,0.0,7.0
+2011,26,Atlanta,38.0,30.0,3.0,Scott Riggs,"North Texas Pipe (Robert Richardson, Sr.)",Chevrolet,15.0,9585.0,parked,0.0,6.0
+2011,26,Atlanta,39.0,33.0,42.0,Tim Andrews,Key Motorsports (Curtis Key),Chevrolet,10.0,9545.0,suspension,0.0,5.0
+2011,26,Atlanta,40.0,32.0,46.0,Chase Miller,Key Motorsports (Curtis Key),Chevrolet,6.0,9480.0,overheating,0.0,4.0
+2011,26,Atlanta,41.0,38.0,75.0,Carl Long,Rick Ware Racing (Rick Ware),Ford,6.0,9415.0,transmission,0.0,3.0
+2011,26,Atlanta,42.0,37.0,49.0,Mark Green,Jay Robinson Racing (Jay Robinson),Chevrolet,4.0,9365.0,handling,0.0,2.0
+2011,26,Atlanta,43.0,25.0,41.0,Johnny Chapman,Rick Ware Racing (Rick Ware),Chevrolet,1.0,9286.0,overheating,0.0,1.0
+2011,27,Richmond,1.0,3.0,18.0,Kyle Busch,Z-Line Designs (Joe Gibbs),Toyota,250.0,33725.0,running,74.0,0.0
+2011,27,Richmond,2.0,2.0,60.0,Carl Edwards,Fastenal / Honoring Our Heroes (Jack Roush),Ford,250.0,36125.0,running,160.0,0.0
+2011,27,Richmond,3.0,6.0,6.0,Ricky Stenhouse Jr,Fastenal / Honoring Our Heroes (Jack Roush),Ford,250.0,31268.0,running,0.0,41.0
+2011,27,Richmond,4.0,10.0,20.0,Ryan Truex,Schick Xtreme 3 (Joe Gibbs),Toyota,250.0,24043.0,running,0.0,40.0
+2011,27,Richmond,5.0,5.0,9.0,Kenny Wallace,Federated Auto Parts (Robby Benton),Toyota,250.0,24693.0,running,0.0,39.0
+2011,27,Richmond,6.0,8.0,2.0,Elliott Sadler,OneMain Financial (Kevin Harvick),Chevrolet,250.0,24043.0,running,0.0,38.0
+2011,27,Richmond,7.0,16.0,88.0,Aric Almirola,AdvoCare (JR Motorsports),Chevrolet,250.0,21753.0,running,0.0,37.0
+2011,27,Richmond,8.0,17.0,32.0,Reed Sorenson,Dollar General (Steve Turner),Chevrolet,250.0,23913.0,running,0.0,36.0
+2011,27,Richmond,9.0,22.0,31.0,Justin Allgaier,Dollar General (Steve Turner),Chevrolet,250.0,21293.0,running,0.0,35.0
+2011,27,Richmond,10.0,15.0,87.0,Joe Nemechek,D.A.B. Constructors / Pellet & Wood Stoves (Joe Nemechek),Toyota,250.0,23843.0,running,0.0,34.0
+2011,27,Richmond,11.0,26.0,62.0,Michael Annett,Freightliner (Rusty Wallace),Toyota,250.0,20993.0,running,0.0,33.0
+2011,27,Richmond,12.0,18.0,19.0,Mike Bliss,Hilton Garden Inn Richmond Downtown (Mark Smith),Chevrolet,250.0,21668.0,running,0.0,32.0
+2011,27,Richmond,13.0,14.0,70.0,David Stremme,Foretravel Motorcoach (Mary Louise Miller),Chevrolet,250.0,21318.0,running,0.0,0.0
+2011,27,Richmond,14.0,28.0,51.0,Jeremy Clements,Clements Racing Engines (Jeremy Clements),Chevrolet,250.0,20818.0,running,8.0,31.0
+2011,27,Richmond,15.0,24.0,1.0,Mike Wallace,G&K Services (Johnny Davis),Chevrolet,250.0,22093.0,running,0.0,29.0
+2011,27,Richmond,16.0,7.0,66.0,Steve Wallace,5-hour Energy (Rusty Wallace),Toyota,250.0,20693.0,running,0.0,28.0
+2011,27,Richmond,17.0,38.0,15.0,Timmy Hill,Lilly Trucking of Virginia (Rick Ware),Ford,250.0,21618.0,running,0.0,27.0
+2011,27,Richmond,18.0,32.0,7.0,Danica Patrick,GoDaddy.com / GetYour.net (JR Motorsports),Chevrolet,249.0,20568.0,running,0.0,26.0
+2011,27,Richmond,19.0,1.0,22.0,Brad Keselowski,Ruby Tuesday (Roger Penske),Dodge,249.0,18350.0,running,8.0,0.0
+2011,27,Richmond,20.0,13.0,33.0,Kevin Harvick,"Rheem Heating, Cooling & Water Heating (Kevin Harvick)",Chevrolet,249.0,14725.0,running,0.0,0.0
+2011,27,Richmond,21.0,37.0,28.0,Derrike Cope,Maxelence.com (Jay Robinson),Chevrolet,247.0,20418.0,running,0.0,23.0
+2011,27,Richmond,22.0,39.0,23.0,"Robert Richardson, Jr.","North Texas Pipe (Robert Richardson, Sr.)",Chevrolet,247.0,20318.0,running,0.0,22.0
+2011,27,Richmond,23.0,40.0,52.0,Kevin Lepage,T&T Performance / Metro Ministries (Jimmy Means),Chevrolet,246.0,14165.0,running,0.0,21.0
+2011,27,Richmond,24.0,41.0,89.0,Morgan Shepherd,Victory in Jesus Racing (Morgan Shepherd),Chevrolet,246.0,13650.0,running,0.0,20.0
+2011,27,Richmond,25.0,42.0,39.0,"Luis Martinez, Jr.",King Taco (Archie St. Hilaire),Chevrolet,246.0,20693.0,running,0.0,19.0
+2011,27,Richmond,26.0,27.0,30.0,Ricky Carmichael,Monster Energy (Steve Turner),Chevrolet,245.0,19968.0,running,0.0,0.0
+2011,27,Richmond,27.0,35.0,81.0,Blake Koch,Daystar.com (Pat MacDonald),Dodge,211.0,20318.0,running,0.0,17.0
+2011,27,Richmond,28.0,4.0,16.0,Trevor Bayne,Fastenal / Honoring Our Heroes (Jack Roush),Ford,209.0,19768.0,crash,0.0,16.0
+2011,27,Richmond,29.0,11.0,38.0,Jason Leffler,Great Clips (Steve Turner),Chevrolet,178.0,19718.0,running,0.0,15.0
+2011,27,Richmond,30.0,20.0,14.0,Eric McClure,Hefty BlackOut / Reynolds (Mark Smith),Chevrolet,158.0,19918.0,crash,0.0,14.0
+2011,27,Richmond,31.0,9.0,1.0,Jamie McMurray,Phoenix Construction (James Finch),Chevrolet,155.0,13095.0,ignition,0.0,0.0
+2011,27,Richmond,32.0,12.0,11.0,Brian Scott,Shore Lodge (Joe Gibbs),Toyota,145.0,19478.0,crash,0.0,12.0
+2011,27,Richmond,33.0,21.0,40.0,Josh Wise,Cajun Industries (Curtis Key),Chevrolet,69.0,12950.0,oil pump,0.0,11.0
+2011,27,Richmond,34.0,25.0,41.0,Johnny Chapman,Rick Ware Racing (Rick Ware),Chevrolet,42.0,12915.0,brakes,0.0,10.0
+2011,27,Richmond,35.0,30.0,71.0,Matt Carter,Lilly Trucking of Virginia (Rick Ware),Ford,37.0,12865.0,brakes,0.0,9.0
+2011,27,Richmond,36.0,23.0,44.0,Jeff Green,Tri-Star Motorsports (Mark Smith),Chevrolet,27.0,12805.0,brakes,0.0,8.0
+2011,27,Richmond,37.0,36.0,75.0,Carl Long,RaceCash.com / Lilly Trucking of Virginia (Rick Ware),Ford,24.0,12745.0,rear gear,0.0,7.0
+2011,27,Richmond,38.0,43.0,42.0,Tim Andrews,Key Motorsports (Curtis Key),Chevrolet,9.0,12665.0,power,0.0,6.0
+2011,27,Richmond,39.0,34.0,48.0,Dennis Setzer,Jay Robinson Racing (Jay Robinson),Chevrolet,9.0,12620.0,brakes,0.0,0.0
+2011,27,Richmond,40.0,19.0,49.0,Mark Green,Acredale Vending (Jay Robinson),Chevrolet,8.0,12580.0,brakes,0.0,4.0
+2011,27,Richmond,41.0,31.0,3.0,Scott Riggs,"North Texas Pipe (Robert Richardson, Sr.)",Chevrolet,7.0,12515.0,overheating,0.0,3.0
+2011,27,Richmond,42.0,33.0,46.0,Chase Miller,Key Motorsports (Curtis Key),Chevrolet,4.0,12470.0,transmission,0.0,2.0
+2011,27,Richmond,43.0,29.0,47.0,Brian Keselowski,Key Motorsports (Curtis Key),Chevrolet,2.0,12409.0,ignition,0.0,0.0
+2011,28,Chicago,1.0,2.0,22.0,Brad Keselowski,Discount Tire (Roger Penske),Dodge,200.0,68175.0,running,158.0,0.0
+2011,28,Chicago,2.0,10.0,60.0,Carl Edwards,Fastenal (Jack Roush),Ford,200.0,64950.0,running,35.0,0.0
+2011,28,Chicago,3.0,1.0,11.0,Brian Scott,Shore Lodge (Joe Gibbs),Toyota,200.0,58293.0,running,5.0,42.0
+2011,28,Chicago,4.0,6.0,88.0,Aric Almirola,Suave Men / Jewel-Osco (JR Motorsports),Chevrolet,200.0,39868.0,running,0.0,40.0
+2011,28,Chicago,5.0,7.0,12.0,"Sam Hornish, Jr.",Alliance Truck Parts (Roger Penske),Dodge,200.0,27100.0,running,0.0,39.0
+2011,28,Chicago,6.0,5.0,2.0,Elliott Sadler,OneMain Financial (Kevin Harvick),Chevrolet,200.0,33868.0,running,0.0,38.0
+2011,28,Chicago,7.0,23.0,7.0,Jamie McMurray,Air Hogs (JR Motorsports),Chevrolet,200.0,22950.0,running,0.0,0.0
+2011,28,Chicago,8.0,11.0,6.0,Ricky Stenhouse Jr,RickyVsTrevor.com (Jack Roush),Ford,200.0,28318.0,running,0.0,36.0
+2011,28,Chicago,9.0,3.0,33.0,Paul Menard,Rheem / Menards (Kevin Harvick),Chevrolet,200.0,21760.0,running,0.0,0.0
+2011,28,Chicago,10.0,12.0,32.0,Reed Sorenson,Dollar General (Steve Turner),Chevrolet,200.0,27643.0,running,0.0,34.0
+2011,28,Chicago,11.0,9.0,16.0,Trevor Bayne,RickyVsTrevor.com (Jack Roush),Ford,199.0,25868.0,running,0.0,33.0
+2011,28,Chicago,12.0,16.0,38.0,Jason Leffler,Great Clips (Steve Turner),Chevrolet,199.0,25318.0,running,1.0,33.0
+2011,28,Chicago,13.0,4.0,20.0,Ryan Truex,Martin Truex Jr. Foundation / Schick Xtreme3 (Joe Gibbs),Toyota,199.0,26968.0,running,0.0,31.0
+2011,28,Chicago,14.0,13.0,31.0,Justin Allgaier,Brandt (Steve Turner),Chevrolet,198.0,24258.0,running,0.0,30.0
+2011,28,Chicago,15.0,14.0,19.0,Mike Bliss,U.S. Xpress (Mark Smith),Chevrolet,198.0,26348.0,running,0.0,29.0
+2011,28,Chicago,16.0,19.0,62.0,Michael Annett,Pilot Travel Centers / Flying J (Rusty Wallace),Toyota,198.0,23588.0,running,0.0,28.0
+2011,28,Chicago,17.0,15.0,9.0,Kenny Wallace,Family Farmers (Robby Benton),Toyota,198.0,23503.0,running,0.0,27.0
+2011,28,Chicago,18.0,17.0,66.0,Steve Wallace,5-hour Energy (Rusty Wallace),Toyota,198.0,23043.0,running,0.0,26.0
+2011,28,Chicago,19.0,8.0,18.0,Joey Logano,SportClips (Joe Gibbs),Toyota,198.0,16365.0,running,0.0,0.0
+2011,28,Chicago,20.0,21.0,1.0,Mike Wallace,G&K Services (Johnny Davis),Chevrolet,197.0,24098.0,running,1.0,25.0
+2011,28,Chicago,21.0,18.0,51.0,Jeremy Clements,Defend the Children (Jeremy Clements),Chevrolet,197.0,22513.0,running,0.0,23.0
+2011,28,Chicago,22.0,26.0,15.0,Timmy Hill,Lilly Trucking of Virginia / Poynt (Rick Ware),Ford,195.0,22403.0,running,0.0,22.0
+2011,28,Chicago,23.0,32.0,39.0,Joey Gase,Go Green Racing (Archie St. Hilaire),Ford,195.0,22668.0,running,0.0,21.0
+2011,28,Chicago,24.0,25.0,87.0,Kevin Conway,Extenze (Joe Nemechek),Toyota,195.0,22158.0,running,0.0,20.0
+2011,28,Chicago,25.0,41.0,14.0,Eric McClure,Hefty BlackOut / Reynolds (Mark Smith),Chevrolet,195.0,22648.0,running,0.0,19.0
+2011,28,Chicago,26.0,20.0,70.0,David Stremme,Foretravel Motorcoach (Mary Louise Miller),Chevrolet,195.0,21913.0,running,0.0,0.0
+2011,28,Chicago,27.0,24.0,52.0,Blake Koch,Daystar.com (Pat MacDonald),Dodge,195.0,15735.0,running,0.0,17.0
+2011,28,Chicago,28.0,42.0,89.0,Morgan Shepherd,Victory in Jesus Racing (Morgan Shepherd),Chevrolet,194.0,21683.0,running,0.0,16.0
+2011,28,Chicago,29.0,36.0,23.0,"Robert Richardson, Jr.","North Texas Pipe (Robert Richardson, Sr.)",Chevrolet,193.0,21533.0,running,0.0,15.0
+2011,28,Chicago,30.0,29.0,81.0,Scott Wimmer,K Love (Pat MacDonald),Dodge,180.0,21723.0,running,0.0,14.0
+2011,28,Chicago,31.0,33.0,40.0,Josh Wise,Key Motorsports (Curtis Key),Chevrolet,152.0,21288.0,suspension,0.0,13.0
+2011,28,Chicago,32.0,39.0,28.0,Derrike Cope,Maxelence.com (Jay Robinson),Chevrolet,131.0,21178.0,engine,0.0,12.0
+2011,28,Chicago,33.0,22.0,30.0,Kasey Kahne,Rexall / Dollar General (Steve Turner),Chevrolet,65.0,14600.0,crash,0.0,0.0
+2011,28,Chicago,34.0,28.0,71.0,Matt Carter,Lilly Trucking of Virginia (Rick Ware),Ford,22.0,14490.0,vibration,0.0,10.0
+2011,28,Chicago,35.0,34.0,49.0,Mark Green,Acredale Vending (Jay Robinson),Chevrolet,19.0,14380.0,overheating,0.0,9.0
+2011,28,Chicago,36.0,30.0,3.0,Scott Riggs,"North Texas Pipe (Robert Richardson, Sr.)",Chevrolet,15.0,14270.0,ignition,0.0,8.0
+2011,28,Chicago,37.0,38.0,75.0,Carl Long,Race Cash (Rick Ware),Ford,15.0,14150.0,handling,0.0,7.0
+2011,28,Chicago,38.0,27.0,41.0,Johnny Chapman,Rick Ware Racing (Rick Ware),Chevrolet,13.0,14090.0,overheating,0.0,6.0
+2011,28,Chicago,39.0,43.0,4.0,"Danny O'Quinn, Jr.",Blow Brothers Waste / Go Green (Archie St. Hilaire),Ford,13.0,13940.0,electrical,0.0,5.0
+2011,28,Chicago,40.0,40.0,46.0,Chase Miller,Key Motorsports (Curtis Key),Chevrolet,10.0,13830.0,ignition,0.0,4.0
+2011,28,Chicago,41.0,35.0,48.0,Dennis Setzer,Jay Robinson Racing (Jay Robinson),Chevrolet,9.0,13725.0,vibration,0.0,0.0
+2011,28,Chicago,42.0,31.0,27.0,J.J. Yeley,Go Canada Racing (Steve Meehan),Ford,4.0,13520.0,vibration,0.0,0.0
+2011,28,Chicago,43.0,37.0,50.0,T.J. Bell,Liberty Tire Recycling/Pinnacle Rubber Mulch (Mark Beaver),Chevrolet,2.0,13413.0,power steering,0.0,0.0
+2011,29,Dover,1.0,2.0,60.0,Carl Edwards,Fastenal (Jack Roush),Ford,200.0,49775.0,running,179.0,0.0
+2011,29,Dover,2.0,8.0,22.0,Brad Keselowski,Ruby Tuesday (Roger Penske),Dodge,200.0,26075.0,running,10.0,0.0
+2011,29,Dover,3.0,4.0,33.0,Clint Bowyer,"Rheem Heating, Cooling & Water Heating (Kevin Harvick)",Chevrolet,200.0,22250.0,running,0.0,0.0
+2011,29,Dover,4.0,7.0,38.0,Kasey Kahne,Great Clips (Steve Turner),Chevrolet,200.0,17900.0,running,0.0,0.0
+2011,29,Dover,5.0,6.0,6.0,Ricky Stenhouse Jr,Blackwell Angus Beef (Jack Roush),Ford,200.0,25718.0,running,0.0,39.0
+2011,29,Dover,6.0,9.0,16.0,Trevor Bayne,RickyVsTrevor.com (Jack Roush),Ford,200.0,21918.0,running,0.0,38.0
+2011,29,Dover,7.0,19.0,32.0,Reed Sorenson,Dollar General (Steve Turner),Chevrolet,200.0,23528.0,running,0.0,37.0
+2011,29,Dover,8.0,5.0,20.0,Ryan Truex,Heinz 57 Sauce (Joe Gibbs),Toyota,200.0,22288.0,running,0.0,36.0
+2011,29,Dover,9.0,13.0,19.0,Mike Bliss,Tri-Star Motorsports (Mark Smith),Chevrolet,200.0,24818.0,running,0.0,35.0
+2011,29,Dover,10.0,14.0,31.0,Justin Allgaier,Racersites / JustinAllgaier.com (Steve Turner),Chevrolet,200.0,21793.0,running,0.0,34.0
+2011,29,Dover,11.0,11.0,11.0,Brian Scott,Shore Lodge (Joe Gibbs),Toyota,200.0,20268.0,running,0.0,33.0
+2011,29,Dover,12.0,18.0,62.0,Michael Annett,RaceWithRusty.com (Rusty Wallace),Toyota,200.0,20143.0,running,0.0,32.0
+2011,29,Dover,13.0,3.0,18.0,Joey Logano,SportClips / VFW (Joe Gibbs),Toyota,199.0,14025.0,running,0.0,0.0
+2011,29,Dover,14.0,1.0,2.0,Elliott Sadler,OneMain Financial (Kevin Harvick),Chevrolet,199.0,23218.0,running,10.0,31.0
+2011,29,Dover,15.0,16.0,88.0,Aric Almirola,Ragu (JR Motorsports),Chevrolet,199.0,20693.0,running,0.0,29.0
+2011,29,Dover,16.0,10.0,9.0,Kenny Wallace,Federated Auto Parts (Robby Benton),Toyota,199.0,20243.0,running,0.0,28.0
+2011,29,Dover,17.0,15.0,7.0,Jamie McMurray,GoDaddy.com / GetTogetherGetOnline.org (JR Motorsports),Chevrolet,199.0,13225.0,running,0.0,0.0
+2011,29,Dover,18.0,23.0,51.0,Jeremy Clements,Clements Racing Engines (Jeremy Clements),Chevrolet,199.0,20393.0,running,0.0,26.0
+2011,29,Dover,19.0,17.0,30.0,Jason Leffler,AccuDoc Solutions (Steve Turner),Chevrolet,198.0,19593.0,running,0.0,25.0
+2011,29,Dover,20.0,12.0,66.0,Steve Wallace,5-hour Energy (Rusty Wallace),Toyota,198.0,20268.0,running,0.0,24.0
+2011,29,Dover,21.0,22.0,81.0,Blake Koch,Daystar.com (Pat MacDonald),Dodge,197.0,19493.0,running,0.0,23.0
+2011,29,Dover,22.0,42.0,15.0,Timmy Hill,Poynt.com (Rick Ware),Ford,197.0,19393.0,running,0.0,22.0
+2011,29,Dover,23.0,31.0,39.0,Fain Skinner,CarportEmpire.com (Archie St. Hilaire),Ford,194.0,19718.0,running,0.0,21.0
+2011,29,Dover,24.0,27.0,14.0,Eric McClure,Hefty BlackOut / Reynolds (Mark Smith),Chevrolet,194.0,19268.0,running,0.0,20.0
+2011,29,Dover,25.0,39.0,89.0,Morgan Shepherd,Able EMS / Victory in Jesus Racing (Morgan Shepherd),Chevrolet,194.0,19368.0,running,0.0,19.0
+2011,29,Dover,26.0,41.0,28.0,Derrike Cope,Maxelence.com (Jay Robinson),Dodge,193.0,19643.0,running,0.0,18.0
+2011,29,Dover,27.0,37.0,52.0,Kevin Lepage,Warren Woodworking / Emeritus Senior Living (Jimmy Means),Chevrolet,191.0,19518.0,running,0.0,17.0
+2011,29,Dover,28.0,36.0,70.0,Casey Roderick,RandyHillRacing.com / acu.edu (Randy Hill),Chevrolet,190.0,19043.0,running,0.0,16.0
+2011,29,Dover,29.0,21.0,1.0,Mike Wallace,I Hate Steven Singer! (Johnny Davis),Chevrolet,164.0,18968.0,suspension,1.0,16.0
+2011,29,Dover,30.0,24.0,87.0,Joe Nemechek,Good Luck Foster & Lauren / DAB Constructors (Joe Nemechek),Toyota,137.0,19218.0,running,0.0,14.0
+2011,29,Dover,31.0,25.0,23.0,Scott Riggs,"North Texas Pipe (Robert Richardson, Sr.)",Chevrolet,128.0,18863.0,transmission,0.0,13.0
+2011,29,Dover,32.0,33.0,71.0,Matt Carter,Rick Ware Racing (Rick Ware),Ford,22.0,12335.0,electrical,0.0,12.0
+2011,29,Dover,33.0,40.0,40.0,Josh Wise,Key Motorsports (Curtis Key),Chevrolet,21.0,12275.0,engine,0.0,11.0
+2011,29,Dover,34.0,34.0,75.0,Carl Long,Rick Ware Racing (Rick Ware),Ford,16.0,12240.0,handling,0.0,10.0
+2011,29,Dover,35.0,35.0,41.0,Johnny Chapman,Rick Ware Racing (Rick Ware),Chevrolet,10.0,12210.0,rear gear,0.0,9.0
+2011,29,Dover,36.0,38.0,49.0,Mark Green,Acredale Vending (Jay Robinson),Chevrolet,8.0,12185.0,overheating,0.0,8.0
+2011,29,Dover,37.0,26.0,4.0,Kelly Bires,Go Green Racing (Archie St. Hilaire),Ford,7.0,12165.0,vibration,0.0,7.0
+2011,29,Dover,38.0,20.0,47.0,Charles Lewandoski,Key Motorsports (Curtis Key),Chevrolet,6.0,12100.0,ignition,0.0,6.0
+2011,29,Dover,39.0,43.0,46.0,Chase Miller,Key Motorsports (Curtis Key),Chevrolet,5.0,12075.0,ignition,0.0,5.0
+2011,29,Dover,40.0,30.0,42.0,Tim Andrews,Key Motorsports (Curtis Key),Chevrolet,4.0,12020.0,electrical,0.0,4.0
+2011,29,Dover,41.0,28.0,82.0,Scott Wimmer,K-Love (Pat MacDonald),Dodge,3.0,11990.0,ignition,0.0,3.0
+2011,29,Dover,42.0,32.0,50.0,T.J. Bell,Liberty Tire Recycling/Pinnacle Rubber Mulch (Mark Beaver),Chevrolet,3.0,11950.0,brakes,0.0,0.0
+2011,29,Dover,43.0,29.0,44.0,Jeff Green,Tri-Star Motorsports (Mark Smith),Chevrolet,1.0,11892.0,vibration,0.0,1.0
+2011,30,Kansas,1.0,2.0,22.0,Brad Keselowski,Discount Tire (Roger Penske),Dodge,200.0,68175.0,running,173.0,0.0
+2011,30,Kansas,2.0,1.0,60.0,Carl Edwards,Fastenal (Jack Roush),Ford,200.0,69550.0,running,12.0,0.0
+2011,30,Kansas,3.0,12.0,2.0,Elliott Sadler,OneMain Financial (Kevin Harvick),Chevrolet,200.0,55893.0,running,0.0,41.0
+2011,30,Kansas,4.0,4.0,33.0,Paul Menard,Rheem / Menards (Kevin Harvick),Chevrolet,200.0,33150.0,running,0.0,0.0
+2011,30,Kansas,5.0,9.0,6.0,Ricky Stenhouse Jr,RickyVsTrevor.com (Jack Roush),Ford,200.0,35318.0,running,0.0,39.0
+2011,30,Kansas,6.0,19.0,4.0,Kevin Harvick,Hunt Brothers Pizza (Kevin Harvick),Chevrolet,200.0,24000.0,running,0.0,0.0
+2011,30,Kansas,7.0,8.0,18.0,Joey Logano,GameStop / Batman Arkham City (Joe Gibbs),Toyota,200.0,22950.0,running,0.0,0.0
+2011,30,Kansas,8.0,14.0,32.0,Brian Vickers,Dollar General (Steve Turner),Chevrolet,200.0,21850.0,running,0.0,0.0
+2011,30,Kansas,9.0,17.0,16.0,Trevor Bayne,RickyVsTrevor.com (Jack Roush),Ford,200.0,27228.0,running,0.0,35.0
+2011,30,Kansas,10.0,3.0,20.0,Ryan Truex,Martin Truex Jr. Foundation (Joe Gibbs),Toyota,200.0,29443.0,running,0.0,34.0
+2011,30,Kansas,11.0,21.0,31.0,Justin Allgaier,Brandt (Steve Turner),Chevrolet,200.0,26068.0,running,0.0,33.0
+2011,30,Kansas,12.0,7.0,88.0,Aric Almirola,Degree Men / HyVee (JR Motorsports),Chevrolet,200.0,25318.0,running,11.0,33.0
+2011,30,Kansas,13.0,10.0,38.0,Jason Leffler,Great Clips (Steve Turner),Chevrolet,200.0,25218.0,running,3.0,32.0
+2011,30,Kansas,14.0,6.0,70.0,David Stremme,Foretravel Motorcoach (Mary Louise Miller),Chevrolet,200.0,25758.0,running,0.0,0.0
+2011,30,Kansas,15.0,15.0,7.0,Danica Patrick,GoDaddy.com (JR Motorsports),Chevrolet,200.0,24573.0,running,0.0,29.0
+2011,30,Kansas,16.0,25.0,62.0,Michael Annett,Pilot Travel Centers / Flying J (Rusty Wallace),Toyota,200.0,23863.0,running,0.0,28.0
+2011,30,Kansas,17.0,5.0,11.0,Brian Scott,Shore Lodge (Joe Gibbs),Toyota,200.0,23753.0,running,0.0,27.0
+2011,30,Kansas,18.0,28.0,30.0,James Buescher,Sporting Kansas City (Steve Turner),Chevrolet,200.0,23043.0,running,0.0,0.0
+2011,30,Kansas,19.0,11.0,9.0,Kenny Wallace,Family Farmers (Robby Benton),Toyota,200.0,23033.0,running,0.0,25.0
+2011,30,Kansas,20.0,16.0,66.0,Steve Wallace,5-hour Energy (Rusty Wallace),Toyota,199.0,23348.0,running,0.0,24.0
+2011,30,Kansas,21.0,13.0,87.0,Joe Nemechek,AM FM Energy / Southerlands (Joe Nemechek),Toyota,199.0,23263.0,running,0.0,23.0
+2011,30,Kansas,22.0,23.0,19.0,Mike Bliss,Spirit Halloween (Mark Smith),Chevrolet,199.0,22403.0,running,0.0,22.0
+2011,30,Kansas,23.0,27.0,51.0,Jeremy Clements,RepairableVehicles.com (Jeremy Clements),Chevrolet,199.0,22668.0,running,1.0,22.0
+2011,30,Kansas,24.0,32.0,1.0,Mike Wallace,I Hate Steven Singer! (Johnny Davis),Chevrolet,199.0,22158.0,running,0.0,20.0
+2011,30,Kansas,25.0,18.0,81.0,Blake Koch,Daystar.com (Pat MacDonald),Dodge,198.0,22648.0,running,0.0,19.0
+2011,30,Kansas,26.0,24.0,82.0,Reed Sorenson,K-Love (Pat MacDonald),Dodge,198.0,15445.0,running,0.0,18.0
+2011,30,Kansas,27.0,33.0,89.0,Morgan Shepherd,Able EMS / Victory in Jesus Racing (Morgan Shepherd),Chevrolet,198.0,21803.0,running,0.0,17.0
+2011,30,Kansas,28.0,37.0,52.0,Kevin Lepage,RepairableVehicles.com / Crowne Plaza (Jimmy Means),Chevrolet,197.0,15615.0,running,0.0,16.0
+2011,30,Kansas,29.0,41.0,39.0,Joey Gase,Go Green Racing / JoeyGase.com (Archie St. Hilaire),Ford,196.0,21533.0,running,0.0,15.0
+2011,30,Kansas,30.0,39.0,28.0,Derrike Cope,Maxelence.com (Jay Robinson),Dodge,193.0,21723.0,running,0.0,14.0
+2011,30,Kansas,31.0,36.0,14.0,Eric McClure,Hefty / Reynolds / Sam's Club (Mark Smith),Chevrolet,188.0,21288.0,running,0.0,13.0
+2011,30,Kansas,32.0,42.0,23.0,Angela Ruch,blkbeverages.com / MillenniumSpaSalon.com (Mark Smith),Chevrolet,167.0,21178.0,crash,0.0,12.0
+2011,30,Kansas,33.0,40.0,40.0,Josh Wise,Cajun Industries (Curtis Key),Chevrolet,138.0,14600.0,engine,0.0,11.0
+2011,30,Kansas,34.0,31.0,15.0,Timmy Hill,Poynt.com (Rick Ware),Ford,87.0,20958.0,engine,0.0,10.0
+2011,30,Kansas,35.0,35.0,71.0,Matt Carter,Lilly Trucking of Virginia (Rick Ware),Ford,18.0,14380.0,suspension,0.0,9.0
+2011,30,Kansas,36.0,22.0,3.0,Scott Riggs,"North Texas Pipe (Robert Richardson, Sr.)",Chevrolet,13.0,14270.0,overheating,0.0,8.0
+2011,30,Kansas,37.0,38.0,75.0,Carl Long,Lilly Trucking of Virginia (Rick Ware),Ford,13.0,14150.0,rear gear,0.0,7.0
+2011,30,Kansas,38.0,34.0,41.0,Johnny Chapman,Lilly Trucking of Virginia (Rick Ware),Chevrolet,12.0,14090.0,vibration,0.0,6.0
+2011,30,Kansas,39.0,26.0,46.0,Chase Miller,Curtis Key Plumbing (Curtis Key),Chevrolet,10.0,13940.0,ignition,0.0,5.0
+2011,30,Kansas,40.0,30.0,47.0,Charles Lewandoski,Curtis Key Plumbing (Curtis Key),Chevrolet,5.0,13830.0,vibration,0.0,4.0
+2011,30,Kansas,41.0,20.0,44.0,Jeff Green,Tri-Star Motorsports (Mark Smith),Chevrolet,3.0,13725.0,vibration,0.0,3.0
+2011,30,Kansas,42.0,29.0,50.0,T.J. Bell,Liberty Tire Recycling/Pinnacle Rubber Mulch (Mark Beaver),Chevrolet,3.0,13520.0,vibration,0.0,0.0
+2011,30,Kansas,43.0,43.0,27.0,J.J. Yeley,31-W Insulation (Steve Meehan),Ford,2.0,13413.0,electrical,0.0,0.0
+2011,31,Charlotte,1.0,5.0,60.0,Carl Edwards,Fastenal (Jack Roush),Ford,200.0,70650.0,running,5.0,0.0
+2011,31,Charlotte,2.0,6.0,18.0,Kyle Busch,Z-Line Designs (Joe Gibbs),Toyota,200.0,45675.0,running,26.0,0.0
+2011,31,Charlotte,3.0,11.0,16.0,Trevor Bayne,Fastenal (Jack Roush),Ford,200.0,44343.0,running,0.0,41.0
+2011,31,Charlotte,4.0,12.0,2.0,Elliott Sadler,OneMain Financial (Kevin Harvick),Chevrolet,200.0,34168.0,running,1.0,41.0
+2011,31,Charlotte,5.0,8.0,11.0,Brian Scott,Doosan (Joe Gibbs),Toyota,200.0,28393.0,running,0.0,39.0
+2011,31,Charlotte,6.0,3.0,22.0,Brad Keselowski,Discount Tire (Roger Penske),Dodge,200.0,22050.0,running,119.0,0.0
+2011,31,Charlotte,7.0,10.0,31.0,Justin Allgaier,Brandt (Steve Turner),Chevrolet,200.0,23753.0,running,0.0,37.0
+2011,31,Charlotte,8.0,1.0,33.0,Paul Menard,Rheem / Menards (Kevin Harvick),Chevrolet,200.0,24470.0,running,26.0,0.0
+2011,31,Charlotte,9.0,2.0,6.0,Ricky Stenhouse Jr,Blackwell Angus Beef / Cargill (Jack Roush),Ford,200.0,21843.0,running,22.0,36.0
+2011,31,Charlotte,10.0,9.0,32.0,Brian Vickers,Dollar General (Steve Turner),Chevrolet,200.0,15350.0,running,0.0,0.0
+2011,31,Charlotte,11.0,17.0,30.0,Jason Leffler,AccuDoc (Steve Turner),Chevrolet,200.0,19793.0,running,0.0,33.0
+2011,31,Charlotte,12.0,7.0,12.0,"Sam Hornish, Jr.",Alliance Truck Parts (Roger Penske),Dodge,200.0,19243.0,running,0.0,32.0
+2011,31,Charlotte,13.0,19.0,66.0,Steve Wallace,5-hour Energy (Rusty Wallace),Toyota,200.0,18643.0,running,0.0,31.0
+2011,31,Charlotte,14.0,13.0,7.0,Josh Wise,TaxSlayer.com / The Navy SEAL Foundation (JR Motorsports),Chevrolet,200.0,21118.0,running,0.0,30.0
+2011,31,Charlotte,15.0,14.0,88.0,Aric Almirola,AdvoCare (JR Motorsports),Chevrolet,200.0,18868.0,running,0.0,29.0
+2011,31,Charlotte,16.0,20.0,9.0,Kenny Wallace,UNOH / Thank You Fans! (Robby Benton),Toyota,200.0,18293.0,running,0.0,28.0
+2011,31,Charlotte,17.0,22.0,62.0,Michael Annett,Pilot Travel Centers / Flying J (Rusty Wallace),Toyota,200.0,17618.0,running,0.0,27.0
+2011,31,Charlotte,18.0,27.0,81.0,Blake Koch,Daystar.com (Pat MacDonald),Chevrolet,200.0,19918.0,running,0.0,26.0
+2011,31,Charlotte,19.0,4.0,20.0,Joey Logano,GameStop / Cabela's Big Game Hunter (Joe Gibbs),Toyota,200.0,10875.0,running,0.0,0.0
+2011,31,Charlotte,20.0,23.0,19.0,Mike Bliss,Spirit Halloween (Mark Smith),Chevrolet,199.0,18568.0,running,0.0,24.0
+2011,31,Charlotte,21.0,32.0,15.0,Timmy Hill,Poynt (Rick Ware),Ford,199.0,16943.0,running,1.0,24.0
+2011,31,Charlotte,22.0,36.0,1.0,Mike Wallace,I Hate Steven Singer! (Johnny Davis),Chevrolet,199.0,16843.0,running,0.0,22.0
+2011,31,Charlotte,23.0,31.0,50.0,T.J. Bell,Liberty Tire Recycling/Pinnacle Rubber Mulch (Mark Beaver),Chevrolet,198.0,10675.0,running,0.0,0.0
+2011,31,Charlotte,24.0,41.0,28.0,Derrike Cope,Maxelence (Jay Robinson),Chevrolet,198.0,16643.0,running,0.0,20.0
+2011,31,Charlotte,25.0,39.0,89.0,Morgan Shepherd,Victory in Jesus Racing (Morgan Shepherd),Chevrolet,197.0,16693.0,running,0.0,19.0
+2011,31,Charlotte,26.0,33.0,39.0,Joey Gase,Go Green Racing (Archie St. Hilaire),Ford,197.0,16943.0,running,0.0,18.0
+2011,31,Charlotte,27.0,37.0,52.0,Kevin Lepage,Creative Recycling (Jimmy Means),Chevrolet,193.0,16743.0,running,0.0,17.0
+2011,31,Charlotte,28.0,18.0,38.0,Kasey Kahne,Great Clips (Steve Turner),Chevrolet,181.0,9775.0,crash,0.0,0.0
+2011,31,Charlotte,29.0,24.0,51.0,Jeremy Clements,Consolidated Pipe / Carolina Collision (Jeremy Clements),Chevrolet,171.0,16193.0,running,0.0,15.0
+2011,31,Charlotte,30.0,35.0,23.0,"Robert Richardson, Jr.","North Texas Pipe (Robert Richardson, Sr.)",Chevrolet,166.0,16443.0,running,0.0,14.0
+2011,31,Charlotte,31.0,34.0,14.0,Eric McClure,Hefty BlackOut / Reynolds (Mark Smith),Chevrolet,157.0,16088.0,running,0.0,13.0
+2011,31,Charlotte,32.0,15.0,82.0,Reed Sorenson,Crusader Staffing / Think Pink Zeta Tau Alpha (Pat MacDonald),Dodge,144.0,9535.0,running,0.0,12.0
+2011,31,Charlotte,33.0,38.0,40.0,Charles Lewandoski,Precisionwerx (Curtis Key),Chevrolet,133.0,15943.0,engine,0.0,11.0
+2011,31,Charlotte,34.0,16.0,99.0,Ryan Truex,Pastrana Waltrip Racing (Michael Waltrip),Toyota,126.0,9440.0,crash,0.0,0.0
+2011,31,Charlotte,35.0,42.0,70.0,Angela Ruch,Millennium Spa Salon / blkbeverages.com (Mark Smith),Chevrolet,125.0,15878.0,vibration,0.0,9.0
+2011,31,Charlotte,36.0,40.0,87.0,Kevin Conway,Extenze (Joe Nemechek),Toyota,76.0,9375.0,engine,0.0,8.0
+2011,31,Charlotte,37.0,28.0,97.0,Joe Nemechek,AM FM Energy / Pellet & Wood Stoves (Joe Nemechek),Toyota,25.0,9340.0,engine,0.0,7.0
+2011,31,Charlotte,38.0,25.0,4.0,Tim Andrews,BBI Waste Industries / Go Green Racing (Archie St. Hilaire),Ford,22.0,9260.0,vibration,0.0,6.0
+2011,31,Charlotte,39.0,26.0,3.0,Scott Riggs,"North Texas Pipe (Robert Richardson, Sr.)",Chevrolet,18.0,9220.0,brakes,0.0,5.0
+2011,31,Charlotte,40.0,30.0,41.0,Johnny Chapman,Rick Ware Racing (Rick Ware),Chevrolet,12.0,9190.0,overheating,0.0,4.0
+2011,31,Charlotte,41.0,21.0,47.0,Scott Speed,Curtis Key Plumbing (Curtis Key),Chevrolet,6.0,9160.0,vibration,0.0,3.0
+2011,31,Charlotte,42.0,29.0,42.0,Erik Darnell,Curtis Key Plumbing (Curtis Key),Chevrolet,4.0,9110.0,brakes,0.0,0.0
+2011,31,Charlotte,43.0,43.0,44.0,Jeff Green,Spirit Halloween (Mark Smith),Chevrolet,3.0,9060.0,vibration,0.0,1.0
+2011,32,Fort Worth,1.0,10.0,16.0,Trevor Bayne,Ford. Drive One. (Jack Roush),Ford,200.0,78043.0,running,6.0,47.0
+2011,32,Fort Worth,2.0,2.0,18.0,Denny Hamlin,Z-Line Designs (Joe Gibbs),Toyota,200.0,46600.0,running,0.0,0.0
+2011,32,Fort Worth,3.0,8.0,60.0,Carl Edwards,Fastenal (Jack Roush),Ford,200.0,41750.0,running,157.0,0.0
+2011,32,Fort Worth,4.0,5.0,33.0,Clint Bowyer,"Rheem Heating, Cooling & Water Heating (Kevin Harvick)",Chevrolet,200.0,27725.0,running,12.0,0.0
+2011,32,Fort Worth,5.0,6.0,22.0,Brad Keselowski,Discount Tire (Roger Penske),Dodge,200.0,24225.0,running,0.0,0.0
+2011,32,Fort Worth,6.0,4.0,6.0,Ricky Stenhouse Jr,Sam's Club / Cargill (Jack Roush),Ford,200.0,27743.0,running,0.0,38.0
+2011,32,Fort Worth,7.0,9.0,12.0,"Sam Hornish, Jr.",Avis (Roger Penske),Dodge,200.0,19235.0,running,0.0,37.0
+2011,32,Fort Worth,8.0,3.0,20.0,Joey Logano,GameStop / Call of Duty MW3 (Joe Gibbs),Toyota,200.0,18195.0,running,4.0,0.0
+2011,32,Fort Worth,9.0,1.0,2.0,Elliott Sadler,OneMain Financial (Kevin Harvick),Chevrolet,200.0,28868.0,running,17.0,36.0
+2011,32,Fort Worth,10.0,21.0,32.0,Brian Vickers,Dollar General (Steve Turner),Chevrolet,200.0,17200.0,running,0.0,0.0
+2011,32,Fort Worth,11.0,11.0,7.0,Danica Patrick,GoDaddy.com / Dan Wheldon Memorial (JR Motorsports),Chevrolet,200.0,21843.0,running,0.0,33.0
+2011,32,Fort Worth,12.0,7.0,11.0,Brian Scott,Shore Lodge (Joe Gibbs),Toyota,200.0,21293.0,running,0.0,32.0
+2011,32,Fort Worth,13.0,18.0,9.0,Kenny Wallace,G-Oil (Robby Benton),Toyota,200.0,20768.0,running,0.0,31.0
+2011,32,Fort Worth,14.0,14.0,31.0,Justin Allgaier,Brandt (Steve Turner),Chevrolet,200.0,20793.0,running,0.0,30.0
+2011,32,Fort Worth,15.0,12.0,38.0,Jason Leffler,Great Clips (Steve Turner),Chevrolet,200.0,20743.0,running,0.0,29.0
+2011,32,Fort Worth,16.0,22.0,82.0,Reed Sorenson,Foametix / Bullet Liner (Pat MacDonald),Dodge,199.0,14025.0,running,0.0,28.0
+2011,32,Fort Worth,17.0,20.0,30.0,James Buescher,ABF U-Pack Moving (Steve Turner),Chevrolet,199.0,19868.0,running,0.0,0.0
+2011,32,Fort Worth,18.0,17.0,66.0,Steve Wallace,5-hour Energy (Rusty Wallace),Toyota,199.0,19743.0,running,0.0,26.0
+2011,32,Fort Worth,19.0,15.0,88.0,Aric Almirola,Grand Touring Vodka (JR Motorsports),Chevrolet,199.0,19618.0,running,2.0,26.0
+2011,32,Fort Worth,20.0,30.0,62.0,Michael Annett,LoanStar Title Loans (Rusty Wallace),Toyota,198.0,20218.0,running,2.0,25.0
+2011,32,Fort Worth,21.0,27.0,87.0,Joe Nemechek,AM FM Energy / Pellet & Wood Stoves (Joe Nemechek),Toyota,198.0,23268.0,running,0.0,23.0
+2011,32,Fort Worth,22.0,13.0,81.0,Blake Koch,Daystar.com (Pat MacDonald),Chevrolet,198.0,21193.0,running,0.0,22.0
+2011,32,Fort Worth,23.0,19.0,19.0,Mike Bliss,Brookshire's Food & Pharmacy (Mark Smith),Chevrolet,197.0,19493.0,running,0.0,21.0
+2011,32,Fort Worth,24.0,39.0,14.0,Eric McClure,Hefty BlackOut / Reynolds (Mark Smith),Chevrolet,196.0,18968.0,running,0.0,20.0
+2011,32,Fort Worth,25.0,29.0,23.0,"Robert Richardson, Jr.","Takis / Tia Rosa / Barcel (Robert Richardson, Sr.)",Chevrolet,196.0,19443.0,running,0.0,19.0
+2011,32,Fort Worth,26.0,37.0,51.0,Jeremy Clements,TRA Homes (Jeremy Clements),Chevrolet,195.0,18693.0,running,0.0,18.0
+2011,32,Fort Worth,27.0,25.0,3.0,Scott Riggs,"McKinney Pipe & Steel (Robert Richardson, Sr.)",Chevrolet,195.0,12500.0,running,0.0,17.0
+2011,32,Fort Worth,28.0,41.0,89.0,Morgan Shepherd,Victory in Jesus Racing (Morgan Shepherd),Chevrolet,195.0,18443.0,running,0.0,16.0
+2011,32,Fort Worth,29.0,34.0,39.0,Joey Gase,Fenton Motors (Archie St. Hilaire),Ford,195.0,18368.0,running,0.0,15.0
+2011,32,Fort Worth,30.0,40.0,28.0,Derrike Cope,Maxelence (Jay Robinson),Chevrolet,195.0,18618.0,running,0.0,14.0
+2011,32,Fort Worth,31.0,38.0,52.0,Jamie Dick,Viva Auto Group (Jimmy Dick),Chevrolet,194.0,18263.0,running,0.0,0.0
+2011,32,Fort Worth,32.0,26.0,1.0,Mike Wallace,G&K Services (Johnny Davis),Chevrolet,192.0,18203.0,running,0.0,12.0
+2011,32,Fort Worth,33.0,31.0,15.0,Timmy Hill,Poynt.com (Rick Ware),Ford,142.0,18168.0,engine,0.0,11.0
+2011,32,Fort Worth,34.0,28.0,70.0,David Stremme,Foretravel Motorcoach (Mary Louise Miller),Chevrolet,116.0,18133.0,suspension,0.0,0.0
+2011,32,Fort Worth,35.0,24.0,8.0,David Ragan,Texas Tech University (Randy Hill),Ford,114.0,11610.0,engine,0.0,0.0
+2011,32,Fort Worth,36.0,42.0,40.0,Josh Wise,Curtis Key Plumbing (Curtis Key),Chevrolet,21.0,11575.0,engine,0.0,8.0
+2011,32,Fort Worth,37.0,36.0,75.0,Carl Long,Rick Ware Racing (Rick Ware),Ford,15.0,11540.0,handling,0.0,7.0
+2011,32,Fort Worth,38.0,16.0,27.0,J.J. Yeley,CertainTeed (Steve Meehan),Ford,13.0,11485.0,vibration,0.0,0.0
+2011,32,Fort Worth,39.0,33.0,46.0,Chase Miller,Curtis Key Plumbing (Curtis Key),Chevrolet,13.0,11445.0,vibration,0.0,5.0
+2011,32,Fort Worth,40.0,23.0,4.0,Tim Andrews,Fenton Motors (Archie St. Hilaire),Ford,11.0,11405.0,vibration,0.0,4.0
+2011,32,Fort Worth,41.0,32.0,50.0,T.J. Bell,Liberty Tire Recycling/Pinnacle Rubber Mulch (Mark Beaver),Chevrolet,9.0,11335.0,electrical,0.0,0.0
+2011,32,Fort Worth,42.0,43.0,44.0,Jeff Green,Tri-Star Motorsports (Mark Smith),Chevrolet,6.0,11290.0,vibration,0.0,2.0
+2011,32,Fort Worth,43.0,35.0,47.0,Scott Speed,Curtis Key Plumbing (Curtis Key),Chevrolet,3.0,11218.0,electrical,0.0,1.0
+2011,33,Phoenix,1.0,5.0,12.0,"Sam Hornish, Jr.",Alliance Truck Parts (Roger Penske),Dodge,200.0,39350.0,running,61.0,47.0
+2011,33,Phoenix,2.0,10.0,22.0,Brad Keselowski,Discount Tire (Roger Penske),Dodge,200.0,32300.0,running,0.0,0.0
+2011,33,Phoenix,3.0,2.0,60.0,Carl Edwards,World Financial Group (Jack Roush),Ford,200.0,40500.0,running,0.0,0.0
+2011,33,Phoenix,4.0,9.0,18.0,Joey Logano,GameStop / Call of Duty MW3 (Joe Gibbs),Toyota,200.0,27400.0,running,0.0,0.0
+2011,33,Phoenix,5.0,11.0,6.0,Ricky Stenhouse Jr,Ford. Drive One. (Jack Roush),Ford,200.0,31718.0,running,73.0,41.0
+2011,33,Phoenix,6.0,3.0,16.0,Trevor Bayne,Air Hogs (Jack Roush),Ford,200.0,27768.0,running,0.0,38.0
+2011,33,Phoenix,7.0,4.0,33.0,Clint Bowyer,"Rheem Heating, Cooling & Water Heating (Kevin Harvick)",Chevrolet,200.0,20000.0,running,0.0,0.0
+2011,33,Phoenix,8.0,8.0,20.0,Ryan Truex,Martin Truex Jr. Foundation (Joe Gibbs),Toyota,200.0,25643.0,running,0.0,36.0
+2011,33,Phoenix,9.0,7.0,31.0,Justin Allgaier,Brandt / Monterey Ag Resources (Steve Turner),Chevrolet,200.0,26278.0,running,0.0,35.0
+2011,33,Phoenix,10.0,19.0,62.0,Michael Annett,Oakley / Pilot Travel Centers (Rusty Wallace),Toyota,200.0,24893.0,running,0.0,34.0
+2011,33,Phoenix,11.0,20.0,70.0,David Stremme,Foretravel Motorcoach (Mary Louise Miller),Chevrolet,200.0,27818.0,running,0.0,0.0
+2011,33,Phoenix,12.0,14.0,87.0,Joe Nemechek,AM FM Energy / Pellet & Wood Stoves (Joe Nemechek),Toyota,200.0,24318.0,running,0.0,32.0
+2011,33,Phoenix,13.0,42.0,32.0,"Ron Hornaday, Jr.",Dollar General (Steve Turner),Chevrolet,200.0,23868.0,running,0.0,0.0
+2011,33,Phoenix,14.0,13.0,81.0,Blake Koch,Daystar.com (Pat MacDonald),Dodge,200.0,23308.0,running,0.0,30.0
+2011,33,Phoenix,15.0,27.0,34.0,Ricky Carmichael,Monster Energy / QT QuikTrip (Steve Turner),Chevrolet,200.0,17330.0,running,0.0,0.0
+2011,33,Phoenix,16.0,36.0,1.0,Mike Wallace,I Hate Steven Singer! (Johnny Davis),Chevrolet,199.0,23763.0,running,0.0,28.0
+2011,33,Phoenix,17.0,12.0,9.0,Kenny Wallace,Toyota (Robby Benton),Toyota,197.0,22853.0,running,0.0,27.0
+2011,33,Phoenix,18.0,35.0,15.0,Timmy Hill,Poynt / Lilly Trucking of Virginia (Rick Ware),Ford,197.0,22693.0,running,0.0,26.0
+2011,33,Phoenix,19.0,38.0,14.0,Eric McClure,Hefty BlackOut / Reynolds (Mark Smith),Chevrolet,197.0,22583.0,running,0.0,25.0
+2011,33,Phoenix,20.0,37.0,52.0,Kevin Lepage,Tilted Kilt Sports Bar (Jimmy Means),Chevrolet,197.0,16730.0,running,0.0,24.0
+2011,33,Phoenix,21.0,25.0,7.0,Danica Patrick,GoDaddy.com (JR Motorsports),Chevrolet,196.0,22363.0,running,0.0,23.0
+2011,33,Phoenix,22.0,30.0,23.0,"Robert Richardson, Jr.","North Texas Pipe (Robert Richardson, Sr.)",Chevrolet,195.0,22253.0,running,0.0,22.0
+2011,33,Phoenix,23.0,40.0,40.0,T.J. Duke,Merrill Lynch (Curtis Key),Chevrolet,191.0,15650.0,running,0.0,21.0
+2011,33,Phoenix,24.0,39.0,51.0,Jeremy Clements,Phoenix Automotive Cores (Jeremy Clements),Chevrolet,176.0,22408.0,crash,0.0,20.0
+2011,33,Phoenix,25.0,1.0,88.0,Aric Almirola,Suave Men / Fry's Food Stores (JR Motorsports),Chevrolet,174.0,27198.0,crash,66.0,20.0
+2011,33,Phoenix,26.0,18.0,38.0,Jason Leffler,Great Clips (Steve Turner),Chevrolet,174.0,22088.0,crash,0.0,18.0
+2011,33,Phoenix,27.0,6.0,2.0,Elliott Sadler,OneMain Financial (Kevin Harvick),Chevrolet,174.0,21878.0,crash,0.0,17.0
+2011,33,Phoenix,28.0,21.0,89.0,Morgan Shepherd,Victory in Jesus Racing (Morgan Shepherd),Chevrolet,174.0,15340.0,crash,0.0,16.0
+2011,33,Phoenix,29.0,22.0,66.0,Steve Wallace,5-hour Energy (Rusty Wallace),Toyota,174.0,21733.0,running,0.0,15.0
+2011,33,Phoenix,30.0,15.0,30.0,James Buescher,Exide Batteries (Steve Turner),Chevrolet,142.0,21998.0,crash,0.0,0.0
+2011,33,Phoenix,31.0,17.0,19.0,Mike Bliss,Millennium Salon / Spa Software (Mark Smith),Chevrolet,129.0,22063.0,crash,0.0,13.0
+2011,33,Phoenix,32.0,41.0,28.0,Derrike Cope,Maxelence.com (Jay Robinson),Chevrolet,125.0,21628.0,crash,0.0,12.0
+2011,33,Phoenix,33.0,34.0,80.0,D.J. Kennington,Northern Provincial Pipelines (Pat MacDonald),Dodge,82.0,15125.0,crash,0.0,11.0
+2011,33,Phoenix,34.0,28.0,44.0,Jeff Green,Tri-Star Motorsports (Mark Smith),Chevrolet,38.0,15090.0,rear gear,0.0,10.0
+2011,33,Phoenix,35.0,23.0,82.0,Reed Sorenson,Foametix / Bullet Liner (Pat MacDonald),Dodge,34.0,15055.0,crash,0.0,9.0
+2011,33,Phoenix,36.0,26.0,49.0,Mark Green,Acredale Vending (Jay Robinson),Chevrolet,15.0,15020.0,brakes,0.0,8.0
+2011,33,Phoenix,37.0,16.0,47.0,Scott Speed,Curtis Key Plumbing (Curtis Key),Chevrolet,6.0,14975.0,brakes,0.0,7.0
+2011,33,Phoenix,38.0,43.0,46.0,Chase Miller,Curtis Key Plumbing (Curtis Key),Chevrolet,6.0,14940.0,rear gear,0.0,6.0
+2011,33,Phoenix,39.0,29.0,71.0,Matt Carter,Rick Ware Racing (Rick Ware),Chevrolet,2.0,14865.0,vibration,0.0,5.0
+2011,33,Phoenix,40.0,33.0,41.0,Johnny Chapman,Rick Ware Racing (Rick Ware),Chevrolet,1.0,14830.0,crash,0.0,4.0
+2011,33,Phoenix,41.0,24.0,11.0,Brian Scott,Shore Lodge (Joe Gibbs),Toyota,0.0,21263.0,crash,0.0,3.0
+2011,33,Phoenix,42.0,31.0,4.0,Tim Andrews,Go Green Racing (Archie St. Hilaire),Ford,0.0,14745.0,crash,0.0,2.0
+2011,33,Phoenix,43.0,32.0,39.0,Matt Frahm,TSP Powder Coating (Archie St. Hilaire),Ford,0.0,21145.0,crash,0.0,1.0
+2011,34,Homestead,1.0,1.0,22.0,Brad Keselowski,Discount Tire (Roger Penske),Dodge,200.0,75450.0,running,66.0,0.0
+2011,34,Homestead,2.0,4.0,6.0,Ricky Stenhouse Jr,Blackwell Angus Beef (Jack Roush),Ford,200.0,75193.0,running,22.0,43.0
+2011,34,Homestead,3.0,3.0,60.0,Carl Edwards,Fastenal / Wypall (Jack Roush),Ford,200.0,50825.0,running,87.0,0.0
+2011,34,Homestead,4.0,6.0,33.0,Clint Bowyer,"Rheem Heating, Cooling & Water Heating (Kevin Harvick)",Chevrolet,200.0,38625.0,running,9.0,0.0
+2011,34,Homestead,5.0,7.0,18.0,Denny Hamlin,Z-Line Designs (Joe Gibbs),Toyota,200.0,31775.0,running,0.0,0.0
+2011,34,Homestead,6.0,2.0,2.0,Elliott Sadler,OneMain Financial (Kevin Harvick),Chevrolet,200.0,33893.0,running,7.0,39.0
+2011,34,Homestead,7.0,13.0,12.0,"Sam Hornish, Jr.",Alliance Truck Parts (Roger Penske),Dodge,200.0,21625.0,running,3.0,38.0
+2011,34,Homestead,8.0,10.0,88.0,Aric Almirola,Grand Touring Vodka / Hard Rock (JR Motorsports),Chevrolet,200.0,27218.0,running,0.0,36.0
+2011,34,Homestead,9.0,11.0,11.0,Brian Scott,Shore Lodge (Joe Gibbs),Toyota,200.0,28443.0,running,0.0,35.0
+2011,34,Homestead,10.0,9.0,20.0,Joey Logano,GameStop / Afterglow (Joe Gibbs),Toyota,200.0,19725.0,running,0.0,0.0
+2011,34,Homestead,11.0,8.0,16.0,Trevor Bayne,Ford. Drive One. (Jack Roush),Ford,200.0,24593.0,running,2.0,34.0
+2011,34,Homestead,12.0,14.0,38.0,Jason Leffler,Great Clips (Steve Turner),Chevrolet,200.0,23443.0,running,0.0,32.0
+2011,34,Homestead,13.0,5.0,31.0,Justin Allgaier,Brandt / TradeMark Nitrogen (Steve Turner),Chevrolet,200.0,23993.0,running,0.0,31.0
+2011,34,Homestead,14.0,19.0,32.0,James Buescher,Dollar General (Steve Turner),Chevrolet,200.0,22843.0,running,0.0,0.0
+2011,34,Homestead,15.0,21.0,70.0,David Stremme,Foretravel Motorcoach (Mary Louise Miller),Chevrolet,200.0,25283.0,running,3.0,0.0
+2011,34,Homestead,16.0,22.0,97.0,Joe Nemechek,AM FM Energy / Pellet & Wood Stoves (Joe Nemechek),Toyota,200.0,16810.0,running,0.0,28.0
+2011,34,Homestead,17.0,17.0,19.0,Mike Bliss,Bruvado (Mark Smith),Chevrolet,200.0,22418.0,running,0.0,27.0
+2011,34,Homestead,18.0,29.0,51.0,Jeremy Clements,Clements Racing Engines (Jeremy Clements),Chevrolet,200.0,22503.0,running,0.0,26.0
+2011,34,Homestead,19.0,15.0,62.0,Michael Annett,Pilot Travel Centers / Flying J (Rusty Wallace),Toyota,200.0,22143.0,running,1.0,26.0
+2011,34,Homestead,20.0,31.0,1.0,Mike Wallace,I Hate Steven Singer! (Johnny Davis),Chevrolet,200.0,22758.0,running,0.0,24.0
+2011,34,Homestead,21.0,33.0,15.0,Timmy Hill,Poynt / Lilly Trucking of Virginia (Rick Ware),Ford,200.0,22923.0,running,0.0,23.0
+2011,34,Homestead,22.0,37.0,23.0,"Robert Richardson, Jr.","Tia Rosa Tortillas / Takis Fuego (Robert Richardson, Sr.)",Chevrolet,200.0,21813.0,running,0.0,22.0
+2011,34,Homestead,23.0,18.0,81.0,Blake Koch,Daystar.com (Pat MacDonald),Chevrolet,199.0,22078.0,running,0.0,21.0
+2011,34,Homestead,24.0,35.0,30.0,"Nelson Piquet, Jr.",Bienvenidos a NASCAR (Steve Turner),Chevrolet,198.0,21568.0,running,0.0,0.0
+2011,34,Homestead,25.0,23.0,82.0,Reed Sorenson,Foametix / Bullet Liner (Pat MacDonald),Dodge,198.0,15590.0,running,0.0,19.0
+2011,34,Homestead,26.0,36.0,87.0,Kevin Conway,Extenze (Joe Nemechek),Toyota,198.0,21303.0,running,0.0,18.0
+2011,34,Homestead,27.0,20.0,4.0,Casey Roderick,Go Green Racing (Archie St. Hilaire),Ford,198.0,15120.0,running,0.0,17.0
+2011,34,Homestead,28.0,40.0,40.0,T.J. Duke,Curtis Key Plumbing (Curtis Key),Chevrolet,198.0,14605.0,running,0.0,16.0
+2011,34,Homestead,29.0,34.0,14.0,Eric McClure,Hefty BlackOut / Reynolds (Mark Smith),Chevrolet,197.0,20968.0,running,0.0,15.0
+2011,34,Homestead,30.0,42.0,28.0,Derrike Cope,Maxelence (Jay Robinson),Dodge,195.0,21158.0,running,0.0,14.0
+2011,34,Homestead,31.0,32.0,41.0,Stanton Barrett,4Caring.org / Barcode Media (Rick Ware),Chevrolet,194.0,14280.0,running,0.0,13.0
+2011,34,Homestead,32.0,12.0,7.0,Danica Patrick,GoDaddy.com (JR Motorsports),Chevrolet,190.0,20633.0,crash,0.0,12.0
+2011,34,Homestead,33.0,16.0,9.0,Kenny Wallace,Federated Auto Parts (Robby Benton),Toyota,187.0,20578.0,crash,0.0,11.0
+2011,34,Homestead,34.0,27.0,66.0,Steve Wallace,5-hour Energy (Rusty Wallace),Toyota,146.0,20513.0,crash,0.0,10.0
+2011,34,Homestead,35.0,41.0,52.0,Kevin Lepage,Sunshine Plumbing Supplies (Jimmy Means),Chevrolet,136.0,14010.0,rear gear,0.0,9.0
+2011,34,Homestead,36.0,24.0,67.0,Andrew Ranger,Fish TV / Go Canada Racing (Steve Meehan),Ford,91.0,13975.0,crash,0.0,8.0
+2011,34,Homestead,37.0,30.0,3.0,Scott Riggs,"McKinney Pipe & Steel (Robert Richardson, Sr.)",Chevrolet,15.0,13910.0,overheating,0.0,7.0
+2011,34,Homestead,38.0,43.0,46.0,Chase Miller,Curtis Key Plumbing (Curtis Key),Chevrolet,10.0,13825.0,rear gear,0.0,6.0
+2011,34,Homestead,39.0,25.0,47.0,Josh Wise,Curtis Key Plumbing (Curtis Key),Chevrolet,4.0,13735.0,electrical,0.0,5.0
+2011,34,Homestead,40.0,28.0,71.0,Matt Carter,Rick Ware Racing (Rick Ware),Chevrolet,4.0,13700.0,vibration,0.0,4.0
+2011,34,Homestead,41.0,26.0,42.0,Scott Speed,Curtis Key Plumbing (Curtis Key),Chevrolet,3.0,13625.0,overheating,0.0,3.0
+2011,34,Homestead,42.0,38.0,39.0,Fain Skinner,Carport Empire (Archie St. Hilaire),Ford,2.0,20043.0,crash,0.0,2.0
+2011,34,Homestead,43.0,39.0,89.0,Morgan Shepherd,Victory in Jesus Racing (Morgan Shepherd),Chevrolet,1.0,19974.0,engine,0.0,1.0

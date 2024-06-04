@@ -1,0 +1,737 @@
+Season,Race,Track,Pos,St,#,Driver,Sponsor / Owner,Truck,Laps,Status,Led,Pts,PPts
+2018,1,Daytona,1.0,2.0,21.0,Johnny Sauter,Allegiant Airlines (Maury Gallagher),Chevrolet,100.0,running,39.0,59.0,6.0
+2018,1,Daytona,2.0,12.0,24.0,Justin Haley,Fraternal Order of Eagles (Maury Gallagher),Chevrolet,100.0,running,9.0,40.0,0.0
+2018,1,Daytona,3.0,13.0,87.0,Joe Nemechek,D.A.B. Constructors / Fleetwing (Joe Nemechek),Chevrolet,100.0,running,0.0,34.0,0.0
+2018,1,Daytona,4.0,24.0,41.0,Ben Rhodes,Alpha Energy Solutions / Ride TV (Duke Thorson),Ford,100.0,running,0.0,23.0,0.0
+2018,1,Daytona,5.0,18.0,20.0,"Scott Lagasse, Jr.",American Cancer Society / Screen Your Machine (Randy Young),Chevrolet,100.0,running,0.0,0.0,0.0
+2018,1,Daytona,6.0,7.0,98.0,Grant Enfinger,Champion Power Equipment / Curb Records (Mike Curb),Ford,100.0,running,2.0,37.0,0.0
+2018,1,Daytona,7.0,8.0,51.0,Spencer Davis,JBL / SiriusXM (Kyle Busch),Toyota,100.0,running,0.0,31.0,0.0
+2018,1,Daytona,8.0,4.0,25.0,Dalton Sargeant,Performance Plus Motor Oil (Maury Gallagher),Chevrolet,100.0,running,2.0,37.0,0.0
+2018,1,Daytona,9.0,28.0,3.0,Jordan Anderson,Jacob Companies / Bommarito.com (Jordan Anderson),Toyota,100.0,running,1.0,28.0,0.0
+2018,1,Daytona,10.0,17.0,45.0,Justin Fontaine,ProMatic Automation / Superior Essex (Al Niece),Chevrolet,100.0,running,0.0,27.0,0.0
+2018,1,Daytona,11.0,11.0,2.0,Austin Hill,GoShare.co (Randy Young),Chevrolet,100.0,running,0.0,26.0,0.0
+2018,1,Daytona,12.0,30.0,49.0,Wendell Chavous,SobrietyNation.org (Jay Robinson),Chevrolet,100.0,running,0.0,25.0,0.0
+2018,1,Daytona,13.0,25.0,15.0,Robby Lyons,Troptions (Jay Robinson),Chevrolet,100.0,running,0.0,24.0,0.0
+2018,1,Daytona,14.0,29.0,6.0,Norm Benning,Zomongo / H&H Transport (Norm Benning),Chevrolet,100.0,running,0.0,23.0,0.0
+2018,1,Daytona,15.0,31.0,83.0,Scott Stenzel,E2 Northeast Motorsports (D.J. Copp),Chevrolet,100.0,running,0.0,22.0,0.0
+2018,1,Daytona,16.0,19.0,7.0,Korbin Forrister,TruClear Global / All Secure (All Out Motorsports),Toyota,99.0,running,2.0,24.0,0.0
+2018,1,Daytona,17.0,10.0,2.0,Cody Coughlin,Jegs.com (Maury Gallagher),Chevrolet,99.0,running,0.0,28.0,0.0
+2018,1,Daytona,18.0,23.0,28.0,Bryan Dauzat,FDNY / American Genomics (Jim Rosenblum),Chevrolet,99.0,running,0.0,19.0,0.0
+2018,1,Daytona,19.0,6.0,88.0,Matt Crafton,Fisher Nuts / Menards (Duke Thorson),Ford,97.0,running,0.0,27.0,0.0
+2018,1,Daytona,20.0,15.0,22.0,Austin Wayne Self,Don't Mess With Texas / AM Tech. Solutions (Al Niece),Chevrolet,97.0,running,0.0,17.0,0.0
+2018,1,Daytona,21.0,1.0,4.0,David Gilliland,Pedigree (Kyle Busch),Toyota,95.0,running,30.0,34.0,1.0
+2018,1,Daytona,22.0,3.0,68.0,Clay Greenfield,AMVETS Please Stand (Clay Greenfield),Chevrolet,81.0,crash,0.0,22.0,0.0
+2018,1,Daytona,23.0,5.0,18.0,Noah Gragson,Safelite Auto Glass (Kyle Busch),Toyota,79.0,crash,1.0,16.0,0.0
+2018,1,Daytona,24.0,20.0,13.0,Myatt Snider,Liberty Tax Service (Duke Thorson),Ford,73.0,crash,0.0,17.0,0.0
+2018,1,Daytona,25.0,14.0,8.0,John H. Nemechek,Fleetwing Corporation (Joe Nemechek),Chevrolet,72.0,crash,13.0,0.0,0.0
+2018,1,Daytona,26.0,22.0,16.0,Brett Moffitt,AISIN Group (Shigeaki Hattori),Toyota,72.0,crash,0.0,11.0,0.0
+2018,1,Daytona,27.0,9.0,52.0,Stewart Friesen,Halmar Intl. / We Build America (Chris Larsen),Chevrolet,72.0,crash,1.0,19.0,0.0
+2018,1,Daytona,28.0,26.0,75.0,Parker Kligerman,Food Country USA / Lays / Pepsi (Charlie Henderson),Chevrolet,66.0,crash,0.0,13.0,0.0
+2018,1,Daytona,29.0,21.0,47.0,Chris Fontaine,Glenden Enterprises (Chris Fontaine),Chevrolet,65.0,electrical,0.0,8.0,0.0
+2018,1,Daytona,30.0,16.0,54.0,Bo LeMastus,Crosley Brands / DGR-Crosley (David Gilliland),Toyota,63.0,crash,0.0,7.0,0.0
+2018,1,Daytona,31.0,27.0,10.0,Jennifer Jo Cobb,Think Realty / Driven2Honor.org (Jennifer Jo Cobb),Chevrolet,54.0,crash,0.0,6.0,0.0
+2018,1,Daytona,32.0,32.0,50.0,Travis Kvapil,Rhino Rush Energy (Mark Beaver),Chevrolet,2.0,engine,0.0,5.0,0.0
+2018,2,Atlanta,1.0,10.0,16.0,Brett Moffitt,AISIN Group (Shigeaki Hattori),Toyota,134.0,running,2.0,55.0,5.0
+2018,2,Atlanta,2.0,3.0,18.0,Noah Gragson,Safelite Auto Glass (Kyle Busch),Toyota,134.0,running,43.0,51.0,1.0
+2018,2,Atlanta,3.0,9.0,21.0,Johnny Sauter,Allegiant Airlines (Maury Gallagher),Chevrolet,134.0,running,12.0,47.0,0.0
+2018,2,Atlanta,4.0,14.0,41.0,Ben Rhodes,Alpha Energy Solutions / RideTV (Duke Thorson),Ford,134.0,running,0.0,38.0,0.0
+2018,2,Atlanta,5.0,2.0,88.0,Matt Crafton,Rip It / Menards (Duke Thorson),Ford,134.0,running,7.0,48.0,0.0
+2018,2,Atlanta,6.0,7.0,52.0,Stewart Friesen,Halmar Intl. / We Build America (Chris Larsen),Chevrolet,134.0,running,0.0,33.0,0.0
+2018,2,Atlanta,7.0,19.0,13.0,Myatt Snider,Liberty Tax Service (Duke Thorson),Ford,134.0,running,3.0,30.0,0.0
+2018,2,Atlanta,8.0,12.0,97.0,Jesse Little,Wings Over North Georgia Air Show (Jason Little),Ford,134.0,running,0.0,38.0,0.0
+2018,2,Atlanta,9.0,16.0,98.0,Grant Enfinger,Curb Records (Mike Curb),Ford,134.0,running,0.0,36.0,0.0
+2018,2,Atlanta,10.0,13.0,20.0,Austin Dillon,Go Share (Randy Young),Chevrolet,134.0,running,0.0,0.0,0.0
+2018,2,Atlanta,11.0,17.0,75.0,Parker Kligerman,Food Country USA / Tide Pods (Charlie Henderson),Chevrolet,134.0,running,0.0,28.0,0.0
+2018,2,Atlanta,12.0,11.0,8.0,Joe Nemechek,D.A.B. Constructors (Joe Nemechek),Chevrolet,134.0,running,0.0,25.0,0.0
+2018,2,Atlanta,13.0,4.0,51.0,Spencer Davis,Rheem (Kyle Busch),Toyota,134.0,running,0.0,29.0,0.0
+2018,2,Atlanta,14.0,6.0,25.0,Dalton Sargeant,Performance Plus Motor Oil (Maury Gallagher),Chevrolet,134.0,running,0.0,24.0,0.0
+2018,2,Atlanta,15.0,20.0,22.0,Austin Wayne Self,Don't Mess With Texas / AM Tech. Solutions (Al Niece),Chevrolet,134.0,running,0.0,22.0,0.0
+2018,2,Atlanta,16.0,21.0,7.0,Korbin Forrister,TruClear Global (All Out Motorsports),Toyota,134.0,running,0.0,21.0,0.0
+2018,2,Atlanta,17.0,15.0,54.0,Bo LeMastus,Crosley Brands / DGR-Crosley (David Gilliland),Toyota,134.0,running,0.0,20.0,0.0
+2018,2,Atlanta,18.0,18.0,2.0,Austin Hill,United Rentals (Randy Young),Chevrolet,133.0,running,0.0,19.0,0.0
+2018,2,Atlanta,19.0,22.0,45.0,Justin Fontaine,Superior Essex (Al Niece),Chevrolet,133.0,running,0.0,18.0,0.0
+2018,2,Atlanta,20.0,8.0,2.0,Cody Coughlin,Jegs.com (Maury Gallagher),Chevrolet,133.0,running,0.0,17.0,0.0
+2018,2,Atlanta,21.0,1.0,4.0,Kyle Busch,Cessna / Beechcraft (Kyle Busch),Toyota,133.0,running,67.0,0.0,0.0
+2018,2,Atlanta,22.0,5.0,24.0,Justin Haley,Fraternal Order of Eagles (Maury Gallagher),Chevrolet,132.0,running,0.0,15.0,0.0
+2018,2,Atlanta,23.0,29.0,49.0,Wendell Chavous,SobrietyNation.org (Jay Robinson),Chevrolet,131.0,running,0.0,14.0,0.0
+2018,2,Atlanta,24.0,25.0,3.0,Jordan Anderson,Bommarito / Lucas Oil (Jordan Anderson),Chevrolet,129.0,running,0.0,13.0,0.0
+2018,2,Atlanta,25.0,27.0,15.0,Robby Lyons,Sunwest Construction (Jay Robinson),Chevrolet,128.0,running,0.0,12.0,0.0
+2018,2,Atlanta,26.0,30.0,10.0,Jennifer Jo Cobb,Think Realty (Jennifer Jo Cobb),Chevrolet,120.0,running,0.0,11.0,0.0
+2018,2,Atlanta,27.0,24.0,33.0,Josh Reaume,R-Coin / Green Heart Partners (Josh Reaume),Chevrolet,119.0,crash,0.0,10.0,0.0
+2018,2,Atlanta,28.0,31.0,1.0,Clay Greenfield,Motorsports Safety Group / Clyde May's (Tracy Lowe),Chevrolet,116.0,too slow,0.0,9.0,0.0
+2018,2,Atlanta,29.0,28.0,6.0,Norm Benning,Zomongo / H&H Transport (Norm Benning),Chevrolet,108.0,vibration,0.0,8.0,0.0
+2018,2,Atlanta,30.0,23.0,63.0,Akinori Ogata,Nisshinbo (Mike Mittler),Chevrolet,62.0,crash,0.0,7.0,0.0
+2018,2,Atlanta,31.0,26.0,0.0,Joey Gase,Driven2Honor.org (Jennifer Jo Cobb),Chevrolet,7.0,electrical,0.0,0.0,0.0
+2018,2,Atlanta,32.0,32.0,83.0,Scott Stenzel,Fr8Auctions.com (D.J. Copp),Chevrolet,0.0,electrical,0.0,5.0,0.0
+2018,3,Las Vegas,1.0,1.0,51.0,Kyle Busch,Cessna / Beechcraft (Kyle Busch),Toyota,134.0,running,55.0,0.0,0.0
+2018,3,Las Vegas,2.0,3.0,21.0,Johnny Sauter,Allegiant Airlines (Maury Gallagher),Chevrolet,134.0,running,0.0,42.0,0.0
+2018,3,Las Vegas,3.0,6.0,16.0,Brett Moffitt,AISIN Group (Shigeaki Hattori),Toyota,134.0,running,27.0,43.0,0.0
+2018,3,Las Vegas,4.0,8.0,98.0,Grant Enfinger,Curb Records (Mike Curb),Ford,134.0,running,4.0,35.0,0.0
+2018,3,Las Vegas,5.0,2.0,52.0,Stewart Friesen,Halmar Intl. / We Build America (Chris Larsen),Chevrolet,134.0,running,31.0,49.0,1.0
+2018,3,Las Vegas,6.0,18.0,25.0,Dalton Sargeant,Performance Plus Motor Oil (Maury Gallagher),Chevrolet,134.0,running,3.0,31.0,0.0
+2018,3,Las Vegas,7.0,15.0,41.0,Ben Rhodes,Alpha Energy Solutions / Ride TV (Duke Thorson),Ford,134.0,running,0.0,42.0,0.0
+2018,3,Las Vegas,8.0,14.0,2.0,Cody Coughlin,Jegs.com (Maury Gallagher),Chevrolet,134.0,running,0.0,31.0,0.0
+2018,3,Las Vegas,9.0,17.0,45.0,Justin Fontaine,ProMatic Automation (Al Niece),Chevrolet,134.0,running,2.0,28.0,0.0
+2018,3,Las Vegas,10.0,13.0,2.0,Austin Hill,United Rentals (Randy Young),Chevrolet,134.0,running,0.0,27.0,0.0
+2018,3,Las Vegas,11.0,7.0,54.0,Justin Marks,Crosley Brands / Tropicana (David Gilliland),Toyota,134.0,running,0.0,26.0,0.0
+2018,3,Las Vegas,12.0,5.0,18.0,Noah Gragson,Safelite Auto Glass (Kyle Busch),Toyota,134.0,running,12.0,40.0,1.0
+2018,3,Las Vegas,13.0,4.0,4.0,Spencer Davis,JBL / SiriusXM (Kyle Busch),Toyota,134.0,running,0.0,34.0,0.0
+2018,3,Las Vegas,14.0,20.0,49.0,Wendell Chavous,SobrietyNation.org (Jay Robinson),Chevrolet,134.0,running,0.0,23.0,0.0
+2018,3,Las Vegas,15.0,10.0,13.0,Myatt Snider,Liberty Tax Service (Duke Thorson),Ford,133.0,running,0.0,37.0,0.0
+2018,3,Las Vegas,16.0,19.0,22.0,Austin Wayne Self,Don't Mess With Texas / AM Tech. Solutions (Al Niece),Chevrolet,133.0,running,0.0,21.0,0.0
+2018,3,Las Vegas,17.0,16.0,3.0,Jordan Anderson,Bommarito.com / Lucas Oil (Jordan Anderson),Chevrolet,133.0,running,0.0,20.0,0.0
+2018,3,Las Vegas,18.0,24.0,15.0,Robby Lyons,Sunwest Construction (Jay Robinson),Chevrolet,133.0,running,0.0,19.0,0.0
+2018,3,Las Vegas,19.0,22.0,20.0,Michel Disdier,Richard Orlinski (Randy Young),Chevrolet,132.0,running,0.0,18.0,0.0
+2018,3,Las Vegas,20.0,23.0,83.0,Bayley Currey,United Nissan / Fr8Auctions.com / Baja (D.J. Copp),Chevrolet,132.0,running,0.0,17.0,0.0
+2018,3,Las Vegas,21.0,9.0,8.0,John H. Nemechek,Ernie's / Fleetwing (Joe Nemechek),Chevrolet,130.0,running,0.0,0.0,0.0
+2018,3,Las Vegas,22.0,26.0,74.0,Mike Harmon,Atlanta Havoc (Mike Harmon),Chevrolet,127.0,running,0.0,15.0,0.0
+2018,3,Las Vegas,23.0,31.0,50.0,B.J. McLeod,Motorsports Safety Group (Mark Beaver),Chevrolet,123.0,running,0.0,0.0,0.0
+2018,3,Las Vegas,24.0,27.0,10.0,Jennifer Jo Cobb,Think Realty / Driven2Honor.org (Jennifer Jo Cobb),Chevrolet,123.0,running,0.0,13.0,0.0
+2018,3,Las Vegas,25.0,25.0,33.0,Josh Reaume,Gnarly Jerky (Josh Reaume),Toyota,119.0,engine,0.0,12.0,0.0
+2018,3,Las Vegas,26.0,30.0,6.0,Norm Benning,Zomongo / H&H Transport (Norm Benning),Chevrolet,118.0,parked,0.0,11.0,0.0
+2018,3,Las Vegas,27.0,28.0,1.0,Tommy Regan,Motorsports Safety Group / American Tactical (Tracy Lowe),Chevrolet,112.0,running,0.0,10.0,0.0
+2018,3,Las Vegas,28.0,11.0,24.0,Justin Haley,Fraternal Order of Eagles (Maury Gallagher),Chevrolet,75.0,crash,0.0,13.0,0.0
+2018,3,Las Vegas,29.0,12.0,88.0,Matt Crafton,Hormel Black Label Bacon / Menards (Duke Thorson),Ford,40.0,brakes,0.0,9.0,0.0
+2018,3,Las Vegas,30.0,32.0,0.0,Mike Senica,Betty Lou's / P3 Power Products (Jennifer Jo Cobb),Chevrolet,28.0,electrical,0.0,7.0,0.0
+2018,3,Las Vegas,31.0,21.0,87.0,Joe Nemechek,Fleetwing Corporation (Joe Nemechek),Chevrolet,23.0,vibration,0.0,6.0,0.0
+2018,3,Las Vegas,32.0,29.0,63.0,Scott Stenzel,Copp Racing (Mike Mittler),Chevrolet,5.0,electrical,0.0,5.0,0.0
+2018,4,Martinsville,1.0,8.0,8.0,John H. Nemechek,Fleetwing / D.A.B. Constructors (Joe Nemechek),Chevrolet,250.0,running,31.0,0.0,0.0
+2018,4,Martinsville,2.0,4.0,54.0,Kyle Benjamin,Crosley Brands / Foothills Capital (David Gilliland),Toyota,250.0,running,74.0,0.0,0.0
+2018,4,Martinsville,3.0,7.0,16.0,Brett Moffitt,AISIN Group (Shigeaki Hattori),Toyota,250.0,running,0.0,41.0,0.0
+2018,4,Martinsville,4.0,3.0,98.0,Grant Enfinger,Champion Power Equipment / Curb Records (Mike Curb),Ford,250.0,running,0.0,44.0,0.0
+2018,4,Martinsville,5.0,11.0,18.0,Noah Gragson,Safelite Auto Glass (Kyle Busch),Toyota,250.0,running,0.0,39.0,0.0
+2018,4,Martinsville,6.0,9.0,13.0,Myatt Snider,Liberty Tax Service (Duke Thorson),Ford,250.0,running,0.0,34.0,0.0
+2018,4,Martinsville,7.0,16.0,92.0,Timothy Peters,BTS Tire & Wheel / Carquest Auto Parts (Ricky Benton),Ford,250.0,running,0.0,30.0,0.0
+2018,4,Martinsville,8.0,13.0,51.0,Harrison Burton,DEX Imaging (Kyle Busch),Toyota,250.0,running,0.0,30.0,0.0
+2018,4,Martinsville,9.0,15.0,2.0,Austin Hill,United Rentals (Randy Young),Chevrolet,250.0,running,0.0,28.0,0.0
+2018,4,Martinsville,10.0,12.0,24.0,Justin Haley,Fraternal Order of Eagles (Maury Gallagher),Chevrolet,250.0,running,0.0,27.0,0.0
+2018,4,Martinsville,11.0,18.0,25.0,Dalton Sargeant,Performance Plus Motor Oil (Maury Gallagher),Chevrolet,250.0,running,0.0,26.0,0.0
+2018,4,Martinsville,12.0,1.0,41.0,Ben Rhodes,Alpha Energy Solutions (Duke Thorson),Ford,250.0,running,134.0,45.0,2.0
+2018,4,Martinsville,13.0,17.0,4.0,Cory Roper,Preferred Industrial Contractors (Roper Racing),Ford,250.0,running,0.0,24.0,0.0
+2018,4,Martinsville,14.0,23.0,4.0,Todd Gilliland,Mobil 1 (Kyle Busch),Toyota,250.0,running,1.0,32.0,0.0
+2018,4,Martinsville,15.0,2.0,88.0,Matt Crafton,Ideal Door / Menards (Duke Thorson),Ford,250.0,running,4.0,38.0,0.0
+2018,4,Martinsville,16.0,20.0,20.0,Reid Wilson,OEM2 Powered by TruNorth (Randy Young),Chevrolet,250.0,running,0.0,21.0,0.0
+2018,4,Martinsville,17.0,28.0,50.0,Dawson Cram,Fluidyne / Bojangles' (Mark Beaver),Chevrolet,250.0,running,0.0,20.0,0.0
+2018,4,Martinsville,18.0,29.0,49.0,Wendell Chavous,SobrietyNation.org (Jay Robinson),Chevrolet,250.0,running,0.0,19.0,0.0
+2018,4,Martinsville,19.0,6.0,21.0,Johnny Sauter,Allegiant Airlines (Maury Gallagher),Chevrolet,249.0,running,0.0,33.0,0.0
+2018,4,Martinsville,20.0,5.0,52.0,Stewart Friesen,Halmar Intl. / We Build America (Chris Larsen),Chevrolet,248.0,running,6.0,21.0,0.0
+2018,4,Martinsville,21.0,14.0,99.0,Tyler Matthews,Popeye's / BB&T Scott Stringfellow (Matthew Miller),Chevrolet,248.0,running,0.0,16.0,0.0
+2018,4,Martinsville,22.0,25.0,3.0,Jordan Anderson,Bommarito.com / Lucas Oil (Jordan Anderson),Chevrolet,248.0,running,0.0,15.0,0.0
+2018,4,Martinsville,23.0,22.0,83.0,Kyle Donahue,First Responder Racing (D.J. Copp),Chevrolet,234.0,electrical,0.0,14.0,0.0
+2018,4,Martinsville,24.0,24.0,15.0,Robby Lyons,Bubba Bear Sauce (Jay Robinson),Chevrolet,227.0,engine,0.0,13.0,0.0
+2018,4,Martinsville,25.0,26.0,33.0,Josh Reaume,R-Coin / Green Heart Partners (Josh Reaume),Chevrolet,227.0,running,0.0,12.0,0.0
+2018,4,Martinsville,26.0,10.0,2.0,Cody Coughlin,Jegs.com (Maury Gallagher),Chevrolet,225.0,running,0.0,11.0,0.0
+2018,4,Martinsville,27.0,21.0,22.0,Austin Wayne Self,Don't Mess With Texas / AM Tech. Solutions (Al Niece),Chevrolet,164.0,electrical,0.0,10.0,0.0
+2018,4,Martinsville,28.0,19.0,45.0,Justin Fontaine,ProMatic Automation / Superior Essex (Al Niece),Chevrolet,158.0,crash,0.0,9.0,0.0
+2018,4,Martinsville,29.0,31.0,10.0,Jennifer Jo Cobb,Driven2Honor.org (Jennifer Jo Cobb),Chevrolet,55.0,electrical,0.0,8.0,0.0
+2018,4,Martinsville,30.0,27.0,63.0,Kevin Donahue,First Responder Racing (Mike Mittler),Chevrolet,49.0,brakes,0.0,7.0,0.0
+2018,4,Martinsville,31.0,30.0,6.0,Norm Benning,Zomongo / H&H Transport (Norm Benning),Chevrolet,35.0,too slow,0.0,6.0,0.0
+2018,4,Martinsville,32.0,32.0,1.0,Mike Senica,Pennsylvania Power Products (Tracy Lowe),Chevrolet,8.0,parked,0.0,5.0,0.0
+2018,5,Dover,1.0,2.0,21.0,Johnny Sauter,Allegiant Airlines (Maury Gallagher),Chevrolet,210.0,running,137.0,57.0,6.0
+2018,5,Dover,2.0,10.0,88.0,Matt Crafton,Chi-Chi's / Menards (Duke Thorson),Ford,210.0,running,0.0,47.0,0.0
+2018,5,Dover,3.0,4.0,24.0,Justin Haley,Fraternal Order of Eagles (Maury Gallagher),Chevrolet,210.0,running,0.0,51.0,0.0
+2018,5,Dover,4.0,9.0,54.0,David Gilliland,Frontline Enterprises / Crosley Brands (David Gilliland),Toyota,210.0,running,0.0,38.0,0.0
+2018,5,Dover,5.0,17.0,51.0,Harrison Burton,DEX Imaging (Kyle Busch),Toyota,210.0,running,0.0,36.0,0.0
+2018,5,Dover,6.0,18.0,2.0,Cody Coughlin,Jegs.com (Maury Gallagher),Chevrolet,210.0,running,0.0,31.0,0.0
+2018,5,Dover,7.0,16.0,8.0,Joe Nemechek,Acme Grocery Store / Hatfield / Progresso (Joe Nemechek),Chevrolet,210.0,running,0.0,32.0,0.0
+2018,5,Dover,8.0,8.0,41.0,Ben Rhodes,Alpha Energy Solutions (Duke Thorson),Ford,210.0,running,0.0,39.0,0.0
+2018,5,Dover,9.0,5.0,97.0,Jesse Little,PFC Brakes / Penske Racing Shocks (Jason Little),Ford,210.0,running,2.0,40.0,0.0
+2018,5,Dover,10.0,3.0,4.0,Todd Gilliland,Pedigree (Kyle Busch),Toyota,209.0,running,0.0,39.0,0.0
+2018,5,Dover,11.0,15.0,13.0,Myatt Snider,Louisiana Hot Sauce (Duke Thorson),Ford,209.0,running,0.0,27.0,0.0
+2018,5,Dover,12.0,12.0,16.0,Brett Moffitt,AISIN Group (Shigeaki Hattori),Toyota,209.0,running,0.0,25.0,0.0
+2018,5,Dover,13.0,11.0,25.0,Dalton Sargeant,Performance Plus Motor Oil (Maury Gallagher),Chevrolet,209.0,running,0.0,24.0,0.0
+2018,5,Dover,14.0,13.0,98.0,Grant Enfinger,Champion Power Equipment / Curb Records (Mike Curb),Ford,208.0,running,0.0,23.0,0.0
+2018,5,Dover,15.0,21.0,22.0,Austin Wayne Self,Flying Circle / Don't Mess With Texas (Al Niece),Chevrolet,208.0,running,0.0,22.0,0.0
+2018,5,Dover,16.0,20.0,20.0,Tanner Thorson,Go Share (Randy Young),Chevrolet,207.0,running,0.0,21.0,0.0
+2018,5,Dover,17.0,24.0,49.0,Wendell Chavous,SobrietyNation.org (Jay Robinson),Chevrolet,206.0,running,0.0,20.0,0.0
+2018,5,Dover,18.0,19.0,3.0,Jordan Anderson,Bommarito.com / Knight Fire Protection (Jordan Anderson),Chevrolet,206.0,running,0.0,19.0,0.0
+2018,5,Dover,19.0,22.0,45.0,Justin Fontaine,ProMatic Automation / Superior Essex (Al Niece),Chevrolet,204.0,running,0.0,18.0,0.0
+2018,5,Dover,20.0,1.0,18.0,Noah Gragson,Safelite Auto Glass (Kyle Busch),Toyota,198.0,crash,60.0,34.0,1.0
+2018,5,Dover,21.0,23.0,7.0,Korbin Forrister,All Out Motorsports,Toyota,197.0,running,0.0,16.0,0.0
+2018,5,Dover,22.0,30.0,10.0,Jennifer Jo Cobb,Driven2Honor.org (Jennifer Jo Cobb),Chevrolet,194.0,running,0.0,15.0,0.0
+2018,5,Dover,23.0,7.0,52.0,Stewart Friesen,Halmar Intl. / We Build America (Chris Larsen),Chevrolet,153.0,crash,0.0,15.0,0.0
+2018,5,Dover,24.0,28.0,74.0,Mike Harmon,Horizon Transport / Chill (Mike Harmon),Chevrolet,129.0,suspension,0.0,0.0,0.0
+2018,5,Dover,25.0,27.0,33.0,Josh Reaume,JC Racing / Green Heart Partners (Josh Reaume),Toyota,124.0,parked,0.0,12.0,0.0
+2018,5,Dover,26.0,25.0,83.0,Bayley Currey,FR8 Auctions (D.J. Copp),Chevrolet,122.0,suspension,0.0,11.0,0.0
+2018,5,Dover,27.0,31.0,6.0,Norm Benning,Zomongo (Norm Benning),Chevrolet,120.0,parked,0.0,10.0,0.0
+2018,5,Dover,28.0,6.0,75.0,Parker Kligerman,Utz Snacks / Food Country USA (Charlie Henderson),Chevrolet,86.0,oil cooler,11.0,9.0,0.0
+2018,5,Dover,29.0,29.0,63.0,Camden Murphy,MB Motorsports (Mike Mittler),Chevrolet,58.0,vibration,0.0,8.0,0.0
+2018,5,Dover,30.0,26.0,15.0,Reed Sorenson,Premium Motorsports (Jay Robinson),Chevrolet,15.0,vibration,0.0,0.0,0.0
+2018,5,Dover,31.0,14.0,2.0,Austin Hill,United Rentals (Randy Young),Chevrolet,13.0,crash,0.0,6.0,0.0
+2018,5,Dover,32.0,32.0,50.0,Todd Peck,Fluidyne (Mark Beaver),Chevrolet,7.0,rear end,0.0,5.0,0.0
+2018,6,Kansas,1.0,1.0,18.0,Noah Gragson,Safelite Auto Glass (Kyle Busch),Toyota,167.0,running,128.0,60.0,7.0
+2018,6,Kansas,2.0,6.0,4.0,Kyle Busch,Cessna / Beechcraft (Kyle Busch),Toyota,167.0,running,1.0,0.0,0.0
+2018,6,Kansas,3.0,8.0,52.0,Stewart Friesen,Halmar Intl. / We Build America (Chris Larsen),Chevrolet,167.0,running,6.0,41.0,0.0
+2018,6,Kansas,4.0,14.0,8.0,John H. Nemechek,Fleetwing / D.A.B. Constructors (Joe Nemechek),Chevrolet,167.0,running,0.0,0.0,0.0
+2018,6,Kansas,5.0,5.0,21.0,Johnny Sauter,ISM Connect (Maury Gallagher),Chevrolet,167.0,running,14.0,37.0,0.0
+2018,6,Kansas,6.0,3.0,88.0,Matt Crafton,Flex Seal / Menards (Duke Thorson),Ford,167.0,running,4.0,36.0,0.0
+2018,6,Kansas,7.0,2.0,2.0,Cody Coughlin,Jegs.com (Maury Gallagher),Chevrolet,167.0,running,0.0,31.0,0.0
+2018,6,Kansas,8.0,4.0,98.0,Grant Enfinger,Protect The Harvest / Curb Records (Mike Curb),Ford,167.0,running,0.0,39.0,0.0
+2018,6,Kansas,9.0,13.0,51.0,Brandon Jones,Lyons Industries / Menards (Kyle Busch),Toyota,167.0,running,0.0,0.0,0.0
+2018,6,Kansas,10.0,12.0,24.0,Justin Haley,Fraternal Order of Eagles (Maury Gallagher),Chevrolet,166.0,running,4.0,27.0,0.0
+2018,6,Kansas,11.0,11.0,25.0,Dalton Sargeant,Performance Plus Motor Oil (Maury Gallagher),Chevrolet,165.0,running,0.0,26.0,0.0
+2018,6,Kansas,12.0,9.0,2.0,Austin Hill,United Rentals (Randy Young),Chevrolet,165.0,running,0.0,25.0,0.0
+2018,6,Kansas,13.0,19.0,22.0,Austin Wayne Self,Don't Mess With Texas / AM Tech. Solutions (Al Niece),Chevrolet,164.0,running,0.0,24.0,0.0
+2018,6,Kansas,14.0,15.0,20.0,Bubba Wallace,Andy's Frozen Custard (Randy Young),Chevrolet,164.0,running,0.0,0.0,0.0
+2018,6,Kansas,15.0,32.0,13.0,Myatt Snider,Louisiana Hot Sauce (Duke Thorson),Ford,164.0,running,9.0,22.0,0.0
+2018,6,Kansas,16.0,10.0,16.0,Brett Moffitt,Concrete Supply / Central Plains Supply (Shigeaki Hattori),Toyota,163.0,running,0.0,38.0,0.0
+2018,6,Kansas,17.0,17.0,45.0,Justin Fontaine,ProMatic Automation / Superior Essex (Al Niece),Chevrolet,163.0,running,0.0,20.0,0.0
+2018,6,Kansas,18.0,7.0,41.0,Ben Rhodes,Alpha Energy Solutions (Duke Thorson),Ford,162.0,running,1.0,26.0,0.0
+2018,6,Kansas,19.0,16.0,54.0,Bo LeMastus,Crosley Brands / DGR-Crosley (David Gilliland),Toyota,160.0,running,0.0,18.0,0.0
+2018,6,Kansas,20.0,31.0,83.0,Kyle Donahue,First Responder Racing (D.J. Copp),Chevrolet,159.0,running,0.0,17.0,0.0
+2018,6,Kansas,21.0,25.0,33.0,Josh Reaume,Colonial Countertops (Josh Reaume),Toyota,158.0,running,0.0,16.0,0.0
+2018,6,Kansas,22.0,29.0,10.0,Jennifer Jo Cobb,Think Realty / Mark One (Jennifer Jo Cobb),Chevrolet,157.0,running,0.0,15.0,0.0
+2018,6,Kansas,23.0,28.0,6.0,Norm Benning,Zomongo (Norm Benning),Chevrolet,157.0,running,0.0,14.0,0.0
+2018,6,Kansas,24.0,30.0,74.0,Mike Harmon,Horizon Transport (Mike Harmon),Chevrolet,146.0,oil leak,0.0,0.0,0.0
+2018,6,Kansas,25.0,21.0,3.0,Jordan Anderson,Bommarito Automotive Group (Jordan Anderson),Chevrolet,139.0,running,0.0,12.0,0.0
+2018,6,Kansas,26.0,27.0,15.0,Robby Lyons,Finke Brothers / Sunwest Construction (Jay Robinson),Chevrolet,139.0,running,0.0,11.0,0.0
+2018,6,Kansas,27.0,18.0,49.0,Wendell Chavous,SobrietyNation.org (Jay Robinson),Chevrolet,131.0,suspension,0.0,10.0,0.0
+2018,6,Kansas,28.0,26.0,50.0,Jamie Mosley,Crossbar E-Cigarettes (Mark Beaver),Chevrolet,66.0,overheating,0.0,9.0,0.0
+2018,6,Kansas,29.0,24.0,36.0,Bayley Currey,Mittler Bros. (Mike Mittler),Chevrolet,30.0,transmission,0.0,8.0,0.0
+2018,6,Kansas,30.0,22.0,87.0,Joe Nemechek,Fleetwing (Joe Nemechek),Chevrolet,27.0,overheating,0.0,7.0,0.0
+2018,6,Kansas,31.0,23.0,0.0,Joey Gase,Driven2Honor (Jennifer Jo Cobb),Chevrolet,6.0,electrical,0.0,0.0,0.0
+2018,6,Kansas,32.0,20.0,63.0,Kevin Donahue,First Responder Racing (Mike Mittler),Chevrolet,0.0,transmission,0.0,5.0,0.0
+2018,7,Charlotte,1.0,1.0,21.0,Johnny Sauter,ISM Connect (Maury Gallagher),Chevrolet,134.0,running,71.0,54.0,5.0
+2018,7,Charlotte,2.0,4.0,51.0,Kyle Busch,Cessna / Beechcraft (Kyle Busch),Toyota,134.0,running,0.0,0.0,0.0
+2018,7,Charlotte,3.0,28.0,46.0,Brandon Jones,Mobil 1 (Kyle Busch),Toyota,134.0,running,0.0,0.0,0.0
+2018,7,Charlotte,4.0,6.0,16.0,Brett Moffitt,Ibaraki Toyopet (Shigeaki Hattori),Toyota,134.0,running,28.0,51.0,1.0
+2018,7,Charlotte,5.0,7.0,41.0,Ben Rhodes,Alpha Energy Solutions (Duke Thorson),Ford,134.0,running,0.0,37.0,0.0
+2018,7,Charlotte,6.0,10.0,52.0,Stewart Friesen,Halmar Intl. / We Build America (Chris Larsen),Chevrolet,134.0,running,0.0,31.0,0.0
+2018,7,Charlotte,7.0,27.0,75.0,Parker Kligerman,Food Country USA (Charlie Henderson),Chevrolet,134.0,running,0.0,34.0,0.0
+2018,7,Charlotte,8.0,2.0,18.0,Noah Gragson,Safelite Auto Glass (Kyle Busch),Toyota,134.0,running,13.0,30.0,0.0
+2018,7,Charlotte,9.0,9.0,8.0,John H. Nemechek,Fleetwing / D.A.B. Constructors (Joe Nemechek),Chevrolet,134.0,running,21.0,0.0,0.0
+2018,7,Charlotte,10.0,3.0,4.0,Todd Gilliland,Pedigree (Kyle Busch),Toyota,134.0,running,0.0,37.0,0.0
+2018,7,Charlotte,11.0,8.0,88.0,Matt Crafton,Mold Armor / Menards (Duke Thorson),Ford,134.0,running,0.0,32.0,0.0
+2018,7,Charlotte,12.0,5.0,98.0,Grant Enfinger,Champion Power Equipment / Curb Records (Mike Curb),Ford,134.0,running,0.0,25.0,0.0
+2018,7,Charlotte,13.0,14.0,54.0,Chris Eggleston,GlobeSprinkler.com / H2O Fire Protection (David Gilliland),Toyota,134.0,running,0.0,24.0,0.0
+2018,7,Charlotte,14.0,11.0,24.0,Justin Haley,Fraternal Order of Eagles (Maury Gallagher),Chevrolet,134.0,running,0.0,35.0,0.0
+2018,7,Charlotte,15.0,13.0,13.0,Myatt Snider,Century Container / Louisiana Hot Sauce (Duke Thorson),Ford,134.0,running,0.0,22.0,0.0
+2018,7,Charlotte,16.0,24.0,97.0,Jesse Little,Circle Track Warehouse (Jason Little),Ford,134.0,running,0.0,22.0,0.0
+2018,7,Charlotte,17.0,15.0,2.0,Cody Coughlin,Jegs.com (Maury Gallagher),Chevrolet,134.0,running,0.0,20.0,0.0
+2018,7,Charlotte,18.0,17.0,2.0,Austin Hill,United Rentals (Randy Young),Chevrolet,134.0,running,0.0,19.0,0.0
+2018,7,Charlotte,19.0,12.0,25.0,Dalton Sargeant,Performance Plus Motor Oil (Maury Gallagher),Chevrolet,134.0,running,0.0,25.0,0.0
+2018,7,Charlotte,20.0,21.0,3.0,Jordan Anderson,Bommarito / Lucas Oil (Jordan Anderson),Chevrolet,134.0,running,1.0,17.0,0.0
+2018,7,Charlotte,21.0,16.0,20.0,Daniel Hemric,Overkill Motorsports (Randy Young),Chevrolet,134.0,running,0.0,0.0,0.0
+2018,7,Charlotte,22.0,20.0,49.0,Wendell Chavous,SobrietyNation.org (Jay Robinson),Chevrolet,134.0,running,0.0,15.0,0.0
+2018,7,Charlotte,23.0,23.0,15.0,Robby Lyons,Abaco Construction (Jay Robinson),Chevrolet,134.0,running,0.0,14.0,0.0
+2018,7,Charlotte,24.0,29.0,33.0,Josh Reaume,JC Racing (Josh Reaume),Toyota,132.0,running,0.0,13.0,0.0
+2018,7,Charlotte,25.0,22.0,83.0,Bayley Currey,Ingersoll Rand (D.J. Copp),Chevrolet,132.0,running,0.0,12.0,0.0
+2018,7,Charlotte,26.0,26.0,10.0,Jennifer Jo Cobb,Think Realty (Jennifer Jo Cobb),Chevrolet,121.0,running,0.0,11.0,0.0
+2018,7,Charlotte,27.0,19.0,22.0,Austin Wayne Self,Don't Mess With Texas / AM Tech. Solutions (Al Niece),Chevrolet,117.0,crash,0.0,10.0,0.0
+2018,7,Charlotte,28.0,30.0,50.0,Timmy Hill,Crossbar E-Cigarettes (Mark Beaver),Chevrolet,100.0,engine,0.0,0.0,0.0
+2018,7,Charlotte,29.0,31.0,74.0,Mike Harmon,Koolbox / Horizon Transport (Mike Harmon),Chevrolet,99.0,running,0.0,0.0,0.0
+2018,7,Charlotte,30.0,18.0,45.0,Justin Fontaine,ProMatic Automation / Superior Essex (Al Niece),Chevrolet,97.0,crash,0.0,7.0,0.0
+2018,7,Charlotte,31.0,25.0,6.0,Norm Benning,Zomongo / H&H Transport (Norm Benning),Chevrolet,55.0,crash,0.0,6.0,0.0
+2018,7,Charlotte,32.0,32.0,63.0,J.J. Yeley,FR8 Auctions (Mike Mittler),Chevrolet,21.0,transmission,0.0,0.0,0.0
+2018,8,Fort Worth,1.0,5.0,21.0,Johnny Sauter,ISM Connect (Maury Gallagher),Chevrolet,167.0,running,51.0,49.0,5.0
+2018,8,Fort Worth,2.0,1.0,52.0,Stewart Friesen,Halmar Intl. / We Build America (Chris Larsen),Chevrolet,167.0,running,13.0,54.0,1.0
+2018,8,Fort Worth,3.0,10.0,24.0,Justin Haley,Fraternal Order of Eagles (Maury Gallagher),Chevrolet,167.0,running,3.0,45.0,0.0
+2018,8,Fort Worth,4.0,8.0,98.0,Grant Enfinger,Protect The Harvest (Mike Curb),Ford,167.0,running,7.0,43.0,1.0
+2018,8,Fort Worth,5.0,9.0,88.0,Matt Crafton,Matador / Menards (Duke Thorson),Ford,167.0,running,0.0,42.0,0.0
+2018,8,Fort Worth,6.0,2.0,4.0,Todd Gilliland,Mobil 1 (Kyle Busch),Toyota,167.0,running,62.0,39.0,0.0
+2018,8,Fort Worth,7.0,20.0,20.0,Tyler Young,Texas Rig Equipment (Randy Young),Chevrolet,167.0,running,0.0,35.0,0.0
+2018,8,Fort Worth,8.0,14.0,2.0,Cody Coughlin,Jegs.com (Maury Gallagher),Chevrolet,167.0,running,0.0,35.0,0.0
+2018,8,Fort Worth,9.0,4.0,51.0,Spencer Davis,JBL / SiriusXM (Kyle Busch),Toyota,167.0,running,7.0,32.0,0.0
+2018,8,Fort Worth,10.0,3.0,18.0,Noah Gragson,Safelite Auto Glass (Kyle Busch),Toyota,167.0,running,19.0,31.0,0.0
+2018,8,Fort Worth,11.0,28.0,25.0,Dalton Sargeant,Performance Plus Motor Oil (Maury Gallagher),Chevrolet,167.0,running,0.0,26.0,0.0
+2018,8,Fort Worth,12.0,19.0,49.0,Wendell Chavous,SobrietyNation.org (Jay Robinson),Chevrolet,167.0,running,0.0,25.0,0.0
+2018,8,Fort Worth,13.0,22.0,2.0,Austin Hill,Ennis Steel Industries (Randy Young),Chevrolet,165.0,running,0.0,31.0,0.0
+2018,8,Fort Worth,14.0,6.0,54.0,Chris Eggleston,GlobeSprinkler.com / H2O Fire Protection (David Gilliland),Toyota,165.0,running,4.0,23.0,0.0
+2018,8,Fort Worth,15.0,16.0,8.0,Joe Nemechek,Romco Equipment Co. (Joe Nemechek),Chevrolet,165.0,running,0.0,22.0,0.0
+2018,8,Fort Worth,16.0,11.0,41.0,Ben Rhodes,Alpha Energy Solutions (Duke Thorson),Ford,164.0,running,1.0,21.0,0.0
+2018,8,Fort Worth,17.0,15.0,22.0,Austin Wayne Self,Go Texan (Al Niece),Chevrolet,162.0,running,0.0,25.0,0.0
+2018,8,Fort Worth,18.0,7.0,16.0,Brett Moffitt,Northland Foundations (Shigeaki Hattori),Toyota,158.0,running,0.0,19.0,0.0
+2018,8,Fort Worth,19.0,17.0,3.0,Jordan Anderson,Sefton Steel / Mark Martin Podcast (Jordan Anderson),Chevrolet,157.0,oil cooler,0.0,18.0,0.0
+2018,8,Fort Worth,20.0,25.0,68.0,Clay Greenfield,AMVETS Please Stand (Clay Greenfield),Chevrolet,157.0,running,0.0,17.0,0.0
+2018,8,Fort Worth,21.0,30.0,6.0,Norm Benning,Zomongo / H&H Transport (Norm Benning),Chevrolet,157.0,running,0.0,16.0,0.0
+2018,8,Fort Worth,22.0,21.0,7.0,Korbin Forrister,Now Matters More (All Out Motorsports),Toyota,155.0,running,0.0,15.0,0.0
+2018,8,Fort Worth,23.0,13.0,13.0,Myatt Snider,The Carolina Nut Co. (Duke Thorson),Ford,105.0,crash,0.0,25.0,0.0
+2018,8,Fort Worth,24.0,31.0,10.0,Jennifer Jo Cobb,Driven2Honor (Jennifer Jo Cobb),Chevrolet,102.0,crash,0.0,13.0,0.0
+2018,8,Fort Worth,25.0,23.0,33.0,Josh Reaume,Pit Barrel Cooker Co. (Josh Reaume),Toyota,79.0,engine,0.0,12.0,0.0
+2018,8,Fort Worth,26.0,12.0,17.0,Bo LeMastus,Crosley Brands (David Gilliland),Toyota,73.0,crash,0.0,12.0,0.0
+2018,8,Fort Worth,27.0,29.0,15.0,Reed Sorenson,Sunwest Construction (Jay Robinson),Chevrolet,15.0,overheating,0.0,0.0,0.0
+2018,8,Fort Worth,28.0,27.0,63.0,Kyle Donahue,First Responder Racing (Mike Mittler),Chevrolet,13.0,overheating,0.0,9.0,0.0
+2018,8,Fort Worth,29.0,26.0,83.0,Bayley Currey,FR8 Auctions (D.J. Copp),Chevrolet,11.0,crash,0.0,8.0,0.0
+2018,8,Fort Worth,30.0,18.0,45.0,Justin Fontaine,ProMatic Automation / Superior Essex (Al Niece),Chevrolet,6.0,crash,0.0,7.0,0.0
+2018,8,Fort Worth,31.0,24.0,0.0,Camden Murphy,Driven2Honor (Jennifer Jo Cobb),Chevrolet,4.0,electrical,0.0,6.0,0.0
+2018,8,Fort Worth,32.0,32.0,50.0,Todd Peck,Image Tech (Mark Beaver),Chevrolet,1.0,electrical,0.0,5.0,0.0
+2018,9,Iowa,1.0,16.0,16.0,Brett Moffitt,Destiny Homes (Shigeaki Hattori),Toyota,200.0,running,76.0,51.0,5.0
+2018,9,Iowa,2.0,3.0,18.0,Noah Gragson,Safelite Auto Glass (Kyle Busch),Toyota,200.0,running,7.0,47.0,0.0
+2018,9,Iowa,3.0,1.0,51.0,Harrison Burton,Morton Buildings (Kyle Busch),Toyota,200.0,running,30.0,47.0,0.0
+2018,9,Iowa,4.0,12.0,54.0,David Gilliland,Crosley Brands / DGR-Crosley (David Gilliland),Toyota,200.0,running,0.0,35.0,0.0
+2018,9,Iowa,5.0,7.0,21.0,Johnny Sauter,ISM Connect (Maury Gallagher),Chevrolet,200.0,running,0.0,41.0,0.0
+2018,9,Iowa,6.0,13.0,97.0,Jesse Little,JJL Motorsports (Jason Little),Ford,200.0,running,0.0,35.0,0.0
+2018,9,Iowa,7.0,14.0,2.0,Cody Coughlin,Jegs.com (Maury Gallagher),Chevrolet,200.0,running,0.0,30.0,0.0
+2018,9,Iowa,8.0,9.0,46.0,Christian Eckes,Mobil 1 (Kyle Busch),Toyota,200.0,running,4.0,30.0,0.0
+2018,9,Iowa,9.0,5.0,52.0,Stewart Friesen,Halmar Intl. / We Build America (Chris Larsen),Chevrolet,200.0,running,48.0,45.0,1.0
+2018,9,Iowa,10.0,17.0,13.0,Myatt Snider,The Carolina Nut Co. (Duke Thorson),Ford,200.0,running,0.0,33.0,0.0
+2018,9,Iowa,11.0,15.0,98.0,Grant Enfinger,Protect The Harvest (Mike Curb),Ford,200.0,running,0.0,26.0,0.0
+2018,9,Iowa,12.0,27.0,45.0,Justin Fontaine,ProMatic Automation / Superior Essex (Al Niece),Chevrolet,200.0,running,0.0,25.0,0.0
+2018,9,Iowa,13.0,22.0,20.0,Tanner Thorson,Go Share (Randy Young),Chevrolet,199.0,running,0.0,24.0,0.0
+2018,9,Iowa,14.0,18.0,2.0,Austin Hill,United Rentals (Randy Young),Chevrolet,199.0,running,0.0,23.0,0.0
+2018,9,Iowa,15.0,19.0,22.0,Austin Wayne Self,Go Texan (Al Niece),Chevrolet,199.0,running,0.0,22.0,0.0
+2018,9,Iowa,16.0,6.0,24.0,Justin Haley,Fraternal Order of Eagles (Maury Gallagher),Chevrolet,196.0,running,0.0,25.0,0.0
+2018,9,Iowa,17.0,11.0,41.0,Ben Rhodes,Alpha Energy Solutions (Duke Thorson),Ford,195.0,running,0.0,20.0,0.0
+2018,9,Iowa,18.0,26.0,4.0,Cory Roper,Preferred Industrial Contractors (Roper Racing),Ford,195.0,running,0.0,19.0,0.0
+2018,9,Iowa,19.0,10.0,25.0,Dalton Sargeant,Performance Plus Motor Oil (Maury Gallagher),Chevrolet,195.0,running,0.0,20.0,0.0
+2018,9,Iowa,20.0,30.0,6.0,Norm Benning,Zomongo / H&H Transport (Norm Benning),Chevrolet,194.0,running,0.0,17.0,0.0
+2018,9,Iowa,21.0,28.0,49.0,Wendell Chavous,SobrietyNation.org (Jay Robinson),Chevrolet,191.0,running,0.0,16.0,0.0
+2018,9,Iowa,22.0,31.0,10.0,Jennifer Jo Cobb,Driven2Honor (Jennifer Jo Cobb),Chevrolet,173.0,running,0.0,15.0,0.0
+2018,9,Iowa,23.0,23.0,3.0,Jordan Anderson,Bommarito Automotive Group (Jordan Anderson),Chevrolet,153.0,engine,0.0,14.0,0.0
+2018,9,Iowa,24.0,29.0,83.0,Bayley Currey,Fr8Auctions.com (D.J. Copp),Chevrolet,152.0,engine,0.0,13.0,0.0
+2018,9,Iowa,25.0,32.0,15.0,Bobby Reuse,WCIParts.com (Jay Robinson),Chevrolet,136.0,suspension,0.0,12.0,0.0
+2018,9,Iowa,26.0,2.0,88.0,Matt Crafton,Jack Links / Menards (Duke Thorson),Ford,135.0,crash,20.0,21.0,0.0
+2018,9,Iowa,27.0,8.0,8.0,John H. Nemechek,Fleetwing / D.A.B. Constructors (Joe Nemechek),Chevrolet,135.0,crash,15.0,0.0,0.0
+2018,9,Iowa,28.0,20.0,12.0,Reid Wilson,TruNorth (Randy Young),Chevrolet,109.0,overheating,0.0,9.0,0.0
+2018,9,Iowa,29.0,4.0,4.0,Todd Gilliland,JBL / SiriusXM (Kyle Busch),Toyota,102.0,crash,0.0,8.0,0.0
+2018,9,Iowa,30.0,24.0,50.0,Ross Chastain,VIP Racing Experience (Mark Beaver),Chevrolet,56.0,suspension,0.0,0.0,0.0
+2018,9,Iowa,31.0,21.0,87.0,Joe Nemechek,Romco Equipment / D.A.B. Constructors (Joe Nemechek),Chevrolet,50.0,brakes,0.0,6.0,0.0
+2018,9,Iowa,32.0,25.0,63.0,J.J. Yeley,Fr8Auctions.com (Mike Mittler),Chevrolet,19.0,brakes,0.0,0.0,0.0
+2018,10,Gateway,1.0,4.0,24.0,Justin Haley,Fraternal Order of Eagles (Maury Gallagher),Chevrolet,160.0,running,7.0,47.0,5.0
+2018,10,Gateway,2.0,8.0,4.0,Todd Gilliland,Royal Canin (Kyle Busch),Toyota,160.0,running,1.0,43.0,0.0
+2018,10,Gateway,3.0,13.0,21.0,Johnny Sauter,ISM Connect (Maury Gallagher),Chevrolet,160.0,running,0.0,45.0,0.0
+2018,10,Gateway,4.0,14.0,13.0,Myatt Snider,The Carolina Nut Co. (Duke Thorson),Ford,160.0,running,0.0,33.0,0.0
+2018,10,Gateway,5.0,10.0,54.0,Zane Smith,Crosley Brands / LaPaz Margarita Mix (David Gilliland),Toyota,160.0,running,0.0,32.0,0.0
+2018,10,Gateway,6.0,20.0,42.0,Chad Finley,Auto Value Service Centers / Strutmasters.com (Jeff Finley),Chevrolet,160.0,running,0.0,31.0,0.0
+2018,10,Gateway,7.0,9.0,97.0,Jesse Little,Rustic Rub Co. / JJL Motorsports (Jason Little),Ford,160.0,running,0.0,37.0,0.0
+2018,10,Gateway,8.0,17.0,51.0,Riley Herbst,Advance Auto Parts (Kyle Busch),Toyota,160.0,running,0.0,29.0,0.0
+2018,10,Gateway,9.0,12.0,2.0,Cody Coughlin,Jegs.com (Maury Gallagher),Chevrolet,160.0,running,0.0,28.0,0.0
+2018,10,Gateway,10.0,3.0,18.0,Noah Gragson,Safelite Auto Glass (Kyle Busch),Toyota,160.0,running,63.0,43.0,0.0
+2018,10,Gateway,11.0,19.0,2.0,Austin Hill,ARCO National Construction (Randy Young),Chevrolet,160.0,running,0.0,26.0,0.0
+2018,10,Gateway,12.0,24.0,63.0,Kevin Donahue,Mittler Bros Machine & Tool / Extreme Oil (Mike Mittler),Chevrolet,160.0,running,0.0,25.0,0.0
+2018,10,Gateway,13.0,16.0,52.0,Stewart Friesen,Halmar Intl. / We Build America (Chris Larsen),Chevrolet,160.0,running,0.0,27.0,0.0
+2018,10,Gateway,14.0,11.0,16.0,Brett Moffitt,AISIN Group (Shigeaki Hattori),Toyota,160.0,running,18.0,34.0,0.0
+2018,10,Gateway,15.0,22.0,49.0,Wendell Chavous,SobrietyNation.org (Jay Robinson),Chevrolet,160.0,running,0.0,22.0,0.0
+2018,10,Gateway,16.0,25.0,22.0,Austin Wayne Self,Go Texan (Al Niece),Chevrolet,160.0,running,0.0,21.0,0.0
+2018,10,Gateway,17.0,30.0,83.0,Tyler Matthews,First Responder Racing (D.J. Copp),Chevrolet,160.0,running,0.0,20.0,0.0
+2018,10,Gateway,18.0,32.0,33.0,Josh Reaume,Colonial Countertops (Josh Reaume),Chevrolet,159.0,running,0.0,19.0,0.0
+2018,10,Gateway,19.0,5.0,41.0,Ben Rhodes,Alpha Energy Solutions (Duke Thorson),Ford,157.0,running,0.0,18.0,0.0
+2018,10,Gateway,20.0,6.0,88.0,Matt Crafton,Ideal Door / Menards (Duke Thorson),Ford,156.0,running,0.0,25.0,0.0
+2018,10,Gateway,21.0,1.0,98.0,Grant Enfinger,Champion Power Equipment (Mike Curb),Ford,153.0,running,36.0,29.0,1.0
+2018,10,Gateway,22.0,29.0,10.0,Jennifer Jo Cobb,Driven2Honor (Jennifer Jo Cobb),Chevrolet,148.0,running,0.0,15.0,0.0
+2018,10,Gateway,23.0,26.0,3.0,Jordan Anderson,Bommarito / Lucas Oil (Jordan Anderson),Chevrolet,144.0,running,0.0,14.0,0.0
+2018,10,Gateway,24.0,31.0,6.0,Norm Benning,Zomongo / H&H Transport (Norm Benning),Chevrolet,121.0,clutch,0.0,13.0,0.0
+2018,10,Gateway,25.0,7.0,8.0,John H. Nemechek,Toenjes Brick Contracting / D.A.B. (Joe Nemechek),Chevrolet,113.0,oil leak,1.0,0.0,0.0
+2018,10,Gateway,26.0,21.0,45.0,Justin Fontaine,ProMatic Automation / Superior Essex (Al Niece),Chevrolet,113.0,crash,0.0,11.0,0.0
+2018,10,Gateway,27.0,15.0,20.0,Tate Fogleman,Overkill Motorsports (Randy Young),Chevrolet,113.0,crash,0.0,10.0,0.0
+2018,10,Gateway,28.0,2.0,46.0,Christian Eckes,Mobil 1 (Kyle Busch),Toyota,76.0,crash,34.0,23.0,1.0
+2018,10,Gateway,29.0,23.0,50.0,Ross Chastain,VIP Racing Experience (Mark Beaver),Chevrolet,43.0,vibration,0.0,0.0,0.0
+2018,10,Gateway,30.0,18.0,25.0,Dalton Sargeant,Performance Plus Motor Oil (Maury Gallagher),Chevrolet,31.0,crash,0.0,7.0,0.0
+2018,10,Gateway,31.0,28.0,15.0,Bryant Barnhill,WCIParts.com (Jay Robinson),Chevrolet,5.0,engine,0.0,6.0,0.0
+2018,10,Gateway,32.0,27.0,87.0,Joe Nemechek,Fleetwing / D.A.B. Constructors (Joe Nemechek),Chevrolet,0.0,electrical,0.0,5.0,0.0
+2018,11,Chicago,1.0,6.0,16.0,Brett Moffitt,Fr8Auctions.com (Shigeaki Hattori),Toyota,150.0,running,17.0,55.0,5.0
+2018,11,Chicago,2.0,9.0,41.0,Ben Rhodes,Alpha Energy Solutions (Duke Thorson),Ford,150.0,running,0.0,40.0,0.0
+2018,11,Chicago,3.0,7.0,21.0,Johnny Sauter,ISM Connect (Maury Gallagher),Chevrolet,150.0,running,0.0,44.0,0.0
+2018,11,Chicago,4.0,1.0,18.0,Noah Gragson,Safelite Auto Glass (Kyle Busch),Toyota,150.0,running,42.0,52.0,1.0
+2018,11,Chicago,5.0,16.0,51.0,Brandon Jones,American Standard / Eljer / Menards (Kyle Busch),Toyota,150.0,running,0.0,0.0,0.0
+2018,11,Chicago,6.0,10.0,24.0,Justin Haley,Fraternal Order of Eagles (Maury Gallagher),Chevrolet,150.0,running,0.0,37.0,0.0
+2018,11,Chicago,7.0,3.0,8.0,John H. Nemechek,Essentia Water (Joe Nemechek),Chevrolet,150.0,running,64.0,0.0,0.0
+2018,11,Chicago,8.0,13.0,98.0,Grant Enfinger,Champion Power Equipment / Curb Records (Mike Curb),Ford,150.0,running,0.0,30.0,0.0
+2018,11,Chicago,9.0,14.0,2.0,Austin Hill,Young's Building Systems / Randco (Randy Young),Chevrolet,150.0,running,0.0,28.0,0.0
+2018,11,Chicago,10.0,11.0,13.0,Myatt Snider,Century Container (Duke Thorson),Ford,149.0,running,0.0,27.0,0.0
+2018,11,Chicago,11.0,8.0,88.0,Matt Crafton,Shasta / Menards (Duke Thorson),Ford,149.0,running,0.0,31.0,0.0
+2018,11,Chicago,12.0,12.0,2.0,Cody Coughlin,Jegs.com (Maury Gallagher),Chevrolet,149.0,running,0.0,28.0,0.0
+2018,11,Chicago,13.0,15.0,22.0,Austin Wayne Self,Go Texan (Al Niece),Chevrolet,149.0,running,0.0,24.0,0.0
+2018,11,Chicago,14.0,19.0,45.0,Justin Fontaine,ProMatic Automation / Superior Essex (Al Niece),Chevrolet,149.0,running,0.0,23.0,0.0
+2018,11,Chicago,15.0,18.0,54.0,Bo LeMastus,Crosley Brands / DGR-Crosley (David Gilliland),Toyota,149.0,running,0.0,22.0,0.0
+2018,11,Chicago,16.0,4.0,4.0,Todd Gilliland,Mobil 1 (Kyle Busch),Toyota,148.0,running,0.0,27.0,0.0
+2018,11,Chicago,17.0,26.0,3.0,Jordan Anderson,Bommarito Automotive Group (Jordan Anderson),Chevrolet,148.0,running,0.0,20.0,0.0
+2018,11,Chicago,18.0,20.0,7.0,Korbin Forrister,Now Matters More (All Out Motorsports),Toyota,148.0,running,2.0,19.0,0.0
+2018,11,Chicago,19.0,5.0,52.0,Stewart Friesen,Halmar Intl. / We Build America (Chris Larsen),Chevrolet,148.0,running,0.0,33.0,0.0
+2018,11,Chicago,20.0,2.0,25.0,Dalton Sargeant,Performance Plus Motor Oil (Maury Gallagher),Chevrolet,147.0,running,24.0,24.0,0.0
+2018,11,Chicago,21.0,22.0,33.0,Josh Reaume,Pit Barrel Cooker Co. (Josh Reaume),Toyota,147.0,running,0.0,16.0,0.0
+2018,11,Chicago,22.0,32.0,49.0,Wendell Chavous,SobrietyNation.org (Jay Robinson),Chevrolet,146.0,running,0.0,15.0,0.0
+2018,11,Chicago,23.0,21.0,20.0,Max Tullman,Yurpal.com (Randy Young),Chevrolet,146.0,running,0.0,14.0,0.0
+2018,11,Chicago,24.0,29.0,10.0,Jennifer Jo Cobb,Driven2Honor (Jennifer Jo Cobb),Chevrolet,138.0,running,1.0,13.0,0.0
+2018,11,Chicago,25.0,30.0,50.0,Brian Kaltreider,Image Tech (Mark Beaver),Chevrolet,98.0,suspension,0.0,12.0,0.0
+2018,11,Chicago,26.0,17.0,15.0,Ross Chastain,Premium Motorsports (Jay Robinson),Chevrolet,51.0,crash,0.0,0.0,0.0
+2018,11,Chicago,27.0,25.0,83.0,Bayley Currey,D.J. Copp,Chevrolet,45.0,fuel pump,0.0,10.0,0.0
+2018,11,Chicago,28.0,23.0,87.0,Joe Nemechek,Fleetwing / D.A.B. Constructors (Joe Nemechek),Chevrolet,29.0,fuel pump,0.0,9.0,0.0
+2018,11,Chicago,29.0,27.0,63.0,J.J. Yeley,Combat Flags (Mike Mittler),Chevrolet,22.0,vibration,0.0,0.0,0.0
+2018,11,Chicago,30.0,24.0,0.0,Camden Murphy,Driven2Honor (Jennifer Jo Cobb),Chevrolet,11.0,suspension,0.0,7.0,0.0
+2018,11,Chicago,31.0,31.0,6.0,Norm Benning,Zomongo / H&H Transport (Norm Benning),Chevrolet,2.0,oil pump,0.0,6.0,0.0
+2018,11,Chicago,32.0,28.0,74.0,Mike Harmon,Troptions (Mike Harmon),Chevrolet,0.0,oil cooler,0.0,0.0,0.0
+2018,12,Kentucky,1.0,3.0,41.0,Ben Rhodes,The Carolina Nut Co. (Duke Thorson),Ford,150.0,running,38.0,58.0,6.0
+2018,12,Kentucky,2.0,14.0,52.0,Stewart Friesen,Halmar Intl. / We Build America (Chris Larsen),Chevrolet,150.0,running,37.0,46.0,0.0
+2018,12,Kentucky,3.0,30.0,88.0,Matt Crafton,Great Lakes Wood Floors / Menards (Duke Thorson),Ford,150.0,running,0.0,41.0,0.0
+2018,12,Kentucky,4.0,6.0,51.0,Brandon Jones,SoleusAir / Menards (Kyle Busch),Toyota,150.0,running,0.0,0.0,0.0
+2018,12,Kentucky,5.0,17.0,8.0,John H. Nemechek,D.A.B. Constructors / Fleetwing (Joe Nemechek),Chevrolet,150.0,running,0.0,0.0,0.0
+2018,12,Kentucky,6.0,5.0,98.0,Grant Enfinger,Curb Records (Mike Curb),Ford,150.0,running,0.0,43.0,0.0
+2018,12,Kentucky,7.0,2.0,4.0,Todd Gilliland,Mobil 1 (Kyle Busch),Toyota,150.0,running,1.0,43.0,0.0
+2018,12,Kentucky,8.0,1.0,18.0,Noah Gragson,Safelite Auto Glass (Kyle Busch),Toyota,150.0,running,62.0,48.0,1.0
+2018,12,Kentucky,9.0,9.0,25.0,Dalton Sargeant,Performance Plus Motor Oil (Maury Gallagher),Chevrolet,150.0,running,0.0,29.0,0.0
+2018,12,Kentucky,10.0,10.0,24.0,Justin Haley,Fraternal Order of Eagles (Maury Gallagher),Chevrolet,150.0,running,0.0,31.0,0.0
+2018,12,Kentucky,11.0,4.0,17.0,Chris Eggleston,BlazeMaster Fire Protection Systems (David Gilliland),Toyota,149.0,running,0.0,26.0,0.0
+2018,12,Kentucky,12.0,11.0,2.0,Cody Coughlin,Jegs.com (Maury Gallagher),Chevrolet,149.0,running,0.0,25.0,0.0
+2018,12,Kentucky,13.0,15.0,7.0,Korbin Forrister,Now Matters More (All Out Motorsports),Toyota,149.0,running,0.0,24.0,0.0
+2018,12,Kentucky,14.0,18.0,22.0,Austin Wayne Self,Go Texan (Al Niece),Chevrolet,149.0,running,0.0,23.0,0.0
+2018,12,Kentucky,15.0,7.0,21.0,Johnny Sauter,ISM Connect (Maury Gallagher),Chevrolet,148.0,running,0.0,25.0,0.0
+2018,12,Kentucky,16.0,12.0,2.0,Austin Hill,Whitetail Heaven Outfitters (Randy Young),Chevrolet,148.0,running,0.0,21.0,0.0
+2018,12,Kentucky,17.0,19.0,45.0,Justin Fontaine,ProMatic Automation / Superior Essex (Al Niece),Chevrolet,148.0,running,0.0,20.0,0.0
+2018,12,Kentucky,18.0,13.0,16.0,Brett Moffitt,ADVICS / AISIN Group (Shigeaki Hattori),Toyota,148.0,running,0.0,19.0,0.0
+2018,12,Kentucky,19.0,20.0,3.0,Jordan Anderson,Bommarito Automotive Group (Jordan Anderson),Chevrolet,146.0,running,0.0,18.0,0.0
+2018,12,Kentucky,20.0,22.0,54.0,Bo LeMastus,Crosley Brands / DGR-Crosley (David Gilliland),Toyota,146.0,running,0.0,17.0,0.0
+2018,12,Kentucky,21.0,21.0,68.0,Clay Greenfield,AMVETS Please Stand (Clay Greenfield),Chevrolet,145.0,running,0.0,16.0,0.0
+2018,12,Kentucky,22.0,23.0,15.0,Robby Lyons,Sunwest Construction (Jay Robinson),Chevrolet,143.0,running,0.0,15.0,0.0
+2018,12,Kentucky,23.0,26.0,33.0,Josh Reaume,Colonial Countertops (Josh Reaume),Chevrolet,143.0,running,0.0,14.0,0.0
+2018,12,Kentucky,24.0,28.0,49.0,Wendell Chavous,SobrietyNation.org (Jay Robinson),Chevrolet,139.0,running,0.0,13.0,0.0
+2018,12,Kentucky,25.0,31.0,6.0,Norm Benning,Zomongo / H&H Transport (Norm Benning),Chevrolet,138.0,running,0.0,12.0,0.0
+2018,12,Kentucky,26.0,32.0,13.0,Myatt Snider,The Carolina Nut Co. (Duke Thorson),Ford,137.0,running,0.0,11.0,0.0
+2018,12,Kentucky,27.0,8.0,75.0,Parker Kligerman,Food Country USA (Charlie Henderson),Chevrolet,133.0,crash,12.0,13.0,0.0
+2018,12,Kentucky,28.0,16.0,20.0,Tate Fogleman,Randco (Randy Young),Chevrolet,103.0,suspension,0.0,9.0,0.0
+2018,12,Kentucky,29.0,29.0,10.0,Jennifer Jo Cobb,Driven2Honor (Jennifer Jo Cobb),Chevrolet,28.0,overheating,0.0,8.0,0.0
+2018,12,Kentucky,30.0,27.0,63.0,Bayley Currey,MB Motorsports (Mike Mittler),Chevrolet,22.0,vibration,0.0,7.0,0.0
+2018,12,Kentucky,31.0,25.0,0.0,Camden Murphy,Driven2Honor (Jennifer Jo Cobb),Chevrolet,11.0,electrical,0.0,6.0,0.0
+2018,12,Kentucky,32.0,24.0,83.0,Tyler Matthews,Accent Imaging (D.J. Copp),Chevrolet,1.0,crash,0.0,5.0,0.0
+2018,13,Eldora,1.0,3.0,27.0,Chase Briscoe,Ford (Duke Thorson),Ford,153.0,running,54.0,0.0,0.0
+2018,13,Eldora,2.0,9.0,98.0,Grant Enfinger,Protect The Harvest (Mike Curb),Ford,153.0,running,1.0,48.0,0.0
+2018,13,Eldora,3.0,5.0,52.0,Stewart Friesen,Halmar Intl. / We Build America (Chris Larsen),Chevrolet,153.0,running,1.0,35.0,0.0
+2018,13,Eldora,4.0,4.0,88.0,Matt Crafton,Menards / Ideal Door (Duke Thorson),Ford,153.0,running,0.0,40.0,0.0
+2018,13,Eldora,5.0,12.0,16.0,Brett Moffitt,iRacing (Shigeaki Hattori),Toyota,153.0,running,0.0,32.0,0.0
+2018,13,Eldora,6.0,27.0,18.0,Noah Gragson,Safelite Auto Glass (Kyle Busch),Toyota,153.0,running,0.0,31.0,0.0
+2018,13,Eldora,7.0,26.0,8.0,John H. Nemechek,Business Machines Company (Joe Nemechek),Chevrolet,153.0,running,0.0,0.0,0.0
+2018,13,Eldora,8.0,7.0,51.0,Logan Seavey,Mobil 1 (Kyle Busch),Toyota,153.0,running,53.0,46.0,0.0
+2018,13,Eldora,9.0,19.0,24.0,Justin Haley,Fraternal Order of Eagles (Maury Gallagher),Chevrolet,153.0,running,0.0,28.0,0.0
+2018,13,Eldora,10.0,14.0,83.0,Nick Hoffman,D.J. Copp,Chevrolet,153.0,running,0.0,27.0,0.0
+2018,13,Eldora,11.0,22.0,12.0,Ty Dillon,K&L Ready Mix (Randy Young),Chevrolet,153.0,running,0.0,0.0,0.0
+2018,13,Eldora,12.0,17.0,38.0,Max McLaughlin,Niece Equipment (Al Niece),Chevrolet,153.0,running,0.0,25.0,0.0
+2018,13,Eldora,13.0,13.0,17.0,Tyler Dippel,Hue Jackson Foundation / Caruso Logistics (David Gilliland),Toyota,153.0,running,0.0,30.0,0.0
+2018,13,Eldora,14.0,8.0,54.0,Chris Windom,Baldwin Brothers / Crosley Brands (David Gilliland),Toyota,153.0,running,0.0,36.0,0.0
+2018,13,Eldora,15.0,6.0,99.0,Sheldon Creed,United Rentals (Matthew Miller),Chevrolet,153.0,running,0.0,22.0,0.0
+2018,13,Eldora,16.0,29.0,21.0,Johnny Sauter,Allegiant (Maury Gallagher),Chevrolet,153.0,running,0.0,21.0,0.0
+2018,13,Eldora,17.0,25.0,34.0,Jeffrey Abbey,Don Wilde Racecraft (Josh Reaume),Chevrolet,153.0,running,0.0,20.0,0.0
+2018,13,Eldora,18.0,11.0,22.0,Austin Wayne Self,Go Texan (Al Niece),Chevrolet,153.0,running,0.0,27.0,0.0
+2018,13,Eldora,19.0,28.0,20.0,Tanner Thorson,Ohio Logistics (Randy Young),Chevrolet,153.0,running,0.0,18.0,0.0
+2018,13,Eldora,20.0,15.0,13.0,Myatt Snider,Drug Mart / Louisiana Hot Sauce (Duke Thorson),Ford,153.0,running,0.0,20.0,0.0
+2018,13,Eldora,21.0,21.0,2.0,Austin Hill,United Rentals (Randy Young),Chevrolet,153.0,running,0.0,18.0,0.0
+2018,13,Eldora,22.0,2.0,4.0,Todd Gilliland,JBL / SiriusXM (Kyle Busch),Toyota,153.0,running,0.0,20.0,0.0
+2018,13,Eldora,23.0,31.0,49.0,Wendell Chavous,SobrietyNation.org (Jay Robinson),Chevrolet,153.0,running,0.0,14.0,0.0
+2018,13,Eldora,24.0,20.0,15.0,J.R. Heffner,A. Colarusso / Upstate Utilities (Jay Robinson),Chevrolet,152.0,running,0.0,13.0,0.0
+2018,13,Eldora,25.0,30.0,45.0,Justin Fontaine,ProMatic Automation / Superior Essex (Al Niece),Chevrolet,152.0,running,0.0,12.0,0.0
+2018,13,Eldora,26.0,16.0,80.0,Justin Shipley,Roger's (Tracy Wallace),Ford,151.0,running,0.0,11.0,0.0
+2018,13,Eldora,27.0,32.0,25.0,Dalton Sargeant,Performance Plus Motor Oil (Maury Gallagher),Chevrolet,151.0,running,0.0,10.0,0.0
+2018,13,Eldora,28.0,24.0,2.0,Cody Coughlin,Coughlin Chevrolet (Maury Gallagher),Chevrolet,150.0,running,0.0,9.0,0.0
+2018,13,Eldora,29.0,1.0,41.0,Ben Rhodes,The Carolina Nut Co. (Duke Thorson),Ford,150.0,running,44.0,18.0,1.0
+2018,13,Eldora,30.0,10.0,3.0,Ryan Newman,Ryan Newman VR Experience / MotoShield Pro (Jordan Anderson),Chevrolet,149.0,running,0.0,0.0,0.0
+2018,13,Eldora,31.0,23.0,63.0,Kyle Strickler,G-Style Transportation / Cedar Peaks (Mike Mittler),Chevrolet,145.0,crash,0.0,6.0,0.0
+2018,13,Eldora,32.0,18.0,6.0,Norm Benning,Zomongo / H&H Transport (Norm Benning),Chevrolet,144.0,crash,0.0,5.0,0.0
+2018,14,Pocono,1.0,1.0,51.0,Kyle Busch,Cessna / Beechcraft (Kyle Busch),Toyota,60.0,running,43.0,0.0,0.0
+2018,14,Pocono,2.0,31.0,18.0,Erik Jones,Safelite Auto Glass (Kyle Busch),Toyota,60.0,running,1.0,0.0,0.0
+2018,14,Pocono,3.0,4.0,25.0,Dalton Sargeant,Performance Plus Motor Oil (Maury Gallagher),Chevrolet,60.0,running,4.0,42.0,0.0
+2018,14,Pocono,4.0,12.0,52.0,Stewart Friesen,Halmar Intl. / We Build America (Chris Larsen),Chevrolet,60.0,running,4.0,46.0,1.0
+2018,14,Pocono,5.0,3.0,24.0,Justin Haley,Fraternal Order of Eagles (Maury Gallagher),Chevrolet,60.0,running,0.0,41.0,0.0
+2018,14,Pocono,6.0,5.0,98.0,Grant Enfinger,Champion Power Equipment / Curb Records (Mike Curb),Ford,60.0,running,0.0,46.0,0.0
+2018,14,Pocono,7.0,2.0,4.0,Todd Gilliland,Mobil 1 (Kyle Busch),Toyota,60.0,running,7.0,40.0,1.0
+2018,14,Pocono,8.0,7.0,21.0,Johnny Sauter,ISM Connect (Maury Gallagher),Chevrolet,60.0,running,0.0,33.0,0.0
+2018,14,Pocono,9.0,20.0,88.0,Matt Crafton,Goof Off / Menards (Duke Thorson),Ford,60.0,running,0.0,28.0,0.0
+2018,14,Pocono,10.0,6.0,8.0,Joe Nemechek,D.A.B. Constructors / Fleetwing (Joe Nemechek),Chevrolet,60.0,running,0.0,32.0,0.0
+2018,14,Pocono,11.0,14.0,41.0,Ben Rhodes,The Carolina Nut Co. (Duke Thorson),Ford,60.0,running,0.0,31.0,0.0
+2018,14,Pocono,12.0,8.0,13.0,Myatt Snider,Century Container (Duke Thorson),Ford,60.0,running,1.0,33.0,0.0
+2018,14,Pocono,13.0,9.0,2.0,Austin Hill,Young's Building Systems / Randco (Randy Young),Chevrolet,60.0,running,0.0,31.0,0.0
+2018,14,Pocono,14.0,10.0,2.0,Cody Coughlin,Jegs.com (Maury Gallagher),Chevrolet,60.0,running,0.0,32.0,0.0
+2018,14,Pocono,15.0,11.0,20.0,Tanner Thorson,Maestro's Classic (Randy Young),Chevrolet,60.0,running,0.0,26.0,0.0
+2018,14,Pocono,16.0,16.0,3.0,Jordan Anderson,Bommarito / Lucas Oil (Jordan Anderson),Chevrolet,60.0,running,0.0,24.0,0.0
+2018,14,Pocono,17.0,17.0,45.0,Justin Fontaine,ProMatic Automation / Superior Essex (Al Niece),Chevrolet,60.0,running,0.0,22.0,0.0
+2018,14,Pocono,18.0,13.0,22.0,Austin Wayne Self,Go Texan (Al Niece),Chevrolet,59.0,running,0.0,20.0,0.0
+2018,14,Pocono,19.0,23.0,33.0,Josh Reaume,Lehigh Valley Phantoms (Josh Reaume),Chevrolet,59.0,running,0.0,18.0,0.0
+2018,14,Pocono,20.0,15.0,54.0,Bo LeMastus,Crosley Brands / DGR-Crosley (David Gilliland),Toyota,59.0,running,0.0,17.0,0.0
+2018,14,Pocono,21.0,19.0,49.0,Wendell Chavous,Sobriety Nation (Jay Robinson),Chevrolet,59.0,running,0.0,16.0,0.0
+2018,14,Pocono,22.0,30.0,10.0,Jennifer Jo Cobb,Driven2Honor (Jennifer Jo Cobb),Chevrolet,59.0,running,0.0,15.0,0.0
+2018,14,Pocono,23.0,25.0,83.0,Todd Peck,Pulse Transport (D.J. Copp),Chevrolet,59.0,running,0.0,14.0,0.0
+2018,14,Pocono,24.0,26.0,74.0,B.J. McLeod,Horizon Transport (Mike Harmon),Chevrolet,59.0,running,0.0,0.0,0.0
+2018,14,Pocono,25.0,28.0,6.0,Norm Benning,Zomongo / H&H Transport (Norm Benning),Chevrolet,57.0,running,0.0,12.0,0.0
+2018,14,Pocono,26.0,32.0,16.0,Brett Moffitt,Toyota Tsusho (Shigeaki Hattori),Toyota,53.0,running,0.0,11.0,0.0
+2018,14,Pocono,27.0,29.0,50.0,Ray Ciccarelli,Image Tech / VIP Racing Experience (Mark Beaver),Chevrolet,31.0,vibration,0.0,10.0,0.0
+2018,14,Pocono,28.0,21.0,87.0,Timmy Hill,Toenjes Brick Contracting (Joe Nemechek),Chevrolet,23.0,vibration,0.0,0.0,0.0
+2018,14,Pocono,29.0,22.0,0.0,Camden Murphy,Driven2Honor (Jennifer Jo Cobb),Chevrolet,17.0,electrical,0.0,8.0,0.0
+2018,14,Pocono,30.0,18.0,15.0,Reed Sorenson,Premium Motorsports (Jay Robinson),Chevrolet,17.0,electrical,0.0,0.0,0.0
+2018,14,Pocono,31.0,24.0,34.0,J.J. Yeley,Steve King Foundation (Josh Reaume),Chevrolet,4.0,suspension,0.0,0.0,0.0
+2018,14,Pocono,32.0,27.0,63.0,Bayley Currey,G-Style Transportation / Cedar Peaks (Mike Mittler),Chevrolet,3.0,engine,0.0,5.0,0.0
+2018,15,Michigan,1.0,21.0,16.0,Brett Moffitt,Hino / AISIN Group (Shigeaki Hattori),Toyota,100.0,running,5.0,48.0,5.0
+2018,15,Michigan,2.0,7.0,21.0,Johnny Sauter,ISM Connect (Maury Gallagher),Chevrolet,100.0,running,16.0,38.0,0.0
+2018,15,Michigan,3.0,1.0,8.0,John H. Nemechek,Business Machines Co. / D.A.B. Constructors (Joe Nemechek),Chevrolet,100.0,running,6.0,0.0,0.0
+2018,15,Michigan,4.0,3.0,18.0,Noah Gragson,Safelite Auto Glass (Kyle Busch),Toyota,100.0,running,18.0,47.0,0.0
+2018,15,Michigan,5.0,2.0,4.0,Todd Gilliland,Mobil 1 (Kyle Busch),Toyota,100.0,running,8.0,43.0,0.0
+2018,15,Michigan,6.0,17.0,41.0,Ben Rhodes,The Carolina Nut Co. (Duke Thorson),Ford,100.0,running,0.0,36.0,0.0
+2018,15,Michigan,7.0,6.0,98.0,Grant Enfinger,Champion Power Equipment / Curb Records (Mike Curb),Ford,100.0,running,16.0,46.0,1.0
+2018,15,Michigan,8.0,5.0,52.0,Stewart Friesen,Halmar Intl. / We Build America (Chris Larsen),Chevrolet,100.0,running,12.0,41.0,1.0
+2018,15,Michigan,9.0,22.0,24.0,Justin Haley,Fraternal Order of Eagles (Maury Gallagher),Chevrolet,100.0,running,0.0,32.0,0.0
+2018,15,Michigan,10.0,11.0,88.0,Matt Crafton,Hormel Black Label Bacon / Menards (Duke Thorson),Ford,100.0,running,18.0,32.0,0.0
+2018,15,Michigan,11.0,20.0,22.0,Austin Wayne Self,AM Technical Solutions / Go Texan (Al Niece),Chevrolet,100.0,running,0.0,32.0,0.0
+2018,15,Michigan,12.0,16.0,25.0,Dalton Sargeant,Performance Plus Motor Oil (Maury Gallagher),Chevrolet,100.0,running,0.0,26.0,0.0
+2018,15,Michigan,13.0,18.0,3.0,Jordan Anderson,SponsorJordan.com / Bommarito.com (Jordan Anderson),Chevrolet,100.0,running,0.0,24.0,0.0
+2018,15,Michigan,14.0,9.0,2.0,Cody Coughlin,Jegs.com (Maury Gallagher),Chevrolet,100.0,running,0.0,24.0,0.0
+2018,15,Michigan,15.0,14.0,20.0,Tate Fogleman,Randco (Randy Young),Chevrolet,100.0,running,0.0,22.0,0.0
+2018,15,Michigan,16.0,23.0,49.0,Wendell Chavous,Sobriety Nation (Jay Robinson),Chevrolet,100.0,running,1.0,21.0,0.0
+2018,15,Michigan,17.0,13.0,17.0,Bo LeMastus,Crosley Brands (David Gilliland),Toyota,100.0,running,0.0,20.0,0.0
+2018,15,Michigan,18.0,8.0,13.0,Myatt Snider,Century Container (Duke Thorson),Ford,99.0,running,0.0,32.0,0.0
+2018,15,Michigan,19.0,10.0,2.0,Austin Hill,Young's Building Systems / Randco (Randy Young),Chevrolet,99.0,running,0.0,20.0,0.0
+2018,15,Michigan,20.0,30.0,33.0,Josh Reaume,Lodestar Guidance (Josh Reaume),Chevrolet,99.0,running,0.0,17.0,0.0
+2018,15,Michigan,21.0,31.0,6.0,Norm Benning,Zomongo / H&H Transport (Norm Benning),Chevrolet,97.0,running,0.0,16.0,0.0
+2018,15,Michigan,22.0,12.0,51.0,Spencer Davis,JBL / SiriusXM (Kyle Busch),Toyota,95.0,running,0.0,15.0,0.0
+2018,15,Michigan,23.0,26.0,10.0,Jennifer Jo Cobb,Driven2Honor (Jennifer Jo Cobb),Chevrolet,95.0,running,0.0,14.0,0.0
+2018,15,Michigan,24.0,24.0,7.0,Korbin Forrister,Now Matters More (All Out Motorsports),Toyota,94.0,electrical,0.0,13.0,0.0
+2018,15,Michigan,25.0,19.0,45.0,Justin Fontaine,ProMatic Automation / Superior Essex (Al Niece),Chevrolet,94.0,running,0.0,12.0,0.0
+2018,15,Michigan,26.0,29.0,15.0,Todd Peck,VIPRacingExperience.com (Jay Robinson),Chevrolet,56.0,overheating,0.0,11.0,0.0
+2018,15,Michigan,27.0,32.0,83.0,Bayley Currey,Nutriblade (D.J. Copp),Chevrolet,49.0,electrical,0.0,10.0,0.0
+2018,15,Michigan,28.0,28.0,50.0,Reed Sorenson,Sobriety Nation (Mark Beaver),Chevrolet,47.0,electrical,0.0,0.0,0.0
+2018,15,Michigan,29.0,27.0,34.0,B.J. McLeod,Reaume Brothers Racing (Josh Reaume),Chevrolet,41.0,fuel pump,0.0,0.0,0.0
+2018,15,Michigan,30.0,15.0,87.0,Joe Nemechek,Petron Plus (Joe Nemechek),Chevrolet,33.0,ignition,0.0,7.0,0.0
+2018,15,Michigan,31.0,4.0,54.0,Matt Mills,J.F. Electric / Crosley Brands (David Gilliland),Toyota,27.0,crash,0.0,0.0,0.0
+2018,15,Michigan,32.0,25.0,63.0,Timmy Hill,Fr8Auctions.com (Mike Mittler),Chevrolet,7.0,suspension,0.0,0.0,0.0
+2018,16,Bristol,1.0,4.0,21.0,Johnny Sauter,GMS Fabrication (Maury Gallagher),Chevrolet,200.0,running,58.0,58.0,5.0
+2018,16,Bristol,2.0,13.0,52.0,Stewart Friesen,Halmar Intl. / We Build America (Chris Larsen),Chevrolet,200.0,running,0.0,46.0,0.0
+2018,16,Bristol,3.0,3.0,8.0,John H. Nemechek,D.A.B. Constructors / Fleetwing (Joe Nemechek),Chevrolet,200.0,running,104.0,0.0,0.0
+2018,16,Bristol,4.0,6.0,75.0,Parker Kligerman,Food Country USA (Charlie Henderson),Chevrolet,200.0,running,0.0,43.0,0.0
+2018,16,Bristol,5.0,8.0,4.0,Todd Gilliland,Banfield Pet Hospital (Kyle Busch),Toyota,200.0,running,0.0,32.0,0.0
+2018,16,Bristol,6.0,11.0,24.0,Justin Haley,Fraternal Order of Eagles (Maury Gallagher),Chevrolet,200.0,running,0.0,35.0,0.0
+2018,16,Bristol,7.0,2.0,41.0,Ben Rhodes,FEI World Equestrian Games (Duke Thorson),Ford,200.0,running,0.0,40.0,0.0
+2018,16,Bristol,8.0,18.0,88.0,Matt Crafton,Great Lakes Wood Floors / Menards (Duke Thorson),Ford,200.0,running,0.0,29.0,0.0
+2018,16,Bristol,9.0,7.0,18.0,Noah Gragson,Safelite Auto Glass (Kyle Busch),Toyota,200.0,running,7.0,30.0,0.0
+2018,16,Bristol,10.0,5.0,98.0,Grant Enfinger,Champion Power Equipment (Mike Curb),Ford,200.0,running,0.0,37.0,0.0
+2018,16,Bristol,11.0,16.0,25.0,Dalton Sargeant,Performance Plus Motor Oil (Maury Gallagher),Chevrolet,200.0,running,0.0,27.0,0.0
+2018,16,Bristol,12.0,10.0,38.0,Ross Chastain,Black Rifle Coffee / Niece Equipment (Al Niece),Chevrolet,199.0,running,0.0,0.0,0.0
+2018,16,Bristol,13.0,24.0,22.0,Austin Wayne Self,AM Technical Solutions / Go Texan (Al Niece),Chevrolet,199.0,running,0.0,24.0,0.0
+2018,16,Bristol,14.0,19.0,20.0,Tanner Thorson,Ohio Logistics (Randy Young),Chevrolet,198.0,running,0.0,23.0,0.0
+2018,16,Bristol,15.0,20.0,54.0,Riley Herbst,Advance Auto Parts / NOS / ORCA (David Gilliland),Toyota,198.0,running,0.0,22.0,0.0
+2018,16,Bristol,16.0,25.0,9.0,Codie Rohrbaugh,Grant County Mulch (Codie Rohrbaugh),Chevrolet,198.0,running,0.0,21.0,0.0
+2018,16,Bristol,17.0,30.0,15.0,Stefan Parsons,Phoenix Construction (Jay Robinson),Chevrolet,198.0,running,0.0,20.0,0.0
+2018,16,Bristol,18.0,14.0,16.0,Brett Moffitt,Otics USA / Toyota Tsusho (Shigeaki Hattori),Toyota,198.0,running,0.0,27.0,0.0
+2018,16,Bristol,19.0,15.0,2.0,Cody Coughlin,Jegs.com (Maury Gallagher),Chevrolet,198.0,running,0.0,18.0,0.0
+2018,16,Bristol,20.0,21.0,68.0,Clay Greenfield,AMVETS Please Stand (Clay Greenfield),Chevrolet,197.0,running,0.0,17.0,0.0
+2018,16,Bristol,21.0,23.0,2.0,Austin Hill,Young's Building Systems / Randco (Randy Young),Chevrolet,197.0,running,0.0,16.0,0.0
+2018,16,Bristol,22.0,29.0,3.0,Jordan Anderson,Rusty's Off Road / Bommarito.com (Jordan Anderson),Chevrolet,197.0,running,0.0,15.0,0.0
+2018,16,Bristol,23.0,32.0,49.0,Wendell Chavous,Sobriety Nation (Jay Robinson),Chevrolet,196.0,running,0.0,14.0,0.0
+2018,16,Bristol,24.0,31.0,45.0,Justin Fontaine,ProMatic Automation / Superior Essex (Al Niece),Chevrolet,196.0,running,0.0,13.0,0.0
+2018,16,Bristol,25.0,26.0,4.0,Cory Roper,Preferred Industrial Contractors (Roper Racing),Ford,195.0,running,0.0,12.0,0.0
+2018,16,Bristol,26.0,9.0,97.0,Jesse Little,Wings Over North Georgia / Visit Kingsport (Jason Little),Ford,194.0,running,0.0,11.0,0.0
+2018,16,Bristol,27.0,27.0,7.0,Korbin Forrister,Now Matters More (All Out Motorsports),Toyota,188.0,running,0.0,10.0,0.0
+2018,16,Bristol,28.0,1.0,51.0,Christopher Bell,Hunt Brothers Pizza (Kyle Busch),Toyota,184.0,running,31.0,0.0,0.0
+2018,16,Bristol,29.0,17.0,13.0,Myatt Snider,The Carolina Nut Co. (Duke Thorson),Ford,161.0,power steering,0.0,8.0,0.0
+2018,16,Bristol,30.0,12.0,42.0,Chad Finley,Auto Value Certified Service Centers (Jeff Finley),Chevrolet,61.0,engine,0.0,7.0,0.0
+2018,16,Bristol,31.0,22.0,30.0,"Scott Lagasse, Jr.",On Point Motorsports (Steven Lane),Toyota,24.0,crash,0.0,0.0,0.0
+2018,16,Bristol,32.0,28.0,83.0,Bayley Currey,Chasco Constructors (D.J. Copp),Chevrolet,13.0,crash,0.0,5.0,0.0
+2018,17,Bowmanville,1.0,8.0,24.0,Justin Haley,Fraternal Order of Eagles (Maury Gallagher),Chevrolet,65.0,running,2.0,56.0,5.0
+2018,17,Bowmanville,2.0,7.0,8.0,John H. Nemechek,D.A.B. Constructors / Fleetwing (Joe Nemechek),Chevrolet,65.0,running,0.0,0.0,0.0
+2018,17,Bowmanville,3.0,17.0,16.0,Brett Moffitt,Don Valley North Toyota / Weins Canada (Shigeaki Hattori),Toyota,65.0,running,0.0,48.0,0.0
+2018,17,Bowmanville,4.0,5.0,25.0,Timothy Peters,Allegiant / ISM Connect (Maury Gallagher),Chevrolet,65.0,running,2.0,39.0,0.0
+2018,17,Bowmanville,5.0,4.0,88.0,Matt Crafton,Ideal Door / Menards (Duke Thorson),Ford,65.0,running,0.0,44.0,0.0
+2018,17,Bowmanville,6.0,6.0,21.0,Johnny Sauter,ISM Connect (Maury Gallagher),Chevrolet,65.0,running,9.0,39.0,0.0
+2018,17,Bowmanville,7.0,16.0,52.0,Stewart Friesen,Halmar Intl. / We Build America (Chris Larsen),Chevrolet,65.0,running,0.0,35.0,0.0
+2018,17,Bowmanville,8.0,9.0,2.0,Austin Hill,Young's Building Systems / Randco (Randy Young),Chevrolet,65.0,running,0.0,29.0,0.0
+2018,17,Bowmanville,9.0,2.0,18.0,Noah Gragson,Safelite Auto Glass (Kyle Busch),Toyota,65.0,running,35.0,48.0,2.0
+2018,17,Bowmanville,10.0,10.0,12.0,Alex Tagliani,RONA (Randy Young),Chevrolet,65.0,running,0.0,27.0,0.0
+2018,17,Bowmanville,11.0,15.0,4.0,Todd Gilliland,Frontline Enterprises (Kyle Busch),Toyota,65.0,running,11.0,26.0,0.0
+2018,17,Bowmanville,12.0,13.0,49.0,D.J. Kennington,APC Auto Parts (Jay Robinson),Chevrolet,65.0,running,0.0,26.0,0.0
+2018,17,Bowmanville,13.0,14.0,51.0,Harrison Burton,Hunt Brothers Pizza / Fields (Kyle Busch),Toyota,65.0,running,0.0,24.0,0.0
+2018,17,Bowmanville,14.0,1.0,41.0,Ben Rhodes,FEI World Equestrian Games (Duke Thorson),Ford,65.0,running,6.0,32.0,0.0
+2018,17,Bowmanville,15.0,12.0,2.0,Cody Coughlin,Jegs.com (Maury Gallagher),Chevrolet,65.0,running,0.0,22.0,0.0
+2018,17,Bowmanville,16.0,22.0,3.0,Jordan Anderson,Knight Fire Protection / Bommarito.com (Jordan Anderson),Chevrolet,65.0,running,0.0,21.0,0.0
+2018,17,Bowmanville,17.0,11.0,98.0,Grant Enfinger,Champion Power Equipment / Curb Records (Mike Curb),Ford,65.0,running,0.0,24.0,0.0
+2018,17,Bowmanville,18.0,20.0,45.0,Justin Fontaine,ProMatic Automation / Superior Essex (Al Niece),Chevrolet,65.0,running,0.0,19.0,0.0
+2018,17,Bowmanville,19.0,3.0,13.0,Myatt Snider,The Carolina Nut Co. (Duke Thorson),Ford,65.0,running,0.0,19.0,0.0
+2018,17,Bowmanville,20.0,25.0,6.0,Norm Benning,Zomongo / H&H Transport (Norm Benning),Chevrolet,65.0,running,0.0,17.0,0.0
+2018,17,Bowmanville,21.0,18.0,22.0,Austin Wayne Self,Go Texan / Superior Essex (Al Niece),Chevrolet,65.0,running,0.0,16.0,0.0
+2018,17,Bowmanville,22.0,21.0,54.0,Bo LeMastus,Crosley Brands / DGR-Crosley (David Gilliland),Toyota,64.0,running,0.0,15.0,0.0
+2018,17,Bowmanville,23.0,27.0,33.0,Jason White,Powder Ventures Excavations (Josh Reaume),Chevrolet,63.0,running,0.0,14.0,0.0
+2018,17,Bowmanville,24.0,23.0,15.0,Wendell Chavous,Sobriety Nation (Jay Robinson),Chevrolet,63.0,running,0.0,13.0,0.0
+2018,17,Bowmanville,25.0,31.0,34.0,Jesse Iwuji,Zulu Audio / Silk Title & Escrow (Josh Reaume),Chevrolet,63.0,running,0.0,12.0,0.0
+2018,17,Bowmanville,26.0,30.0,0.0,Justin Kunz,Liqui-Moly / racing-total.de (Jennifer Jo Cobb),Chevrolet,62.0,running,0.0,11.0,0.0
+2018,17,Bowmanville,27.0,24.0,97.0,Roger Reuse,WCIParts.com (Jason Little),Chevrolet,35.0,vibration,0.0,10.0,0.0
+2018,17,Bowmanville,28.0,28.0,50.0,Ray Ciccarelli,VIPRacingExperience.com / Image Tech (Mark Beaver),Chevrolet,34.0,vibration,0.0,9.0,0.0
+2018,17,Bowmanville,29.0,26.0,10.0,Jennifer Jo Cobb,Driven2Honor (Jennifer Jo Cobb),Chevrolet,32.0,oil line,0.0,8.0,0.0
+2018,17,Bowmanville,30.0,19.0,20.0,Max Tullman,Zoomi (Randy Young),Chevrolet,29.0,transmission,0.0,0.0,0.0
+2018,17,Bowmanville,31.0,32.0,74.0,Mike Harmon,Mike Harmon Racing (Mike Harmon),Chevrolet,7.0,brakes,0.0,0.0,0.0
+2018,17,Bowmanville,32.0,29.0,87.0,Joe Nemechek,D.A.B. Constructors / Fleetwing (Joe Nemechek),Chevrolet,2.0,brakes,0.0,5.0,0.0
+2018,18,Las Vegas,1.0,3.0,98.0,Grant Enfinger,Champion Power Equipment / Curb Records (Mike Curb),Ford,144.0,running,40.0,54.0,6.0
+2018,18,Las Vegas,2.0,6.0,21.0,Johnny Sauter,Allegiant (Maury Gallagher),Chevrolet,144.0,running,21.0,43.0,0.0
+2018,18,Las Vegas,3.0,12.0,24.0,Justin Haley,Fraternal Order of Eagles (Maury Gallagher),Chevrolet,144.0,running,0.0,36.0,0.0
+2018,18,Las Vegas,4.0,18.0,41.0,Ben Rhodes,The Carolina Nut Co. (Duke Thorson),Ford,144.0,running,4.0,38.0,0.0
+2018,18,Las Vegas,5.0,29.0,88.0,Matt Crafton,Ideal Door / Menards (Duke Thorson),Ford,144.0,running,4.0,44.0,0.0
+2018,18,Las Vegas,6.0,13.0,13.0,Myatt Snider,Century Container (Duke Thorson),Ford,144.0,running,0.0,31.0,0.0
+2018,18,Las Vegas,7.0,24.0,15.0,Ross Chastain,Premium Motorsports (Jay Robinson),Chevrolet,144.0,running,0.0,0.0,0.0
+2018,18,Las Vegas,8.0,21.0,30.0,Austin Theriault,Cross Insurance (Steven Lane),Toyota,144.0,running,0.0,29.0,0.0
+2018,18,Las Vegas,9.0,25.0,22.0,Austin Wayne Self,AM Technical Solutions / Go Texan (Al Niece),Chevrolet,144.0,running,0.0,28.0,0.0
+2018,18,Las Vegas,10.0,4.0,54.0,Chris Eggleston,H2O Fire Protection (David Gilliland),Toyota,144.0,running,0.0,27.0,0.0
+2018,18,Las Vegas,11.0,9.0,16.0,Brett Moffitt,TZ / Osaka Toyota (Shigeaki Hattori),Toyota,144.0,running,18.0,27.0,0.0
+2018,18,Las Vegas,12.0,27.0,10.0,Jennifer Jo Cobb,Waldo's Painting Company (Jennifer Jo Cobb),Chevrolet,144.0,running,0.0,25.0,0.0
+2018,18,Las Vegas,13.0,20.0,7.0,Korbin Forrister,TruClear / Now Matters More (All Out Motorsports),Toyota,144.0,running,0.0,24.0,0.0
+2018,18,Las Vegas,14.0,30.0,45.0,Justin Fontaine,ProMatic Automation / Superior Essex (Al Niece),Chevrolet,144.0,running,0.0,23.0,0.0
+2018,18,Las Vegas,15.0,26.0,97.0,Jesse Little,JJL Motorsports (Jason Little),Ford,144.0,running,0.0,27.0,0.0
+2018,18,Las Vegas,16.0,28.0,83.0,Bayley Currey,D.J. Copp,Chevrolet,144.0,running,0.0,21.0,0.0
+2018,18,Las Vegas,17.0,2.0,52.0,Stewart Friesen,Halmar Intl. / We Build America (Chris Larsen),Chevrolet,144.0,running,17.0,34.0,0.0
+2018,18,Las Vegas,18.0,1.0,18.0,Noah Gragson,Safelite Auto Glass (Kyle Busch),Toyota,143.0,running,33.0,37.0,1.0
+2018,18,Las Vegas,19.0,14.0,25.0,Timothy Peters,Kingman Chevrolet (Maury Gallagher),Chevrolet,143.0,running,0.0,18.0,0.0
+2018,18,Las Vegas,20.0,32.0,3.0,Jordan Anderson,Commercial Property Services (Jordan Anderson),Chevrolet,143.0,running,2.0,17.0,0.0
+2018,18,Las Vegas,21.0,23.0,38.0,T.J. Bell,Niece Equipment (Al Niece),Chevrolet,138.0,crash,0.0,16.0,0.0
+2018,18,Las Vegas,22.0,8.0,8.0,John H. Nemechek,Berry's Manufacturing (Joe Nemechek),Chevrolet,138.0,crash,0.0,0.0,0.0
+2018,18,Las Vegas,23.0,16.0,2.0,Austin Hill,Young's Building Systems / Randco (Randy Young),Chevrolet,138.0,crash,0.0,14.0,0.0
+2018,18,Las Vegas,24.0,15.0,2.0,Cody Coughlin,God Bless the Broken Road (Maury Gallagher),Chevrolet,134.0,crash,0.0,13.0,0.0
+2018,18,Las Vegas,25.0,19.0,4.0,Cory Roper,Preferred Industrial Contractors (Roper Racing),Ford,120.0,crash,0.0,12.0,0.0
+2018,18,Las Vegas,26.0,7.0,51.0,Brandon Jones,Delta Faucet / Menards (Kyle Busch),Toyota,119.0,crash,0.0,0.0,0.0
+2018,18,Las Vegas,27.0,10.0,4.0,Todd Gilliland,JBL / SiriusXM (Kyle Busch),Toyota,86.0,crash,5.0,17.0,0.0
+2018,18,Las Vegas,28.0,31.0,49.0,Wendell Chavous,Sobriety Nation (Jay Robinson),Chevrolet,86.0,crash,0.0,9.0,0.0
+2018,18,Las Vegas,29.0,5.0,46.0,Riley Herbst,Advance Auto Parts / NOS Energy Drink (Kyle Busch),Toyota,56.0,crash,0.0,8.0,0.0
+2018,18,Las Vegas,30.0,17.0,17.0,Bo LeMastus,Crosley Brands (David Gilliland),Toyota,45.0,crash,0.0,7.0,0.0
+2018,18,Las Vegas,31.0,22.0,87.0,Joe Nemechek,Harrah's (Joe Nemechek),Chevrolet,27.0,vibration,0.0,6.0,0.0
+2018,18,Las Vegas,32.0,11.0,20.0,Tanner Thorson,Go Share (Randy Young),Chevrolet,2.0,crash,0.0,5.0,0.0
+2018,19,Talladega,1.0,3.0,25.0,Timothy Peters,Kingman Chevrolet (Maury Gallagher),Chevrolet,94.0,running,1.0,40.0,5.0
+2018,19,Talladega,2.0,28.0,13.0,Myatt Snider,Ride TV / Louisiana Hot Sauce (Duke Thorson),Ford,94.0,running,0.0,44.0,0.0
+2018,19,Talladega,3.0,1.0,51.0,David Gilliland,Pedigree (Kyle Busch),Toyota,94.0,running,0.0,38.0,0.0
+2018,19,Talladega,4.0,16.0,24.0,Justin Haley,Fraternal Order of Eagles (Maury Gallagher),Chevrolet,94.0,running,2.0,39.0,0.0
+2018,19,Talladega,5.0,32.0,49.0,Wendell Chavous,Sobriety Nation (Jay Robinson),Chevrolet,94.0,running,0.0,32.0,0.0
+2018,19,Talladega,6.0,11.0,52.0,Stewart Friesen,Halmar Intl. / We Build America (Chris Larsen),Chevrolet,94.0,running,0.0,31.0,0.0
+2018,19,Talladega,7.0,21.0,3.0,Jordan Anderson,Rusty's Off Road (Jordan Anderson),Toyota,94.0,running,0.0,30.0,0.0
+2018,19,Talladega,8.0,27.0,28.0,Bryan Dauzat,FDNY / O.B. Builders (Jim Rosenblum),Chevrolet,94.0,running,0.0,29.0,0.0
+2018,19,Talladega,9.0,30.0,20.0,Max Tullman,Yurpal.com (Randy Young),Chevrolet,94.0,running,0.0,0.0,0.0
+2018,19,Talladega,10.0,10.0,2.0,Austin Hill,Young's Building Systems / Randco (Randy Young),Chevrolet,94.0,running,8.0,32.0,0.0
+2018,19,Talladega,11.0,22.0,10.0,Jennifer Jo Cobb,Osage Contractors / Driven2Honor.org (Jennifer Jo Cobb),Chevrolet,94.0,running,3.0,30.0,0.0
+2018,19,Talladega,12.0,24.0,22.0,Austin Wayne Self,Go Texan (Al Niece),Chevrolet,94.0,running,0.0,25.0,0.0
+2018,19,Talladega,13.0,13.0,18.0,Noah Gragson,Safelite Auto Glass (Kyle Busch),Toyota,93.0,running,3.0,30.0,0.0
+2018,19,Talladega,14.0,26.0,33.0,Robby Lyons,Sunwest Construction (Josh Reaume),Chevrolet,93.0,running,0.0,23.0,0.0
+2018,19,Talladega,15.0,15.0,7.0,Korbin Forrister,TruClear / Now Matters More (All Out Motorsports),Toyota,93.0,running,0.0,22.0,0.0
+2018,19,Talladega,16.0,14.0,41.0,Ben Rhodes,The Carolina Nut Co. (Duke Thorson),Ford,93.0,running,0.0,30.0,0.0
+2018,19,Talladega,17.0,8.0,16.0,Brett Moffitt,American Red Cross (Shigeaki Hattori),Toyota,92.0,running,0.0,20.0,0.0
+2018,19,Talladega,18.0,25.0,30.0,"Scott Lagasse, Jr.",Strutmasters.com (Steven Lane),Toyota,92.0,running,0.0,0.0,0.0
+2018,19,Talladega,19.0,4.0,98.0,Grant Enfinger,Champion Power Equipment / Curb Records (Mike Curb),Ford,92.0,running,31.0,28.0,1.0
+2018,19,Talladega,20.0,6.0,4.0,Todd Gilliland,Pedigree Puppy (Kyle Busch),Toyota,82.0,crash,13.0,32.0,1.0
+2018,19,Talladega,21.0,29.0,45.0,Justin Fontaine,ProMatic Automation / Superior Essex (Al Niece),Chevrolet,82.0,electrical,0.0,16.0,0.0
+2018,19,Talladega,22.0,5.0,21.0,Johnny Sauter,ISM Connect (Maury Gallagher),Chevrolet,73.0,crash,8.0,32.0,0.0
+2018,19,Talladega,23.0,23.0,63.0,Bobby Gerhart,Lucas Oil (Mike Mittler),Chevrolet,61.0,electrical,0.0,14.0,0.0
+2018,19,Talladega,24.0,19.0,47.0,Chris Fontaine,Glenden Enterprises (Chris Fontaine),Chevrolet,58.0,crash,0.0,13.0,0.0
+2018,19,Talladega,25.0,2.0,2.0,Spencer Gallagher,Allegiant (Maury Gallagher),Chevrolet,58.0,crash,15.0,0.0,0.0
+2018,19,Talladega,26.0,9.0,88.0,Matt Crafton,Fisher Nuts / Menards (Duke Thorson),Ford,58.0,crash,7.0,27.0,0.0
+2018,19,Talladega,27.0,31.0,8.0,John H. Nemechek,Fleetwing Corporation (Joe Nemechek),Chevrolet,58.0,crash,0.0,0.0,0.0
+2018,19,Talladega,28.0,20.0,75.0,Parker Kligerman,Food Country USA / Blue Emu (Charlie Henderson),Chevrolet,58.0,crash,0.0,11.0,0.0
+2018,19,Talladega,29.0,12.0,54.0,Bo LeMastus,Fred's / Crosley Brands (David Gilliland),Toyota,58.0,crash,1.0,8.0,0.0
+2018,19,Talladega,30.0,7.0,87.0,Joe Nemechek,Fleetwing Corporation (Joe Nemechek),Chevrolet,50.0,vibration,2.0,7.0,0.0
+2018,19,Talladega,31.0,17.0,12.0,Tanner Thorson,K&L Ready Mix / Nyloxin (Randy Young),Chevrolet,48.0,suspension,0.0,6.0,0.0
+2018,19,Talladega,32.0,18.0,68.0,Clay Greenfield,AMVETS Please Stand (Clay Greenfield),Chevrolet,47.0,suspension,0.0,5.0,0.0
+2018,20,Martinsville,1.0,8.0,21.0,Johnny Sauter,ISM Connect (Maury Gallagher),Chevrolet,200.0,running,148.0,60.0,7.0
+2018,20,Martinsville,2.0,17.0,16.0,Brett Moffitt,AW N.C. / AISIN Group (Shigeaki Hattori),Toyota,200.0,running,0.0,37.0,0.0
+2018,20,Martinsville,3.0,16.0,13.0,Myatt Snider,Louisiana Hot Sauce (Duke Thorson),Ford,200.0,running,7.0,34.0,0.0
+2018,20,Martinsville,4.0,4.0,41.0,Ben Rhodes,The Carolina Nut Co. (Duke Thorson),Ford,200.0,running,0.0,40.0,0.0
+2018,20,Martinsville,5.0,5.0,17.0,Kyle Benjamin,Crosley Brands / DGR-Crosley (David Gilliland),Toyota,200.0,running,6.0,0.0,0.0
+2018,20,Martinsville,6.0,13.0,24.0,Justin Haley,Fraternal Order of Eagles (Maury Gallagher),Chevrolet,200.0,running,0.0,35.0,0.0
+2018,20,Martinsville,7.0,3.0,18.0,Noah Gragson,Safelite Auto Glass (Kyle Busch),Toyota,200.0,running,0.0,48.0,0.0
+2018,20,Martinsville,8.0,2.0,51.0,Harrison Burton,Morton Buildings (Kyle Busch),Toyota,200.0,running,0.0,32.0,0.0
+2018,20,Martinsville,9.0,12.0,46.0,Christian Eckes,Craftsman (Kyle Busch),Toyota,200.0,running,0.0,28.0,0.0
+2018,20,Martinsville,10.0,9.0,23.0,Timothy Peters,AutosbyNelson.com (Maury Gallagher),Chevrolet,200.0,running,0.0,34.0,0.0
+2018,20,Martinsville,11.0,11.0,52.0,Stewart Friesen,Halmar Intl. / We Build America (Chris Larsen),Chevrolet,200.0,running,0.0,26.0,0.0
+2018,20,Martinsville,12.0,1.0,4.0,Todd Gilliland,JBL / SiriusXM (Kyle Busch),Toyota,200.0,running,39.0,32.0,0.0
+2018,20,Martinsville,13.0,10.0,88.0,Matt Crafton,Chi-Chi's / Menards (Duke Thorson),Ford,200.0,running,0.0,38.0,0.0
+2018,20,Martinsville,14.0,6.0,98.0,Grant Enfinger,Protect The Harvest / Curb Records (Mike Curb),Ford,200.0,running,0.0,33.0,0.0
+2018,20,Martinsville,15.0,22.0,30.0,Jeb Burton,Strutmasters.com / SparrowRanch.org (Steven Lane),Toyota,200.0,running,0.0,0.0,0.0
+2018,20,Martinsville,16.0,14.0,75.0,Parker Kligerman,Global Building Contractors/Food Country USA (Charlie Henderson),Chevrolet,200.0,running,0.0,21.0,0.0
+2018,20,Martinsville,17.0,25.0,25.0,Tyler Dippel,America First / Turning Point USA (Maury Gallagher),Chevrolet,200.0,running,0.0,20.0,0.0
+2018,20,Martinsville,18.0,19.0,54.0,Tyler Ankrum,May's Hawaii / Crosley Brands (David Gilliland),Toyota,200.0,running,0.0,23.0,0.0
+2018,20,Martinsville,19.0,15.0,2.0,Sheldon Creed,AM Ortega / United Rentals (Maury Gallagher),Chevrolet,200.0,running,0.0,18.0,0.0
+2018,20,Martinsville,20.0,7.0,2.0,Austin Hill,Young's Building Systems / Randco (Randy Young),Chevrolet,200.0,running,0.0,17.0,0.0
+2018,20,Martinsville,21.0,27.0,99.0,Chase Purdy,Bama Buggies (Matthew Miller),Chevrolet,200.0,running,0.0,16.0,0.0
+2018,20,Martinsville,22.0,21.0,63.0,Kyle Donahue,First Responder Racing (Mike Mittler),Chevrolet,200.0,running,0.0,15.0,0.0
+2018,20,Martinsville,23.0,29.0,22.0,Austin Wayne Self,AM Technical Solutions / Go Texan (Al Niece),Chevrolet,200.0,running,0.0,14.0,0.0
+2018,20,Martinsville,24.0,23.0,83.0,Dawson Cram,RGS Products / THP (D.J. Copp),Chevrolet,199.0,running,0.0,13.0,0.0
+2018,20,Martinsville,25.0,24.0,49.0,D.J. Kennington,SobrietyNation.org (Jay Robinson),Chevrolet,199.0,running,0.0,12.0,0.0
+2018,20,Martinsville,26.0,26.0,3.0,Jordan Anderson,Bommarito.com / Commercial Property Services (Jordan Anderson),Chevrolet,199.0,running,0.0,11.0,0.0
+2018,20,Martinsville,27.0,28.0,45.0,Justin Fontaine,ProMatic Automation / Superior Essex (Al Niece),Chevrolet,197.0,running,0.0,10.0,0.0
+2018,20,Martinsville,28.0,31.0,15.0,Brad Foy,Strutmasters.com (Jay Robinson),Chevrolet,194.0,running,0.0,9.0,0.0
+2018,20,Martinsville,29.0,32.0,10.0,Jennifer Jo Cobb,Driven2Honor (Jennifer Jo Cobb),Chevrolet,189.0,running,0.0,8.0,0.0
+2018,20,Martinsville,30.0,18.0,8.0,John H. Nemechek,Ollie's Bargain Outlet (Joe Nemechek),Chevrolet,177.0,rear gear,0.0,0.0,0.0
+2018,20,Martinsville,31.0,30.0,20.0,Tanner Thorson,Go Share (Randy Young),Chevrolet,137.0,brakes,0.0,6.0,0.0
+2018,20,Martinsville,32.0,20.0,33.0,Chad Finley,Auto Value / Strutmasters.com (Josh Reaume),Chevrolet,35.0,crash,0.0,5.0,0.0
+2018,21,Fort Worth,1.0,6.0,24.0,Justin Haley,Fraternal Order of Eagles (Maury Gallagher),Chevrolet,147.0,running,33.0,58.0,6.0
+2018,21,Fort Worth,2.0,16.0,41.0,Ben Rhodes,The Carolina Nut Co. (Duke Thorson),Ford,147.0,running,2.0,38.0,0.0
+2018,21,Fort Worth,3.0,4.0,16.0,Brett Moffitt,AISIN Group (Shigeaki Hattori),Toyota,147.0,running,0.0,45.0,0.0
+2018,21,Fort Worth,4.0,12.0,4.0,Todd Gilliland,JBL / SiriusXM (Kyle Busch),Toyota,147.0,running,60.0,36.0,0.0
+2018,21,Fort Worth,5.0,15.0,2.0,Austin Hill,Ennis Steel Industries (Randy Young),Chevrolet,147.0,running,0.0,41.0,0.0
+2018,21,Fort Worth,6.0,8.0,51.0,Harrison Burton,DEX Imaging (Kyle Busch),Toyota,147.0,running,0.0,31.0,0.0
+2018,21,Fort Worth,7.0,10.0,97.0,Jesse Little,Skuttle Tight (Jason Little),Ford,147.0,running,0.0,30.0,0.0
+2018,21,Fort Worth,8.0,3.0,52.0,Stewart Friesen,Halmar Intl. / We Build America (Chris Larsen),Chevrolet,147.0,running,12.0,37.0,0.0
+2018,21,Fort Worth,9.0,14.0,88.0,Matt Crafton,Ideal Door / Menards (Duke Thorson),Ford,147.0,running,0.0,41.0,0.0
+2018,21,Fort Worth,10.0,2.0,18.0,Noah Gragson,Safelite Auto Glass (Kyle Busch),Toyota,147.0,running,2.0,32.0,0.0
+2018,21,Fort Worth,11.0,1.0,21.0,Johnny Sauter,Allegiant (Maury Gallagher),Chevrolet,147.0,running,1.0,26.0,0.0
+2018,21,Fort Worth,12.0,13.0,98.0,Grant Enfinger,Protect The Harvest / Curb Records (Mike Curb),Ford,146.0,running,0.0,36.0,0.0
+2018,21,Fort Worth,13.0,17.0,13.0,Myatt Snider,Century Container (Duke Thorson),Ford,146.0,running,35.0,34.0,1.0
+2018,21,Fort Worth,14.0,9.0,25.0,Tyler Dippel,America First / Turning Point USA (Maury Gallagher),Chevrolet,146.0,running,0.0,27.0,0.0
+2018,21,Fort Worth,15.0,22.0,35.0,Brennan Poole,Inspectra Thermal Solutions (NextGen Motorsports),Toyota,146.0,running,0.0,25.0,0.0
+2018,21,Fort Worth,16.0,21.0,22.0,Austin Wayne Self,Sorghum: The Smart Choice (Al Niece),Chevrolet,145.0,running,0.0,21.0,0.0
+2018,21,Fort Worth,17.0,26.0,9.0,Codie Rohrbaugh,Grant County Mulch (Codie Rohrbaugh),Ford,145.0,running,0.0,20.0,0.0
+2018,21,Fort Worth,18.0,18.0,8.0,Joe Nemechek,Tweaker Energy / Romco Equipment (Joe Nemechek),Chevrolet,145.0,running,0.0,20.0,0.0
+2018,21,Fort Worth,19.0,28.0,45.0,Justin Fontaine,ProMatic Automation / Superior Essex (Al Niece),Chevrolet,145.0,running,0.0,18.0,0.0
+2018,21,Fort Worth,20.0,27.0,49.0,Reed Sorenson,Sobriety Nation (Jay Robinson),Chevrolet,143.0,running,0.0,17.0,0.0
+2018,21,Fort Worth,21.0,29.0,20.0,Tanner Thorson,Go Share (Randy Young),Chevrolet,143.0,running,0.0,16.0,0.0
+2018,21,Fort Worth,22.0,31.0,15.0,Mike Harmon,VIPRacingExperience.com (Jay Robinson),Chevrolet,138.0,running,0.0,0.0,0.0
+2018,21,Fort Worth,23.0,25.0,83.0,Bayley Currey,United Automotive (D.J. Copp),Chevrolet,134.0,suspension,0.0,14.0,0.0
+2018,21,Fort Worth,24.0,30.0,10.0,Jennifer Jo Cobb,Driven2Honor (Jennifer Jo Cobb),Chevrolet,134.0,running,0.0,13.0,0.0
+2018,21,Fort Worth,25.0,7.0,2.0,Sheldon Creed,AM Ortega / United Rentals (Maury Gallagher),Chevrolet,133.0,running,2.0,21.0,0.0
+2018,21,Fort Worth,26.0,19.0,38.0,Ross Chastain,Tru North / MG Machinery / Niece Equipment (Al Niece),Chevrolet,112.0,electrical,0.0,0.0,0.0
+2018,21,Fort Worth,27.0,24.0,12.0,Tyler Young,4P Energy Services (Randy Young),Chevrolet,40.0,crash,0.0,10.0,0.0
+2018,21,Fort Worth,28.0,23.0,4.0,Cory Roper,Preferred Industrial Contractors (Roper Racing),Ford,40.0,crash,0.0,9.0,0.0
+2018,21,Fort Worth,29.0,32.0,3.0,Jordan Anderson,Bommarito Automotive Group (Jordan Anderson),Chevrolet,30.0,overheating,0.0,8.0,0.0
+2018,21,Fort Worth,30.0,5.0,17.0,David Gilliland,Crosley Brands / Frontline Enterprises (David Gilliland),Toyota,14.0,crash,0.0,7.0,0.0
+2018,21,Fort Worth,31.0,11.0,87.0,Timmy Hill,D.A.B. Constructors / Fleetwing (Joe Nemechek),Chevrolet,5.0,rear gear,0.0,0.0,0.0
+2018,21,Fort Worth,32.0,20.0,54.0,Bo LeMastus,Crosley Brands / DGR-Crosley (David Gilliland),Toyota,2.0,crash,0.0,5.0,0.0
+2018,22,Phoenix,1.0,5.0,16.0,Brett Moffitt,Kobe Toyopet (Shigeaki Hattori),Toyota,150.0,running,19.0,54.0,6.0
+2018,22,Phoenix,2.0,1.0,18.0,Noah Gragson,Safelite Auto Glass (Kyle Busch),Toyota,150.0,running,43.0,47.0,0.0
+2018,22,Phoenix,3.0,3.0,51.0,Harrison Burton,DEX Imaging (Kyle Busch),Toyota,150.0,running,46.0,51.0,1.0
+2018,22,Phoenix,4.0,12.0,98.0,Grant Enfinger,Protect The Harvest / Curb Records (Mike Curb),Ford,150.0,running,10.0,38.0,0.0
+2018,22,Phoenix,5.0,4.0,52.0,Stewart Friesen,Halmar Intl. / We Build America (Chris Larsen),Chevrolet,150.0,running,0.0,48.0,0.0
+2018,22,Phoenix,6.0,15.0,17.0,Tyler Ankrum,May's Hawaii / Crosley Brands (David Gilliland),Toyota,150.0,running,0.0,31.0,0.0
+2018,22,Phoenix,7.0,14.0,21.0,Johnny Sauter,ISM Connect (Maury Gallagher),Chevrolet,150.0,running,0.0,33.0,0.0
+2018,22,Phoenix,8.0,8.0,19.0,Derek Kraus,NAPA Auto Parts (Bill McAnally),Toyota,150.0,running,0.0,30.0,0.0
+2018,22,Phoenix,9.0,11.0,46.0,Christian Eckes,Mobil 1 (Kyle Busch),Toyota,150.0,running,0.0,29.0,0.0
+2018,22,Phoenix,10.0,16.0,2.0,Sheldon Creed,AM Ortega / United Rentals (Maury Gallagher),Chevrolet,150.0,running,0.0,27.0,0.0
+2018,22,Phoenix,11.0,9.0,88.0,Matt Crafton,Ideal Door / Menards (Duke Thorson),Ford,150.0,running,1.0,39.0,0.0
+2018,22,Phoenix,12.0,6.0,41.0,Ben Rhodes,The Carolina Nut Co. (Duke Thorson),Ford,150.0,running,0.0,33.0,0.0
+2018,22,Phoenix,13.0,19.0,99.0,Chase Purdy,Bama Buggies (Matthew Miller),Chevrolet,150.0,running,0.0,24.0,0.0
+2018,22,Phoenix,14.0,13.0,25.0,Tyler Dippel,Alesso (Maury Gallagher),Chevrolet,150.0,running,0.0,23.0,0.0
+2018,22,Phoenix,15.0,18.0,54.0,Riley Herbst,Advance Auto Parts / Terrible Herbst / NOS (David Gilliland),Toyota,150.0,running,0.0,22.0,0.0
+2018,22,Phoenix,16.0,29.0,83.0,Dawson Cram,RGS Products / THP (D.J. Copp),Chevrolet,150.0,running,0.0,21.0,0.0
+2018,22,Phoenix,17.0,10.0,4.0,Todd Gilliland,Pedigree (Kyle Busch),Toyota,150.0,running,0.0,20.0,0.0
+2018,22,Phoenix,18.0,21.0,20.0,Tanner Thorson,Go Share (Randy Young),Chevrolet,150.0,running,0.0,19.0,0.0
+2018,22,Phoenix,19.0,22.0,22.0,Austin Wayne Self,AM Tech. Solutions / Don't Mess With Texas (Al Niece),Chevrolet,150.0,running,0.0,18.0,0.0
+2018,22,Phoenix,20.0,24.0,15.0,Stefan Parsons,VIPRacingExperience.com (Jay Robinson),Chevrolet,148.0,running,0.0,17.0,0.0
+2018,22,Phoenix,21.0,30.0,49.0,D.J. Kennington,Sobriety Nation (Jay Robinson),Chevrolet,148.0,running,0.0,16.0,0.0
+2018,22,Phoenix,22.0,17.0,13.0,Myatt Snider,Tenda (Duke Thorson),Ford,147.0,running,0.0,15.0,0.0
+2018,22,Phoenix,23.0,25.0,3.0,Jordan Anderson,Commercial Property Services (Jordan Anderson),Chevrolet,147.0,running,0.0,14.0,0.0
+2018,22,Phoenix,24.0,27.0,45.0,Justin Fontaine,ProMatic Automation / Superior Essex (Al Niece),Chevrolet,147.0,running,0.0,13.0,0.0
+2018,22,Phoenix,25.0,26.0,38.0,Landon Huffman,Arizona Department of Public Safety (Al Niece),Chevrolet,146.0,running,0.0,12.0,0.0
+2018,22,Phoenix,26.0,28.0,33.0,Jason White,YourGMCTruckStore.com / Zimmer Auto (Josh Reaume),Chevrolet,143.0,running,0.0,11.0,0.0
+2018,22,Phoenix,27.0,32.0,63.0,Jesse Iwuji,Zulu Audio / JBJE Transportation (Mike Mittler),Chevrolet,138.0,running,0.0,10.0,0.0
+2018,22,Phoenix,28.0,2.0,24.0,Justin Haley,Fraternal Order of Eagles (Maury Gallagher),Chevrolet,131.0,oil leak,0.0,21.0,0.0
+2018,22,Phoenix,29.0,7.0,8.0,John H. Nemechek,Hostetler Ranch / Stonefield Home (Joe Nemechek),Chevrolet,128.0,suspension,31.0,0.0,0.0
+2018,22,Phoenix,30.0,20.0,2.0,Austin Hill,Young's Building Systems / Randco (Randy Young),Chevrolet,57.0,engine,0.0,7.0,0.0
+2018,22,Phoenix,31.0,31.0,10.0,Jennifer Jo Cobb,Driven2Honor (Jennifer Jo Cobb),Chevrolet,30.0,header,0.0,6.0,0.0
+2018,22,Phoenix,32.0,23.0,87.0,Joe Nemechek,D.A.B. Constructors / Fleetwing (Joe Nemechek),Chevrolet,11.0,electrical,0.0,5.0,0.0
+2018,23,Homestead,1.0,5.0,16.0,Brett Moffitt,AISIN Group (Shigeaki Hattori),Toyota,134.0,running,59.0,40.0,6.0
+2018,23,Homestead,2.0,1.0,98.0,Grant Enfinger,Champion Power Equipment / Curb Records (Mike Curb),Ford,134.0,running,33.0,53.0,1.0
+2018,23,Homestead,3.0,3.0,18.0,Noah Gragson,Safelite Auto Glass (Kyle Busch),Toyota,134.0,running,34.0,34.0,0.0
+2018,23,Homestead,4.0,2.0,52.0,Stewart Friesen,Halmar Intl. / We Build America (Chris Larsen),Chevrolet,134.0,running,0.0,42.0,0.0
+2018,23,Homestead,5.0,13.0,2.0,Sheldon Creed,United Rentals / AM Ortega (Maury Gallagher),Chevrolet,134.0,running,1.0,35.0,0.0
+2018,23,Homestead,6.0,22.0,88.0,Matt Crafton,Ideal Door / Menards (Duke Thorson),Ford,134.0,running,4.0,44.0,0.0
+2018,23,Homestead,7.0,8.0,8.0,John H. Nemechek,Fleetwing / Romco Equipment (Joe Nemechek),Chevrolet,134.0,running,0.0,0.0,0.0
+2018,23,Homestead,8.0,4.0,24.0,Justin Haley,Fraternal Order of Eagles (Maury Gallagher),Chevrolet,134.0,running,0.0,29.0,0.0
+2018,23,Homestead,9.0,9.0,97.0,Jesse Little,Skuttle Tight (Jason Little),Ford,134.0,running,0.0,35.0,0.0
+2018,23,Homestead,10.0,11.0,41.0,Ben Rhodes,The Carolina Nut Co. (Duke Thorson),Ford,134.0,running,2.0,29.0,0.0
+2018,23,Homestead,11.0,14.0,51.0,Harrison Burton,DEX Imaging (Kyle Busch),Toyota,134.0,running,0.0,26.0,0.0
+2018,23,Homestead,12.0,6.0,21.0,Johnny Sauter,ISM Connect (Maury Gallagher),Chevrolet,134.0,running,0.0,25.0,0.0
+2018,23,Homestead,13.0,15.0,4.0,Todd Gilliland,JBL / SiriusXM (Kyle Busch),Toyota,133.0,running,0.0,24.0,0.0
+2018,23,Homestead,14.0,12.0,13.0,Myatt Snider,Tenda (Duke Thorson),Ford,133.0,running,0.0,23.0,0.0
+2018,23,Homestead,15.0,17.0,25.0,Tyler Dippel,Vai Anitta (Maury Gallagher),Chevrolet,133.0,running,0.0,22.0,0.0
+2018,23,Homestead,16.0,7.0,38.0,Ross Chastain,MG Machinery / Niece Equipment (Al Niece),Chevrolet,133.0,running,0.0,0.0,0.0
+2018,23,Homestead,17.0,19.0,4.0,Cory Roper,Preferred Industrial Contractors (Roper Racing),Ford,133.0,running,0.0,20.0,0.0
+2018,23,Homestead,18.0,21.0,30.0,Jeb Burton,Ultimate Headers (Steven Lane),Toyota,132.0,running,0.0,0.0,0.0
+2018,23,Homestead,19.0,23.0,35.0,Brennan Poole,Motorsports Safety Group / Solid Rock (NextGen Motorsports),Toyota,132.0,running,0.0,18.0,0.0
+2018,23,Homestead,20.0,25.0,3.0,Jordan Anderson,Bommarito.com / Fueled By Fans (Jordan Anderson),Chevrolet,132.0,running,1.0,17.0,0.0
+2018,23,Homestead,21.0,16.0,2.0,Austin Hill,Young's Building Systems / Randco (Randy Young),Chevrolet,132.0,running,0.0,16.0,0.0
+2018,23,Homestead,22.0,31.0,45.0,Justin Fontaine,ProMatic Automation / Superior Essex (Al Niece),Chevrolet,131.0,running,0.0,15.0,0.0
+2018,23,Homestead,23.0,24.0,22.0,Austin Wayne Self,AM Tech. Solutions / Don't Mess With Texas (Al Niece),Chevrolet,130.0,running,0.0,14.0,0.0
+2018,23,Homestead,24.0,10.0,54.0,Chris Windom,Baldwin Brothers / Crosley Brands (David Gilliland),Toyota,130.0,running,0.0,13.0,0.0
+2018,23,Homestead,25.0,29.0,0.0,Ray Ciccarelli,11 Health (Ray Ciccarelli),Chevrolet,129.0,running,0.0,12.0,0.0
+2018,23,Homestead,26.0,27.0,49.0,D.J. Kennington,Sobriety Nation (Jay Robinson),Chevrolet,129.0,running,0.0,11.0,0.0
+2018,23,Homestead,27.0,18.0,33.0,Robby Lyons,B&W Structural (Josh Reaume),Chevrolet,124.0,running,0.0,10.0,0.0
+2018,23,Homestead,28.0,28.0,10.0,Jennifer Jo Cobb,Driven2Honor.org (Jennifer Jo Cobb),Chevrolet,124.0,running,0.0,9.0,0.0
+2018,23,Homestead,29.0,26.0,20.0,Tanner Thorson,Go Share (Randy Young),Chevrolet,120.0,engine,0.0,8.0,0.0
+2018,23,Homestead,30.0,30.0,15.0,Reid Wilson,OEM2 / TruNorth (Jay Robinson),Chevrolet,80.0,engine,0.0,7.0,0.0
+2018,23,Homestead,31.0,20.0,87.0,Joe Nemechek,Fleetwing / D.A.B. Constructors (Joe Nemechek),Chevrolet,20.0,suspension,0.0,6.0,0.0
+2018,23,Homestead,32.0,32.0,50.0,Camden Murphy,Sobriety Nation (Mark Beaver),Chevrolet,11.0,vibration,0.0,5.0,0.0

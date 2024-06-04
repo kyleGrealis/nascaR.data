@@ -1,0 +1,807 @@
+Season,Race,Track,Pos,St,#,Driver,Sponsor / Owner,Truck,Laps,Money,Status,Led,Pts
+1996,1,Homestead,1.0,10.0,7.0,Dave Rezendes,QVC (Geoffrey Bodine),Ford,167.0,44550.0,running,42.0,180.0
+1996,1,Homestead,2.0,7.0,24.0,Jack Sprague,Quaker State (Rick Hendrick),Chevrolet,167.0,22125.0,running,15.0,170.0
+1996,1,Homestead,3.0,4.0,16.0,"Ron Hornaday, Jr.","NAPA Brake Parts (Dale Earnhardt, Inc.)",Chevrolet,167.0,17725.0,running,27.0,165.0
+1996,1,Homestead,4.0,3.0,94.0,"Ron Barfield, Jr.",Super 8 Motel (Bill Elliott),Ford,167.0,12250.0,running,0.0,160.0
+1996,1,Homestead,5.0,26.0,44.0,Bryan Reffner,1-800-COLLECT (Mark Simo),Ford,167.0,11100.0,running,0.0,155.0
+1996,1,Homestead,6.0,29.0,27.0,Terry McCarthy,B & R Racing (Cheryl Cox),Chevrolet,167.0,10025.0,running,0.0,150.0
+1996,1,Homestead,7.0,24.0,8.0,John Nemechek,Chek Racing (John Nemechek),Chevrolet,167.0,10600.0,running,0.0,146.0
+1996,1,Homestead,8.0,21.0,42.0,Jay Sauter,Team Sabco (Felix Sabates),Chevrolet,166.0,9150.0,running,0.0,142.0
+1996,1,Homestead,9.0,31.0,0.0,Frank Kimmel,Black Tip Racing (Andy Campbell),Chevrolet,166.0,9050.0,running,0.0,138.0
+1996,1,Homestead,10.0,23.0,21.0,Doug George,Ortho Lawn & Garden Care (Jim Venable),Ford,166.0,9525.0,running,0.0,134.0
+1996,1,Homestead,11.0,36.0,31.0,Bob Brevak,Scaffidi Mack (Bob Brevak),Ford,166.0,9800.0,running,0.0,130.0
+1996,1,Homestead,12.0,27.0,64.0,Michael Dokken,Clearwater Linen (Wayne Dokken),Chevrolet,166.0,9550.0,running,0.0,127.0
+1996,1,Homestead,13.0,32.0,49.0,"Rodney Combs, Jr.",Comfrey Corners Store (Susan Combs),Chevrolet,165.0,8450.0,running,0.0,124.0
+1996,1,Homestead,14.0,28.0,92.0,Charlie Cragan,SKB Racing (Raymond Scanlan),Chevrolet,165.0,8350.0,running,0.0,121.0
+1996,1,Homestead,15.0,30.0,14.0,Butch Gilliland,Part Source (Bill Stroppe),Ford,164.0,8650.0,running,0.0,118.0
+1996,1,Homestead,16.0,20.0,6.0,Rick Carelli,Total Petroleum (Marshall Chesrown),Chevrolet,164.0,9150.0,running,0.0,115.0
+1996,1,Homestead,17.0,35.0,51.0,Ritchie Petty,Rosenblum Racing (Jim Rosenblum),Chevrolet,164.0,8050.0,running,0.0,112.0
+1996,1,Homestead,18.0,18.0,19.0,Lance Norick,Macklanburg-Duncan (Walker Evans),Dodge,163.0,7950.0,running,0.0,109.0
+1996,1,Homestead,19.0,6.0,80.0,Joe Ruttman,J.R.'s Garage (Jack Roush),Ford,155.0,8850.0,running,0.0,106.0
+1996,1,Homestead,20.0,2.0,3.0,Mike Skinner,GM Goodwrench Service (Richard Childress),Chevrolet,155.0,10050.0,running,74.0,103.0
+1996,1,Homestead,21.0,11.0,43.0,Rich Bickle,Cummins Engines (Petty Enterprises),Dodge,154.0,7550.0,running,0.0,100.0
+1996,1,Homestead,22.0,34.0,81.0,Jerry Glanville,Executive Sports Management (Jerry Glanville),Ford,149.0,8350.0,running,0.0,97.0
+1996,1,Homestead,23.0,15.0,75.0,Bobby Gill,Spears Manufacturing (Wayne Spears),Chevrolet,148.0,7150.0,engine,0.0,94.0
+1996,1,Homestead,24.0,13.0,98.0,Butch Miller,Raybestos (Jim Herrick),Ford,148.0,7950.0,running,0.0,91.0
+1996,1,Homestead,25.0,14.0,77.0,Scott Lagasse,Doran Racing (Kevin Doran),Chevrolet,130.0,7750.0,running,0.0,88.0
+1996,1,Homestead,26.0,5.0,30.0,Jimmy Hensley,Mopar Performance (Grier Lackey),Dodge,128.0,6750.0,engine,0.0,85.0
+1996,1,Homestead,27.0,9.0,2.0,Mike Bliss,Team ASE / Ultra Wheels (Jim Smith),Ford,116.0,6550.0,running,0.0,82.0
+1996,1,Homestead,28.0,22.0,20.0,Walker Evans,Dana / Perfect Circle (Walker Evans),Dodge,113.0,7350.0,suspension,0.0,79.0
+1996,1,Homestead,29.0,19.0,12.0,Dave Smith,Blake Racing (Bob Blake),Chevrolet,109.0,6100.0,engine,0.0,76.0
+1996,1,Homestead,30.0,12.0,17.0,Bill Sedgwick,Sears DieHard (Darrell Waltrip),Chevrolet,97.0,6750.0,engine,0.0,73.0
+1996,1,Homestead,31.0,33.0,37.0,Bob Strait,Petron Plus (Jim Spicuzza),Ford,89.0,5750.0,engine,0.0,70.0
+1996,1,Homestead,32.0,17.0,29.0,Bob Keselowski,Winnebago (Ron Keselowski),Dodge,84.0,5750.0,engine,0.0,67.0
+1996,1,Homestead,33.0,1.0,7.0,Geoffrey Bodine,QVC (Geoffrey Bodine),Ford,83.0,6750.0,crash,9.0,64.0
+1996,1,Homestead,34.0,16.0,65.0,Kenny Allen,ONSAT / TV Plus (Kenny Allen),Chevrolet,82.0,5750.0,crash,0.0,61.0
+1996,1,Homestead,35.0,25.0,71.0,Rick Markle,RME Racing (Del Markle),Chevrolet,54.0,4750.0,crash,0.0,58.0
+1996,1,Homestead,36.0,8.0,52.0,Ken Schrader,AC Delco (Ken Schrader),Chevrolet,47.0,5750.0,handling,0.0,55.0
+1996,2,Phoenix,1.0,2.0,24.0,Jack Sprague,Quaker State (Rick Hendrick),Chevrolet,186.0,37775.0,running,151.0,180.0
+1996,2,Phoenix,2.0,1.0,3.0,Mike Skinner,GM Goodwrench Service (Richard Childress),Chevrolet,186.0,22625.0,running,35.0,170.0
+1996,2,Phoenix,3.0,5.0,98.0,Butch Miller,Raybestos (Jim Herrick),Ford,186.0,13825.0,running,0.0,165.0
+1996,2,Phoenix,4.0,22.0,44.0,Bryan Reffner,1-800-COLLECT (Mark Simo),Ford,186.0,7425.0,running,0.0,160.0
+1996,2,Phoenix,5.0,9.0,16.0,"Ron Hornaday, Jr.","NAPA Brake Parts (Dale Earnhardt, Inc.)",Chevrolet,186.0,7100.0,running,0.0,155.0
+1996,2,Phoenix,6.0,6.0,6.0,Rick Carelli,Total Petroleum (Marshall Chesrown),Chevrolet,186.0,5750.0,running,0.0,150.0
+1996,2,Phoenix,7.0,8.0,80.0,Joe Ruttman,J.R.'s Garage (Jack Roush),Ford,186.0,5700.0,running,0.0,146.0
+1996,2,Phoenix,8.0,23.0,94.0,"Ron Barfield, Jr.",Super 8 Motel (Bill Elliott),Ford,186.0,5000.0,running,0.0,142.0
+1996,2,Phoenix,9.0,11.0,75.0,Bobby Gill,Spears Manufacturing (Wayne Spears),Chevrolet,186.0,5600.0,running,0.0,138.0
+1996,2,Phoenix,10.0,31.0,64.0,Michael Dokken,Clearwater Linen (Wayne Dokken),Chevrolet,185.0,6275.0,running,0.0,134.0
+1996,2,Phoenix,11.0,3.0,42.0,Jay Sauter,Team Sabco (Felix Sabates),Chevrolet,185.0,4500.0,running,0.0,130.0
+1996,2,Phoenix,12.0,25.0,51.0,T.J. Clark,J & H Carlectibles (Jim Rosenblum),Chevrolet,184.0,5450.0,running,0.0,127.0
+1996,2,Phoenix,13.0,16.0,31.0,Bob Brevak,Scaffidi Mack (Bob Brevak),Ford,183.0,5400.0,running,0.0,124.0
+1996,2,Phoenix,14.0,20.0,8.0,John Nemechek,Chek Racing (John Nemechek),Chevrolet,181.0,5350.0,running,0.0,121.0
+1996,2,Phoenix,15.0,14.0,83.0,Steve Portenga,Coffee Critic (Linda Mountanos),Chevrolet,178.0,5425.0,running,0.0,118.0
+1996,2,Phoenix,16.0,17.0,19.0,Lance Norick,Macklanburg-Duncan (Walker Evans),Dodge,177.0,4250.0,running,0.0,115.0
+1996,2,Phoenix,17.0,36.0,58.0,Wayne Jacks,Soff-Cut International (Wayne Jacks),Chevrolet,175.0,4200.0,running,0.0,112.0
+1996,2,Phoenix,18.0,33.0,17.0,Bill Sedgwick,Sears DieHard (Darrell Waltrip),Chevrolet,166.0,5150.0,running,0.0,109.0
+1996,2,Phoenix,19.0,29.0,21.0,Doug George,Ortho Lawn & Garden Care (Jim Venable),Ford,164.0,4100.0,running,0.0,106.0
+1996,2,Phoenix,20.0,34.0,81.0,Jerry Glanville,Glanville Motorsports (Jerry Glanville),Ford,161.0,5325.0,overheating,0.0,103.0
+1996,2,Phoenix,21.0,30.0,40.0,Carlos Serrano,Serrano Racing (Carlos Serrano),Chevrolet,132.0,4000.0,handling,0.0,100.0
+1996,2,Phoenix,22.0,12.0,7.0,Dave Rezendes,QVC (Geoffrey Bodine),Ford,132.0,4950.0,running,0.0,97.0
+1996,2,Phoenix,23.0,19.0,12.0,Dave Smith,Blake Racing (Bob Blake),Chevrolet,118.0,3850.0,crash,0.0,94.0
+1996,2,Phoenix,24.0,35.0,14.0,Butch Gilliland,Part Source (Bill Stroppe),Ford,108.0,3750.0,running,0.0,91.0
+1996,2,Phoenix,25.0,28.0,84.0,"Doug Thorpe, Jr.","Thorpe Motorsports (Doug Thorpe, Jr.)",Chevrolet,102.0,3650.0,crash,0.0,88.0
+1996,2,Phoenix,26.0,13.0,49.0,"Rodney Combs, Jr.",Comfrey Corners Store (Susan Combs),Chevrolet,93.0,3550.0,rear end,0.0,85.0
+1996,2,Phoenix,27.0,4.0,30.0,Jimmy Hensley,Mopar Performance (Grier Lackey),Dodge,92.0,3450.0,crash,0.0,82.0
+1996,2,Phoenix,28.0,7.0,2.0,Mike Bliss,Team ASE / Ultra Wheels (Jim Smith),Ford,91.0,4350.0,crash,0.0,79.0
+1996,2,Phoenix,29.0,27.0,78.0,Mike Chase,Petron Plus (Steven Sellers),Ford,84.0,4250.0,running,0.0,76.0
+1996,2,Phoenix,30.0,10.0,43.0,Rich Bickle,Cummins Engines (Petty Enterprises),Dodge,74.0,3150.0,clutch,0.0,73.0
+1996,2,Phoenix,31.0,18.0,92.0,Charlie Cragan,SKB Racing (Raymond Scanlan),Chevrolet,70.0,3050.0,oil pump,0.0,70.0
+1996,2,Phoenix,32.0,32.0,26.0,"Kenny Irwin, Jr.",Mittler Brothers Machine & Tool (Mike Mittler),Ford,36.0,2950.0,engine,0.0,67.0
+1996,2,Phoenix,33.0,24.0,27.0,Terry McCarthy,B & R Racing (Cheryl Cox),Chevrolet,7.0,2950.0,crash,0.0,64.0
+1996,2,Phoenix,34.0,15.0,29.0,Bob Keselowski,Winnebago (Ron Keselowski),Dodge,7.0,3950.0,crash,0.0,61.0
+1996,2,Phoenix,35.0,21.0,72.0,Kevin Harvick,Baja Grill (Mike Harvick),Chevrolet,7.0,2950.0,crash,0.0,58.0
+1996,2,Phoenix,36.0,26.0,20.0,Walker Evans,Dana / Perfect Circle (Walker Evans),Dodge,7.0,3950.0,crash,0.0,55.0
+1996,3,Portland,1.0,11.0,16.0,"Ron Hornaday, Jr.","NAPA Brake Parts (Dale Earnhardt, Inc.)",Chevrolet,200.0,36375.0,running,161.0,180.0
+1996,3,Portland,2.0,13.0,2.0,Mike Bliss,Team ASE / Ultra Wheels (Jim Smith),Ford,200.0,21825.0,running,0.0,170.0
+1996,3,Portland,3.0,5.0,3.0,Mike Skinner,GM Goodwrench Service (Richard Childress),Chevrolet,200.0,14800.0,running,5.0,165.0
+1996,3,Portland,4.0,10.0,17.0,Bill Sedgwick,Sears DieHard (Darrell Waltrip),Chevrolet,200.0,10200.0,running,0.0,160.0
+1996,3,Portland,5.0,4.0,98.0,Butch Miller,Raybestos (Jim Herrick),Ford,200.0,8050.0,running,0.0,155.0
+1996,3,Portland,6.0,9.0,6.0,Rick Carelli,Total Petroleum / Chesrown Auto Group (Marshall Chesrown),Chevrolet,200.0,7375.0,running,0.0,150.0
+1996,3,Portland,7.0,3.0,44.0,Bryan Reffner,1-800-COLLECT (Mark Simo),Ford,200.0,6325.0,running,0.0,146.0
+1996,3,Portland,8.0,7.0,24.0,Jack Sprague,Quaker State (Rick Hendrick),Chevrolet,200.0,5900.0,running,0.0,142.0
+1996,3,Portland,9.0,20.0,80.0,Joe Ruttman,J.R.'s Garage (Jack Roush),Ford,200.0,5850.0,running,0.0,138.0
+1996,3,Portland,10.0,8.0,30.0,Jimmy Hensley,Mopar Performance (Grier Lackey),Dodge,200.0,5450.0,running,0.0,134.0
+1996,3,Portland,11.0,2.0,94.0,"Ron Barfield, Jr.",Super 8 Motel (Bill Elliott),Ford,199.0,5125.0,running,34.0,130.0
+1996,3,Portland,12.0,16.0,8.0,John Nemechek,Chek Racing (John Nemechek),Chevrolet,199.0,5700.0,running,0.0,127.0
+1996,3,Portland,13.0,25.0,78.0,Mike Chase,Petron Plus (Steven Sellers),Ford,199.0,5650.0,running,0.0,124.0
+1996,3,Portland,14.0,12.0,21.0,Doug George,Ortho Lawn & Garden Care (Jim Venable),Ford,198.0,4600.0,running,0.0,121.0
+1996,3,Portland,15.0,26.0,65.0,Kenny Allen,ONSAT / TV Plus (Kenny Allen),Chevrolet,198.0,5875.0,running,0.0,118.0
+1996,3,Portland,16.0,6.0,29.0,Bob Keselowski,Winnebago (Ron Keselowski),Dodge,198.0,5250.0,running,0.0,115.0
+1996,3,Portland,17.0,31.0,64.0,Michael Dokken,Clearwater Linen (Wayne Dokken),Chevrolet,198.0,4200.0,running,0.0,112.0
+1996,3,Portland,18.0,29.0,20.0,Walker Evans,Dana / Perfect Circle (Walker Evans),Dodge,198.0,5150.0,running,0.0,109.0
+1996,3,Portland,19.0,17.0,38.0,Ernie Cope,Thunderbird Trading (Gina Cope),Chevrolet,197.0,4100.0,running,0.0,106.0
+1996,3,Portland,20.0,18.0,75.0,Bobby Gill,Spears Manufacturing (Wayne Spears),Chevrolet,196.0,4325.0,running,0.0,103.0
+1996,3,Portland,21.0,32.0,36.0,Lonnie Cox,DuPont Thompson PBE (Larry Carnes),Chevrolet,194.0,4000.0,running,0.0,100.0
+1996,3,Portland,22.0,28.0,73.0,Dan Obrist,Weston Pontiac-GMC (Dan Obrist),Chevrolet,193.0,3950.0,running,0.0,97.0
+1996,3,Portland,23.0,24.0,14.0,Butch Gilliland,Stroppe Motorsports (Bill Stroppe),Ford,193.0,3900.0,running,0.0,94.0
+1996,3,Portland,24.0,14.0,19.0,Lance Norick,Macklanburg-Duncan (Walker Evans),Dodge,188.0,3850.0,running,0.0,91.0
+1996,3,Portland,25.0,21.0,22.0,Rick Johnson,Red Dog (Roger Penske),Ford,187.0,3750.0,oil leak,0.0,88.0
+1996,3,Portland,26.0,22.0,31.0,Bob Brevak,Concor Tool & Machine (Bob Brevak),Ford,186.0,4725.0,running,0.0,85.0
+1996,3,Portland,27.0,1.0,43.0,Rich Bickle,Cummins Engines (Petty Enterprises),Dodge,184.0,3700.0,engine,0.0,82.0
+1996,3,Portland,28.0,27.0,83.0,Steve Portenga,Coffee Critic (Linda Mountanos),Chevrolet,164.0,4675.0,running,0.0,79.0
+1996,3,Portland,29.0,23.0,53.0,Dan Press,Advantage Memory / Class Act Coatings (Dan Press),Chevrolet,159.0,3675.0,engine,0.0,76.0
+1996,3,Portland,30.0,30.0,11.0,Mike Hurlbert,RPM Racing (Mike Hurlbert),Ford,158.0,4675.0,engine,0.0,73.0
+1996,3,Portland,31.0,19.0,72.0,Kevin Harvick,Classic Shop Coats (Mike Harvick),Chevrolet,146.0,3675.0,running,0.0,70.0
+1996,3,Portland,32.0,15.0,7.0,Dave Rezendes,QVC (Geoffrey Bodine),Ford,91.0,4675.0,crash,0.0,67.0
+1996,4,Evergreen,1.0,2.0,2.0,Mike Bliss,Team ASE / Ultra Wheels (Jim Smith),Ford,200.0,37675.0,running,156.0,180.0
+1996,4,Evergreen,2.0,11.0,16.0,"Ron Hornaday, Jr.","NAPA Brake Parts (Dale Earnhardt, Inc.)",Chevrolet,200.0,20825.0,running,2.0,170.0
+1996,4,Evergreen,3.0,10.0,53.0,Dan Press,Advantage Memory (Dan Press),Chevrolet,200.0,12775.0,running,0.0,165.0
+1996,4,Evergreen,4.0,3.0,43.0,Rich Bickle,Cummins Engines (Petty Enterprises),Dodge,200.0,9370.0,running,30.0,160.0
+1996,4,Evergreen,5.0,7.0,3.0,Mike Skinner,GM Goodwrench Service (Richard Childress),Chevrolet,200.0,7450.0,running,0.0,155.0
+1996,4,Evergreen,6.0,1.0,52.0,Tobey Butler,AC Delco (Ken Schrader),Chevrolet,200.0,7000.0,running,12.0,150.0
+1996,4,Evergreen,7.0,12.0,30.0,Jimmy Hensley,Mopar Performance (Grier Lackey),Dodge,200.0,4950.0,running,0.0,146.0
+1996,4,Evergreen,8.0,5.0,80.0,Joe Ruttman,J.R.'s Garage (Jack Roush),Ford,200.0,5900.0,running,0.0,142.0
+1996,4,Evergreen,9.0,14.0,94.0,"Ron Barfield, Jr.",Super 8 Motel (Bill Elliott),Ford,200.0,5700.0,running,0.0,138.0
+1996,4,Evergreen,10.0,9.0,17.0,Bill Sedgwick,Sears DieHard (Darrell Waltrip),Chevrolet,199.0,5900.0,running,0.0,134.0
+1996,4,Evergreen,11.0,20.0,7.0,Dave Rezendes,QVC (Geoffrey Bodine),Ford,199.0,5750.0,running,0.0,130.0
+1996,4,Evergreen,12.0,4.0,24.0,Jack Sprague,Quaker State (Rick Hendrick),Chevrolet,199.0,5700.0,running,0.0,127.0
+1996,4,Evergreen,13.0,16.0,6.0,Rick Carelli,Total Petroleum / Chesrown Auto Group (Marshall Chesrown),Chevrolet,199.0,5650.0,running,0.0,124.0
+1996,4,Evergreen,14.0,26.0,21.0,Doug George,Ortho Lawn & Garden Care (Jim Venable),Ford,198.0,4850.0,running,0.0,121.0
+1996,4,Evergreen,15.0,21.0,22.0,Rick Johnson,Red Dog (Roger Penske),Ford,198.0,4675.0,running,0.0,118.0
+1996,4,Evergreen,16.0,17.0,29.0,Bob Keselowski,Winnebago (Ron Keselowski),Dodge,197.0,5250.0,running,0.0,115.0
+1996,4,Evergreen,17.0,24.0,65.0,Kenny Allen,ONSAT / TV Plus (Kenny Allen),Chevrolet,197.0,5200.0,running,0.0,112.0
+1996,4,Evergreen,18.0,29.0,31.0,Bob Brevak,Concor Tool & Machine (Bob Brevak),Ford,196.0,5150.0,running,0.0,109.0
+1996,4,Evergreen,19.0,31.0,78.0,Mike Chase,Petron Plus (Steven Sellers),Ford,196.0,4100.0,running,0.0,106.0
+1996,4,Evergreen,20.0,13.0,8.0,John Nemechek,Chek Racing (John Nemechek),Chevrolet,196.0,5325.0,running,0.0,103.0
+1996,4,Evergreen,21.0,22.0,14.0,Butch Gilliland,Stroppe Motorsports (Bill Stroppe),Ford,195.0,4000.0,rear end,0.0,100.0
+1996,4,Evergreen,22.0,23.0,19.0,Lance Norick,Macklanburg-Duncan (Walker Evans),Dodge,194.0,3950.0,running,0.0,97.0
+1996,4,Evergreen,23.0,28.0,20.0,Walker Evans,Dana (Walker Evans),Dodge,193.0,4900.0,running,0.0,94.0
+1996,4,Evergreen,24.0,6.0,44.0,Bryan Reffner,1-800-COLLECT (Mark Simo),Ford,192.0,3850.0,running,0.0,91.0
+1996,4,Evergreen,25.0,32.0,60.0,Joe Madore,Eyecare Direct (Joe Madore),Chevrolet,180.0,3750.0,running,0.0,88.0
+1996,4,Evergreen,26.0,19.0,75.0,Bobby Gill,Spears Manufacturing (Wayne Spears),Chevrolet,175.0,3750.0,running,0.0,85.0
+1996,4,Evergreen,27.0,8.0,98.0,Butch Miller,Raybestos (Jim Herrick),Ford,169.0,4700.0,rear end,0.0,82.0
+1996,4,Evergreen,28.0,18.0,38.0,Ernie Cope,Thunderbird Trading (Gina Cope),Chevrolet,135.0,3675.0,overheating,0.0,79.0
+1996,4,Evergreen,29.0,25.0,64.0,Michael Dokken,Clearwater Linen (Wayne Dokken),Chevrolet,99.0,3675.0,overheating,0.0,76.0
+1996,4,Evergreen,30.0,15.0,72.0,Kevin Harvick,Baja Grill / Classic Shopcoats (Mike Harvick),Chevrolet,97.0,3675.0,crash,0.0,73.0
+1996,4,Evergreen,31.0,27.0,36.0,Lonnie Cox,DuPont Thompson PBE (Larry Carnes),Chevrolet,64.0,3675.0,engine,0.0,70.0
+1996,4,Evergreen,32.0,30.0,11.0,Mike Hurlbert,Bud Light (Mike Hurlbert),Ford,29.0,4675.0,engine,0.0,67.0
+1996,5,Tucson,1.0,8.0,3.0,Mike Skinner,GM Goodwrench Service (Richard Childress),Chevrolet,200.0,35625.0,running,74.0,180.0
+1996,5,Tucson,2.0,2.0,43.0,Rich Bickle,Cummins Engines (Petty Enterprises),Dodge,200.0,24575.0,running,126.0,170.0
+1996,5,Tucson,3.0,3.0,16.0,"Ron Hornaday, Jr.","NAPA Brake Parts (Dale Earnhardt, Inc.)",Chevrolet,200.0,13425.0,running,0.0,165.0
+1996,5,Tucson,4.0,4.0,30.0,Jimmy Hensley,Mopar Performance (Grier Lackey),Dodge,200.0,9625.0,running,0.0,160.0
+1996,5,Tucson,5.0,10.0,24.0,Jack Sprague,Quaker State (Rick Hendrick),Chevrolet,200.0,9475.0,running,0.0,155.0
+1996,5,Tucson,6.0,16.0,17.0,Bill Sedgwick,Sears DieHard (Darrell Waltrip),Chevrolet,200.0,6500.0,running,0.0,150.0
+1996,5,Tucson,7.0,17.0,75.0,Bobby Gill,Spears Manufacturing (Wayne Spears),Chevrolet,200.0,7300.0,running,0.0,146.0
+1996,5,Tucson,8.0,13.0,7.0,Dave Rezendes,QVC (Geoffrey Bodine),Ford,200.0,6425.0,running,0.0,142.0
+1996,5,Tucson,9.0,21.0,64.0,Michael Dokken,Clearwater Linen (Wayne Dokken),Chevrolet,200.0,5950.0,running,0.0,138.0
+1996,5,Tucson,10.0,11.0,29.0,Bob Keselowski,Winnebago (Ron Keselowski),Dodge,200.0,6775.0,running,0.0,134.0
+1996,5,Tucson,11.0,1.0,44.0,Bryan Reffner,1-800-COLLECT (Mark Simo),Ford,200.0,6700.0,running,0.0,130.0
+1996,5,Tucson,12.0,15.0,53.0,Dan Press,Advantage Memory (Dan Press),Chevrolet,200.0,4700.0,running,0.0,127.0
+1996,5,Tucson,13.0,24.0,83.0,Steve Portenga,Coffee Critic / Mission Uniform & Linen (Linda Mountanos),Chevrolet,200.0,3750.0,running,0.0,124.0
+1996,5,Tucson,14.0,27.0,40.0,Carlos Serrano,Supercuts (Carlos Serrano),Chevrolet,200.0,4600.0,running,0.0,121.0
+1996,5,Tucson,15.0,7.0,80.0,Joe Ruttman,J.R.'s Garage (Jack Roush),Ford,200.0,5775.0,running,0.0,118.0
+1996,5,Tucson,16.0,9.0,98.0,Butch Miller,Raybestos (Jim Herrick),Ford,199.0,5250.0,running,0.0,115.0
+1996,5,Tucson,17.0,14.0,8.0,John Nemechek,Chek Racing (John Nemechek),Chevrolet,199.0,5200.0,running,0.0,112.0
+1996,5,Tucson,18.0,28.0,20.0,Walker Evans,Dana (Walker Evans),Dodge,199.0,3475.0,running,0.0,109.0
+1996,5,Tucson,19.0,5.0,2.0,Mike Bliss,Team ASE / Ultra Wheels (Jim Smith),Ford,198.0,5100.0,running,0.0,106.0
+1996,5,Tucson,20.0,23.0,23.0,T.J. Clark,J & H Carlectibles (T.J. Clark),Chevrolet,197.0,4150.0,running,0.0,103.0
+1996,5,Tucson,21.0,19.0,21.0,Doug George,Ortho Lawn & Garden Care (Jim Venable),Ford,197.0,5000.0,running,0.0,100.0
+1996,5,Tucson,22.0,25.0,81.0,Jerry Glanville,Frickers / HBO Sports (Jerry Glanville),Ford,196.0,3950.0,running,0.0,97.0
+1996,5,Tucson,23.0,6.0,6.0,Rick Carelli,Total Petroleum / Chesrown Auto Group (Marshall Chesrown),Chevrolet,194.0,4900.0,running,0.0,94.0
+1996,5,Tucson,24.0,29.0,31.0,Bob Brevak,Concor Tool & Machine (Bob Brevak),Ford,188.0,4850.0,running,0.0,91.0
+1996,5,Tucson,25.0,12.0,14.0,Butch Gilliland,Stroppe Motorsports (Bill Stroppe),Ford,182.0,4750.0,running,0.0,88.0
+1996,5,Tucson,26.0,18.0,19.0,Lance Norick,Macklanburg-Duncan (Walker Evans),Dodge,181.0,4725.0,running,0.0,85.0
+1996,5,Tucson,27.0,20.0,38.0,Ernie Cope,Richard's Truck Parts (Gina Cope),Chevrolet,166.0,3700.0,running,0.0,82.0
+1996,5,Tucson,28.0,22.0,11.0,Joe Gaita,Hy-Tech Auto Body (Harry Johnson),Ford,149.0,3675.0,crash,0.0,79.0
+1996,5,Tucson,29.0,26.0,65.0,Kenny Allen,AAG Racing (Kenny Allen),Chevrolet,118.0,3675.0,engine,0.0,76.0
+1996,5,Tucson,30.0,30.0,36.0,Lonnie Cox,DuPont Thompson PBE (Larry Carnes),Chevrolet,64.0,3675.0,engine,0.0,73.0
+1996,6,Colorado,1.0,6.0,3.0,Mike Skinner,GM Goodwrench Service (Richard Childress),Chevrolet,253.0,38125.0,running,220.0,180.0
+1996,6,Colorado,2.0,3.0,98.0,Butch Miller,Raybestos (Jim Herrick),Ford,253.0,22625.0,running,0.0,170.0
+1996,6,Colorado,3.0,9.0,30.0,Jimmy Hensley,Mopar Performance (Grier Lackey),Dodge,253.0,14650.0,running,0.0,165.0
+1996,6,Colorado,4.0,5.0,24.0,Jack Sprague,Quaker State (Rick Hendrick),Chevrolet,253.0,11350.0,running,0.0,160.0
+1996,6,Colorado,5.0,22.0,7.0,Dave Rezendes,QVC (Geoffrey Bodine),Ford,253.0,8925.0,running,0.0,155.0
+1996,6,Colorado,6.0,26.0,80.0,Joe Ruttman,Roush Performance Products (Jack Roush),Ford,253.0,7100.0,running,0.0,150.0
+1996,6,Colorado,7.0,17.0,17.0,Bill Sedgwick,Sears DieHard (Darrell Waltrip),Chevrolet,253.0,6600.0,running,0.0,146.0
+1996,6,Colorado,8.0,8.0,16.0,"Ron Hornaday, Jr.","NAPA Brake Parts (Dale Earnhardt, Inc.)",Chevrolet,253.0,6400.0,running,9.0,142.0
+1996,6,Colorado,9.0,2.0,42.0,Jay Sauter,Coors Light (Felix Sabates),Chevrolet,253.0,7000.0,running,0.0,138.0
+1996,6,Colorado,10.0,25.0,21.0,Doug George,Ortho Lawn & Garden Care (Jim Venable),Ford,253.0,7575.0,running,0.0,134.0
+1996,6,Colorado,11.0,7.0,75.0,Bobby Gill,Spears Manufacturing (Wayne Spears),Chevrolet,253.0,6000.0,running,0.0,130.0
+1996,6,Colorado,12.0,12.0,8.0,John Nemechek,Roofing Contractors (John Nemechek),Chevrolet,252.0,5950.0,running,0.0,127.0
+1996,6,Colorado,13.0,18.0,78.0,Mike Chase,Petron Plus (Steven Sellers),Ford,252.0,4900.0,running,0.0,124.0
+1996,6,Colorado,14.0,29.0,31.0,Bob Brevak,Concor Tool & Machine (Bob Brevak),Ford,252.0,4850.0,running,0.0,121.0
+1996,6,Colorado,15.0,20.0,23.0,T.J. Clark,J & H Carlectibles (T.J. Clark),Chevrolet,252.0,4900.0,running,0.0,118.0
+1996,6,Colorado,16.0,11.0,44.0,Bryan Reffner,1-800-COLLECT (Mark Simo),Ford,251.0,5500.0,running,0.0,115.0
+1996,6,Colorado,17.0,19.0,83.0,Steve Portenga,Coffee Critic / Mission Uniform & Linen (Linda Mountanos),Chevrolet,251.0,4450.0,running,0.0,112.0
+1996,6,Colorado,18.0,21.0,20.0,Walker Evans,Dana (Walker Evans),Dodge,251.0,5450.0,running,0.0,109.0
+1996,6,Colorado,19.0,24.0,6.0,Rick Carelli,Total Petroleum / Chesrown Auto Group (Marshall Chesrown),Chevrolet,249.0,5350.0,running,0.0,106.0
+1996,6,Colorado,20.0,10.0,5.0,Jerry Robertson,Mane 'N Tail (Rudy Proctor),Ford,249.0,4575.0,running,0.0,103.0
+1996,6,Colorado,21.0,28.0,65.0,Kenny Allen,ONSAT / TV Plus (Kenny Allen),Chevrolet,249.0,4275.0,running,0.0,100.0
+1996,6,Colorado,22.0,31.0,81.0,Jerry Glanville,Frickers / HBO Sports (Jerry Glanville),Ford,246.0,4250.0,running,0.0,97.0
+1996,6,Colorado,23.0,4.0,2.0,Mike Bliss,Team ASE / Ultra Wheels (Jim Smith),Ford,245.0,5225.0,running,0.0,94.0
+1996,6,Colorado,24.0,16.0,19.0,Lance Norick,Macklanburg-Duncan (Walker Evans),Dodge,245.0,5200.0,running,0.0,91.0
+1996,6,Colorado,25.0,14.0,77.0,Gary St. Amant,Wynn's Oil Products (Kevin Doran),Chevrolet,235.0,4175.0,running,0.0,88.0
+1996,6,Colorado,26.0,32.0,36.0,Lonnie Cox,DuPont Thompson PBE (Larry Carnes),Chevrolet,224.0,4150.0,running,0.0,85.0
+1996,6,Colorado,27.0,15.0,53.0,Dan Press,Advantage Memory (Dan Press),Chevrolet,194.0,4125.0,transmission,0.0,82.0
+1996,6,Colorado,28.0,30.0,29.0,Bob Keselowski,Winnebago (Ron Keselowski),Dodge,189.0,5100.0,transmission,0.0,79.0
+1996,6,Colorado,29.0,13.0,64.0,Michael Dokken,Clearwater Linen (Wayne Dokken),Chevrolet,187.0,5100.0,engine,0.0,76.0
+1996,6,Colorado,30.0,27.0,71.0,Joe Gaita,Master Machine (Harry Johnson),Ford,166.0,4100.0,transmission,0.0,73.0
+1996,6,Colorado,31.0,23.0,38.0,Ernie Cope,Ernie Cope Racing (Gina Cope),Chevrolet,163.0,4100.0,transmission,0.0,70.0
+1996,6,Colorado,32.0,1.0,43.0,Rich Bickle,Cummins Engines (Petty Enterprises),Dodge,98.0,5100.0,engine,24.0,67.0
+1996,7,Topeka,1.0,3.0,3.0,Mike Skinner,GM Goodwrench Service (Richard Childress),Chevrolet,77.0,36850.0,running,70.0,180.0
+1996,7,Topeka,2.0,12.0,24.0,Jack Sprague,Quaker State (Rick Hendrick),Chevrolet,77.0,23295.0,running,0.0,170.0
+1996,7,Topeka,3.0,1.0,16.0,"Ron Hornaday, Jr.","NAPA Brake Parts (Dale Earnhardt, Inc.)",Chevrolet,77.0,15875.0,running,7.0,165.0
+1996,7,Topeka,4.0,4.0,2.0,Mike Bliss,Team ASE / Ultra Wheels (Jim Smith),Ford,77.0,10325.0,running,0.0,160.0
+1996,7,Topeka,5.0,2.0,42.0,Jay Sauter,Team Sabco (Felix Sabates),Chevrolet,77.0,8000.0,running,0.0,155.0
+1996,7,Topeka,6.0,8.0,18.0,"Johnny Benson, Jr.",Precision Gear / Performance Friction (Kurt Roehrig),Chevrolet,77.0,6800.0,running,0.0,150.0
+1996,7,Topeka,7.0,6.0,52.0,Ken Schrader,AC Delco (Ken Schrader),Chevrolet,77.0,5300.0,running,0.0,146.0
+1996,7,Topeka,8.0,28.0,99.0,Jeff Burton,Exide Batteries (Jack Roush),Ford,77.0,4950.0,running,0.0,142.0
+1996,7,Topeka,9.0,10.0,7.0,Dave Rezendes,QVC (Geoffrey Bodine),Ford,77.0,6050.0,running,0.0,138.0
+1996,7,Topeka,10.0,11.0,17.0,Bill Sedgwick,Sears DieHard (Darrell Waltrip),Chevrolet,77.0,5800.0,running,0.0,134.0
+1996,7,Topeka,11.0,13.0,5.0,Darrell Waltrip,Sears DieHard (Darrell Waltrip),Chevrolet,77.0,4500.0,running,0.0,130.0
+1996,7,Topeka,12.0,18.0,43.0,Rich Bickle,Cummins Engines (Petty Enterprises),Dodge,77.0,5450.0,running,0.0,127.0
+1996,7,Topeka,13.0,19.0,9.0,Davy Jones,Ringers Resource (Wilbur Bunce),Chevrolet,77.0,4400.0,running,0.0,124.0
+1996,7,Topeka,14.0,7.0,44.0,Bryan Reffner,1-800-COLLECT (Mark Simo),Ford,77.0,5600.0,running,0.0,121.0
+1996,7,Topeka,15.0,20.0,75.0,Bobby Gill,Spears Manufacturing (Wayne Spears),Chevrolet,77.0,5525.0,running,0.0,118.0
+1996,7,Topeka,16.0,21.0,20.0,Walker Evans,Dana (Walker Evans),Dodge,77.0,5250.0,running,0.0,115.0
+1996,7,Topeka,17.0,15.0,21.0,Doug George,Ortho Lawn & Garden Care (Jim Venable),Ford,77.0,5200.0,running,0.0,112.0
+1996,7,Topeka,18.0,25.0,22.0,Kenny Wallace,Red Dog (Roger Penske),Ford,77.0,4150.0,running,0.0,109.0
+1996,7,Topeka,19.0,5.0,98.0,Butch Miller,Raybestos (Jim Herrick),Ford,76.0,5125.0,running,0.0,106.0
+1996,7,Topeka,20.0,30.0,31.0,Bob Brevak,Concor Tool & Machine (Bob Brevak),Ford,74.0,5375.0,running,0.0,103.0
+1996,7,Topeka,21.0,31.0,8.0,John Nemechek,Chek Racing (John Nemechek),Chevrolet,73.0,5075.0,running,0.0,100.0
+1996,7,Topeka,22.0,16.0,19.0,Lance Norick,Macklanburg-Duncan (Walker Evans),Dodge,72.0,5050.0,running,0.0,97.0
+1996,7,Topeka,23.0,17.0,80.0,Joe Ruttman,Roush Performance Products (Jack Roush),Ford,67.0,5025.0,overheating,0.0,94.0
+1996,7,Topeka,24.0,22.0,6.0,Rick Carelli,Total Petroleum / Chesrown Auto Group (Marshall Chesrown),Chevrolet,65.0,5000.0,running,0.0,91.0
+1996,7,Topeka,25.0,9.0,66.0,"Wally Dallenbach, Jr.",Manhattan Bagel (Marshall Chesrown),Chevrolet,59.0,3975.0,transmission,0.0,88.0
+1996,7,Topeka,26.0,26.0,65.0,Kenny Allen,ONSAT / TV Plus (Kenny Allen),Chevrolet,56.0,3950.0,oil pump,0.0,85.0
+1996,7,Topeka,27.0,27.0,29.0,Bob Keselowski,Winnebago (Ron Keselowski),Dodge,46.0,4925.0,running,0.0,82.0
+1996,7,Topeka,28.0,14.0,30.0,Jimmy Hensley,Mopar Performance (Grier Lackey),Dodge,37.0,4900.0,water pump,0.0,79.0
+1996,7,Topeka,29.0,33.0,36.0,Lonnie Cox,DuPont Thompson PBE (Larry Carnes),Chevrolet,37.0,3875.0,running,0.0,76.0
+1996,7,Topeka,30.0,29.0,0.0,Frank Kimmel,Blind Tiger Brewery / Sprayer Parts Depot (Andy Campbell),Chevrolet,36.0,3850.0,transmission,0.0,73.0
+1996,7,Topeka,31.0,32.0,23.0,T.J. Clark,J & H Carlectibles (T.J. Clark),Chevrolet,35.0,3850.0,rear end,0.0,70.0
+1996,7,Topeka,32.0,23.0,64.0,Michael Dokken,Clearwater Linen (Wayne Dokken),Chevrolet,35.0,4850.0,transmission,0.0,67.0
+1996,7,Topeka,33.0,24.0,78.0,Mike Chase,Petron Plus (Steven Sellers),Ford,25.0,3850.0,transmission,0.0,64.0
+1996,8,Bristol,1.0,2.0,6.0,Rick Carelli,RE/MAX International (Marshall Chesrown),Chevrolet,200.0,35925.0,running,39.0,180.0
+1996,8,Bristol,2.0,8.0,7.0,Dave Rezendes,QVC (Geoffrey Bodine),Ford,200.0,18675.0,running,0.0,170.0
+1996,8,Bristol,3.0,18.0,42.0,Jay Sauter,Team Sabco (Felix Sabates),Chevrolet,200.0,10995.0,running,0.0,165.0
+1996,8,Bristol,4.0,1.0,3.0,Mike Skinner,GM Goodwrench Service (Richard Childress),Chevrolet,200.0,14350.0,running,125.0,160.0
+1996,8,Bristol,5.0,4.0,24.0,Jack Sprague,Quaker State (Rick Hendrick),Chevrolet,200.0,8950.0,running,0.0,155.0
+1996,8,Bristol,6.0,13.0,80.0,Joe Ruttman,Roush Performance Products (Jack Roush),Ford,200.0,6950.0,running,36.0,150.0
+1996,8,Bristol,7.0,19.0,75.0,Bobby Gill,Spears Manufacturing (Wayne Spears),Chevrolet,200.0,6650.0,running,0.0,146.0
+1996,8,Bristol,8.0,10.0,16.0,"Ron Hornaday, Jr.","NAPA Brake Parts (Dale Earnhardt, Inc.)",Chevrolet,200.0,5950.0,running,0.0,142.0
+1996,8,Bristol,9.0,21.0,19.0,Lance Norick,Macklanburg-Duncan (Walker Evans),Dodge,199.0,5850.0,running,0.0,138.0
+1996,8,Bristol,10.0,20.0,20.0,Walker Evans,Dana (Walker Evans),Dodge,199.0,6625.0,running,0.0,134.0
+1996,8,Bristol,11.0,5.0,98.0,Butch Miller,Raybestos (Jim Herrick),Ford,199.0,5500.0,running,0.0,130.0
+1996,8,Bristol,12.0,25.0,15.0,Mark Gibson,Isaac Leasco (Billy Ballew),Ford,198.0,4450.0,running,0.0,127.0
+1996,8,Bristol,13.0,16.0,33.0,Harry Gant,Westview Capital (Bob Best),Chevrolet,195.0,4400.0,running,0.0,124.0
+1996,8,Bristol,14.0,27.0,21.0,Doug George,Ortho Lawn & Garden Care (Jim Venable),Ford,194.0,4675.0,running,0.0,121.0
+1996,8,Bristol,15.0,30.0,65.0,Kenny Allen,AAG Racing (Kenny Allen),Chevrolet,193.0,4625.0,running,0.0,118.0
+1996,8,Bristol,16.0,14.0,29.0,Bob Keselowski,Winnebago (Ron Keselowski),Dodge,192.0,5250.0,running,0.0,115.0
+1996,8,Bristol,17.0,28.0,25.0,Andy Genzman,De's LP Gas (DeWilton Genzman),Ford,191.0,4200.0,running,0.0,112.0
+1996,8,Bristol,18.0,31.0,71.0,Joe Gaita,North Landing Construction (Harry Johnson),Ford,180.0,4150.0,running,0.0,109.0
+1996,8,Bristol,19.0,7.0,43.0,Rich Bickle,Cummins Engines (Petty Enterprises),Dodge,179.0,5100.0,running,0.0,106.0
+1996,8,Bristol,20.0,11.0,8.0,John Nemechek,Chek Racing (John Nemechek),Chevrolet,163.0,5325.0,running,0.0,103.0
+1996,8,Bristol,21.0,17.0,2.0,Mike Bliss,Team ASE / Ultra Wheels (Jim Smith),Ford,161.0,5000.0,crash,0.0,100.0
+1996,8,Bristol,22.0,26.0,23.0,T.J. Clark,J & H Carlectibles (T.J. Clark),Chevrolet,160.0,3950.0,crash,0.0,97.0
+1996,8,Bristol,23.0,6.0,44.0,Bryan Reffner,1-800-COLLECT (Mark Simo),Ford,158.0,4900.0,running,0.0,94.0
+1996,8,Bristol,24.0,29.0,31.0,Bob Brevak,Concor Tool & Machine (Bob Brevak),Ford,158.0,4850.0,running,0.0,91.0
+1996,8,Bristol,25.0,3.0,30.0,Jimmy Hensley,Mopar Performance (Grier Lackey),Dodge,141.0,4800.0,running,0.0,88.0
+1996,8,Bristol,26.0,23.0,64.0,Michael Dokken,Clearwater Linen (Wayne Dokken),Chevrolet,137.0,4750.0,crash,0.0,85.0
+1996,8,Bristol,27.0,15.0,41.0,Randy Renfrow,Itco Tire / N.C. Sweet Potatoes (Greg Turnage),Ford,124.0,3700.0,ignition,0.0,82.0
+1996,8,Bristol,28.0,12.0,17.0,Bill Sedgwick,Sears DieHard (Darrell Waltrip),Chevrolet,116.0,4650.0,running,0.0,79.0
+1996,8,Bristol,29.0,22.0,0.0,Gary Lloyd,Dixon Enterprises (Thee Dixon),Ford,103.0,3350.0,steering,0.0,76.0
+1996,8,Bristol,30.0,9.0,78.0,Mike Chase,Petron Plus (Steven Sellers),Ford,76.0,3300.0,crash,0.0,73.0
+1996,8,Bristol,31.0,24.0,32.0,Steve Mendenhall,Randy's RVs (Courtney Register),Chevrolet,19.0,3200.0,crash,0.0,70.0
+1996,8,Bristol,32.0,33.0,11.0,Mike Hurlbert,Bud Light (Mike Hurlbert),Ford,11.0,3100.0,crash,0.0,67.0
+1996,8,Bristol,33.0,32.0,13.0,Jimmy Davis,Oliver's Raw Bar (Jimmy Davis),Ford,5.0,3100.0,handing,0.0,64.0
+1996,9,Nazareth,1.0,2.0,24.0,Jack Sprague,Quaker State (Rick Hendrick),Chevrolet,152.0,39575.0,running,41.0,180.0
+1996,9,Nazareth,2.0,1.0,30.0,Jimmy Hensley,Mopar Performance (Grier Lackey),Dodge,152.0,26135.0,running,103.0,170.0
+1996,9,Nazareth,3.0,6.0,98.0,Butch Miller,Raybestos (Jim Herrick),Ford,152.0,15525.0,running,0.0,165.0
+1996,9,Nazareth,4.0,16.0,99.0,Jeff Burton,Exide Batteries (Jack Roush),Ford,152.0,7700.0,running,0.0,160.0
+1996,9,Nazareth,5.0,3.0,16.0,"Ron Hornaday, Jr.","NAPA Brake Parts (Dale Earnhardt, Inc.)",Chevrolet,152.0,7725.0,running,8.0,155.0
+1996,9,Nazareth,6.0,5.0,18.0,"Johnny Benson, Jr.",Pennzoil (Kurt Roehrig),Chevrolet,152.0,5750.0,running,0.0,150.0
+1996,9,Nazareth,7.0,14.0,80.0,Joe Ruttman,Roush Performance Products (Jack Roush),Ford,152.0,6200.0,running,0.0,146.0
+1996,9,Nazareth,8.0,11.0,7.0,Geoffrey Bodine,QVC (Geoffrey Bodine),Ford,152.0,5150.0,running,0.0,142.0
+1996,9,Nazareth,9.0,7.0,22.0,Rusty Wallace,Miller Racing (Roger Penske),Ford,152.0,5100.0,running,0.0,138.0
+1996,9,Nazareth,10.0,8.0,44.0,Bryan Reffner,1-800-COLLECT (Mark Simo),Ford,152.0,7575.0,running,0.0,134.0
+1996,9,Nazareth,11.0,4.0,2.0,Mike Bliss,Team ASE / Ultra Wheels (Jim Smith),Ford,152.0,6000.0,running,0.0,130.0
+1996,9,Nazareth,12.0,10.0,7.0,Dave Rezendes,QVC (Geoffrey Bodine),Ford,152.0,5950.0,running,0.0,127.0
+1996,9,Nazareth,13.0,9.0,52.0,Ken Schrader,AC Delco (Ken Schrader),Chevrolet,152.0,4900.0,running,0.0,124.0
+1996,9,Nazareth,14.0,12.0,3.0,Mike Skinner,GM Goodwrench Service (Richard Childress),Chevrolet,152.0,5850.0,running,0.0,121.0
+1996,9,Nazareth,15.0,19.0,43.0,Rich Bickle,Cummins Engines (Petty Enterprises),Dodge,152.0,6025.0,running,0.0,118.0
+1996,9,Nazareth,16.0,13.0,6.0,Rick Carelli,RE/MAX International (Marshall Chesrown),Chevrolet,152.0,5300.0,running,0.0,115.0
+1996,9,Nazareth,17.0,21.0,77.0,Scott Lagasse,Doran Motorsports (Kevin Doran),Chevrolet,152.0,4250.0,running,0.0,112.0
+1996,9,Nazareth,18.0,26.0,75.0,Bobby Gill,Spears Manufacturing (Wayne Spears),Chevrolet,151.0,5450.0,running,0.0,109.0
+1996,9,Nazareth,19.0,23.0,92.0,Charlie Cragan,Apple Harley-Davidson (Raymond Scanlan),Chevrolet,151.0,4150.0,running,0.0,106.0
+1996,9,Nazareth,20.0,17.0,8.0,John Nemechek,DeVilbiss Diamond (John Nemechek),Chevrolet,150.0,5375.0,running,0.0,103.0
+1996,9,Nazareth,21.0,28.0,33.0,Harry Gant,Westview Capital (Bob Best),Chevrolet,150.0,4075.0,running,0.0,100.0
+1996,9,Nazareth,22.0,27.0,21.0,Doug George,Ortho Lawn & Garden Care (Jim Venable),Ford,149.0,5050.0,running,0.0,97.0
+1996,9,Nazareth,23.0,22.0,64.0,Michael Dokken,Clearwater Linen (Wayne Dokken),Chevrolet,149.0,5025.0,running,0.0,94.0
+1996,9,Nazareth,24.0,24.0,12.0,Dave Smith,Blake Racing (Bob Blake),Chevrolet,148.0,4000.0,running,0.0,91.0
+1996,9,Nazareth,25.0,32.0,65.0,Kenny Allen,ONSAT / TV Plus (Kenny Allen),Chevrolet,147.0,3975.0,running,0.0,88.0
+1996,9,Nazareth,26.0,31.0,31.0,Bob Brevak,Scaffidi Mack (Bob Brevak),Ford,147.0,4950.0,running,0.0,85.0
+1996,9,Nazareth,27.0,25.0,15.0,Mike Colabucci,Key Federal Savings VISA (Mike Colabucci),Chevrolet,147.0,3925.0,running,0.0,82.0
+1996,9,Nazareth,28.0,15.0,17.0,Bill Sedgwick,Sears DieHard (Darrell Waltrip),Chevrolet,137.0,4900.0,running,0.0,79.0
+1996,9,Nazareth,29.0,18.0,19.0,Lance Norick,Macklanburg-Duncan (Walker Evans),Dodge,109.0,4875.0,running,0.0,76.0
+1996,9,Nazareth,30.0,34.0,71.0,Joe Gaita,North Landing Construction (Harry Johnson),Ford,76.0,3850.0,engine,0.0,73.0
+1996,9,Nazareth,31.0,30.0,23.0,T.J. Clark,J & H Carlectibles (T.J. Clark),Chevrolet,56.0,3825.0,crash,0.0,70.0
+1996,9,Nazareth,32.0,29.0,20.0,Walker Evans,Dana (Walker Evans),Dodge,49.0,4800.0,water pump,0.0,67.0
+1996,9,Nazareth,33.0,33.0,11.0,Mike Hurlbert,RPM Racing (Mike Hurlbert),Ford,45.0,3800.0,engine,0.0,64.0
+1996,9,Nazareth,34.0,20.0,29.0,Bob Keselowski,Winnebago (Ron Keselowski),Dodge,27.0,4800.0,engine,0.0,61.0
+1996,9,Nazareth,35.0,35.0,51.0,Perry Tripp,Rosenblum Racing (Jim Rosenblum),Chevrolet,0.0,3800.0,ignition,0.0,58.0
+1996,10,Milwaukee,1.0,8.0,24.0,Jack Sprague,Quaker State (Rick Hendrick),Chevrolet,200.0,40275.0,running,102.0,180.0
+1996,10,Milwaukee,2.0,16.0,17.0,Bill Sedgwick,Sears DieHard (Darrell Waltrip),Chevrolet,200.0,22275.0,running,0.0,170.0
+1996,10,Milwaukee,3.0,7.0,16.0,"Ron Hornaday, Jr.","NAPA Brake Parts (Dale Earnhardt, Inc.)",Chevrolet,200.0,15600.0,running,1.0,165.0
+1996,10,Milwaukee,4.0,6.0,30.0,Jimmy Hensley,Mopar Performance (Grier Lackey),Dodge,200.0,11025.0,running,0.0,160.0
+1996,10,Milwaukee,5.0,1.0,2.0,Mike Bliss,Team ASE / Ultra Wheels (Jim Smith),Ford,200.0,11225.0,running,5.0,155.0
+1996,10,Milwaukee,6.0,13.0,75.0,Bobby Gill,Spears Manufacturing (Wayne Spears),Chevrolet,200.0,8675.0,running,0.0,150.0
+1996,10,Milwaukee,7.0,2.0,3.0,Mike Skinner,GM Goodwrench Service (Richard Childress),Chevrolet,200.0,7075.0,running,92.0,146.0
+1996,10,Milwaukee,8.0,11.0,7.0,Dave Rezendes,QVC (Geoffrey Bodine),Ford,199.0,6200.0,running,0.0,142.0
+1996,10,Milwaukee,9.0,27.0,15.0,Mark Gibson,L.C. Smith Sales & Leasing / Isaac Leasco (Billy Ballew),Ford,198.0,5200.0,running,0.0,138.0
+1996,10,Milwaukee,10.0,28.0,65.0,Kenny Allen,Action Rent-to-Own (Kenny Allen),Chevrolet,198.0,5850.0,running,0.0,134.0
+1996,10,Milwaukee,11.0,26.0,6.0,Rick Carelli,RE/MAX International (Marshall Chesrown),Chevrolet,198.0,6000.0,running,0.0,130.0
+1996,10,Milwaukee,12.0,24.0,88.0,Terry Cook,Sealmaster Racing (Duke Thorson),Chevrolet,197.0,4975.0,running,0.0,127.0
+1996,10,Milwaukee,13.0,15.0,29.0,Bob Keselowski,Winnebago (Ron Keselowski),Dodge,197.0,5900.0,running,0.0,124.0
+1996,10,Milwaukee,14.0,25.0,81.0,Jerry Glanville,Frickers / HBO Sports (Jerry Glanville),Ford,190.0,4875.0,running,0.0,121.0
+1996,10,Milwaukee,15.0,31.0,31.0,Bob Brevak,Ho-Chunk Casino (Bob Brevak),Ford,190.0,6225.0,running,0.0,118.0
+1996,10,Milwaukee,16.0,17.0,92.0,Charlie Cragan,SKB Motorsports (Raymond Scanlan),Chevrolet,177.0,4625.0,valve,0.0,115.0
+1996,10,Milwaukee,17.0,10.0,80.0,Joe Ruttman,Roush Performance Products (Jack Roush),Ford,166.0,5325.0,running,0.0,112.0
+1996,10,Milwaukee,18.0,19.0,64.0,Michael Dokken,Clearwater Linen (Wayne Dokken),Chevrolet,164.0,5275.0,crash,0.0,109.0
+1996,10,Milwaukee,19.0,18.0,21.0,Doug George,Ortho Lawn & Garden Care (Jim Venable),Ford,155.0,5225.0,crash,0.0,106.0
+1996,10,Milwaukee,20.0,9.0,43.0,Rich Bickle,Cummins Engines (Petty Enterprises),Dodge,154.0,5350.0,engine,0.0,103.0
+1996,10,Milwaukee,21.0,32.0,36.0,Lonnie Cox,DuPont Thompson PBE (Larry Carnes),Chevrolet,154.0,4125.0,running,0.0,100.0
+1996,10,Milwaukee,22.0,23.0,26.0,Randy Porter,Mittler Brothers Machine & Tool (Mike Mittler),Ford,135.0,4075.0,overheating,0.0,97.0
+1996,10,Milwaukee,23.0,21.0,12.0,Dave Smith,Blake Racing (Bob Blake),Chevrolet,127.0,4025.0,crash,0.0,94.0
+1996,10,Milwaukee,24.0,4.0,44.0,Bryan Reffner,1-800-COLLECT (Mark Simo),Ford,117.0,4975.0,crash,0.0,91.0
+1996,10,Milwaukee,25.0,3.0,42.0,Jay Sauter,Team Sabco (Felix Sabates),Chevrolet,117.0,3950.0,crash,0.0,88.0
+1996,10,Milwaukee,26.0,12.0,4.0,Robbie Reiser,GMC Truckin' Team (Mueller Brothers),Chevrolet,109.0,3925.0,brakes,0.0,85.0
+1996,10,Milwaukee,27.0,5.0,98.0,Butch Miller,Raybestos (Jim Herrick),Ford,106.0,4900.0,engine,0.0,82.0
+1996,10,Milwaukee,28.0,14.0,94.0,"Ron Barfield, Jr.",Super 8 Motel (Bill Elliott),Ford,103.0,3875.0,shift lever,0.0,79.0
+1996,10,Milwaukee,29.0,22.0,8.0,John Nemechek,Chek Racing (John Nemechek),Chevrolet,100.0,4850.0,crash,0.0,76.0
+1996,10,Milwaukee,30.0,30.0,20.0,Walker Evans,Dana (Walker Evans),Dodge,86.0,4825.0,engine,0.0,73.0
+1996,10,Milwaukee,31.0,34.0,35.0,Bill Venturini,BW-3 / Caputo Concrete (Cathy Venturini),Chevrolet,58.0,3825.0,engine,0.0,70.0
+1996,10,Milwaukee,32.0,29.0,73.0,Bob Schacht,Modern Business Machines (Arne Henriksen),Ford,28.0,3825.0,crash,0.0,67.0
+1996,10,Milwaukee,33.0,20.0,19.0,Lance Norick,Macklanburg-Duncan (Walker Evans),Dodge,18.0,4825.0,crash,0.0,64.0
+1996,10,Milwaukee,34.0,33.0,11.0,Mike Hurlbert,Bud Light (Mike Hurlbert),Ford,3.0,3825.0,engine,0.0,61.0
+1996,11,Louisville,1.0,5.0,16.0,"Ron Hornaday, Jr.","NAPA Brake Parts (Dale Earnhardt, Inc.)",Chevrolet,225.0,33975.0,running,124.0,180.0
+1996,11,Louisville,2.0,11.0,3.0,Mike Skinner,GM Goodwrench Service (Richard Childress),Chevrolet,225.0,25725.0,running,0.0,170.0
+1996,11,Louisville,3.0,3.0,30.0,Jimmy Hensley,Mopar Performance (Grier Lackey),Dodge,225.0,15450.0,running,0.0,165.0
+1996,11,Louisville,4.0,6.0,7.0,Dave Rezendes,QVC (Geoffrey Bodine),Ford,225.0,11725.0,running,0.0,160.0
+1996,11,Louisville,5.0,12.0,80.0,Joe Ruttman,Roush Performance Products (Jack Roush),Ford,225.0,7975.0,running,0.0,155.0
+1996,11,Louisville,6.0,15.0,44.0,Bryan Reffner,1-800-COLLECT (Mark Simo),Ford,225.0,8025.0,running,0.0,150.0
+1996,11,Louisville,7.0,17.0,6.0,Rick Carelli,RE/MAX International (Marshall Chesrown),Chevrolet,225.0,7000.0,running,0.0,146.0
+1996,11,Louisville,8.0,9.0,24.0,Jack Sprague,Quaker State (Rick Hendrick),Chevrolet,225.0,5900.0,running,0.0,142.0
+1996,11,Louisville,9.0,22.0,98.0,Butch Miller,Raybestos (Jim Herrick),Ford,225.0,5975.0,running,0.0,138.0
+1996,11,Louisville,10.0,13.0,8.0,John Nemechek,BellSouth Mobility (John Nemechek),Chevrolet,225.0,6325.0,running,0.0,134.0
+1996,11,Louisville,11.0,16.0,75.0,Bobby Gill,Spears Manufacturing (Wayne Spears),Chevrolet,225.0,6025.0,running,0.0,130.0
+1996,11,Louisville,12.0,27.0,0.0,Frank Kimmel,Banquet Table (Andy Campbell),Chevrolet,225.0,4700.0,running,0.0,127.0
+1996,11,Louisville,13.0,1.0,2.0,Mike Bliss,Team ASE / Ultra Wheels (Jim Smith),Ford,225.0,6375.0,running,101.0,124.0
+1996,11,Louisville,14.0,31.0,15.0,Mark Gibson,L.C. Smith Sales (Billy Ballew),Ford,223.0,4000.0,running,0.0,121.0
+1996,11,Louisville,15.0,21.0,19.0,Lance Norick,Macklanburg-Duncan (Walker Evans),Dodge,223.0,5775.0,running,0.0,118.0
+1996,11,Louisville,16.0,23.0,28.0,Boris Said,1-800-COLLECT (Mark Simo),Ford,222.0,4250.0,running,0.0,115.0
+1996,11,Louisville,17.0,7.0,17.0,Bill Sedgwick,Sears DieHard (Darrell Waltrip),Chevrolet,221.0,5225.0,running,0.0,112.0
+1996,11,Louisville,18.0,24.0,21.0,Doug George,Ortho Lawn & Garden Care (Jim Venable),Ford,218.0,5150.0,running,0.0,109.0
+1996,11,Louisville,19.0,10.0,92.0,Charlie Cragan,Rotary Lift (Raymond Scanlan),Chevrolet,212.0,4125.0,running,0.0,106.0
+1996,11,Louisville,20.0,2.0,64.0,Michael Dokken,Clearwater Linen (Wayne Dokken),Chevrolet,158.0,5325.0,running,0.0,103.0
+1996,11,Louisville,21.0,32.0,41.0,Randy Renfrow,Itco Tire / N.C. Sweet Potatoes (Greg Turnage),Ford,132.0,4000.0,crash,0.0,100.0
+1996,11,Louisville,22.0,25.0,31.0,Bob Brevak,Ho-Chunk Casino / Concor Tool & Machine (Bob Brevak),Ford,132.0,4950.0,running,0.0,97.0
+1996,11,Louisville,23.0,30.0,11.0,Joe Gaita,North Landing Construction (Harry Johnson),Ford,129.0,3925.0,crash,0.0,94.0
+1996,11,Louisville,24.0,14.0,23.0,T.J. Clark,J & H Carlectibles (T.J. Clark),Chevrolet,125.0,3900.0,crash,0.0,91.0
+1996,11,Louisville,25.0,29.0,36.0,Lonnie Cox,DuPont Thompson PBE (Larry Carnes),Chevrolet,108.0,3875.0,crash,0.0,88.0
+1996,11,Louisville,26.0,18.0,20.0,Walker Evans,Dana (Walker Evans),Dodge,95.0,4850.0,crash,0.0,85.0
+1996,11,Louisville,27.0,19.0,43.0,Rich Bickle,Cummins Engines (Petty Enterprises),Dodge,93.0,4825.0,crash,0.0,82.0
+1996,11,Louisville,28.0,20.0,1.0,Mike Colabucci,Key Federal Savings VISA (Mike Colabucci),Chevrolet,92.0,3800.0,crash,0.0,79.0
+1996,11,Louisville,29.0,26.0,65.0,Kenny Allen,AAG Racing (Kenny Allen),Chevrolet,49.0,3800.0,crash,0.0,76.0
+1996,11,Louisville,30.0,28.0,77.0,Scott Lagasse,Doran Motorsports (Kevin Doran),Chevrolet,37.0,3800.0,oil pressure,0.0,73.0
+1996,11,Louisville,31.0,4.0,29.0,Bob Keselowski,Winnebago (Ron Keselowski),Dodge,26.0,4800.0,crash,0.0,70.0
+1996,11,Louisville,32.0,8.0,2.0,Johnny Chapman,Dana (Walker Evans),Dodge,22.0,3800.0,electrical,0.0,67.0
+1996,12,I-70,1.0,7.0,2.0,Mike Bliss,Team ASE / Ultra Wheels (Jim Smith),Ford,200.0,36025.0,running,85.0,180.0
+1996,12,I-70,2.0,12.0,3.0,Mike Skinner,GM Goodwrench Service (Richard Childress),Chevrolet,200.0,21825.0,running,0.0,170.0
+1996,12,I-70,3.0,13.0,6.0,Rick Carelli,RE/MAX International (Marshall Chesrown),Chevrolet,200.0,17000.0,running,0.0,165.0
+1996,12,I-70,4.0,2.0,16.0,"Ron Hornaday, Jr.","NAPA Brake Parts (Dale Earnhardt, Inc.)",Chevrolet,200.0,11050.0,running,115.0,160.0
+1996,12,I-70,5.0,8.0,17.0,Bill Sedgwick,Sears DieHard (Darrell Waltrip),Chevrolet,200.0,7400.0,running,0.0,155.0
+1996,12,I-70,6.0,11.0,21.0,Doug George,Ortho Lawn & Garden Care (Jim Venable),Ford,200.0,8425.0,running,0.0,150.0
+1996,12,I-70,7.0,9.0,75.0,Nathan Buttke,Spears Manufacturing (Wayne Spears),Chevrolet,199.0,5225.0,running,0.0,146.0
+1996,12,I-70,8.0,16.0,30.0,Jimmy Hensley,Mopar Performance (Grier Lackey),Dodge,199.0,6150.0,running,0.0,142.0
+1996,12,I-70,9.0,3.0,7.0,Dave Rezendes,QVC (Geoffrey Bodine),Ford,199.0,6225.0,running,0.0,138.0
+1996,12,I-70,10.0,14.0,43.0,Rich Bickle,Cummins Engines (Petty Enterprises),Dodge,199.0,6575.0,running,0.0,134.0
+1996,12,I-70,11.0,1.0,98.0,Butch Miller,Raybestos (Jim Herrick),Ford,198.0,6725.0,running,0.0,130.0
+1996,12,I-70,12.0,4.0,44.0,Bryan Reffner,1-800-COLLECT (Mark Simo),Ford,198.0,6200.0,running,0.0,127.0
+1996,12,I-70,13.0,20.0,28.0,Boris Said,1-800-COLLECT (Mark Simo),Ford,198.0,4925.0,running,0.0,124.0
+1996,12,I-70,14.0,5.0,24.0,Jack Sprague,Quaker State (Rick Hendrick),Chevrolet,196.0,5850.0,running,0.0,121.0
+1996,12,I-70,15.0,24.0,15.0,Mark Gibson,L.C. Smith Sales & Leasing (Billy Ballew),Ford,196.0,5150.0,running,0.0,118.0
+1996,12,I-70,16.0,22.0,8.0,John Nemechek,BellSouth Mobility (John Nemechek),Chevrolet,196.0,5500.0,running,0.0,115.0
+1996,12,I-70,17.0,18.0,19.0,Lance Norick,Macklanburg-Duncan (Walker Evans),Dodge,196.0,5475.0,running,0.0,112.0
+1996,12,I-70,18.0,23.0,36.0,Lonnie Cox,DuPont Thompson PBE (Larry Carnes),Chevrolet,192.0,4400.0,running,0.0,109.0
+1996,12,I-70,19.0,25.0,60.0,Joe Madore,Eyecare Direct (Joe Madore),Chevrolet,183.0,4375.0,running,0.0,106.0
+1996,12,I-70,20.0,6.0,80.0,Joe Ruttman,Roush Performance Products (Jack Roush),Ford,181.0,5500.0,running,0.0,103.0
+1996,12,I-70,21.0,17.0,31.0,Bob Brevak,Ho-Chunk Casino / Concor Tool & Machine (Bob Brevak),Ford,178.0,5250.0,running,0.0,100.0
+1996,12,I-70,22.0,19.0,26.0,Rick Beebe,Mittler Brothers Machine & Tool (Mike Mittler),Ford,150.0,4200.0,crash,0.0,97.0
+1996,12,I-70,23.0,15.0,29.0,Bob Keselowski,Winnebago (Ron Keselowski),Dodge,118.0,4175.0,crash,0.0,94.0
+1996,12,I-70,24.0,21.0,20.0,Walker Evans,Dana (Walker Evans),Dodge,111.0,5150.0,crash,0.0,91.0
+1996,12,I-70,25.0,10.0,64.0,Michael Dokken,Clearwater Linen (Wayne Dokken),Chevrolet,78.0,5125.0,crash,0.0,88.0
+1996,12,I-70,26.0,28.0,2.0,Johnny Chapman,Dana (Walker Evans),Dodge,15.0,4100.0,suspension,0.0,85.0
+1996,12,I-70,27.0,27.0,65.0,Kenny Allen,Ultra Custom Wheels (Kenny Allen),Ford,1.0,5075.0,transmission,0.0,82.0
+1996,12,I-70,28.0,26.0,11.0,Mike Hurlbert,RPM Racing (Mike Hurlbert),Ford,1.0,4050.0,engine,0.0,79.0
+1996,13,IRP,1.0,1.0,3.0,Mike Skinner,GM Goodwrench Service (Richard Childress),Chevrolet,200.0,37325.0,running,200.0,180.0
+1996,13,IRP,2.0,5.0,24.0,Jack Sprague,Quaker State (Rick Hendrick),Chevrolet,200.0,19252.0,running,0.0,170.0
+1996,13,IRP,3.0,10.0,2.0,Mike Bliss,Team ASE / Ultra Wheels (Jim Smith),Ford,200.0,13650.0,running,0.0,165.0
+1996,13,IRP,4.0,13.0,16.0,"Ron Hornaday, Jr.","NAPA Brake Parts (Dale Earnhardt, Inc.)",Chevrolet,200.0,8200.0,running,0.0,160.0
+1996,13,IRP,5.0,3.0,43.0,Rich Bickle,Cummins Engines (Petty Enterprises),Dodge,200.0,9050.0,running,0.0,155.0
+1996,13,IRP,6.0,15.0,42.0,Jay Sauter,Team Sabco (Felix Sabates),Chevrolet,200.0,7900.0,running,0.0,150.0
+1996,13,IRP,7.0,7.0,22.0,Kenny Wallace,Red Dog (Roger Penske),Ford,200.0,5200.0,running,0.0,146.0
+1996,13,IRP,8.0,12.0,75.0,Nathan Buttke,Spears Manufacturing (Wayne Spears),Chevrolet,200.0,4925.0,running,0.0,142.0
+1996,13,IRP,9.0,17.0,66.0,Mike McLaughlin,Wide Open Performance (Marshall Chesrown),Chevrolet,200.0,4850.0,running,0.0,138.0
+1996,13,IRP,10.0,9.0,4.0,Tony Stewart,Bigfoot Food Stores (Mueller Brothers),Chevrolet,200.0,5575.0,running,0.0,134.0
+1996,13,IRP,11.0,11.0,2.0,Steve Park,Dana (Walker Evans),Dodge,200.0,4500.0,running,0.0,130.0
+1996,13,IRP,12.0,14.0,33.0,Harry Gant,Westview Capital (Bob Best),Chevrolet,200.0,4450.0,running,0.0,127.0
+1996,13,IRP,13.0,20.0,98.0,Butch Miller,Raybestos (Jim Herrick),Ford,199.0,5400.0,running,0.0,124.0
+1996,13,IRP,14.0,21.0,99.0,Jeff Burton,Exide Batteries (Jack Roush),Ford,198.0,4350.0,running,0.0,121.0
+1996,13,IRP,15.0,33.0,92.0,Charlie Cragan,Rotary Lift (Raymond Scanlan),Chevrolet,191.0,4875.0,running,0.0,118.0
+1996,13,IRP,16.0,25.0,7.0,Dave Rezendes,QVC (Geoffrey Bodine),Ford,191.0,5250.0,running,0.0,115.0
+1996,13,IRP,17.0,27.0,71.0,Dave Stacy,Hobart Welding (Harry Johnson),Ford,190.0,4200.0,running,0.0,112.0
+1996,13,IRP,18.0,29.0,6.0,Rick Carelli,RE/MAX International (Marshall Chesrown),Chevrolet,188.0,5150.0,running,0.0,109.0
+1996,13,IRP,19.0,31.0,31.0,Bob Brevak,Concor Tool & Machine (Bob Brevak),Ford,188.0,5100.0,running,0.0,106.0
+1996,13,IRP,20.0,4.0,44.0,Bryan Reffner,1-800-COLLECT (Mark Simo),Ford,188.0,5325.0,running,0.0,103.0
+1996,13,IRP,21.0,16.0,29.0,Bob Keselowski,Winnebago (Ron Keselowski),Dodge,186.0,5000.0,running,0.0,100.0
+1996,13,IRP,22.0,6.0,80.0,Joe Ruttman,Roush Performance Products (Jack Roush),Ford,181.0,4950.0,running,0.0,97.0
+1996,13,IRP,23.0,26.0,23.0,T.J. Clark,J & H Carlectibles (T.J. Clark),Chevrolet,177.0,4900.0,running,0.0,94.0
+1996,13,IRP,24.0,28.0,19.0,Lance Norick,Macklanburg-Duncan (Walker Evans),Ford,174.0,4850.0,running,0.0,91.0
+1996,13,IRP,25.0,8.0,30.0,Jimmy Hensley,Mopar Performance (Grier Lackey),Dodge,172.0,4825.0,engine,0.0,88.0
+1996,13,IRP,26.0,18.0,8.0,John Nemechek,Delco Remy America (John Nemechek),Chevrolet,163.0,4800.0,running,0.0,85.0
+1996,13,IRP,27.0,23.0,20.0,Walker Evans,Dana (Walker Evans),Dodge,159.0,4775.0,running,0.0,82.0
+1996,13,IRP,28.0,30.0,21.0,Doug George,Ortho Lawn & Garden Care (Jim Venable),Ford,146.0,4750.0,running,0.0,79.0
+1996,13,IRP,29.0,32.0,36.0,Lonnie Cox,DuPont Thompson PBE (Larry Carnes),Chevrolet,101.0,3725.0,crash,0.0,76.0
+1996,13,IRP,30.0,24.0,17.0,Bill Sedgwick,Sears DieHard (Darrell Waltrip),Chevrolet,101.0,4700.0,crash,0.0,73.0
+1996,13,IRP,31.0,19.0,83.0,Steve Portenga,Coffee Critic (Linda Mountanos),Chevrolet,70.0,3700.0,steering,0.0,70.0
+1996,13,IRP,32.0,22.0,15.0,Mark Gibson,L.C. Smith Sales & Leasing (Billy Ballew),Ford,52.0,3700.0,crash,0.0,67.0
+1996,13,IRP,33.0,34.0,11.0,Mike Hurlbert,Bud Light (Mike Hurlbert),Ford,13.0,3700.0,transmission,0.0,64.0
+1996,13,IRP,34.0,2.0,18.0,David Green,Pennzoil (Kurt Roehrig),Chevrolet,7.0,3700.0,suspension,0.0,61.0
+1996,14,Flemington,1.0,3.0,3.0,Mike Skinner,GM Goodwrench Service (Richard Childress),Chevrolet,204.0,35625.0,running,188.0,180.0
+1996,14,Flemington,2.0,5.0,2.0,Mike Bliss,Team ASE / Ultra Wheels (Jim Smith),Ford,204.0,20925.0,running,0.0,170.0
+1996,14,Flemington,3.0,4.0,43.0,Rich Bickle,Cummins / STP / Georgia Pacfic (Petty Enterprises),Dodge,204.0,13350.0,running,0.0,165.0
+1996,14,Flemington,4.0,15.0,7.0,Dave Rezendes,QVC (Geoffrey Bodine),Ford,204.0,8525.0,running,0.0,160.0
+1996,14,Flemington,5.0,8.0,24.0,Jack Sprague,Quaker State (Rick Hendrick),Chevrolet,204.0,7775.0,running,0.0,155.0
+1996,14,Flemington,6.0,9.0,16.0,"Ron Hornaday, Jr.","NAPA Brake Parts (Dale Earnhardt, Inc.)",Chevrolet,204.0,6425.0,running,0.0,150.0
+1996,14,Flemington,7.0,19.0,6.0,Rick Carelli,RE/MAX International (Marshall Chesrown),Chevrolet,204.0,6750.0,running,0.0,146.0
+1996,14,Flemington,8.0,10.0,33.0,Harry Gant,Manheim Auctions (Bob Best),Chevrolet,204.0,4900.0,running,0.0,142.0
+1996,14,Flemington,9.0,2.0,30.0,Jimmy Hensley,Mopar Performance (Grier Lackey),Dodge,204.0,5850.0,running,0.0,138.0
+1996,14,Flemington,10.0,18.0,98.0,Butch Miller,Raybestos (Jim Herrick),Ford,203.0,6275.0,running,0.0,134.0
+1996,14,Flemington,11.0,17.0,17.0,Bill Sedgwick,Sears DieHard (Darrell Waltrip),Chevrolet,203.0,5750.0,running,0.0,130.0
+1996,14,Flemington,12.0,1.0,28.0,Bryan Reffner,1-800-COLLECT (Mark Simo),Ford,203.0,7250.0,running,3.0,127.0
+1996,14,Flemington,13.0,22.0,19.0,Lance Norick,Macklanburg-Duncan (Walker Evans),Ford,203.0,5900.0,running,0.0,124.0
+1996,14,Flemington,14.0,11.0,8.0,John Nemechek,Delco Remy America (John Nemechek),Chevrolet,202.0,5600.0,running,0.0,121.0
+1996,14,Flemington,15.0,27.0,21.0,Doug George,Ortho Lawn & Garden Care (Jim Venable),Ford,201.0,5775.0,running,0.0,118.0
+1996,14,Flemington,16.0,29.0,65.0,Kenny Allen,ONSAT / TV Plus (Kenny Allen),Chevrolet,200.0,5250.0,running,0.0,115.0
+1996,14,Flemington,17.0,16.0,23.0,T.J. Clark,J & H Carlectibles (T.J. Clark),Chevrolet,200.0,4200.0,running,0.0,112.0
+1996,14,Flemington,18.0,7.0,29.0,Bob Keselowski,Winnebago (Ron Keselowski),Dodge,199.0,5250.0,running,0.0,109.0
+1996,14,Flemington,19.0,13.0,75.0,Nathan Buttke,Spears Manufacturing (Wayne Spears),Chevrolet,199.0,4100.0,running,0.0,106.0
+1996,14,Flemington,20.0,25.0,20.0,Walker Evans,Dana / Performance Friction Brakes (Walker Evans),Dodge,198.0,5225.0,running,0.0,103.0
+1996,14,Flemington,21.0,21.0,31.0,Bob Brevak,Concor Tool & Machine (Bob Brevak),Ford,194.0,5000.0,running,0.0,100.0
+1996,14,Flemington,22.0,20.0,0.0,John Blewett III,Blewett Enterprises (Thee Dixon),Ford,175.0,3950.0,transmission,0.0,97.0
+1996,14,Flemington,23.0,14.0,15.0,Mark Gibson,L.C. Smith Sales (Billy Ballew),Ford,165.0,3900.0,running,0.0,94.0
+1996,14,Flemington,24.0,30.0,36.0,Lonnie Cox,DuPont Thompson PBE (Larry Carnes),Chevrolet,164.0,3850.0,running,0.0,91.0
+1996,14,Flemington,25.0,23.0,92.0,Charlie Cragan,Westerbeke Engines & Generators (Raymond Scanlan),Chevrolet,131.0,3800.0,crash,0.0,88.0
+1996,14,Flemington,26.0,24.0,85.0,Bobby Gerhart,Loctite / Gerhart Truck World (Bobby Gerhart),Chevrolet,126.0,3775.0,overheating,0.0,85.0
+1996,14,Flemington,27.0,6.0,80.0,Joe Ruttman,Roush Racing (Jack Roush),Ford,125.0,4775.0,radiator,13.0,82.0
+1996,14,Flemington,28.0,12.0,41.0,Randy Renfrow,Itco Tire / N.C. Sweet Potatoes (Greg Turnage),Ford,110.0,3775.0,handling,0.0,79.0
+1996,14,Flemington,29.0,26.0,1.0,Gary Lloyd,Dixon Enterprises (Thee Dixon),Ford,38.0,3775.0,overheating,0.0,76.0
+1996,14,Flemington,30.0,28.0,26.0,Michael Dokken,Mittler Brothers Machine & Tool (Mike Mittler),Ford,7.0,4775.0,handling,0.0,73.0
+1996,15,Watkins Glen,1.0,10.0,16.0,"Ron Hornaday, Jr.","NAPA Brake Parts (Dale Earnhardt, Inc.)",Chevrolet,61.0,32425.0,running,41.0,180.0
+1996,15,Watkins Glen,2.0,1.0,87.0,Joe Nemechek,BellSouth Mobility (Joe Nemechek),Chevrolet,61.0,20575.0,running,0.0,170.0
+1996,15,Watkins Glen,3.0,2.0,3.0,Mike Skinner,GM Goodwrench Service (Richard Childress),Chevrolet,61.0,13700.0,running,20.0,165.0
+1996,15,Watkins Glen,4.0,13.0,24.0,Jack Sprague,Quaker State (Rick Hendrick),Chevrolet,61.0,8325.0,running,0.0,160.0
+1996,15,Watkins Glen,5.0,7.0,43.0,Rich Bickle,Cummins Engines (Petty Enterprises),Dodge,61.0,9525.0,running,0.0,155.0
+1996,15,Watkins Glen,6.0,5.0,80.0,Joe Ruttman,Roush Performance Products (Jack Roush),Ford,61.0,6500.0,running,0.0,150.0
+1996,15,Watkins Glen,7.0,6.0,27.0,Rob Rizzo,Rizzo Racing (Rob Rizzo),Ford,61.0,5000.0,running,0.0,146.0
+1996,15,Watkins Glen,8.0,9.0,30.0,Jimmy Hensley,Mopar Performance (Grier Lackey),Dodge,61.0,5900.0,running,0.0,142.0
+1996,15,Watkins Glen,9.0,20.0,21.0,Doug George,Ortho Lawn & Garden Care (Jim Venable),Ford,61.0,6700.0,running,0.0,138.0
+1996,15,Watkins Glen,10.0,18.0,20.0,Walker Evans,Dana (Walker Evans),Dodge,61.0,6525.0,running,0.0,134.0
+1996,15,Watkins Glen,11.0,4.0,98.0,Butch Miller,Raybestos (Jim Herrick),Ford,61.0,5450.0,running,0.0,130.0
+1996,15,Watkins Glen,12.0,26.0,39.0,Jeff Spraker,MJ Software (Milo Januska),Chevrolet,61.0,4400.0,running,0.0,127.0
+1996,15,Watkins Glen,13.0,11.0,44.0,Bryan Reffner,1-800-COLLECT (Mark Simo),Ford,61.0,5600.0,running,0.0,124.0
+1996,15,Watkins Glen,14.0,24.0,17.0,Bill Sedgwick,Sears DieHard (Darrell Waltrip),Chevrolet,61.0,5300.0,running,0.0,121.0
+1996,15,Watkins Glen,15.0,23.0,23.0,T.J. Clark,J & H Carlectibles (T.J. Clark),Chevrolet,61.0,5575.0,running,0.0,118.0
+1996,15,Watkins Glen,16.0,12.0,8.0,John Nemechek,Delco Remy America (John Nemechek),Chevrolet,61.0,5200.0,running,0.0,115.0
+1996,15,Watkins Glen,17.0,21.0,7.0,Geoffrey Bodine,QVC (Geoffrey Bodine),Ford,61.0,4150.0,running,0.0,112.0
+1996,15,Watkins Glen,18.0,17.0,29.0,Bob Keselowski,Winnebago (Ron Keselowski),Dodge,60.0,5100.0,running,0.0,109.0
+1996,15,Watkins Glen,19.0,25.0,65.0,Kenny Allen,ONSAT / TV Plus (Kenny Allen),Chevrolet,60.0,5050.0,running,0.0,106.0
+1996,15,Watkins Glen,20.0,29.0,15.0,Mark Gibson,L.C. Smith Sales (Billy Ballew),Ford,58.0,4275.0,running,0.0,103.0
+1996,15,Watkins Glen,21.0,30.0,31.0,Bob Brevak,Concor Tool & Machine (Bob Brevak),Ford,55.0,4950.0,running,0.0,100.0
+1996,15,Watkins Glen,22.0,15.0,2.0,Mike Bliss,Team ASE / Ultra Wheels (Jim Smith),Ford,52.0,4900.0,running,0.0,97.0
+1996,15,Watkins Glen,23.0,3.0,7.0,Dave Rezendes,QVC (Geoffrey Bodine),Ford,47.0,4850.0,suspension,0.0,94.0
+1996,15,Watkins Glen,24.0,16.0,6.0,Rick Carelli,RE/MAX International (Marshall Chesrown),Chevrolet,45.0,4800.0,running,0.0,91.0
+1996,15,Watkins Glen,25.0,22.0,28.0,Ernie Irvan,1-800-COLLECT (Mark Simo),Ford,32.0,3750.0,transmission,0.0,88.0
+1996,15,Watkins Glen,26.0,27.0,5.0,Monty Klein,2nd Chance Consignment Shoppe (Bernie Cox),Chevrolet,32.0,3650.0,crash,0.0,85.0
+1996,15,Watkins Glen,27.0,28.0,85.0,Bobby Gerhart,Bobby Gerhart's Truck World (Bobby Gerhart),Chevrolet,31.0,3550.0,overheating,0.0,82.0
+1996,15,Watkins Glen,28.0,19.0,90.0,Lance Norick,Macklanburg-Duncan / Oklahoma City (Ron Norick),Ford,28.0,4450.0,running,0.0,79.0
+1996,15,Watkins Glen,29.0,8.0,75.0,Nathan Buttke,Spears Manufacturing (Wayne Spears),Chevrolet,16.0,3350.0,engine,0.0,76.0
+1996,15,Watkins Glen,30.0,14.0,22.0,Rick Johnson,Red Dog (Roger Penske),Ford,7.0,3300.0,engine,0.0,73.0
+1996,15,Watkins Glen,31.0,31.0,11.0,Mike Hurlbert,RPM Racing (Mike Hurlbert),Ford,3.0,3300.0,engine,0.0,70.0
+1996,16,Nashville,1.0,14.0,7.0,Dave Rezendes,QVC / Kroger (Geoffrey Bodine),Ford,255.0,37150.0,running,27.0,180.0
+1996,16,Nashville,2.0,4.0,16.0,"Ron Hornaday, Jr.","NAPA United Brakes (Dale Earnhardt, Inc.)",Chevrolet,255.0,19900.0,running,74.0,170.0
+1996,16,Nashville,3.0,1.0,24.0,Jack Sprague,Quaker State (Rick Hendrick),Chevrolet,255.0,15400.0,running,17.0,165.0
+1996,16,Nashville,4.0,7.0,98.0,Butch Miller,Raybestos (Jim Herrick),Ford,255.0,10125.0,running,2.0,160.0
+1996,16,Nashville,5.0,19.0,44.0,Bryan Reffner,1-800-COLLECT (Mark Simo),Ford,255.0,9025.0,running,0.0,155.0
+1996,16,Nashville,6.0,13.0,21.0,Doug George,Ortho Lawn & Garden Care (Jim Venable),Ford,255.0,7100.0,running,0.0,150.0
+1996,16,Nashville,7.0,10.0,64.0,Michael Dokken,Wade Hayes / Ricochet (Wayne Dokken),Chevrolet,255.0,5500.0,running,0.0,146.0
+1996,16,Nashville,8.0,11.0,30.0,Jimmy Hensley,Mopar Performance (Grier Lackey),Dodge,255.0,5950.0,running,0.0,142.0
+1996,16,Nashville,9.0,15.0,6.0,Rick Carelli,RE/MAX International (Marshall Chesrown),Chevrolet,255.0,5850.0,running,0.0,138.0
+1996,16,Nashville,10.0,3.0,2.0,Mike Bliss,Team ASE / Ultra Wheels / Wagner Brakes (Jim Smith),Ford,254.0,6500.0,running,0.0,134.0
+1996,16,Nashville,11.0,17.0,29.0,Bob Keselowski,Winnebago / Mopar (Ron Keselowski),Dodge,254.0,5500.0,running,0.0,130.0
+1996,16,Nashville,12.0,26.0,0.0,Frank Kimmel,Sprayer Parts Depot / Chevrolet (Andy Campbell),Chevrolet,254.0,4425.0,running,0.0,127.0
+1996,16,Nashville,13.0,12.0,80.0,Joe Ruttman,Roush Performance Products (Jack Roush),Ford,253.0,5400.0,running,0.0,124.0
+1996,16,Nashville,14.0,28.0,1.0,Andy Hillenburg,Vessels Stallion Farm (Scoop Vessels),Chevrolet,252.0,4375.0,running,0.0,121.0
+1996,16,Nashville,15.0,31.0,31.0,Bob Brevak,Scaffidi Mack (Bob Brevak),Ford,251.0,5525.0,running,0.0,118.0
+1996,16,Nashville,16.0,2.0,3.0,Mike Skinner,GM Goodwrench Service (Richard Childress),Chevrolet,250.0,7250.0,running,96.0,115.0
+1996,16,Nashville,17.0,33.0,20.0,Walker Evans,Dana (Walker Evans),Dodge,249.0,5200.0,running,0.0,112.0
+1996,16,Nashville,18.0,6.0,43.0,Rich Bickle,Cummins Engines (Petty Enterprises),Dodge,244.0,5150.0,crash,0.0,109.0
+1996,16,Nashville,19.0,29.0,1.0,"Billy Ogle, Jr.","Calhoun's Barbecue Sauce (Billy Ogle, Jr.)",Chevrolet,244.0,4100.0,running,0.0,106.0
+1996,16,Nashville,20.0,8.0,33.0,Harry Gant,Westview Capital (Bob Best),Chevrolet,234.0,4325.0,crash,39.0,103.0
+1996,16,Nashville,21.0,27.0,8.0,John Nemechek,Delco Remy America (John Nemechek),Chevrolet,171.0,5000.0,running,0.0,100.0
+1996,16,Nashville,22.0,20.0,15.0,Bobby Gill,Nashville Auto Auction / L.C. Smith (Billy Ballew),Ford,157.0,5000.0,running,0.0,97.0
+1996,16,Nashville,23.0,21.0,17.0,Bill Sedgwick,Sears DieHard (Darrell Waltrip),Chevrolet,139.0,4900.0,overheating,0.0,94.0
+1996,16,Nashville,24.0,18.0,32.0,Steve Mendenhall,Randy's RVs (Courtney Register),Chevrolet,138.0,3850.0,crash,0.0,91.0
+1996,16,Nashville,25.0,22.0,88.0,Terry Cook,Sealmaster Racing (Duke Thorson),Chevrolet,117.0,3825.0,brakes,0.0,88.0
+1996,16,Nashville,26.0,5.0,41.0,Randy Renfrow,Itco Tire / N.C. Sweet Potatoes (Greg Turnage),Ford,74.0,3800.0,brakes,0.0,85.0
+1996,16,Nashville,27.0,34.0,11.0,Mike Hurlbert,RPM Racing (Mike Hurlbert),Ford,61.0,3775.0,ignition,0.0,82.0
+1996,16,Nashville,28.0,9.0,75.0,Nathan Buttke,Spears Manufacturing (Wayne Spears),Chevrolet,59.0,3750.0,oil pressure,0.0,79.0
+1996,16,Nashville,29.0,16.0,19.0,Johnny Chapman,Dana (Walker Evans),Dodge,49.0,3725.0,overheating,0.0,76.0
+1996,16,Nashville,30.0,30.0,65.0,Kenny Allen,AAG Racing (Kenny Allen),Chevrolet,34.0,4700.0,engine,0.0,73.0
+1996,16,Nashville,31.0,23.0,50.0,Mark Day,He is Coming! (Charles Zahn),Ford,10.0,3700.0,rear end,0.0,70.0
+1996,16,Nashville,32.0,25.0,48.0,Casey Atwood,STP (Chuck Spicer),Chevrolet,5.0,3700.0,crash,0.0,67.0
+1996,16,Nashville,33.0,24.0,23.0,T.J. Clark,J & H Carlectibles (T.J. Clark),Chevrolet,4.0,3700.0,crash,0.0,64.0
+1996,16,Nashville,34.0,32.0,90.0,Lance Norick,Macklanburg-Duncan / Oklahoma City (Ron Norick),Ford,4.0,4700.0,crash,0.0,61.0
+1996,17,Richmond,1.0,2.0,3.0,Mike Skinner,GM Goodwrench Service (Richard Childress),Chevrolet,124.0,35825.0,running,109.0,180.0
+1996,17,Richmond,2.0,10.0,16.0,"Ron Hornaday, Jr.","NAPA Brake Parts (Dale Earnhardt, Inc.)",Chevrolet,124.0,18475.0,running,0.0,170.0
+1996,17,Richmond,3.0,4.0,99.0,Mark Martin,Exide Batteries (Jack Roush),Ford,124.0,12025.0,running,15.0,165.0
+1996,17,Richmond,4.0,15.0,80.0,Joe Ruttman,Roush Performance Products (Jack Roush),Ford,124.0,8550.0,running,0.0,160.0
+1996,17,Richmond,5.0,1.0,62.0,"Kenny Irwin, Jr.",Raybestos (Jim Herrick),Ford,124.0,8660.0,running,0.0,155.0
+1996,17,Richmond,6.0,7.0,75.0,Nathan Buttke,Spears Manufacturing (Wayne Spears),Chevrolet,124.0,5150.0,running,0.0,150.0
+1996,17,Richmond,7.0,12.0,98.0,Butch Miller,Raybestos (Jim Herrick),Ford,124.0,6100.0,running,0.0,146.0
+1996,17,Richmond,8.0,11.0,33.0,Harry Gant,Westview Capital (Bob Best),Chevrolet,124.0,4650.0,running,0.0,142.0
+1996,17,Richmond,9.0,23.0,5.0,Darrell Waltrip,Sears DieHard (Darrell Waltrip),Chevrolet,124.0,4600.0,running,0.0,138.0
+1996,17,Richmond,10.0,27.0,52.0,Tobey Butler,AC Delco (Ken Schrader),Chevrolet,124.0,6500.0,running,0.0,134.0
+1996,17,Richmond,11.0,18.0,7.0,Dave Rezendes,QVC (Geoffrey Bodine),Ford,124.0,5500.0,running,0.0,130.0
+1996,17,Richmond,12.0,22.0,41.0,Randy Renfrow,Itco Tire / N.C. Sweet Potatoes (Greg Turnage),Ford,124.0,4450.0,running,0.0,127.0
+1996,17,Richmond,13.0,6.0,30.0,Jimmy Hensley,Mopar Performance (Grier Lackey),Dodge,124.0,5400.0,running,0.0,124.0
+1996,17,Richmond,14.0,9.0,22.0,Kenny Wallace,Red Dog (Roger Penske),Ford,124.0,4350.0,running,0.0,121.0
+1996,17,Richmond,15.0,24.0,6.0,Rick Carelli,RE/MAX International (Marshall Chesrown),Chevrolet,124.0,5625.0,running,0.0,118.0
+1996,17,Richmond,16.0,17.0,43.0,Rich Bickle,Cummins Engines (Petty Enterprises),Dodge,124.0,5250.0,running,0.0,115.0
+1996,17,Richmond,17.0,20.0,15.0,Mark Gibson,Nashville Auto Auction (Billy Ballew),Ford,124.0,5950.0,running,0.0,112.0
+1996,17,Richmond,18.0,8.0,55.0,Kevin Grubb,Virginia is for Lovers (Kevin Grubb),Chevrolet,124.0,4150.0,running,0.0,109.0
+1996,17,Richmond,19.0,19.0,44.0,Bryan Reffner,1-800-COLLECT (Mark Simo),Ford,124.0,5375.0,running,0.0,106.0
+1996,17,Richmond,20.0,5.0,2.0,Mike Bliss,Team ASE / Ultra Wheels (Jim Smith),Ford,124.0,5325.0,running,0.0,103.0
+1996,17,Richmond,21.0,21.0,17.0,Bill Sedgwick,Sears DieHard (Darrell Waltrip),Chevrolet,124.0,5025.0,running,0.0,100.0
+1996,17,Richmond,22.0,14.0,42.0,Robbie Reiser,Evinrude (Mueller Brothers),Chevrolet,124.0,4000.0,running,0.0,97.0
+1996,17,Richmond,23.0,30.0,19.0,Johnny Chapman,Dana (Walker Evans),Dodge,124.0,3975.0,running,0.0,94.0
+1996,17,Richmond,24.0,33.0,21.0,Doug George,Ortho Lawn & Garden Care (Jim Venable),Ford,123.0,4975.0,running,0.0,91.0
+1996,17,Richmond,25.0,31.0,0.0,Gary Lloyd,Mansion Motorsports (Thee Dixon),Ford,123.0,3925.0,running,0.0,88.0
+1996,17,Richmond,26.0,26.0,65.0,Kenny Allen,ONSAT / TV Plus (Kenny Allen),Chevrolet,123.0,4900.0,running,0.0,85.0
+1996,17,Richmond,27.0,29.0,8.0,John Nemechek,Delco Remy America (John Nemechek),Chevrolet,122.0,4875.0,running,0.0,82.0
+1996,17,Richmond,28.0,34.0,31.0,Bob Brevak,Scaffidi Mack (Bob Brevak),Ford,122.0,4850.0,running,0.0,79.0
+1996,17,Richmond,29.0,3.0,24.0,Jack Sprague,Quaker State (Rick Hendrick),Chevrolet,121.0,4825.0,running,0.0,76.0
+1996,17,Richmond,30.0,35.0,20.0,Walker Evans,Dana (Walker Evans),Dodge,121.0,4800.0,running,0.0,73.0
+1996,17,Richmond,31.0,16.0,64.0,Michael Dokken,Clearwater Linen (Wayne Dokken),Chevrolet,118.0,4775.0,engine,0.0,70.0
+1996,17,Richmond,32.0,13.0,4.0,Wayne Grubb,Link-Belt Equipment (William Grubb),Chevrolet,112.0,3750.0,running,0.0,67.0
+1996,17,Richmond,33.0,28.0,29.0,Bob Keselowski,Winnebago (Ron Keselowski),Dodge,97.0,4750.0,running,0.0,64.0
+1996,17,Richmond,34.0,36.0,23.0,T.J. Clark,J & H Carlectibles (T.J. Clark),Chevrolet,96.0,3750.0,engine,0.0,61.0
+1996,17,Richmond,35.0,25.0,92.0,Charlie Cragan,Rotary Lift (Raymond Scanlan),Chevrolet,67.0,3750.0,crash,0.0,58.0
+1996,17,Richmond,36.0,32.0,1.0,Andy Hillenburg,Vessels Stallion Farm (Scoop Vessels),Chevrolet,34.0,3750.0,crash,0.0,55.0
+1996,18,Loudon,1.0,8.0,16.0,"Ron Hornaday, Jr.","NAPA Brake Parts (Dale Earnhardt, Inc.)",Chevrolet,206.0,34925.0,running,1.0,180.0
+1996,18,Loudon,2.0,3.0,24.0,Jack Sprague,Quaker State (Rick Hendrick),Chevrolet,206.0,27525.0,running,115.0,170.0
+1996,18,Loudon,3.0,13.0,2.0,Mike Bliss,Team ASE / Ultra Wheels (Jim Smith),Ford,206.0,18525.0,running,0.0,165.0
+1996,18,Loudon,4.0,2.0,18.0,Steve Park,Pennzoil (Kurt Roehrig),Chevrolet,206.0,10175.0,running,10.0,160.0
+1996,18,Loudon,5.0,20.0,28.0,Ernie Irvan,1-800-COLLECT (Mark Simo),Ford,206.0,7450.0,running,0.0,155.0
+1996,18,Loudon,6.0,4.0,9.0,Joe Bessey,Fisher Snow Plows (Joe Bessey),Chevrolet,206.0,6475.0,running,0.0,150.0
+1996,18,Loudon,7.0,7.0,44.0,Bryan Reffner,1-800-COLLECT (Mark Simo),Ford,206.0,6600.0,running,0.0,146.0
+1996,18,Loudon,8.0,5.0,80.0,Joe Ruttman,Roush Performance Products (Jack Roush),Ford,206.0,5700.0,running,71.0,142.0
+1996,18,Loudon,9.0,10.0,30.0,Jimmy Hensley,Mopar Performance (Grier Lackey),Dodge,205.0,5600.0,running,0.0,138.0
+1996,18,Loudon,10.0,22.0,17.0,Bill Sedgwick,Sears DieHard (Darrell Waltrip),Chevrolet,205.0,5550.0,running,0.0,134.0
+1996,18,Loudon,11.0,12.0,15.0,Bobby Gill,Nashville Auto Auction (Billy Ballew),Ford,204.0,5750.0,running,0.0,130.0
+1996,18,Loudon,12.0,16.0,43.0,Rich Bickle,Cummins Engines (Petty Enterprises),Dodge,203.0,5450.0,running,0.0,127.0
+1996,18,Loudon,13.0,19.0,6.0,Rick Carelli,RE/MAX International (Marshall Chesrown),Chevrolet,202.0,5200.0,running,0.0,124.0
+1996,18,Loudon,14.0,27.0,20.0,Walker Evans,Dana (Walker Evans),Dodge,201.0,5350.0,running,0.0,121.0
+1996,18,Loudon,15.0,26.0,85.0,Bobby Gerhart,Bobby Gerhart's Truck World (Bobby Gerhart),Chevrolet,201.0,4625.0,running,0.0,118.0
+1996,18,Loudon,16.0,29.0,1.0,Ken Bouchard,Auto Palace (Bob Brevak),Ford,200.0,4250.0,running,0.0,115.0
+1996,18,Loudon,17.0,9.0,75.0,Nathan Buttke,Spears Manufacturing (Wayne Spears),Chevrolet,198.0,4200.0,crash,0.0,112.0
+1996,18,Loudon,18.0,25.0,31.0,Bob Brevak,Concor Tool & Machine (Bob Brevak),Ford,196.0,5150.0,running,0.0,109.0
+1996,18,Loudon,19.0,6.0,29.0,Bob Keselowski,Winnebago (Ron Keselowski),Dodge,195.0,5100.0,running,0.0,106.0
+1996,18,Loudon,20.0,17.0,8.0,John Nemechek,BellSouth Mobility (John Nemechek),Chevrolet,193.0,5325.0,engine,0.0,103.0
+1996,18,Loudon,21.0,24.0,21.0,Doug George,Ortho Lawn & Garden Care (Jim Venable),Ford,190.0,5025.0,engine,0.0,100.0
+1996,18,Loudon,22.0,23.0,27.0,Rob Rizzo,Hydro-Stop Roofing (Rob Rizzo),Ford,178.0,4000.0,brakes,0.0,97.0
+1996,18,Loudon,23.0,14.0,7.0,Dave Rezendes,QVC (Geoffrey Bodine),Ford,173.0,3975.0,engine,0.0,94.0
+1996,18,Loudon,24.0,15.0,33.0,Harry Gant,Westview Capital (Bob Best),Chevrolet,155.0,3950.0,engine,0.0,91.0
+1996,18,Loudon,25.0,18.0,90.0,Lance Norick,Macklanburg-Duncan / Oklahoma City (Ron Norick),Ford,149.0,4925.0,exhaust,0.0,88.0
+1996,18,Loudon,26.0,11.0,98.0,Butch Miller,Raybestos (Jim Herrick),Ford,136.0,4900.0,rear end,0.0,85.0
+1996,18,Loudon,27.0,1.0,3.0,Mike Skinner,GM Goodwrench Service (Richard Childress),Chevrolet,32.0,5375.0,engine,9.0,82.0
+1996,18,Loudon,28.0,21.0,65.0,Kenny Allen,AAG Racing (Kenny Allen),Chevrolet,26.0,4850.0,crash,0.0,79.0
+1996,18,Loudon,29.0,28.0,39.0,Jeff Spraker,MJ Software (Milo Januska),Chevrolet,13.0,3825.0,engine,0.0,76.0
+1996,18,Loudon,30.0,30.0,11.0,Mike Hurlbert,RPM Racing (Mike Hurlbert),Ford,0.0,3800.0,engine,0.0,73.0
+1996,19,Martinsville,1.0,16.0,3.0,Mike Skinner,GM Goodwrench Service (Richard Childress),Chevrolet,255.0,34235.0,running,109.0,180.0
+1996,19,Martinsville,2.0,6.0,98.0,Butch Miller,Raybestos (Jim Herrick),Ford,255.0,21625.0,running,30.0,170.0
+1996,19,Martinsville,3.0,10.0,24.0,Jack Sprague,Quaker State (Rick Hendrick),Chevrolet,255.0,14225.0,running,0.0,165.0
+1996,19,Martinsville,4.0,7.0,16.0,"Ron Hornaday, Jr.","NAPA Brake Parts (Dale Earnhardt, Inc.)",Chevrolet,255.0,8450.0,running,0.0,160.0
+1996,19,Martinsville,5.0,2.0,5.0,Darrell Waltrip,Sears DieHard (Darrell Waltrip),Chevrolet,255.0,5900.0,running,0.0,155.0
+1996,19,Martinsville,6.0,25.0,80.0,Joe Ruttman,Roush Performance Products (Jack Roush),Ford,255.0,6550.0,running,0.0,150.0
+1996,19,Martinsville,7.0,3.0,43.0,Rich Bickle,Cummins Engines (Petty Enterprises),Dodge,255.0,7625.0,running,0.0,146.0
+1996,19,Martinsville,8.0,19.0,99.0,Jeff Burton,Exide Batteries (Jack Roush),Ford,255.0,4650.0,running,0.0,142.0
+1996,19,Martinsville,9.0,4.0,30.0,Jimmy Hensley,Mopar Performance (Grier Lackey),Dodge,255.0,5600.0,running,0.0,138.0
+1996,19,Martinsville,10.0,15.0,33.0,Harry Gant,Westview Capital (Bob Best),Chevrolet,255.0,5200.0,running,0.0,134.0
+1996,19,Martinsville,11.0,27.0,15.0,Bobby Gill,L.C. Smith Sales & Leasing (Billy Ballew),Ford,255.0,6250.0,running,0.0,130.0
+1996,19,Martinsville,12.0,18.0,7.0,Dave Rezendes,QVC (Geoffrey Bodine),Ford,255.0,5450.0,running,0.0,127.0
+1996,19,Martinsville,13.0,21.0,21.0,Doug George,Ortho Lawn & Garden Care (Jim Venable),Ford,255.0,5650.0,running,0.0,124.0
+1996,19,Martinsville,14.0,17.0,8.0,John Nemechek,Delco Remy America (John Nemechek),Chevrolet,255.0,5350.0,running,0.0,121.0
+1996,19,Martinsville,15.0,11.0,18.0,Michael Dokken,Roehrig Engineering (Kurt Roehrig),Chevrolet,255.0,4300.0,running,0.0,118.0
+1996,19,Martinsville,16.0,14.0,2.0,Mike Bliss,Team ASE / Ultra Wheels (Jim Smith),Ford,255.0,5250.0,running,0.0,115.0
+1996,19,Martinsville,17.0,26.0,44.0,Bryan Reffner,1-800-COLLECT (Mark Simo),Ford,255.0,5200.0,running,0.0,112.0
+1996,19,Martinsville,18.0,28.0,4.0,Wayne Grubb,Link-Belt Equipment (William Grubb),Chevrolet,254.0,4150.0,running,0.0,109.0
+1996,19,Martinsville,19.0,29.0,29.0,Bob Keselowski,Winnebago (Ron Keselowski),Dodge,254.0,5100.0,running,0.0,106.0
+1996,19,Martinsville,20.0,36.0,7.0,Barry Bodine,QVC (Geoffrey Bodine),Ford,254.0,4125.0,running,0.0,103.0
+1996,19,Martinsville,21.0,34.0,65.0,Kenny Allen,ONSAT / TV Plus (Kenny Allen),Chevrolet,254.0,5050.0,running,0.0,100.0
+1996,19,Martinsville,22.0,30.0,32.0,Steve Mendenhall,Randy's RVs (Courtney Register),Chevrolet,251.0,3950.0,running,0.0,97.0
+1996,19,Martinsville,23.0,31.0,90.0,Lance Norick,Macklanburg-Duncan/Oklahoma City (Ron Norick),Ford,247.0,4975.0,running,0.0,94.0
+1996,19,Martinsville,24.0,9.0,41.0,Randy Renfrow,Itco Tire / N.C. Sweet Potatoes (Greg Turnage),Ford,226.0,3950.0,crash,0.0,91.0
+1996,19,Martinsville,25.0,32.0,31.0,Bob Brevak,Concor Tool & Machine (Bob Brevak),Ford,217.0,4250.0,running,0.0,88.0
+1996,19,Martinsville,26.0,35.0,71.0,Ronnie Newman,Vinton Motors (Harry Johnson),Ford,214.0,3900.0,handling,0.0,85.0
+1996,19,Martinsville,27.0,24.0,92.0,Charlie Cragan,Westerbeke Engines & Generators (Raymond Scanlan),Chevrolet,189.0,3875.0,handling,0.0,82.0
+1996,19,Martinsville,28.0,5.0,75.0,Nathan Buttke,Spears Manufacturing (Wayne Spears),Chevrolet,179.0,3850.0,crash,0.0,79.0
+1996,19,Martinsville,29.0,23.0,6.0,Rick Carelli,RE/MAX International (Marshall Chesrown),Chevrolet,179.0,4825.0,crash,0.0,76.0
+1996,19,Martinsville,30.0,33.0,20.0,Walker Evans,Dana (Walker Evans),Dodge,161.0,4800.0,crash,0.0,73.0
+1996,19,Martinsville,31.0,1.0,48.0,Bobby Hamilton,STP (Chuck Spicer),Chevrolet,143.0,4975.0,steering,116.0,70.0
+1996,19,Martinsville,32.0,12.0,10.0,Curtis Markham,Key Federal Savings VISA (Mike Colabucci),Chevrolet,141.0,3750.0,alternator,0.0,67.0
+1996,19,Martinsville,33.0,13.0,23.0,T.J. Clark,J & H Carlectibles (T.J. Clark),Chevrolet,99.0,3750.0,rear end,0.0,64.0
+1996,19,Martinsville,34.0,20.0,17.0,Bill Sedgwick,Sears DieHard (Darrell Waltrip),Chevrolet,76.0,4750.0,engine,0.0,61.0
+1996,19,Martinsville,35.0,22.0,55.0,Kevin Grubb,Virginia is for Lovers (Kevin Grubb),Chevrolet,48.0,3750.0,crash,0.0,58.0
+1996,19,Martinsville,36.0,8.0,3.0,Kelly Denton,Mopar Performance (Grier Lackey),Dodge,24.0,3750.0,brakes,0.0,55.0
+1996,20,North Wilkesboro,1.0,2.0,99.0,Mark Martin,Exide Batteries (Jack Roush),Ford,250.0,31625.0,running,73.0,180.0
+1996,20,North Wilkesboro,2.0,10.0,24.0,Jack Sprague,Quaker State (Rick Hendrick),Chevrolet,250.0,20275.0,running,3.0,170.0
+1996,20,North Wilkesboro,3.0,14.0,98.0,Butch Miller,Raybestos (Jim Herrick),Ford,250.0,14025.0,running,0.0,165.0
+1996,20,North Wilkesboro,4.0,15.0,22.0,Kenny Wallace,Red Dog (Roger Penske),Ford,250.0,6750.0,running,0.0,160.0
+1996,20,North Wilkesboro,5.0,8.0,80.0,Joe Ruttman,LCI Telecommunications (Jack Roush),Ford,250.0,7425.0,running,0.0,155.0
+1996,20,North Wilkesboro,6.0,21.0,6.0,Rick Carelli,RE/MAX International (Marshall Chesrown),Chevrolet,250.0,7475.0,running,0.0,150.0
+1996,20,North Wilkesboro,7.0,1.0,18.0,"Johnny Benson, Jr.",Pennzoil (Kurt Roehrig),Chevrolet,250.0,5400.0,running,77.0,146.0
+1996,20,North Wilkesboro,8.0,9.0,43.0,Rich Bickle,Cummins Engines (Petty Enterprises),Dodge,250.0,5650.0,running,0.0,142.0
+1996,20,North Wilkesboro,9.0,3.0,3.0,Mike Skinner,GM Goodwrench Service (Richard Childress),Chevrolet,250.0,7600.0,running,97.0,138.0
+1996,20,North Wilkesboro,10.0,20.0,5.0,Darrell Waltrip,Sears DieHard (Darrell Waltrip),Chevrolet,250.0,4550.0,running,0.0,134.0
+1996,20,North Wilkesboro,11.0,30.0,64.0,Michael Dokken,Clearwater Linen (Wayne Dokken),Chevrolet,250.0,5500.0,running,0.0,130.0
+1996,20,North Wilkesboro,12.0,19.0,2.0,Mike Bliss,Team ASE / Ultra Wheels (Jim Smith),Ford,250.0,5450.0,running,0.0,127.0
+1996,20,North Wilkesboro,13.0,6.0,42.0,Robby Gordon,Team Sabco (Felix Sabates),Chevrolet,250.0,4400.0,running,0.0,124.0
+1996,20,North Wilkesboro,14.0,24.0,52.0,Tobey Butler,AC Delco (Ken Schrader),Chevrolet,250.0,4350.0,running,0.0,121.0
+1996,20,North Wilkesboro,15.0,22.0,21.0,Doug George,Ortho Lawn & Garden Care (Jim Venable),Ford,249.0,6325.0,running,0.0,118.0
+1996,20,North Wilkesboro,16.0,13.0,30.0,Jimmy Hensley,Mopar Performance (Grier Lackey),Dodge,249.0,5250.0,running,0.0,115.0
+1996,20,North Wilkesboro,17.0,29.0,17.0,Bill Sedgwick,Sears DieHard (Darrell Waltrip),Chevrolet,248.0,5200.0,running,0.0,112.0
+1996,20,North Wilkesboro,18.0,7.0,3.0,Kelly Denton,Mopar Performance (Grier Lackey),Dodge,248.0,4150.0,running,0.0,109.0
+1996,20,North Wilkesboro,19.0,11.0,8.0,John Nemechek,Delco Remy America (John Nemechek),Chevrolet,248.0,5100.0,running,0.0,106.0
+1996,20,North Wilkesboro,20.0,4.0,49.0,Rodney Combs,Lance Snacks (Susan Combs),Chevrolet,248.0,4325.0,running,0.0,103.0
+1996,20,North Wilkesboro,21.0,23.0,75.0,Nathan Buttke,Spears Manufacturing (Wayne Spears),Chevrolet,248.0,4025.0,running,0.0,100.0
+1996,20,North Wilkesboro,22.0,16.0,16.0,"Ron Hornaday, Jr.","NAPA Brake Parts (Dale Earnhardt, Inc.)",Chevrolet,248.0,5000.0,running,0.0,97.0
+1996,20,North Wilkesboro,23.0,28.0,7.0,Barry Bodine,QVC (Geoffrey Bodine),Ford,248.0,3975.0,running,0.0,94.0
+1996,20,North Wilkesboro,24.0,27.0,29.0,Bob Keselowski,Winnebago (Ron Keselowski),Dodge,248.0,4950.0,running,0.0,91.0
+1996,20,North Wilkesboro,25.0,17.0,48.0,Bobby Hamilton,STP (Chuck Spicer),Chevrolet,247.0,3925.0,running,0.0,88.0
+1996,20,North Wilkesboro,26.0,34.0,20.0,Walker Evans,Dana (Walker Evans),Dodge,247.0,4900.0,running,0.0,85.0
+1996,20,North Wilkesboro,27.0,36.0,15.0,Rick Johnson,Home Quarters Warehouse / Hechinger (Billy Ballew),Ford,245.0,3875.0,running,0.0,82.0
+1996,20,North Wilkesboro,28.0,33.0,31.0,Bob Brevak,Concor Tool & Machine (Bob Brevak),Ford,239.0,4850.0,running,0.0,79.0
+1996,20,North Wilkesboro,29.0,26.0,9.0,Greg Marlowe,USA Racing (Wilbur Bunce),Chevrolet,189.0,3825.0,engine,0.0,76.0
+1996,20,North Wilkesboro,30.0,32.0,1.0,Randy MacDonald,Mansion Motorsports (Thee Dixon),Ford,184.0,3800.0,running,0.0,73.0
+1996,20,North Wilkesboro,31.0,25.0,33.0,Harry Gant,Westview Capital (Bob Best),Chevrolet,180.0,4775.0,crash,0.0,70.0
+1996,20,North Wilkesboro,32.0,18.0,7.0,Dave Rezendes,QVC (Geoffrey Bodine),Ford,159.0,4750.0,running,0.0,67.0
+1996,20,North Wilkesboro,33.0,31.0,53.0,Dan Press,Advantage Memory (Dan Press),Chevrolet,156.0,3750.0,vibration,0.0,64.0
+1996,20,North Wilkesboro,34.0,5.0,44.0,Bryan Reffner,1-800-COLLECT (Mark Simo),Ford,155.0,5000.0,engine,0.0,61.0
+1996,20,North Wilkesboro,35.0,12.0,41.0,Randy Renfrow,Itco Tire / N.C. Sweet Potatoes (Greg Turnage),Ford,124.0,3750.0,rear end,0.0,58.0
+1996,20,North Wilkesboro,36.0,35.0,65.0,Kenny Allen,ONSAT / TV Plus (Kenny Allen),Chevrolet,60.0,4750.0,engine,0.0,55.0
+1996,21,Sonoma,1.0,8.0,7.0,Dave Rezendes,QVC (Geoffrey Bodine),Ford,60.0,38300.0,running,32.0,180.0
+1996,21,Sonoma,2.0,2.0,16.0,"Ron Hornaday, Jr.","NAPA Brake Parts (Dale Earnhardt, Inc.)",Chevrolet,60.0,20125.0,running,20.0,170.0
+1996,21,Sonoma,3.0,1.0,3.0,Mike Skinner,GM Goodwrench Service (Richard Childress),Chevrolet,60.0,15225.0,running,8.0,165.0
+1996,21,Sonoma,4.0,4.0,80.0,Joe Ruttman,LCI Telecommunications (Jack Roush),Ford,60.0,8925.0,running,0.0,160.0
+1996,21,Sonoma,5.0,10.0,21.0,Doug George,Ortho Lawn & Garden Care (Jim Venable),Ford,60.0,9050.0,running,0.0,155.0
+1996,21,Sonoma,6.0,3.0,24.0,Jack Sprague,Quaker State (Rick Hendrick),Chevrolet,60.0,7275.0,running,0.0,150.0
+1996,21,Sonoma,7.0,14.0,2.0,Mike Bliss,Team ASE / Ultra Wheels (Jim Smith),Ford,60.0,6575.0,running,0.0,146.0
+1996,21,Sonoma,8.0,17.0,44.0,Bryan Reffner,1-800-COLLECT (Mark Simo),Ford,60.0,6150.0,running,0.0,142.0
+1996,21,Sonoma,9.0,7.0,6.0,Rick Carelli,RE/MAX International (Marshall Chesrown),Chevrolet,60.0,5950.0,running,0.0,138.0
+1996,21,Sonoma,10.0,20.0,30.0,Jimmy Hensley,Mopar Performance (Grier Lackey),Dodge,60.0,6450.0,running,0.0,134.0
+1996,21,Sonoma,11.0,19.0,27.0,Rob Rizzo,Hydro-Stop Roofing (Rob Rizzo),Ford,60.0,4500.0,running,0.0,130.0
+1996,21,Sonoma,12.0,23.0,2.0,Rick McCray,Foxfire Lubricants (Rick McCray),Chevrolet,60.0,4450.0,running,0.0,127.0
+1996,21,Sonoma,13.0,25.0,90.0,Lance Norick,Macklanburg-Duncan / Oklahoma City (Ron Norick),Ford,60.0,5400.0,running,0.0,124.0
+1996,21,Sonoma,14.0,26.0,65.0,Kenny Allen,ONSAT / TV Plus (Kenny Allen),Chevrolet,60.0,5350.0,running,0.0,121.0
+1996,21,Sonoma,15.0,18.0,9.0,Jon Paques,Red Line Oil (True Dee Paques),Chevrolet,60.0,4625.0,running,0.0,118.0
+1996,21,Sonoma,16.0,6.0,8.0,John Nemechek,Delco Remy America (John Nemechek),Chevrolet,59.0,5250.0,running,0.0,115.0
+1996,21,Sonoma,17.0,28.0,29.0,Bob Keselowski,Winnebago (Ron Keselowski),Dodge,59.0,5250.0,running,0.0,112.0
+1996,21,Sonoma,18.0,33.0,25.0,Andy Genzman,De's LP Gas (DeWilton Genzman),Ford,58.0,4150.0,running,0.0,109.0
+1996,21,Sonoma,19.0,29.0,31.0,Bob Brevak,Concor Tool & Machine (Bob Brevak),Ford,58.0,5125.0,running,0.0,106.0
+1996,21,Sonoma,20.0,22.0,17.0,Bill Sedgwick,Sears DieHard (Darrell Waltrip),Chevrolet,56.0,5100.0,engine,0.0,103.0
+1996,21,Sonoma,21.0,11.0,98.0,Dorsey Schroeder,Raybestos (Jim Herrick),Ford,55.0,4075.0,running,0.0,100.0
+1996,21,Sonoma,22.0,24.0,23.0,T.J. Clark,J & H Carlectibles (T.J. Clark),Chevrolet,52.0,5050.0,running,0.0,97.0
+1996,21,Sonoma,23.0,13.0,15.0,Rick Johnson,Red Dog (Billy Ballew),Ford,45.0,4025.0,crash,0.0,94.0
+1996,21,Sonoma,24.0,15.0,20.0,Walker Evans,Dana (Walker Evans),Dodge,45.0,5000.0,running,0.0,91.0
+1996,21,Sonoma,25.0,21.0,83.0,Steve Portenga,Coffee Critic (Linda Mountanos),Chevrolet,33.0,3975.0,engine,0.0,88.0
+1996,21,Sonoma,26.0,16.0,28.0,Butch Miller,1-800-COLLECT (Mark Simo),Ford,31.0,4925.0,rear end,0.0,85.0
+1996,21,Sonoma,27.0,12.0,75.0,Nathan Buttke,Spears Manufacturing (Wayne Spears),Chevrolet,30.0,3950.0,mechanical,0.0,82.0
+1996,21,Sonoma,28.0,9.0,32.0,Kenny Hendrick,Ultra Shield (Joe Horner),Chevrolet,29.0,3900.0,engine,0.0,79.0
+1996,21,Sonoma,29.0,5.0,43.0,Rich Bickle,Cummins Engines (Petty Enterprises),Dodge,23.0,4875.0,crash,0.0,76.0
+1996,21,Sonoma,30.0,30.0,38.0,Mark Mountanos,Captain Cook's Coffee (Linda Mountanos),Chevrolet,14.0,3850.0,electrical,0.0,73.0
+1996,21,Sonoma,31.0,31.0,36.0,Lonnie Cox,Dealer Development (Larry Carnes),Chevrolet,7.0,3850.0,ignition,0.0,70.0
+1996,21,Sonoma,32.0,32.0,11.0,Mike Hurlbert,RPM Racing (Mike Hurlbert),Ford,6.0,3850.0,rear end,0.0,67.0
+1996,21,Sonoma,33.0,34.0,14.0,Marc Robe,Dollar Transportation (David Dollar),Ford,4.0,3850.0,engine,0.0,64.0
+1996,21,Sonoma,34.0,27.0,58.0,Wayne Jacks,Soff-Cut International (Wayne Jacks),Chevrolet,0.0,,did not start,0.0,61.0
+1996,22,Mesa Marin,1.0,4.0,3.0,Mike Skinner,GM Goodwrench Service (Richard Childress),Chevrolet,300.0,32125.0,running,2.0,180.0
+1996,22,Mesa Marin,2.0,1.0,16.0,"Ron Hornaday, Jr.","NAPA Brake Parts (Dale Earnhardt, Inc.)",Chevrolet,300.0,19150.0,running,243.0,170.0
+1996,22,Mesa Marin,3.0,2.0,80.0,Joe Ruttman,Line-X Bedliners (Jack Roush),Ford,300.0,12150.0,running,0.0,165.0
+1996,22,Mesa Marin,4.0,9.0,2.0,Mike Bliss,Team ASE / Ultra Wheels (Jim Smith),Ford,300.0,9975.0,running,0.0,160.0
+1996,22,Mesa Marin,5.0,5.0,24.0,Jack Sprague,Quaker State (Rick Hendrick),Chevrolet,300.0,8625.0,running,47.0,155.0
+1996,22,Mesa Marin,6.0,12.0,19.0,Butch Miller,Dana (Walker Evans),Dodge,300.0,6500.0,running,0.0,150.0
+1996,22,Mesa Marin,7.0,13.0,21.0,Doug George,Ortho Lawn & Garden Care (Jim Venable),Ford,300.0,6850.0,running,0.0,146.0
+1996,22,Mesa Marin,8.0,11.0,43.0,Rich Bickle,Cummins Engines (Petty Enterprises),Dodge,300.0,5650.0,running,0.0,142.0
+1996,22,Mesa Marin,9.0,27.0,20.0,Walker Evans,Dana (Walker Evans),Dodge,299.0,5600.0,running,0.0,138.0
+1996,22,Mesa Marin,10.0,21.0,7.0,Dave Rezendes,QVC (Geoffrey Bodine),Ford,299.0,5950.0,running,0.0,134.0
+1996,22,Mesa Marin,11.0,7.0,72.0,Kevin Harvick,Hall Ambulance (Mike Harvick),Chevrolet,299.0,4500.0,running,0.0,130.0
+1996,22,Mesa Marin,12.0,29.0,23.0,T.J. Clark,J & H Carlectibles (T.J. Clark),Chevrolet,299.0,4450.0,running,0.0,127.0
+1996,22,Mesa Marin,13.0,25.0,44.0,Bryan Reffner,1-800-COLLECT (Mark Simo),Ford,298.0,5650.0,running,0.0,124.0
+1996,22,Mesa Marin,14.0,3.0,75.0,Nathan Buttke,Spears Manufacturing (Wayne Spears),Chevrolet,298.0,4350.0,running,0.0,121.0
+1996,22,Mesa Marin,15.0,14.0,98.0,"Kenny Irwin, Jr.",Raybestos (Jim Herrick),Ford,297.0,4625.0,running,0.0,118.0
+1996,22,Mesa Marin,16.0,30.0,28.0,Boris Said,1-800-COLLECT (Mark Simo),Ford,297.0,4250.0,running,0.0,115.0
+1996,22,Mesa Marin,17.0,34.0,65.0,Kenny Allen,AAG Racing (Kenny Allen),Chevrolet,297.0,5200.0,running,0.0,112.0
+1996,22,Mesa Marin,18.0,10.0,30.0,Jimmy Hensley,Mopar Performance (Grier Lackey),Dodge,296.0,5150.0,running,0.0,109.0
+1996,22,Mesa Marin,19.0,16.0,8.0,John Nemechek,Delco Remy America (John Nemechek),Chevrolet,295.0,5100.0,running,0.0,106.0
+1996,22,Mesa Marin,20.0,32.0,25.0,Andy Genzman,Mississippi Barbecue (DeWilton Genzman),Ford,293.0,4325.0,running,0.0,103.0
+1996,22,Mesa Marin,21.0,26.0,15.0,Rick Johnson,L.C. Smith Sales (Billy Ballew),Ford,293.0,4000.0,running,0.0,100.0
+1996,22,Mesa Marin,22.0,28.0,90.0,Lance Norick,Macklanburg-Duncan/Oklahoma City (Ron Norick),Ford,292.0,4950.0,running,0.0,97.0
+1996,22,Mesa Marin,23.0,33.0,31.0,Bob Brevak,Concor Tool & Machine (Bob Brevak),Ford,291.0,4900.0,running,0.0,94.0
+1996,22,Mesa Marin,24.0,19.0,53.0,Dan Press,Advantage Memory (Dan Press),Chevrolet,291.0,3850.0,running,0.0,91.0
+1996,22,Mesa Marin,25.0,35.0,11.0,Mike Hurlbert,Bud Light (Mike Hurlbert),Ford,287.0,3800.0,running,0.0,88.0
+1996,22,Mesa Marin,26.0,22.0,32.0,Kenny Hendrick,Ultra Shield (Joe Horner),Chevrolet,261.0,3750.0,running,0.0,85.0
+1996,22,Mesa Marin,27.0,15.0,9.0,Michael Dokken,Bunce Engineering (Wilbur Bunce),Chevrolet,257.0,4650.0,running,0.0,82.0
+1996,22,Mesa Marin,28.0,24.0,29.0,Bob Keselowski,Winnebago (Ron Keselowski),Dodge,241.0,4550.0,axle,0.0,79.0
+1996,22,Mesa Marin,29.0,17.0,17.0,Bill Sedgwick,Sears DieHard (Darrell Waltrip),Chevrolet,231.0,4450.0,crash,8.0,76.0
+1996,22,Mesa Marin,30.0,20.0,14.0,Butch Gilliland,Part Source (Bill Stroppe),Ford,198.0,3350.0,ignition,0.0,73.0
+1996,22,Mesa Marin,31.0,8.0,52.0,Tobey Butler,AC Delco (Ken Schrader),Chevrolet,183.0,3250.0,crash,0.0,70.0
+1996,22,Mesa Marin,32.0,23.0,2.0,Rick McCray,Foxfire Lubricants (Rick McCray),Chevrolet,182.0,3150.0,crash,0.0,67.0
+1996,22,Mesa Marin,33.0,18.0,22.0,Kenny Wallace,Red Dog (Roger Penske),Ford,137.0,3150.0,crash,0.0,64.0
+1996,22,Mesa Marin,34.0,6.0,6.0,Rick Carelli,RE/MAX International (Marshall Chesrown),Chevrolet,85.0,4150.0,engine,0.0,61.0
+1996,22,Mesa Marin,35.0,31.0,36.0,Lonnie Cox,Tele-Card Network (Larry Carnes),Chevrolet,25.0,3150.0,clutch,0.0,58.0
+1996,22,Mesa Marin,36.0,36.0,34.0,Jerry Robertson,Dealer Development (Gary Miller),Chevrolet,0.0,3150.0,engine,0.0,55.0
+1996,23,Phoenix,1.0,1.0,24.0,Jack Sprague,Quaker State (Rick Hendrick),Chevrolet,186.0,36125.0,running,144.0,180.0
+1996,23,Phoenix,2.0,2.0,18.0,"Johnny Benson, Jr.",Pennzoil (Kurt Roehrig),Chevrolet,186.0,16578.0,running,42.0,170.0
+1996,23,Phoenix,3.0,11.0,80.0,Joe Ruttman,LCI Telecommunications (Jack Roush),Ford,186.0,11775.0,running,0.0,165.0
+1996,23,Phoenix,4.0,7.0,3.0,Mike Skinner,GM Goodwrench Service (Richard Childress),Chevrolet,186.0,8225.0,running,0.0,160.0
+1996,23,Phoenix,5.0,14.0,99.0,Ted Musgrave,Exide Batteries (Jack Roush),Ford,186.0,6150.0,running,0.0,155.0
+1996,23,Phoenix,6.0,17.0,52.0,Tobey Butler,AC Delco (Ken Schrader),Chevrolet,186.0,5650.0,running,0.0,150.0
+1996,23,Phoenix,7.0,4.0,16.0,"Ron Hornaday, Jr.","NAPA Brake Parts (Dale Earnhardt, Inc.)",Chevrolet,186.0,6600.0,running,0.0,146.0
+1996,23,Phoenix,8.0,6.0,87.0,Joe Nemechek,Precision Gear (Joe Nemechek),Chevrolet,186.0,4650.0,running,0.0,142.0
+1996,23,Phoenix,9.0,28.0,21.0,Doug George,Ortho Lawn & Garden Care (Jim Venable),Ford,186.0,6450.0,running,0.0,138.0
+1996,23,Phoenix,10.0,23.0,33.0,Harry Gant,Westview Capital (Bob Best),Chevrolet,186.0,6325.0,running,0.0,134.0
+1996,23,Phoenix,11.0,9.0,43.0,Rich Bickle,Cummins Engines (Petty Enterprises),Dodge,186.0,5500.0,running,0.0,130.0
+1996,23,Phoenix,12.0,12.0,22.0,Kenny Wallace,Red Dog (Roger Penske),Ford,186.0,4450.0,running,0.0,127.0
+1996,23,Phoenix,13.0,25.0,19.0,Butch Miller,Dana (Walker Evans),Dodge,186.0,5400.0,running,0.0,124.0
+1996,23,Phoenix,14.0,3.0,2.0,Mike Bliss,Team ASE / Ultra Wheels (Jim Smith),Ford,186.0,5350.0,running,0.0,121.0
+1996,23,Phoenix,15.0,22.0,15.0,Rick Johnson,L.C. Smith Sales (Billy Ballew),Ford,185.0,4625.0,running,0.0,118.0
+1996,23,Phoenix,16.0,10.0,6.0,Rick Carelli,RE/MAX International (Marshall Chesrown),Chevrolet,185.0,5250.0,running,0.0,115.0
+1996,23,Phoenix,17.0,13.0,8.0,John Nemechek,Delco Remy America (John Nemechek),Chevrolet,185.0,5200.0,running,0.0,112.0
+1996,23,Phoenix,18.0,27.0,44.0,Bryan Reffner,1-800-COLLECT (Mark Simo),Ford,185.0,5400.0,running,0.0,109.0
+1996,23,Phoenix,19.0,26.0,42.0,Robbie Reiser,Evinrude (Mueller Brothers),Chevrolet,185.0,4100.0,running,0.0,106.0
+1996,23,Phoenix,20.0,30.0,68.0,Bobby Dotter,Lub-Tek Shock Oil (Carl Wegner),Chevrolet,184.0,4325.0,running,0.0,103.0
+1996,23,Phoenix,21.0,29.0,88.0,Terry Cook,Sealmaster (Duke Thorson),Chevrolet,184.0,4000.0,running,0.0,100.0
+1996,23,Phoenix,22.0,31.0,7.0,Dave Rezendes,QVC (Geoffrey Bodine),Ford,183.0,4950.0,running,0.0,97.0
+1996,23,Phoenix,23.0,33.0,17.0,Bill Sedgwick,Sears DieHard (Darrell Waltrip),Chevrolet,182.0,4900.0,running,0.0,94.0
+1996,23,Phoenix,24.0,19.0,64.0,Michael Dokken,Foxfire Lubricants (Wayne Dokken),Chevrolet,178.0,4850.0,engine,0.0,91.0
+1996,23,Phoenix,25.0,35.0,75.0,Nathan Buttke,Spears Manufacturing (Wayne Spears),Chevrolet,166.0,4800.0,engine,0.0,88.0
+1996,23,Phoenix,26.0,8.0,98.0,"Kenny Irwin, Jr.",Raybestos (Jim Herrick),Ford,163.0,3750.0,crash,0.0,85.0
+1996,23,Phoenix,27.0,5.0,94.0,"Ron Barfield, Jr.",Super 8 Motel (Bill Elliott),Ford,144.0,4650.0,engine,0.0,82.0
+1996,23,Phoenix,28.0,32.0,40.0,Carlos Serrano,Rutherford Enterprises (Carlos Serrano),Chevrolet,112.0,3550.0,engine,0.0,79.0
+1996,23,Phoenix,29.0,16.0,61.0,Randy Tolsma,IWX Motor Freight (Steve Coulter),Chevrolet,55.0,3450.0,crash,0.0,76.0
+1996,23,Phoenix,30.0,15.0,30.0,Jimmy Hensley,Mopar Performance (Grier Lackey),Dodge,54.0,4350.0,crash,0.0,73.0
+1996,23,Phoenix,31.0,36.0,20.0,Walker Evans,Dana (Walker Evans),Dodge,54.0,4250.0,engine,0.0,70.0
+1996,23,Phoenix,32.0,34.0,31.0,Bob Brevak,Concor Tool & Machine (Bob Brevak),Ford,40.0,3250.0,engine,0.0,67.0
+1996,23,Phoenix,33.0,21.0,51.0,A.J. Foyt,Foyt Enterprises (A.J. Foyt),Ford,32.0,3150.0,ignition,0.0,64.0
+1996,23,Phoenix,34.0,24.0,77.0,Bobby Labonte,Rotary Lift System (Kevin Doran),Chevrolet,31.0,3150.0,valve,0.0,61.0
+1996,23,Phoenix,35.0,18.0,32.0,Kenny Hendrick,Ultra Shield (Joe Horner),Chevrolet,21.0,3150.0,engine,0.0,58.0
+1996,23,Phoenix,36.0,20.0,90.0,Lance Norick,Macklanburg-Duncan/Oklahoma City (Ron Norick),Ford,5.0,4150.0,crash,0.0,55.0
+1996,24,Las Vegas,1.0,3.0,24.0,Jack Sprague,Quaker State (Rick Hendrick),Chevrolet,175.0,79825.0,running,98.0,180.0
+1996,24,Las Vegas,2.0,13.0,4.0,Bill Elliott,Team ASE Racing (Jim Smith),Ford,175.0,61750.0,running,0.0,170.0
+1996,24,Las Vegas,3.0,2.0,80.0,Joe Ruttman,LCI Telecommunications (Jack Roush),Ford,175.0,36600.0,running,1.0,165.0
+1996,24,Las Vegas,4.0,27.0,1.0,Michael Waltrip,MW Windows (Michael Waltrip),Ford,175.0,25350.0,running,0.0,160.0
+1996,24,Las Vegas,5.0,23.0,7.0,Dave Rezendes,QVC (Geoffrey Bodine),Ford,175.0,21350.0,running,0.0,155.0
+1996,24,Las Vegas,6.0,16.0,18.0,Robby Gordon,Precision Gear (Kurt Roehrig),Chevrolet,175.0,16300.0,running,0.0,150.0
+1996,24,Las Vegas,7.0,5.0,3.0,Mike Skinner,GM Goodwrench Service (Richard Childress),Chevrolet,175.0,17025.0,running,0.0,146.0
+1996,24,Las Vegas,8.0,26.0,17.0,Ken Schrader,Sears DieHard (Darrell Waltrip),Chevrolet,175.0,14000.0,running,0.0,142.0
+1996,24,Las Vegas,9.0,1.0,44.0,Bryan Reffner,1-800-COLLECT (Mark Simo),Ford,175.0,15550.0,running,0.0,138.0
+1996,24,Las Vegas,10.0,18.0,16.0,"Ron Hornaday, Jr.","NAPA Brake Parts (Dale Earnhardt, Inc.)",Chevrolet,175.0,13250.0,running,0.0,134.0
+1996,24,Las Vegas,11.0,34.0,43.0,Rich Bickle,Cummins Engines (Petty Enterprises),Dodge,175.0,12900.0,running,0.0,130.0
+1996,24,Las Vegas,12.0,7.0,2.0,Mike Bliss,Team ASE / Ultra Wheels (Jim Smith),Ford,175.0,12800.0,running,0.0,127.0
+1996,24,Las Vegas,13.0,8.0,19.0,Butch Miller,Dana (Walker Evans),Dodge,175.0,12700.0,running,0.0,124.0
+1996,24,Las Vegas,14.0,33.0,6.0,Rick Carelli,RE/MAX International (Marshall Chesrown),Chevrolet,175.0,12600.0,running,0.0,121.0
+1996,24,Las Vegas,15.0,28.0,76.0,Steve Park,"Action Collectibles (Dale Earnhardt, Inc.)",Chevrolet,175.0,11500.0,running,0.0,118.0
+1996,24,Las Vegas,16.0,19.0,21.0,Doug George,Ortho Lawn & Garden Care (Jim Venable),Ford,175.0,12450.0,running,0.0,115.0
+1996,24,Las Vegas,17.0,10.0,30.0,Jimmy Hensley,Mopar Performance (Grier Lackey),Dodge,175.0,12100.0,running,0.0,112.0
+1996,24,Las Vegas,18.0,4.0,29.0,Bob Keselowski,Winnebago (Ron Keselowski),Dodge,175.0,12000.0,running,0.0,109.0
+1996,24,Las Vegas,19.0,15.0,94.0,"Ron Barfield, Jr.",Super 8 Motel (Bill Elliott),Ford,174.0,10900.0,running,0.0,106.0
+1996,24,Las Vegas,20.0,12.0,5.0,Darrell Waltrip,Sears DieHard (Darrell Waltrip),Chevrolet,174.0,10800.0,running,0.0,103.0
+1996,24,Las Vegas,21.0,37.0,33.0,Harry Gant,Westview Capital (Bob Best),Chevrolet,173.0,12550.0,running,0.0,100.0
+1996,24,Las Vegas,22.0,21.0,3.0,Jay Sauter,Team Realtree (Richard Childress),Chevrolet,173.0,10600.0,running,0.0,97.0
+1996,24,Las Vegas,23.0,39.0,32.0,Kenny Hendrick,Ultra Shield (Joe Horner),Chevrolet,173.0,11250.0,running,0.0,94.0
+1996,24,Las Vegas,24.0,31.0,9.0,Andy Michner,Coca-Cola (Wilbur Bunce),Chevrolet,172.0,10400.0,running,0.0,91.0
+1996,24,Las Vegas,25.0,36.0,31.0,Bob Brevak,Concor Tool & Machine (Bob Brevak),Ford,169.0,11300.0,running,0.0,88.0
+1996,24,Las Vegas,26.0,29.0,78.0,Mike Chase,Bussman Fuses (Steven Sellers),Ford,164.0,10200.0,running,0.0,85.0
+1996,24,Las Vegas,27.0,24.0,8.0,John Nemechek,Delco Remy America (John Nemechek),Chevrolet,160.0,11100.0,running,0.0,82.0
+1996,24,Las Vegas,28.0,32.0,56.0,A.J. Foyt,Craftsman (A.J. Foyt),Ford,154.0,10000.0,running,0.0,79.0
+1996,24,Las Vegas,29.0,11.0,28.0,Ernie Irvan,Team Hot Wheels (Mark Simo),Ford,148.0,10900.0,engine,76.0,76.0
+1996,24,Las Vegas,30.0,38.0,23.0,T.J. Clark,J & H Carlectibles (T.J. Clark),Chevrolet,145.0,11550.0,running,0.0,73.0
+1996,24,Las Vegas,31.0,40.0,90.0,Lance Norick,Macklanburg-Duncan/Oklahoma City (Ron Norick),Ford,115.0,11450.0,oil leak,0.0,70.0
+1996,24,Las Vegas,32.0,14.0,77.0,Scott Lagasse,Rotary Lift System (Kevin Doran),Chevrolet,112.0,9600.0,crash,0.0,67.0
+1996,24,Las Vegas,33.0,35.0,75.0,Nathan Buttke,Spears Manufacturing (Wayne Spears),Chevrolet,109.0,10600.0,engine,0.0,64.0
+1996,24,Las Vegas,34.0,6.0,52.0,Tobey Butler,AC Delco (Ken Schrader),Chevrolet,102.0,9600.0,engine,0.0,61.0
+1996,24,Las Vegas,35.0,20.0,64.0,Michael Dokken,Foxfire Lubricants (Wayne Dokken),Chevrolet,88.0,10600.0,axle,0.0,58.0
+1996,24,Las Vegas,36.0,9.0,99.0,Ted Musgrave,Exide Batteries (Jack Roush),Ford,71.0,9600.0,engine,0.0,55.0
+1996,24,Las Vegas,37.0,22.0,27.0,Rob Rizzo,Purolator Filters (Rob Rizzo),Ford,54.0,9600.0,valve,0.0,52.0
+1996,24,Las Vegas,38.0,30.0,15.0,Rick Johnson,Red Dog (Billy Ballew),Ford,41.0,9600.0,valve,0.0,49.0
+1996,24,Las Vegas,39.0,17.0,7.0,Geoffrey Bodine,QVC (Geoffrey Bodine),Ford,39.0,9600.0,crash,0.0,46.0
+1996,24,Las Vegas,40.0,25.0,98.0,"Kenny Irwin, Jr.",Raybestos (Jim Herrick),Ford,1.0,9600.0,engine,0.0,43.0

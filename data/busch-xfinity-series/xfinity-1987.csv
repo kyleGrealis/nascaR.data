@@ -1,0 +1,881 @@
+Season,Race,Track,Pos,St,#,Driver,Sponsor / Owner,Car,Laps,Money,Status,Led,Pts
+1987,1,Daytona,1.0,5.0,15.0,Geoffrey Bodine,Levi Garrett (Rick Hendrick),Chevrolet,120.0,33147.0,running,30.0,180.0
+1987,1,Daytona,2.0,11.0,17.0,Darrell Waltrip,Tide (Darrell Waltrip),Chevrolet,120.0,20747.0,running,0.0,170.0
+1987,1,Daytona,3.0,12.0,21.0,Larry Pearson,Chattanooga Chew (David Pearson),Chevrolet,120.0,32497.0,running,0.0,165.0
+1987,1,Daytona,4.0,27.0,0.0,Brett Bodine,Thomas Brothers Country Ham / Exxon (Howard Thomas),Oldsmobile,120.0,25047.0,running,0.0,160.0
+1987,1,Daytona,5.0,9.0,77.0,Morgan Shepherd,Shepherd Racing (Morgan Shepherd),Buick,120.0,10372.0,running,2.0,155.0
+1987,1,Daytona,6.0,18.0,31.0,Mark Martin,Fat Boys Bar-B-Q (Bruce Lawmaster),Ford,120.0,7250.0,running,0.0,150.0
+1987,1,Daytona,7.0,38.0,75.0,Brad Teague,Food Country USA (Charlie Henderson),Pontiac,120.0,15147.0,running,0.0,146.0
+1987,1,Daytona,8.0,31.0,11.0,Jack Ingram,Skoal Bandit (Jack Ingram),Chevrolet,120.0,14997.0,running,3.0,142.0
+1987,1,Daytona,9.0,33.0,22.0,Rick Mast,"A.G. Dillard (Alan Dillard, Jr.)",Pontiac,120.0,10467.0,running,0.0,138.0
+1987,1,Daytona,10.0,30.0,67.0,Rodney Combs,J & J Steel,Pontiac,119.0,4250.0,running,0.0,134.0
+1987,1,Daytona,11.0,19.0,2.0,Kenny Burks,G.M. Ladd & Sons (J.C. Burks),Pontiac,119.0,8350.0,running,0.0,130.0
+1987,1,Daytona,12.0,24.0,12.0,Ed Berrier,Berrier Racing (Max Berrier),Pontiac,119.0,7575.0,running,0.0,127.0
+1987,1,Daytona,13.0,25.0,90.0,Haskell Willingham,Cox Wood Preserving (Grover Shugart),Buick,119.0,3500.0,running,0.0,124.0
+1987,1,Daytona,14.0,16.0,42.0,Elton Sawyer,Bill Lewis,Chevrolet,119.0,7522.0,running,0.0,121.0
+1987,1,Daytona,15.0,35.0,25.0,Rob Moroso,Moroso Performance (Dick Moroso),Oldsmobile,119.0,3250.0,running,0.0,118.0
+1987,1,Daytona,16.0,32.0,14.0,Ronnie Silver,Silver Racing (Ronnie Silver),Chevrolet,119.0,8697.0,running,0.0,115.0
+1987,1,Daytona,17.0,34.0,68.0,Mike Porter,Duggan Builders (Carl Harris),Pontiac,119.0,4525.0,running,0.0,112.0
+1987,1,Daytona,18.0,7.0,7.0,Harry Gant,Skoal Bandit (Ed Whitaker),Buick,118.0,3550.0,running,4.0,109.0
+1987,1,Daytona,19.0,17.0,63.0,Larry Pollard,Nalley Trucks / Cloverdale Lumber (Hubert Hensley),Chevrolet,118.0,6497.0,running,1.0,106.0
+1987,1,Daytona,20.0,21.0,5.0,Jimmy Hensley,Advance Auto Parts (Sam Ard),Buick,118.0,6147.0,running,0.0,103.0
+1987,1,Daytona,21.0,8.0,23.0,Donnie Allison,JerZees by Russell,Buick,117.0,4600.0,running,7.0,100.0
+1987,1,Daytona,22.0,40.0,27.0,Bosco Lowe,Taco Bell (Edgar Ryder),Buick,117.0,5050.0,running,0.0,97.0
+1987,1,Daytona,23.0,41.0,4.0,Joe Thurman,Thurman Enterprises (Joe Thurman),Oldsmobile,116.0,3950.0,running,0.0,94.0
+1987,1,Daytona,24.0,26.0,89.0,Bill Elliott,Coors (Bill Elliott),Ford,113.0,2650.0,crash,0.0,91.0
+1987,1,Daytona,25.0,29.0,10.0,Ken Bouchard,Mobil 1 (Bob Whitcomb),Chevrolet,107.0,2600.0,running,0.0,88.0
+1987,1,Daytona,26.0,37.0,47.0,Billy Standridge,Standridge Auto Parts (Billy Standridge),Pontiac,106.0,2450.0,crash,0.0,85.0
+1987,1,Daytona,27.0,4.0,8.0,Dale Earnhardt,"GM Goodwrench (Dale Earnhardt, Inc.)",Chevrolet,105.0,13497.0,engine,63.0,82.0
+1987,1,Daytona,28.0,22.0,85.0,Jimmy Horton,S & H Racing (George Smith),Buick,90.0,2425.0,running,0.0,79.0
+1987,1,Daytona,29.0,36.0,93.0,Mike Goldberg,Granada Shell,Pontiac,88.0,2300.0,running,0.0,76.0
+1987,1,Daytona,30.0,15.0,29.0,Tommy Riggins,Centurion Transport,Buick,86.0,2250.0,cylinder,0.0,73.0
+1987,1,Daytona,31.0,6.0,33.0,Bobby Allison,Miller American (Bobby Allison),Buick,79.0,2500.0,engine,2.0,70.0
+1987,1,Daytona,32.0,3.0,32.0,Dale Jarrett,Bud Light (Horace Isenhower),Buick,65.0,5897.0,oil tank,0.0,67.0
+1987,1,Daytona,33.0,20.0,24.0,Glenn Jarrett,Hindman Music (Marvin Thackston),Ford,61.0,2100.0,engine,0.0,64.0
+1987,1,Daytona,34.0,2.0,2.0,L.D. Ottinger,All-Pro Auto Parts (Ron Parker),Buick,58.0,5247.0,cylinder,0.0,61.0
+1987,1,Daytona,35.0,28.0,51.0,Neil Bonnett,Valvoline (Rahmoc Enterprises),Pontiac,49.0,2150.0,valve,1.0,58.0
+1987,1,Daytona,36.0,1.0,6.0,Tommy Houston,Southern Biscuit Flour (Steve Arndt),Buick,32.0,6622.0,oil cooler,7.0,55.0
+1987,1,Daytona,37.0,13.0,58.0,Merv Treichler,J & J Racing (John Jackson),Buick,32.0,1950.0,crash,0.0,52.0
+1987,1,Daytona,38.0,14.0,1.0,Robert Ingram,Ramada Inns (Robert Ingram),Buick,26.0,3172.0,ignition,0.0,49.0
+1987,1,Daytona,39.0,10.0,84.0,Mike Alexander,Action Vans (Mike Alexander),Buick,21.0,1900.0,valve,0.0,46.0
+1987,1,Daytona,40.0,39.0,97.0,Ron Bouchard,Apple House Trucking (Morgan Shepherd),Buick,14.0,1875.0,bearing,0.0,43.0
+1987,1,Daytona,41.0,23.0,20.0,Brett Hearn,D & D Dismantling / Kenyon,Ford,12.0,1925.0,ignition,0.0,40.0
+1987,2,Hickory,1.0,5.0,11.0,Jack Ingram,Skoal Bandit (Jack Ingram),Pontiac,200.0,6375.0,running,185.0,180.0
+1987,2,Hickory,2.0,4.0,84.0,Mike Alexander,Action Vans (Mike Alexander),Buick,200.0,1875.0,running,11.0,170.0
+1987,2,Hickory,3.0,13.0,6.0,Tommy Houston,Southern Biscuit Flour (Steve Arndt),Buick,200.0,2550.0,running,0.0,165.0
+1987,2,Hickory,4.0,10.0,2.0,L.D. Ottinger,All-Pro Auto Parts (Ron Parker),Buick,200.0,2000.0,running,0.0,160.0
+1987,2,Hickory,5.0,1.0,0.0,Brett Bodine,Thomas Brothers Country Ham (Howard Thomas),Oldsmobile,200.0,2225.0,running,3.0,155.0
+1987,2,Hickory,6.0,7.0,20.0,Max Prestwood,Custom Veneers (Mac Martin),Oldsmobile,200.0,700.0,running,1.0,150.0
+1987,2,Hickory,7.0,19.0,5.0,Jimmy Hensley,Advance Auto Parts (Sam Ard),Buick,200.0,1050.0,running,0.0,146.0
+1987,2,Hickory,8.0,2.0,21.0,Larry Pearson,Chattanooga Chew (David Pearson),Pontiac,200.0,2250.0,running,0.0,142.0
+1987,2,Hickory,9.0,18.0,1.0,Robert Ingram,Ramada Inns (Robert Ingram),Buick,199.0,950.0,running,0.0,138.0
+1987,2,Hickory,10.0,3.0,63.0,Larry Pollard,Nalley Trucks (Hubert Hensley),Chevrolet,199.0,900.0,running,0.0,134.0
+1987,2,Hickory,11.0,11.0,31.0,Mark Martin,Fat Boys Bar-B-Q (Bruce Lawmaster),Ford,199.0,450.0,running,0.0,130.0
+1987,2,Hickory,12.0,6.0,7.0,Tommy Sigmon,Burke Grading & Paving (Dwight Huffman),Pontiac,199.0,400.0,running,0.0,127.0
+1987,2,Hickory,13.0,20.0,42.0,Elton Sawyer,Bill Lewis,Chevrolet,198.0,750.0,running,0.0,124.0
+1987,2,Hickory,14.0,16.0,9.0,Bob Shreeves,East Coast Corp. (Bob Shreeves),Pontiac,198.0,325.0,running,0.0,121.0
+1987,2,Hickory,15.0,8.0,75.0,Brad Teague,Food Country USA (Charlie Henderson),Chevrolet,197.0,700.0,running,0.0,118.0
+1987,2,Hickory,16.0,12.0,32.0,Dale Jarrett,Southland Log Homes (Horace Isenhower),Pontiac,195.0,1770.0,running,0.0,115.0
+1987,2,Hickory,17.0,26.0,57.0,Joe Harrison,Harrison Racing (Joe Harrison),Pontiac,193.0,650.0,running,0.0,112.0
+1987,2,Hickory,18.0,17.0,3.0,Mike Porter,West Virginia Tourism,Pontiac,193.0,630.0,running,0.0,109.0
+1987,2,Hickory,19.0,25.0,2.0,Kenny Burks,G.M. Ladd & Sons (J.C. Burks),Pontiac,191.0,625.0,running,0.0,106.0
+1987,2,Hickory,20.0,24.0,95.0,Tim Nooner,Jewelry Exchange (Terry Shook),Buick,191.0,220.0,running,0.0,103.0
+1987,2,Hickory,21.0,15.0,16.0,Jimmy Lawson,Lawson-Fitzgerald Garage,Pontiac,190.0,615.0,running,0.0,100.0
+1987,2,Hickory,22.0,14.0,14.0,Ronnie Silver,Silver Racing (Ronnie Silver),Pontiac,186.0,1360.0,running,0.0,97.0
+1987,2,Hickory,23.0,23.0,62.0,John Linville,Lemon's Auto Parts (John Linville),Pontiac,151.0,605.0,engine,0.0,94.0
+1987,2,Hickory,24.0,22.0,69.0,"Don Kreitz, Jr.",Schannauer Plumbing,Pontiac,113.0,200.0,rear end,0.0,0.0
+1987,2,Hickory,25.0,21.0,27.0,Bosco Lowe,Ryder's Floor Store (Edgar Ryder),Pontiac,45.0,600.0,suspension,0.0,88.0
+1987,2,Hickory,26.0,9.0,22.0,Rick Mast,"A.G. Dillard (Alan Dillard, Jr.)",Pontiac,22.0,600.0,transmission,0.0,85.0
+1987,3,Martinsville,1.0,10.0,75.0,Brad Teague,Food Country USA (Charlie Henderson),Chevrolet,200.0,11400.0,running,89.0,180.0
+1987,3,Martinsville,2.0,9.0,32.0,Dale Jarrett,Southland Log Homes (Horace Isenhower),Pontiac,200.0,5675.0,running,0.0,170.0
+1987,3,Martinsville,3.0,4.0,22.0,Rick Mast,"A.G. Dillard (Alan Dillard, Jr.)",Pontiac,200.0,2850.0,running,29.0,165.0
+1987,3,Martinsville,4.0,24.0,11.0,Jack Ingram,Skoal Bandit (Jack Ingram),Pontiac,200.0,3280.0,running,0.0,160.0
+1987,3,Martinsville,5.0,22.0,84.0,Mike Alexander,Action Vans (Mike Alexander),Buick,200.0,1435.0,running,0.0,155.0
+1987,3,Martinsville,6.0,2.0,31.0,Mark Martin,Fat Boys Bar-B-Q (Bruce Lawmaster),Ford,200.0,1340.0,running,0.0,150.0
+1987,3,Martinsville,7.0,14.0,6.0,Tommy Houston,Southern Biscuit Flour (Steve Arndt),Buick,200.0,2880.0,running,0.0,146.0
+1987,3,Martinsville,8.0,8.0,5.0,Jimmy Hensley,Advance Auto Parts (Sam Ard),Buick,200.0,1580.0,running,7.0,142.0
+1987,3,Martinsville,9.0,23.0,23.0,Donnie Allison,JerZees by Russell,Buick,200.0,1105.0,running,0.0,138.0
+1987,3,Martinsville,10.0,20.0,90.0,Reggie Ruggiero,Cox Wood Preserving (Grover Shugart),Chevrolet,200.0,1030.0,running,0.0,134.0
+1987,3,Martinsville,11.0,7.0,2.0,L.D. Ottinger,All-Pro Auto Parts (Ron Parker),Buick,200.0,2760.0,running,66.0,130.0
+1987,3,Martinsville,12.0,21.0,63.0,Larry Pollard,Garland Toyota (Hubert Hensley),Chevrolet,199.0,1565.0,running,0.0,127.0
+1987,3,Martinsville,13.0,32.0,1.0,Robert Ingram,Ramada Inns (Robert Ingram),Buick,199.0,1495.0,running,0.0,124.0
+1987,3,Martinsville,14.0,25.0,7.0,Tommy Sigmon,Burke Grading & Paving (Dwight Huffman),Pontiac,198.0,990.0,running,0.0,121.0
+1987,3,Martinsville,15.0,29.0,14.0,Ronnie Silver,Silver Racing (Ronnie Silver),Pontiac,198.0,2675.0,running,0.0,118.0
+1987,3,Martinsville,16.0,12.0,9.0,Bob Shreeves,Ramsey Equipment (Bob Shreeves),Pontiac,195.0,910.0,running,0.0,115.0
+1987,3,Martinsville,17.0,19.0,16.0,Jimmy Lawson,Bates Trucking,Pontiac,193.0,1390.0,running,0.0,112.0
+1987,3,Martinsville,18.0,15.0,64.0,Daryl Lacks,Coleman-Adams Construction,Pontiac,192.0,870.0,running,0.0,109.0
+1987,3,Martinsville,19.0,1.0,0.0,Brett Bodine,Thomas Brothers Country Ham (Howard Thomas),Oldsmobile,189.0,3400.0,engine,9.0,106.0
+1987,3,Martinsville,20.0,16.0,3.0,Mike Porter,West Virginia Tourism,Pontiac,182.0,1330.0,running,0.0,103.0
+1987,3,Martinsville,21.0,31.0,62.0,John Linville,Piedmont Sanitation (John Linville),Pontiac,169.0,1335.0,running,0.0,100.0
+1987,3,Martinsville,22.0,28.0,27.0,Bosco Lowe,Carpet Showcase (Edgar Ryder),Pontiac,167.0,1315.0,engine,0.0,97.0
+1987,3,Martinsville,23.0,11.0,91.0,Paul Radford,E.F. Hutton,Pontiac,134.0,770.0,rear end,0.0,0.0
+1987,3,Martinsville,24.0,27.0,4.0,Joe Thurman,Thurman Enterprises (Joe Thurman),Pontiac,133.0,1280.0,engine,0.0,91.0
+1987,3,Martinsville,25.0,13.0,21.0,Larry Pearson,Chattanooga Chew (David Pearson),Pontiac,129.0,3230.0,distributor,0.0,88.0
+1987,3,Martinsville,26.0,18.0,20.0,Max Prestwood,"Bush, Inc. (Mac Martin)",Oldsmobile,103.0,710.0,engine,0.0,85.0
+1987,3,Martinsville,27.0,6.0,42.0,Elton Sawyer,Bill Lewis,Chevrolet,101.0,1190.0,transmission,0.0,82.0
+1987,3,Martinsville,28.0,17.0,25.0,Rob Moroso,Moroso Performance (Dick Moroso),Oldsmobile,83.0,670.0,engine,0.0,79.0
+1987,3,Martinsville,29.0,30.0,2.0,Kenny Burks,G.M. Ladd & Sons (J.C. Burks),Pontiac,53.0,1175.0,rear end,0.0,76.0
+1987,3,Martinsville,30.0,3.0,4.0,Tommy Ellis,Falk Racing (Eddie Falk),Pontiac,16.0,630.0,engine,0.0,73.0
+1987,3,Martinsville,31.0,5.0,58.0,Merv Treichler,J & J Racing (John Jackson),Chevrolet,8.0,630.0,engine,0.0,70.0
+1987,3,Martinsville,32.0,26.0,57.0,Joe Harrison,Harrison Racing (Joe Harrison),Pontiac,3.0,1310.0,engine,0.0,67.0
+1987,4,Darlington,1.0,2.0,8.0,Dale Earnhardt,"GM Goodwrench (Dale Earnhardt, Inc.)",Chevrolet,147.0,11595.0,running,79.0,180.0
+1987,4,Darlington,2.0,1.0,15.0,Geoffrey Bodine,Levi Garrett (Rick Hendrick),Chevrolet,147.0,5920.0,running,50.0,170.0
+1987,4,Darlington,3.0,4.0,0.0,Brett Bodine,Thomas Brothers Country Ham (Howard Thomas),Oldsmobile,147.0,6920.0,running,0.0,165.0
+1987,4,Darlington,4.0,3.0,17.0,Darrell Waltrip,Exxon Superflo (Darrell Waltrip),Chevrolet,147.0,3420.0,running,12.0,160.0
+1987,4,Darlington,5.0,9.0,7.0,Harry Gant,Skoal (Ed Whitaker),Buick,147.0,2145.0,running,0.0,155.0
+1987,4,Darlington,6.0,17.0,11.0,Jack Ingram,Skoal Bandit (Jack Ingram),Chevrolet,147.0,4770.0,running,0.0,150.0
+1987,4,Darlington,7.0,19.0,10.0,Ken Bouchard,M.J. Sullivan (Bob Whitcomb),Chevrolet,147.0,1445.0,running,0.0,146.0
+1987,4,Darlington,8.0,12.0,33.0,Bobby Allison,Miller American (Bobby Allison),Buick,147.0,1245.0,running,0.0,0.0
+1987,4,Darlington,9.0,11.0,12.0,Ed Berrier,Berrier Racing (Max Berrier),Pontiac,147.0,1620.0,running,0.0,138.0
+1987,4,Darlington,10.0,23.0,97.0,Morgan Shepherd,Shepherd Racing (Morgan Shepherd),Buick,146.0,1570.0,running,0.0,134.0
+1987,4,Darlington,11.0,6.0,21.0,Larry Pearson,Chattanooga Chew (David Pearson),Chevrolet,146.0,4740.0,running,0.0,130.0
+1987,4,Darlington,12.0,22.0,75.0,Brad Teague,Food Country USA (Charlie Henderson),Pontiac,146.0,3670.0,running,0.0,127.0
+1987,4,Darlington,13.0,13.0,67.0,Rodney Combs,J & J Steel,Pontiac,144.0,845.0,running,0.0,124.0
+1987,4,Darlington,14.0,14.0,2.0,L.D. Ottinger,All-Pro Auto Parts (Ron Parker),Buick,144.0,3570.0,running,0.0,121.0
+1987,4,Darlington,15.0,15.0,2.0,Kenny Burks,G.M. Ladd & Sons (J.C. Burks),Pontiac,143.0,1760.0,running,0.0,118.0
+1987,4,Darlington,16.0,25.0,25.0,Rob Moroso,Moroso Performance (Dick Moroso),Oldsmobile,143.0,1110.0,running,0.0,115.0
+1987,4,Darlington,17.0,5.0,5.0,Jimmy Hensley,Advance Auto Parts (Sam Ard),Buick,143.0,1635.0,running,0.0,112.0
+1987,4,Darlington,18.0,37.0,4.0,Joe Thurman,Lemon's Auto Parts (Joe Thurman),Oldsmobile,142.0,1575.0,running,0.0,109.0
+1987,4,Darlington,19.0,10.0,32.0,Dale Jarrett,Southland Log Homes (Horace Isenhower),Buick,142.0,3275.0,running,0.0,106.0
+1987,4,Darlington,20.0,32.0,1.0,Robert Ingram,Ramada Inns (Robert Ingram),Buick,141.0,1475.0,running,0.0,103.0
+1987,4,Darlington,21.0,30.0,27.0,Bosco Lowe,Ryder Carpet Showcase (Edgar Ryder),Buick,140.0,1365.0,running,0.0,100.0
+1987,4,Darlington,22.0,28.0,22.0,Rick Mast,"A.G. Dillard (Alan Dillard, Jr.)",Pontiac,140.0,1305.0,running,0.0,97.0
+1987,4,Darlington,23.0,7.0,84.0,Mike Alexander,Action Vans (Mike Alexander),Buick,139.0,675.0,running,0.0,94.0
+1987,4,Darlington,24.0,20.0,14.0,Ronnie Silver,Silver Racing (Ronnie Silver),Chevrolet,139.0,2840.0,running,0.0,91.0
+1987,4,Darlington,25.0,38.0,42.0,Elton Sawyer,Bill Lewis,Chevrolet,137.0,1085.0,running,0.0,88.0
+1987,4,Darlington,26.0,27.0,90.0,Reggie Ruggiero,Cox Wood Preserving (Grover Shugart),Buick,137.0,480.0,running,0.0,0.0
+1987,4,Darlington,27.0,35.0,0.0,Mike Skinner,Hunt Tire,Oldsmobile,135.0,470.0,running,0.0,82.0
+1987,4,Darlington,28.0,34.0,57.0,Joe Harrison,Harrison Racing (Joe Harrison),Pontiac,125.0,1065.0,running,0.0,79.0
+1987,4,Darlington,29.0,8.0,23.0,Donnie Allison,JerZees by Russell,Buick,122.0,710.0,engine,5.0,76.0
+1987,4,Darlington,30.0,18.0,85.0,Jimmy Horton,Miles Concrete (George Smith),Buick,116.0,455.0,engine,0.0,73.0
+1987,4,Darlington,31.0,36.0,62.0,John Linville,Lemon's Auto Parts (John Linville),Pontiac,113.0,1050.0,brakes,0.0,70.0
+1987,4,Darlington,32.0,26.0,71.0,Bobby Dragon,D.G. Robertson,Buick,77.0,445.0,crash,0.0,0.0
+1987,4,Darlington,33.0,24.0,29.0,Tommy Riggins,Centurion Transport,Buick,76.0,430.0,brakes,1.0,64.0
+1987,4,Darlington,34.0,33.0,44.0,Dave Mader III,Bama Foods,Oldsmobile,69.0,425.0,engine,0.0,61.0
+1987,4,Darlington,35.0,16.0,63.0,Larry Pollard,Nalley Trucks (Hubert Hensley),Chevrolet,68.0,1020.0,transmission,0.0,58.0
+1987,4,Darlington,36.0,31.0,24.0,Glenn Jarrett,Hindman Music (Marvin Thackston),Ford,49.0,420.0,valve,0.0,55.0
+1987,4,Darlington,37.0,21.0,6.0,Tommy Houston,Southern Biscuit Flour (Steve Arndt),Buick,33.0,2770.0,engine,0.0,52.0
+1987,4,Darlington,38.0,29.0,31.0,Mark Martin,Fat Boys Bar-B-Q (Bruce Lawmaster),Ford,6.0,420.0,oil pump,0.0,49.0
+1987,5,Bristol,1.0,11.0,97.0,Morgan Shepherd,Shepherd Racing (Morgan Shepherd),Buick,200.0,7395.0,running,97.0,180.0
+1987,5,Bristol,2.0,10.0,11.0,Jack Ingram,Skoal Bandit (Jack Ingram),Chevrolet,200.0,5275.0,running,0.0,170.0
+1987,5,Bristol,3.0,17.0,32.0,Dale Jarrett,Bud Light (Horace Isenhower),Pontiac,200.0,4250.0,running,0.0,165.0
+1987,5,Bristol,4.0,1.0,8.0,Dale Earnhardt,"GM Goodwrench (Dale Earnhardt, Inc.)",Chevrolet,200.0,2350.0,running,98.0,160.0
+1987,5,Bristol,5.0,6.0,21.0,Larry Pearson,Chattanooga Chew (David Pearson),Pontiac,200.0,3975.0,running,0.0,155.0
+1987,5,Bristol,6.0,2.0,31.0,Mark Martin,Fat Boys Bar-B-Q (Bruce Lawmaster),Ford,200.0,1275.0,running,4.0,150.0
+1987,5,Bristol,7.0,12.0,5.0,Jimmy Hensley,Advance Auto Parts (Sam Ard),Buick,199.0,1675.0,running,0.0,146.0
+1987,5,Bristol,8.0,9.0,84.0,Mike Alexander,Action Vans (Mike Alexander),Buick,199.0,1080.0,running,0.0,142.0
+1987,5,Bristol,9.0,15.0,6.0,Tommy Houston,Southern Biscuit Flour (Steve Arndt),Buick,199.0,2800.0,running,0.0,138.0
+1987,5,Bristol,10.0,3.0,0.0,Brett Bodine,Thomas Brothers Country Ham (Howard Thomas),Oldsmobile,199.0,2750.0,running,1.0,134.0
+1987,5,Bristol,11.0,13.0,22.0,Rick Mast,"A.G. Dillard (Alan Dillard, Jr.)",Pontiac,198.0,1450.0,running,0.0,130.0
+1987,5,Bristol,12.0,29.0,4.0,Joe Thurman,Thurman Enterprises (Joe Thurman),Pontiac,197.0,1400.0,running,0.0,127.0
+1987,5,Bristol,13.0,31.0,63.0,Larry Pollard,Nalley Trucks (Hubert Hensley),Chevrolet,197.0,1350.0,running,0.0,124.0
+1987,5,Bristol,14.0,25.0,14.0,Ronnie Silver,Antique Train & Toy (Ronnie Silver),Pontiac,195.0,2550.0,running,0.0,121.0
+1987,5,Bristol,15.0,30.0,27.0,Bosco Lowe,Carpet Showcase (Edgar Ryder),Pontiac,188.0,1250.0,running,0.0,118.0
+1987,5,Bristol,16.0,20.0,37.0,Patty Moise,Red Roof Inns (Patty Moise),Buick,184.0,725.0,running,0.0,115.0
+1987,5,Bristol,17.0,32.0,62.0,John Linville,Lemon's Auto Parts (John Linville),Pontiac,180.0,1200.0,running,0.0,112.0
+1987,5,Bristol,18.0,7.0,75.0,Brad Teague,Food Country USA (Charlie Henderson),Chevrolet,176.0,2425.0,running,0.0,109.0
+1987,5,Bristol,19.0,4.0,90.0,Rusty Wallace,Cox Wood Preserving (Grover Shugart),Chevrolet,162.0,650.0,handling,0.0,0.0
+1987,5,Bristol,20.0,24.0,3.0,Mike Porter,West Virginia Tourism,Pontiac,155.0,1125.0,engine,0.0,103.0
+1987,5,Bristol,21.0,27.0,40.0,Robbie Faggart,All-Pro Auto Parts,Oldsmobile,103.0,615.0,handling,0.0,100.0
+1987,5,Bristol,22.0,14.0,2.0,L.D. Ottinger,All-Pro Auto Parts (Ron Parker),Buick,90.0,2355.0,engine,0.0,97.0
+1987,5,Bristol,23.0,8.0,7.0,Harry Gant,Skoal (Ed Whitaker),Buick,72.0,720.0,crash,0.0,94.0
+1987,5,Bristol,24.0,18.0,71.0,Bobby Dragon,D.G. Robertson,Buick,70.0,575.0,crash,0.0,91.0
+1987,5,Bristol,25.0,28.0,42.0,Elton Sawyer,Bill Lewis,Chevrolet,68.0,1065.0,fuel pump,0.0,88.0
+1987,5,Bristol,26.0,21.0,1.0,Robert Ingram,Ramada Inns (Robert Ingram),Buick,67.0,1055.0,engine,0.0,85.0
+1987,5,Bristol,27.0,26.0,9.0,Ed Berrier,Precision Sheetmetal,Oldsmobile,65.0,1045.0,engine,0.0,82.0
+1987,5,Bristol,28.0,23.0,23.0,Donnie Allison,JerZees by Russell,Buick,59.0,535.0,crash,0.0,0.0
+1987,5,Bristol,29.0,16.0,9.0,Bob Shreeves,East Coast Corp. (Bob Shreeves),Pontiac,39.0,525.0,engine,0.0,76.0
+1987,5,Bristol,30.0,5.0,25.0,Rob Moroso,Moroso Performance (Dick Moroso),Oldsmobile,23.0,645.0,crash,0.0,73.0
+1987,5,Bristol,31.0,19.0,41.0,Max Prestwood,"Bush, Inc. (Max Prestwood)",Oldsmobile,23.0,520.0,crash,0.0,70.0
+1987,5,Bristol,32.0,22.0,16.0,Jimmy Lawson,Lawson-Fitzgerald Garage,Pontiac,12.0,1020.0,engine,0.0,67.0
+1987,6,Hampton,1.0,11.0,84.0,Mike Alexander,Action Vans (Mike Alexander),Buick,200.0,5475.0,running,97.0,180.0
+1987,6,Hampton,2.0,3.0,6.0,Tommy Houston,Southern Biscuit Flour (Steve Arndt),Buick,200.0,3000.0,running,0.0,170.0
+1987,6,Hampton,3.0,10.0,42.0,Elton Sawyer,Bill Lewis,Chevrolet,200.0,1550.0,running,0.0,165.0
+1987,6,Hampton,4.0,9.0,1.0,Robert Ingram,Ramada Inns (Robert Ingram),Buick,200.0,1250.0,running,0.0,160.0
+1987,6,Hampton,5.0,13.0,63.0,Larry Pollard,Cloverdale Lumber (Hubert Hensley),Chevrolet,200.0,1200.0,running,0.0,155.0
+1987,6,Hampton,6.0,1.0,0.0,Brett Bodine,Thomas Brothers Country Ham (Howard Thomas),Oldsmobile,200.0,2150.0,running,39.0,150.0
+1987,6,Hampton,7.0,5.0,11.0,Jack Ingram,Skoal Bandit (Jack Ingram),Chevrolet,199.0,1800.0,running,0.0,146.0
+1987,6,Hampton,8.0,22.0,69.0,"Don Kreitz, Jr.",G.P. Fasteners,Pontiac,198.0,600.0,running,0.0,142.0
+1987,6,Hampton,9.0,19.0,22.0,Rick Mast,"A.G. Dillard (Alan Dillard, Jr.)",Pontiac,198.0,950.0,running,0.0,138.0
+1987,6,Hampton,10.0,18.0,14.0,Ronnie Silver,Silver Racing (Ronnie Silver),Pontiac,198.0,1650.0,running,0.0,134.0
+1987,6,Hampton,11.0,14.0,21.0,Larry Pearson,Chattanooga Chew (David Pearson),Pontiac,198.0,2100.0,running,0.0,130.0
+1987,6,Hampton,12.0,6.0,90.0,Ed Berrier,Cox Wood Preserving (Grover Shugart),Chevrolet,198.0,400.0,running,0.0,127.0
+1987,6,Hampton,13.0,12.0,75.0,Brad Teague,Food Country USA (Charlie Henderson),Chevrolet,197.0,1500.0,running,0.0,124.0
+1987,6,Hampton,14.0,23.0,27.0,Bosco Lowe,Ryder Enterprises (Edgar Ryder),Pontiac,197.0,725.0,running,0.0,121.0
+1987,6,Hampton,15.0,2.0,32.0,Dale Jarrett,Southland Log Homes (Horace Isenhower),Pontiac,197.0,1475.0,running,60.0,118.0
+1987,6,Hampton,16.0,7.0,5.0,Jimmy Hensley,Advance Auto Parts (Sam Ard),Buick,196.0,670.0,running,0.0,115.0
+1987,6,Hampton,17.0,20.0,3.0,Mike Porter,West Virginia Tourism,Pontiac,196.0,650.0,running,0.0,112.0
+1987,6,Hampton,18.0,15.0,31.0,Mark Martin,Fat Boys Bar-B-Q (Bruce Lawmaster),Ford,195.0,630.0,running,0.0,109.0
+1987,6,Hampton,19.0,24.0,25.0,Rob Moroso,Moroso Performance (Dick Moroso),Oldsmobile,195.0,625.0,running,0.0,106.0
+1987,6,Hampton,20.0,8.0,16.0,Jimmy Lawson,Lawson-Fitzgerald Garage,Pontiac,195.0,220.0,running,0.0,103.0
+1987,6,Hampton,21.0,21.0,7.0,Tommy Sigmon,Burke Grading & Paving (Dwight Huffman),Pontiac,192.0,215.0,running,0.0,100.0
+1987,6,Hampton,22.0,4.0,2.0,L.D. Ottinger,All-Pro Auto Parts (Ron Parker),Buick,66.0,1360.0,engine,4.0,97.0
+1987,6,Hampton,23.0,25.0,62.0,John Linville,Lemon's Auto Parts (John Linville),Pontiac,65.0,605.0,engine,0.0,94.0
+1987,6,Hampton,24.0,17.0,9.0,Bob Shreeves,East Coast Corp. (Bob Shreeves),Pontiac,46.0,200.0,rear end,0.0,91.0
+1987,6,Hampton,25.0,16.0,4.0,Joe Thurman,Thurman Enterprises (Joe Thurman),Pontiac,1.0,600.0,crash,0.0,88.0
+1987,7,South Boston,1.0,11.0,4.0,Tommy Ellis,Falk Auto (Eddie Falk),Pontiac,200.0,4775.0,running,1.0,180.0
+1987,7,South Boston,2.0,2.0,0.0,Brett Bodine,Thomas Brothers Country Ham (Howard Thomas),Oldsmobile,200.0,2950.0,running,0.0,170.0
+1987,7,South Boston,3.0,4.0,21.0,Larry Pearson,Chattanooga Chew (David Pearson),Pontiac,200.0,3100.0,running,187.0,165.0
+1987,7,South Boston,4.0,16.0,5.0,Jimmy Hensley,Advance Auto Parts (Sam Ard),Buick,200.0,1250.0,running,0.0,160.0
+1987,7,South Boston,5.0,3.0,41.0,Max Prestwood,Custom Veneers / Bush (Max Prestwood),Oldsmobile,200.0,750.0,running,2.0,155.0
+1987,7,South Boston,6.0,14.0,75.0,Brad Teague,Food Country USA (Charlie Henderson),Chevrolet,200.0,1850.0,running,0.0,150.0
+1987,7,South Boston,7.0,5.0,32.0,Dale Jarrett,Jarrett Racing (Horace Isenhower),Pontiac,199.0,1800.0,running,0.0,146.0
+1987,7,South Boston,8.0,10.0,25.0,Rob Moroso,Moroso Performance (Dick Moroso),Oldsmobile,199.0,1000.0,running,0.0,142.0
+1987,7,South Boston,9.0,8.0,11.0,Jack Ingram,Skoal Bandit (Jack Ingram),Chevrolet,199.0,1700.0,running,0.0,138.0
+1987,7,South Boston,10.0,22.0,27.0,Bosco Lowe,Ryder Enterprises (Edgar Ryder),Pontiac,198.0,1100.0,running,0.0,134.0
+1987,7,South Boston,11.0,24.0,14.0,Ronnie Silver,Silver Racing (Ronnie Silver),Pontiac,198.0,1600.0,running,0.0,130.0
+1987,7,South Boston,12.0,7.0,63.0,Larry Pollard,Cloverdale Lumber (Hubert Hensley),Chevrolet,198.0,800.0,running,0.0,127.0
+1987,7,South Boston,13.0,9.0,2.0,Kenny Burks,Ladd-Will (J.C. Burks),Chevrolet,197.0,750.0,running,0.0,124.0
+1987,7,South Boston,14.0,12.0,90.0,Ed Berrier,Cox Wood Preserving (Grover Shugart),Chevrolet,197.0,725.0,running,0.0,121.0
+1987,7,South Boston,15.0,19.0,2.0,L.D. Ottinger,All-Pro Auto Parts (Ron Parker),Buick,197.0,1450.0,running,0.0,118.0
+1987,7,South Boston,16.0,13.0,1.0,Robert Ingram,Ramada Inns (Robert Ingram),Buick,196.0,670.0,running,0.0,115.0
+1987,7,South Boston,17.0,26.0,62.0,John Linville,Lemon's Auto Parts (John Linville),Pontiac,196.0,650.0,running,0.0,112.0
+1987,7,South Boston,18.0,1.0,31.0,Mark Martin,Fat Boys Bar-B-Q (Bruce Lawmaster),Ford,194.0,930.0,running,10.0,109.0
+1987,7,South Boston,19.0,20.0,33.0,Hut Stricklin,Giles National Hardware,Oldsmobile,191.0,225.0,running,0.0,106.0
+1987,7,South Boston,20.0,21.0,84.0,Mike Alexander,Action Vans (Mike Alexander),Buick,187.0,620.0,ignition,0.0,103.0
+1987,7,South Boston,21.0,23.0,16.0,Jimmy Lawson,Lawson-Fitzgerald Garage,Pontiac,120.0,215.0,running,0.0,100.0
+1987,7,South Boston,22.0,6.0,22.0,Rick Mast,"A.G. Dillard (Alan Dillard, Jr.)",Pontiac,33.0,610.0,crash,0.0,97.0
+1987,7,South Boston,23.0,15.0,6.0,Tommy Houston,Southern Biscuit Flour (Steve Arndt),Buick,33.0,1355.0,crash,0.0,94.0
+1987,7,South Boston,24.0,18.0,42.0,Elton Sawyer,Bill Lewis,Chevrolet,32.0,600.0,crash,0.0,91.0
+1987,7,South Boston,25.0,17.0,4.0,Joe Thurman,Thurman Enterprises (Joe Thurman),Pontiac,18.0,600.0,crash,0.0,88.0
+1987,7,South Boston,26.0,26.0,3.0,Mike Porter,West Virginia Tourism,Pontiac,1.0,600.0,engine,0.0,85.0
+1987,8,Charlotte,1.0,16.0,7.0,Harry Gant,Skoal (Ed Whitaker),Buick,200.0,18613.0,running,50.0,180.0
+1987,8,Charlotte,2.0,12.0,17.0,Darrell Waltrip,Tide / Exxon (Darrell Waltrip),Chevrolet,200.0,17013.0,running,2.0,170.0
+1987,8,Charlotte,3.0,5.0,21.0,Larry Pearson,Chattanooga Chew (David Pearson),Chevrolet,200.0,20913.0,running,6.0,165.0
+1987,8,Charlotte,4.0,11.0,11.0,Jack Ingram,Skoal Bandit (Jack Ingram),Chevrolet,200.0,13113.0,running,1.0,160.0
+1987,8,Charlotte,5.0,2.0,8.0,Dale Earnhardt,"GM Goodwrench (Dale Earnhardt, Inc.)",Chevrolet,200.0,9088.0,running,126.0,155.0
+1987,8,Charlotte,6.0,31.0,6.0,Tommy Houston,Southern Biscuit Flour (Steve Arndt),Buick,199.0,7838.0,running,0.0,150.0
+1987,8,Charlotte,7.0,30.0,12.0,Ed Berrier,Berrier Racing (Max Berrier),Pontiac,198.0,7538.0,running,0.0,146.0
+1987,8,Charlotte,8.0,18.0,10.0,Ken Bouchard,M.J. Sullivan (Bob Whitcomb),Chevrolet,198.0,4238.0,running,0.0,142.0
+1987,8,Charlotte,9.0,3.0,97.0,Morgan Shepherd,Marquis Coaches (Morgan Shepherd),Buick,198.0,4488.0,running,0.0,138.0
+1987,8,Charlotte,10.0,27.0,89.0,Bill Elliott,Coors (Bill Elliott),Ford,197.0,3238.0,running,0.0,134.0
+1987,8,Charlotte,11.0,10.0,31.0,Mark Martin,Fat Boys Bar-B-Q (Bruce Lawmaster),Ford,197.0,4963.0,running,0.0,130.0
+1987,8,Charlotte,12.0,24.0,24.0,Glenn Jarrett,Thackston Racing (Marvin Thackston),Ford,197.0,2438.0,running,0.0,127.0
+1987,8,Charlotte,13.0,4.0,15.0,Geoffrey Bodine,Levi Garrett (Rick Hendrick),Chevrolet,197.0,2238.0,running,4.0,124.0
+1987,8,Charlotte,14.0,13.0,5.0,Jimmy Hensley,Advance Auto Parts (Sam Ard),Buick,196.0,3788.0,running,0.0,121.0
+1987,8,Charlotte,15.0,26.0,1.0,Robert Ingram,Ramada Inns (Robert Ingram),Buick,196.0,3358.0,running,0.0,118.0
+1987,8,Charlotte,16.0,17.0,2.0,Kenny Burks,Ladd-Will (J.C. Burks),Pontiac,196.0,2888.0,running,0.0,115.0
+1987,8,Charlotte,17.0,15.0,75.0,Brad Teague,Food Country USA (Charlie Henderson),Pontiac,195.0,4388.0,running,0.0,112.0
+1987,8,Charlotte,18.0,35.0,14.0,Ronnie Silver,Caldwell Drilling (Ronnie Silver),Chevrolet,194.0,4215.0,running,0.0,109.0
+1987,8,Charlotte,19.0,6.0,22.0,Rick Mast,"A.G. Dillard (Alan Dillard, Jr.)",Pontiac,194.0,6988.0,running,5.0,106.0
+1987,8,Charlotte,20.0,14.0,47.0,Billy Standridge,Standridge Auto Parts (Billy Standridge),Chevrolet,193.0,1288.0,running,0.0,103.0
+1987,8,Charlotte,21.0,25.0,68.0,Mike Porter,Harris Racing (Carl Harris),Pontiac,192.0,1238.0,running,0.0,100.0
+1987,8,Charlotte,22.0,39.0,37.0,Patty Moise,Red Roof Inns (Patty Moise),Buick,192.0,1713.0,handling,0.0,97.0
+1987,8,Charlotte,23.0,34.0,44.0,Dave Mader III,Bama Foods,Oldsmobile,189.0,1188.0,engine,0.0,94.0
+1987,8,Charlotte,24.0,38.0,39.0,Bosco Lowe,Automatic Curb,Oldsmobile,187.0,2103.0,running,0.0,91.0
+1987,8,Charlotte,25.0,9.0,84.0,Mike Alexander,Action Vans (Mike Alexander),Buick,172.0,1763.0,transmission,0.0,88.0
+1987,8,Charlotte,26.0,42.0,93.0,John Linville,Granada Shell,Pontiac,167.0,1593.0,engine,0.0,85.0
+1987,8,Charlotte,27.0,37.0,63.0,Larry Pollard,Nalley Carolina Trucks (Hubert Hensley),Chevrolet,163.0,1708.0,engine,0.0,82.0
+1987,8,Charlotte,28.0,33.0,25.0,Rob Moroso,Moroso Performance (Dick Moroso),Oldsmobile,162.0,1698.0,crash,0.0,79.0
+1987,8,Charlotte,29.0,21.0,23.0,Donnie Allison,JerZees by Russell,Buick,155.0,1088.0,engine,0.0,76.0
+1987,8,Charlotte,30.0,1.0,0.0,Brett Bodine,Thomas Brothers Country Ham (Howard Thomas),Oldsmobile,118.0,13728.0,valve,6.0,73.0
+1987,8,Charlotte,31.0,22.0,2.0,L.D. Ottinger,All-Pro Auto Parts (Ron Parker),Buick,108.0,3418.0,engine,0.0,70.0
+1987,8,Charlotte,32.0,28.0,67.0,Rodney Combs,J & J Steel,Pontiac,108.0,1058.0,engine,0.0,67.0
+1987,8,Charlotte,33.0,8.0,72.0,Rusty Wallace,Kodiak (Raymond Beadle),Pontiac,84.0,1098.0,crash,0.0,0.0
+1987,8,Charlotte,34.0,7.0,32.0,Dale Jarrett,Port-A-Lube (Horace Isenhower),Buick,83.0,3438.0,engine,0.0,61.0
+1987,8,Charlotte,35.0,40.0,49.0,Tom Usry,Positrak,Oldsmobile,81.0,2718.0,transmission,0.0,58.0
+1987,8,Charlotte,36.0,23.0,4.0,Jimmy Spencer,Quick Stop Beverage (Frank Cicci),Oldsmobile,80.0,1023.0,alternator,0.0,55.0
+1987,8,Charlotte,37.0,20.0,85.0,Jimmy Horton,Miles Concrete (George Smith),Buick,79.0,1018.0,engine,0.0,52.0
+1987,8,Charlotte,38.0,29.0,29.0,Tommy Riggins,Nimnicht,Buick,78.0,1013.0,valve,0.0,49.0
+1987,8,Charlotte,39.0,32.0,42.0,Elton Sawyer,Bill Lewis,Chevrolet,78.0,1608.0,engine,0.0,46.0
+1987,8,Charlotte,40.0,19.0,58.0,Merv Treichler,Magnum Oil (John Jackson),Buick,75.0,1003.0,crankshaft,0.0,43.0
+1987,8,Charlotte,41.0,41.0,0.0,Randy Couch,King of the Road Vans,Pontiac,54.0,1483.0,engine,0.0,40.0
+1987,8,Charlotte,42.0,36.0,90.0,Ron Bouchard,Cox Wood Preserving (Grover Shugart),Buick,12.0,1003.0,valve,0.0,37.0
+1987,9,Dover,1.0,5.0,31.0,Mark Martin,Fat Boys Bar-B-Q (Bruce Lawmaster),Ford,200.0,9675.0,running,42.0,180.0
+1987,9,Dover,2.0,6.0,21.0,Larry Pearson,Chattanooga Chew (David Pearson),Chevrolet,200.0,8125.0,running,0.0,170.0
+1987,9,Dover,3.0,22.0,12.0,Ed Berrier,Berrier Racing (Max Berrier),Pontiac,200.0,3900.0,running,0.0,165.0
+1987,9,Dover,4.0,11.0,97.0,Morgan Shepherd,Shepherd Racing (Morgan Shepherd),Buick,200.0,2800.0,running,20.0,160.0
+1987,9,Dover,5.0,23.0,63.0,Larry Pollard,Cloverdale Lumber (Hubert Hensley),Chevrolet,200.0,2400.0,running,0.0,155.0
+1987,9,Dover,6.0,27.0,10.0,Ken Bouchard,M.J. Sullivan (Bob Whitcomb),Chevrolet,199.0,1550.0,running,0.0,150.0
+1987,9,Dover,7.0,7.0,5.0,Jimmy Hensley,Advance Auto Parts (Sam Ard),Buick,199.0,1900.0,running,0.0,146.0
+1987,9,Dover,8.0,25.0,14.0,Ronnie Silver,Caldwell Drilling (Ronnie Silver),Chevrolet,198.0,3550.0,running,0.0,142.0
+1987,9,Dover,9.0,21.0,71.0,Bobby Dragon,D.G. Robertson,Buick,198.0,1100.0,running,0.0,0.0
+1987,9,Dover,10.0,30.0,75.0,Brad Teague,Food Country USA (Charlie Henderson),Pontiac,198.0,3350.0,running,0.0,134.0
+1987,9,Dover,11.0,20.0,42.0,Elton Sawyer,Bill Lewis,Chevrolet,198.0,1500.0,running,0.0,130.0
+1987,9,Dover,12.0,8.0,84.0,Mike Alexander,Action Vans (Mike Alexander),Buick,198.0,1475.0,running,0.0,127.0
+1987,9,Dover,13.0,2.0,90.0,Rusty Wallace,Cox Wood Preserving (Grover Shugart),Buick,197.0,850.0,running,0.0,124.0
+1987,9,Dover,14.0,31.0,4.0,Joe Thurman,Thurman Enterprises (Joe Thurman),Oldsmobile,197.0,1425.0,running,0.0,121.0
+1987,9,Dover,15.0,13.0,6.0,Tommy Houston,Southern Biscuit Flour (Steve Arndt),Buick,197.0,3150.0,running,0.0,118.0
+1987,9,Dover,16.0,32.0,16.0,Jimmy Lawson,Lawson-Fitzgerald Garage,Pontiac,189.0,775.0,running,0.0,115.0
+1987,9,Dover,17.0,10.0,11.0,Jack Ingram,Skoal Bandit (Jack Ingram),Chevrolet,189.0,3100.0,running,0.0,112.0
+1987,9,Dover,18.0,34.0,92.0,Gregg Lessard,Meineke Muffler,Buick,182.0,725.0,running,0.0,0.0
+1987,9,Dover,19.0,26.0,95.0,John Linville,Jewelry Exchange (Terry Shook),Buick,182.0,1300.0,running,0.0,106.0
+1987,9,Dover,20.0,9.0,32.0,Dale Jarrett,Port-A-Lube (Horace Isenhower),Buick,150.0,3025.0,running,0.0,103.0
+1987,9,Dover,21.0,1.0,22.0,Rick Mast,"A.G. Dillard (Alan Dillard, Jr.)",Buick,148.0,1550.0,running,66.0,100.0
+1987,9,Dover,22.0,12.0,58.0,Tommy Ellis,J & J Racing (John Jackson),Buick,143.0,625.0,crash,0.0,0.0
+1987,9,Dover,23.0,4.0,0.0,Brett Bodine,Thomas Brothers Country Ham (Howard Thomas),Oldsmobile,143.0,2950.0,crash,0.0,94.0
+1987,9,Dover,24.0,3.0,7.0,Harry Gant,Skoal (Ed Whitaker),Buick,139.0,1475.0,ignition,72.0,91.0
+1987,9,Dover,25.0,19.0,1.0,Robert Ingram,Ramada Inns (Robert Ingram),Buick,138.0,1150.0,running,0.0,88.0
+1987,9,Dover,26.0,17.0,2.0,L.D. Ottinger,All-Pro Auto Parts (Ron Parker),Buick,106.0,2875.0,crash,0.0,85.0
+1987,9,Dover,27.0,29.0,57.0,Joe Harrison,Harrison Racing (Joe Harrison),Pontiac,86.0,500.0,crash,0.0,82.0
+1987,9,Dover,28.0,18.0,67.0,Rodney Combs,J & J Steel,Pontiac,72.0,475.0,engine,0.0,79.0
+1987,9,Dover,29.0,33.0,56.0,Chuck Bown,Skoal Bandit (Quint Boisvert),Pontiac,58.0,460.0,rear end,0.0,0.0
+1987,9,Dover,30.0,16.0,2.0,Kenny Burks,Ladd-Will (J.C. Burks),Pontiac,54.0,1050.0,running,0.0,73.0
+1987,9,Dover,31.0,15.0,24.0,Glenn Jarrett,Thackston's Garage (Marvin Thackston),Ford,41.0,450.0,engine,0.0,70.0
+1987,9,Dover,32.0,14.0,47.0,Billy Standridge,Standridge Auto Parts (Billy Standridge),Chevrolet,34.0,450.0,crash,0.0,67.0
+1987,9,Dover,33.0,28.0,33.0,Joey Kourafas,Malia's Snax (Sandy MacKinnon),Buick,26.0,450.0,engine,0.0,0.0
+1987,9,Dover,34.0,24.0,20.0,Brett Hearn,D & D Dismantling,Ford,19.0,450.0,crash,0.0,61.0
+1987,10,IRP,1.0,11.0,21.0,Larry Pearson,Chattanooga Chew (David Pearson),Pontiac,200.0,11525.0,running,1.0,180.0
+1987,10,IRP,2.0,26.0,42.0,Elton Sawyer,Bill Lewis,Chevrolet,200.0,5400.0,running,17.0,170.0
+1987,10,IRP,3.0,14.0,11.0,Jack Ingram,Skoal Bandit (Jack Ingram),Chevrolet,200.0,5100.0,running,0.0,165.0
+1987,10,IRP,4.0,3.0,0.0,Brett Bodine,Thomas Brothers Country Ham (Howard Thomas),Oldsmobile,200.0,4250.0,running,6.0,160.0
+1987,10,IRP,5.0,9.0,25.0,Rob Moroso,Moroso Performance (Dick Moroso),Oldsmobile,200.0,2500.0,running,0.0,155.0
+1987,10,IRP,6.0,21.0,3.0,Mike Porter,West Virginia Tourism,Pontiac,200.0,2400.0,running,0.0,150.0
+1987,10,IRP,7.0,7.0,31.0,Mark Martin,Fat Boys Bar-B-Q (Bruce Lawmaster),Ford,200.0,2000.0,running,0.0,146.0
+1987,10,IRP,8.0,30.0,1.0,Joe Thurman,Bob Banning,Pontiac,199.0,2000.0,running,0.0,142.0
+1987,10,IRP,9.0,23.0,22.0,Rick Mast,"A.G. Dillard (Alan Dillard, Jr.)",Pontiac,199.0,2000.0,running,20.0,138.0
+1987,10,IRP,10.0,31.0,69.0,"Don Kreitz, Jr.",Ray's Yamaha,Pontiac,199.0,1650.0,running,66.0,0.0
+1987,10,IRP,11.0,19.0,14.0,Ronnie Silver,Caldwell Drilling (Ronnie Silver),Pontiac,198.0,2820.0,running,0.0,130.0
+1987,10,IRP,12.0,6.0,1.0,Robert Ingram,Ramada Inns (Robert Ingram),Buick,198.0,1520.0,running,0.0,127.0
+1987,10,IRP,13.0,1.0,84.0,Mike Alexander,Action Vans (Mike Alexander),Buick,198.0,2270.0,running,69.0,124.0
+1987,10,IRP,14.0,13.0,27.0,Bosco Lowe,Towne Air Freight (Edgar Ryder),Pontiac,197.0,1445.0,running,0.0,121.0
+1987,10,IRP,15.0,34.0,89.0,Bill Elliott,Coors (Bill Elliott),Ford,197.0,1020.0,running,0.0,118.0
+1987,10,IRP,16.0,5.0,23.0,Donnie Allison,JerZees by Russell,Buick,196.0,895.0,running,0.0,115.0
+1987,10,IRP,17.0,33.0,16.0,Jimmy Lawson,Lawson-Fitzgerald Garage,Pontiac,191.0,1470.0,running,0.0,112.0
+1987,10,IRP,18.0,16.0,47.0,Kelly Moore,Moore Transportation (Richard Moore),Buick,190.0,845.0,engine,0.0,0.0
+1987,10,IRP,19.0,22.0,41.0,Max Prestwood,Custom Veneers (Max Prestwood),Oldsmobile,186.0,1020.0,running,0.0,106.0
+1987,10,IRP,20.0,17.0,6.0,Tommy Houston,Southern Biscuit Flour (Steve Arndt),Buick,181.0,2255.0,running,0.0,103.0
+1987,10,IRP,21.0,24.0,5.0,Jimmy Hensley,Advance Auto Parts (Sam Ard),Buick,181.0,1295.0,running,0.0,100.0
+1987,10,IRP,22.0,29.0,62.0,John Linville,Lemon's Auto Parts (John Linville),Pontiac,178.0,1385.0,spindle,0.0,97.0
+1987,10,IRP,23.0,28.0,45.0,Mike Weeden,El Dorado Motor Coach,Oldsmobile,165.0,875.0,ignition,0.0,0.0
+1987,10,IRP,24.0,27.0,7.0,Tommy Sigmon,Kenneth Sigmon Co. (Dwight Huffman),Pontiac,162.0,865.0,crash,0.0,91.0
+1987,10,IRP,25.0,4.0,2.0,L.D. Ottinger,All-Pro Auto Parts (Ron Parker),Buick,161.0,2715.0,running,0.0,88.0
+1987,10,IRP,26.0,20.0,63.0,Larry Pollard,Cloverdale Lumber (Hubert Hensley),Chevrolet,157.0,1265.0,running,0.0,85.0
+1987,10,IRP,27.0,25.0,58.0,Tommy Ellis,J & J Racing (John Jackson),Chevrolet,89.0,755.0,engine,0.0,82.0
+1987,10,IRP,28.0,12.0,33.0,Bobby Allison,Miller American (Bobby Allison),Buick,63.0,755.0,oil cooler,0.0,79.0
+1987,10,IRP,29.0,15.0,75.0,Brad Teague,Food Country USA (Charlie Henderson),Chevrolet,61.0,2505.0,crash,0.0,76.0
+1987,10,IRP,30.0,10.0,90.0,Ed Berrier,Cox Wood Preserving (Grover Shugart),Chevrolet,40.0,1255.0,transmission,0.0,73.0
+1987,10,IRP,31.0,8.0,8.0,Dale Earnhardt,"GM Goodwrench (Dale Earnhardt, Inc.)",Chevrolet,30.0,1255.0,rear end,21.0,70.0
+1987,10,IRP,32.0,32.0,12.0,Dave Davis,Driver's Seat,Buick,17.0,755.0,crash,0.0,0.0
+1987,10,IRP,33.0,18.0,32.0,Dale Jarrett,Port-A-Lube (Horace Isenhower),Pontiac,13.0,2505.0,crash,0.0,64.0
+1987,10,IRP,34.0,2.0,17.0,Darrell Waltrip,Exxon Superflo (Darrell Waltrip),Chevrolet,2.0,755.0,oil pressure,0.0,61.0
+1987,11,Rougemont,1.0,1.0,31.0,Mark Martin,Fat Boys Bar-B-Q (Bruce Lawmaster),Ford,150.0,5425.0,running,146.0,180.0
+1987,11,Rougemont,2.0,26.0,2.0,L.D. Ottinger,All-Pro Auto Parts (Ron Parker),Buick,150.0,3000.0,running,0.0,170.0
+1987,11,Rougemont,3.0,3.0,1.0,Robert Ingram,Ramada Inns (Robert Ingram),Buick,150.0,1750.0,running,0.0,165.0
+1987,11,Rougemont,4.0,10.0,21.0,Larry Pearson,Chattanooga Chew (David Pearson),Pontiac,150.0,2500.0,running,0.0,160.0
+1987,11,Rougemont,5.0,17.0,41.0,Max Prestwood,Custom Veneers (Max Prestwood),Oldsmobile,150.0,750.0,running,0.0,155.0
+1987,11,Rougemont,6.0,15.0,14.0,Ronnie Silver,Caldwell Drilling (Ronnie Silver),Pontiac,150.0,1850.0,running,0.0,150.0
+1987,11,Rougemont,7.0,12.0,90.0,Ed Berrier,Cox Wood Preserving (Grover Shugart),Chevrolet,150.0,1050.0,running,0.0,146.0
+1987,11,Rougemont,8.0,23.0,25.0,Rob Moroso,Moroso Performance (Dick Moroso),Oldsmobile,150.0,1000.0,running,0.0,142.0
+1987,11,Rougemont,9.0,19.0,32.0,Dale Jarrett,Port-A-Lube (Horace Isenhower),Chevrolet,150.0,1700.0,running,0.0,138.0
+1987,11,Rougemont,10.0,22.0,63.0,Larry Pollard,Nalley Carolina Trucks (Hubert Hensley),Chevrolet,150.0,900.0,running,0.0,134.0
+1987,11,Rougemont,11.0,11.0,42.0,Elton Sawyer,Bill Lewis,Chevrolet,149.0,850.0,running,0.0,130.0
+1987,11,Rougemont,12.0,21.0,33.0,Hut Stricklin,Giles National Hardware,Oldsmobile,149.0,400.0,running,0.0,127.0
+1987,11,Rougemont,13.0,18.0,11.0,Jack Ingram,Skoal Bandit (Jack Ingram),Chevrolet,148.0,1500.0,running,0.0,124.0
+1987,11,Rougemont,14.0,6.0,84.0,Mike Alexander,Action Vans (Mike Alexander),Buick,147.0,725.0,running,0.0,121.0
+1987,11,Rougemont,15.0,7.0,57.0,Joe Harrison,Harrison Racing (Joe Harrison),Pontiac,141.0,300.0,running,0.0,118.0
+1987,11,Rougemont,16.0,25.0,6.0,Tommy Houston,Southern Biscuit Flour (Steve Arndt),Buick,138.0,1420.0,running,0.0,115.0
+1987,11,Rougemont,17.0,5.0,7.0,Tommy Sigmon,Burke Grading & Paving (Dwight Huffman),Pontiac,120.0,250.0,running,0.0,112.0
+1987,11,Rougemont,18.0,9.0,75.0,Brad Teague,Food Country USA (Charlie Henderson),Chevrolet,110.0,1380.0,rear end,0.0,109.0
+1987,11,Rougemont,19.0,20.0,69.0,"Don Kreitz, Jr.",Ray's Yamaha,Pontiac,85.0,225.0,running,0.0,106.0
+1987,11,Rougemont,20.0,13.0,5.0,Jimmy Hensley,Advance Auto Parts (Sam Ard),Buick,73.0,645.0,engine,0.0,103.0
+1987,11,Rougemont,21.0,8.0,4.0,Tommy Ellis,Falk Auto (Eddie Falk),Pontiac,66.0,215.0,crash,0.0,100.0
+1987,11,Rougemont,22.0,24.0,27.0,Bosco Lowe,Ryder Enterprises (Edgar Ryder),Pontiac,58.0,610.0,engine,0.0,97.0
+1987,11,Rougemont,23.0,16.0,9.0,Bob Shreeves,East Coast Corp. (Bob Shreeves),Pontiac,57.0,205.0,engine,0.0,94.0
+1987,11,Rougemont,24.0,4.0,0.0,Brett Bodine,Thomas Brothers Country Ham (Howard Thomas),Oldsmobile,46.0,1350.0,crash,0.0,91.0
+1987,11,Rougemont,25.0,14.0,2.0,Kenny Burks,Ladd-Will (J.C. Burks),Chevrolet,15.0,600.0,crash,0.0,88.0
+1987,11,Rougemont,26.0,2.0,22.0,Rick Mast,"A.G. Dillard (Alan Dillard, Jr.)",Pontiac,5.0,600.0,engine,4.0,85.0
+1987,12,Jefferson,1.0,2.0,21.0,Larry Pearson,Chattanooga Chew (David Pearson),Chevrolet,200.0,7025.0,running,56.0,180.0
+1987,12,Jefferson,2.0,14.0,84.0,Mike Alexander,Action Vans (Mike Alexander),Buick,200.0,2850.0,running,58.0,170.0
+1987,12,Jefferson,3.0,11.0,32.0,Dale Jarrett,Port-A-Lube (Horace Isenhower),Chevrolet,199.0,3100.0,running,0.0,165.0
+1987,12,Jefferson,4.0,1.0,31.0,Mark Martin,Fat Boys Bar-B-Q (Bruce Lawmaster),Ford,199.0,2300.0,running,1.0,160.0
+1987,12,Jefferson,5.0,6.0,90.0,Rusty Wallace,Cox Wood Preserving (Grover Shugart),Chevrolet,199.0,800.0,running,0.0,155.0
+1987,12,Jefferson,6.0,26.0,4.0,Joe Thurman,Thurman Enterprises (Joe Thurman),Pontiac,198.0,1200.0,out of gas,47.0,150.0
+1987,12,Jefferson,7.0,7.0,5.0,Jimmy Hensley,Advance Auto Parts (Sam Ard),Buick,198.0,1150.0,running,0.0,146.0
+1987,12,Jefferson,8.0,4.0,0.0,Brett Bodine,Thomas Brothers Country Ham (Howard Thomas),Oldsmobile,197.0,2350.0,running,14.0,142.0
+1987,12,Jefferson,9.0,18.0,75.0,Brad Teague,Food Country USA (Charlie Henderson),Chevrolet,196.0,2300.0,running,8.0,138.0
+1987,12,Jefferson,10.0,21.0,63.0,Larry Pollard,Cloverdale Lumber (Hubert Hensley),Chevrolet,194.0,1000.0,running,0.0,134.0
+1987,12,Jefferson,11.0,16.0,39.0,Steve Grissom,Grissom Oldsmobile (Wayne Grissom),Chevrolet,193.0,450.0,running,0.0,130.0
+1987,12,Jefferson,12.0,13.0,3.0,Mike Porter,West Virginia Tourism,Pontiac,193.0,900.0,running,0.0,127.0
+1987,12,Jefferson,13.0,25.0,1.0,Robert Ingram,Ramada Inns (Robert Ingram),Buick,193.0,875.0,running,0.0,124.0
+1987,12,Jefferson,14.0,22.0,42.0,Elton Sawyer,Bill Lewis,Chevrolet,192.0,850.0,running,0.0,121.0
+1987,12,Jefferson,15.0,23.0,25.0,Rob Moroso,Moroso Performance (Dick Moroso),Oldsmobile,174.0,840.0,running,0.0,118.0
+1987,12,Jefferson,16.0,15.0,2.0,L.D. Ottinger,All-Pro Auto Parts (Ron Parker),Buick,149.0,2080.0,engine,0.0,115.0
+1987,12,Jefferson,17.0,20.0,14.0,Ronnie Silver,Caldwell Drilling (Ronnie Silver),Pontiac,144.0,2075.0,running,0.0,112.0
+1987,12,Jefferson,18.0,9.0,11.0,Jack Ingram,Skoal Bandit (Jack Ingram),Chevrolet,137.0,2070.0,running,0.0,109.0
+1987,12,Jefferson,19.0,5.0,7.0,Tommy Sigmon,Burke Grading & Paving (Dwight Huffman),Pontiac,126.0,315.0,engine,0.0,106.0
+1987,12,Jefferson,20.0,24.0,43.0,Ed Berrier,Linville Racing,Pontiac,100.0,810.0,engine,0.0,103.0
+1987,12,Jefferson,21.0,3.0,6.0,Tommy Houston,Southern Biscuit Flour (Steve Arndt),Buick,99.0,2055.0,stud,16.0,100.0
+1987,12,Jefferson,22.0,10.0,41.0,Max Prestwood,Custom Veneers (Max Prestwood),Oldsmobile,83.0,795.0,crash,0.0,97.0
+1987,12,Jefferson,23.0,12.0,2.0,Kenny Burks,Ladd-Will (J.C. Burks),Pontiac,82.0,790.0,crash,0.0,94.0
+1987,12,Jefferson,24.0,19.0,17.0,Darrell Waltrip,Exxon Superflo (Darrell Waltrip),Chevrolet,56.0,285.0,crash,0.0,91.0
+1987,12,Jefferson,25.0,8.0,22.0,Rick Mast,"A.G. Dillard (Alan Dillard, Jr.)",Pontiac,54.0,785.0,crash,0.0,88.0
+1987,12,Jefferson,26.0,17.0,37.0,Patty Moise,Red Roof Inns (Patty Moise),Buick,53.0,285.0,crash,0.0,85.0
+1987,13,Oxford,1.0,10.0,41.0,Jamie Aube,McDonald's (Allen Avery),Oldsmobile,282.0,31100.0,running,29.0,0.0
+1987,13,Oxford,2.0,2.0,29.0,Dave Dion,Berlin City (Dave Dion),Ford,282.0,18050.0,running,25.0,0.0
+1987,13,Oxford,3.0,16.0,33.0,Joey Kourafas,Malia's Snax (Sandy MacKinnon),Buick,282.0,10425.0,running,0.0,0.0
+1987,13,Oxford,4.0,12.0,0.0,Dick McCabe,DMR Yachts (Dick McCabe),Chevrolet,282.0,6750.0,running,0.0,0.0
+1987,13,Oxford,5.0,7.0,25.0,Rob Moroso,Moroso Performance (Dick Moroso),Oldsmobile,282.0,5875.0,running,0.0,155.0
+1987,13,Oxford,6.0,1.0,8.0,Billy Clark,Richwood Toothpicks,Ford,282.0,13150.0,running,90.0,0.0
+1987,13,Oxford,7.0,27.0,32.0,Dale Jarrett,Port-A-Lube / Bud Light (Horace Isenhower),Chevrolet,282.0,4700.0,running,0.0,146.0
+1987,13,Oxford,8.0,30.0,69.0,"Don Kreitz, Jr.",Vaccaro's Video,Pontiac,281.0,2650.0,running,0.0,0.0
+1987,13,Oxford,9.0,17.0,60.0,Dale Shaw,Budweiser,Chevrolet,281.0,2300.0,running,0.0,0.0
+1987,13,Oxford,10.0,26.0,72.0,Leland Kangas,Gould's / Twin Town Glass (Mina Gordon),Buick,281.0,2425.0,running,0.0,0.0
+1987,13,Oxford,11.0,31.0,0.0,Brett Bodine,Thomas Brothers Country Ham (Howard Thomas),Oldsmobile,281.0,3525.0,running,0.0,130.0
+1987,13,Oxford,12.0,33.0,47.0,Kelly Moore,Moore Transportation (Richard Moore),Buick,281.0,1975.0,running,0.0,0.0
+1987,13,Oxford,13.0,32.0,2.0,L.D. Ottinger,All-Pro Auto Parts (Ron Parker),Buick,281.0,3425.0,running,0.0,124.0
+1987,13,Oxford,14.0,36.0,21.0,Larry Pearson,Chattanooga Chew (David Pearson),Pontiac,281.0,4110.0,running,0.0,121.0
+1987,13,Oxford,15.0,40.0,45.0,Mike Weeden,El Dorado Motor Coach,Oldsmobile,280.0,1825.0,running,0.0,0.0
+1987,13,Oxford,16.0,21.0,1.0,Robert Ingram,Ramada Inns (Robert Ingram),Buick,280.0,2025.0,running,0.0,115.0
+1987,13,Oxford,17.0,14.0,9.0,Ricky Craven,Norseman Resorts (Ricky Craven),Buick,280.0,1425.0,running,0.0,0.0
+1987,13,Oxford,18.0,37.0,11.0,Jack Ingram,Skoal Bandit (Jack Ingram),Chevrolet,280.0,3150.0,running,0.0,109.0
+1987,13,Oxford,19.0,35.0,52.0,Bruce Haley,Randy's Auto Parts (Bruce Haley),Pontiac,279.0,1635.0,running,0.0,0.0
+1987,13,Oxford,20.0,9.0,6.0,Tommy Houston,Southern Biscuit Flour (Steve Arndt),Buick,279.0,3125.0,running,0.0,103.0
+1987,13,Oxford,21.0,25.0,86.0,Randy MacDonald,AC Delco (Randy MacDonald),Pontiac,278.0,1365.0,running,0.0,0.0
+1987,13,Oxford,22.0,6.0,5.0,Jimmy Hensley,Advance Auto Parts (Sam Ard),Buick,278.0,1850.0,running,0.0,97.0
+1987,13,Oxford,23.0,43.0,75.0,Brad Teague,Food Country USA (Charlie Henderson),Chevrolet,278.0,3090.0,running,0.0,94.0
+1987,13,Oxford,24.0,42.0,50.0,Bobby Gahan,Gahan Racing,Buick,277.0,1335.0,running,0.0,0.0
+1987,13,Oxford,25.0,23.0,48.0,Leo Cleary,Mass. Tire (Leo Cleary),Ford,277.0,1330.0,running,0.0,0.0
+1987,13,Oxford,26.0,44.0,16.0,Stub Fadden,Patten's Gas (Stub Fadden),Buick,277.0,1575.0,running,0.0,0.0
+1987,13,Oxford,27.0,34.0,26.0,Darren Bernier,Precision Automotive / BRC General Carpentry (John P. Cullinan),Pontiac,277.0,1320.0,running,0.0,0.0
+1987,13,Oxford,28.0,15.0,83.0,Mike Johnson,Pleasant Hill Gardens,Buick,276.0,1315.0,running,0.0,0.0
+1987,13,Oxford,29.0,13.0,58.0,Robbie Crouch,Allen Lumber,Buick,276.0,1310.0,running,0.0,0.0
+1987,13,Oxford,30.0,38.0,31.0,Mark Martin,Bumpass Ford (Bruce Lawmaster),Ford,276.0,1805.0,running,0.0,73.0
+1987,13,Oxford,31.0,18.0,91.0,"Bobby Babb, Jr.",Polaris / G.B. Carrier,Buick,276.0,1300.0,running,0.0,0.0
+1987,13,Oxford,32.0,3.0,42.0,Elton Sawyer,Bill Lewis,Chevrolet,275.0,1750.0,running,0.0,67.0
+1987,13,Oxford,33.0,19.0,71.0,Bobby Dragon,D.G. Robertson,Buick,275.0,1450.0,running,0.0,0.0
+1987,13,Oxford,34.0,41.0,12.0,Dave Davis,Driver's Seat,Buick,274.0,1350.0,running,0.0,0.0
+1987,13,Oxford,35.0,20.0,4.0,Joe Thurman,Thurman Enterprises (Joe Thurman),Pontiac,274.0,1600.0,running,0.0,58.0
+1987,13,Oxford,36.0,5.0,90.0,Ed Berrier,Cox Wood Preserving (Grover Shugart),Chevrolet,273.0,1600.0,suspension,0.0,55.0
+1987,13,Oxford,37.0,8.0,66.0,Buzzie Bezanson,Curtis Companies,Chevrolet,164.0,8050.0,engine,64.0,0.0
+1987,13,Oxford,38.0,29.0,44.0,Jeff Stevens,Moody Builders,Pontiac,143.0,1100.0,rear end,0.0,0.0
+1987,13,Oxford,39.0,4.0,68.0,Morgan Shepherd,Budweiser (Dale Shaw),Chevrolet,101.0,7900.0,axle,74.0,0.0
+1987,13,Oxford,40.0,22.0,78.0,Yvon Bedard,Stock Car Performance,Chevrolet,66.0,1100.0,overheating,0.0,0.0
+1987,13,Oxford,41.0,24.0,24.0,Jimmy Spencer,Quick Stop Beverage (Frank Cicci),Oldsmobile,65.0,1350.0,engine,0.0,0.0
+1987,13,Oxford,42.0,39.0,7.0,Chuck Bown,Skoal Bandit (Quint Boisvert),Pontiac,49.0,1350.0,overheating,0.0,0.0
+1987,13,Oxford,43.0,28.0,22.0,Rick Mast,"A.G. Dillard (Alan Dillard, Jr.)",Pontiac,28.0,1600.0,oil pump,0.0,34.0
+1987,13,Oxford,44.0,11.0,84.0,Mike Alexander,Action Vans (Mike Alexander),Buick,0.0,1600.0,engine,0.0,31.0
+1987,14,South Boston,1.0,7.0,21.0,Larry Pearson,Chattanooga Chew (David Pearson),Chevrolet,200.0,6775.0,running,63.0,180.0
+1987,14,South Boston,2.0,5.0,90.0,Ed Berrier,Cox Wood Preserving (Grover Shugart),Chevrolet,200.0,2200.0,running,61.0,170.0
+1987,14,South Boston,3.0,9.0,6.0,Tommy Houston,Southern Biscuit Flour (Steve Arndt),Buick,200.0,2300.0,running,0.0,165.0
+1987,14,South Boston,4.0,4.0,0.0,Brett Bodine,Thomas Brothers Country Ham (Howard Thomas),Oldsmobile,200.0,2000.0,running,0.0,160.0
+1987,14,South Boston,5.0,18.0,11.0,Jack Ingram,Skoal Bandit (Jack Ingram),Chevrolet,200.0,1925.0,running,0.0,155.0
+1987,14,South Boston,6.0,8.0,58.0,Tommy Ellis,J & J Racing (John Jackson),Pontiac,200.0,700.0,running,0.0,150.0
+1987,14,South Boston,7.0,1.0,1.0,Robert Ingram,Ramada Inns (Robert Ingram),Buick,200.0,1650.0,running,19.0,146.0
+1987,14,South Boston,8.0,20.0,84.0,Mike Alexander,Action Vans (Mike Alexander),Buick,199.0,1000.0,running,0.0,142.0
+1987,14,South Boston,9.0,12.0,41.0,Max Prestwood,Custom Veneers (Max Prestwood),Oldsmobile,199.0,950.0,running,0.0,138.0
+1987,14,South Boston,10.0,11.0,7.0,Tommy Sigmon,Burke Grading & Paving (Dwight Huffman),Pontiac,199.0,500.0,running,0.0,134.0
+1987,14,South Boston,11.0,2.0,31.0,Mark Martin,Fat Boys Bar-B-Q (Bruce Lawmaster),Ford,199.0,850.0,running,0.0,130.0
+1987,14,South Boston,12.0,3.0,22.0,Rick Mast,"A.G. Dillard (Alan Dillard, Jr.)",Pontiac,198.0,800.0,running,57.0,127.0
+1987,14,South Boston,13.0,26.0,25.0,Rob Moroso,Moroso Performance (Dick Moroso),Oldsmobile,198.0,750.0,running,0.0,124.0
+1987,14,South Boston,14.0,22.0,42.0,Elton Sawyer,Bill Lewis,Chevrolet,198.0,725.0,running,0.0,121.0
+1987,14,South Boston,15.0,24.0,14.0,Ronnie Silver,Caldwell Drilling (Ronnie Silver),Pontiac,198.0,1450.0,running,0.0,118.0
+1987,14,South Boston,16.0,19.0,4.0,Joe Thurman,Thurman Enterprises (Joe Thurman),Pontiac,197.0,670.0,running,0.0,115.0
+1987,14,South Boston,17.0,10.0,27.0,Bosco Lowe,Ryder Enterprises (Edgar Ryder),Pontiac,197.0,650.0,running,0.0,112.0
+1987,14,South Boston,18.0,14.0,9.0,Bob Shreeves,East Coast Corp. (Bob Shreeves),Pontiac,196.0,230.0,running,0.0,109.0
+1987,14,South Boston,19.0,17.0,2.0,Kenny Burks,Ladd-Will (J.C. Burks),Chevrolet,196.0,625.0,running,0.0,106.0
+1987,14,South Boston,20.0,16.0,75.0,Brad Teague,Food Country USA (Charlie Henderson),Chevrolet,195.0,1370.0,running,0.0,103.0
+1987,14,South Boston,21.0,21.0,57.0,Joe Harrison,Harrison Racing (Joe Harrison),Pontiac,193.0,215.0,running,0.0,100.0
+1987,14,South Boston,22.0,15.0,2.0,L.D. Ottinger,All-Pro Auto Parts (Ron Parker),Buick,191.0,1360.0,running,0.0,97.0
+1987,14,South Boston,23.0,25.0,32.0,Dale Jarrett,Port-A-Lube (Horace Isenhower),Chevrolet,169.0,1355.0,running,0.0,94.0
+1987,14,South Boston,24.0,6.0,63.0,Larry Pollard,Cloverdale Lumber (Hubert Hensley),Chevrolet,43.0,600.0,engine,0.0,91.0
+1987,14,South Boston,25.0,13.0,5.0,Jimmy Hensley,Advance Auto Parts (Sam Ard),Buick,12.0,600.0,steering,0.0,88.0
+1987,14,South Boston,26.0,23.0,8.0,John Linville,Reedy Racing (Orvil Reedy),Pontiac,7.0,600.0,rear end,0.0,85.0
+1987,15,Hickory,1.0,8.0,32.0,Dale Jarrett,Port-A-Lube (Horace Isenhower),Chevrolet,200.0,5575.0,running,93.0,180.0
+1987,15,Hickory,2.0,9.0,84.0,Mike Alexander,Action Vans (Mike Alexander),Buick,200.0,2250.0,running,0.0,170.0
+1987,15,Hickory,3.0,4.0,41.0,Max Prestwood,Custom Veneers (Max Prestwood),Oldsmobile,200.0,1850.0,running,95.0,165.0
+1987,15,Hickory,4.0,23.0,27.0,Bosco Lowe,Ryder Enterprises (Edgar Ryder),Pontiac,200.0,1250.0,running,0.0,160.0
+1987,15,Hickory,5.0,5.0,90.0,Ed Berrier,Cox Wood Preserving (Grover Shugart),Chevrolet,200.0,1175.0,running,0.0,155.0
+1987,15,Hickory,6.0,2.0,0.0,Brett Bodine,Thomas Brothers Country Ham (Howard Thomas),Oldsmobile,200.0,1850.0,running,7.0,150.0
+1987,15,Hickory,7.0,3.0,31.0,Mark Martin,Fat Boys Bar-B-Q (Bruce Lawmaster),Ford,200.0,1050.0,running,0.0,146.0
+1987,15,Hickory,8.0,7.0,21.0,Larry Pearson,Chattanooga Chew (David Pearson),Chevrolet,200.0,2250.0,running,0.0,142.0
+1987,15,Hickory,9.0,11.0,1.0,Robert Ingram,Ramada Inns (Robert Ingram),Buick,200.0,950.0,running,0.0,138.0
+1987,15,Hickory,10.0,1.0,6.0,Tommy Houston,Southern Biscuit Flour (Steve Arndt),Buick,199.0,1950.0,running,5.0,134.0
+1987,15,Hickory,11.0,13.0,4.0,Joe Thurman,Thurman Enterprises (Joe Thurman),Pontiac,199.0,850.0,running,0.0,130.0
+1987,15,Hickory,12.0,14.0,75.0,Brad Teague,Food Country USA (Charlie Henderson),Chevrolet,199.0,1550.0,running,0.0,127.0
+1987,15,Hickory,13.0,24.0,3.0,Mike Porter,West Virginia Tourism,Pontiac,199.0,750.0,running,0.0,124.0
+1987,15,Hickory,14.0,12.0,63.0,Larry Pollard,Nalley Carolina Trucks (Hubert Hensley),Chevrolet,199.0,725.0,running,0.0,121.0
+1987,15,Hickory,15.0,20.0,2.0,L.D. Ottinger,All-Pro Auto Parts (Ron Parker),Buick,198.0,1450.0,running,0.0,118.0
+1987,15,Hickory,16.0,17.0,25.0,Rob Moroso,Moroso Performance (Dick Moroso),Oldsmobile,197.0,670.0,running,0.0,115.0
+1987,15,Hickory,17.0,19.0,24.0,Glenn Jarrett,Delta Elastics (Marvin Thackston),Ford,197.0,250.0,running,0.0,112.0
+1987,15,Hickory,18.0,15.0,22.0,Rick Mast,"A.G. Dillard (Alan Dillard, Jr.)",Pontiac,195.0,630.0,running,0.0,109.0
+1987,15,Hickory,19.0,25.0,57.0,Joe Harrison,Harrison Racing (Joe Harrison),Pontiac,195.0,625.0,running,0.0,106.0
+1987,15,Hickory,20.0,16.0,42.0,Elton Sawyer,Bill Lewis,Chevrolet,195.0,620.0,running,0.0,103.0
+1987,15,Hickory,21.0,10.0,5.0,Jimmy Hensley,Advance Auto Parts (Sam Ard),Buick,193.0,615.0,running,0.0,100.0
+1987,15,Hickory,22.0,18.0,2.0,Kenny Burks,Ladd-Will (J.C. Burks),Chevrolet,177.0,610.0,engine,0.0,97.0
+1987,15,Hickory,23.0,21.0,14.0,Ronnie Silver,Caldwell Drilling (Ronnie Silver),Pontiac,154.0,1355.0,running,0.0,94.0
+1987,15,Hickory,24.0,26.0,62.0,John Linville,Lemon's Auto Parts (John Linville),Pontiac,147.0,600.0,engine,0.0,91.0
+1987,15,Hickory,25.0,22.0,11.0,Jack Ingram,Skoal Bandit (Jack Ingram),Chevrolet,142.0,1350.0,crash,0.0,88.0
+1987,15,Hickory,26.0,6.0,7.0,Tommy Sigmon,Burke Grading & Paving (Dwight Huffman),Pontiac,106.0,600.0,crash,0.0,85.0
+1987,16,Road Atlanta,1.0,30.0,97.0,Morgan Shepherd,Winner's Circle Products (Morgan Shepherd),Buick,74.0,7525.0,running,10.0,180.0
+1987,16,Road Atlanta,2.0,7.0,2.0,L.D. Ottinger,All-Pro Auto Parts (Ron Parker),Buick,74.0,8850.0,running,0.0,170.0
+1987,16,Road Atlanta,3.0,29.0,21.0,Larry Pearson,Chattanooga Chew (David Pearson),Chevrolet,74.0,7250.0,running,0.0,165.0
+1987,16,Road Atlanta,4.0,5.0,5.0,Jimmy Hensley,Advance Auto Parts (Sam Ard),Buick,74.0,3800.0,running,0.0,160.0
+1987,16,Road Atlanta,5.0,31.0,17.0,Darrell Waltrip,Exxon Superflo (Darrell Waltrip),Chevrolet,74.0,1775.0,running,0.0,155.0
+1987,16,Road Atlanta,6.0,11.0,63.0,Larry Pollard,Cloverdale Lumber (Hubert Hensley),Chevrolet,74.0,3100.0,running,2.0,150.0
+1987,16,Road Atlanta,7.0,15.0,11.0,Jack Ingram,Skoal Bandit (Jack Ingram),Chevrolet,74.0,4650.0,running,0.0,146.0
+1987,16,Road Atlanta,8.0,2.0,37.0,Patty Moise,Red Roof Inns (Patty Moise),Buick,74.0,1700.0,running,18.0,142.0
+1987,16,Road Atlanta,9.0,19.0,75.0,Brad Teague,Food Country USA (Charlie Henderson),Pontiac,74.0,4250.0,running,0.0,138.0
+1987,16,Road Atlanta,10.0,10.0,0.0,Brett Bodine,Thomas Brothers Country Ham (Howard Thomas),Oldsmobile,73.0,4050.0,running,0.0,134.0
+1987,16,Road Atlanta,11.0,17.0,24.0,Glenn Jarrett,Delta Elastics (Marvin Thackston),Ford,72.0,950.0,running,0.0,130.0
+1987,16,Road Atlanta,12.0,22.0,3.0,Mike Porter,West Virginia Tourism,Pontiac,72.0,2100.0,running,0.0,127.0
+1987,16,Road Atlanta,13.0,20.0,4.0,Joe Thurman,Thurman Enterprises (Joe Thurman),Oldsmobile,71.0,1975.0,running,0.0,124.0
+1987,16,Road Atlanta,14.0,32.0,53.0,Steve Barrett,Adandy Properties,Chevrolet,70.0,850.0,running,0.0,121.0
+1987,16,Road Atlanta,15.0,16.0,1.0,Robert Ingram,Ramada Inns (Robert Ingram),Buick,69.0,1700.0,running,0.0,118.0
+1987,16,Road Atlanta,16.0,8.0,84.0,Mike Alexander,Action Vans (Mike Alexander),Buick,68.0,1600.0,running,0.0,115.0
+1987,16,Road Atlanta,17.0,21.0,62.0,John Linville,Lemon's Auto Parts (John Linville),Pontiac,68.0,1575.0,running,0.0,112.0
+1987,16,Road Atlanta,18.0,14.0,42.0,Elton Sawyer,Bill Lewis,Chevrolet,68.0,1550.0,running,0.0,109.0
+1987,16,Road Atlanta,19.0,27.0,32.0,Dale Jarrett,Port-A-Lube (Horace Isenhower),Chevrolet,67.0,3275.0,crash,9.0,106.0
+1987,16,Road Atlanta,20.0,26.0,14.0,Ronnie Silver,Antique Train & Toy (Ronnie Silver),Pontiac,60.0,3250.0,running,0.0,103.0
+1987,16,Road Atlanta,21.0,12.0,25.0,Rob Moroso,Moroso Performance (Dick Moroso),Oldsmobile,59.0,1490.0,running,0.0,100.0
+1987,16,Road Atlanta,22.0,25.0,57.0,Joe Harrison,Harrison Racing (Joe Harrison),Pontiac,55.0,1480.0,running,0.0,97.0
+1987,16,Road Atlanta,23.0,13.0,36.0,Jack Horowitz,Dow,Buick,53.0,570.0,engine,0.0,94.0
+1987,16,Road Atlanta,24.0,6.0,15.0,Rick Hendrick,Levi Garrett (Rick Hendrick),Chevrolet,53.0,560.0,clutch,0.0,91.0
+1987,16,Road Atlanta,25.0,3.0,22.0,Rick Mast,"A.G. Dillard (Alan Dillard, Jr.)",Pontiac,44.0,1750.0,running,0.0,88.0
+1987,16,Road Atlanta,26.0,1.0,90.0,Rusty Wallace,Cox Wood Preserving (Grover Shugart),Chevrolet,42.0,1540.0,brakes,35.0,85.0
+1987,16,Road Atlanta,27.0,24.0,3.0,Ed Berrier,Busch Polishes (Max Berrier),Pontiac,29.0,1430.0,engine,0.0,82.0
+1987,16,Road Atlanta,28.0,28.0,48.0,Stewart Ramseur,Georgia Box (Bob Ramseur),Oldsmobile,28.0,525.0,axle,0.0,79.0
+1987,16,Road Atlanta,29.0,4.0,31.0,Mark Martin,Fat Boys Bar-B-Q (Bruce Lawmaster),Ford,24.0,1500.0,oil leak,0.0,76.0
+1987,16,Road Atlanta,30.0,23.0,10.0,Tommy Sigmon,All-Pro Auto Parts (Ron Parker),Buick,14.0,1325.0,engine,0.0,73.0
+1987,16,Road Atlanta,31.0,9.0,6.0,Tommy Houston,Southern Biscuit Flour (Steve Arndt),Buick,4.0,3075.0,engine,0.0,70.0
+1987,16,Road Atlanta,32.0,18.0,39.0,Steve Grissom,Grissom Oldsmobile (Wayne Grissom),Chevrolet,3.0,525.0,engine,0.0,67.0
+1987,16,Road Atlanta,33.0,33.0,27.0,Bosco Lowe,Ryder Enterprises (Edgar Ryder),Pontiac,1.0,1325.0,transmission,0.0,64.0
+1987,17,Hampton,1.0,2.0,63.0,Larry Pollard,Nalley Carolina Trucks (Hubert Hensley),Chevrolet,200.0,5675.0,running,46.0,180.0
+1987,17,Hampton,2.0,18.0,1.0,Robert Ingram,Ramada Inns (Robert Ingram),Buick,200.0,2250.0,running,0.0,170.0
+1987,17,Hampton,3.0,10.0,42.0,Elton Sawyer,Bill Lewis,Chevrolet,200.0,1550.0,running,0.0,165.0
+1987,17,Hampton,4.0,5.0,6.0,Tommy Houston,Southern Biscuit Flour (Steve Arndt),Buick,200.0,2000.0,running,0.0,160.0
+1987,17,Hampton,5.0,19.0,32.0,Dale Jarrett,Port-A-Lube (Horace Isenhower),Chevrolet,200.0,1900.0,running,0.0,155.0
+1987,17,Hampton,6.0,6.0,84.0,Mike Alexander,Action Vans (Mike Alexander),Buick,199.0,1100.0,running,0.0,150.0
+1987,17,Hampton,7.0,14.0,2.0,L.D. Ottinger,All-Pro Auto Parts (Ron Parker),Buick,199.0,1800.0,running,0.0,146.0
+1987,17,Hampton,8.0,8.0,0.0,Brett Bodine,Thomas Brothers Country Ham (Howard Thomas),Oldsmobile,199.0,1750.0,running,0.0,142.0
+1987,17,Hampton,9.0,3.0,31.0,Mark Martin,Fat Boys Bar-B-Q (Bruce Lawmaster),Ford,199.0,950.0,running,0.0,138.0
+1987,17,Hampton,10.0,1.0,21.0,Larry Pearson,Chattanooga Chew (David Pearson),Chevrolet,198.0,2500.0,running,154.0,134.0
+1987,17,Hampton,11.0,25.0,75.0,Brad Teague,Food Country USA (Charlie Henderson),Chevrolet,198.0,1600.0,running,0.0,130.0
+1987,17,Hampton,12.0,11.0,11.0,Jack Ingram,Skoal Bandit (Jack Ingram),Chevrolet,198.0,1550.0,running,0.0,127.0
+1987,17,Hampton,13.0,21.0,25.0,Rob Moroso,Moroso Performance (Dick Moroso),Oldsmobile,198.0,750.0,running,0.0,124.0
+1987,17,Hampton,14.0,12.0,22.0,Rick Mast,"Mast Racing (Alan Dillard, Jr.)",Pontiac,198.0,725.0,running,0.0,121.0
+1987,17,Hampton,15.0,15.0,4.0,Eddie Falk,Falk Auto (Eddie Falk),Pontiac,197.0,300.0,running,0.0,118.0
+1987,17,Hampton,16.0,7.0,9.0,Bob Shreeves,East Coast Corp. (Bob Shreeves),Pontiac,196.0,270.0,running,0.0,115.0
+1987,17,Hampton,17.0,26.0,41.0,Max Prestwood,Custom Veneers (Max Prestwood),Oldsmobile,195.0,650.0,running,0.0,112.0
+1987,17,Hampton,18.0,23.0,62.0,John Linville,Lemon's Auto Parts (John Linville),Pontiac,194.0,630.0,running,0.0,109.0
+1987,17,Hampton,19.0,13.0,14.0,Ronnie Silver,Caldwell Drilling (Ronnie Silver),Pontiac,191.0,1375.0,running,0.0,106.0
+1987,17,Hampton,20.0,24.0,4.0,Joe Thurman,Thurman Enterprises (Joe Thurman),Pontiac,189.0,620.0,engine,0.0,103.0
+1987,17,Hampton,21.0,17.0,3.0,Mike Porter,Fred & Jack's Salvage,Pontiac,183.0,615.0,running,0.0,100.0
+1987,17,Hampton,22.0,22.0,7.0,Tommy Sigmon,Burke Grading & Paving (Dwight Huffman),Oldsmobile,164.0,610.0,engine,0.0,97.0
+1987,17,Hampton,23.0,9.0,90.0,Ed Berrier,Cox Wood Preserving (Grover Shugart),Chevrolet,128.0,605.0,engine,0.0,94.0
+1987,17,Hampton,24.0,4.0,5.0,Jimmy Hensley,Advance Auto Parts (Sam Ard),Buick,119.0,600.0,ignition,0.0,91.0
+1987,17,Hampton,25.0,20.0,27.0,Bosco Lowe,Ryder Enterprises (Edgar Ryder),Pontiac,100.0,600.0,engine,0.0,88.0
+1987,17,Hampton,26.0,16.0,58.0,Tommy Ellis,J & J Racing (John Jackson),Pontiac,85.0,200.0,suspension,0.0,85.0
+1987,18,Rougemont,1.0,3.0,21.0,Larry Pearson,Chattanooga Chew (David Pearson),Chevrolet,150.0,6775.0,running,81.0,180.0
+1987,18,Rougemont,2.0,11.0,42.0,Elton Sawyer,Bill Lewis,Chevrolet,150.0,2500.0,running,0.0,170.0
+1987,18,Rougemont,3.0,17.0,5.0,Jimmy Hensley,Advance Auto Parts (Sam Ard),Buick,150.0,1550.0,running,0.0,165.0
+1987,18,Rougemont,4.0,18.0,90.0,Ed Berrier,Cox Wood Preserving (Grover Shugart),Chevrolet,150.0,1250.0,running,0.0,160.0
+1987,18,Rougemont,5.0,22.0,41.0,Max Prestwood,Custom Veneers (Max Prestwood),Oldsmobile,149.0,1200.0,running,0.0,155.0
+1987,18,Rougemont,6.0,7.0,4.0,Joe Thurman,Thurman Enterprises (Joe Thurman),Pontiac,149.0,1100.0,running,0.0,150.0
+1987,18,Rougemont,7.0,1.0,31.0,Mark Martin,Fat Boys Bar-B-Q (Bruce Lawmaster),Ford,149.0,1350.0,running,0.0,146.0
+1987,18,Rougemont,8.0,19.0,3.0,Mike Porter,Fred & Jack's Salvage,Pontiac,149.0,1000.0,running,0.0,142.0
+1987,18,Rougemont,9.0,14.0,75.0,Brad Teague,Food Country USA (Charlie Henderson),Chevrolet,149.0,950.0,running,0.0,138.0
+1987,18,Rougemont,10.0,23.0,24.0,Glenn Jarrett,Delta Elastics (Marvin Thackston),Ford,149.0,500.0,running,0.0,134.0
+1987,18,Rougemont,11.0,6.0,9.0,Bob Shreeves,East Coast Corp. (Bob Shreeves),Pontiac,148.0,450.0,running,0.0,130.0
+1987,18,Rougemont,12.0,17.0,11.0,Jack Ingram,Skoal Bandit (Jack Ingram),Chevrolet,148.0,1550.0,running,0.0,127.0
+1987,18,Rougemont,13.0,25.0,25.0,Rob Moroso,Moroso Performance (Dick Moroso),Oldsmobile,148.0,750.0,running,0.0,124.0
+1987,18,Rougemont,14.0,16.0,14.0,Ronnie Silver,Caldwell Drilling (Ronnie Silver),Pontiac,147.0,1475.0,running,0.0,121.0
+1987,18,Rougemont,15.0,5.0,22.0,Rick Mast,"Mast Racing (Alan Dillard, Jr.)",Pontiac,138.0,725.0,running,0.0,118.0
+1987,18,Rougemont,16.0,21.0,32.0,Dale Jarrett,Port-A-Lube (Horace Isenhower),Chevrolet,131.0,1420.0,running,0.0,115.0
+1987,18,Rougemont,17.0,15.0,63.0,Larry Pollard,Nalley Carolina Trucks (Hubert Hensley),Chevrolet,115.0,650.0,crash,0.0,112.0
+1987,18,Rougemont,18.0,24.0,57.0,Joe Harrison,Harrison Racing (Joe Harrison),Pontiac,108.0,230.0,crash,0.0,109.0
+1987,18,Rougemont,19.0,13.0,1.0,Robert Ingram,Ramada Inns (Robert Ingram),Buick,100.0,625.0,crash,0.0,106.0
+1987,18,Rougemont,20.0,9.0,58.0,Tommy Ellis,J & J Racing (John Jackson),Pontiac,85.0,220.0,rear end,0.0,103.0
+1987,18,Rougemont,21.0,4.0,84.0,Mike Alexander,Action Vans (Mike Alexander),Buick,70.0,615.0,crash,64.0,100.0
+1987,18,Rougemont,22.0,20.0,27.0,Bosco Lowe,Ryder Enterprises (Edgar Ryder),Pontiac,63.0,610.0,rear end,0.0,97.0
+1987,18,Rougemont,23.0,26.0,62.0,John Linville,Lemon's Auto Parts (John Linville),Pontiac,50.0,605.0,water pump,0.0,94.0
+1987,18,Rougemont,24.0,2.0,0.0,Brett Bodine,Thomas Brothers Country Ham (Howard Thomas),Oldsmobile,5.0,1350.0,crash,5.0,91.0
+1987,18,Rougemont,25.0,8.0,2.0,L.D. Ottinger,All-Pro Auto Parts (Ron Parker),Buick,5.0,1350.0,crash,0.0,88.0
+1987,18,Rougemont,26.0,10.0,6.0,Tommy Houston,Southern Biscuit Flour (Steve Arndt),Buick,5.0,1350.0,crash,0.0,85.0
+1987,19,Bristol,1.0,4.0,21.0,Larry Pearson,Chattanooga Chew (David Pearson),Chevrolet,200.0,9425.0,running,19.0,180.0
+1987,19,Bristol,2.0,11.0,5.0,Jimmy Hensley,Advance Auto Parts (Sam Ard),Buick,200.0,4675.0,running,0.0,170.0
+1987,19,Bristol,3.0,7.0,22.0,Rick Mast,"Diehl Motor Cars (Alan Dillard, Jr.)",Pontiac,200.0,3150.0,running,0.0,165.0
+1987,19,Bristol,4.0,25.0,42.0,Elton Sawyer,Bill Lewis,Chevrolet,200.0,2250.0,running,0.0,160.0
+1987,19,Bristol,5.0,26.0,1.0,Robert Ingram,Ramada Inns (Robert Ingram),Buick,200.0,2025.0,running,52.0,155.0
+1987,19,Bristol,6.0,13.0,32.0,Dale Jarrett,Port-A-Lube (Horace Isenhower),Chevrolet,200.0,3100.0,running,1.0,150.0
+1987,19,Bristol,7.0,21.0,25.0,Rob Moroso,Moroso Performance (Dick Moroso),Oldsmobile,199.0,1725.0,running,0.0,146.0
+1987,19,Bristol,8.0,8.0,6.0,Tommy Houston,Southern Biscuit Flour (Steve Arndt),Buick,199.0,2840.0,running,0.0,142.0
+1987,19,Bristol,9.0,12.0,11.0,Jack Ingram,Skoal Bandit (Jack Ingram),Chevrolet,199.0,2725.0,running,0.0,138.0
+1987,19,Bristol,10.0,28.0,77.0,Tommy Sigmon,Burke Grading & Paving (Dwight Huffman),Oldsmobile,199.0,1425.0,running,0.0,134.0
+1987,19,Bristol,11.0,19.0,24.0,Glenn Jarrett,Delta Elastics (Marvin Thackston),Ford,198.0,850.0,running,0.0,130.0
+1987,19,Bristol,12.0,27.0,75.0,Brad Teague,Food Country USA (Charlie Henderson),Pontiac,195.0,2550.0,running,0.0,127.0
+1987,19,Bristol,13.0,2.0,0.0,Brett Bodine,Thomas Brothers Country Ham (Howard Thomas),Oldsmobile,195.0,2500.0,running,0.0,124.0
+1987,19,Bristol,14.0,32.0,53.0,Ed Berrier,Epperly GMC,Pontiac,192.0,1200.0,running,0.0,121.0
+1987,19,Bristol,15.0,31.0,3.0,Mike Alexander,Busch Polishes (Mike Alexander),Pontiac,190.0,1150.0,running,0.0,118.0
+1987,19,Bristol,16.0,3.0,15.0,Geoffrey Bodine,Levi Garrett (Rick Hendrick),Chevrolet,188.0,625.0,crash,67.0,0.0
+1987,19,Bristol,17.0,15.0,41.0,Max Prestwood,Custom Veneers (Max Prestwood),Oldsmobile,186.0,1100.0,running,0.0,112.0
+1987,19,Bristol,18.0,14.0,37.0,Patty Moise,Red Roof Inns (Patty Moise),Buick,185.0,575.0,crash,0.0,109.0
+1987,19,Bristol,19.0,22.0,3.0,Mike Porter,Fred & Jack's Salvage,Pontiac,178.0,1050.0,crash,0.0,106.0
+1987,19,Bristol,20.0,17.0,27.0,Bosco Lowe,Ryder Enterprises (Edgar Ryder),Pontiac,168.0,1045.0,crash,0.0,103.0
+1987,19,Bristol,21.0,30.0,14.0,Ronnie Silver,Caldwell Drilling (Ronnie Silver),Pontiac,165.0,2290.0,running,0.0,100.0
+1987,19,Bristol,22.0,23.0,63.0,Larry Pollard,Cloverdale Lumber (Hubert Hensley),Chevrolet,158.0,1035.0,crash,0.0,97.0
+1987,19,Bristol,23.0,29.0,4.0,Joe Thurman,Thurman Enterprises (Joe Thurman),Pontiac,155.0,1030.0,crash,0.0,94.0
+1987,19,Bristol,24.0,24.0,33.0,Hut Stricklin,Giles National Hardware,Oldsmobile,147.0,525.0,engine,0.0,91.0
+1987,19,Bristol,25.0,16.0,90.0,Rusty Wallace,Cox Wood Preserving (Grover Shugart),Chevrolet,129.0,520.0,oil pump,24.0,88.0
+1987,19,Bristol,26.0,9.0,17.0,Darrell Waltrip,Tide (Darrell Waltrip),Chevrolet,96.0,510.0,suspension,0.0,85.0
+1987,19,Bristol,27.0,1.0,31.0,Mark Martin,Fat Boys Bar-B-Q (Bruce Lawmaster),Ford,64.0,1405.0,engine,37.0,82.0
+1987,19,Bristol,28.0,5.0,97.0,Morgan Shepherd,Winner's Circle Products (Morgan Shepherd),Buick,59.0,500.0,transmission,0.0,79.0
+1987,19,Bristol,29.0,20.0,9.0,Bob Shreeves,East Coast Corp. (Bob Shreeves),Pontiac,58.0,495.0,engine,0.0,0.0
+1987,19,Bristol,30.0,18.0,2.0,L.D. Ottinger,All-Pro Auto Parts (Ron Parker),Buick,45.0,2235.0,brakes,0.0,73.0
+1987,19,Bristol,31.0,10.0,7.0,Harry Gant,Skoal (Ed Whitaker),Buick,41.0,485.0,suspension,0.0,70.0
+1987,19,Bristol,32.0,6.0,8.0,Dale Earnhardt,"GM Goodwrench (Dale Earnhardt, Inc.)",Chevrolet,33.0,485.0,transmission,0.0,67.0
+1987,20,Jefferson,1.0,2.0,21.0,Larry Pearson,Chattanooga Chew (David Pearson),Chevrolet,200.0,7325.0,running,129.0,180.0
+1987,20,Jefferson,2.0,11.0,2.0,L.D. Ottinger,All-Pro Auto Parts (Ron Parker),Buick,200.0,3800.0,running,0.0,170.0
+1987,20,Jefferson,3.0,3.0,84.0,Mike Alexander,Action Vans (Mike Alexander),Buick,200.0,1850.0,running,19.0,165.0
+1987,20,Jefferson,4.0,6.0,5.0,Jimmy Hensley,Advance Auto Parts (Sam Ard),Buick,200.0,1600.0,running,0.0,160.0
+1987,20,Jefferson,5.0,7.0,17.0,Darrell Waltrip,Tide (Darrell Waltrip),Chevrolet,200.0,900.0,running,0.0,155.0
+1987,20,Jefferson,6.0,12.0,63.0,Larry Pollard,Nalley Carolina Trucks (Hubert Hensley),Chevrolet,200.0,1300.0,running,0.0,150.0
+1987,20,Jefferson,7.0,4.0,0.0,Brett Bodine,Thomas Brothers Country Ham (Howard Thomas),Oldsmobile,199.0,2450.0,running,0.0,146.0
+1987,20,Jefferson,8.0,1.0,31.0,Mark Martin,Fat Boys Bar-B-Q (Bruce Lawmaster),Ford,199.0,2640.0,running,1.0,142.0
+1987,20,Jefferson,9.0,17.0,75.0,Brad Teague,Food Country USA (Charlie Henderson),Chevrolet,198.0,2350.0,running,0.0,138.0
+1987,20,Jefferson,10.0,23.0,3.0,Mike Porter,Fred & Jack's Salvage,Pontiac,197.0,1050.0,running,0.0,134.0
+1987,20,Jefferson,11.0,24.0,4.0,Joe Thurman,Thurman Enterprises (Joe Thurman),Pontiac,197.0,1000.0,running,0.0,130.0
+1987,20,Jefferson,12.0,22.0,57.0,Joe Harrison,Harrison Racing (Joe Harrison),Pontiac,195.0,450.0,running,0.0,127.0
+1987,20,Jefferson,13.0,16.0,32.0,Dale Jarrett,Port-A-Lube (Horace Isenhower),Chevrolet,194.0,2175.0,running,0.0,124.0
+1987,20,Jefferson,14.0,23.0,6.0,Tommy Houston,Southern Biscuit Flour (Steve Arndt),Buick,194.0,2400.0,running,51.0,121.0
+1987,20,Jefferson,15.0,21.0,24.0,Glenn Jarrett,Delta Elastics (Marvin Thackston),Ford,188.0,390.0,running,0.0,118.0
+1987,20,Jefferson,16.0,14.0,11.0,Jack Ingram,Skoal Bandit (Jack Ingram),Chevrolet,184.0,2130.0,crash,0.0,115.0
+1987,20,Jefferson,17.0,8.0,1.0,Robert Ingram,Ramada Inns (Robert Ingram),Buick,166.0,870.0,running,0.0,112.0
+1987,20,Jefferson,18.0,19.0,7.0,Tommy Sigmon,Burke Grading & Paving (Dwight Huffman),Oldsmobile,158.0,860.0,running,0.0,109.0
+1987,20,Jefferson,19.0,9.0,41.0,Max Prestwood,Custom Veneers (Max Prestwood),Oldsmobile,147.0,850.0,engine,0.0,106.0
+1987,20,Jefferson,20.0,5.0,22.0,Rick Mast,"Mast Racing (Alan Dillard, Jr.)",Pontiac,144.0,840.0,engine,0.0,103.0
+1987,20,Jefferson,21.0,10.0,90.0,Ed Berrier,Cox Wood Preserving (Grover Shugart),Chevrolet,126.0,830.0,crash,0.0,100.0
+1987,20,Jefferson,22.0,15.0,25.0,Rob Moroso,Moroso Performance (Dick Moroso),Oldsmobile,117.0,820.0,engine,0.0,97.0
+1987,20,Jefferson,23.0,18.0,14.0,Ronnie Silver,Caldwell Drilling (Ronnie Silver),Pontiac,62.0,2060.0,engine,0.0,94.0
+1987,20,Jefferson,24.0,20.0,42.0,Elton Sawyer,Bill Lewis,Chevrolet,46.0,800.0,crash,0.0,91.0
+1987,20,Jefferson,25.0,26.0,40.0,Randy Pilgrim,Roberts Construction,Buick,33.0,295.0,engine,0.0,0.0
+1987,20,Jefferson,26.0,25.0,27.0,Bosco Lowe,Ryder Enterprises (Edgar Ryder),Pontiac,0.0,790.0,handling,0.0,85.0
+1987,21,Darlington,1.0,20.0,7.0,Harry Gant,Skoal (Ed Whitaker),Buick,147.0,10750.0,running,50.0,180.0
+1987,21,Darlington,2.0,13.0,97.0,Morgan Shepherd,Winner's Circle Products (Morgan Shepherd),Buick,147.0,5800.0,running,42.0,170.0
+1987,21,Darlington,3.0,3.0,72.0,Rusty Wallace,Kodiak (Raymond Beadle),Pontiac,147.0,4400.0,running,1.0,165.0
+1987,21,Darlington,4.0,14.0,51.0,Neil Bonnett,Valvoline (Rahmoc Enterprises),Pontiac,147.0,2750.0,running,0.0,160.0
+1987,21,Darlington,5.0,21.0,6.0,Tommy Houston,Southern Biscuit Flour (Steve Arndt),Buick,147.0,6575.0,running,0.0,155.0
+1987,21,Darlington,6.0,7.0,22.0,Rick Mast,"Mast Racing (Alan Dillard, Jr.)",Buick,147.0,3650.0,running,0.0,150.0
+1987,21,Darlington,7.0,10.0,17.0,Darrell Waltrip,Tide (Darrell Waltrip),Chevrolet,147.0,1600.0,running,0.0,146.0
+1987,21,Darlington,8.0,11.0,11.0,Jack Ingram,Skoal Bandit (Jack Ingram),Chevrolet,147.0,4800.0,running,0.0,142.0
+1987,21,Darlington,9.0,15.0,29.0,Tommy Riggins,Mobil 1,Buick,147.0,1300.0,running,0.0,0.0
+1987,21,Darlington,10.0,25.0,71.0,Bobby Dragon,D.G. Robertson,Buick,147.0,1200.0,running,0.0,0.0
+1987,21,Darlington,11.0,16.0,58.0,Tommy Ellis,J & J Racing (John Jackson),Buick,147.0,1100.0,running,0.0,130.0
+1987,21,Darlington,12.0,6.0,5.0,Jimmy Hensley,Advance Auto Parts (Sam Ard),Buick,147.0,2525.0,running,0.0,127.0
+1987,21,Darlington,13.0,29.0,10.0,Ken Bouchard,Mobil 1 (Bob Whitcomb),Chevrolet,147.0,950.0,running,0.0,124.0
+1987,21,Darlington,14.0,5.0,32.0,Dale Jarrett,Port-A-Lube (Horace Isenhower),Buick,147.0,3250.0,running,0.0,121.0
+1987,21,Darlington,15.0,8.0,90.0,Ed Berrier,Cox Wood Preserving (Grover Shugart),Buick,146.0,2275.0,ignition,0.0,118.0
+1987,21,Darlington,16.0,9.0,0.0,Brett Bodine,Thomas Brothers Country Ham (Howard Thomas),Oldsmobile,146.0,3175.0,running,0.0,115.0
+1987,21,Darlington,17.0,22.0,75.0,Brad Teague,Food Country USA (Charlie Henderson),Pontiac,146.0,3875.0,running,0.0,112.0
+1987,21,Darlington,18.0,27.0,63.0,Larry Pollard,Cloverdale Lumber (Hubert Hensley),Chevrolet,146.0,2000.0,running,0.0,109.0
+1987,21,Darlington,19.0,12.0,9.0,Bill Elliott,Coors (Bill Elliott),Buick,146.0,750.0,running,0.0,106.0
+1987,21,Darlington,20.0,23.0,1.0,Robert Ingram,Ramada Inns (Robert Ingram),Buick,145.0,1850.0,running,0.0,103.0
+1987,21,Darlington,21.0,28.0,84.0,Mike Alexander,Action Vans (Mike Alexander),Buick,145.0,1775.0,running,0.0,100.0
+1987,21,Darlington,22.0,4.0,2.0,L.D. Ottinger,All-Pro Auto Parts (Ron Parker),Buick,143.0,3450.0,engine,1.0,97.0
+1987,21,Darlington,23.0,33.0,68.0,Mike Porter,Carl Harris (Carl Harris),Pontiac,143.0,1625.0,running,0.0,94.0
+1987,21,Darlington,24.0,31.0,42.0,Elton Sawyer,Bill Lewis,Chevrolet,141.0,1550.0,running,0.0,91.0
+1987,21,Darlington,25.0,32.0,55.0,Joe Harrison,No. 9 Mining Company,Pontiac,140.0,1475.0,running,0.0,88.0
+1987,21,Darlington,26.0,1.0,21.0,Larry Pearson,Chattanooga Chew (David Pearson),Chevrolet,139.0,4475.0,running,4.0,85.0
+1987,21,Darlington,27.0,19.0,47.0,Billy Standridge,Standridge Auto Parts (Billy Standridge),Chevrolet,139.0,570.0,running,0.0,82.0
+1987,21,Darlington,28.0,26.0,24.0,Glenn Jarrett,Burger King (Marvin Thackston),Ford,138.0,565.0,running,0.0,79.0
+1987,21,Darlington,29.0,36.0,78.0,Terry Cannon,Carter-Mays,Pontiac,138.0,560.0,running,0.0,76.0
+1987,21,Darlington,30.0,30.0,27.0,Bosco Lowe,Ryder Enterprises (Edgar Ryder),Pontiac,120.0,1155.0,running,0.0,73.0
+1987,21,Darlington,31.0,34.0,40.0,Robbie Faggart,AAA Mobile Homes,Oldsmobile,108.0,550.0,running,0.0,70.0
+1987,21,Darlington,32.0,35.0,96.0,Dana Patten,U.S. Chrome (Dana Patten),Pontiac,98.0,545.0,crash,0.0,0.0
+1987,21,Darlington,33.0,38.0,7.0,Tommy Sigmon,Burke Grading & Paving (Dwight Huffman),Oldsmobile,74.0,1140.0,crash,0.0,64.0
+1987,21,Darlington,34.0,17.0,23.0,Donnie Allison,JerZees,Buick,60.0,535.0,brakes,0.0,61.0
+1987,21,Darlington,35.0,2.0,8.0,Dale Earnhardt,"GM Goodwrench (Dale Earnhardt, Inc.)",Chevrolet,55.0,780.0,crash,49.0,58.0
+1987,21,Darlington,36.0,42.0,25.0,Rob Moroso,Moroso Performance (Dick Moroso),Oldsmobile,54.0,1125.0,crash,0.0,55.0
+1987,21,Darlington,37.0,24.0,37.0,Patty Moise,Red Roof Inns (Patty Moise),Buick,54.0,525.0,crash,0.0,52.0
+1987,21,Darlington,38.0,37.0,13.0,Joe Thurman,Taylor Togs,Pontiac,52.0,1125.0,crash,0.0,49.0
+1987,21,Darlington,39.0,18.0,44.0,Dave Mader III,Bama Preserves,Oldsmobile,45.0,525.0,rear end,0.0,46.0
+1987,21,Darlington,40.0,41.0,31.0,Mark Martin,Fat Boys Bar-B-Q (Bruce Lawmaster),Ford,38.0,1100.0,oil pressure,0.0,43.0
+1987,21,Darlington,41.0,39.0,26.0,Ronnie Silver,Cedar Ridge RV Sales (Larry Brolsma),Pontiac,14.0,2850.0,engine,0.0,40.0
+1987,21,Darlington,42.0,40.0,86.0,John Linville,Setzer Racing,Oldsmobile,3.0,1100.0,oil pressure,0.0,37.0
+1987,22,Richmond,1.0,16.0,31.0,Mark Martin,Fat Boys Bar-B-Q (Bruce Lawmaster),Ford,180.0,8000.0,running,16.0,180.0
+1987,22,Richmond,2.0,5.0,2.0,L.D. Ottinger,All-Pro Auto Parts (Ron Parker),Buick,180.0,5000.0,running,5.0,170.0
+1987,22,Richmond,3.0,6.0,15.0,Geoffrey Bodine,Levi Garrett (Rick Hendrick),Chevrolet,180.0,2500.0,running,0.0,165.0
+1987,22,Richmond,4.0,2.0,6.0,Tommy Houston,Southern Biscuit Flour (Steve Arndt),Buick,180.0,3550.0,running,106.0,160.0
+1987,22,Richmond,5.0,26.0,2.0,Kenny Burks,Williams-Ladd (J.C. Burks),Chevrolet,180.0,1300.0,running,0.0,155.0
+1987,22,Richmond,6.0,20.0,84.0,Mike Alexander,Action Vans (Mike Alexander),Buick,179.0,1850.0,running,19.0,150.0
+1987,22,Richmond,7.0,7.0,7.0,Harry Gant,Skoal (Ed Whitaker),Buick,179.0,1025.0,running,18.0,146.0
+1987,22,Richmond,8.0,9.0,5.0,Jimmy Hensley,Advance Auto Parts (Sam Ard),Buick,179.0,1475.0,running,0.0,142.0
+1987,22,Richmond,9.0,12.0,32.0,Dale Jarrett,Port-A-Lube (Horace Isenhower),Chevrolet,179.0,2675.0,running,0.0,138.0
+1987,22,Richmond,10.0,1.0,21.0,Larry Pearson,Chattanooga Chew (David Pearson),Chevrolet,178.0,3675.0,running,16.0,134.0
+1987,22,Richmond,11.0,19.0,25.0,Rob Moroso,Moroso Performance (Dick Moroso),Oldsmobile,178.0,1300.0,running,0.0,130.0
+1987,22,Richmond,12.0,18.0,42.0,Elton Sawyer,Bill Lewis,Chevrolet,177.0,1275.0,running,0.0,127.0
+1987,22,Richmond,13.0,17.0,7.0,Tommy Sigmon,Burke Grading & Paving (Dwight Huffman),Oldsmobile,177.0,1250.0,running,0.0,124.0
+1987,22,Richmond,14.0,29.0,3.0,Mike Porter,Fred & Jack's Salvage,Pontiac,177.0,1225.0,running,0.0,121.0
+1987,22,Richmond,15.0,24.0,1.0,Robert Ingram,Ramada Inns (Robert Ingram),Buick,176.0,1195.0,running,0.0,118.0
+1987,22,Richmond,16.0,11.0,90.0,Rusty Wallace,Cox Wood Preserving (Grover Shugart),Chevrolet,174.0,675.0,running,0.0,115.0
+1987,22,Richmond,17.0,15.0,37.0,Patty Moise,Red Roof Inns (Patty Moise),Buick,173.0,650.0,running,0.0,112.0
+1987,22,Richmond,18.0,21.0,4.0,Joe Thurman,Thurman Enterprises (Joe Thurman),Pontiac,172.0,1135.0,running,0.0,109.0
+1987,22,Richmond,19.0,22.0,63.0,Larry Pollard,Cloverdale Lumber (Hubert Hensley),Chevrolet,168.0,1125.0,running,0.0,106.0
+1987,22,Richmond,20.0,3.0,22.0,Rick Mast,"Mast Racing (Alan Dillard, Jr.)",Pontiac,166.0,1110.0,running,0.0,103.0
+1987,22,Richmond,21.0,14.0,11.0,Jack Ingram,Skoal Bandit (Jack Ingram),Chevrolet,158.0,2340.0,crash,0.0,100.0
+1987,22,Richmond,22.0,28.0,27.0,Bosco Lowe,Ryder Enterprises (Edgar Ryder),Pontiac,153.0,1075.0,crash,0.0,97.0
+1987,22,Richmond,23.0,8.0,97.0,Morgan Shepherd,Winner's Circle Products (Morgan Shepherd),Buick,148.0,550.0,handling,0.0,94.0
+1987,22,Richmond,24.0,32.0,77.0,Ed Berrier,Hesco Exhaust (Stuart Huffman),Pontiac,142.0,1025.0,crash,0.0,91.0
+1987,22,Richmond,25.0,13.0,41.0,Max Prestwood,Custom Veneers (Max Prestwood),Oldsmobile,123.0,1000.0,suspension,0.0,88.0
+1987,22,Richmond,26.0,25.0,14.0,Ronnie Silver,Caldwell Drilling (Ronnie Silver),Pontiac,101.0,2235.0,transmission,0.0,85.0
+1987,22,Richmond,27.0,30.0,57.0,Joe Harrison,Harrison Racing (Joe Harrison),Pontiac,100.0,975.0,ignition,0.0,82.0
+1987,22,Richmond,28.0,27.0,75.0,Brad Teague,Food Country USA (Charlie Henderson),Chevrolet,95.0,2220.0,engine,0.0,79.0
+1987,22,Richmond,29.0,4.0,0.0,Brett Bodine,Thomas Brothers Country Ham (Howard Thomas),Oldsmobile,61.0,2210.0,transmission,0.0,76.0
+1987,22,Richmond,30.0,31.0,62.0,John Linville,Lemon's Auto Parts (John Linville),Pontiac,29.0,950.0,crash,0.0,73.0
+1987,22,Richmond,31.0,10.0,8.0,Dale Earnhardt,"GM Goodwrench (Dale Earnhardt, Inc.)",Chevrolet,28.0,450.0,handling,0.0,70.0
+1987,22,Richmond,32.0,23.0,4.0,Tommy Ellis,Falk Auto (Eddie Falk),Pontiac,24.0,450.0,engine,0.0,67.0
+1987,23,Dover,1.0,3.0,22.0,Rick Mast,"Mast Racing (Alan Dillard, Jr.)",Buick,200.0,10150.0,running,72.0,180.0
+1987,23,Dover,2.0,2.0,21.0,Larry Pearson,Chattanooga Chew (David Pearson),Chevrolet,200.0,8170.0,running,1.0,170.0
+1987,23,Dover,3.0,4.0,2.0,L.D. Ottinger,All-Pro Auto Parts (Ron Parker),Buick,199.0,5600.0,running,1.0,165.0
+1987,23,Dover,4.0,7.0,5.0,Jimmy Hensley,Advance Auto Parts (Sam Ard),Buick,199.0,2800.0,running,0.0,160.0
+1987,23,Dover,5.0,21.0,6.0,Tommy Houston,Southern Biscuit Flour (Steve Arndt),Buick,198.0,4200.0,running,0.0,155.0
+1987,23,Dover,6.0,14.0,0.0,Brett Bodine,Thomas Brothers Country Ham (Howard Thomas),Oldsmobile,198.0,3900.0,running,0.0,150.0
+1987,23,Dover,7.0,25.0,47.0,Kelly Moore,Moore Transportation (Richard Moore),Buick,198.0,1300.0,running,0.0,0.0
+1987,23,Dover,8.0,13.0,75.0,Brad Teague,Food Country USA (Charlie Henderson),Pontiac,198.0,3550.0,running,0.0,142.0
+1987,23,Dover,9.0,29.0,25.0,Rob Moroso,Moroso Performance (Dick Moroso),Oldsmobile,198.0,1700.0,running,0.0,138.0
+1987,23,Dover,10.0,23.0,4.0,Randy LaJoie,Quick Stop Beverage (Randy LaJoie),Oldsmobile,198.0,1000.0,running,0.0,0.0
+1987,23,Dover,11.0,17.0,12.0,Ed Berrier,Berrier Racing (Max Berrier),Pontiac,198.0,1500.0,running,0.0,130.0
+1987,23,Dover,12.0,19.0,24.0,Glenn Jarrett,Thackston's Garage (Marvin Thackston),Ford,198.0,875.0,running,0.0,127.0
+1987,23,Dover,13.0,28.0,71.0,Bobby Dragon,D.G. Robertson,Buick,197.0,850.0,running,0.0,0.0
+1987,23,Dover,14.0,9.0,32.0,Dale Jarrett,Port-A-Lube (Horace Isenhower),Buick,197.0,3175.0,running,0.0,121.0
+1987,23,Dover,15.0,10.0,84.0,Mike Alexander,Action Vans (Mike Alexander),Buick,197.0,1400.0,running,0.0,118.0
+1987,23,Dover,16.0,26.0,27.0,Bosco Lowe,Ryder Enterprises (Edgar Ryder),Pontiac,197.0,1375.0,running,0.0,115.0
+1987,23,Dover,17.0,22.0,14.0,Ronnie Silver,Caldwell Drilling (Ronnie Silver),Chevrolet,197.0,3100.0,running,0.0,112.0
+1987,23,Dover,18.0,8.0,11.0,Jack Ingram,Skoal Bandit (Jack Ingram),Chevrolet,195.0,3075.0,running,0.0,109.0
+1987,23,Dover,19.0,15.0,1.0,Robert Ingram,Ramada Inns (Robert Ingram),Buick,194.0,1300.0,crash,14.0,106.0
+1987,23,Dover,20.0,6.0,97.0,Morgan Shepherd,Winner's Circle Products (Morgan Shepherd),Buick,194.0,1275.0,running,0.0,103.0
+1987,23,Dover,21.0,12.0,10.0,Ken Bouchard,Mobil 1 (Bob Whitcomb),Chevrolet,187.0,650.0,rear end,0.0,0.0
+1987,23,Dover,22.0,24.0,56.0,Chuck Bown,Skoal Bandit (Quint Boisvert),Pontiac,175.0,625.0,engine,0.0,0.0
+1987,23,Dover,23.0,27.0,26.0,Joe Harrison,Cedar Ridge RV Sales (Larry Brolsma),Pontiac,173.0,1200.0,running,0.0,94.0
+1987,23,Dover,24.0,1.0,7.0,Harry Gant,Skoal (Ed Whitaker),Buick,168.0,1175.0,engine,112.0,91.0
+1987,23,Dover,25.0,36.0,62.0,John Linville,Lemon's Auto Parts (John Linville),Pontiac,155.0,1150.0,overheating,0.0,88.0
+1987,23,Dover,26.0,16.0,63.0,Larry Pollard,Cloverdale Lumber (Hubert Hensley),Chevrolet,148.0,1125.0,engine,0.0,85.0
+1987,23,Dover,27.0,31.0,96.0,Mike Porter,Kidd Oil (Reds Kagle),Pontiac,131.0,1100.0,suspension,0.0,82.0
+1987,23,Dover,28.0,30.0,42.0,Elton Sawyer,Bill Lewis,Chevrolet,98.0,1075.0,engine,0.0,79.0
+1987,23,Dover,29.0,34.0,20.0,Brett Hearn,Advanced Eagle,Ford,83.0,460.0,oil pressure,0.0,76.0
+1987,23,Dover,30.0,5.0,90.0,Rusty Wallace,Cox Wood Preserving (Grover Shugart),Buick,69.0,450.0,piston,0.0,73.0
+1987,23,Dover,31.0,18.0,31.0,Mark Martin,Fat Boys Bar-B-Q (Bruce Lawmaster),Ford,45.0,1050.0,engine,0.0,70.0
+1987,23,Dover,32.0,20.0,37.0,Patty Moise,Red Roof Inns (Patty Moise),Buick,38.0,450.0,engine,0.0,67.0
+1987,23,Dover,33.0,35.0,4.0,Joe Thurman,Thurman Enterprises (Joe Thurman),Oldsmobile,36.0,1050.0,engine,0.0,64.0
+1987,23,Dover,34.0,37.0,41.0,Joey Kourafas,Mauceri Signs (Paul Mauceri),Buick,21.0,450.0,engine,0.0,0.0
+1987,23,Dover,35.0,33.0,72.0,Dave Davis,Driver's Seat,Buick,8.0,450.0,crash,0.0,0.0
+1987,23,Dover,36.0,32.0,88.0,Larry Caron,East End Auto,Buick,8.0,450.0,ignition,0.0,0.0
+1987,23,Dover,37.0,11.0,58.0,Tommy Ellis,J & J Racing (John Jackson),Buick,6.0,450.0,valve,0.0,52.0
+1987,24,Martinsville,1.0,4.0,22.0,Rick Mast,"Mast Racing (Alan Dillard, Jr.)",Pontiac,150.0,5825.0,running,42.0,180.0
+1987,24,Martinsville,2.0,11.0,5.0,Jimmy Hensley,Advance Auto Parts (Sam Ard),Buick,150.0,2595.0,running,0.0,170.0
+1987,24,Martinsville,3.0,13.0,31.0,Mark Martin,Fat Boys Bar-B-Q (Bruce Lawmaster),Ford,150.0,2225.0,running,0.0,165.0
+1987,24,Martinsville,4.0,14.0,84.0,Mike Alexander,Action Vans (Mike Alexander),Buick,150.0,1450.0,running,0.0,160.0
+1987,24,Martinsville,5.0,1.0,0.0,Brett Bodine,Thomas Brothers Country Ham (Howard Thomas),Oldsmobile,150.0,3500.0,running,99.0,155.0
+1987,24,Martinsville,6.0,26.0,25.0,Rob Moroso,Moroso Performance (Dick Moroso),Oldsmobile,150.0,1300.0,running,0.0,150.0
+1987,24,Martinsville,7.0,10.0,2.0,L.D. Ottinger,All-Pro Auto Parts (Ron Parker),Buick,149.0,2475.0,running,0.0,146.0
+1987,24,Martinsville,8.0,28.0,62.0,John Linville,Lemon's Auto Parts (John Linville),Pontiac,149.0,1150.0,running,0.0,142.0
+1987,24,Martinsville,9.0,24.0,14.0,Ronnie Silver,Caldwell Drilling (Ronnie Silver),Pontiac,149.0,2350.0,running,0.0,138.0
+1987,24,Martinsville,10.0,12.0,37.0,Patty Moise,Red Roof Inns (Patty Moise),Buick,149.0,550.0,running,0.0,134.0
+1987,24,Martinsville,11.0,19.0,12.0,Ed Berrier,Berrier Racing (Max Berrier),Oldsmobile,149.0,1000.0,running,0.0,130.0
+1987,24,Martinsville,12.0,15.0,24.0,Glenn Jarrett,Delta Elastics (Marvin Thackston),Ford,149.0,450.0,running,0.0,127.0
+1987,24,Martinsville,13.0,7.0,32.0,Dale Jarrett,Port-A-Lube (Horace Isenhower),Chevrolet,148.0,2140.0,running,0.0,124.0
+1987,24,Martinsville,14.0,30.0,3.0,Mike Porter,Fred & Jack's Salvage,Pontiac,148.0,875.0,running,0.0,121.0
+1987,24,Martinsville,15.0,20.0,23.0,Donnie Allison,JerZees,Buick,147.0,365.0,running,0.0,118.0
+1987,24,Martinsville,16.0,8.0,1.0,Robert Ingram,Ramada Inns (Robert Ingram),Buick,145.0,850.0,running,0.0,115.0
+1987,24,Martinsville,17.0,29.0,57.0,Joe Harrison,Harrison Racing (Joe Harrison),Pontiac,145.0,830.0,running,0.0,112.0
+1987,24,Martinsville,18.0,22.0,11.0,Jack Ingram,Skoal Bandit (Jack Ingram),Chevrolet,145.0,2060.0,running,0.0,109.0
+1987,24,Martinsville,19.0,25.0,41.0,Max Prestwood,Custom Veneers (Max Prestwood),Oldsmobile,145.0,305.0,running,0.0,106.0
+1987,24,Martinsville,20.0,31.0,27.0,Bosco Lowe,Ryder Enterprises (Edgar Ryder),Pontiac,142.0,800.0,running,0.0,103.0
+1987,24,Martinsville,21.0,17.0,63.0,Larry Pollard,Cloverdale Lumber (Hubert Hensley),Chevrolet,116.0,795.0,engine,0.0,100.0
+1987,24,Martinsville,22.0,6.0,90.0,Rusty Wallace,Cox Wood Preserving (Grover Shugart),Chevrolet,102.0,290.0,engine,0.0,97.0
+1987,24,Martinsville,23.0,21.0,7.0,Tommy Sigmon,Burke Grading & Paving (Dwight Huffman),Oldsmobile,102.0,785.0,transmission,0.0,94.0
+1987,24,Martinsville,24.0,16.0,75.0,Brad Teague,Food Country USA (Charlie Henderson),Chevrolet,100.0,2030.0,transmission,0.0,91.0
+1987,24,Martinsville,25.0,3.0,21.0,Larry Pearson,Chattanooga Chew (David Pearson),Chevrolet,100.0,2775.0,handling,0.0,88.0
+1987,24,Martinsville,26.0,23.0,42.0,Elton Sawyer,Bill Lewis,Chevrolet,94.0,770.0,ignition,0.0,85.0
+1987,24,Martinsville,27.0,9.0,6.0,Tommy Houston,Southern Biscuit Flour (Steve Arndt),Buick,72.0,2015.0,crash,0.0,82.0
+1987,24,Martinsville,28.0,5.0,58.0,Tommy Ellis,J & J Racing (John Jackson),Pontiac,71.0,260.0,overheating,0.0,79.0
+1987,24,Martinsville,29.0,18.0,47.0,Billy Standridge,Standridge Auto Parts (Billy Standridge),Pontiac,47.0,255.0,rear end,0.0,76.0
+1987,24,Martinsville,30.0,27.0,4.0,Joe Thurman,Thurman Enterprises (Joe Thurman),Pontiac,40.0,750.0,crash,0.0,73.0
+1987,24,Martinsville,31.0,2.0,7.0,Harry Gant,Skoal (Ed Whitaker),Buick,23.0,250.0,engine,9.0,70.0
+1987,24,Martinsville,32.0,32.0,9.0,Morgan Shepherd,Burnette Racing (Lester Burnette),Oldsmobile,1.0,750.0,handling,0.0,67.0
+1987,25,Charlotte,1.0,1.0,7.0,Harry Gant,Skoal (Ed Whitaker),Buick,200.0,44604.0,running,14.0,180.0
+1987,25,Charlotte,2.0,7.0,17.0,Darrell Waltrip,Tide (Darrell Waltrip),Chevrolet,200.0,30379.0,running,93.0,170.0
+1987,25,Charlotte,3.0,11.0,9.0,Bill Elliott,Coors (Bill Elliott),Buick,200.0,16764.0,running,12.0,165.0
+1987,25,Charlotte,4.0,15.0,72.0,Rusty Wallace,Kodiak (Raymond Beadle),Pontiac,200.0,13655.0,running,0.0,160.0
+1987,25,Charlotte,5.0,4.0,33.0,Bobby Allison,Miller American (Bobby Allison),Buick,200.0,11229.0,running,10.0,155.0
+1987,25,Charlotte,6.0,12.0,2.0,L.D. Ottinger,All-Pro Auto Parts (Ron Parker),Buick,199.0,15205.0,running,0.0,150.0
+1987,25,Charlotte,7.0,20.0,25.0,Rob Moroso,Moroso Performance (Dick Moroso),Oldsmobile,199.0,10955.0,running,0.0,146.0
+1987,25,Charlotte,8.0,10.0,24.0,Glenn Jarrett,Thackston's Garage (Marvin Thackston),Ford,199.0,7879.0,running,0.0,142.0
+1987,25,Charlotte,9.0,40.0,71.0,Bobby Dragon,D.G. Robertson (Maurice Brown),Buick,199.0,6855.0,running,0.0,0.0
+1987,25,Charlotte,10.0,2.0,0.0,Brett Bodine,Thomas Brothers Country Ham (Howard Thomas),Oldsmobile,198.0,7504.0,crash,0.0,134.0
+1987,25,Charlotte,11.0,32.0,75.0,Brad Teague,Food Country USA (Charlie Henderson),Pontiac,198.0,7955.0,running,0.0,130.0
+1987,25,Charlotte,12.0,21.0,23.0,Donnie Allison,JerZees,Buick,198.0,5055.0,running,0.0,127.0
+1987,25,Charlotte,13.0,29.0,37.0,Patty Moise,Red Roof Inns (Patty Moise),Buick,197.0,4315.0,running,0.0,124.0
+1987,25,Charlotte,14.0,13.0,5.0,Jimmy Hensley,Advance Auto Parts (Sam Ard),Buick,196.0,4915.0,running,0.0,121.0
+1987,25,Charlotte,15.0,26.0,32.0,Dale Jarrett,Port-A-Lube (Horace Isenhower),Buick,195.0,5635.0,running,0.0,118.0
+1987,25,Charlotte,16.0,16.0,84.0,Mike Alexander,Action Vans (Mike Alexander),Buick,193.0,4465.0,running,0.0,115.0
+1987,25,Charlotte,17.0,44.0,93.0,John Linville,Graham Racing,Chevrolet,190.0,4035.0,running,0.0,112.0
+1987,25,Charlotte,18.0,8.0,22.0,Rick Mast,"Mast Racing (Alan Dillard, Jr.)",Buick,187.0,4214.0,running,0.0,109.0
+1987,25,Charlotte,19.0,19.0,58.0,Tommy Ellis,J & J Racing (John Jackson),Buick,182.0,2765.0,engine,3.0,106.0
+1987,25,Charlotte,20.0,24.0,1.0,Robert Ingram,Hendrick Honda (Robert Ingram),Buick,180.0,3265.0,oil leak,0.0,103.0
+1987,25,Charlotte,21.0,3.0,8.0,Dale Earnhardt,"GM Goodwrench (Dale Earnhardt, Inc.)",Chevrolet,173.0,2715.0,oil leak,13.0,100.0
+1987,25,Charlotte,22.0,5.0,90.0,Ed Berrier,Cox Wood Preserving (Grover Shugart),Buick,170.0,3139.0,engine,0.0,97.0
+1987,25,Charlotte,23.0,31.0,47.0,Billy Standridge,Standridge Auto Parts (Billy Standridge),Chevrolet,170.0,2365.0,engine,0.0,94.0
+1987,25,Charlotte,24.0,22.0,29.0,Tommy Riggins,Mobil 1,Buick,168.0,2265.0,rear end,3.0,91.0
+1987,25,Charlotte,25.0,17.0,11.0,Jack Ingram,Skoal Bandit (Jack Ingram),Chevrolet,158.0,4515.0,ignition,0.0,88.0
+1987,25,Charlotte,26.0,30.0,51.0,Neil Bonnett,Valvoline (Rahmoc Enterprises),Pontiac,155.0,2065.0,engine,0.0,85.0
+1987,25,Charlotte,27.0,33.0,68.0,Mike Porter,Harris Racing (Carl Harris),Pontiac,154.0,2565.0,electrical,0.0,82.0
+1987,25,Charlotte,28.0,28.0,2.0,Kenny Burks,"Parrish, Inc. (J.C. Burks)",Pontiac,151.0,2165.0,crash,0.0,79.0
+1987,25,Charlotte,29.0,27.0,10.0,Ken Bouchard,Mobil 1 (Bob Whitcomb),Chevrolet,148.0,1765.0,running,0.0,0.0
+1987,25,Charlotte,30.0,43.0,95.0,Tommy Sigmon,Jewelry Exchange (Terry Shook),Buick,133.0,2795.0,crash,0.0,73.0
+1987,25,Charlotte,31.0,23.0,6.0,Tommy Houston,Southern Biscuit Flour (Steve Arndt),Buick,131.0,4315.0,engine,0.0,70.0
+1987,25,Charlotte,32.0,18.0,31.0,Mark Martin,Fat Boys Bar-B-Q (Bruce Lawmaster),Ford,119.0,2515.0,engine,0.0,67.0
+1987,25,Charlotte,33.0,34.0,63.0,Larry Pollard,Nalley Carolina Trucks (Hubert Hensley),Chevrolet,100.0,2455.0,engine,0.0,64.0
+1987,25,Charlotte,34.0,38.0,3.0,Bosco Lowe,Tarheel Paving,Buick,86.0,2115.0,rear end,0.0,61.0
+1987,25,Charlotte,35.0,37.0,4.0,Joe Thurman,Thurman Enterprises (Joe Thurman),Oldsmobile,82.0,2065.0,engine,0.0,58.0
+1987,25,Charlotte,36.0,9.0,21.0,Larry Pearson,Chattanooga Chew (David Pearson),Chevrolet,68.0,7129.0,engine,0.0,55.0
+1987,25,Charlotte,37.0,42.0,96.0,Joe Cudmore,Kidd Oil (Reds Kagle),Pontiac,64.0,3935.0,alternator,0.0,52.0
+1987,25,Charlotte,38.0,14.0,97.0,Morgan Shepherd,Shepherd Racing (Morgan Shepherd),Buick,60.0,2035.0,electrical,0.0,49.0
+1987,25,Charlotte,39.0,6.0,15.0,Geoffrey Bodine,Levi Garrett (Rick Hendrick),Chevrolet,54.0,1474.0,crash,52.0,46.0
+1987,25,Charlotte,40.0,35.0,26.0,Max Prestwood,Cedar Ridge RV Sales (Larry Brolsma),Pontiac,43.0,2015.0,transmission,0.0,43.0
+1987,25,Charlotte,41.0,39.0,16.0,Joey Kourafas,U.S. Chrome (Dana Patten),Chevrolet,40.0,1415.0,overheating,0.0,0.0
+1987,25,Charlotte,42.0,36.0,14.0,Ronnie Silver,Antique Train & Toy (Ronnie Silver),Chevrolet,38.0,3765.0,engine,0.0,37.0
+1987,25,Charlotte,43.0,25.0,42.0,Elton Sawyer,Bill Lewis,Chevrolet,38.0,2315.0,engine,0.0,34.0
+1987,25,Charlotte,44.0,41.0,1.0,Joe Harrison,G.M. Ladd & Sons (G.M. Ladd),Pontiac,23.0,2315.0,transmission,0.0,31.0
+1987,26,Rockingham,1.0,19.0,97.0,Morgan Shepherd,Winner's Circle Products (Morgan Shepherd),Buick,197.0,8800.0,running,10.0,180.0
+1987,26,Rockingham,2.0,3.0,15.0,Geoffrey Bodine,Levi Garrett (Rick Hendrick),Chevrolet,197.0,3900.0,running,32.0,0.0
+1987,26,Rockingham,3.0,7.0,8.0,Dale Earnhardt,"GM Goodwrench (Dale Earnhardt, Inc.)",Chevrolet,197.0,3200.0,running,106.0,165.0
+1987,26,Rockingham,4.0,2.0,21.0,Larry Pearson,Chattanooga Chew (David Pearson),Chevrolet,196.0,6950.0,running,3.0,160.0
+1987,26,Rockingham,5.0,21.0,45.0,Ken Schrader,Red Baron Pizza (Ken Schrader),Ford,196.0,1825.0,running,13.0,0.0
+1987,26,Rockingham,6.0,30.0,10.0,Bosco Lowe,Mobil 1 (Bob Whitcomb),Chevrolet,196.0,1200.0,running,0.0,150.0
+1987,26,Rockingham,7.0,24.0,23.0,Donnie Allison,JerZees,Buick,196.0,900.0,running,0.0,146.0
+1987,26,Rockingham,8.0,6.0,22.0,Rick Mast,"Mast Racing (Alan Dillard, Jr.)",Buick,195.0,2650.0,running,7.0,142.0
+1987,26,Rockingham,9.0,12.0,2.0,L.D. Ottinger,All-Pro Auto Parts (Ron Parker),Buick,195.0,4050.0,running,0.0,138.0
+1987,26,Rockingham,10.0,8.0,11.0,Jack Ingram,Skoal Bandit (Jack Ingram),Chevrolet,195.0,3900.0,running,0.0,134.0
+1987,26,Rockingham,11.0,13.0,37.0,Patty Moise,Red Roof Inns (Patty Moise),Buick,195.0,500.0,running,0.0,130.0
+1987,26,Rockingham,12.0,27.0,25.0,Rob Moroso,Moroso Performance (Dick Moroso),Oldsmobile,195.0,1820.0,running,0.0,127.0
+1987,26,Rockingham,13.0,10.0,32.0,Dale Jarrett,Port-A-Lube (Horace Isenhower),Buick,195.0,2800.0,running,0.0,124.0
+1987,26,Rockingham,14.0,31.0,75.0,Brad Teague,Food Country USA (Charlie Henderson),Pontiac,195.0,3420.0,running,0.0,121.0
+1987,26,Rockingham,15.0,25.0,1.0,Robert Ingram,Hendrick Honda (Robert Ingram),Buick,194.0,1765.0,running,0.0,118.0
+1987,26,Rockingham,16.0,16.0,90.0,Ed Berrier,Cox Wood Preserving (Grover Shugart),Buick,193.0,1420.0,running,0.0,115.0
+1987,26,Rockingham,17.0,38.0,4.0,Joe Thurman,Thurman Enterprises (Joe Thurman),Oldsmobile,192.0,1300.0,running,0.0,112.0
+1987,26,Rockingham,18.0,14.0,29.0,Tommy Riggins,Mobil 1,Buick,190.0,345.0,running,0.0,109.0
+1987,26,Rockingham,19.0,34.0,38.0,Mike Bonicelli,Fox Broadcasting,Pontiac,190.0,340.0,running,0.0,106.0
+1987,26,Rockingham,20.0,18.0,6.0,Tommy Houston,Southern Biscuit Flour (Steve Arndt),Buick,189.0,2935.0,running,0.0,103.0
+1987,26,Rockingham,21.0,32.0,70.0,Max Prestwood,Bailey / Temple,Oldsmobile,189.0,930.0,running,0.0,100.0
+1987,26,Rockingham,22.0,40.0,96.0,Dana Patten,U.S. Chrome (Dana Patten),Chevrolet,187.0,325.0,running,0.0,0.0
+1987,26,Rockingham,23.0,1.0,5.0,Jimmy Hensley,Advance Auto Parts (Sam Ard),Buick,182.0,1470.0,running,22.0,94.0
+1987,26,Rockingham,24.0,28.0,55.0,Mike Porter,No. 9 Mining Company,Pontiac,176.0,310.0,running,0.0,91.0
+1987,26,Rockingham,25.0,4.0,0.0,Brett Bodine,Thomas Brothers Country Ham (Howard Thomas),Oldsmobile,171.0,2655.0,running,0.0,88.0
+1987,26,Rockingham,26.0,22.0,78.0,Bill Ingle,Carter-Mays-Mycarela,Pontiac,168.0,300.0,overheating,0.0,85.0
+1987,26,Rockingham,27.0,26.0,24.0,Glenn Jarrett,Jarrett Honda (Marvin Thackston),Ford,143.0,300.0,engine,0.0,82.0
+1987,26,Rockingham,28.0,15.0,31.0,Mark Martin,Fat Boys Bar-B-Q (Bruce Lawmaster),Ford,119.0,900.0,engine,0.0,79.0
+1987,26,Rockingham,29.0,5.0,17.0,Darrell Waltrip,Exxon Superflo (Darrell Waltrip),Chevrolet,113.0,300.0,crash,0.0,76.0
+1987,26,Rockingham,30.0,11.0,7.0,Harry Gant,Skoal (Ed Whitaker),Buick,101.0,300.0,engine,4.0,73.0
+1987,26,Rockingham,31.0,35.0,63.0,Larry Pollard,Nalley Carolina Trucks (Hubert Hensley),Chevrolet,93.0,895.0,transmission,0.0,70.0
+1987,26,Rockingham,32.0,9.0,58.0,Tommy Ellis,J & J Racing (John Jackson),Buick,85.0,290.0,suspension,0.0,67.0
+1987,26,Rockingham,33.0,29.0,7.0,Tommy Sigmon,Burke Grading & Paving (Dwight Huffman),Oldsmobile,74.0,885.0,engine,0.0,64.0
+1987,26,Rockingham,34.0,33.0,57.0,Joe Harrison,Harrison Racing (Joe Harrison),Chevrolet,69.0,880.0,crash,0.0,61.0
+1987,26,Rockingham,35.0,36.0,26.0,John Linville,Cedar Ridge RV Sales (Larry Brolsma),Pontiac,68.0,275.0,engine,0.0,58.0
+1987,26,Rockingham,36.0,23.0,42.0,Elton Sawyer,Bill Lewis,Chevrolet,63.0,875.0,crash,0.0,55.0
+1987,26,Rockingham,37.0,17.0,33.0,Bobby Allison,Miller American (Bobby Allison),Buick,62.0,275.0,brakes,0.0,52.0
+1987,26,Rockingham,38.0,39.0,28.0,Mike Weeden,Lind Racing,Buick,61.0,275.0,engine,0.0,0.0
+1987,26,Rockingham,39.0,37.0,14.0,Ronnie Silver,Antique Train & Toy (Ronnie Silver),Chevrolet,25.0,2625.0,engine,0.0,46.0
+1987,26,Rockingham,40.0,20.0,84.0,Mike Alexander,Action Vans (Mike Alexander),Buick,13.0,875.0,engine,0.0,43.0
+1987,27,Martinsville,1.0,1.0,5.0,Jimmy Hensley,Advance Auto Parts (Sam Ard),Buick,200.0,11650.0,running,192.0,180.0
+1987,27,Martinsville,2.0,23.0,84.0,Mike Alexander,Action Vans (Mike Alexander),Buick,200.0,4475.0,running,0.0,170.0
+1987,27,Martinsville,3.0,3.0,0.0,Brett Bodine,Thomas Brothers Country Ham (Howard Thomas),Oldsmobile,200.0,4100.0,running,0.0,165.0
+1987,27,Martinsville,4.0,15.0,63.0,Larry Pollard,Cloverdale Lumber (Hubert Hensley),Chevrolet,200.0,1980.0,running,0.0,160.0
+1987,27,Martinsville,5.0,4.0,21.0,Larry Pearson,Chattanooga Chew (David Pearson),Chevrolet,200.0,3860.0,running,0.0,155.0
+1987,27,Martinsville,6.0,13.0,32.0,Dale Jarrett,Port-A-Lube (Horace Isenhower),Chevrolet,200.0,3240.0,running,0.0,150.0
+1987,27,Martinsville,7.0,11.0,90.0,Rusty Wallace,Cox Wood Preserving (Grover Shugart),Chevrolet,199.0,1130.0,running,0.0,146.0
+1987,27,Martinsville,8.0,10.0,42.0,Elton Sawyer,Bill Lewis,Chevrolet,198.0,1680.0,running,0.0,142.0
+1987,27,Martinsville,9.0,27.0,75.0,Brad Teague,Food Country USA (Charlie Henderson),Pontiac,198.0,2835.0,running,0.0,138.0
+1987,27,Martinsville,10.0,12.0,1.0,Pete Silva,Prescott Racing,Pontiac,197.0,1030.0,running,0.0,134.0
+1987,27,Martinsville,11.0,25.0,22.0,Rick Mast,"Mast Racing (Alan Dillard, Jr.)",Pontiac,197.0,1550.0,running,0.0,130.0
+1987,27,Martinsville,12.0,9.0,41.0,Max Prestwood,Custom Veneers (Max Prestwood),Oldsmobile,197.0,1490.0,running,0.0,127.0
+1987,27,Martinsville,13.0,20.0,57.0,Joe Harrison,Harrison Racing (Joe Harrison),Pontiac,196.0,1470.0,running,0.0,124.0
+1987,27,Martinsville,14.0,28.0,7.0,Tommy Sigmon,Burke Grading & Paving (Dwight Huffman),Pontiac,195.0,1480.0,running,0.0,121.0
+1987,27,Martinsville,15.0,32.0,4.0,Joe Thurman,Thurman Enterprises (Joe Thurman),Pontiac,194.0,1455.0,running,0.0,118.0
+1987,27,Martinsville,16.0,29.0,76.0,Billy Hicks,H & H Auto Sales (Billy Hicks),Oldsmobile,190.0,910.0,running,0.0,115.0
+1987,27,Martinsville,17.0,7.0,1.0,Robert Ingram,Hendrick Honda (Robert Ingram),Buick,185.0,1390.0,running,0.0,112.0
+1987,27,Martinsville,18.0,24.0,2.0,Kenny Burks,Williams & Burks (J.C. Burks),Chevrolet,178.0,920.0,overheating,0.0,109.0
+1987,27,Martinsville,19.0,5.0,15.0,Geoffrey Bodine,Levi Garrett (Rick Hendrick),Chevrolet,172.0,850.0,engine,0.0,0.0
+1987,27,Martinsville,20.0,19.0,11.0,Jack Ingram,Skoal Bandit (Jack Ingram),Chevrolet,169.0,2830.0,distributor,0.0,103.0
+1987,27,Martinsville,21.0,30.0,62.0,Mike Porter,Lemon's Auto Parts (John Linville),Pontiac,161.0,835.0,engine,0.0,100.0
+1987,27,Martinsville,22.0,6.0,2.0,L.D. Ottinger,All-Pro Auto Parts (Ron Parker),Buick,157.0,2540.0,running,0.0,97.0
+1987,27,Martinsville,23.0,8.0,6.0,Tommy Houston,Southern Biscuit Flour (Steve Arndt),Buick,154.0,2520.0,running,0.0,94.0
+1987,27,Martinsville,24.0,16.0,25.0,Rob Moroso,Moroso Performance (Dick Moroso),Oldsmobile,130.0,1250.0,running,0.0,91.0
+1987,27,Martinsville,25.0,22.0,58.0,Tommy Ellis,Hi-Way Garden Center (John Jackson),Pontiac,114.0,805.0,engine,0.0,88.0
+1987,27,Martinsville,26.0,14.0,31.0,Mark Martin,Fat Boys Bar-B-Q (Bruce Lawmaster),Ford,109.0,1210.0,crash,0.0,85.0
+1987,27,Martinsville,27.0,26.0,12.0,Ed Berrier,Berrier Racing (Max Berrier),Oldsmobile,79.0,1230.0,clutch,0.0,82.0
+1987,27,Martinsville,28.0,17.0,9.0,Bob Shreeves,Shreeves Racing (Bob Shreeves),Pontiac,60.0,670.0,overheating,0.0,79.0
+1987,27,Martinsville,29.0,31.0,14.0,Ronnie Silver,Antique Train & Toy (Ronnie Silver),Pontiac,38.0,2425.0,engine,0.0,76.0
+1987,27,Martinsville,30.0,21.0,37.0,Patty Moise,Red Roof Inns (Patty Moise),Buick,32.0,630.0,crash,0.0,73.0
+1987,27,Martinsville,31.0,2.0,7.0,Harry Gant,Skoal (Ed Whitaker),Buick,24.0,630.0,engine,8.0,70.0
+1987,27,Martinsville,32.0,18.0,5.0,Paul Radford,Shelor,Chevrolet,14.0,630.0,engine,0.0,0.0

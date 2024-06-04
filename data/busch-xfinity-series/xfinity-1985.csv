@@ -1,0 +1,795 @@
+Season,Race,Track,Pos,St,#,Driver,Sponsor / Owner,Car,Laps,Money,Status,Led,Pts
+1985,1,Daytona,1.0,2.0,5.0,Geoffrey Bodine,Levi Garrett (Rick Hendrick),Pontiac,120.0,32713.0,running,43.0,180.0
+1985,1,Daytona,2.0,27.0,22.0,Bobby Allison,"Miller High Life (Alan Dillard, Jr.)",Buick,120.0,16413.0,running,11.0,170.0
+1985,1,Daytona,3.0,11.0,17.0,Darrell Waltrip,Budweiser / Colonial Bread (Darrell Waltrip),Oldsmobile,120.0,11763.0,running,1.0,165.0
+1985,1,Daytona,4.0,1.0,66.0,Rusty Wallace,Alugard (Rusty Wallace),Pontiac,120.0,11425.0,running,42.0,160.0
+1985,1,Daytona,5.0,4.0,84.0,Morgan Shepherd,Ron Smith,Pontiac,120.0,12888.0,running,1.0,155.0
+1985,1,Daytona,6.0,8.0,0.0,Jimmy Hensley,Thomas Brothers Country Hams (Howard Thomas),Oldsmobile,120.0,7213.0,running,0.0,150.0
+1985,1,Daytona,7.0,21.0,11.0,Jack Ingram,Pantry / Skoal Bandit (Jack Ingram),Oldsmobile,120.0,16113.0,running,0.0,146.0
+1985,1,Daytona,8.0,5.0,10.0,L.D. Ottinger,Gwyn Distributing (C.B. Gwyn),Pontiac,120.0,12713.0,running,0.0,142.0
+1985,1,Daytona,9.0,9.0,32.0,Dale Jarrett,Busch / Daytona Budweiser (Horace Isenhower),Oldsmobile,120.0,10913.0,running,0.0,138.0
+1985,1,Daytona,10.0,30.0,12.0,Tommy Ellis,Freedlander,Oldsmobile,120.0,6413.0,running,0.0,134.0
+1985,1,Daytona,11.0,13.0,58.0,Merv Treichler,J & J Racing (John Jackson),Oldsmobile,119.0,3200.0,running,0.0,130.0
+1985,1,Daytona,12.0,32.0,80.0,Dick McCabe,McCabe Bait,Pontiac,119.0,3425.0,running,0.0,127.0
+1985,1,Daytona,13.0,31.0,70.0,Bosco Lowe,Ryder's Floor Store (Edgar Ryder),Oldsmobile,119.0,8200.0,running,0.0,124.0
+1985,1,Daytona,14.0,7.0,21.0,Larry Pearson,Chattanooga Chew (David Pearson),Pontiac,119.0,8963.0,running,0.0,121.0
+1985,1,Daytona,15.0,25.0,65.0,Ken Bouchard,Universal Auto Salvage (M.J. Sullivan),Oldsmobile,119.0,2875.0,running,1.0,118.0
+1985,1,Daytona,16.0,19.0,7.0,Alan Kulwicki,Whitaker Racing (Ed Whitaker),Oldsmobile,118.0,2725.0,running,0.0,115.0
+1985,1,Daytona,17.0,14.0,43.0,Kenny Burks,Jones Texaco,Pontiac,117.0,2575.0,running,0.0,112.0
+1985,1,Daytona,18.0,40.0,51.0,Robert Ingram,Hall Pontiac,Pontiac,116.0,6413.0,running,0.0,109.0
+1985,1,Daytona,19.0,38.0,4.0,Eddie Falk,CHC (Eddie Falk),Pontiac,116.0,5450.0,running,0.0,106.0
+1985,1,Daytona,20.0,20.0,27.0,Sammy Swindell,7-Eleven / Chief Auto (Raymond Beadle),Pontiac,115.0,2400.0,running,0.0,103.0
+1985,1,Daytona,21.0,6.0,4.0,Joe Thurman,Davis Racing (Johnny Davis),Pontiac,114.0,5050.0,running,0.0,100.0
+1985,1,Daytona,22.0,28.0,45.0,Charlie Luck,Luck Stone / Dryden Oil (Charlie Luck),Pontiac,112.0,4700.0,running,0.0,97.0
+1985,1,Daytona,23.0,41.0,78.0,Bob Shreeves,Billy Bill & Sons Grading (Johnny Talley),Oldsmobile,111.0,4350.0,running,0.0,94.0
+1985,1,Daytona,24.0,10.0,6.0,Tommy Houston,Southern Biscuit Flour (Mike Day),Oldsmobile,111.0,4688.0,running,0.0,91.0
+1985,1,Daytona,25.0,12.0,3.0,Mike Porter,Wendy's,Pontiac,105.0,2738.0,running,0.0,88.0
+1985,1,Daytona,26.0,39.0,52.0,Stuart Huffman,Jerry's Used Cars,Pontiac,104.0,2100.0,running,0.0,85.0
+1985,1,Daytona,27.0,35.0,60.0,Ed Berrier,Horton Distributing (Max Berrier),Pontiac,84.0,2400.0,ignition,0.0,82.0
+1985,1,Daytona,28.0,16.0,47.0,Ron Bouchard,Valvoline (Jack Beebe),Buick,81.0,4238.0,engine,20.0,79.0
+1985,1,Daytona,29.0,42.0,79.0,Dickie Linville,Hill Enterprises,Pontiac,71.0,2300.0,engine,0.0,76.0
+1985,1,Daytona,30.0,17.0,75.0,Brad Teague,Food Country USA (Charlie Henderson),Pontiac,67.0,2513.0,vibration,0.0,73.0
+1985,1,Daytona,31.0,34.0,34.0,Joe Kelly,Kelly Builders (Joe Kelly),Pontiac,63.0,1800.0,engine,0.0,70.0
+1985,1,Daytona,32.0,33.0,2.0,Rick Mast,"Mast Racing (Alan Dillard, Jr.)",Pontiac,63.0,2200.0,engine,0.0,67.0
+1985,1,Daytona,33.0,23.0,73.0,Mike McLaughlin,D & H Potato Farm (Len Boehler),Pontiac,53.0,1700.0,crash,0.0,64.0
+1985,1,Daytona,34.0,36.0,25.0,Mike Watts,Watts Racing,Pontiac,36.0,1650.0,engine,0.0,61.0
+1985,1,Daytona,35.0,3.0,8.0,Dale Earnhardt,"Wrangler Jeans (Dale Earnhardt, Inc.)",Pontiac,33.0,1800.0,engine,1.0,58.0
+1985,1,Daytona,36.0,29.0,14.0,Ronnie Silver,Coors Light (Ronnie Silver),Oldsmobile,30.0,2563.0,engine,0.0,55.0
+1985,1,Daytona,37.0,37.0,82.0,Larry Walker,Walker Upholstery (Larry Walker),Pontiac,25.0,1550.0,engine,0.0,52.0
+1985,1,Daytona,38.0,26.0,23.0,Davey Allison,Miller High Life (Bobby Allison),Pontiac,20.0,1525.0,engine,0.0,49.0
+1985,1,Daytona,39.0,24.0,24.0,Glenn Jarrett,Hindman Music / Budweiser (Marvin Thackston),Ford,16.0,1900.0,engine,0.0,46.0
+1985,1,Daytona,40.0,22.0,7.0,Joe Ruttman,Whitaker Racing (Ed Whitaker),Oldsmobile,10.0,1475.0,wheel bearing,0.0,43.0
+1985,1,Daytona,41.0,18.0,85.0,Jimmy Horton,S & H Racing (George Smith),Pontiac,7.0,1525.0,engine,0.0,40.0
+1985,1,Daytona,42.0,15.0,28.0,Phil Parsons,Eckerd / Skoal Bandit (Johnny Hayes),Pontiac,4.0,2063.0,engine,0.0,37.0
+1985,2,Rockingham,1.0,2.0,8.0,Dale Earnhardt,"Wrangler Jeans (Dale Earnhardt, Inc.)",Pontiac,197.0,9550.0,running,113.0,0.0
+1985,2,Rockingham,2.0,6.0,7.0,Joe Ruttman,Whitaker Racing (Ed Whitaker),Oldsmobile,197.0,4925.0,running,0.0,0.0
+1985,2,Rockingham,3.0,1.0,5.0,Geoffrey Bodine,Levi Garrett (Rick Hendrick),Pontiac,197.0,3975.0,running,73.0,165.0
+1985,2,Rockingham,4.0,3.0,32.0,Dale Jarrett,Busch / Restore (Horace Isenhower),Oldsmobile,197.0,2975.0,running,0.0,160.0
+1985,2,Rockingham,5.0,7.0,6.0,Tommy Houston,Southern Biscuit Flour (Mike Day),Oldsmobile,197.0,3500.0,running,0.0,155.0
+1985,2,Rockingham,6.0,12.0,10.0,L.D. Ottinger,Gwyn Distributing (C.B. Gwyn),Oldsmobile,197.0,2100.0,running,2.0,150.0
+1985,2,Rockingham,7.0,13.0,4.0,Joe Thurman,Davis Racing (Johnny Davis),Pontiac,197.0,1700.0,running,0.0,146.0
+1985,2,Rockingham,8.0,16.0,0.0,Jimmy Hensley,Thomas Brothers Country Hams (Howard Thomas),Oldsmobile,196.0,1100.0,running,0.0,142.0
+1985,2,Rockingham,9.0,21.0,14.0,Ronnie Silver,Coors Light (Ronnie Silver),Oldsmobile,196.0,1300.0,running,0.0,138.0
+1985,2,Rockingham,10.0,17.0,24.0,Glenn Jarrett,Hindman Music (Marvin Thackston),Ford,196.0,1250.0,running,0.0,134.0
+1985,2,Rockingham,11.0,15.0,45.0,Charlie Luck,Luck Stone / Dryden Oil (Charlie Luck),Pontiac,196.0,1170.0,running,0.0,130.0
+1985,2,Rockingham,12.0,9.0,75.0,Brad Teague,Food Country USA (Charlie Henderson),Pontiac,195.0,750.0,running,0.0,127.0
+1985,2,Rockingham,13.0,22.0,51.0,Robert Ingram,Hall Pontiac,Pontiac,195.0,1125.0,running,0.0,124.0
+1985,2,Rockingham,14.0,24.0,4.0,Eddie Falk,CHC (Eddie Falk),Pontiac,191.0,1100.0,running,0.0,121.0
+1985,2,Rockingham,15.0,18.0,2.0,Kirk Bryant,Motorsports Designs,Pontiac,186.0,675.0,running,0.0,0.0
+1985,2,Rockingham,16.0,30.0,55.0,Ed Berrier,Beach (Max Berrier),Pontiac,182.0,650.0,running,0.0,115.0
+1985,2,Rockingham,17.0,27.0,82.0,Larry Walker,Larry's Automotive (Larry Walker),Pontiac,173.0,600.0,running,0.0,112.0
+1985,2,Rockingham,18.0,19.0,58.0,Merv Treichler,J & J Racing (John Jackson),Oldsmobile,155.0,575.0,crash,0.0,109.0
+1985,2,Rockingham,19.0,20.0,2.0,Jeff Hensley,Flute's Sheetmetal,Oldsmobile,153.0,950.0,overheating,0.0,106.0
+1985,2,Rockingham,20.0,14.0,44.0,Rick Mast,"A.G. Dillard (Alan Dillard, Jr.)",Pontiac,142.0,925.0,crash,0.0,103.0
+1985,2,Rockingham,21.0,4.0,11.0,Jack Ingram,Pantry / Skoal Bandit (Jack Ingram),Oldsmobile,130.0,2350.0,engine,9.0,100.0
+1985,2,Rockingham,22.0,5.0,21.0,Larry Pearson,Chattanooga Chew (David Pearson),Pontiac,104.0,2325.0,crash,0.0,97.0
+1985,2,Rockingham,23.0,26.0,29.0,John Linville,Longwood Restaurant (Chubby Arrington),Dodge,90.0,820.0,crash,0.0,94.0
+1985,2,Rockingham,24.0,25.0,39.0,Morgan Shepherd,Beauregard's Deli,Pontiac,85.0,815.0,overheating,0.0,91.0
+1985,2,Rockingham,25.0,8.0,70.0,Bosco Lowe,Ryder's Floor Store (Edgar Ryder),Oldsmobile,82.0,810.0,crash,0.0,88.0
+1985,2,Rockingham,26.0,29.0,73.0,Billy Hogan,Superior Piping,Chevrolet,78.0,805.0,engine,0.0,85.0
+1985,2,Rockingham,27.0,11.0,22.0,Bobby Allison,"Miller American (Alan Dillard, Jr.)",Buick,65.0,400.0,overheating,0.0,82.0
+1985,2,Rockingham,28.0,23.0,99.0,Bubba Nissen,Nelson Building Supply,Pontiac,42.0,395.0,engine,0.0,79.0
+1985,2,Rockingham,29.0,10.0,12.0,Tommy Ellis,Freedlander,Oldsmobile,41.0,2290.0,engine,0.0,76.0
+1985,2,Rockingham,30.0,28.0,84.0,Billy Myers,Clarke,Pontiac,36.0,385.0,crash,0.0,73.0
+1985,3,Hickory,1.0,4.0,0.0,Jimmy Hensley,Thomas Brothers Country Hams (Howard Thomas),Oldsmobile,200.0,3000.0,running,33.0,180.0
+1985,3,Hickory,2.0,6.0,11.0,Jack Ingram,Pantry / Skoal Bandit (Jack Ingram),Pontiac,200.0,2400.0,running,54.0,170.0
+1985,3,Hickory,3.0,11.0,21.0,Larry Pearson,Chattanooga Chew (David Pearson),Pontiac,200.0,2000.0,running,0.0,165.0
+1985,3,Hickory,4.0,9.0,27.0,Bosco Lowe,Ryder's Floor Store (Edgar Ryder),Pontiac,200.0,1100.0,running,0.0,160.0
+1985,3,Hickory,5.0,5.0,6.0,Tommy Houston,Southern Biscuit Flour (Mike Day),Chevrolet,199.0,1750.0,running,0.0,155.0
+1985,3,Hickory,6.0,2.0,32.0,Dale Jarrett,Busch / Restore (Horace Isenhower),Oldsmobile,199.0,1050.0,running,103.0,150.0
+1985,3,Hickory,7.0,13.0,4.0,Eddie Falk,CHC (Eddie Falk),Pontiac,198.0,1100.0,running,0.0,146.0
+1985,3,Hickory,8.0,8.0,14.0,Ronnie Silver,Coors Light (Ronnie Silver),Pontiac,198.0,850.0,running,0.0,142.0
+1985,3,Hickory,9.0,10.0,10.0,L.D. Ottinger,Gwyn Distributing (C.B. Gwyn),Pontiac,198.0,800.0,running,0.0,138.0
+1985,3,Hickory,10.0,16.0,98.0,Larry Pollard,Anderson & Webb Trucking (Anderson / Webb),Chevrolet,197.0,650.0,running,0.0,134.0
+1985,3,Hickory,11.0,21.0,16.0,Jimmy Lawson,Big Orange Market,Pontiac,196.0,750.0,running,0.0,130.0
+1985,3,Hickory,12.0,20.0,45.0,Charlie Luck,Luck Stone / Dryden Oil (Charlie Luck),Pontiac,193.0,725.0,running,0.0,127.0
+1985,3,Hickory,13.0,15.0,4.0,Joe Thurman,Thurman Enterprises (Joe Thurman),Pontiac,193.0,750.0,running,0.0,124.0
+1985,3,Hickory,14.0,23.0,62.0,John Linville,Linville Racing (John Linville),Pontiac,190.0,600.0,running,0.0,121.0
+1985,3,Hickory,15.0,14.0,22.0,Rick Mast,"A.G. Dillard (Alan Dillard, Jr.)",Pontiac,187.0,750.0,running,0.0,118.0
+1985,3,Hickory,16.0,7.0,75.0,Brad Teague,Food Country USA (Charlie Henderson),Pontiac,186.0,270.0,running,0.0,115.0
+1985,3,Hickory,17.0,24.0,36.0,Joe Kelly,Loven Racing (Joe Kelly),Pontiac,166.0,275.0,running,0.0,0.0
+1985,3,Hickory,18.0,12.0,2.0,Jeff Hensley,Flute's Sheetmetal,Pontiac,163.0,480.0,running,0.0,109.0
+1985,3,Hickory,19.0,17.0,82.0,Ralph Morris,Reco Trucking,Chevrolet,154.0,325.0,oil leak,0.0,106.0
+1985,3,Hickory,20.0,18.0,1.0,Dickie Boswell,Bob Banning,Pontiac,135.0,570.0,engine,0.0,103.0
+1985,3,Hickory,21.0,19.0,51.0,Robert Ingram,Hall Pontiac,Pontiac,126.0,540.0,steering,0.0,100.0
+1985,3,Hickory,22.0,3.0,1.0,Morgan Shepherd,Advance Auto Parts (Lindy White),Pontiac,100.0,460.0,rear end,10.0,97.0
+1985,3,Hickory,23.0,1.0,12.0,Tommy Ellis,Freedlander,Pontiac,87.0,1505.0,transmission,0.0,94.0
+1985,3,Hickory,24.0,22.0,43.0,Dickie Linville,Linville Racing (Dickie Linville),Pontiac,59.0,500.0,overheating,0.0,91.0
+1985,4,Bristol,1.0,16.0,17.0,Darrell Waltrip,Budweiser / Colonial Bread (Darrell Waltrip),Chevrolet,200.0,6850.0,running,55.0,180.0
+1985,4,Bristol,2.0,23.0,22.0,Rick Mast,"A.G. Dillard (Alan Dillard, Jr.)",Pontiac,200.0,3475.0,running,0.0,170.0
+1985,4,Bristol,3.0,26.0,14.0,Ronnie Silver,Coors Light (Ronnie Silver),Pontiac,199.0,2500.0,running,6.0,165.0
+1985,4,Bristol,4.0,12.0,6.0,Tommy Houston,Southern Biscuit Flour (Mike Day),Chevrolet,199.0,2900.0,running,2.0,160.0
+1985,4,Bristol,5.0,19.0,21.0,Larry Pearson,Chattanooga Chew (David Pearson),Pontiac,199.0,2750.0,running,0.0,155.0
+1985,4,Bristol,6.0,21.0,27.0,Bosco Lowe,Ryder's Floor Store (Edgar Ryder),Pontiac,199.0,1500.0,running,0.0,150.0
+1985,4,Bristol,7.0,24.0,53.0,Ronnie Thomas,Green Hill Sausage,Pontiac,196.0,1100.0,running,0.0,146.0
+1985,4,Bristol,8.0,29.0,16.0,Jimmy Lawson,Big Orange Market,Pontiac,195.0,1265.0,running,0.0,142.0
+1985,4,Bristol,9.0,27.0,2.0,Jeff Hensley,Flute's Sheetmetal,Oldsmobile,189.0,1150.0,running,0.0,138.0
+1985,4,Bristol,10.0,13.0,4.0,Eddie Falk,Charlie Falk Buick (Eddie Falk),Pontiac,187.0,1125.0,running,0.0,134.0
+1985,4,Bristol,11.0,8.0,0.0,Jimmy Hensley,Thomas Brothers Country Hams (Howard Thomas),Oldsmobile,181.0,1750.0,running,0.0,130.0
+1985,4,Bristol,12.0,7.0,15.0,Brett Bodine,Rod Shop (Rick Hendrick),Pontiac,171.0,700.0,running,0.0,0.0
+1985,4,Bristol,13.0,30.0,60.0,Ed Berrier,Horton Distirbuting (Max Berrier),Oldsmobile,156.0,950.0,running,0.0,124.0
+1985,4,Bristol,14.0,31.0,43.0,Dickie Linville,Wayne Dennis Heating (Johnny Davis),Pontiac,144.0,900.0,running,0.0,121.0
+1985,4,Bristol,15.0,1.0,12.0,Tommy Ellis,Freedlander,Pontiac,143.0,1850.0,crash,30.0,118.0
+1985,4,Bristol,16.0,2.0,5.0,Geoffrey Bodine,Levi Garrett (Rick Hendrick),Pontiac,134.0,825.0,crash,70.0,115.0
+1985,4,Bristol,17.0,10.0,11.0,Jack Ingram,Pantry / Skoal Bandit (Jack Ingram),Pontiac,132.0,1800.0,crash,37.0,112.0
+1985,4,Bristol,18.0,28.0,51.0,Robert Ingram,Hall Pontiac,Pontiac,128.0,775.0,crash,0.0,109.0
+1985,4,Bristol,19.0,14.0,10.0,L.D. Ottinger,Gwyn Distributing (C.B. Gwyn),Pontiac,126.0,750.0,running,0.0,106.0
+1985,4,Bristol,20.0,11.0,7.0,Joe Ruttman,Folger's Coffee (Ed Whitaker),Oldsmobile,95.0,425.0,engine,0.0,103.0
+1985,4,Bristol,21.0,17.0,98.0,Larry Pollard,Anderson & Webb Trucking (Anderson / Webb),Chevrolet,90.0,415.0,engine,0.0,100.0
+1985,4,Bristol,22.0,22.0,24.0,Glenn Jarrett,Widenhouse-Lytle (Marvin Thackston),Ford,71.0,705.0,engine,0.0,97.0
+1985,4,Bristol,23.0,5.0,36.0,Joe Kelly,"Loven, Inc. (Joe Kelly)",Pontiac,65.0,395.0,engine,0.0,94.0
+1985,4,Bristol,24.0,4.0,8.0,Butch Miller,MSW / Fredrickson (Leroy Throop),Pontiac,64.0,375.0,engine,0.0,0.0
+1985,4,Bristol,25.0,6.0,28.0,Phil Parsons,Enterprise Chevy / Skoal (Johnny Hayes),Pontiac,62.0,365.0,engine,0.0,0.0
+1985,4,Bristol,26.0,3.0,1.0,Morgan Shepherd,Advance Auto Parts (Lindy White),Buick,41.0,655.0,engine,0.0,85.0
+1985,4,Bristol,27.0,18.0,75.0,Brad Teague,Food Country USA (Charlie Henderson),Pontiac,40.0,345.0,engine,0.0,82.0
+1985,4,Bristol,28.0,9.0,32.0,Dale Jarrett,Busch (Horace Isenhower),Oldsmobile,37.0,635.0,engine,0.0,79.0
+1985,4,Bristol,29.0,15.0,7.0,Kenny Burks,Jones Texaco,Pontiac,33.0,325.0,engine,0.0,76.0
+1985,4,Bristol,30.0,25.0,4.0,Joe Thurman,Thurman Enterprises (Joe Thurman),Pontiac,32.0,615.0,engine,0.0,73.0
+1985,4,Bristol,31.0,20.0,45.0,Charlie Luck,Luck Stone / Dryden Oil (Charlie Luck),Pontiac,16.0,615.0,engine,0.0,70.0
+1985,5,Martinsville,1.0,2.0,5.0,Brett Bodine,Levi Garrett (Rick Hendrick),Pontiac,200.0,9150.0,running,58.0,180.0
+1985,5,Martinsville,2.0,11.0,22.0,Rick Mast,"Mike's Wrecker Service (Alan Dillard, Jr.)",Pontiac,200.0,3850.0,running,0.0,170.0
+1985,5,Martinsville,3.0,3.0,12.0,Tommy Ellis,Freedlander,Pontiac,200.0,3605.0,running,0.0,165.0
+1985,5,Martinsville,4.0,4.0,6.0,Tommy Houston,Southern Biscuit Flour (Mike Day),Chevrolet,200.0,3760.0,running,81.0,160.0
+1985,5,Martinsville,5.0,31.0,1.0,Morgan Shepherd,Advance Auto Parts (Lindy White),Pontiac,200.0,1700.0,running,0.0,155.0
+1985,5,Martinsville,6.0,15.0,11.0,Jack Ingram,Pantry / Skoal Bandit (Jack Ingram),Pontiac,200.0,2530.0,running,0.0,150.0
+1985,5,Martinsville,7.0,12.0,21.0,Larry Pearson,Chattanooga Chew (David Pearson),Pontiac,200.0,2420.0,running,0.0,146.0
+1985,5,Martinsville,8.0,7.0,42.0,Elton Sawyer,Rheem Heat & Air (Bill Lewis),Pontiac,200.0,1070.0,running,0.0,0.0
+1985,5,Martinsville,9.0,21.0,14.0,Ronnie Silver,Coors Light (Ronnie Silver),Pontiac,200.0,1420.0,running,0.0,138.0
+1985,5,Martinsville,10.0,16.0,16.0,Jimmy Lawson,Big Orange Market,Pontiac,199.0,1320.0,running,0.0,134.0
+1985,5,Martinsville,11.0,14.0,17.0,Kenny Burks,Jones Texaco,Pontiac,198.0,1000.0,running,0.0,0.0
+1985,5,Martinsville,12.0,23.0,43.0,Dickie Linville,Dennis Heating (Johnny Davis),Pontiac,195.0,1330.0,running,0.0,127.0
+1985,5,Martinsville,13.0,19.0,62.0,John Linville,Westmoreland Racing (John Linville),Pontiac,193.0,1260.0,engine,0.0,124.0
+1985,5,Martinsville,14.0,20.0,8.0,Orvil Reedy,Johnson's Foods (Orvil Reedy),Pontiac,193.0,940.0,running,0.0,121.0
+1985,5,Martinsville,15.0,6.0,10.0,L.D. Ottinger,Gwyn Distributing (C.B. Gwyn),Pontiac,193.0,1220.0,running,0.0,118.0
+1985,5,Martinsville,16.0,5.0,32.0,Dale Jarrett,Busch (Horace Isenhower),Oldsmobile,190.0,1300.0,running,0.0,115.0
+1985,5,Martinsville,17.0,27.0,60.0,Ed Berrier,Horton Distributing (Max Berrier),Oldsmobile,185.0,1210.0,running,0.0,112.0
+1985,5,Martinsville,18.0,13.0,4.0,Eddie Falk,CHC (Eddie Falk),Pontiac,160.0,1160.0,crash,0.0,109.0
+1985,5,Martinsville,19.0,29.0,53.0,Glenn Jarrett,Green Hill Sausage,Pontiac,160.0,1165.0,running,0.0,106.0
+1985,5,Martinsville,20.0,1.0,0.0,Jimmy Hensley,Thomas Brothers Country Hams (Howard Thomas),Oldsmobile,159.0,2320.0,running,61.0,103.0
+1985,5,Martinsville,21.0,9.0,45.0,Charlie Luck,Luck Stone / Dryden Oil (Charlie Luck),Pontiac,154.0,1100.0,running,0.0,100.0
+1985,5,Martinsville,22.0,8.0,2.0,Jeff Hensley,Flute's Sheetmetal,Pontiac,147.0,1080.0,running,0.0,97.0
+1985,5,Martinsville,23.0,18.0,75.0,Brad Teague,Food Country USA (Charlie Henderson),Pontiac,126.0,760.0,engine,0.0,94.0
+1985,5,Martinsville,24.0,25.0,36.0,Joe Kelly,"Loven, Inc. (Joe Kelly)",Pontiac,115.0,780.0,crash,0.0,0.0
+1985,5,Martinsville,25.0,17.0,27.0,Bosco Lowe,Ryder's Floor Store (Edgar Ryder),Pontiac,106.0,1020.0,engine,0.0,88.0
+1985,5,Martinsville,26.0,28.0,4.0,Joe Thurman,Thurman Enterprises (Joe Thurman),Pontiac,82.0,1025.0,crash,0.0,85.0
+1985,5,Martinsville,27.0,22.0,1.0,Dickie Boswell,Bob Banning,Pontiac,69.0,1055.0,engine,0.0,82.0
+1985,5,Martinsville,28.0,10.0,41.0,Jack Bland,Henderson Drywall,Pontiac,53.0,660.0,engine,0.0,79.0
+1985,5,Martinsville,29.0,30.0,73.0,Billy Hogan,Matten Computers,Chevrolet,52.0,965.0,oil pressure,0.0,76.0
+1985,5,Martinsville,30.0,26.0,81.0,Bobby Labonte,Archdale Oil (Bob Labonte),Chevrolet,29.0,650.0,engine,0.0,73.0
+1985,5,Martinsville,31.0,24.0,51.0,Robert Ingram,Hall Pontiac,Pontiac,13.0,960.0,engine,0.0,70.0
+1985,6,Darlington,1.0,11.0,11.0,Jack Ingram,Pantry / Skoal Bandit (Jack Ingram),Oldsmobile,147.0,13020.0,running,4.0,180.0
+1985,6,Darlington,2.0,7.0,75.0,Brad Teague,Food Country USA (Charlie Henderson),Pontiac,147.0,5945.0,running,41.0,170.0
+1985,6,Darlington,3.0,9.0,10.0,L.D. Ottinger,Gwyn Distributing (C.B. Gwyn),Pontiac,147.0,4695.0,running,0.0,165.0
+1985,6,Darlington,4.0,13.0,6.0,Tommy Houston,Southern Biscuit Flour (Mike Day),Oldsmobile,147.0,5070.0,running,6.0,160.0
+1985,6,Darlington,5.0,3.0,0.0,Jimmy Hensley,Thomas Brothers Country Hams (Howard Thomas),Oldsmobile,147.0,3920.0,running,0.0,155.0
+1985,6,Darlington,6.0,12.0,32.0,Dale Jarrett,Busch (Horace Isenhower),Oldsmobile,147.0,2545.0,running,0.0,150.0
+1985,6,Darlington,7.0,18.0,23.0,Davey Allison,Miller High Life (Bobby Allison),Pontiac,147.0,1445.0,running,0.0,146.0
+1985,6,Darlington,8.0,24.0,44.0,Rick Mast,"A.G. Dillard (Alan Dillard, Jr.)",Pontiac,146.0,1895.0,running,3.0,142.0
+1985,6,Darlington,9.0,16.0,14.0,Ronnie Silver,Coors Light (Ronnie Silver),Oldsmobile,146.0,1645.0,running,0.0,138.0
+1985,6,Darlington,10.0,21.0,34.0,Joe Kelly,"Loven, Inc. (Joe Kelly)",Pontiac,146.0,970.0,running,0.0,134.0
+1985,6,Darlington,11.0,6.0,17.0,Darrell Waltrip,Budweiser (Darrell Waltrip),Chevrolet,146.0,890.0,running,45.0,0.0
+1985,6,Darlington,12.0,8.0,4.0,Joe Thurman,Davis Racing (Johnny Davis),Pontiac,145.0,1470.0,running,0.0,127.0
+1985,6,Darlington,13.0,27.0,98.0,Larry Pollard,Anderson & Webb Trucking (Anderson / Webb),Chevrolet,144.0,845.0,running,0.0,124.0
+1985,6,Darlington,14.0,20.0,84.0,Tommy Riggins,Raleing Racing,Buick,143.0,820.0,running,0.0,121.0
+1985,6,Darlington,15.0,22.0,58.0,Merv Treichler,J & J Racing (John Jackson),Oldsmobile,142.0,785.0,running,0.0,118.0
+1985,6,Darlington,16.0,36.0,55.0,Rodney Foushee,Foushee Racing (Rodney Foushee),Oldsmobile,139.0,760.0,running,0.0,115.0
+1985,6,Darlington,17.0,29.0,39.0,Mitchell Clark,Beauregard Racing / CHC,Pontiac,139.0,710.0,running,0.0,112.0
+1985,6,Darlington,18.0,32.0,4.0,Eddie Falk,CHC (Eddie Falk),Pontiac,138.0,1275.0,running,0.0,109.0
+1985,6,Darlington,19.0,37.0,15.0,Dickie Boswell,Bob Banning,Pontiac,136.0,1050.0,running,0.0,106.0
+1985,6,Darlington,20.0,23.0,21.0,Larry Pearson,Chattanooga Chew (David Pearson),Pontiac,123.0,2675.0,crash,0.0,103.0
+1985,6,Darlington,21.0,14.0,45.0,Charlie Luck,Luck Stone / Dryden Oil (Charlie Luck),Oldsmobile,123.0,1065.0,crash,0.0,100.0
+1985,6,Darlington,22.0,5.0,12.0,Tommy Ellis,Freedlander,Oldsmobile,123.0,2525.0,crash,0.0,97.0
+1985,6,Darlington,23.0,31.0,78.0,Bosco Lowe,Robert's Used Cars (Johnny Talley),Oldsmobile,107.0,995.0,engine,0.0,94.0
+1985,6,Darlington,24.0,17.0,2.0,Jeff Hensley,Flute's Sheetmetal,Oldsmobile,99.0,890.0,crash,0.0,91.0
+1985,6,Darlington,25.0,10.0,47.0,Ron Bouchard,Valvoline (Jack Beebe),Buick,85.0,485.0,rear end,16.0,88.0
+1985,6,Darlington,26.0,28.0,29.0,John Linville,Longwood Restaurant (Chubby Arrington),Dodge,85.0,880.0,engine,0.0,85.0
+1985,6,Darlington,27.0,33.0,73.0,Billy Hogan,Matten Computers,Chevrolet,85.0,870.0,engine,0.0,82.0
+1985,6,Darlington,28.0,35.0,82.0,Larry Walker,Walker Racing (Larry Walker),Pontiac,79.0,465.0,engine,0.0,79.0
+1985,6,Darlington,29.0,1.0,8.0,Dale Earnhardt,"Wrangler Jeans (Dale Earnhardt, Inc.)",Pontiac,72.0,460.0,engine,15.0,76.0
+1985,6,Darlington,30.0,15.0,22.0,Bobby Allison,"Miller High Life (Alan Dillard, Jr.)",Buick,65.0,455.0,engine,0.0,73.0
+1985,6,Darlington,31.0,26.0,6.0,Morgan Shepherd,AAA Radiators,Pontiac,64.0,850.0,engine,0.0,70.0
+1985,6,Darlington,32.0,4.0,5.0,Geoffrey Bodine,Levi Garrett (Rick Hendrick),Pontiac,54.0,845.0,crash,0.0,67.0
+1985,6,Darlington,33.0,34.0,43.0,Dickie Linville,Davis Racing (Johnny Davis),Pontiac,48.0,830.0,engine,0.0,64.0
+1985,6,Darlington,34.0,2.0,7.0,Joe Ruttman,Folger's Coffee (Ed Whitaker),Oldsmobile,26.0,425.0,engine,17.0,61.0
+1985,6,Darlington,35.0,19.0,60.0,Ed Berrier,Horton Distributing (Max Berrier),Pontiac,12.0,820.0,engine,0.0,58.0
+1985,6,Darlington,36.0,25.0,24.0,Glenn Jarrett,Komfort Koach (Marvin Thackston),Ford,9.0,820.0,engine,0.0,55.0
+1985,6,Darlington,37.0,30.0,2.0,Kirk Bryant,Motorsports Designs,Pontiac,2.0,420.0,engine,0.0,52.0
+1985,7,South Boston,1.0,3.0,0.0,Jimmy Hensley,Thomas Brothers Country Hams (Howard Thomas),Oldsmobile,200.0,4950.0,running,57.0,180.0
+1985,7,South Boston,2.0,13.0,11.0,Jack Ingram,Pantry / Skoal Bandit (Jack Ingram),Pontiac,200.0,2400.0,running,0.0,170.0
+1985,7,South Boston,3.0,1.0,6.0,Tommy Houston,Southern Biscuit Flour (Mike Day),Chevrolet,200.0,2000.0,running,143.0,165.0
+1985,7,South Boston,4.0,5.0,5.0,Brett Bodine,Levi Garrett (Rick Hendrick),Pontiac,200.0,850.0,running,0.0,160.0
+1985,7,South Boston,5.0,11.0,27.0,Bosco Lowe,Ryder's Floor Store (Edgar Ryder),Pontiac,199.0,1000.0,running,0.0,155.0
+1985,7,South Boston,6.0,9.0,10.0,L.D. Ottinger,Gwyn Distributing (C.B. Gwyn),Pontiac,198.0,950.0,running,0.0,150.0
+1985,7,South Boston,7.0,2.0,32.0,Dale Jarrett,Busch / T & S (Horace Isenhower),Oldsmobile,198.0,900.0,running,0.0,146.0
+1985,7,South Boston,8.0,20.0,16.0,Jimmy Lawson,Lawson-Fitzgerald Garage,Pontiac,197.0,850.0,running,0.0,142.0
+1985,7,South Boston,9.0,25.0,62.0,John Linville,Westmoreland Racing (John Linville),Pontiac,196.0,800.0,running,0.0,138.0
+1985,7,South Boston,10.0,22.0,36.0,Joe Kelly,"Loven, Inc. (Joe Kelly)",Pontiac,196.0,500.0,running,0.0,134.0
+1985,7,South Boston,11.0,21.0,98.0,Larry Pollard,Anderson & Webb Trucking (Anderson / Webb),Chevrolet,195.0,700.0,running,0.0,130.0
+1985,7,South Boston,12.0,19.0,2.0,Jeff Hensley,Flute's Sheetmetal,Pontiac,195.0,650.0,running,0.0,127.0
+1985,7,South Boston,13.0,6.0,4.0,Eddie Falk,CHC (Eddie Falk),Pontiac,195.0,600.0,running,0.0,124.0
+1985,7,South Boston,14.0,10.0,75.0,Brad Teague,Food Country USA (Charlie Henderson),Pontiac,191.0,575.0,running,0.0,121.0
+1985,7,South Boston,15.0,15.0,22.0,Rick Mast,"A.G. Dillard (Alan Dillard, Jr.)",Pontiac,177.0,550.0,rear end,0.0,118.0
+1985,7,South Boston,16.0,16.0,99.0,Bubba Nissen,Nelson Building Supply,Pontiac,117.0,270.0,sway bar,0.0,115.0
+1985,7,South Boston,17.0,14.0,14.0,Ronnie Silver,Coors Light (Ronnie Silver),Pontiac,94.0,500.0,engine,0.0,112.0
+1985,7,South Boston,18.0,7.0,4.0,Joe Thurman,Holland Heat & Air (Johnny Davis),Pontiac,80.0,780.0,sway bar,0.0,109.0
+1985,7,South Boston,19.0,17.0,21.0,Larry Pearson,Chattanooga Chew (David Pearson),Pontiac,71.0,1225.0,engine,0.0,106.0
+1985,7,South Boston,20.0,8.0,1.0,Dickie Boswell,Bob Banning,Pontiac,55.0,220.0,overheating,0.0,103.0
+1985,7,South Boston,21.0,26.0,2.0,Robert Ingram,Motorsports Designs,Pontiac,51.0,465.0,transmission,0.0,100.0
+1985,7,South Boston,22.0,12.0,45.0,Charlie Luck,Luck Stone / Dryden Oil (Charlie Luck),Pontiac,48.0,460.0,crash,0.0,97.0
+1985,7,South Boston,23.0,18.0,41.0,Jack Bland,Henderson Drywall,Pontiac,44.0,205.0,engine,0.0,94.0
+1985,7,South Boston,24.0,23.0,43.0,Dickie Linville,Davis Racing (Johnny Davis),Pontiac,34.0,450.0,overheating,0.0,91.0
+1985,7,South Boston,25.0,4.0,12.0,Tommy Ellis,Freedlander,Pontiac,33.0,1200.0,overheating,0.0,88.0
+1985,7,South Boston,26.0,24.0,53.0,Ronnie Thomas,Green Hill Sausage,Pontiac,5.0,200.0,engine,0.0,85.0
+1985,8,Hampton,1.0,1.0,12.0,Tommy Ellis,Freedlander,Pontiac,200.0,5350.0,running,200.0,180.0
+1985,8,Hampton,2.0,2.0,30.0,Bubba Adams,RC Cola,Pontiac,200.0,1400.0,running,0.0,0.0
+1985,8,Hampton,3.0,13.0,11.0,Jack Ingram,Pantry / Skoal Bandit (Jack Ingram),Pontiac,199.0,2000.0,running,0.0,165.0
+1985,8,Hampton,4.0,5.0,42.0,Elton Sawyer,Rheem Heat & Air (Bill Lewis),Pontiac,199.0,850.0,running,0.0,160.0
+1985,8,Hampton,5.0,12.0,21.0,Larry Pearson,Chattanooga Chew (David Pearson),Pontiac,199.0,1750.0,running,0.0,155.0
+1985,8,Hampton,6.0,11.0,75.0,Brad Teague,Food Country USA (Charlie Henderson),Pontiac,199.0,950.0,running,0.0,150.0
+1985,8,Hampton,7.0,10.0,51.0,Robert Ingram,Hall Pontiac,Pontiac,199.0,900.0,running,0.0,146.0
+1985,8,Hampton,8.0,15.0,98.0,Larry Pollard,A & W Trucking (Anderson / Webb),Chevrolet,198.0,850.0,running,0.0,142.0
+1985,8,Hampton,9.0,4.0,0.0,Jimmy Hensley,Thomas Brothers Country Hams (Howard Thomas),Oldsmobile,198.0,1550.0,running,0.0,138.0
+1985,8,Hampton,10.0,3.0,6.0,Tommy Houston,Southern Biscuit Flour (Mike Day),Chevrolet,197.0,1500.0,running,0.0,134.0
+1985,8,Hampton,11.0,17.0,22.0,Rick Mast,"A.G. Dillard (Alan Dillard, Jr.)",Pontiac,197.0,700.0,running,0.0,130.0
+1985,8,Hampton,12.0,9.0,36.0,Joe Kelly,"Loven, Inc. (Joe Kelly)",Pontiac,197.0,650.0,running,0.0,127.0
+1985,8,Hampton,13.0,6.0,10.0,L.D. Ottinger,Gwyn Distributing (C.B. Gwyn),Pontiac,197.0,600.0,running,0.0,124.0
+1985,8,Hampton,14.0,7.0,32.0,Dale Jarrett,Busch (Horace Isenhower),Oldsmobile,196.0,575.0,running,0.0,121.0
+1985,8,Hampton,15.0,14.0,99.0,Bubba Nissen,Nelson Building Supply,Pontiac,196.0,300.0,running,0.0,118.0
+1985,8,Hampton,16.0,8.0,9.0,Bob Shreeves,S & S Racing (Bob Shreeves),Pontiac,195.0,270.0,running,0.0,115.0
+1985,8,Hampton,17.0,21.0,43.0,Dickie Linville,Linville Racing (Dickie Linville),Pontiac,193.0,500.0,running,0.0,112.0
+1985,8,Hampton,18.0,20.0,4.0,Eddie Falk,M & M Racing (Eddie Falk),Pontiac,177.0,480.0,crash,0.0,109.0
+1985,8,Hampton,19.0,18.0,62.0,John Linville,Linville Racing (John Linville),Pontiac,170.0,475.0,crash,0.0,106.0
+1985,8,Hampton,20.0,22.0,2.0,Jeff Hensley,Flow Dynamics,Pontiac,88.0,470.0,crash,0.0,103.0
+1985,8,Hampton,21.0,19.0,16.0,Jimmy Lawson,Lawson-Fitzgerald Garage,Pontiac,53.0,465.0,crash,0.0,100.0
+1985,8,Hampton,22.0,16.0,1.0,Dickie Boswell,Bob Banning,Pontiac,37.0,210.0,engine,0.0,97.0
+1985,8,Hampton,23.0,25.0,4.0,Joe Thurman,Thurman Enterprises (Joe Thurman),Pontiac,22.0,455.0,engine,0.0,94.0
+1985,8,Hampton,24.0,23.0,14.0,Ronnie Silver,Coors Light (Ronnie Silver),Pontiac,0.0,450.0,crash,0.0,91.0
+1985,8,Hampton,25.0,24.0,60.0,Ed Berrier,Horton Distributing (Max Berrier),Oldsmobile,0.0,450.0,crash,0.0,88.0
+1985,9,Dover,1.0,8.0,17.0,Darrell Waltrip,Budweiser / Colonial Bread (Darrell Waltrip),Chevrolet,200.0,7500.0,running,167.0,180.0
+1985,9,Dover,2.0,3.0,12.0,Tommy Ellis,Freedlander,Oldsmobile,199.0,6400.0,running,4.0,170.0
+1985,9,Dover,3.0,1.0,11.0,Jack Ingram,Pantry / Skoal Bandit (Jack Ingram),Oldsmobile,199.0,5075.0,running,4.0,165.0
+1985,9,Dover,4.0,7.0,44.0,Rick Mast,"A.G. Dillard (Alan Dillard, Jr.)",Pontiac,198.0,2600.0,running,0.0,160.0
+1985,9,Dover,5.0,4.0,6.0,Tommy Houston,Southern Biscuit Flour (Mike Day),Buick,198.0,3700.0,running,0.0,155.0
+1985,9,Dover,6.0,19.0,10.0,L.D. Ottinger,Gwyn Distributing (C.B. Gwyn),Pontiac,198.0,1950.0,running,11.0,150.0
+1985,9,Dover,7.0,13.0,7.0,Joe Ruttman,Folger's Coffee (Ed Whitaker),Oldsmobile,198.0,1300.0,running,0.0,146.0
+1985,9,Dover,8.0,9.0,98.0,Larry Pollard,A & W Trucking (Anderson / Webb),Chevrolet,195.0,1600.0,running,12.0,142.0
+1985,9,Dover,9.0,12.0,4.0,Eddie Falk,Falk Auto (Eddie Falk),Pontiac,195.0,1500.0,running,0.0,138.0
+1985,9,Dover,10.0,26.0,20.0,Brett Hearn,Purnell & Jarvis,Pontiac,194.0,1000.0,running,0.0,134.0
+1985,9,Dover,11.0,21.0,14.0,Ronnie Silver,Coors Light (Ronnie Silver),Oldsmobile,193.0,1300.0,running,0.0,130.0
+1985,9,Dover,12.0,20.0,36.0,Joe Kelly,"Loven, Inc. (Joe Kelly)",Pontiac,191.0,875.0,running,0.0,127.0
+1985,9,Dover,13.0,6.0,32.0,Dale Jarrett,Busch / T & S (Horace Isenhower),Oldsmobile,185.0,1250.0,running,0.0,124.0
+1985,9,Dover,14.0,18.0,65.0,Ken Bouchard,Universal Auto Salvage (M.J. Sullivan),Oldsmobile,184.0,825.0,running,0.0,121.0
+1985,9,Dover,15.0,29.0,55.0,Larry Pearson,Foushee Racing (Rodney Foushee),Oldsmobile,181.0,2700.0,running,0.0,118.0
+1985,9,Dover,16.0,16.0,60.0,Ed Berrier,Horton Distributing (Max Berrier),Oldsmobile,179.0,1175.0,studs,0.0,115.0
+1985,9,Dover,17.0,23.0,24.0,Rodney Howard,Thackston's Garage (Marvin Thackston),Ford,110.0,750.0,engine,0.0,112.0
+1985,9,Dover,18.0,22.0,43.0,Dickie Linville,Davis Racing (Johnny Davis),Pontiac,90.0,1125.0,engine,0.0,109.0
+1985,9,Dover,19.0,2.0,0.0,Jimmy Hensley,Thomas Brothers Country Hams (Howard Thomas),Oldsmobile,84.0,2600.0,oil pump,0.0,106.0
+1985,9,Dover,20.0,17.0,1.0,Dickie Boswell,Bob Banning,Pontiac,84.0,1075.0,engine,0.0,103.0
+1985,9,Dover,21.0,24.0,4.0,Joe Thurman,Davis Racing (Johnny Davis),Pontiac,69.0,1050.0,transmission,0.0,100.0
+1985,9,Dover,22.0,15.0,23.0,Davey Allison,Miller American (Bobby Allison),Pontiac,64.0,625.0,crash,0.0,97.0
+1985,9,Dover,23.0,10.0,63.0,Jeff Hensley,Flute's Sheetmetal (Hubert Hensley),Oldsmobile,62.0,1000.0,crash,0.0,94.0
+1985,9,Dover,24.0,14.0,45.0,Charlie Luck,Luck Stone / Dryden Oil (Charlie Luck),Pontiac,62.0,975.0,crash,0.0,91.0
+1985,9,Dover,25.0,5.0,75.0,Brad Teague,Food Country USA (Charlie Henderson),Pontiac,50.0,950.0,crash,2.0,88.0
+1985,9,Dover,26.0,11.0,22.0,Bobby Allison,"A.G. Dillard (Alan Dillard, Jr.)",Buick,48.0,525.0,engine,0.0,85.0
+1985,9,Dover,27.0,25.0,58.0,Merv Treichler,J & J Racing (John Jackson),Oldsmobile,35.0,500.0,vibration,0.0,82.0
+1985,9,Dover,28.0,30.0,31.0,John Linville,Baugess Racing,Oldsmobile,23.0,475.0,oil pump,0.0,79.0
+1985,9,Dover,29.0,27.0,5.0,Gene Clark,Clark Racing,Pontiac,13.0,460.0,crash,0.0,76.0
+1985,9,Dover,30.0,28.0,91.0,Danny Weese,JeNet's Hair Boutique,Oldsmobile,7.0,450.0,oil pump,0.0,73.0
+1985,10,Charlotte,1.0,1.0,15.0,Tim Richmond,Levi Garrett (Rick Hendrick),Pontiac,200.0,21250.0,running,151.0,180.0
+1985,10,Charlotte,2.0,6.0,17.0,Neil Bonnett,Budweiser / Colonial Bread (Darrell Waltrip),Chevrolet,200.0,10050.0,running,0.0,170.0
+1985,10,Charlotte,3.0,2.0,10.0,L.D. Ottinger,All-Pro Auto Parts (C.B. Gwyn),Pontiac,200.0,11700.0,running,19.0,165.0
+1985,10,Charlotte,4.0,3.0,5.0,Brett Bodine,Levi Garrett (Rick Hendrick),Pontiac,200.0,8950.0,running,0.0,160.0
+1985,10,Charlotte,5.0,4.0,0.0,Jimmy Hensley,Thomas Brothers Country Hams (Howard Thomas),Oldsmobile,200.0,9200.0,running,0.0,155.0
+1985,10,Charlotte,6.0,7.0,44.0,Rick Mast,"A.G. Dillard (Alan Dillard, Jr.)",Pontiac,200.0,6550.0,running,0.0,150.0
+1985,10,Charlotte,7.0,15.0,21.0,Larry Pearson,Chattanooga Chew (David Pearson),Chevrolet,200.0,7300.0,running,0.0,146.0
+1985,10,Charlotte,8.0,14.0,22.0,Bobby Allison,"Miller American (Alan Dillard, Jr.)",Buick,200.0,3700.0,running,0.0,142.0
+1985,10,Charlotte,9.0,16.0,12.0,Tommy Ellis,Freedlander,Oldsmobile,199.0,6150.0,running,0.0,138.0
+1985,10,Charlotte,10.0,25.0,65.0,Ken Bouchard,Universal Auto Salvage (M.J. Sullivan),Oldsmobile,199.0,3550.0,running,1.0,134.0
+1985,10,Charlotte,11.0,11.0,3.0,Mike McLaughlin,B.R.E. (Len Boehler),Pontiac,199.0,3000.0,running,1.0,130.0
+1985,10,Charlotte,12.0,20.0,98.0,Larry Pollard,A & W Trucking (Anderson / Webb),Chevrolet,199.0,2900.0,running,0.0,127.0
+1985,10,Charlotte,13.0,8.0,32.0,Dale Jarrett,Busch / T & S (Horace Isenhower),Oldsmobile,198.0,2600.0,running,0.0,124.0
+1985,10,Charlotte,14.0,21.0,11.0,Jack Ingram,Pantry / Skoal Bandit (Jack Ingram),Oldsmobile,198.0,3400.0,running,0.0,121.0
+1985,10,Charlotte,15.0,17.0,14.0,Ronnie Silver,Coors Light (Ronnie Silver),Oldsmobile,197.0,1750.0,running,0.0,118.0
+1985,10,Charlotte,16.0,26.0,4.0,Eddie Falk,Falk Auto (Eddie Falk),Pontiac,192.0,1600.0,running,0.0,115.0
+1985,10,Charlotte,17.0,10.0,43.0,Kenny Burks,Jones Texaco,Pontiac,191.0,1100.0,running,0.0,112.0
+1985,10,Charlotte,18.0,33.0,62.0,John Linville,Linville Racing (John Linville),Pontiac,190.0,1450.0,running,0.0,109.0
+1985,10,Charlotte,19.0,32.0,24.0,Rodney Howard,Thackston's Garage (Marvin Thackston),Ford,189.0,1000.0,running,0.0,106.0
+1985,10,Charlotte,20.0,40.0,63.0,Jeff Hensley,Flute's Sheetmetal (Hubert Hensley),Oldsmobile,185.0,1370.0,running,0.0,103.0
+1985,10,Charlotte,21.0,39.0,39.0,Dickie Linville,Beauregard's Deli,Pontiac,175.0,940.0,running,0.0,100.0
+1985,10,Charlotte,22.0,42.0,54.0,Dickie Boswell,Enterprise,Chevrolet,139.0,1310.0,running,0.0,97.0
+1985,10,Charlotte,23.0,13.0,6.0,Tommy Houston,Southern Biscuit Flour (Mike Day),Buick,137.0,2780.0,running,0.0,94.0
+1985,10,Charlotte,24.0,38.0,18.0,Jeff Berry,Kangaroos,Pontiac,130.0,860.0,engine,0.0,91.0
+1985,10,Charlotte,25.0,27.0,89.0,Mike Swaim,Bull Frog Knits,Pontiac,122.0,840.0,engine,0.0,88.0
+1985,10,Charlotte,26.0,37.0,4.0,Joe Thurman,Fowler Brothers Electric (Johnny Davis),Pontiac,118.0,1220.0,running,0.0,85.0
+1985,10,Charlotte,27.0,5.0,7.0,Joe Ruttman,Folger's Coffee (Ed Whitaker),Oldsmobile,108.0,800.0,crash,0.0,82.0
+1985,10,Charlotte,28.0,9.0,75.0,Brad Teague,Food Country USA (Charlie Henderson),Pontiac,95.0,1190.0,engine,28.0,79.0
+1985,10,Charlotte,29.0,12.0,8.0,Jody Ridley,"Wrangler Jeans (Dale Earnhardt, Inc.)",Pontiac,91.0,780.0,valve,0.0,76.0
+1985,10,Charlotte,30.0,30.0,69.0,Rick Wilson,Wilson Racing (Rick Wilson),Oldsmobile,88.0,770.0,distributor,0.0,73.0
+1985,10,Charlotte,31.0,18.0,34.0,Joe Kelly,Kelly Builders (Joe Kelly),Pontiac,72.0,1160.0,crash,0.0,70.0
+1985,10,Charlotte,32.0,19.0,27.0,Sammy Swindell,Sizzler Management (Raymond Beadle),Pontiac,72.0,750.0,crash,0.0,67.0
+1985,10,Charlotte,33.0,28.0,45.0,Charlie Luck,Luck Stone / Dryden Oil (Charlie Luck),Oldsmobile,72.0,1140.0,crash,0.0,64.0
+1985,10,Charlotte,34.0,35.0,84.0,Tommy Riggins,J.R. Enterprises,Buick,56.0,730.0,engine,0.0,61.0
+1985,10,Charlotte,35.0,41.0,60.0,Ed Berrier,Horton Distributing (Max Berrier),Pontiac,53.0,1125.0,water pump,0.0,58.0
+1985,10,Charlotte,36.0,24.0,66.0,Rusty Wallace,Alugard (Rusty Wallace),Oldsmobile,48.0,720.0,engine,0.0,55.0
+1985,10,Charlotte,37.0,34.0,58.0,Merv Treichler,J & J Racing (John Jackson),Oldsmobile,30.0,715.0,steering,0.0,52.0
+1985,10,Charlotte,38.0,29.0,70.0,Bosco Lowe,Castle Chemical (Edgar Ryder),Oldsmobile,16.0,1110.0,crash,0.0,49.0
+1985,10,Charlotte,39.0,31.0,51.0,Robert Ingram,Hall Pontiac,Pontiac,16.0,1105.0,crash,0.0,46.0
+1985,10,Charlotte,40.0,22.0,47.0,Ron Bouchard,Valvoline (Jack Beebe),Buick,7.0,700.0,valve,0.0,43.0
+1985,10,Charlotte,41.0,36.0,78.0,Mike Potter,Atlas Painting / Robert's Used Cars (Johnny Talley),Oldsmobile,4.0,700.0,engine,0.0,40.0
+1985,10,Charlotte,42.0,23.0,1.0,Morgan Shepherd,Advance Auto Parts (Lindy White),Buick,3.0,1100.0,engine,0.0,37.0
+1985,11,South Boston,1.0,3.0,12.0,Tommy Ellis,Freedlander,Pontiac,200.0,5100.0,running,196.0,180.0
+1985,11,South Boston,2.0,1.0,0.0,Jimmy Hensley,Thomas Brothers Country Hams (Howard Thomas),Oldsmobile,200.0,2400.0,running,4.0,170.0
+1985,11,South Boston,3.0,2.0,5.0,Brett Bodine,Levi Garrett (Rick Hendrick),Pontiac,200.0,1000.0,running,0.0,0.0
+1985,11,South Boston,4.0,6.0,11.0,Jack Ingram,Pantry / Skoal Bandit (Jack Ingram),Pontiac,200.0,1850.0,running,0.0,160.0
+1985,11,South Boston,5.0,5.0,22.0,Rick Mast,"A.G. Dillard (Alan Dillard, Jr.)",Pontiac,200.0,1250.0,running,0.0,155.0
+1985,11,South Boston,6.0,4.0,32.0,Dale Jarrett,Busch / T & S (Horace Isenhower),Oldsmobile,200.0,950.0,running,0.0,150.0
+1985,11,South Boston,7.0,8.0,75.0,Brad Teague,Food Country USA (Charlie Henderson),Pontiac,200.0,900.0,running,0.0,146.0
+1985,11,South Boston,8.0,14.0,14.0,Ronnie Silver,Coors Light (Ronnie Silver),Pontiac,200.0,850.0,running,0.0,0.0
+1985,11,South Boston,9.0,11.0,98.0,Larry Pollard,A & W Trucking (Anderson / Webb),Chevrolet,200.0,800.0,running,0.0,138.0
+1985,11,South Boston,10.0,18.0,21.0,Larry Pearson,Chattanooga Chew (David Pearson),Pontiac,199.0,1500.0,running,0.0,134.0
+1985,11,South Boston,11.0,16.0,6.0,Tommy Houston,Southern Biscuit Flour (Mike Day),Oldsmobile,199.0,1450.0,running,0.0,130.0
+1985,11,South Boston,12.0,9.0,16.0,Jimmy Lawson,Lawson-Fitzgerald Garage,Pontiac,198.0,650.0,running,0.0,127.0
+1985,11,South Boston,13.0,20.0,41.0,Jack Bland,Henderson Drywall,Pontiac,195.0,350.0,running,0.0,124.0
+1985,11,South Boston,14.0,22.0,36.0,Joe Kelly,Kelly Builders (Joe Kelly),Pontiac,195.0,575.0,running,0.0,121.0
+1985,11,South Boston,15.0,23.0,10.0,L.D. Ottinger,Gwyn Distributing (C.B. Gwyn),Pontiac,193.0,550.0,running,0.0,118.0
+1985,11,South Boston,16.0,21.0,43.0,Dickie Linville,Virginia-Carolina Paving,Pontiac,159.0,520.0,running,0.0,115.0
+1985,11,South Boston,17.0,12.0,2.0,Jeff Hensley,Flute's Sheetmetal,Pontiac,124.0,500.0,steering,0.0,112.0
+1985,11,South Boston,18.0,10.0,51.0,Robert Ingram,Hall Pontiac,Pontiac,98.0,480.0,engine,0.0,109.0
+1985,11,South Boston,19.0,19.0,9.0,Bob Shreeves,S & S Racing (Bob Shreeves),Pontiac,88.0,225.0,engine,0.0,106.0
+1985,11,South Boston,20.0,7.0,4.0,Joe Thurman,Holland Heat & Air (Johnny Davis),Pontiac,60.0,470.0,rear end,0.0,103.0
+1985,11,South Boston,21.0,13.0,1.0,Dickie Boswell,Bob Banning,Pontiac,58.0,402.0,engine,0.0,100.0
+1985,11,South Boston,22.0,17.0,99.0,Bubba Nissen,Nelson Building Supply,Pontiac,35.0,210.0,crash,0.0,97.0
+1985,11,South Boston,23.0,15.0,4.0,Eddie Falk,Falk Auto (Eddie Falk),Pontiac,30.0,455.0,crash,0.0,94.0
+1985,11,South Boston,24.0,24.0,40.0,Al Hylton,Tom's Mini-Mart,Ford,18.0,200.0,engine,0.0,0.0
+1985,12,Hickory,1.0,10.0,21.0,Larry Pearson,Chattanooga Chew (David Pearson),Pontiac,200.0,4950.0,running,45.0,180.0
+1985,12,Hickory,2.0,2.0,5.0,Brett Bodine,Levi Garrett (Rick Hendrick),Pontiac,200.0,1500.0,running,0.0,170.0
+1985,12,Hickory,3.0,3.0,11.0,Jack Ingram,Pantry / Skoal Bandit (Jack Ingram),Pontiac,200.0,2000.0,running,81.0,165.0
+1985,12,Hickory,4.0,6.0,0.0,Jimmy Hensley,Thomas Brothers Country Hams (Howard Thomas),Oldsmobile,200.0,1850.0,running,0.0,160.0
+1985,12,Hickory,5.0,14.0,10.0,L.D. Ottinger,Gwyn Distributing (C.B. Gwyn),Pontiac,200.0,1000.0,running,0.0,155.0
+1985,12,Hickory,6.0,9.0,14.0,Ronnie Silver,Coors Light (Ronnie Silver),Pontiac,199.0,950.0,running,0.0,150.0
+1985,12,Hickory,7.0,12.0,98.0,Larry Pollard,A & W Trucking (Anderson / Webb),Chevrolet,199.0,900.0,running,0.0,146.0
+1985,12,Hickory,8.0,1.0,6.0,Tommy Houston,Southern Biscuit Flour (Mike Day),Chevrolet,199.0,1900.0,running,74.0,142.0
+1985,12,Hickory,9.0,7.0,88.0,Pete Silva,Silva Racing (Pete Silva),Pontiac,199.0,500.0,running,0.0,138.0
+1985,12,Hickory,10.0,15.0,16.0,Jimmy Lawson,Lawson-Fitzgerald Garage,Pontiac,199.0,750.0,running,0.0,134.0
+1985,12,Hickory,11.0,18.0,41.0,Jack Bland,Henderson Drywall,Pontiac,198.0,450.0,running,0.0,130.0
+1985,12,Hickory,12.0,8.0,22.0,Rick Mast,"A.G. Dillard (Alan Dillard, Jr.)",Pontiac,198.0,650.0,running,0.0,127.0
+1985,12,Hickory,13.0,17.0,4.0,Joe Thurman,Holland Heat & Air (Johnny Davis),Pontiac,198.0,600.0,running,0.0,124.0
+1985,12,Hickory,14.0,5.0,75.0,Brad Teague,Food Country USA (Charlie Henderson),Pontiac,197.0,575.0,running,0.0,121.0
+1985,12,Hickory,15.0,4.0,32.0,Dale Jarrett,Busch / T & S (Horace Isenhower),Oldsmobile,196.0,550.0,running,0.0,118.0
+1985,12,Hickory,16.0,22.0,53.0,Ed Berrier,Green Hill Sausage,Pontiac,196.0,520.0,running,0.0,115.0
+1985,12,Hickory,17.0,20.0,66.0,Bennie Davis,Davis Racing,Pontiac,192.0,250.0,brakes,0.0,112.0
+1985,12,Hickory,18.0,21.0,1.0,Dickie Boswell,Bob Banning,Pontiac,192.0,480.0,running,0.0,109.0
+1985,12,Hickory,19.0,16.0,2.0,Jeff Hensley,Flute's Sheetmetal,Pontiac,190.0,475.0,running,0.0,106.0
+1985,12,Hickory,20.0,19.0,43.0,Dickie Linville,Virginia-Carolina Paving,Pontiac,188.0,470.0,running,0.0,103.0
+1985,12,Hickory,21.0,13.0,27.0,Bosco Lowe,Ryder's Floor Store (Edgar Ryder),Pontiac,177.0,465.0,crash,0.0,100.0
+1985,12,Hickory,22.0,24.0,82.0,Larry Walker,Atkins Lodging (Larry Walker),Pontiac,117.0,210.0,oil leak,0.0,97.0
+1985,12,Hickory,23.0,11.0,4.0,Eddie Falk,Falk Auto (Eddie Falk),Pontiac,19.0,455.0,overheating,0.0,94.0
+1985,12,Hickory,24.0,23.0,42.0,Joe Kelly,Powell Racing (Allan Powell),Ford,14.0,450.0,engine,0.0,91.0
+1985,13,Rougemont,1.0,4.0,21.0,Larry Pearson,Chattanooga Chew (David Pearson),Pontiac,150.0,4700.0,running,75.0,180.0
+1985,13,Rougemont,2.0,1.0,11.0,Jack Ingram,Pantry / Skoal Bandit (Jack Ingram),Pontiac,150.0,2400.0,running,51.0,170.0
+1985,13,Rougemont,3.0,14.0,98.0,Larry Pollard,A & W Trucking (Anderson / Webb),Chevrolet,149.0,1500.0,running,0.0,165.0
+1985,13,Rougemont,4.0,5.0,0.0,Jimmy Hensley,Thomas Brothers Country Hams (Howard Thomas),Oldsmobile,149.0,1850.0,running,0.0,160.0
+1985,13,Rougemont,5.0,17.0,1.0,Dickie Boswell,Bob Banning,Pontiac,149.0,1000.0,running,0.0,155.0
+1985,13,Rougemont,6.0,18.0,41.0,Jack Bland,Henderson Drywall,Pontiac,149.0,700.0,running,0.0,150.0
+1985,13,Rougemont,7.0,7.0,88.0,Pete Silva,Silva Racing (Pete Silva),Pontiac,149.0,650.0,running,0.0,146.0
+1985,13,Rougemont,8.0,13.0,10.0,L.D. Ottinger,Gwyn Distributing (C.B. Gwyn),Pontiac,148.0,850.0,running,0.0,142.0
+1985,13,Rougemont,9.0,2.0,6.0,Tommy Houston,Southern Biscuit Flour (Mike Day),Chevrolet,148.0,1550.0,running,24.0,138.0
+1985,13,Rougemont,10.0,9.0,32.0,Dale Jarrett,Busch / T & S (Horace Isenhower),Oldsmobile,148.0,750.0,running,0.0,134.0
+1985,13,Rougemont,11.0,15.0,36.0,Joe Kelly,Kelly Builders (Joe Kelly),Pontiac,148.0,700.0,running,0.0,130.0
+1985,13,Rougemont,12.0,10.0,22.0,Rick Mast,"A.G. Dillard (Alan Dillard, Jr.)",Pontiac,147.0,650.0,running,0.0,127.0
+1985,13,Rougemont,13.0,6.0,2.0,Jeff Hensley,Flute's Sheetmetal,Pontiac,146.0,600.0,running,0.0,124.0
+1985,13,Rougemont,14.0,21.0,64.0,Daryl Lacks,Lacks Auto Service,Pontiac,146.0,325.0,running,0.0,121.0
+1985,13,Rougemont,15.0,24.0,77.0,Bud Elliott,Elliott Racing,Pontiac,144.0,300.0,running,0.0,0.0
+1985,13,Rougemont,16.0,16.0,4.0,Joe Thurman,Holland Heat & Air (Johnny Davis),Pontiac,144.0,520.0,running,0.0,115.0
+1985,13,Rougemont,17.0,22.0,82.0,Larry Walker,Walker Upholstery (Larry Walker),Pontiac,143.0,250.0,running,0.0,112.0
+1985,13,Rougemont,18.0,19.0,14.0,Ronnie Silver,Coors Light (Ronnie Silver),Pontiac,133.0,470.0,running,0.0,109.0
+1985,13,Rougemont,19.0,23.0,43.0,Dickie Linville,Virginia-Carolina Paving,Pontiac,132.0,475.0,running,0.0,106.0
+1985,13,Rougemont,20.0,8.0,9.0,Bob Shreeves,S & S Racing (Bob Shreeves),Pontiac,60.0,220.0,crash,0.0,103.0
+1985,13,Rougemont,21.0,20.0,51.0,Robert Ingram,Hall Pontiac,Pontiac,58.0,465.0,crash,0.0,100.0
+1985,13,Rougemont,22.0,12.0,75.0,Brad Teague,Food Country USA (Charlie Henderson),Pontiac,58.0,460.0,crash,0.0,97.0
+1985,13,Rougemont,23.0,11.0,16.0,Jimmy Lawson,Lawson-Fitzgerald Garage,Pontiac,57.0,455.0,crash,0.0,94.0
+1985,13,Rougemont,24.0,3.0,4.0,Eddie Falk,Falk Auto (Eddie Falk),Pontiac,47.0,450.0,oil leak,0.0,91.0
+1985,14,IRP,1.0,2.0,0.0,Jimmy Hensley,Thomas Brothers Country Hams (Howard Thomas),Oldsmobile,200.0,9450.0,running,20.0,180.0
+1985,14,IRP,2.0,3.0,6.0,Tommy Houston,Southern Biscuit Flour (Mike Day),Oldsmobile,200.0,6200.0,running,47.0,170.0
+1985,14,IRP,3.0,8.0,21.0,Larry Pearson,Chattanooga Chew (David Pearson),Pontiac,199.0,4725.0,running,25.0,165.0
+1985,14,IRP,4.0,7.0,17.0,Darrell Waltrip,Budweiser / Colonial Bread (Darrell Waltrip),Chevrolet,199.0,2400.0,running,0.0,160.0
+1985,14,IRP,5.0,6.0,32.0,Dale Jarrett,Busch / T & S (Horace Isenhower),Oldsmobile,198.0,2300.0,running,0.0,155.0
+1985,14,IRP,6.0,14.0,22.0,Rick Mast,"A.G. Dillard (Alan Dillard, Jr.)",Pontiac,198.0,1900.0,running,0.0,150.0
+1985,14,IRP,7.0,5.0,11.0,Jack Ingram,Pantry / Skoal Bandit (Jack Ingram),Pontiac,197.0,2700.0,running,0.0,146.0
+1985,14,IRP,8.0,4.0,10.0,L.D. Ottinger,Kroger (C.B. Gwyn),Pontiac,196.0,1600.0,running,0.0,142.0
+1985,14,IRP,9.0,11.0,1.0,Morgan Shepherd,Hook Drug Stores (Lindy White),Buick,196.0,1500.0,running,0.0,138.0
+1985,14,IRP,10.0,19.0,51.0,Robert Ingram,Hall Pontiac,Pontiac,196.0,1400.0,running,0.0,134.0
+1985,14,IRP,11.0,26.0,62.0,Butch Miller,MSW / Fredrickson,Pontiac,195.0,1000.0,running,0.0,0.0
+1985,14,IRP,12.0,15.0,8.0,Jeff Hensley,Flute's Sheetmetal,Pontiac,193.0,1250.0,running,0.0,124.0
+1985,14,IRP,13.0,12.0,2.0,John Linville,Linville Racing (John Linville),Pontiac,193.0,1350.0,running,0.0,130.0
+1985,14,IRP,14.0,23.0,4.0,Eddie Falk,Falk Auto (Eddie Falk),Pontiac,192.0,1425.0,running,0.0,121.0
+1985,14,IRP,15.0,22.0,24.0,Rodney Howard,Thackston's Garage (Marvin Thackston),Ford,190.0,1100.0,running,0.0,118.0
+1985,14,IRP,16.0,20.0,23.0,Davey Allison,Miller American (Bill Collins),Buick,188.0,1425.0,running,0.0,0.0
+1985,14,IRP,17.0,21.0,83.0,Bob Dotter,Goudie Computer Advisory (Bill Goudie),Pontiac,187.0,1275.0,running,0.0,0.0
+1985,14,IRP,18.0,24.0,4.0,Joe Thurman,Holland Heat & Air (Johnny Davis),Pontiac,185.0,1125.0,running,0.0,115.0
+1985,14,IRP,19.0,30.0,38.0,Bosco Lowe,Ryder's Floor Store (Keith Simmons),Pontiac,185.0,900.0,running,0.0,0.0
+1985,14,IRP,20.0,16.0,1.0,Dickie Boswell,Bob Banning,Pontiac,183.0,1075.0,running,0.0,112.0
+1985,14,IRP,21.0,28.0,35.0,Bill Venturini,Nortown Auto Service (Cathy Venturini),Pontiac,179.0,965.0,running,0.0,0.0
+1985,14,IRP,22.0,9.0,98.0,Larry Pollard,A & W Trucking (Anderson / Webb),Chevrolet,164.0,1255.0,ball joint,0.0,109.0
+1985,14,IRP,23.0,18.0,43.0,Dickie Linville,Virginia-Carolina Paving,Pontiac,157.0,1045.0,oil leak,0.0,94.0
+1985,14,IRP,24.0,27.0,57.0,David Simko,Mound Steel (Elmer Simko),Chevrolet,154.0,935.0,oil leak,0.0,0.0
+1985,14,IRP,25.0,1.0,5.0,Brett Bodine,Levi Garrett / Exxon (Rick Hendrick),Pontiac,130.0,2185.0,engine,108.0,88.0
+1985,14,IRP,26.0,25.0,16.0,Jimmy Lawson,Lawson-Fitzgerald Garage,Pontiac,74.0,1235.0,ignition,0.0,100.0
+1985,14,IRP,27.0,13.0,14.0,Ronnie Silver,Coors Light (Ronnie Silver),Pontiac,73.0,1035.0,ignition,0.0,82.0
+1985,14,IRP,28.0,17.0,7.0,Lee Raymond,Riverside Auto Parts (Jim Coyle),Chevrolet,43.0,785.0,engine,0.0,0.0
+1985,14,IRP,29.0,29.0,12.0,Kirk Bryant,Alugard (Darrell Bryant),Pontiac,33.0,835.0,handling,0.0,0.0
+1985,14,IRP,30.0,10.0,75.0,Brad Teague,Food Country USA (Charlie Henderson),Pontiac,26.0,1035.0,oil pressure,0.0,94.0
+1985,15,South Boston,1.0,4.0,11.0,Jack Ingram,Pantry / Skoal Bandit (Jack Ingram),Pontiac,200.0,4500.0,running,56.0,180.0
+1985,15,South Boston,2.0,1.0,0.0,Jimmy Hensley,Thomas Brothers Country Hams (Howard Thomas),Oldsmobile,200.0,2400.0,running,17.0,170.0
+1985,15,South Boston,3.0,2.0,32.0,Dale Jarrett,Busch / T & S (Horace Isenhower),Oldsmobile,200.0,1250.0,running,127.0,165.0
+1985,15,South Boston,4.0,3.0,6.0,Tommy Houston,Southern Biscuit Flour (Mike Day),Oldsmobile,200.0,1850.0,running,0.0,160.0
+1985,15,South Boston,5.0,8.0,98.0,Larry Pollard,A & W Trucking (Anderson / Webb),Chevrolet,200.0,1000.0,running,0.0,155.0
+1985,15,South Boston,6.0,5.0,22.0,Rick Mast,"A.G. Dillard (Alan Dillard, Jr.)",Pontiac,199.0,950.0,running,0.0,150.0
+1985,15,South Boston,7.0,12.0,4.0,Joe Thurman,Holland Heat & Air (Johnny Davis),Pontiac,198.0,900.0,running,0.0,146.0
+1985,15,South Boston,8.0,20.0,14.0,Ronnie Silver,Coors Light (Ronnie Silver),Pontiac,198.0,850.0,running,0.0,142.0
+1985,15,South Boston,9.0,24.0,77.0,Bud Elliott,Elliott Racing,Pontiac,197.0,550.0,running,0.0,138.0
+1985,15,South Boston,10.0,11.0,99.0,Wayne Patterson,Nelson Building Supply,Pontiac,197.0,500.0,running,0.0,134.0
+1985,15,South Boston,11.0,16.0,62.0,John Linville,Linville Racing (John Linville),Pontiac,196.0,700.0,running,0.0,130.0
+1985,15,South Boston,12.0,22.0,50.0,Al Hylton,Tom's Mini-Mart,Ford,192.0,400.0,running,0.0,0.0
+1985,15,South Boston,13.0,10.0,10.0,L.D. Ottinger,Gwyn Distributing (C.B. Gwyn),Pontiac,190.0,600.0,running,0.0,124.0
+1985,15,South Boston,14.0,13.0,2.0,Jeff Hensley,Flute's Sheetmetal,Pontiac,186.0,575.0,running,0.0,121.0
+1985,15,South Boston,15.0,15.0,36.0,Joe Kelly,Kelly Builders (Joe Kelly),Pontiac,183.0,550.0,running,0.0,118.0
+1985,15,South Boston,16.0,7.0,4.0,Eddie Falk,Falk Auto (Eddie Falk),Pontiac,179.0,520.0,running,0.0,115.0
+1985,15,South Boston,17.0,18.0,43.0,Dickie Linville,Virginia-Carolina Paving,Pontiac,178.0,500.0,running,0.0,112.0
+1985,15,South Boston,18.0,9.0,21.0,Larry Pearson,Chattanooga Chew (David Pearson),Pontiac,173.0,1230.0,running,0.0,109.0
+1985,15,South Boston,19.0,14.0,1.0,Dickie Boswell,Bob Banning,Pontiac,98.0,475.0,rear end,0.0,106.0
+1985,15,South Boston,20.0,6.0,75.0,Brad Teague,Food Country USA (Charlie Henderson),Pontiac,64.0,470.0,engine,0.0,103.0
+1985,15,South Boston,21.0,21.0,17.0,Kenny Burks,Jones Texaco,Pontiac,26.0,215.0,crash,0.0,100.0
+1985,15,South Boston,22.0,19.0,42.0,Allan Powell,Racing Into The Future (Allan Powell),Ford,25.0,210.0,crash,0.0,97.0
+1985,15,South Boston,23.0,17.0,1.0,Morgan Shepherd,Advance Auto Parts (Lindy White),Buick,13.0,455.0,engine,0.0,94.0
+1985,15,South Boston,24.0,23.0,46.0,Larry Utsman,Bill Gatton,Oldsmobile,3.0,200.0,engine,0.0,91.0
+1985,16,Hampton,1.0,2.0,12.0,Tommy Ellis,Freedlander,Pontiac,200.0,3650.0,running,199.0,180.0
+1985,16,Hampton,2.0,6.0,11.0,Jack Ingram,Pantry / Skoal Bandit (Jack Ingram),Pontiac,200.0,2400.0,running,0.0,170.0
+1985,16,Hampton,3.0,11.0,21.0,Larry Pearson,Chattanooga Chew (David Pearson),Pontiac,200.0,2000.0,running,0.0,165.0
+1985,16,Hampton,4.0,8.0,30.0,Bubba Adams,RC Cola,Pontiac,200.0,850.0,running,0.0,160.0
+1985,16,Hampton,5.0,3.0,6.0,Tommy Houston,Southern Biscuit Flour (Mike Day),Buick,199.0,1750.0,running,0.0,155.0
+1985,16,Hampton,6.0,15.0,32.0,Dale Jarrett,Busch / T & S (Horace Isenhower),Oldsmobile,199.0,950.0,running,0.0,150.0
+1985,16,Hampton,7.0,17.0,98.0,Larry Pollard,A & W Trucking (Anderson / Webb),Pontiac,199.0,900.0,running,0.0,146.0
+1985,16,Hampton,8.0,9.0,22.0,Rick Mast,"A.G. Dillard (Alan Dillard, Jr.)",Pontiac,199.0,850.0,running,0.0,142.0
+1985,16,Hampton,9.0,16.0,42.0,Elton Sawyer,Rheem Heat & Air (Bill Lewis),Pontiac,199.0,500.0,running,0.0,138.0
+1985,16,Hampton,10.0,7.0,0.0,Jimmy Hensley,Thomas Brothers Country Hams (Howard Thomas),Oldsmobile,198.0,1500.0,running,0.0,134.0
+1985,16,Hampton,11.0,5.0,4.0,Eddie Falk,Falk Auto (Eddie Falk),Pontiac,198.0,700.0,running,0.0,130.0
+1985,16,Hampton,12.0,23.0,45.0,Charlie Luck,Luck Stone / Dryden Oil (Charlie Luck),Oldsmobile,198.0,650.0,running,0.0,127.0
+1985,16,Hampton,13.0,14.0,10.0,L.D. Ottinger,Gwyn Distributing (C.B. Gwyn),Pontiac,197.0,600.0,running,0.0,124.0
+1985,16,Hampton,14.0,24.0,99.0,Wayne Patterson,"W.O. Grubb, Inc.",Pontiac,197.0,325.0,running,0.0,121.0
+1985,16,Hampton,15.0,1.0,3.0,Mike Porter,Wendy's,Pontiac,197.0,300.0,running,1.0,118.0
+1985,16,Hampton,16.0,12.0,16.0,Jimmy Lawson,Lawson-Fitzgerald Garage,Pontiac,196.0,520.0,running,0.0,115.0
+1985,16,Hampton,17.0,19.0,9.0,Bob Shreeves,S & S Racing (Bob Shreeves),Pontiac,196.0,250.0,running,0.0,112.0
+1985,16,Hampton,18.0,10.0,4.0,Joe Thurman,Holland Heat & Air (Johnny Davis),Pontiac,193.0,480.0,running,0.0,109.0
+1985,16,Hampton,19.0,20.0,1.0,Dickie Boswell,Bob Banning,Pontiac,188.0,475.0,running,0.0,106.0
+1985,16,Hampton,20.0,18.0,14.0,Ronnie Silver,Coors Light (Ronnie Silver),Pontiac,153.0,470.0,rear end,0.0,103.0
+1985,16,Hampton,21.0,13.0,62.0,John Linville,Linville Racing (John Linville),Pontiac,116.0,465.0,engine,0.0,100.0
+1985,16,Hampton,22.0,4.0,51.0,Robert Ingram,Hall Pontiac,Pontiac,70.0,460.0,crash,0.0,97.0
+1985,16,Hampton,23.0,21.0,41.0,Jack Bland,Henderson Drywall,Pontiac,69.0,205.0,crash,0.0,94.0
+1985,16,Hampton,24.0,22.0,2.0,Jeff Hensley,Flute's Sheetmetal,Pontiac,4.0,450.0,crash,0.0,91.0
+1985,17,Hickory,1.0,14.0,14.0,Ronnie Silver,Coors Light (Ronnie Silver),Pontiac,200.0,5100.0,running,86.0,180.0
+1985,17,Hickory,2.0,4.0,21.0,Larry Pearson,Chattanooga Chew (David Pearson),Pontiac,200.0,2600.0,running,20.0,170.0
+1985,17,Hickory,3.0,2.0,32.0,Dale Jarrett,Busch / T & S (Horace Isenhower),Oldsmobile,200.0,1350.0,running,67.0,165.0
+1985,17,Hickory,4.0,10.0,6.0,Tommy Houston,Southern Biscuit Flour (Mike Day),Buick,200.0,1850.0,running,0.0,160.0
+1985,17,Hickory,5.0,5.0,0.0,Jimmy Hensley,Thomas Brothers Country Hams (Howard Thomas),Oldsmobile,199.0,1750.0,running,0.0,155.0
+1985,17,Hickory,6.0,11.0,98.0,Larry Pollard,A & W Trucking (Anderson / Webb),Pontiac,199.0,950.0,running,0.0,150.0
+1985,17,Hickory,7.0,18.0,45.0,Charlie Luck,Luck Stone / Dryden Oil (Charlie Luck),Oldsmobile,199.0,900.0,running,0.0,146.0
+1985,17,Hickory,8.0,17.0,51.0,Robert Ingram,Hall Pontiac,Pontiac,199.0,850.0,running,0.0,0.0
+1985,17,Hickory,9.0,8.0,5.0,Brett Bodine,Levi Garrett (Rick Hendrick),Pontiac,198.0,800.0,running,0.0,138.0
+1985,17,Hickory,10.0,16.0,10.0,L.D. Ottinger,Kroger (C.B. Gwyn),Pontiac,198.0,750.0,running,0.0,134.0
+1985,17,Hickory,11.0,24.0,16.0,Jimmy Lawson,Lawson-Fitzgerald Garage,Pontiac,198.0,700.0,running,0.0,130.0
+1985,17,Hickory,12.0,23.0,9.0,Bob Shreeves,S & S Racing (Bob Shreeves),Pontiac,197.0,400.0,running,0.0,127.0
+1985,17,Hickory,13.0,1.0,75.0,Brad Teague,Food Country USA (Charlie Henderson),Pontiac,196.0,800.0,running,3.0,124.0
+1985,17,Hickory,14.0,15.0,4.0,Joe Thurman,Holland Heat & Air (Johnny Davis),Pontiac,196.0,575.0,running,0.0,121.0
+1985,17,Hickory,15.0,9.0,4.0,Eddie Falk,Falk Auto (Eddie Falk),Pontiac,196.0,550.0,running,0.0,118.0
+1985,17,Hickory,16.0,13.0,22.0,Rick Mast,"A.G. Dillard (Alan Dillard, Jr.)",Pontiac,177.0,520.0,crash,0.0,115.0
+1985,17,Hickory,17.0,12.0,62.0,John Linville,Linville Racing (John Linville),Pontiac,167.0,500.0,crash,0.0,112.0
+1985,17,Hickory,18.0,7.0,88.0,Pete Silva,Silva Racing (Pete Silva),Pontiac,98.0,230.0,overheating,0.0,109.0
+1985,17,Hickory,19.0,25.0,36.0,Joe Kelly,Kelly Builders (Joe Kelly),Pontiac,96.0,475.0,crash,0.0,106.0
+1985,17,Hickory,20.0,6.0,3.0,Mike Porter,Wendy's,Pontiac,71.0,220.0,rear end,0.0,103.0
+1985,17,Hickory,21.0,22.0,2.0,Jeff Hensley,Flute's Sheetmetal,Pontiac,56.0,465.0,electrical,0.0,100.0
+1985,17,Hickory,22.0,21.0,1.0,Dickie Boswell,Bob Banning,Pontiac,32.0,460.0,valve,0.0,97.0
+1985,17,Hickory,23.0,3.0,11.0,Jack Ingram,Pantry / Skoal Bandit (Jack Ingram),Pontiac,29.0,1205.0,engine,24.0,94.0
+1985,17,Hickory,24.0,19.0,99.0,Wayne Patterson,"W.O. Grubb, Inc.",Pontiac,19.0,200.0,crash,0.0,91.0
+1985,17,Hickory,25.0,20.0,96.0,Ronnie Davidson,Action Tire,Pontiac,15.0,200.0,rear end,0.0,88.0
+1985,18,Milwaukee,1.0,8.0,11.0,Jack Ingram,Pantry / Skoal Bandit (Jack Ingram),Pontiac,200.0,7900.0,running,37.0,180.0
+1985,18,Milwaukee,2.0,16.0,22.0,Rick Mast,"A.G. Dillard (Alan Dillard, Jr.)",Pontiac,200.0,5100.0,running,5.0,170.0
+1985,18,Milwaukee,3.0,2.0,0.0,Jimmy Hensley,Thomas Brothers Country Hams (Howard Thomas),Oldsmobile,200.0,4900.0,running,0.0,165.0
+1985,18,Milwaukee,4.0,3.0,32.0,Dale Jarrett,Busch / T & S (Horace Isenhower),Oldsmobile,200.0,2600.0,running,2.0,160.0
+1985,18,Milwaukee,5.0,4.0,6.0,Tommy Houston,Southern Biscuit Flour (Mike Day),Buick,199.0,3750.0,running,127.0,155.0
+1985,18,Milwaukee,6.0,11.0,10.0,L.D. Ottinger,Gwyn Distributing (C.B. Gwyn),Pontiac,199.0,1900.0,running,0.0,150.0
+1985,18,Milwaukee,7.0,12.0,98.0,Larry Pollard,A & W Trucking (Anderson / Webb),Chevrolet,198.0,1700.0,running,0.0,146.0
+1985,18,Milwaukee,8.0,13.0,51.0,Robert Ingram,Hall Pontiac,Pontiac,197.0,1600.0,running,0.0,142.0
+1985,18,Milwaukee,9.0,5.0,2.0,Jeff Hensley,Flute's Sheetmetal,Pontiac,196.0,1500.0,running,0.0,138.0
+1985,18,Milwaukee,10.0,20.0,73.0,Billy Hogan,Capel Rugs,Chevrolet,191.0,1050.0,running,0.0,134.0
+1985,18,Milwaukee,11.0,10.0,4.0,Eddie Falk,Falk Auto (Eddie Falk),Pontiac,170.0,1425.0,running,0.0,130.0
+1985,18,Milwaukee,12.0,6.0,21.0,Larry Pearson,Chattanooga Chew (David Pearson),Pontiac,155.0,3150.0,crash,0.0,127.0
+1985,18,Milwaukee,13.0,9.0,4.0,Joe Thurman,Holland Heat & Air (Johnny Davis),Pontiac,154.0,1375.0,transmission,0.0,124.0
+1985,18,Milwaukee,14.0,1.0,7.0,Alan Kulwicki,SAI Roofing (Ed Whitaker),Pontiac,131.0,950.0,engine,27.0,121.0
+1985,18,Milwaukee,15.0,14.0,8.0,Butch Miller,MSW Spyders (Leroy Throop),Pontiac,125.0,925.0,transmission,0.0,118.0
+1985,18,Milwaukee,16.0,18.0,14.0,Ronnie Silver,Coors Light (Ronnie Silver),Pontiac,114.0,2800.0,engine,0.0,115.0
+1985,18,Milwaukee,17.0,7.0,17.0,Darrell Waltrip,Budweiser / Colonial Bread (Darrell Waltrip),Chevrolet,105.0,875.0,hub,2.0,112.0
+1985,18,Milwaukee,18.0,15.0,36.0,Joe Kelly,Kelly Builders (Joe Kelly),Pontiac,72.0,1250.0,steering,0.0,109.0
+1985,18,Milwaukee,19.0,17.0,1.0,Dickie Boswell,Bob Banning,Pontiac,14.0,1225.0,rear end,0.0,106.0
+1985,18,Milwaukee,20.0,19.0,58.0,Merv Treichler,Genesee Truck Sales (John Jackson),Oldsmobile,13.0,800.0,rear end,0.0,103.0
+1985,19,Bristol,1.0,4.0,5.0,Brett Bodine,Levi Garrett (Rick Hendrick),Pontiac,200.0,6300.0,running,72.0,0.0
+1985,19,Bristol,2.0,11.0,8.0,Butch Miller,MSW Spyders (Leroy Throop),Pontiac,200.0,3425.0,running,11.0,0.0
+1985,19,Bristol,3.0,18.0,21.0,Larry Pearson,Chattanooga Chew (David Pearson),Pontiac,200.0,3500.0,running,0.0,165.0
+1985,19,Bristol,4.0,9.0,11.0,Jack Ingram,Pantry / Skoal Bandit (Jack Ingram),Pontiac,200.0,2900.0,running,21.0,160.0
+1985,19,Bristol,5.0,10.0,0.0,Jimmy Hensley,Thomas Brothers Country Hams (Howard Thomas),Oldsmobile,199.0,2650.0,running,0.0,155.0
+1985,19,Bristol,6.0,6.0,22.0,Rick Mast,"A.G. Dillard (Alan Dillard, Jr.)",Pontiac,198.0,1500.0,running,0.0,150.0
+1985,19,Bristol,7.0,17.0,45.0,Charlie Luck,Luck Stone / Dryden Oil (Charlie Luck),Oldsmobile,198.0,1400.0,running,0.0,146.0
+1985,19,Bristol,8.0,19.0,10.0,L.D. Ottinger,Gwyn Distributing (C.B. Gwyn),Pontiac,197.0,1265.0,running,0.0,142.0
+1985,19,Bristol,9.0,5.0,98.0,Larry Pollard,A & W Trucking (Anderson / Webb),Pontiac,195.0,1150.0,running,25.0,138.0
+1985,19,Bristol,10.0,20.0,14.0,Ronnie Silver,Coors Light (Ronnie Silver),Pontiac,194.0,2125.0,running,0.0,134.0
+1985,19,Bristol,11.0,28.0,27.0,Bosco Lowe,Ryder's Floor Store (Edgar Ryder),Pontiac,194.0,1050.0,running,0.0,130.0
+1985,19,Bristol,12.0,21.0,32.0,Dale Jarrett,Busch / T & S (Horace Isenhower),Oldsmobile,194.0,1000.0,running,0.0,127.0
+1985,19,Bristol,13.0,12.0,9.0,Bob Shreeves,S & S Racing (Bob Shreeves),Pontiac,190.0,650.0,running,0.0,124.0
+1985,19,Bristol,14.0,24.0,2.0,Jeff Hensley,Flute's Sheetmetal,Pontiac,186.0,900.0,running,0.0,121.0
+1985,19,Bristol,15.0,15.0,16.0,Jimmy Lawson,Lawson-Fitzgerald Garage,Pontiac,184.0,850.0,running,0.0,118.0
+1985,19,Bristol,16.0,22.0,51.0,Robert Ingram,Hall Pontiac,Pontiac,183.0,825.0,running,0.0,115.0
+1985,19,Bristol,17.0,23.0,36.0,Joe Kelly,Kelly Builders (Joe Kelly),Pontiac,178.0,800.0,running,0.0,112.0
+1985,19,Bristol,18.0,13.0,6.0,Tommy Houston,Southern Biscuit Flour (Mike Day),Buick,144.0,1775.0,engine,0.0,109.0
+1985,19,Bristol,19.0,16.0,5.0,Dave Marcis,Advance Auto Parts,Pontiac,142.0,450.0,quit,50.0,0.0
+1985,19,Bristol,20.0,8.0,17.0,Kenny Burks,Jones Texaco,Pontiac,119.0,425.0,crash,0.0,103.0
+1985,19,Bristol,21.0,14.0,53.0,Ed Berrier,Green Hill Sausage (Max Berrier),Pontiac,100.0,715.0,engine,0.0,100.0
+1985,19,Bristol,22.0,2.0,75.0,Brad Teague,Food Country USA (Charlie Henderson),Pontiac,88.0,705.0,crash,16.0,97.0
+1985,19,Bristol,23.0,7.0,3.0,Mike Porter,Wendy's,Pontiac,64.0,395.0,crash,0.0,0.0
+1985,19,Bristol,24.0,1.0,47.0,Ron Bouchard,Hope Insurance (Jack Beebe),Buick,21.0,375.0,crash,5.0,91.0
+1985,19,Bristol,25.0,3.0,7.0,Joe Ruttman,Folger's Coffee (Ed Whitaker),Pontiac,21.0,365.0,crash,0.0,0.0
+1985,19,Bristol,26.0,25.0,24.0,Rodney Howard,Thackston's Garage (Marvin Thackston),Ford,20.0,355.0,crash,0.0,85.0
+1985,19,Bristol,27.0,26.0,43.0,Dickie Linville,Virginia-Carolina Paving,Pontiac,19.0,645.0,crash,0.0,82.0
+1985,19,Bristol,28.0,27.0,62.0,John Linville,Westmoreland Racing (John Linville),Pontiac,19.0,635.0,crash,0.0,79.0
+1985,19,Bristol,29.0,29.0,46.0,Larry Utsman,Lady & Son Auction,Oldsmobile,19.0,325.0,crash,0.0,76.0
+1985,19,Bristol,30.0,31.0,73.0,Eddie Falk,Capel Rugs,Chevrolet,18.0,615.0,engine,0.0,73.0
+1985,19,Bristol,31.0,30.0,4.0,Joe Thurman,Holland Heat & Air (Johnny Davis),Pontiac,1.0,615.0,crash,0.0,70.0
+1985,20,Darlington,1.0,6.0,17.0,Darrell Waltrip,Budweiser / Colonial Bread (Darrell Waltrip),Chevrolet,147.0,9400.0,running,38.0,180.0
+1985,20,Darlington,2.0,10.0,66.0,Rusty Wallace,Alugard (Rusty Wallace),Oldsmobile,147.0,5350.0,running,0.0,170.0
+1985,20,Darlington,3.0,5.0,75.0,Brad Teague,Food Country USA (Charlie Henderson),Pontiac,147.0,5675.0,running,6.0,165.0
+1985,20,Darlington,4.0,8.0,0.0,Jimmy Hensley,Thomas Brothers Country Hams (Howard Thomas),Oldsmobile,146.0,5100.0,running,0.0,160.0
+1985,20,Darlington,5.0,9.0,21.0,Larry Pearson,Chattanooga Chew (David Pearson),Chevrolet,146.0,4550.0,running,0.0,155.0
+1985,20,Darlington,6.0,19.0,45.0,Charlie Luck,Luck Stone / Dryden Oil (Charlie Luck),Oldsmobile,146.0,2550.0,running,0.0,150.0
+1985,20,Darlington,7.0,12.0,44.0,Rick Mast,"A.G. Dillard (Alan Dillard, Jr.)",Pontiac,146.0,3300.0,running,0.0,146.0
+1985,20,Darlington,8.0,7.0,5.0,Brett Bodine,Levi Garrett (Rick Hendrick),Pontiac,145.0,3125.0,running,0.0,142.0
+1985,20,Darlington,9.0,27.0,65.0,Ken Bouchard,Universal Auto Salvage (M.J. Sullivan),Oldsmobile,145.0,1300.0,running,0.0,138.0
+1985,20,Darlington,10.0,13.0,4.0,Joe Thurman,Davis Racing (Johnny Davis),Pontiac,145.0,2850.0,running,0.0,134.0
+1985,20,Darlington,11.0,11.0,10.0,L.D. Ottinger,Gwyn Distributing (C.B. Gwyn),Oldsmobile,144.0,1725.0,running,0.0,130.0
+1985,20,Darlington,12.0,22.0,98.0,Larry Pollard,Anderson & Webb Trucking (Anderson / Webb),Pontiac,144.0,2600.0,running,0.0,127.0
+1985,20,Darlington,13.0,18.0,24.0,Rodney Howard,Thackston's Garage (Marvin Thackston),Ford,144.0,950.0,running,0.0,124.0
+1985,20,Darlington,14.0,17.0,14.0,Ronnie Silver,Coors Light (Ronnie Silver),Oldsmobile,143.0,2975.0,running,0.0,121.0
+1985,20,Darlington,15.0,38.0,52.0,Dale Jarrett,Jerry's Used Cars (Horace Isenhower),Pontiac,142.0,1400.0,running,0.0,118.0
+1985,20,Darlington,16.0,15.0,89.0,Mike Swaim,Bull Frog Knits,Oldsmobile,141.0,825.0,running,0.0,115.0
+1985,20,Darlington,17.0,25.0,4.0,Eddie Falk,Falk Auto (Eddie Falk),Pontiac,140.0,1340.0,running,0.0,112.0
+1985,20,Darlington,18.0,29.0,29.0,Tim McGuire,Longwood Restaurant,Dodge,135.0,775.0,running,0.0,109.0
+1985,20,Darlington,19.0,28.0,62.0,John Linville,Batton Computers (John Linville),Pontiac,129.0,1275.0,running,0.0,106.0
+1985,20,Darlington,20.0,26.0,82.0,Larry Walker,Walker Upholstery (Larry Walker),Pontiac,128.0,725.0,running,0.0,103.0
+1985,20,Darlington,21.0,37.0,73.0,Billy Hogan,Capel Rugs,Chevrolet,125.0,700.0,running,0.0,100.0
+1985,20,Darlington,22.0,3.0,8.0,Dale Earnhardt,"Wrangler Jeans (Dale Earnhardt, Inc.)",Pontiac,121.0,675.0,crash,0.0,97.0
+1985,20,Darlington,23.0,1.0,15.0,Tim Richmond,Levi Garrett (Rick Hendrick),Pontiac,120.0,650.0,crash,76.0,0.0
+1985,20,Darlington,24.0,20.0,6.0,Tommy Houston,Southern Biscuit Flour (Mike Day),Oldsmobile,116.0,2525.0,running,0.0,91.0
+1985,20,Darlington,25.0,33.0,39.0,Bosco Lowe,Beauregard's Deli (Edgar Ryder),Pontiac,112.0,600.0,running,0.0,88.0
+1985,20,Darlington,26.0,2.0,7.0,Joe Ruttman,Folger's Coffee (Ed Whitaker),Oldsmobile,105.0,575.0,crash,27.0,85.0
+1985,20,Darlington,27.0,24.0,69.0,Rick Wilson,Wilson Racing (Rick Wilson),Oldsmobile,85.0,570.0,engine,0.0,82.0
+1985,20,Darlington,28.0,35.0,55.0,Rodney Foushee,Foushee Racing (Rodney Foushee),Oldsmobile,70.0,565.0,crash,0.0,79.0
+1985,20,Darlington,29.0,14.0,47.0,Ron Bouchard,Valvoline (Jack Beebe),Buick,64.0,560.0,head gasket,0.0,76.0
+1985,20,Darlington,30.0,4.0,11.0,Jack Ingram,Pantry / Skoal Bandit (Jack Ingram),Oldsmobile,60.0,2805.0,engine,0.0,73.0
+1985,20,Darlington,31.0,30.0,88.0,Ken Knight,Forrest Morgan,Pontiac,58.0,550.0,crash,0.0,70.0
+1985,20,Darlington,32.0,32.0,9.0,Willie Blevins,Hesco Exhaust,Oldsmobile,57.0,545.0,crash,0.0,67.0
+1985,20,Darlington,33.0,23.0,2.0,Jeff Hensley,Flute's Sheetmetal,Oldsmobile,28.0,940.0,overheating,0.0,64.0
+1985,20,Darlington,34.0,31.0,2.0,Kirk Bryant,Spectrum Furniture,Pontiac,23.0,535.0,oil pressure,0.0,61.0
+1985,20,Darlington,35.0,21.0,58.0,Merv Treichler,Genesee Truck Sales (John Jackson),Oldsmobile,18.0,530.0,engine,0.0,58.0
+1985,20,Darlington,36.0,34.0,93.0,Glenn Sears,Graham Racing,Pontiac,9.0,525.0,engine,0.0,0.0
+1985,20,Darlington,37.0,36.0,78.0,Johnny Talley,Cotton's Garage (Johnny Talley),Oldsmobile,6.0,525.0,engine,0.0,0.0
+1985,20,Darlington,38.0,16.0,60.0,Ed Berrier,Horton Distributing (Max Berrier),Pontiac,4.0,925.0,crash,0.0,49.0
+1985,21,Richmond,1.0,3.0,12.0,Tommy Ellis,Freedlander,Pontiac,150.0,6500.0,running,144.0,180.0
+1985,21,Richmond,2.0,4.0,32.0,Dale Jarrett,Busch / T & S (Horace Isenhower),Oldsmobile,150.0,3125.0,running,0.0,170.0
+1985,21,Richmond,3.0,8.0,10.0,L.D. Ottinger,Gwyn Distributing (C.B. Gwyn),Pontiac,150.0,2150.0,running,0.0,165.0
+1985,21,Richmond,4.0,15.0,11.0,Jack Ingram,Pantry / Skoal Bandit (Jack Ingram),Pontiac,150.0,2500.0,running,0.0,160.0
+1985,21,Richmond,5.0,16.0,17.0,Darrell Waltrip,Budweiser / Colonial Bread (Darrell Waltrip),Chevrolet,150.0,1300.0,running,0.0,0.0
+1985,21,Richmond,6.0,21.0,21.0,Larry Pearson,Chattanooga Chew (David Pearson),Pontiac,150.0,2100.0,running,0.0,150.0
+1985,21,Richmond,7.0,2.0,6.0,Tommy Houston,Southern Biscuit Flour (Mike Day),Buick,150.0,2025.0,running,0.0,146.0
+1985,21,Richmond,8.0,1.0,0.0,Jimmy Hensley,Thomas Brothers Country Hams (Howard Thomas),Oldsmobile,150.0,1975.0,running,6.0,142.0
+1985,21,Richmond,9.0,12.0,98.0,Larry Pollard,A & W Trucking (Anderson / Webb),Pontiac,150.0,925.0,running,0.0,138.0
+1985,21,Richmond,10.0,20.0,51.0,Robert Ingram,Hall Pontiac,Pontiac,150.0,875.0,running,0.0,134.0
+1985,21,Richmond,11.0,13.0,14.0,Ronnie Silver,Coors Light (Ronnie Silver),Pontiac,150.0,1825.0,running,0.0,130.0
+1985,21,Richmond,12.0,19.0,22.0,Rick Mast,"A.G. Dillard (Alan Dillard, Jr.)",Pontiac,148.0,800.0,running,0.0,127.0
+1985,21,Richmond,13.0,5.0,16.0,Jimmy Lawson,Lawson-Fitzgerald Garage,Pontiac,148.0,750.0,running,0.0,124.0
+1985,21,Richmond,14.0,27.0,77.0,Bud Elliott,Elliott Racing,Pontiac,147.0,425.0,running,0.0,121.0
+1985,21,Richmond,15.0,24.0,2.0,Jeff Hensley,Flute's Sheetmetal,Pontiac,146.0,700.0,running,0.0,118.0
+1985,21,Richmond,16.0,28.0,50.0,Joe Thurman,Tom's Mini-Mart,Ford,146.0,675.0,running,0.0,115.0
+1985,21,Richmond,17.0,25.0,1.0,Dickie Boswell,Bob Banning,Pontiac,146.0,670.0,running,0.0,112.0
+1985,21,Richmond,18.0,30.0,7.0,Kenny Burks,Jones Texaco,Pontiac,145.0,365.0,running,0.0,109.0
+1985,21,Richmond,19.0,22.0,41.0,Jack Bland,Henderson Drywall,Pontiac,137.0,360.0,running,0.0,106.0
+1985,21,Richmond,20.0,18.0,75.0,Brad Teague,Food Country USA (Charlie Henderson),Pontiac,112.0,655.0,oil pressure,0.0,103.0
+1985,21,Richmond,21.0,14.0,8.0,Dale Earnhardt,"Earnhardt Racing (Dale Earnhardt, Inc.)",Pontiac,105.0,350.0,rear end,0.0,0.0
+1985,21,Richmond,22.0,9.0,4.0,Eddie Falk,Falk Auto (Eddie Falk),Pontiac,86.0,645.0,crash,0.0,97.0
+1985,21,Richmond,23.0,29.0,82.0,Larry Walker,Archdale Upholstery (Larry Walker),Pontiac,66.0,340.0,running,0.0,94.0
+1985,21,Richmond,24.0,26.0,27.0,Bosco Lowe,Ryder's Floor Store (Edgar Ryder),Pontiac,64.0,635.0,oil leak,0.0,91.0
+1985,21,Richmond,25.0,23.0,9.0,Bob Shreeves,S & S Racing (Bob Shreeves),Pontiac,55.0,330.0,crash,0.0,88.0
+1985,21,Richmond,26.0,17.0,3.0,Mike Porter,Wendy's,Pontiac,51.0,325.0,brakes,0.0,85.0
+1985,21,Richmond,27.0,7.0,42.0,Elton Sawyer,Rheem Heat & Air (Bill Lewis),Pontiac,44.0,320.0,crash,0.0,82.0
+1985,21,Richmond,28.0,11.0,99.0,Wayne Patterson,Nelson Building Supply,Pontiac,20.0,315.0,engine,0.0,79.0
+1985,21,Richmond,29.0,10.0,30.0,Bubba Adams,RC Cola,Pontiac,16.0,310.0,engine,0.0,76.0
+1985,21,Richmond,30.0,6.0,45.0,Charlie Luck,Luck Stone / Dryden Oil (Charlie Luck),Oldsmobile,1.0,600.0,crash,0.0,73.0
+1985,22,North Wilkesboro,1.0,5.0,11.0,Jack Ingram,Pantry / Skoal Bandit (Jack Ingram),Pontiac,150.0,4800.0,running,112.0,180.0
+1985,22,North Wilkesboro,2.0,7.0,21.0,Larry Pearson,Chattanooga Chew (David Pearson),Pontiac,150.0,2900.0,running,0.0,170.0
+1985,22,North Wilkesboro,3.0,6.0,0.0,Jimmy Hensley,Thomas Brothers Country Hams (Howard Thomas),Oldsmobile,150.0,2300.0,running,0.0,165.0
+1985,22,North Wilkesboro,4.0,1.0,6.0,Tommy Houston,Southern Biscuit Flour (Mike Day),Buick,150.0,2150.0,running,38.0,160.0
+1985,22,North Wilkesboro,5.0,4.0,32.0,Dale Jarrett,Busch / T & S (Horace Isenhower),Oldsmobile,150.0,1050.0,running,0.0,155.0
+1985,22,North Wilkesboro,6.0,2.0,3.0,Mike Porter,Wendy's,Pontiac,150.0,950.0,running,0.0,150.0
+1985,22,North Wilkesboro,7.0,9.0,10.0,L.D. Ottinger,Gwyn Distributing (C.B. Gwyn),Pontiac,150.0,950.0,running,0.0,146.0
+1985,22,North Wilkesboro,8.0,3.0,75.0,Brad Teague,Food Country USA (Charlie Henderson),Pontiac,150.0,900.0,running,0.0,142.0
+1985,22,North Wilkesboro,9.0,13.0,14.0,Ronnie Silver,Coors Light (Ronnie Silver),Pontiac,149.0,1850.0,running,0.0,138.0
+1985,22,North Wilkesboro,10.0,12.0,4.0,Eddie Falk,Falk Auto (Eddie Falk),Pontiac,148.0,800.0,running,0.0,134.0
+1985,22,North Wilkesboro,11.0,14.0,98.0,Larry Pollard,A & W Trucking (Anderson / Webb),Pontiac,147.0,750.0,running,0.0,130.0
+1985,22,North Wilkesboro,12.0,10.0,2.0,Jeff Hensley,Flute's Sheetmetal,Pontiac,147.0,700.0,running,0.0,127.0
+1985,22,North Wilkesboro,13.0,19.0,61.0,Butch Isom,Neal's Enterprises,Pontiac,145.0,350.0,running,0.0,124.0
+1985,22,North Wilkesboro,14.0,23.0,35.0,Randy Butner,Oldtown Auto Parts,Oldsmobile,132.0,325.0,running,0.0,121.0
+1985,22,North Wilkesboro,15.0,18.0,53.0,Ed Berrier,Green Hill Sausage,Pontiac,132.0,600.0,running,0.0,118.0
+1985,22,North Wilkesboro,16.0,11.0,16.0,Jimmy Lawson,Lawson-Fitzgerald Garage,Pontiac,131.0,570.0,running,0.0,115.0
+1985,22,North Wilkesboro,17.0,22.0,43.0,Dickie Linville,Virginia-Carolina Paving,Buick,86.0,550.0,crash,0.0,112.0
+1985,22,North Wilkesboro,18.0,8.0,22.0,Rick Mast,"A.G. Dillard (Alan Dillard, Jr.)",Pontiac,79.0,530.0,engine,0.0,109.0
+1985,22,North Wilkesboro,19.0,24.0,96.0,Ronnie Davidson,Davidson Racing,Chevrolet,38.0,225.0,engine,0.0,0.0
+1985,22,North Wilkesboro,20.0,17.0,62.0,John Linville,Linville Racing (John Linville),Pontiac,30.0,520.0,crash,0.0,103.0
+1985,22,North Wilkesboro,21.0,15.0,4.0,Joe Thurman,Holland Heat & Air (Johnny Davis),Pontiac,28.0,515.0,engine,0.0,100.0
+1985,22,North Wilkesboro,22.0,20.0,82.0,Larry Walker,Archdale Upholstery (Larry Walker),Pontiac,24.0,210.0,handling,0.0,97.0
+1985,22,North Wilkesboro,23.0,16.0,1.0,Dickie Boswell,Bob Banning,Pontiac,21.0,505.0,engine,0.0,94.0
+1985,22,North Wilkesboro,24.0,21.0,66.0,Bennie Davis,Davis Racing,Pontiac,12.0,200.0,engine,0.0,91.0
+1985,23,Rougemont,1.0,10.0,11.0,Jack Ingram,Pantry / Skoal Bandit (Jack Ingram),Pontiac,150.0,4500.0,running,28.0,180.0
+1985,23,Rougemont,2.0,9.0,21.0,Larry Pearson,Chattanooga Chew (David Pearson),Pontiac,150.0,2600.0,running,0.0,170.0
+1985,23,Rougemont,3.0,4.0,32.0,Dale Jarrett,Busch / T & S (Horace Isenhower),Oldsmobile,149.0,1250.0,running,7.0,165.0
+1985,23,Rougemont,4.0,1.0,6.0,Tommy Houston,Southern Biscuit Flour (Mike Day),Buick,149.0,1850.0,running,37.0,160.0
+1985,23,Rougemont,5.0,5.0,10.0,L.D. Ottinger,Gwyn Distributing (C.B. Gwyn),Pontiac,149.0,1350.0,running,0.0,155.0
+1985,23,Rougemont,6.0,13.0,98.0,Larry Pollard,A & W Trucking (Anderson / Webb),Pontiac,149.0,950.0,running,0.0,150.0
+1985,23,Rougemont,7.0,3.0,51.0,Robert Ingram,Hall Pontiac,Pontiac,149.0,900.0,running,78.0,146.0
+1985,23,Rougemont,8.0,17.0,41.0,Jack Bland,Henderson Drywall,Pontiac,149.0,600.0,running,0.0,142.0
+1985,23,Rougemont,9.0,6.0,22.0,Rick Mast,"A.G. Dillard (Alan Dillard, Jr.)",Pontiac,148.0,800.0,running,0.0,138.0
+1985,23,Rougemont,10.0,21.0,66.0,Bennie Davis,Davis Racing,Pontiac,148.0,500.0,running,0.0,134.0
+1985,23,Rougemont,11.0,19.0,16.0,Jimmy Lawson,Lawson-Fitzgerald Garage,Pontiac,148.0,700.0,running,0.0,130.0
+1985,23,Rougemont,12.0,14.0,0.0,Jimmy Hensley,Thomas Brothers Country Hams (Howard Thomas),Oldsmobile,147.0,1400.0,running,0.0,127.0
+1985,23,Rougemont,13.0,8.0,2.0,Jeff Hensley,Flute's Sheetmetal,Pontiac,147.0,600.0,running,0.0,124.0
+1985,23,Rougemont,14.0,15.0,14.0,Ronnie Silver,Coors Light (Ronnie Silver),Pontiac,147.0,1125.0,running,0.0,121.0
+1985,23,Rougemont,15.0,11.0,0.0,Tom Usry,Thomas Brothers Country Hams,Oldsmobile,146.0,300.0,running,0.0,0.0
+1985,23,Rougemont,16.0,12.0,1.0,Dickie Boswell,Bob Banning,Pontiac,145.0,520.0,running,0.0,115.0
+1985,23,Rougemont,17.0,2.0,4.0,Joe Thurman,Thurman Enterprises (Joe Thurman),Pontiac,145.0,500.0,running,0.0,112.0
+1985,23,Rougemont,18.0,22.0,99.0,Wayne Patterson,Tom's Mini-Mart,Pontiac,144.0,230.0,running,0.0,109.0
+1985,23,Rougemont,19.0,16.0,62.0,John Linville,Westmoreland Racing (John Linville),Pontiac,142.0,475.0,running,0.0,106.0
+1985,23,Rougemont,20.0,23.0,82.0,Larry Walker,Walker Upholstery (Larry Walker),Pontiac,142.0,220.0,running,0.0,103.0
+1985,23,Rougemont,21.0,24.0,43.0,Dickie Linville,Virginia-Carolina Paving,Buick,125.0,465.0,engine,0.0,100.0
+1985,23,Rougemont,22.0,18.0,50.0,Al Hylton,Deeth Chassis,Ford,103.0,210.0,oil leak,0.0,97.0
+1985,23,Rougemont,23.0,7.0,4.0,Eddie Falk,Falk Auto (Eddie Falk),Pontiac,35.0,455.0,engine,0.0,94.0
+1985,23,Rougemont,24.0,20.0,27.0,Bosco Lowe,Ryder's Floor Store (Edgar Ryder),Pontiac,0.0,450.0,crash,0.0,91.0
+1985,24,Charlotte,1.0,14.0,17.0,Terry Labonte,Budweiser / Colonial Bread (Darrell Waltrip),Pontiac,267.0,32400.0,running,48.0,0.0
+1985,24,Charlotte,2.0,1.0,15.0,Geoffrey Bodine,Levi Garrett (Rick Hendrick),Pontiac,267.0,33075.0,running,183.0,170.0
+1985,24,Charlotte,3.0,9.0,66.0,Rusty Wallace,Alugard (Rusty Wallace),Oldsmobile,267.0,14075.0,running,0.0,165.0
+1985,24,Charlotte,4.0,3.0,8.0,Dale Earnhardt,"Wrangler Jeans (Dale Earnhardt, Inc.)",Pontiac,267.0,17150.0,running,9.0,160.0
+1985,24,Charlotte,5.0,12.0,21.0,Larry Pearson,Chattanooga Chew (David Pearson),Chevrolet,266.0,17050.0,running,0.0,155.0
+1985,24,Charlotte,6.0,10.0,11.0,Jack Ingram,Pantry / Skoal Bandit (Jack Ingram),Oldsmobile,266.0,14425.0,running,2.0,150.0
+1985,24,Charlotte,7.0,7.0,75.0,Brad Teague,Food Country USA (Charlie Henderson),Pontiac,266.0,13450.0,running,6.0,146.0
+1985,24,Charlotte,8.0,4.0,44.0,Rick Mast,"A.G. Dillard (Alan Dillard, Jr.)",Pontiac,265.0,7000.0,running,1.0,142.0
+1985,24,Charlotte,9.0,5.0,5.0,Brett Bodine,Levi Garrett (Rick Hendrick),Pontiac,265.0,6125.0,running,0.0,138.0
+1985,24,Charlotte,10.0,11.0,0.0,Jimmy Hensley,Thomas Brothers Country Hams (Howard Thomas),Oldsmobile,265.0,6825.0,running,0.0,134.0
+1985,24,Charlotte,11.0,8.0,47.0,Ron Bouchard,Valvoline (Jack Beebe),Buick,264.0,5950.0,running,13.0,130.0
+1985,24,Charlotte,12.0,34.0,98.0,Larry Pollard,A & W Trucking (Anderson / Webb),Pontiac,264.0,4050.0,running,0.0,127.0
+1985,24,Charlotte,13.0,22.0,32.0,Dale Jarrett,Busch / T & S (Horace Isenhower),Oldsmobile,263.0,3700.0,running,0.0,124.0
+1985,24,Charlotte,14.0,16.0,6.0,Tommy Houston,Southern Biscuit Flour (Mike Day),Oldsmobile,262.0,5000.0,running,0.0,121.0
+1985,24,Charlotte,15.0,31.0,45.0,Charlie Luck,Luck Stone / Dryden Oil (Charlie Luck),Oldsmobile,261.0,3300.0,running,0.0,118.0
+1985,24,Charlotte,16.0,40.0,2.0,Kirk Bryant,Bryant Racing,Pontiac,259.0,3890.0,running,0.0,115.0
+1985,24,Charlotte,17.0,33.0,14.0,Ronnie Silver,Coors Light (Ronnie Silver),Oldsmobile,258.0,6200.0,running,0.0,112.0
+1985,24,Charlotte,18.0,18.0,24.0,Rodney Howard,Thackston's Garage (Marvin Thackston),Ford,256.0,3200.0,running,0.0,109.0
+1985,24,Charlotte,19.0,28.0,5.0,Hut Stricklin,Raider Engineering,Pontiac,254.0,4100.0,running,0.0,106.0
+1985,24,Charlotte,20.0,19.0,60.0,Ed Berrier,Horton Distirbuting (Max Berrier),Pontiac,253.0,2400.0,crash,0.0,103.0
+1985,24,Charlotte,21.0,35.0,39.0,Mitchell Clark,Beauregard's Deli,Pontiac,251.0,1900.0,running,0.0,100.0
+1985,24,Charlotte,22.0,13.0,4.0,Eddie Falk,Falk Auto (Eddie Falk),Pontiac,250.0,2200.0,running,0.0,97.0
+1985,24,Charlotte,23.0,42.0,42.0,Elton Sawyer,Rheem Heat & Air (Bill Lewis),Oldsmobile,242.0,4170.0,running,0.0,94.0
+1985,24,Charlotte,24.0,37.0,2.0,Jeff Hensley,Flute's Sheetmetal,Pontiac,236.0,2000.0,running,0.0,91.0
+1985,24,Charlotte,25.0,15.0,34.0,Joe Kelly,Kelly Builders (Joe Kelly),Pontiac,229.0,1900.0,running,0.0,88.0
+1985,24,Charlotte,26.0,23.0,12.0,Tommy Ellis,Freedlander,Oldsmobile,204.0,1800.0,engine,0.0,85.0
+1985,24,Charlotte,27.0,41.0,27.0,Bosco Lowe,Ryder's Floor Store (Edgar Ryder),Pontiac,203.0,2180.0,running,0.0,82.0
+1985,24,Charlotte,28.0,39.0,61.0,Glenn Sears,Tempo-Glo,Pontiac,184.0,1700.0,engine,0.0,79.0
+1985,24,Charlotte,29.0,21.0,7.0,Morgan Shepherd,Whitaker Racing (Ed Whitaker),Oldsmobile,171.0,1150.0,engine,2.0,76.0
+1985,24,Charlotte,30.0,30.0,3.0,Kenny Burks,Jones Texaco,Oldsmobile,165.0,1100.0,engine,0.0,73.0
+1985,24,Charlotte,31.0,20.0,65.0,Ken Bouchard,Universal Auto Salvage (M.J. Sullivan),Oldsmobile,155.0,1050.0,engine,0.0,70.0
+1985,24,Charlotte,32.0,38.0,54.0,Dickie Boswell,H & J Racing,Chevrolet,146.0,1400.0,engine,0.0,67.0
+1985,24,Charlotte,33.0,17.0,84.0,Mike Alexander,Action Vans (Mike Alexander),Buick,90.0,990.0,water pump,0.0,0.0
+1985,24,Charlotte,34.0,36.0,58.0,Merv Treichler,Genesee Truck Sales (John Jackson),Oldsmobile,87.0,980.0,oil pump,0.0,61.0
+1985,24,Charlotte,35.0,25.0,4.0,Joe Thurman,Davis Racing (Johnny Davis),Pontiac,52.0,1370.0,valve,0.0,58.0
+1985,24,Charlotte,36.0,32.0,20.0,Brett Hearn,Purnell-Jarvis Dyson,Pontiac,51.0,960.0,rear end,0.0,55.0
+1985,24,Charlotte,37.0,2.0,10.0,L.D. Ottinger,All-Pro Auto Parts (C.B. Gwyn),Pontiac,42.0,6910.0,oil line,3.0,52.0
+1985,24,Charlotte,38.0,24.0,22.0,Bobby Allison,"Miller American (Alan Dillard, Jr.)",Buick,27.0,2960.0,engine,0.0,49.0
+1985,24,Charlotte,39.0,26.0,77.0,Sammy Swindell,Sizzler (Raymond Beadle),Pontiac,23.0,950.0,engine,0.0,46.0
+1985,24,Charlotte,40.0,6.0,23.0,Davey Allison,Miller American (Bobby Allison),Buick,16.0,990.0,engine,0.0,43.0
+1985,24,Charlotte,41.0,27.0,69.0,Rick Wilson,Wilson Racing (Rick Wilson),Oldsmobile,10.0,930.0,engine,0.0,40.0
+1985,24,Charlotte,42.0,29.0,33.0,Tony Anderson,Anderson Racing,Oldsmobile,2.0,920.0,engine,0.0,37.0
+1985,25,Hickory,1.0,6.0,6.0,Tommy Houston,Southern Biscuit Flour (Mike Day),Buick,200.0,4400.0,running,2.0,180.0
+1985,25,Hickory,2.0,9.0,11.0,Jack Ingram,Pantry / Skoal Bandit (Jack Ingram),Pontiac,200.0,2400.0,running,171.0,170.0
+1985,25,Hickory,3.0,8.0,21.0,Larry Pearson,Chattanooga Chew (David Pearson),Pontiac,200.0,2000.0,running,0.0,165.0
+1985,25,Hickory,4.0,3.0,88.0,Pete Silva,Southeastern Transmissions (Pete Silva),Pontiac,200.0,850.0,running,0.0,160.0
+1985,25,Hickory,5.0,12.0,14.0,Ronnie Silver,Coors Light (Ronnie Silver),Pontiac,200.0,1750.0,running,0.0,155.0
+1985,25,Hickory,6.0,2.0,32.0,Dale Jarrett,Busch / T & S (Horace Isenhower),Oldsmobile,199.0,950.0,running,0.0,150.0
+1985,25,Hickory,7.0,7.0,0.0,Jimmy Hensley,Thomas Brothers Country Hams (Howard Thomas),Oldsmobile,199.0,1650.0,running,0.0,146.0
+1985,25,Hickory,8.0,19.0,1.0,Dickie Boswell,Bob Banning,Pontiac,199.0,850.0,running,0.0,142.0
+1985,25,Hickory,9.0,1.0,75.0,Brad Teague,Food Country USA (Charlie Henderson),Pontiac,199.0,1000.0,running,27.0,138.0
+1985,25,Hickory,10.0,10.0,10.0,L.D. Ottinger,Gwyn Distributing (C.B. Gwyn),Pontiac,199.0,750.0,running,0.0,134.0
+1985,25,Hickory,11.0,14.0,27.0,Bosco Lowe,Ryder's Floor Store (Edgar Ryder),Pontiac,198.0,700.0,running,0.0,130.0
+1985,25,Hickory,12.0,17.0,41.0,Jack Bland,Henderson Drywall,Pontiac,198.0,400.0,running,0.0,127.0
+1985,25,Hickory,13.0,21.0,66.0,Bennie Davis,Davis Racing,Pontiac,197.0,350.0,running,0.0,124.0
+1985,25,Hickory,14.0,11.0,4.0,Eddie Falk,Falk Auto (Eddie Falk),Pontiac,197.0,575.0,running,0.0,121.0
+1985,25,Hickory,15.0,15.0,16.0,Jimmy Lawson,Lawson-Fitzgerald Garage,Pontiac,196.0,550.0,running,0.0,118.0
+1985,25,Hickory,16.0,20.0,9.0,Bob Shreeves,S & S Racing (Bob Shreeves),Pontiac,196.0,270.0,running,0.0,115.0
+1985,25,Hickory,17.0,23.0,2.0,Jeff Hensley,Flute's Sheetmetal,Pontiac,195.0,500.0,running,0.0,112.0
+1985,25,Hickory,18.0,24.0,50.0,Al Hylton,Deeth Chassis,Ford,192.0,230.0,running,0.0,109.0
+1985,25,Hickory,19.0,22.0,62.0,John Linville,Westmoreland Racing (John Linville),Pontiac,188.0,475.0,running,0.0,106.0
+1985,25,Hickory,20.0,18.0,0.0,Tom Usry,Thomas Brothers Country Hams,Oldsmobile,186.0,220.0,running,0.0,103.0
+1985,25,Hickory,21.0,13.0,22.0,Rick Mast,"A.G. Dillard (Alan Dillard, Jr.)",Pontiac,167.0,465.0,running,0.0,100.0
+1985,25,Hickory,22.0,5.0,98.0,Larry Pollard,A & W Trucking (Anderson / Webb),Pontiac,150.0,460.0,running,0.0,97.0
+1985,25,Hickory,23.0,16.0,51.0,Robert Ingram,Hall Pontiac,Pontiac,131.0,455.0,running,0.0,94.0
+1985,25,Hickory,24.0,4.0,4.0,Joe Thurman,Thurman Enterprises (Joe Thurman),Pontiac,124.0,450.0,rear end,0.0,91.0
+1985,26,Rockingham,1.0,1.0,5.0,Brett Bodine,Levi Garrett / Exxon (Rick Hendrick),Pontiac,197.0,9550.0,running,101.0,180.0
+1985,26,Rockingham,2.0,12.0,6.0,Tommy Houston,Southern Biscuit Flour (Mike Day),Oldsmobile,197.0,6725.0,running,0.0,170.0
+1985,26,Rockingham,3.0,21.0,10.0,L.D. Ottinger,All-Pro Auto Parts (C.B. Gwyn),Pontiac,197.0,3900.0,running,19.0,165.0
+1985,26,Rockingham,4.0,6.0,45.0,Charlie Luck,Luck Stone / Dryden Oil (Charlie Luck),Oldsmobile,197.0,3200.0,running,2.0,160.0
+1985,26,Rockingham,5.0,4.0,32.0,Dale Jarrett,Busch / T & S (Horace Isenhower),Oldsmobile,197.0,2300.0,running,0.0,155.0
+1985,26,Rockingham,6.0,8.0,0.0,Jimmy Hensley,Thomas Brothers Country Hams (Howard Thomas),Oldsmobile,197.0,3600.0,running,0.0,150.0
+1985,26,Rockingham,7.0,14.0,44.0,Rick Mast,"A.G. Dillard (Alan Dillard, Jr.)",Pontiac,197.0,1700.0,running,0.0,146.0
+1985,26,Rockingham,8.0,27.0,51.0,Robert Ingram,Hall Pontiac,Pontiac,197.0,1500.0,running,0.0,142.0
+1985,26,Rockingham,9.0,20.0,65.0,Ken Bouchard,Universal Auto Salvage (M.J. Sullivan),Pontiac,197.0,900.0,running,0.0,138.0
+1985,26,Rockingham,10.0,3.0,11.0,Jack Ingram,Pantry / Skoal Bandit (Jack Ingram),Oldsmobile,196.0,2775.0,running,0.0,134.0
+1985,26,Rockingham,11.0,29.0,27.0,Bosco Lowe,Ryder's Floor Store (Edgar Ryder),Pontiac,196.0,1170.0,running,0.0,130.0
+1985,26,Rockingham,12.0,22.0,98.0,Larry Pollard,Anderson & Webb Trucking (Anderson / Webb),Pontiac,195.0,1150.0,running,0.0,127.0
+1985,26,Rockingham,13.0,17.0,4.0,Eddie Falk,Falk Auto (Eddie Falk),Pontiac,194.0,1125.0,running,0.0,124.0
+1985,26,Rockingham,14.0,13.0,50.0,Allan Powell,Cox Racing (Marion Cox),Ford,192.0,700.0,running,0.0,121.0
+1985,26,Rockingham,15.0,10.0,75.0,Brad Teague,Food Country USA (Charlie Henderson),Pontiac,192.0,1075.0,running,0.0,118.0
+1985,26,Rockingham,16.0,15.0,14.0,Ronnie Silver,Coors Light (Ronnie Silver),Oldsmobile,187.0,2550.0,engine,0.0,115.0
+1985,26,Rockingham,17.0,36.0,93.0,Dickie Linville,Expresso / Graham Piping,Pontiac,187.0,1000.0,running,0.0,112.0
+1985,26,Rockingham,18.0,2.0,21.0,Larry Pearson,Chattanooga Chew (David Pearson),Chevrolet,183.0,2725.0,rear end,75.0,109.0
+1985,26,Rockingham,19.0,30.0,67.0,Jimmy Spencer,Spencer Racing (Frank Cicci),Pontiac,183.0,550.0,running,0.0,106.0
+1985,26,Rockingham,20.0,32.0,82.0,Larry Walker,Walker Upholstery (Larry Walker),Pontiac,174.0,525.0,crash,0.0,103.0
+1985,26,Rockingham,21.0,34.0,40.0,Ricky Vanadore,Sullivan Motor,Buick,154.0,450.0,engine,0.0,100.0
+1985,26,Rockingham,22.0,25.0,2.0,Jeff Hensley,Flute's Sheetmetal,Oldsmobile,146.0,825.0,engine,0.0,97.0
+1985,26,Rockingham,23.0,33.0,71.0,Benny Kerley,Maxie's Vending,Pontiac,141.0,420.0,oil pressure,0.0,94.0
+1985,26,Rockingham,24.0,19.0,4.0,Joe Thurman,Davis Racing (Johnny Davis),Pontiac,131.0,815.0,engine,0.0,91.0
+1985,26,Rockingham,25.0,31.0,78.0,John Linville,Robert's Used Cars (Johnny Talley),Oldsmobile,121.0,810.0,engine,0.0,88.0
+1985,26,Rockingham,26.0,24.0,24.0,Rodney Howard,Thackston's Garage (Marvin Thackston),Ford,120.0,405.0,engine,0.0,85.0
+1985,26,Rockingham,27.0,28.0,2.0,Kirk Bryant,Spectrum Furniture,Pontiac,102.0,400.0,engine,0.0,82.0
+1985,26,Rockingham,28.0,18.0,58.0,Merv Treichler,Genesee Truck Sales (John Jackson),Oldsmobile,101.0,395.0,crash,0.0,79.0
+1985,26,Rockingham,29.0,23.0,20.0,Brett Hearn,"Purnell-Jarvis, Ltd.",Pontiac,66.0,390.0,crash,0.0,0.0
+1985,26,Rockingham,30.0,7.0,22.0,Bobby Allison,"Miller American (Alan Dillard, Jr.)",Buick,54.0,385.0,engine,0.0,73.0
+1985,26,Rockingham,31.0,16.0,7.0,Morgan Shepherd,Whitaker Racing (Ed Whitaker),Oldsmobile,37.0,380.0,crash,0.0,70.0
+1985,26,Rockingham,32.0,11.0,36.0,Joe Kelly,Kelly Builders (Joe Kelly),Pontiac,33.0,775.0,running,0.0,67.0
+1985,26,Rockingham,33.0,9.0,43.0,Kenny Burks,Burks Hauling,Pontiac,31.0,370.0,crash,0.0,64.0
+1985,26,Rockingham,34.0,5.0,60.0,Ed Berrier,Horton Distributing (Max Berrier),Pontiac,20.0,465.0,engine,0.0,61.0
+1985,26,Rockingham,35.0,26.0,55.0,Rodney Foushee,Billy The Kid Racing (Rodney Foushee),Oldsmobile,11.0,360.0,crash,0.0,58.0
+1985,26,Rockingham,36.0,35.0,25.0,Heywood Jacobs,Quality Plumbing,Pontiac,2.0,350.0,crash,0.0,0.0
+1985,27,Martinsville,1.0,6.0,12.0,Tommy Ellis,Freedlander,Pontiac,200.0,10250.0,running,162.0,180.0
+1985,27,Martinsville,2.0,5.0,21.0,Larry Pearson,Chattanooga Chew (David Pearson),Pontiac,200.0,5050.0,running,0.0,170.0
+1985,27,Martinsville,3.0,2.0,0.0,Jimmy Hensley,Thomas Brothers Country Hams (Howard Thomas),Oldsmobile,200.0,3605.0,running,0.0,165.0
+1985,27,Martinsville,4.0,9.0,6.0,Tommy Houston,Southern Biscuit Flour (Mike Day),Buick,200.0,2860.0,running,0.0,160.0
+1985,27,Martinsville,5.0,13.0,11.0,Jack Ingram,Pantry / Skoal Bandit (Jack Ingram),Pontiac,200.0,2750.0,running,0.0,155.0
+1985,27,Martinsville,6.0,12.0,4.0,Joe Thurman,Ryder's Floor Store (Johnny Davis),Pontiac,200.0,1780.0,running,0.0,150.0
+1985,27,Martinsville,7.0,16.0,10.0,L.D. Ottinger,All-Pro Auto Parts (C.B. Gwyn),Pontiac,199.0,1420.0,running,0.0,146.0
+1985,27,Martinsville,8.0,19.0,3.0,Mike Porter,Wendy's,Pontiac,199.0,1070.0,running,0.0,0.0
+1985,27,Martinsville,9.0,31.0,2.0,Jeff Hensley,Flute's Sheetmetal,Pontiac,198.0,1350.0,running,0.0,138.0
+1985,27,Martinsville,10.0,11.0,14.0,Ronnie Silver,Coors Light (Ronnie Silver),Pontiac,198.0,2345.0,running,0.0,134.0
+1985,27,Martinsville,11.0,27.0,62.0,John Linville,Batton Computers (John Linville),Pontiac,198.0,1330.0,running,0.0,130.0
+1985,27,Martinsville,12.0,7.0,45.0,Charlie Luck,Luck Stone / Dryden Oil (Charlie Luck),Oldsmobile,198.0,1280.0,running,0.0,127.0
+1985,27,Martinsville,13.0,22.0,99.0,Wayne Patterson,Nelson Building Supply,Pontiac,198.0,1035.0,running,0.0,124.0
+1985,27,Martinsville,14.0,17.0,16.0,Jimmy Lawson,Lawson-Fitzgerald Garage,Pontiac,197.0,1240.0,running,0.0,121.0
+1985,27,Martinsville,15.0,32.0,27.0,Bosco Lowe,Ryder's Floor Store (Edgar Ryder),Pontiac,197.0,1245.0,running,0.0,118.0
+1985,27,Martinsville,16.0,15.0,51.0,Robert Ingram,Hall Pontiac,Pontiac,193.0,1200.0,ignition,0.0,115.0
+1985,27,Martinsville,17.0,26.0,81.0,Bobby Labonte,Hayes Jewelers (Bob Labonte),Chevrolet,190.0,920.0,running,0.0,0.0
+1985,27,Martinsville,18.0,21.0,98.0,Larry Pollard,A & W Trucking (Anderson / Webb),Pontiac,171.0,1235.0,engine,0.0,109.0
+1985,27,Martinsville,19.0,3.0,32.0,Dale Jarrett,Busch / T & S (Horace Isenhower),Oldsmobile,159.0,1140.0,running,0.0,106.0
+1985,27,Martinsville,20.0,14.0,42.0,Elton Sawyer,Rheem Heat & Air (Bill Lewis),Pontiac,152.0,820.0,engine,0.0,103.0
+1985,27,Martinsville,21.0,10.0,75.0,Brad Teague,Food Country USA (Charlie Henderson),Pontiac,135.0,1100.0,engine,0.0,100.0
+1985,27,Martinsville,22.0,25.0,9.0,Bob Shreeves,Hudson's Exxon (Bob Shreeves),Pontiac,124.0,920.0,rear end,0.0,97.0
+1985,27,Martinsville,23.0,23.0,47.0,Ron Bouchard,Race Hill Farm (Jack Beebe),Buick,118.0,1060.0,brakes,0.0,0.0
+1985,27,Martinsville,24.0,28.0,7.0,Tony Hulin,Hunt Tire,Pontiac,107.0,770.0,engine,0.0,91.0
+1985,27,Martinsville,25.0,8.0,4.0,Eddie Falk,Falk Auto (Eddie Falk),Pontiac,79.0,1020.0,engine,0.0,88.0
+1985,27,Martinsville,26.0,24.0,1.0,Dickie Boswell,Bob Banning,Pontiac,71.0,1050.0,engine,0.0,85.0
+1985,27,Martinsville,27.0,1.0,5.0,Brett Bodine,Levi Garrett / Exxon (Rick Hendrick),Pontiac,50.0,1230.0,brakes,38.0,82.0
+1985,27,Martinsville,28.0,20.0,41.0,Jack Bland,Henderson Drywall,Pontiac,40.0,660.0,overheating,0.0,79.0
+1985,27,Martinsville,29.0,29.0,64.0,Daryl Lacks,Lacks Auto Service,Pontiac,38.0,665.0,engine,0.0,76.0
+1985,27,Martinsville,30.0,18.0,5.0,Paul Radford,Advance Auto Parts,Pontiac,25.0,620.0,engine,0.0,0.0
+1985,27,Martinsville,31.0,30.0,80.0,Tommy Wood,Vinton Foodette,Pontiac,11.0,645.0,engine,0.0,70.0
+1985,27,Martinsville,32.0,4.0,22.0,Rick Mast,"A.G. Dillard (Alan Dillard, Jr.)",Pontiac,3.0,920.0,crash,0.0,67.0

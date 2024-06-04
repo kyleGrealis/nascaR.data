@@ -1,0 +1,1549 @@
+Season,Race,Track,Pos,St,#,Driver,Sponsor / Owner,Car,Laps,Money,Status,Led,Pts
+2007,1,Daytona,1.0,34.0,29.0,Kevin Harvick,Shell / Pennzoil (Richard Childress),Chevrolet,202.0,1510469.0,running,4.0,190.0
+2007,1,Daytona,2.0,26.0,1.0,Mark Martin,U.S. Army (Bobby Ginn),Chevrolet,202.0,1102258.0,running,26.0,175.0
+2007,1,Daytona,3.0,7.0,31.0,Jeff Burton,Cingular Wireless (Richard Childress),Chevrolet,202.0,819216.0,running,0.0,165.0
+2007,1,Daytona,4.0,22.0,9.0,Mike Wallace,Miccosukee Resorts (James Finch),Chevrolet,202.0,615658.0,running,0.0,160.0
+2007,1,Daytona,5.0,35.0,6.0,David Ragan,AAA (Jack Roush),Ford,202.0,529350.0,running,0.0,155.0
+2007,1,Daytona,6.0,30.0,19.0,Elliott Sadler,Dodge Dealers / UAW (Ray Evernham),Dodge,202.0,407153.0,running,0.0,125.0
+2007,1,Daytona,7.0,28.0,9.0,Kasey Kahne,Dodge Dealers / UAW (Ray Evernham),Dodge,202.0,386074.0,running,0.0,96.0
+2007,1,Daytona,8.0,1.0,38.0,David Gilliland,M&M's (Yates Racing),Ford,202.0,374764.0,running,18.0,147.0
+2007,1,Daytona,9.0,18.0,13.0,Joe Nemechek,CertainTeed / Ginn Resorts (Bobby Ginn),Chevrolet,202.0,302008.0,running,0.0,138.0
+2007,1,Daytona,10.0,42.0,24.0,Jeff Gordon,DuPont (Rick Hendrick),Chevrolet,202.0,371679.0,running,0.0,134.0
+2007,1,Daytona,11.0,6.0,40.0,David Stremme,Coors Light (Chip Ganassi),Dodge,202.0,294758.0,running,0.0,130.0
+2007,1,Daytona,12.0,12.0,18.0,J.J. Yeley,Interstate Batteries (Joe Gibbs),Chevrolet,202.0,308541.0,running,0.0,127.0
+2007,1,Daytona,13.0,33.0,41.0,Reed Sorenson,Target (Chip Ganassi),Dodge,202.0,280657.0,running,0.0,124.0
+2007,1,Daytona,14.0,23.0,60.0,Boris Said,SOBE No Fear Energy Drink (Mark Simo),Ford,202.0,265375.0,running,0.0,121.0
+2007,1,Daytona,15.0,39.0,7.0,Robby Gordon,Jim Beam (Robby Gordon),Ford,202.0,268475.0,running,0.0,118.0
+2007,1,Daytona,16.0,41.0,70.0,Johnny Sauter,Yellow Transportation / Haas (Gene Haas),Chevrolet,202.0,262675.0,running,0.0,115.0
+2007,1,Daytona,17.0,38.0,14.0,Sterling Marlin,Waste Management (Bobby Ginn),Chevrolet,202.0,266483.0,running,0.0,112.0
+2007,1,Daytona,18.0,11.0,7.0,Clint Bowyer,Jack Daniel's (Richard Childress),Chevrolet,202.0,275500.0,running,0.0,109.0
+2007,1,Daytona,19.0,36.0,42.0,Juan Pablo Montoya,Texaco / Havoline (Chip Ganassi),Dodge,202.0,299483.0,running,0.0,106.0
+2007,1,Daytona,20.0,17.0,25.0,Casey Mears,National Guard / GMAC (Rick Hendrick),Chevrolet,202.0,275225.0,running,0.0,103.0
+2007,1,Daytona,21.0,27.0,43.0,Bobby Labonte,Cheerios / Betty Crocker (Petty Enterprises),Dodge,202.0,300436.0,running,0.0,100.0
+2007,1,Daytona,22.0,43.0,44.0,Dale Jarrett,UPS (Michael Waltrip),Toyota,202.0,259575.0,running,0.0,97.0
+2007,1,Daytona,23.0,14.0,99.0,Carl Edwards,Office Depot (Jack Roush),Ford,202.0,273383.0,running,0.0,94.0
+2007,1,Daytona,24.0,8.0,5.0,Kyle Busch,Carquest / Kellogg's (Rick Hendrick),Chevrolet,202.0,276858.0,running,4.0,96.0
+2007,1,Daytona,25.0,25.0,16.0,Greg Biffle,Ameriquest (Jack Roush),Ford,202.0,276075.0,running,0.0,88.0
+2007,1,Daytona,26.0,2.0,88.0,Ricky Rudd,Snickers (Yates Racing),Ford,202.0,293091.0,running,0.0,85.0
+2007,1,Daytona,27.0,10.0,17.0,Matt Kenseth,DeWalt (Jack Roush),Ford,202.0,309099.0,running,6.0,37.0
+2007,1,Daytona,28.0,9.0,11.0,Denny Hamlin,FedEx Express (Joe Gibbs),Chevrolet,201.0,279175.0,running,0.0,79.0
+2007,1,Daytona,29.0,13.0,1.0,Martin Truex Jr,"Bass Pro Shops / Tracker Boats (Dale Earnhardt, Inc.)",Chevrolet,201.0,290820.0,running,13.0,81.0
+2007,1,Daytona,30.0,15.0,55.0,Michael Waltrip,NAPA Auto Parts (Michael Waltrip),Toyota,200.0,258050.0,running,0.0,-27.0
+2007,1,Daytona,31.0,24.0,26.0,Jamie McMurray,Crown Royal (Jack Roush),Ford,195.0,265058.0,crash,0.0,70.0
+2007,1,Daytona,32.0,5.0,8.0,"Dale Earnhardt, Jr.","Budweiser (Dale Earnhardt, Inc.)",Chevrolet,195.0,315733.0,crash,0.0,67.0
+2007,1,Daytona,33.0,20.0,96.0,Tony Raines,DLP HDTV (Bill Saunders),Chevrolet,195.0,262583.0,running,0.0,64.0
+2007,1,Daytona,34.0,37.0,22.0,Dave Blaney,Caterpillar (Bill Davis),Toyota,186.0,259900.0,parked,0.0,61.0
+2007,1,Daytona,35.0,19.0,21.0,Ken Schrader,Little Debbie Snack Cakes (Wood Brothers),Ford,185.0,271189.0,crash,0.0,58.0
+2007,1,Daytona,36.0,31.0,66.0,Jeff Green,Best Buy / Haas Automation (Gene Haas),Chevrolet,181.0,259025.0,running,0.0,55.0
+2007,1,Daytona,37.0,32.0,10.0,Scott Riggs,Valvoline / Stanley Tools (James Rocco),Dodge,179.0,259158.0,running,0.0,27.0
+2007,1,Daytona,38.0,16.0,12.0,Ryan Newman,Alltel (Roger Penske),Dodge,175.0,283233.0,engine,1.0,54.0
+2007,1,Daytona,39.0,21.0,48.0,Jimmie Johnson,Lowe's (Rick Hendrick),Chevrolet,173.0,298886.0,crash,0.0,46.0
+2007,1,Daytona,40.0,40.0,0.0,David Reutimann,Domino's (Michael Waltrip),Toyota,173.0,249583.0,crash,0.0,43.0
+2007,1,Daytona,41.0,4.0,2.0,Kurt Busch,Miller Lite (Roger Penske),Dodge,166.0,300816.0,running,95.0,50.0
+2007,1,Daytona,42.0,29.0,45.0,Kyle Petty,Wells Fargo (Petty Enterprises),Dodge,160.0,248050.0,running,0.0,37.0
+2007,1,Daytona,43.0,3.0,20.0,Tony Stewart,The Home Depot (Joe Gibbs),Chevrolet,152.0,334931.0,crash,35.0,39.0
+2007,2,Fontana,1.0,25.0,17.0,Matt Kenseth,Carhartt / DeWalt (Jack Roush),Ford,250.0,342316.0,running,133.0,195.0
+2007,2,Fontana,2.0,1.0,24.0,Jeff Gordon,DuPont Cromax Pro (Rick Hendrick),Chevrolet,250.0,249011.0,running,2.0,175.0
+2007,2,Fontana,3.0,23.0,48.0,Jimmie Johnson,Lowe's (Rick Hendrick),Chevrolet,250.0,212811.0,running,31.0,170.0
+2007,2,Fontana,4.0,8.0,31.0,Jeff Burton,Cingular Wireless (Richard Childress),Chevrolet,250.0,173441.0,running,18.0,165.0
+2007,2,Fontana,5.0,3.0,1.0,Mark Martin,U.S. Army (Bobby Ginn),Chevrolet,250.0,171708.0,running,1.0,160.0
+2007,2,Fontana,6.0,6.0,7.0,Clint Bowyer,Jack Daniel's (Richard Childress),Chevrolet,250.0,119875.0,running,2.0,155.0
+2007,2,Fontana,7.0,18.0,2.0,Kurt Busch,Miller Lite (Roger Penske),Dodge,250.0,140583.0,running,0.0,146.0
+2007,2,Fontana,8.0,11.0,20.0,Tony Stewart,Home Depot (Joe Gibbs),Chevrolet,250.0,148161.0,running,28.0,147.0
+2007,2,Fontana,9.0,12.0,5.0,Kyle Busch,Carquest / Kellogg's (Rick Hendrick),Chevrolet,250.0,109525.0,running,9.0,143.0
+2007,2,Fontana,10.0,15.0,83.0,Brian Vickers,Red Bull (Dietrich Mateschitz),Toyota,250.0,94400.0,running,0.0,134.0
+2007,2,Fontana,11.0,17.0,11.0,Denny Hamlin,FedEx Freight (Joe Gibbs),Chevrolet,250.0,116800.0,running,0.0,130.0
+2007,2,Fontana,12.0,19.0,12.0,Ryan Newman,Mobil 1 (Roger Penske),Dodge,250.0,128275.0,running,0.0,127.0
+2007,2,Fontana,13.0,29.0,18.0,J.J. Yeley,Interstate Batteries (Joe Gibbs),Chevrolet,250.0,124958.0,running,0.0,124.0
+2007,2,Fontana,14.0,26.0,13.0,Joe Nemechek,CertainTeed / Ginn Resorts (Bobby Ginn),Chevrolet,250.0,90450.0,running,0.0,121.0
+2007,2,Fontana,15.0,13.0,16.0,Greg Biffle,Ameriquest (Jack Roush),Ford,250.0,108400.0,running,2.0,123.0
+2007,2,Fontana,16.0,39.0,6.0,David Ragan,AAA Insurance Southern California (Jack Roush),Ford,250.0,130075.0,running,0.0,115.0
+2007,2,Fontana,17.0,4.0,29.0,Kevin Harvick,Shell / Pennzoil (Richard Childress),Chevrolet,250.0,136786.0,running,3.0,117.0
+2007,2,Fontana,18.0,31.0,70.0,Johnny Sauter,Best Buy / Yellow Transportation (Gene Haas),Chevrolet,249.0,87450.0,running,0.0,109.0
+2007,2,Fontana,19.0,24.0,40.0,David Stremme,Coors Light (Chip Ganassi),Dodge,249.0,90850.0,running,0.0,106.0
+2007,2,Fontana,20.0,22.0,15.0,Paul Menard,"Menards / Quaker State (Dale Earnhardt, Inc.)",Chevrolet,249.0,87850.0,running,0.0,103.0
+2007,2,Fontana,21.0,42.0,7.0,Robby Gordon,Jim Beam (Robby Gordon),Ford,249.0,90700.0,running,0.0,100.0
+2007,2,Fontana,22.0,37.0,45.0,Kyle Petty,Wells Fargo (Petty Enterprises),Dodge,249.0,104908.0,running,1.0,102.0
+2007,2,Fontana,23.0,41.0,96.0,Tony Raines,DLP HDTV (Bill Saunders),Chevrolet,249.0,99500.0,running,0.0,94.0
+2007,2,Fontana,24.0,38.0,19.0,Elliott Sadler,Dodge Dealers / UAW (Ray Evernham),Dodge,248.0,105670.0,running,0.0,91.0
+2007,2,Fontana,25.0,40.0,38.0,David Gilliland,M&M's (Yates Racing),Ford,248.0,114314.0,running,0.0,88.0
+2007,2,Fontana,26.0,9.0,42.0,Juan Pablo Montoya,Texaco / Havoline (Chip Ganassi),Dodge,248.0,120475.0,running,0.0,85.0
+2007,2,Fontana,27.0,34.0,88.0,Ricky Rudd,Snickers (Yates Racing),Ford,248.0,116233.0,running,0.0,82.0
+2007,2,Fontana,28.0,28.0,43.0,Bobby Labonte,Cheerios / Betty Crocker (Petty Enterprises),Dodge,248.0,121436.0,running,0.0,79.0
+2007,2,Fontana,29.0,21.0,99.0,Carl Edwards,Office Depot / SBON (Jack Roush),Ford,247.0,92200.0,running,0.0,76.0
+2007,2,Fontana,30.0,16.0,66.0,Jeff Green,Yellow Transportation (Gene Haas),Chevrolet,247.0,106608.0,running,0.0,73.0
+2007,2,Fontana,31.0,10.0,25.0,Casey Mears,National Guard / GMAC (Rick Hendrick),Chevrolet,246.0,91275.0,running,0.0,70.0
+2007,2,Fontana,32.0,43.0,44.0,Dale Jarrett,UPS (Michael Waltrip),Toyota,246.0,80575.0,running,0.0,67.0
+2007,2,Fontana,33.0,33.0,0.0,David Reutimann,Domino's (Michael Waltrip),Toyota,239.0,92958.0,crash,0.0,64.0
+2007,2,Fontana,34.0,32.0,37.0,John Andretti,Camping World (Bob Jenkins),Dodge,220.0,80150.0,electrical,0.0,61.0
+2007,2,Fontana,35.0,27.0,14.0,Sterling Marlin,Panasonic (Bobby Ginn),Chevrolet,198.0,89472.0,electrical,0.0,58.0
+2007,2,Fontana,36.0,36.0,21.0,Ken Schrader,Little Debbie Snack Cakes (Wood Brothers),Ford,160.0,98989.0,engine,0.0,55.0
+2007,2,Fontana,37.0,35.0,26.0,Jamie McMurray,Crown Royal (Jack Roush),Ford,134.0,87550.0,running,0.0,52.0
+2007,2,Fontana,38.0,2.0,9.0,Kasey Kahne,Dodge Dealers / UAW (Ray Evernham),Dodge,129.0,137991.0,engine,20.0,54.0
+2007,2,Fontana,39.0,14.0,22.0,Dave Blaney,Caterpillar (Bill Davis),Toyota,112.0,87180.0,engine,0.0,46.0
+2007,2,Fontana,40.0,5.0,8.0,"Dale Earnhardt, Jr.","Budweiser (Dale Earnhardt, Inc.)",Chevrolet,74.0,124433.0,engine,0.0,43.0
+2007,2,Fontana,41.0,30.0,10.0,Scott Riggs,Stanley Tools / Valvoline (James Rocco),Dodge,16.0,86900.0,crash,0.0,40.0
+2007,2,Fontana,42.0,7.0,1.0,Martin Truex Jr,"Bass Pro Shops (Dale Earnhardt, Inc.)",Chevrolet,14.0,105155.0,engine,0.0,37.0
+2007,2,Fontana,43.0,20.0,41.0,Reed Sorenson,Target / Energizer (Chip Ganassi),Dodge,7.0,86963.0,crash,0.0,34.0
+2007,3,Las Vegas,1.0,23.0,48.0,Jimmie Johnson,Lowe's (Rick Hendrick),Chevrolet,267.0,415386.0,running,89.0,190.0
+2007,3,Las Vegas,2.0,36.0,24.0,Jeff Gordon,DuPont / Nicorette (Rick Hendrick),Chevrolet,267.0,287011.0,running,111.0,180.0
+2007,3,Las Vegas,3.0,17.0,11.0,Denny Hamlin,FedEx / Kinko's (Joe Gibbs),Chevrolet,267.0,212225.0,running,0.0,165.0
+2007,3,Las Vegas,4.0,37.0,17.0,Matt Kenseth,DeWalt (Jack Roush),Ford,267.0,208941.0,running,1.0,165.0
+2007,3,Las Vegas,5.0,14.0,1.0,Mark Martin,U.S. Army (Bobby Ginn),Chevrolet,267.0,180783.0,running,15.0,160.0
+2007,3,Las Vegas,6.0,13.0,99.0,Carl Edwards,Office Depot (Jack Roush),Ford,267.0,128625.0,running,3.0,155.0
+2007,3,Las Vegas,7.0,25.0,20.0,Tony Stewart,Home Depot (Joe Gibbs),Chevrolet,267.0,158436.0,running,0.0,146.0
+2007,3,Las Vegas,8.0,39.0,12.0,Ryan Newman,Alltel (Roger Penske),Dodge,267.0,143225.0,running,1.0,147.0
+2007,3,Las Vegas,9.0,12.0,5.0,Kyle Busch,Kellogg's / Carquest (Rick Hendrick),Chevrolet,267.0,116250.0,running,4.0,143.0
+2007,3,Las Vegas,10.0,33.0,26.0,Jamie McMurray,Crown Royal (Jack Roush),Ford,267.0,117825.0,running,0.0,134.0
+2007,3,Las Vegas,11.0,28.0,8.0,"Dale Earnhardt, Jr.","Budweiser (Dale Earnhardt, Inc.)",Chevrolet,267.0,144233.0,running,1.0,135.0
+2007,3,Las Vegas,12.0,26.0,1.0,Martin Truex Jr,"Bass Pro Shops (Dale Earnhardt, Inc.)",Chevrolet,267.0,128170.0,running,2.0,132.0
+2007,3,Las Vegas,13.0,42.0,43.0,Bobby Labonte,Cheerios / Betty Crocker (Petty Enterprises),Dodge,267.0,138461.0,running,3.0,129.0
+2007,3,Las Vegas,14.0,3.0,19.0,Elliott Sadler,Dodge Dealers / UAW (Ray Evernham),Dodge,267.0,125170.0,running,17.0,126.0
+2007,3,Las Vegas,15.0,5.0,31.0,Jeff Burton,Cingular Wireless (Richard Childress),Chevrolet,267.0,135716.0,running,4.0,123.0
+2007,3,Las Vegas,16.0,18.0,16.0,Greg Biffle,Ameriquest / 3M (Jack Roush),Ford,266.0,111575.0,running,0.0,115.0
+2007,3,Las Vegas,17.0,38.0,7.0,Robby Gordon,Robby Gordon Motorsports (Robby Gordon),Ford,266.0,96375.0,running,0.0,112.0
+2007,3,Las Vegas,18.0,24.0,18.0,J.J. Yeley,Interstate Batteries (Joe Gibbs),Chevrolet,266.0,123183.0,running,1.0,114.0
+2007,3,Las Vegas,19.0,27.0,96.0,Tony Raines,DLP HDTV (Bill Saunders),Chevrolet,266.0,104675.0,running,0.0,106.0
+2007,3,Las Vegas,20.0,2.0,40.0,David Stremme,Coors Light (Chip Ganassi),Dodge,266.0,95925.0,running,0.0,103.0
+2007,3,Las Vegas,21.0,21.0,38.0,David Gilliland,M&M's (Yates Racing),Ford,265.0,119189.0,running,0.0,100.0
+2007,3,Las Vegas,22.0,4.0,42.0,Juan Pablo Montoya,Texaco / Havoline (Chip Ganassi),Dodge,265.0,126950.0,running,0.0,97.0
+2007,3,Las Vegas,23.0,6.0,10.0,Scott Riggs,Auto Value / Bumper to Bumper (James Rocco),Dodge,265.0,98725.0,running,0.0,94.0
+2007,3,Las Vegas,24.0,15.0,78.0,Kenny Wallace,Furniture Row (Barney Visser),Chevrolet,265.0,85550.0,running,0.0,91.0
+2007,3,Las Vegas,25.0,29.0,66.0,Jeff Green,Samsung Four Seasons of Hope (Gene Haas),Chevrolet,265.0,112308.0,running,0.0,88.0
+2007,3,Las Vegas,26.0,10.0,2.0,Kurt Busch,Miller Lite (Roger Penske),Dodge,265.0,120708.0,running,0.0,85.0
+2007,3,Las Vegas,27.0,20.0,29.0,Kevin Harvick,Shell / Pennzoil (Richard Childress),Chevrolet,265.0,131286.0,running,0.0,82.0
+2007,3,Las Vegas,28.0,22.0,45.0,Kyle Petty,Wells Fargo (Petty Enterprises),Dodge,265.0,98708.0,running,0.0,79.0
+2007,3,Las Vegas,29.0,41.0,21.0,Jon Wood,U.S. Air Force (Wood Brothers),Ford,264.0,104064.0,running,0.0,76.0
+2007,3,Las Vegas,30.0,40.0,88.0,Ricky Rudd,Snickers (Yates Racing),Ford,264.0,112608.0,running,0.0,73.0
+2007,3,Las Vegas,31.0,7.0,41.0,Reed Sorenson,Target (Chip Ganassi),Dodge,263.0,100533.0,running,0.0,70.0
+2007,3,Las Vegas,32.0,19.0,15.0,Paul Menard,"Menards / Johns Manville (Dale Earnhardt, Inc.)",Chevrolet,263.0,80675.0,running,0.0,67.0
+2007,3,Las Vegas,33.0,43.0,44.0,Dale Jarrett,UPS (Michael Waltrip),Toyota,263.0,81425.0,running,0.0,64.0
+2007,3,Las Vegas,34.0,8.0,14.0,Sterling Marlin,Waste Management (Bobby Ginn),Chevrolet,251.0,89822.0,engine,1.0,66.0
+2007,3,Las Vegas,35.0,1.0,9.0,Kasey Kahne,McDonald's / Dodge Dealers / UAW (Ray Evernham),Dodge,251.0,138741.0,crash,13.0,63.0
+2007,3,Las Vegas,36.0,16.0,7.0,Clint Bowyer,Jack Daniel's (Richard Childress),Chevrolet,239.0,87850.0,running,1.0,60.0
+2007,3,Las Vegas,37.0,35.0,6.0,David Ragan,AAA (Jack Roush),Ford,236.0,115450.0,running,0.0,52.0
+2007,3,Las Vegas,38.0,9.0,13.0,Joe Nemechek,CertainTeed (Bobby Ginn),Chevrolet,156.0,79425.0,crash,0.0,49.0
+2007,3,Las Vegas,39.0,32.0,70.0,Johnny Sauter,Yellow Transportation (Gene Haas),Chevrolet,147.0,79225.0,running,0.0,46.0
+2007,3,Las Vegas,40.0,34.0,25.0,Casey Mears,National Guard / GMAC (Rick Hendrick),Chevrolet,141.0,86975.0,running,0.0,43.0
+2007,3,Las Vegas,41.0,31.0,80.0,Aric Almirola,Joe Gibbs Driven (Joe Gibbs),Chevrolet,46.0,78775.0,crash,0.0,40.0
+2007,3,Las Vegas,42.0,11.0,22.0,Dave Blaney,Caterpillar (Bill Davis),Toyota,17.0,86630.0,crash,0.0,37.0
+2007,3,Las Vegas,43.0,30.0,4.0,Ward Burton,State Water Heaters (Larry McClure),Chevrolet,15.0,79452.0,crash,0.0,34.0
+2007,4,Atlanta,1.0,3.0,48.0,Jimmie Johnson,Lowe's / Kobalt Tools (Rick Hendrick),Chevrolet,325.0,233261.0,running,135.0,195.0
+2007,4,Atlanta,2.0,13.0,20.0,Tony Stewart,The Home Depot (Joe Gibbs),Chevrolet,325.0,165461.0,running,121.0,175.0
+2007,4,Atlanta,3.0,21.0,17.0,Matt Kenseth,DeWalt (Jack Roush),Ford,325.0,145016.0,running,11.0,170.0
+2007,4,Atlanta,4.0,32.0,31.0,Jeff Burton,Cingular Wireless (Richard Childress),Chevrolet,325.0,134516.0,running,2.0,165.0
+2007,4,Atlanta,5.0,16.0,42.0,Juan Pablo Montoya,Texaco / Havoline (Chip Ganassi),Dodge,325.0,126200.0,running,0.0,155.0
+2007,4,Atlanta,6.0,15.0,7.0,Clint Bowyer,DirecTV Hot Pass (Richard Childress),Chevrolet,325.0,87925.0,running,2.0,155.0
+2007,4,Atlanta,7.0,14.0,99.0,Carl Edwards,Office Depot (Jack Roush),Ford,325.0,86625.0,running,0.0,146.0
+2007,4,Atlanta,8.0,18.0,1.0,Martin Truex Jr,"Bass Pro Shops / Tracker Boats (Dale Earnhardt, Inc.)",Chevrolet,325.0,109520.0,running,0.0,142.0
+2007,4,Atlanta,9.0,11.0,41.0,Reed Sorenson,Target (Chip Ganassi),Dodge,325.0,104433.0,running,1.0,143.0
+2007,4,Atlanta,10.0,4.0,1.0,Mark Martin,U.S. Army (Bobby Ginn),Chevrolet,325.0,112183.0,running,0.0,134.0
+2007,4,Atlanta,11.0,17.0,2.0,Kurt Busch,Miller Lite (Roger Penske),Dodge,325.0,110408.0,running,14.0,135.0
+2007,4,Atlanta,12.0,5.0,24.0,Jeff Gordon,DuPont (Rick Hendrick),Chevrolet,325.0,118561.0,running,30.0,132.0
+2007,4,Atlanta,13.0,7.0,40.0,David Stremme,Coors Light (Chip Ganassi),Dodge,325.0,75875.0,running,0.0,124.0
+2007,4,Atlanta,14.0,22.0,8.0,"Dale Earnhardt, Jr.","Budweiser (Dale Earnhardt, Inc.)",Chevrolet,325.0,116133.0,running,0.0,121.0
+2007,4,Atlanta,15.0,37.0,26.0,Jamie McMurray,Irwin Industrial Tools (Jack Roush),Ford,325.0,83475.0,running,0.0,118.0
+2007,4,Atlanta,16.0,6.0,43.0,Bobby Labonte,Cheerios / Betty Crocker (Petty Enterprises),Dodge,325.0,110911.0,running,1.0,120.0
+2007,4,Atlanta,17.0,19.0,13.0,Joe Nemechek,Ginn Resorts (Bobby Ginn),Chevrolet,325.0,70075.0,running,0.0,112.0
+2007,4,Atlanta,18.0,2.0,19.0,Elliott Sadler,Dodge Dealers / UAW (Ray Evernham),Dodge,325.0,92670.0,running,1.0,114.0
+2007,4,Atlanta,19.0,30.0,11.0,Denny Hamlin,FedEx Ground (Joe Gibbs),Chevrolet,324.0,88650.0,running,0.0,106.0
+2007,4,Atlanta,20.0,39.0,7.0,Robby Gordon,Motorola Digital Audio Players (Robby Gordon),Ford,324.0,75725.0,running,0.0,103.0
+2007,4,Atlanta,21.0,9.0,49.0,Mike Bliss,ZoneLoans.com (Beth Ann Morgenthau),Dodge,324.0,86783.0,running,0.0,100.0
+2007,4,Atlanta,22.0,20.0,18.0,J.J. Yeley,Interstate Batteries (Joe Gibbs),Chevrolet,324.0,100233.0,running,0.0,97.0
+2007,4,Atlanta,23.0,1.0,12.0,Ryan Newman,Alltel (Roger Penske),Dodge,324.0,111000.0,running,0.0,94.0
+2007,4,Atlanta,24.0,28.0,14.0,Sterling Marlin,Panasonic Plasma HDTV (Bobby Ginn),Chevrolet,324.0,84333.0,running,0.0,91.0
+2007,4,Atlanta,25.0,36.0,29.0,Kevin Harvick,Shell / Pennzoil (Richard Childress),Chevrolet,324.0,117736.0,running,1.0,93.0
+2007,4,Atlanta,26.0,42.0,88.0,Ricky Rudd,Snickers (Yates Racing),Ford,323.0,102283.0,running,0.0,85.0
+2007,4,Atlanta,27.0,35.0,22.0,Dave Blaney,Caterpillar (Bill Davis),Toyota,323.0,88572.0,running,1.0,87.0
+2007,4,Atlanta,28.0,34.0,25.0,Casey Mears,National Guard / GMAC (Rick Hendrick),Chevrolet,323.0,78375.0,running,0.0,79.0
+2007,4,Atlanta,29.0,26.0,70.0,Johnny Sauter,Best Buy (Gene Haas),Chevrolet,323.0,67700.0,running,0.0,76.0
+2007,4,Atlanta,30.0,27.0,38.0,David Gilliland,M&M's (Yates Racing),Ford,323.0,95289.0,running,0.0,73.0
+2007,4,Atlanta,31.0,23.0,15.0,Paul Menard,"Menards / Quaker State (Dale Earnhardt, Inc.)",Chevrolet,323.0,67500.0,running,0.0,70.0
+2007,4,Atlanta,32.0,8.0,5.0,Kyle Busch,Kellogg's / Carquest (Rick Hendrick),Chevrolet,322.0,75425.0,running,0.0,67.0
+2007,4,Atlanta,33.0,38.0,6.0,David Ragan,AAA (Jack Roush),Ford,322.0,104125.0,running,0.0,64.0
+2007,4,Atlanta,34.0,40.0,45.0,Kyle Petty,National Tire & Battery (Petty Enterprises),Dodge,322.0,67275.0,running,0.0,61.0
+2007,4,Atlanta,35.0,41.0,66.0,Jeff Green,Yellow Transportation (Gene Haas),Chevrolet,322.0,75240.0,running,0.0,58.0
+2007,4,Atlanta,36.0,43.0,44.0,Dale Jarrett,UPS (Michael Waltrip),Toyota,320.0,67205.0,running,0.0,55.0
+2007,4,Atlanta,37.0,29.0,21.0,Ken Schrader,Little Debbie Snack Cakes (Wood Brothers),Ford,318.0,87384.0,running,0.0,52.0
+2007,4,Atlanta,38.0,33.0,96.0,Tony Raines,DLP HDTV (Bill Saunders),Chevrolet,318.0,75885.0,running,0.0,49.0
+2007,4,Atlanta,39.0,12.0,9.0,Kasey Kahne,Dodge Dealers / UAW (Ray Evernham),Dodge,306.0,114291.0,running,0.0,46.0
+2007,4,Atlanta,40.0,24.0,0.0,David Reutimann,Domino's (Michael Waltrip),Toyota,295.0,67060.0,running,0.0,43.0
+2007,4,Atlanta,41.0,25.0,16.0,Greg Biffle,Jackson Hewitt (Jack Roush),Ford,280.0,85015.0,running,0.0,40.0
+2007,4,Atlanta,42.0,31.0,83.0,Brian Vickers,Red Bull (Dietrich Mateschitz),Toyota,227.0,67270.0,crash,5.0,42.0
+2007,4,Atlanta,43.0,10.0,10.0,Scott Riggs,Stanley Tools / Valvoline (James Rocco),Dodge,221.0,74334.0,engine,0.0,34.0
+2007,5,Bristol,1.0,20.0,5.0,Kyle Busch,Carquest / Kellogg's (Rick Hendrick),Chevrolet,504.0,179400.0,running,29.0,190.0
+2007,5,Bristol,2.0,29.0,31.0,Jeff Burton,Cingular Wireless (Richard Childress),Chevrolet,504.0,161691.0,running,0.0,170.0
+2007,5,Bristol,3.0,1.0,24.0,Jeff Gordon,DuPont (Rick Hendrick),Chevrolet,504.0,165586.0,running,6.0,170.0
+2007,5,Bristol,4.0,40.0,29.0,Kevin Harvick,Shell / Pennzoil (Richard Childress),Chevrolet,504.0,154911.0,running,9.0,165.0
+2007,5,Bristol,5.0,11.0,16.0,Greg Biffle,Jackson Hewitt (Jack Roush),Ford,504.0,111900.0,running,0.0,155.0
+2007,5,Bristol,6.0,9.0,66.0,Jeff Green,Best Buy / Garmin (Gene Haas),Chevrolet,504.0,124383.0,running,0.0,150.0
+2007,5,Bristol,7.0,31.0,8.0,"Dale Earnhardt, Jr.","Budweiser (Dale Earnhardt, Inc.)",Chevrolet,504.0,131908.0,running,0.0,146.0
+2007,5,Bristol,8.0,18.0,7.0,Clint Bowyer,Jack Daniel's (Richard Childress),Chevrolet,504.0,98500.0,running,0.0,142.0
+2007,5,Bristol,9.0,5.0,26.0,Jamie McMurray,Crown Royal (Jack Roush),Ford,504.0,103700.0,running,0.0,138.0
+2007,5,Bristol,10.0,16.0,25.0,Casey Mears,National Guard / GMAC (Rick Hendrick),Chevrolet,504.0,101750.0,running,0.0,134.0
+2007,5,Bristol,11.0,38.0,17.0,Matt Kenseth,Arby's / DeWalt (Jack Roush),Ford,504.0,132816.0,running,0.0,130.0
+2007,5,Bristol,12.0,32.0,99.0,Carl Edwards,Office Depot (Jack Roush),Ford,504.0,96500.0,running,0.0,127.0
+2007,5,Bristol,13.0,33.0,40.0,David Stremme,Energizer / Coors Light (Chip Ganassi),Dodge,504.0,89875.0,running,0.0,124.0
+2007,5,Bristol,14.0,10.0,11.0,Denny Hamlin,FedEx Express (Joe Gibbs),Chevrolet,504.0,113750.0,running,177.0,126.0
+2007,5,Bristol,15.0,25.0,83.0,Brian Vickers,Red Bull (Dietrich Mateschitz),Toyota,504.0,83500.0,running,1.0,123.0
+2007,5,Bristol,16.0,6.0,48.0,Jimmie Johnson,Lowe's (Rick Hendrick),Chevrolet,503.0,138411.0,running,0.0,115.0
+2007,5,Bristol,17.0,19.0,49.0,Mike Bliss,Obovo.com (Beth Ann Morgenthau),Dodge,503.0,103933.0,running,0.0,112.0
+2007,5,Bristol,18.0,14.0,4.0,Ward Burton,State Water Heaters / Food City (Larry McClure),Chevrolet,502.0,85525.0,running,0.0,109.0
+2007,5,Bristol,19.0,2.0,9.0,Kasey Kahne,Dodge Dealers / UAW (Ray Evernham),Dodge,501.0,130591.0,running,0.0,106.0
+2007,5,Bristol,20.0,26.0,45.0,Kyle Petty,Marathon American Spirit Motor Oil (Petty Enterprises),Dodge,501.0,103533.0,running,0.0,103.0
+2007,5,Bristol,21.0,27.0,78.0,Kenny Wallace,Furniture Row (Barney Visser),Chevrolet,501.0,82525.0,running,0.0,100.0
+2007,5,Bristol,22.0,28.0,43.0,Bobby Labonte,Cheerios / Betty Crocker (Petty Enterprises),Dodge,501.0,123011.0,running,0.0,97.0
+2007,5,Bristol,23.0,7.0,22.0,Dave Blaney,Caterpillar (Bill Davis),Toyota,501.0,106408.0,running,0.0,94.0
+2007,5,Bristol,24.0,17.0,96.0,Tony Raines,DLP HDTV (Bill Saunders),Chevrolet,501.0,94525.0,running,0.0,91.0
+2007,5,Bristol,25.0,12.0,1.0,Regan Smith,U.S. Army (Bobby Ginn),Chevrolet,501.0,103297.0,running,0.0,88.0
+2007,5,Bristol,26.0,41.0,6.0,David Ragan,AAA (Jack Roush),Ford,501.0,122350.0,running,0.0,85.0
+2007,5,Bristol,27.0,3.0,19.0,Elliott Sadler,Dodge Dealers / UAW (Ray Evernham),Dodge,500.0,103420.0,running,5.0,87.0
+2007,5,Bristol,28.0,15.0,21.0,Ken Schrader,Little Debbie Snack Cakes (Wood Brothers),Ford,500.0,104489.0,running,0.0,79.0
+2007,5,Bristol,29.0,42.0,2.0,Kurt Busch,Miller Lite (Roger Penske),Dodge,499.0,118483.0,running,10.0,81.0
+2007,5,Bristol,30.0,21.0,14.0,Sterling Marlin,Waste Management (Bobby Ginn),Chevrolet,499.0,84475.0,running,0.0,73.0
+2007,5,Bristol,31.0,8.0,10.0,Scott Riggs,Valvoline / Stanley Tools (James Rocco),Dodge,498.0,90675.0,running,0.0,70.0
+2007,5,Bristol,32.0,36.0,42.0,Juan Pablo Montoya,Texaco / Havoline (Chip Ganassi),Dodge,497.0,114700.0,running,0.0,67.0
+2007,5,Bristol,33.0,34.0,7.0,Robby Gordon,Robby Gordon Off Road Wheels (Robby Gordon),Ford,493.0,81025.0,running,0.0,64.0
+2007,5,Bristol,34.0,23.0,36.0,Jeremy Mayfield,360 OTC (Bill Davis),Toyota,486.0,80025.0,running,1.0,66.0
+2007,5,Bristol,35.0,4.0,20.0,Tony Stewart,The Home Depot (Joe Gibbs),Chevrolet,479.0,133911.0,running,257.0,68.0
+2007,5,Bristol,36.0,37.0,18.0,J.J. Yeley,Interstate Batteries (Joe Gibbs),Chevrolet,475.0,107833.0,running,9.0,60.0
+2007,5,Bristol,37.0,13.0,1.0,Martin Truex Jr,"Bass Pro Shops / Tracker Boats (Dale Earnhardt, Inc.)",Chevrolet,475.0,106220.0,running,0.0,52.0
+2007,5,Bristol,38.0,24.0,88.0,Ricky Rudd,Pedigree (Yates Racing),Ford,453.0,110858.0,crash,0.0,49.0
+2007,5,Bristol,39.0,22.0,12.0,Ryan Newman,Alltel (Roger Penske),Dodge,449.0,111850.0,crash,0.0,46.0
+2007,5,Bristol,40.0,43.0,84.0,A.J. Allmendinger,Red Bull (Dietrich Mateschitz),Toyota,413.0,79700.0,running,0.0,43.0
+2007,5,Bristol,41.0,35.0,38.0,David Gilliland,M&M's (Yates Racing),Ford,48.0,106864.0,crash,0.0,40.0
+2007,5,Bristol,42.0,30.0,44.0,Dale Jarrett,UPS (Michael Waltrip),Toyota,42.0,79565.0,crash,0.0,37.0
+2007,5,Bristol,43.0,39.0,41.0,Reed Sorenson,Target (Chip Ganassi),Dodge,21.0,86932.0,crash,0.0,34.0
+2007,6,Martinsville,1.0,20.0,48.0,Jimmie Johnson,Lowe's (Rick Hendrick),Chevrolet,500.0,198736.0,running,113.0,190.0
+2007,6,Martinsville,2.0,3.0,24.0,Jeff Gordon,DuPont (Rick Hendrick),Chevrolet,500.0,153861.0,running,92.0,175.0
+2007,6,Martinsville,3.0,1.0,11.0,Denny Hamlin,FedEx Express (Joe Gibbs),Chevrolet,500.0,139125.0,running,125.0,170.0
+2007,6,Martinsville,4.0,14.0,5.0,Kyle Busch,Kellogg's / Carquest (Rick Hendrick),Chevrolet,500.0,105375.0,running,10.0,165.0
+2007,6,Martinsville,5.0,8.0,8.0,"Dale Earnhardt, Jr.","Budweiser (Dale Earnhardt, Inc.)",Chevrolet,500.0,141833.0,running,137.0,165.0
+2007,6,Martinsville,6.0,19.0,31.0,Jeff Burton,Cingular Wireless (Richard Childress),Chevrolet,500.0,119316.0,running,0.0,150.0
+2007,6,Martinsville,7.0,7.0,20.0,Tony Stewart,The Home Depot (Joe Gibbs),Chevrolet,500.0,124486.0,running,11.0,151.0
+2007,6,Martinsville,8.0,26.0,10.0,Scott Riggs,Valvoline / Stanley Tools (James Rocco),Dodge,500.0,89275.0,running,0.0,142.0
+2007,6,Martinsville,9.0,2.0,26.0,Jamie McMurray,Irwin Industrial Tools (Jack Roush),Ford,500.0,88525.0,running,0.0,138.0
+2007,6,Martinsville,10.0,33.0,17.0,Matt Kenseth,USG Sheetrock / DeWalt (Jack Roush),Ford,500.0,130266.0,running,1.0,139.0
+2007,6,Martinsville,11.0,21.0,7.0,Clint Bowyer,Jack Daniel's (Richard Childress),Chevrolet,500.0,84325.0,running,0.0,130.0
+2007,6,Martinsville,12.0,12.0,2.0,Kurt Busch,Miller Lite (Roger Penske),Dodge,500.0,114858.0,running,0.0,127.0
+2007,6,Martinsville,13.0,17.0,88.0,Ricky Rudd,Snickers (Yates Racing),Ford,500.0,107383.0,running,0.0,124.0
+2007,6,Martinsville,14.0,24.0,12.0,Ryan Newman,Alltel (Roger Penske),Dodge,500.0,107175.0,running,0.0,121.0
+2007,6,Martinsville,15.0,27.0,6.0,David Ragan,AAA (Jack Roush),Ford,500.0,113250.0,running,0.0,118.0
+2007,6,Martinsville,16.0,23.0,42.0,Juan Pablo Montoya,Texaco / Havoline (Chip Ganassi),Dodge,500.0,109850.0,running,0.0,115.0
+2007,6,Martinsville,17.0,9.0,99.0,Carl Edwards,Office Depot (Jack Roush),Ford,500.0,82050.0,running,0.0,112.0
+2007,6,Martinsville,18.0,28.0,41.0,Reed Sorenson,Target (Chip Ganassi),Dodge,500.0,100083.0,running,0.0,109.0
+2007,6,Martinsville,19.0,4.0,21.0,Ken Schrader,Little Debbie Snack Cakes (Wood Brothers),Ford,500.0,95239.0,running,0.0,106.0
+2007,6,Martinsville,20.0,11.0,96.0,Tony Raines,DLP HDTV (Bill Saunders),Chevrolet,500.0,84550.0,running,0.0,103.0
+2007,6,Martinsville,21.0,37.0,14.0,Sterling Marlin,Panasonic Plasma HDTV (Bobby Ginn),Chevrolet,500.0,88558.0,running,0.0,100.0
+2007,6,Martinsville,22.0,42.0,45.0,Kyle Petty,Marathon American Spirit Motor Oil (Petty Enterprises),Dodge,499.0,86258.0,running,0.0,97.0
+2007,6,Martinsville,23.0,5.0,18.0,J.J. Yeley,Interstate Batteries (Joe Gibbs),Chevrolet,499.0,100958.0,running,0.0,94.0
+2007,6,Martinsville,24.0,18.0,19.0,Elliott Sadler,Dodge Dealers / UAW (Ray Evernham),Dodge,498.0,89845.0,running,10.0,96.0
+2007,6,Martinsville,25.0,41.0,9.0,Kasey Kahne,Dodge Dealers / UAW (Ray Evernham),Dodge,498.0,115366.0,running,0.0,88.0
+2007,6,Martinsville,26.0,36.0,1.0,Regan Smith,U.S. Army (Bobby Ginn),Chevrolet,498.0,91083.0,running,0.0,85.0
+2007,6,Martinsville,27.0,30.0,13.0,Joe Nemechek,Ginn Resorts / CertainTeed (Bobby Ginn),Chevrolet,497.0,67700.0,running,0.0,82.0
+2007,6,Martinsville,28.0,38.0,44.0,Dale Jarrett,UPS (Michael Waltrip),Toyota,496.0,67500.0,running,0.0,79.0
+2007,6,Martinsville,29.0,15.0,1.0,Martin Truex Jr,"Bass Pro Shops / Tracker Boats (Dale Earnhardt, Inc.)",Chevrolet,496.0,96670.0,running,1.0,81.0
+2007,6,Martinsville,30.0,39.0,49.0,Mike Bliss,Obovo.com (Beth Ann Morgenthau),Dodge,493.0,79747.0,running,0.0,73.0
+2007,6,Martinsville,31.0,10.0,70.0,Johnny Sauter,Yellow Transportation / Haas (Gene Haas),Chevrolet,493.0,67050.0,running,0.0,70.0
+2007,6,Martinsville,32.0,34.0,16.0,Greg Biffle,Jackson Hewitt (Jack Roush),Ford,492.0,84925.0,running,0.0,67.0
+2007,6,Martinsville,33.0,43.0,0.0,David Reutimann,Domino's (Michael Waltrip),Toyota,491.0,67650.0,running,0.0,64.0
+2007,6,Martinsville,34.0,25.0,7.0,Robby Gordon,Robby Gordon Motorsports (Robby Gordon),Ford,490.0,66575.0,running,0.0,61.0
+2007,6,Martinsville,35.0,29.0,40.0,David Stremme,Coors Light (Chip Ganassi),Dodge,490.0,66525.0,running,0.0,58.0
+2007,6,Martinsville,36.0,32.0,66.0,Jeff Green,Best Buy (Gene Haas),Chevrolet,487.0,74475.0,running,0.0,55.0
+2007,6,Martinsville,37.0,22.0,22.0,Dave Blaney,Caterpillar (Bill Davis),Toyota,485.0,74400.0,running,0.0,52.0
+2007,6,Martinsville,38.0,40.0,84.0,A.J. Allmendinger,Red Bull (Dietrich Mateschitz),Toyota,483.0,66350.0,running,0.0,49.0
+2007,6,Martinsville,39.0,16.0,38.0,David Gilliland,M&M's (Yates Racing),Ford,469.0,93514.0,engine,0.0,46.0
+2007,6,Martinsville,40.0,13.0,36.0,Jeremy Mayfield,360 OTC (Bill Davis),Toyota,451.0,66225.0,running,0.0,43.0
+2007,6,Martinsville,41.0,6.0,29.0,Kevin Harvick,Shell / Pennzoil (Richard Childress),Chevrolet,445.0,114911.0,running,0.0,40.0
+2007,6,Martinsville,42.0,35.0,25.0,Casey Mears,National Guard / GMAC (Rick Hendrick),Chevrolet,371.0,74115.0,running,0.0,37.0
+2007,6,Martinsville,43.0,31.0,43.0,Bobby Labonte,Cheerios / Betty Crocker (Petty Enterprises),Dodge,265.0,102409.0,running,0.0,34.0
+2007,7,Fort Worth,1.0,2.0,31.0,Jeff Burton,Prilosec OTC (Richard Childress),Chevrolet,334.0,526766.0,running,1.0,190.0
+2007,7,Fort Worth,2.0,4.0,17.0,Matt Kenseth,DeWalt (Jack Roush),Ford,334.0,357266.0,running,16.0,175.0
+2007,7,Fort Worth,3.0,6.0,1.0,Mark Martin,U.S. Army (Bobby Ginn),Chevrolet,334.0,275583.0,running,0.0,165.0
+2007,7,Fort Worth,4.0,1.0,24.0,Jeff Gordon,DuPont (Rick Hendrick),Chevrolet,334.0,255811.0,running,173.0,170.0
+2007,7,Fort Worth,5.0,13.0,26.0,Jamie McMurray,Crown Royal (Jack Roush),Ford,334.0,173325.0,running,0.0,155.0
+2007,7,Fort Worth,6.0,21.0,16.0,Greg Biffle,3M / Ameriquest (Jack Roush),Ford,334.0,160125.0,running,0.0,150.0
+2007,7,Fort Worth,7.0,24.0,1.0,Martin Truex Jr,"Bass Pro Shops / Tracker Boats (Dale Earnhardt, Inc.)",Chevrolet,334.0,164945.0,running,0.0,146.0
+2007,7,Fort Worth,8.0,16.0,42.0,Juan Pablo Montoya,Texaco / Havoline (Chip Ganassi),Dodge,334.0,168375.0,running,0.0,142.0
+2007,7,Fort Worth,9.0,7.0,11.0,Denny Hamlin,FedEx Ground (Joe Gibbs),Chevrolet,334.0,143100.0,running,0.0,138.0
+2007,7,Fort Worth,10.0,14.0,40.0,David Stremme,Coors Light (Chip Ganassi),Dodge,334.0,130175.0,running,0.0,134.0
+2007,7,Fort Worth,11.0,17.0,2.0,Kurt Busch,Miller Lite (Roger Penske),Dodge,334.0,157233.0,running,42.0,135.0
+2007,7,Fort Worth,12.0,10.0,99.0,Carl Edwards,Office Depot (Jack Roush),Ford,334.0,129975.0,running,0.0,127.0
+2007,7,Fort Worth,13.0,27.0,96.0,Tony Raines,DLP HDTV (Bill Saunders),Chevrolet,334.0,131325.0,running,0.0,124.0
+2007,7,Fort Worth,14.0,36.0,83.0,Brian Vickers,Red Bull (Dietrich Mateschitz),Toyota,334.0,114325.0,running,2.0,126.0
+2007,7,Fort Worth,15.0,42.0,15.0,Paul Menard,"Menards / Energizer (Dale Earnhardt, Inc.)",Chevrolet,333.0,113325.0,running,0.0,118.0
+2007,7,Fort Worth,16.0,8.0,7.0,Clint Bowyer,Jack Daniel's (Richard Childress),Chevrolet,333.0,123775.0,running,0.0,115.0
+2007,7,Fort Worth,17.0,15.0,19.0,Elliott Sadler,Dodge Dealers / UAW (Ray Evernham),Dodge,333.0,131870.0,running,1.0,117.0
+2007,7,Fort Worth,18.0,25.0,13.0,Joe Nemechek,CertainTeed / Ginn Resorts (Bobby Ginn),Chevrolet,333.0,108325.0,running,0.0,109.0
+2007,7,Fort Worth,19.0,30.0,38.0,David Gilliland,M&M's (Yates Racing),Ford,332.0,137639.0,running,0.0,106.0
+2007,7,Fort Worth,20.0,34.0,9.0,Kasey Kahne,Dodge Dealers / UAW (Ray Evernham),Dodge,332.0,154816.0,running,0.0,103.0
+2007,7,Fort Worth,21.0,40.0,22.0,Dave Blaney,Caterpillar (Bill Davis),Toyota,332.0,137033.0,running,0.0,100.0
+2007,7,Fort Worth,22.0,35.0,70.0,Johnny Sauter,Yellow Transportation (Gene Haas),Chevrolet,332.0,102325.0,running,0.0,97.0
+2007,7,Fort Worth,23.0,33.0,25.0,Casey Mears,National Guard / GMAC (Rick Hendrick),Chevrolet,332.0,113175.0,running,0.0,94.0
+2007,7,Fort Worth,24.0,23.0,7.0,Robby Gordon,Jim Beam (Robby Gordon),Ford,332.0,102625.0,running,1.0,96.0
+2007,7,Fort Worth,25.0,9.0,20.0,Tony Stewart,Home Depot / NASCAR Day 2007 (Joe Gibbs),Chevrolet,332.0,146861.0,running,0.0,88.0
+2007,7,Fort Worth,26.0,31.0,66.0,Jeff Green,Best Buy (Gene Haas),Chevrolet,332.0,121683.0,running,0.0,85.0
+2007,7,Fort Worth,27.0,39.0,10.0,Scott Riggs,Valvoline / Stanley Tools (James Rocco),Dodge,331.0,105925.0,running,0.0,82.0
+2007,7,Fort Worth,28.0,22.0,43.0,Bobby Labonte,Cheerios / Betty Crocker (Petty Enterprises),Dodge,331.0,133261.0,running,0.0,79.0
+2007,7,Fort Worth,29.0,11.0,29.0,Kevin Harvick,Shell / Pennzoil (Richard Childress),Chevrolet,331.0,140961.0,running,0.0,76.0
+2007,7,Fort Worth,30.0,37.0,44.0,Dale Jarrett,UPS (Michael Waltrip),Toyota,331.0,91575.0,running,0.0,73.0
+2007,7,Fort Worth,31.0,38.0,21.0,Ken Schrader,Motorcraft (Wood Brothers),Ford,331.0,112364.0,running,0.0,70.0
+2007,7,Fort Worth,32.0,20.0,12.0,Ryan Newman,Alltel (Roger Penske),Dodge,330.0,122625.0,running,0.0,67.0
+2007,7,Fort Worth,33.0,29.0,88.0,Ricky Rudd,Snickers (Yates Racing),Ford,321.0,118933.0,running,0.0,64.0
+2007,7,Fort Worth,34.0,28.0,14.0,Sterling Marlin,Panasonic (Bobby Ginn),Chevrolet,304.0,97508.0,running,0.0,61.0
+2007,7,Fort Worth,35.0,32.0,45.0,Kyle Petty,Marathon American Spirit Motor Oil (Petty Enterprises),Dodge,291.0,94272.0,running,0.0,58.0
+2007,7,Fort Worth,36.0,12.0,8.0,"Dale Earnhardt, Jr.","Budweiser (Dale Earnhardt, Inc.)",Chevrolet,288.0,128983.0,engine,96.0,60.0
+2007,7,Fort Worth,37.0,5.0,5.0,Kyle Busch,Cheez-It / Carquest (Rick Hendrick),Chevrolet,262.0,100475.0,running,0.0,52.0
+2007,7,Fort Worth,38.0,3.0,48.0,Jimmie Johnson,Lowe's (Rick Hendrick),Chevrolet,260.0,135261.0,crash,0.0,49.0
+2007,7,Fort Worth,39.0,19.0,6.0,David Ragan,AAA Insurance (Jack Roush),Ford,239.0,117025.0,running,0.0,46.0
+2007,7,Fort Worth,40.0,26.0,41.0,Reed Sorenson,Tums (Chip Ganassi),Dodge,197.0,89075.0,engine,2.0,48.0
+2007,7,Fort Worth,41.0,41.0,49.0,Mike Bliss,Paralyzed Veterans of America (Beth Ann Morgenthau),Dodge,42.0,80960.0,crash,0.0,40.0
+2007,7,Fort Worth,42.0,43.0,78.0,Kenny Wallace,Furniture Row (Barney Visser),Chevrolet,38.0,80865.0,engine,0.0,37.0
+2007,7,Fort Worth,43.0,18.0,18.0,J.J. Yeley,Interstate Batteries (Joe Gibbs),Chevrolet,1.0,108898.0,crash,0.0,34.0
+2007,8,Phoenix,1.0,1.0,24.0,Jeff Gordon,DuPont (Rick Hendrick),Chevrolet,312.0,251411.0,running,53.0,190.0
+2007,8,Phoenix,2.0,9.0,20.0,Tony Stewart,Home Depot (Joe Gibbs),Chevrolet,312.0,209411.0,running,132.0,180.0
+2007,8,Phoenix,3.0,3.0,11.0,Denny Hamlin,FedEx Kinko's (Joe Gibbs),Chevrolet,312.0,158150.0,running,70.0,170.0
+2007,8,Phoenix,4.0,5.0,48.0,Jimmie Johnson,Lowe's (Rick Hendrick),Chevrolet,312.0,158046.0,running,0.0,160.0
+2007,8,Phoenix,5.0,17.0,17.0,Matt Kenseth,DeWalt (Jack Roush),Ford,312.0,149766.0,running,0.0,155.0
+2007,8,Phoenix,6.0,14.0,66.0,Jeff Green,Best Buy (Gene Haas),Chevrolet,312.0,124283.0,running,0.0,150.0
+2007,8,Phoenix,7.0,24.0,5.0,Kyle Busch,Carquest / Kellogg's (Rick Hendrick),Chevrolet,312.0,97875.0,running,0.0,146.0
+2007,8,Phoenix,8.0,26.0,43.0,Bobby Labonte,Cheerios / Betty Crocker (Petty Enterprises),Dodge,312.0,118561.0,running,0.0,142.0
+2007,8,Phoenix,9.0,42.0,70.0,Johnny Sauter,Haas CNC Machine Tools (Gene Haas),Chevrolet,312.0,79925.0,running,0.0,138.0
+2007,8,Phoenix,10.0,8.0,29.0,Kevin Harvick,Shell / Pennzoil (Richard Childress),Chevrolet,312.0,126261.0,running,54.0,139.0
+2007,8,Phoenix,11.0,28.0,99.0,Carl Edwards,Office Depot (Jack Roush),Ford,312.0,83625.0,running,0.0,130.0
+2007,8,Phoenix,12.0,20.0,1.0,Mark Martin,U.S. Army (Bobby Ginn),Chevrolet,312.0,98183.0,running,0.0,127.0
+2007,8,Phoenix,13.0,31.0,31.0,Jeff Burton,Cingular (Richard Childress),Chevrolet,312.0,109266.0,running,0.0,124.0
+2007,8,Phoenix,14.0,23.0,96.0,Tony Raines,DLP HDTV (Bill Saunders),Chevrolet,312.0,81925.0,running,0.0,121.0
+2007,8,Phoenix,15.0,27.0,41.0,Reed Sorenson,Target (Chip Ganassi),Dodge,312.0,93208.0,running,0.0,118.0
+2007,8,Phoenix,16.0,16.0,13.0,Joe Nemechek,Pinnacle Las Vegas (Bobby Ginn),Chevrolet,312.0,65275.0,running,1.0,120.0
+2007,8,Phoenix,17.0,18.0,16.0,Greg Biffle,Ameriquest (Jack Roush),Ford,312.0,83075.0,running,0.0,112.0
+2007,8,Phoenix,18.0,6.0,2.0,Kurt Busch,Miller Lite (Roger Penske),Dodge,312.0,103108.0,running,0.0,109.0
+2007,8,Phoenix,19.0,15.0,8.0,"Dale Earnhardt, Jr.","Budweiser (Dale Earnhardt, Inc.)",Chevrolet,312.0,110058.0,running,0.0,106.0
+2007,8,Phoenix,20.0,7.0,1.0,Martin Truex Jr,"Bass Pro Shops / Tracker Boats (Dale Earnhardt, Inc.)",Chevrolet,311.0,95920.0,running,0.0,103.0
+2007,8,Phoenix,21.0,22.0,18.0,J.J. Yeley,Interstate Batteries (Joe Gibbs),Chevrolet,311.0,97883.0,running,0.0,100.0
+2007,8,Phoenix,22.0,12.0,7.0,Clint Bowyer,DirecTV (Richard Childress),Chevrolet,311.0,75950.0,running,0.0,97.0
+2007,8,Phoenix,23.0,2.0,26.0,Jamie McMurray,Crown Royal (Jack Roush),Ford,310.0,77175.0,running,0.0,94.0
+2007,8,Phoenix,24.0,38.0,7.0,Robby Gordon,Jim Beam (Robby Gordon),Ford,310.0,67475.0,running,0.0,91.0
+2007,8,Phoenix,25.0,33.0,15.0,Paul Menard,"Menards / Johns Manville (Dale Earnhardt, Inc.)",Chevrolet,310.0,65350.0,running,0.0,88.0
+2007,8,Phoenix,26.0,39.0,88.0,Ricky Rudd,Snickers (Yates Racing),Ford,310.0,98658.0,running,0.0,85.0
+2007,8,Phoenix,27.0,37.0,14.0,Sterling Marlin,Waste Management (Bobby Ginn),Chevrolet,309.0,78558.0,running,1.0,87.0
+2007,8,Phoenix,28.0,34.0,21.0,Ken Schrader,Motorcraft (Wood Brothers),Ford,309.0,86889.0,running,0.0,79.0
+2007,8,Phoenix,29.0,43.0,44.0,Dale Jarrett,UPS (Michael Waltrip),Toyota,309.0,63350.0,running,0.0,76.0
+2007,8,Phoenix,30.0,40.0,45.0,Kyle Petty,Wells Fargo (Petty Enterprises),Dodge,309.0,76347.0,running,1.0,78.0
+2007,8,Phoenix,31.0,10.0,9.0,Kasey Kahne,Dodge Dealers / UAW (Ray Evernham),Dodge,309.0,110266.0,running,0.0,70.0
+2007,8,Phoenix,32.0,25.0,0.0,David Reutimann,Domino's (Michael Waltrip),Toyota,309.0,65925.0,running,0.0,67.0
+2007,8,Phoenix,33.0,36.0,42.0,Juan Pablo Montoya,Texaco / Havoline (Chip Ganassi),Dodge,309.0,101325.0,running,0.0,64.0
+2007,8,Phoenix,34.0,21.0,19.0,Elliott Sadler,Dodge Dealers / UAW (Ray Evernham),Dodge,308.0,83520.0,running,0.0,61.0
+2007,8,Phoenix,35.0,30.0,38.0,David Gilliland,M&M's (Yates Racing),Ford,308.0,89764.0,running,0.0,58.0
+2007,8,Phoenix,36.0,35.0,4.0,Ward Burton,State Water Heaters (Larry McClure),Chevrolet,305.0,63150.0,running,0.0,55.0
+2007,8,Phoenix,37.0,13.0,25.0,Casey Mears,National Guard / GMAC (Rick Hendrick),Chevrolet,303.0,70275.0,running,0.0,52.0
+2007,8,Phoenix,38.0,19.0,12.0,Ryan Newman,Alltel (Roger Penske),Dodge,301.0,94200.0,running,0.0,49.0
+2007,8,Phoenix,39.0,11.0,22.0,Dave Blaney,Caterpillar (Bill Davis),Toyota,281.0,70000.0,crash,0.0,46.0
+2007,8,Phoenix,40.0,29.0,78.0,Kenny Wallace,Furniture Row (Barney Visser),Chevrolet,279.0,61850.0,crash,0.0,43.0
+2007,8,Phoenix,41.0,32.0,6.0,David Ragan,AAA / Show Your Card and Save (Jack Roush),Ford,264.0,97530.0,running,0.0,40.0
+2007,8,Phoenix,42.0,4.0,10.0,Scott Riggs,Valvoline / Stanley Tools (James Rocco),Dodge,250.0,69780.0,running,0.0,37.0
+2007,8,Phoenix,43.0,41.0,40.0,David Stremme,Coors Light (Chip Ganassi),Dodge,248.0,61736.0,running,0.0,34.0
+2007,9,Talladega,1.0,1.0,24.0,Jeff Gordon,DuPont (Rick Hendrick),Chevrolet,192.0,355511.0,running,71.0,195.0
+2007,9,Talladega,2.0,8.0,48.0,Jimmie Johnson,Lowe's (Rick Hendrick),Chevrolet,192.0,251736.0,running,12.0,175.0
+2007,9,Talladega,3.0,26.0,2.0,Kurt Busch,Miller Lite (Roger Penske),Dodge,192.0,212483.0,running,7.0,170.0
+2007,9,Talladega,4.0,2.0,38.0,David Gilliland,M&M's Dark (Yates Racing),Ford,192.0,182689.0,running,0.0,160.0
+2007,9,Talladega,5.0,25.0,26.0,Jamie McMurray,Sharp Aquos / Vikuiti (Jack Roush),Ford,192.0,134675.0,running,2.0,160.0
+2007,9,Talladega,6.0,41.0,29.0,Kevin Harvick,Shell / Pennzoil (Richard Childress),Chevrolet,192.0,164536.0,running,0.0,150.0
+2007,9,Talladega,7.0,36.0,8.0,"Dale Earnhardt, Jr.","Budweiser (Dale Earnhardt, Inc.)",Chevrolet,192.0,149233.0,running,2.0,151.0
+2007,9,Talladega,8.0,20.0,40.0,David Stremme,Wrigley's Winterfresh (Chip Ganassi),Dodge,192.0,106025.0,running,1.0,147.0
+2007,9,Talladega,9.0,28.0,12.0,Ryan Newman,Kodak (Roger Penske),Dodge,192.0,133450.0,running,0.0,138.0
+2007,9,Talladega,10.0,37.0,1.0,Martin Truex Jr,"Bass Pro Shops / Tracker Boats (Dale Earnhardt, Inc.)",Chevrolet,192.0,126495.0,running,0.0,134.0
+2007,9,Talladega,11.0,9.0,10.0,Scott Riggs,Stanley Tools / Valvoline (James Rocco),Dodge,192.0,107050.0,running,0.0,130.0
+2007,9,Talladega,12.0,30.0,9.0,Kasey Kahne,Dodge Dealers / UAW (Ray Evernham),Dodge,192.0,138891.0,running,5.0,132.0
+2007,9,Talladega,13.0,34.0,66.0,Jeff Green,Best Buy (Gene Haas),Chevrolet,192.0,120933.0,running,3.0,129.0
+2007,9,Talladega,14.0,17.0,17.0,Matt Kenseth,DeWalt (Jack Roush),Ford,192.0,137641.0,running,3.0,126.0
+2007,9,Talladega,15.0,39.0,19.0,Elliott Sadler,Dodge Dealers / UAW (Ray Evernham),Dodge,192.0,110770.0,running,1.0,123.0
+2007,9,Talladega,16.0,4.0,14.0,Sterling Marlin,Waste Management / Ginn Resorts (Bobby Ginn),Chevrolet,192.0,107983.0,running,16.0,120.0
+2007,9,Talladega,17.0,10.0,6.0,David Ragan,AAA Travel (Jack Roush),Ford,192.0,127100.0,running,2.0,117.0
+2007,9,Talladega,18.0,23.0,45.0,Kyle Petty,National Tire & Battery (Petty Enterprises),Dodge,192.0,103083.0,running,0.0,109.0
+2007,9,Talladega,19.0,31.0,18.0,J.J. Yeley,Interstate Batteries (Joe Gibbs),Chevrolet,192.0,116033.0,running,0.0,106.0
+2007,9,Talladega,20.0,35.0,43.0,Bobby Labonte,Cheerios Racing / Spiderman 3 (Petty Enterprises),Dodge,192.0,127111.0,running,0.0,103.0
+2007,9,Talladega,21.0,3.0,11.0,Denny Hamlin,FedEx Freight (Joe Gibbs),Chevrolet,192.0,102550.0,running,48.0,105.0
+2007,9,Talladega,22.0,27.0,96.0,Tony Raines,DLP HDTV (Bill Saunders),Chevrolet,192.0,96425.0,running,0.0,97.0
+2007,9,Talladega,23.0,18.0,36.0,Jeremy Mayfield,360 OTC (Bill Davis),Toyota,192.0,83075.0,running,0.0,94.0
+2007,9,Talladega,24.0,22.0,1.0,Regan Smith,U.S. Army (Bobby Ginn),Chevrolet,192.0,104258.0,running,1.0,96.0
+2007,9,Talladega,25.0,29.0,41.0,Reed Sorenson,Target (Chip Ganassi),Dodge,192.0,101947.0,running,0.0,88.0
+2007,9,Talladega,26.0,6.0,78.0,Kenny Wallace,National Day of Prayer (Barney Visser),Chevrolet,192.0,83325.0,running,2.0,90.0
+2007,9,Talladega,27.0,11.0,60.0,Boris Said,SOBE No Fear Energy Drink (Mark Simo),Ford,191.0,80775.0,running,1.0,87.0
+2007,9,Talladega,28.0,32.0,20.0,Tony Stewart,Home Depot (Joe Gibbs),Chevrolet,190.0,127761.0,crash,7.0,84.0
+2007,9,Talladega,29.0,12.0,16.0,Greg Biffle,3M (Jack Roush),Ford,190.0,97025.0,crash,1.0,81.0
+2007,9,Talladega,30.0,21.0,70.0,Johnny Sauter,Yellow Fleet Pride (Gene Haas),Chevrolet,190.0,79325.0,crash,0.0,73.0
+2007,9,Talladega,31.0,24.0,42.0,Juan Pablo Montoya,Texaco / Havoline (Chip Ganassi),Dodge,187.0,115750.0,running,0.0,70.0
+2007,9,Talladega,32.0,14.0,0.0,David Reutimann,Domino's Brooklyn-Style Pizza (Michael Waltrip),Toyota,184.0,78525.0,engine,0.0,67.0
+2007,9,Talladega,33.0,5.0,88.0,Ricky Rudd,Snickers (Yates Racing),Ford,155.0,110458.0,running,0.0,64.0
+2007,9,Talladega,34.0,42.0,31.0,Jeff Burton,Cingular Wireless (Richard Childress),Chevrolet,151.0,118266.0,running,2.0,66.0
+2007,9,Talladega,35.0,40.0,7.0,Clint Bowyer,Jack Daniel's (Richard Childress),Chevrolet,147.0,86125.0,running,0.0,58.0
+2007,9,Talladega,36.0,15.0,4.0,Ward Burton,Miccosukee / State Water Heaters (Larry McClure),Chevrolet,144.0,78725.0,engine,0.0,55.0
+2007,9,Talladega,37.0,13.0,5.0,Kyle Busch,Carquest / Kellogg's (Rick Hendrick),Chevrolet,130.0,95800.0,crash,0.0,52.0
+2007,9,Talladega,38.0,33.0,13.0,Joe Nemechek,CertainTeed / Ginn Resorts (Bobby Ginn),Chevrolet,130.0,77450.0,crash,0.0,49.0
+2007,9,Talladega,39.0,7.0,25.0,Casey Mears,National Guard / GMAC (Rick Hendrick),Chevrolet,124.0,85250.0,crash,5.0,51.0
+2007,9,Talladega,40.0,43.0,44.0,Dale Jarrett,UPS / Kentucky Derby (Michael Waltrip),Toyota,38.0,77000.0,engine,0.0,43.0
+2007,9,Talladega,41.0,38.0,7.0,Robby Gordon,Menards / MAPEI (Robby Gordon),Ford,33.0,76800.0,engine,0.0,40.0
+2007,9,Talladega,42.0,16.0,99.0,Carl Edwards,Office Depot (Jack Roush),Ford,27.0,84630.0,engine,0.0,37.0
+2007,9,Talladega,43.0,19.0,15.0,Paul Menard,"Menards (Dale Earnhardt, Inc.)",Chevrolet,22.0,76737.0,engine,0.0,34.0
+2007,10,Richmond,1.0,4.0,48.0,Jimmie Johnson,Lowe's (Rick Hendrick),Chevrolet,400.0,244286.0,running,105.0,190.0
+2007,10,Richmond,2.0,34.0,5.0,Kyle Busch,Kellogg's / Carquest (Rick Hendrick),Chevrolet,400.0,171225.0,running,27.0,175.0
+2007,10,Richmond,3.0,6.0,11.0,Denny Hamlin,FedEx Express (Joe Gibbs),Chevrolet,400.0,150125.0,running,12.0,170.0
+2007,10,Richmond,4.0,1.0,24.0,Jeff Gordon,DuPont (Rick Hendrick),Chevrolet,400.0,185811.0,running,114.0,170.0
+2007,10,Richmond,5.0,33.0,2.0,Kurt Busch,Miller Lite (Roger Penske),Dodge,400.0,139858.0,running,27.0,160.0
+2007,10,Richmond,6.0,30.0,12.0,Ryan Newman,Alltel (Roger Penske),Dodge,400.0,123950.0,running,1.0,155.0
+2007,10,Richmond,7.0,27.0,29.0,Kevin Harvick,Reese's (Richard Childress),Chevrolet,400.0,132886.0,running,105.0,151.0
+2007,10,Richmond,8.0,22.0,20.0,Tony Stewart,Home Depot (Joe Gibbs),Chevrolet,400.0,127236.0,running,1.0,147.0
+2007,10,Richmond,9.0,20.0,7.0,Clint Bowyer,DirecTV (Richard Childress),Chevrolet,400.0,87975.0,running,0.0,138.0
+2007,10,Richmond,10.0,28.0,17.0,Matt Kenseth,DeWalt (Jack Roush),Ford,400.0,126466.0,running,3.0,139.0
+2007,10,Richmond,11.0,10.0,22.0,Dave Blaney,Caterpillar (Bill Davis),Toyota,400.0,104183.0,running,2.0,135.0
+2007,10,Richmond,12.0,2.0,99.0,Carl Edwards,Office Depot (Jack Roush),Ford,400.0,83575.0,running,0.0,127.0
+2007,10,Richmond,13.0,7.0,8.0,"Dale Earnhardt, Jr.","Budweiser (Dale Earnhardt, Inc.)",Chevrolet,400.0,116358.0,running,0.0,124.0
+2007,10,Richmond,14.0,23.0,18.0,J.J. Yeley,Interstate Batteries (Joe Gibbs),Chevrolet,400.0,101008.0,running,0.0,121.0
+2007,10,Richmond,15.0,18.0,43.0,Bobby Labonte,Cheerios / Betty Crocker (Petty Enterprises),Dodge,400.0,110911.0,running,0.0,118.0
+2007,10,Richmond,16.0,43.0,15.0,Paul Menard,"Menards / Moen (Dale Earnhardt, Inc.)",Chevrolet,400.0,69100.0,running,0.0,115.0
+2007,10,Richmond,17.0,9.0,1.0,Mark Martin,U.S. Army (Bobby Ginn),Chevrolet,400.0,95683.0,running,2.0,117.0
+2007,10,Richmond,18.0,15.0,25.0,Casey Mears,National Guard / GMAC (Rick Hendrick),Chevrolet,400.0,78550.0,running,0.0,109.0
+2007,10,Richmond,19.0,32.0,16.0,Greg Biffle,3M (Jack Roush),Ford,400.0,84625.0,running,0.0,106.0
+2007,10,Richmond,20.0,29.0,6.0,David Ragan,AAA Travel (Jack Roush),Ford,400.0,108875.0,running,0.0,103.0
+2007,10,Richmond,21.0,37.0,41.0,Reed Sorenson,Target (Chip Ganassi),Dodge,400.0,92083.0,running,0.0,100.0
+2007,10,Richmond,22.0,19.0,96.0,Tony Raines,DLP HDTV / Shrek The Third (Bill Saunders),Chevrolet,399.0,80200.0,running,1.0,102.0
+2007,10,Richmond,23.0,36.0,14.0,Sterling Marlin,Waste Management (Bobby Ginn),Chevrolet,399.0,82008.0,running,0.0,94.0
+2007,10,Richmond,24.0,12.0,66.0,Jeff Green,Haas Automation (Gene Haas),Chevrolet,399.0,86697.0,running,0.0,91.0
+2007,10,Richmond,25.0,35.0,45.0,Kyle Petty,Merchant's Tire (Petty Enterprises),Dodge,399.0,69400.0,running,0.0,88.0
+2007,10,Richmond,26.0,16.0,42.0,Juan Pablo Montoya,Texaco / Havoline (Chip Ganassi),Dodge,399.0,103250.0,running,0.0,85.0
+2007,10,Richmond,27.0,40.0,19.0,Elliott Sadler,Dodge Dealers / UAW (Ray Evernham),Dodge,398.0,86770.0,running,0.0,82.0
+2007,10,Richmond,28.0,8.0,1.0,Martin Truex Jr,"Bass Pro Shops / Tracker Boats (Dale Earnhardt, Inc.)",Chevrolet,398.0,94645.0,running,0.0,79.0
+2007,10,Richmond,29.0,14.0,0.0,David Reutimann,Domino's (Michael Waltrip),Toyota,398.0,67675.0,running,0.0,76.0
+2007,10,Richmond,30.0,3.0,10.0,Scott Riggs,Valvoline / Stanley Tools (James Rocco),Dodge,397.0,73500.0,running,0.0,73.0
+2007,10,Richmond,31.0,31.0,46.0,"Johnny Benson, Jr.",Wyler.com / TRD (Jeff Wyler),Toyota,397.0,64875.0,running,0.0,70.0
+2007,10,Richmond,32.0,13.0,84.0,A.J. Allmendinger,Red Bull (Dietrich Mateschitz),Toyota,396.0,64750.0,running,0.0,67.0
+2007,10,Richmond,33.0,38.0,13.0,Joe Nemechek,CertainTeed (Bobby Ginn),Chevrolet,393.0,64625.0,running,0.0,64.0
+2007,10,Richmond,34.0,42.0,7.0,Robby Gordon,Menards / MAPEI (Robby Gordon),Ford,378.0,65450.0,running,0.0,61.0
+2007,10,Richmond,35.0,24.0,4.0,Ward Burton,State Water Heaters / Virginia Tech (Larry McClure),Chevrolet,370.0,65375.0,crash,0.0,58.0
+2007,10,Richmond,36.0,17.0,70.0,Johnny Sauter,Yellow Transportation (Gene Haas),Chevrolet,370.0,64225.0,running,0.0,55.0
+2007,10,Richmond,37.0,11.0,88.0,Ricky Rudd,Pedigree (Yates Racing),Ford,369.0,95133.0,crash,0.0,52.0
+2007,10,Richmond,38.0,21.0,40.0,David Stremme,Coors Light (Chip Ganassi),Dodge,362.0,63975.0,crash,0.0,49.0
+2007,10,Richmond,39.0,26.0,78.0,Kenny Wallace,Furniture Row (Barney Visser),Chevrolet,331.0,63850.0,running,0.0,46.0
+2007,10,Richmond,40.0,5.0,9.0,Kasey Kahne,Dodge Dealers / UAW (Ray Evernham),Dodge,314.0,110916.0,crash,0.0,43.0
+2007,10,Richmond,41.0,25.0,26.0,Jamie McMurray,Crown Royal (Jack Roush),Ford,301.0,71580.0,running,0.0,40.0
+2007,10,Richmond,42.0,41.0,38.0,David Gilliland,M&M's (Yates Racing),Ford,275.0,90669.0,crash,0.0,37.0
+2007,10,Richmond,43.0,39.0,31.0,Jeff Burton,Lenox (Richard Childress),Chevrolet,139.0,103599.0,engine,0.0,34.0
+2007,11,Darlington,1.0,10.0,24.0,Jeff Gordon,DuPont (Rick Hendrick),Chevrolet,367.0,323286.0,running,22.0,190.0
+2007,11,Darlington,2.0,7.0,11.0,Denny Hamlin,FedEx Express (Joe Gibbs),Chevrolet,367.0,211550.0,running,179.0,180.0
+2007,11,Darlington,3.0,12.0,48.0,Jimmie Johnson,Lowe's (Rick Hendrick),Chevrolet,367.0,197761.0,running,44.0,170.0
+2007,11,Darlington,4.0,29.0,12.0,Ryan Newman,Alltel (Roger Penske),Dodge,367.0,159875.0,running,39.0,165.0
+2007,11,Darlington,5.0,4.0,99.0,Carl Edwards,Office Depot (Jack Roush),Ford,367.0,125475.0,running,33.0,160.0
+2007,11,Darlington,6.0,26.0,20.0,Tony Stewart,Home Depot (Joe Gibbs),Chevrolet,367.0,145961.0,running,0.0,150.0
+2007,11,Darlington,7.0,31.0,17.0,Matt Kenseth,DeWalt (Jack Roush),Ford,367.0,143516.0,running,29.0,151.0
+2007,11,Darlington,8.0,21.0,8.0,"Dale Earnhardt, Jr.","Budweiser (Dale Earnhardt, Inc.)",Chevrolet,367.0,133033.0,running,0.0,42.0
+2007,11,Darlington,9.0,1.0,7.0,Clint Bowyer,Jack Daniel's (Richard Childress),Chevrolet,367.0,114575.0,running,16.0,143.0
+2007,11,Darlington,10.0,34.0,31.0,Jeff Burton,Cingular Wireless (Richard Childress),Chevrolet,367.0,127541.0,running,0.0,134.0
+2007,11,Darlington,11.0,25.0,1.0,Martin Truex Jr,"Bass Pro Shops / Tracker Boats (Dale Earnhardt, Inc.)",Chevrolet,367.0,112320.0,running,0.0,130.0
+2007,11,Darlington,12.0,18.0,2.0,Kurt Busch,Miller Lite (Roger Penske),Dodge,367.0,119108.0,running,0.0,127.0
+2007,11,Darlington,13.0,28.0,14.0,Sterling Marlin,Ginn Resorts (Bobby Ginn),Chevrolet,367.0,104433.0,running,0.0,124.0
+2007,11,Darlington,14.0,37.0,1.0,Mark Martin,U.S. Army (Bobby Ginn),Chevrolet,367.0,108308.0,running,0.0,121.0
+2007,11,Darlington,15.0,2.0,16.0,Greg Biffle,Ameriquest (Jack Roush),Ford,367.0,97700.0,running,0.0,118.0
+2007,11,Darlington,16.0,3.0,26.0,Jamie McMurray,Crown Royal (Jack Roush),Ford,367.0,89850.0,running,0.0,115.0
+2007,11,Darlington,17.0,9.0,29.0,Kevin Harvick,Shell / Pennzoil (Richard Childress),Chevrolet,367.0,125886.0,running,0.0,112.0
+2007,11,Darlington,18.0,22.0,18.0,J.J. Yeley,Interstate Batteries (Joe Gibbs),Chevrolet,367.0,108183.0,running,0.0,109.0
+2007,11,Darlington,19.0,13.0,43.0,Bobby Labonte,Cheerios / Betty Crocker (Petty Enterprises),Dodge,367.0,117036.0,running,0.0,106.0
+2007,11,Darlington,20.0,5.0,9.0,Kasey Kahne,Dodge Dealers / UAW (Ray Evernham),Dodge,367.0,124616.0,running,0.0,103.0
+2007,11,Darlington,21.0,17.0,19.0,Elliott Sadler,Dodge Dealers / UAW (Ray Evernham),Dodge,367.0,96370.0,running,1.0,105.0
+2007,11,Darlington,22.0,39.0,66.0,Jeff Green,Best Buy (Gene Haas),Chevrolet,365.0,100008.0,running,0.0,97.0
+2007,11,Darlington,23.0,41.0,42.0,Juan Pablo Montoya,Texaco / Havoline (Chip Ganassi),Dodge,365.0,113575.0,running,0.0,94.0
+2007,11,Darlington,24.0,6.0,78.0,Kenny Wallace,Furniture Row (Barney Visser),Chevrolet,365.0,75775.0,running,0.0,91.0
+2007,11,Darlington,25.0,42.0,45.0,Kyle Petty,Marathon American Spirit Motor Oil (Petty Enterprises),Dodge,364.0,87233.0,running,0.0,88.0
+2007,11,Darlington,26.0,40.0,88.0,Ricky Rudd,Snickers (Yates Racing),Ford,364.0,105333.0,running,0.0,85.0
+2007,11,Darlington,27.0,24.0,6.0,David Ragan,AAA (Jack Roush),Ford,363.0,109425.0,running,0.0,82.0
+2007,11,Darlington,28.0,35.0,13.0,Joe Nemechek,Haier (Bobby Ginn),Chevrolet,363.0,69950.0,running,0.0,79.0
+2007,11,Darlington,29.0,19.0,70.0,Johnny Sauter,Haas / Yellow Transportation (Gene Haas),Chevrolet,361.0,69750.0,running,0.0,76.0
+2007,11,Darlington,30.0,38.0,38.0,David Gilliland,M&M's (Yates Racing),Ford,361.0,100289.0,engine,0.0,73.0
+2007,11,Darlington,31.0,23.0,15.0,Paul Menard,"Menards / Moen (Dale Earnhardt, Inc.)",Chevrolet,358.0,69325.0,running,0.0,70.0
+2007,11,Darlington,32.0,27.0,22.0,Dave Blaney,Caterpillar (Bill Davis),Toyota,355.0,89197.0,engine,2.0,72.0
+2007,11,Darlington,33.0,14.0,0.0,David Reutimann,Domino's (Michael Waltrip),Toyota,351.0,69925.0,engine,0.0,64.0
+2007,11,Darlington,34.0,30.0,40.0,David Stremme,Coors Light (Chip Ganassi),Dodge,349.0,68850.0,engine,0.0,61.0
+2007,11,Darlington,35.0,11.0,25.0,Casey Mears,National Guard / GMAC (Rick Hendrick),Chevrolet,345.0,76600.0,engine,0.0,58.0
+2007,11,Darlington,36.0,20.0,84.0,A.J. Allmendinger,Red Bull (Dietrich Mateschitz),Toyota,344.0,68450.0,running,0.0,55.0
+2007,11,Darlington,37.0,36.0,5.0,Kyle Busch,Carquest / Kellogg's (Rick Hendrick),Chevrolet,338.0,86250.0,running,0.0,52.0
+2007,11,Darlington,38.0,33.0,7.0,Robby Gordon,Menards / MAPEI (Robby Gordon),Ford,317.0,68025.0,running,0.0,49.0
+2007,11,Darlington,39.0,32.0,96.0,Tony Raines,DLP HDTV (Bill Saunders),Chevrolet,310.0,78400.0,engine,0.0,46.0
+2007,11,Darlington,40.0,16.0,41.0,Reed Sorenson,Target (Chip Ganassi),Dodge,310.0,75750.0,running,0.0,43.0
+2007,11,Darlington,41.0,8.0,21.0,Ken Schrader,Motorcraft (Wood Brothers),Ford,254.0,87839.0,crash,2.0,45.0
+2007,11,Darlington,42.0,43.0,37.0,Kevin Lepage,Long John Silvers (Bob Jenkins),Dodge,127.0,68280.0,transmission,0.0,37.0
+2007,11,Darlington,43.0,15.0,83.0,Brian Vickers,Red Bull (Dietrich Mateschitz),Toyota,122.0,67382.0,crash,0.0,34.0
+2007,12,Charlotte,1.0,16.0,25.0,Casey Mears,National Guard / GMAC / American Heroes (Rick Hendrick),Chevrolet,400.0,367425.0,running,6.0,190.0
+2007,12,Charlotte,2.0,12.0,18.0,J.J. Yeley,Interstate Batteries (Joe Gibbs),Chevrolet,400.0,264733.0,running,1.0,175.0
+2007,12,Charlotte,3.0,36.0,45.0,Kyle Petty,Coke Zero (Petty Enterprises),Dodge,400.0,208983.0,running,0.0,165.0
+2007,12,Charlotte,4.0,34.0,41.0,Reed Sorenson,Target (Chip Ganassi),Dodge,400.0,177783.0,running,0.0,160.0
+2007,12,Charlotte,5.0,26.0,83.0,Brian Vickers,Red Bull (Dietrich Mateschitz),Toyota,400.0,148525.0,running,76.0,160.0
+2007,12,Charlotte,6.0,14.0,20.0,Tony Stewart,Home Depot (Joe Gibbs),Chevrolet,400.0,179661.0,running,55.0,155.0
+2007,12,Charlotte,7.0,7.0,88.0,Ricky Rudd,Snickers Dark (Yates Racing),Ford,400.0,149933.0,running,1.0,151.0
+2007,12,Charlotte,8.0,4.0,8.0,"Dale Earnhardt, Jr.","Budweiser (Dale Earnhardt, Inc.)",Chevrolet,400.0,168058.0,running,1.0,147.0
+2007,12,Charlotte,9.0,6.0,11.0,Denny Hamlin,FedEx Freight / Marines (Joe Gibbs),Chevrolet,400.0,136550.0,running,1.0,143.0
+2007,12,Charlotte,10.0,21.0,48.0,Jimmie Johnson,Lowe's / Power of Pride (Rick Hendrick),Chevrolet,400.0,176811.0,running,83.0,139.0
+2007,12,Charlotte,11.0,11.0,1.0,Mark Martin,U.S. Army (Bobby Ginn),Chevrolet,400.0,128463.0,running,0.0,130.0
+2007,12,Charlotte,12.0,5.0,17.0,Matt Kenseth,R&L Carriers / DeWalt (Jack Roush),Ford,400.0,156241.0,running,50.0,132.0
+2007,12,Charlotte,13.0,9.0,43.0,Bobby Labonte,Cheerios / Chocolate Chex (Petty Enterprises),Dodge,399.0,139936.0,running,0.0,124.0
+2007,12,Charlotte,14.0,37.0,96.0,Tony Raines,DLP HDTV (Bill Saunders),Chevrolet,399.0,111300.0,running,0.0,121.0
+2007,12,Charlotte,15.0,39.0,99.0,Carl Edwards,Office Depot (Jack Roush),Ford,399.0,109950.0,running,1.0,123.0
+2007,12,Charlotte,16.0,31.0,1.0,Martin Truex Jr,"Bass Pro Shops / Tracker Boats (Dale Earnhardt, Inc.)",Chevrolet,399.0,125195.0,running,0.0,115.0
+2007,12,Charlotte,17.0,10.0,40.0,David Stremme,Coors Light (Chip Ganassi),Dodge,397.0,97935.0,running,0.0,112.0
+2007,12,Charlotte,18.0,8.0,22.0,Dave Blaney,Caterpillar (Bill Davis),Toyota,397.0,116583.0,running,0.0,109.0
+2007,12,Charlotte,19.0,28.0,26.0,Jamie McMurray,Irwin Industrial Tools (Jack Roush),Ford,395.0,103750.0,running,0.0,106.0
+2007,12,Charlotte,20.0,15.0,10.0,Scott Riggs,Valvoline / Stanley Tools (James Rocco),Dodge,394.0,104525.0,running,0.0,103.0
+2007,12,Charlotte,21.0,27.0,29.0,Kevin Harvick,Shell / Pennzoil (Richard Childress),Chevrolet,394.0,139286.0,running,0.0,100.0
+2007,12,Charlotte,22.0,35.0,7.0,Robby Gordon,Jim Beam Black (Robby Gordon),Ford,393.0,92375.0,running,0.0,97.0
+2007,12,Charlotte,23.0,18.0,9.0,Kasey Kahne,Dodge Dealers / UAW (Ray Evernham),Dodge,390.0,136491.0,running,0.0,94.0
+2007,12,Charlotte,24.0,25.0,31.0,Jeff Burton,AT&T Mobility (Richard Childress),Chevrolet,385.0,127566.0,running,0.0,91.0
+2007,12,Charlotte,25.0,24.0,36.0,Jeremy Mayfield,360 OTC (Bill Davis),Toyota,382.0,87375.0,engine,3.0,93.0
+2007,12,Charlotte,26.0,33.0,13.0,Joe Nemechek,Haier (Bobby Ginn),Chevrolet,377.0,86175.0,running,0.0,85.0
+2007,12,Charlotte,27.0,40.0,70.0,Johnny Sauter,Radio Active Energy Drink (Gene Haas),Chevrolet,376.0,85650.0,running,0.0,82.0
+2007,12,Charlotte,28.0,20.0,42.0,Juan Pablo Montoya,Texaco / Havoline (Chip Ganassi),Dodge,369.0,124300.0,running,0.0,79.0
+2007,12,Charlotte,29.0,41.0,7.0,Clint Bowyer,Jack Daniel's (Richard Childress),Chevrolet,367.0,96000.0,running,0.0,76.0
+2007,12,Charlotte,30.0,17.0,5.0,Kyle Busch,Carquest / Kellogg's (Rick Hendrick),Chevrolet,357.0,103375.0,running,4.0,78.0
+2007,12,Charlotte,31.0,29.0,84.0,A.J. Allmendinger,Red Bull (Dietrich Mateschitz),Toyota,310.0,84725.0,running,0.0,70.0
+2007,12,Charlotte,32.0,2.0,2.0,Kurt Busch,Miller Lite (Roger Penske),Dodge,296.0,126758.0,crash,107.0,77.0
+2007,12,Charlotte,33.0,30.0,14.0,Sterling Marlin,Pep Boys Auto (Bobby Ginn),Chevrolet,293.0,97472.0,running,0.0,64.0
+2007,12,Charlotte,34.0,43.0,78.0,Kenny Wallace,Furniture Row (Barney Visser),Chevrolet,289.0,84350.0,engine,0.0,61.0
+2007,12,Charlotte,35.0,19.0,38.0,David Gilliland,M&M's (Yates Racing),Ford,265.0,111414.0,running,0.0,58.0
+2007,12,Charlotte,36.0,3.0,19.0,Elliott Sadler,Dodge Dealers / UAW (Ray Evernham),Dodge,261.0,112020.0,running,0.0,55.0
+2007,12,Charlotte,37.0,13.0,6.0,David Ragan,AAA (Jack Roush),Ford,219.0,120025.0,crash,0.0,52.0
+2007,12,Charlotte,38.0,22.0,21.0,Bill Elliott,U.S. Air Force (Wood Brothers),Ford,218.0,103249.0,crash,1.0,54.0
+2007,12,Charlotte,39.0,1.0,12.0,Ryan Newman,Alltel (Roger Penske),Dodge,172.0,156100.0,engine,10.0,51.0
+2007,12,Charlotte,40.0,23.0,44.0,Dale Jarrett,UPS (Michael Waltrip),Toyota,82.0,83515.0,engine,0.0,43.0
+2007,12,Charlotte,41.0,32.0,24.0,Jeff Gordon,DuPont / Department of Defense (Rick Hendrick),Chevrolet,61.0,130341.0,crash,0.0,40.0
+2007,12,Charlotte,42.0,42.0,66.0,Jeff Green,Best Buy (Gene Haas),Chevrolet,52.0,91325.0,crash,0.0,37.0
+2007,12,Charlotte,43.0,38.0,16.0,Greg Biffle,Dish Network (Jack Roush),Ford,45.0,101490.0,crash,0.0,34.0
+2007,13,Dover,1.0,26.0,1.0,Martin Truex Jr,"Bass Pro Shops / Tracker Boats (Dale Earnhardt, Inc.)",Chevrolet,400.0,295045.0,running,216.0,195.0
+2007,13,Dover,2.0,1.0,12.0,Ryan Newman,Alltel (Roger Penske),Dodge,400.0,231650.0,running,135.0,175.0
+2007,13,Dover,3.0,5.0,99.0,Carl Edwards,Office Depot (Jack Roush),Ford,400.0,190100.0,running,18.0,170.0
+2007,13,Dover,4.0,29.0,11.0,Denny Hamlin,FedEx Kinko's (Joe Gibbs),Chevrolet,400.0,149400.0,running,0.0,160.0
+2007,13,Dover,5.0,17.0,17.0,Matt Kenseth,DeWalt (Jack Roush),Ford,400.0,161341.0,running,0.0,155.0
+2007,13,Dover,6.0,10.0,16.0,Greg Biffle,3M (Jack Roush),Ford,400.0,119850.0,running,0.0,150.0
+2007,13,Dover,7.0,21.0,1.0,Mark Martin,U.S. Army (Bobby Ginn),Chevrolet,400.0,128308.0,running,0.0,146.0
+2007,13,Dover,8.0,15.0,7.0,Clint Bowyer,Jack Daniel's (Richard Childress),Chevrolet,400.0,106275.0,running,2.0,147.0
+2007,13,Dover,9.0,6.0,24.0,Jeff Gordon,DuPont (Rick Hendrick),Chevrolet,400.0,138261.0,running,0.0,138.0
+2007,13,Dover,10.0,33.0,7.0,Robby Gordon,Menards / MAPEI (Robby Gordon),Ford,400.0,97675.0,running,0.0,134.0
+2007,13,Dover,11.0,4.0,9.0,Kasey Kahne,Dodge Dealers / UAW (Ray Evernham),Dodge,400.0,140566.0,running,28.0,135.0
+2007,13,Dover,12.0,9.0,31.0,Jeff Burton,AT&T Mobility (Richard Childress),Chevrolet,400.0,125941.0,running,0.0,127.0
+2007,13,Dover,13.0,41.0,25.0,Casey Mears,National Guard / GMAC (Rick Hendrick),Chevrolet,400.0,109125.0,running,0.0,124.0
+2007,13,Dover,14.0,31.0,6.0,David Ragan,AAA Insurance (Jack Roush),Ford,399.0,126225.0,running,0.0,121.0
+2007,13,Dover,15.0,27.0,48.0,Jimmie Johnson,Lowe's (Rick Hendrick),Chevrolet,399.0,138686.0,running,0.0,118.0
+2007,13,Dover,16.0,37.0,14.0,Sterling Marlin,Waste Management (Bobby Ginn),Chevrolet,399.0,103733.0,running,0.0,115.0
+2007,13,Dover,17.0,19.0,5.0,Kyle Busch,Kellogg's / Carquest (Rick Hendrick),Chevrolet,398.0,100400.0,running,0.0,112.0
+2007,13,Dover,18.0,3.0,43.0,Bobby Labonte,Cheerios / Betty Crocker (Petty Enterprises),Dodge,398.0,128711.0,running,0.0,109.0
+2007,13,Dover,19.0,24.0,83.0,Brian Vickers,Red Bull (Dietrich Mateschitz),Toyota,398.0,84850.0,running,0.0,106.0
+2007,13,Dover,20.0,18.0,29.0,Kevin Harvick,Shell / Pennzoil (Richard Childress),Chevrolet,398.0,132186.0,running,0.0,103.0
+2007,13,Dover,21.0,25.0,96.0,Tony Raines,DLP HDTV (Bill Saunders),Chevrolet,398.0,91975.0,running,0.0,100.0
+2007,13,Dover,22.0,2.0,8.0,"Dale Earnhardt, Jr.","Budweiser (Dale Earnhardt, Inc.)",Chevrolet,398.0,125283.0,running,0.0,97.0
+2007,13,Dover,23.0,11.0,10.0,Scott Riggs,Stanley Tools / Valvoline (James Rocco),Dodge,398.0,91375.0,running,0.0,94.0
+2007,13,Dover,24.0,8.0,26.0,Jamie McMurray,Crown Royal (Jack Roush),Ford,398.0,90075.0,running,0.0,91.0
+2007,13,Dover,25.0,35.0,13.0,Joe Nemechek,Haier (Bobby Ginn),Chevrolet,397.0,81600.0,running,0.0,88.0
+2007,13,Dover,26.0,7.0,19.0,Elliott Sadler,Dodge Dealers / UAW (Ray Evernham),Dodge,397.0,98795.0,running,0.0,85.0
+2007,13,Dover,27.0,28.0,41.0,Reed Sorenson,Target (Chip Ganassi),Dodge,397.0,101958.0,running,0.0,82.0
+2007,13,Dover,28.0,23.0,55.0,Michael Waltrip,NAPA Auto Parts (Michael Waltrip),Toyota,395.0,87808.0,running,0.0,79.0
+2007,13,Dover,29.0,36.0,38.0,David Gilliland,M&M's (Yates Racing),Ford,395.0,106214.0,running,0.0,76.0
+2007,13,Dover,30.0,38.0,66.0,Jeff Green,Haas CNC Machine Tools (Gene Haas),Chevrolet,395.0,96897.0,running,0.0,73.0
+2007,13,Dover,31.0,16.0,42.0,Juan Pablo Montoya,Texaco / Havoline (Chip Ganassi),Dodge,395.0,112775.0,running,0.0,70.0
+2007,13,Dover,32.0,42.0,70.0,Johnny Sauter,Yellow Transportation (Gene Haas),Chevrolet,394.0,75550.0,running,1.0,72.0
+2007,13,Dover,33.0,43.0,84.0,A.J. Allmendinger,Red Bull (Dietrich Mateschitz),Toyota,394.0,75400.0,running,0.0,64.0
+2007,13,Dover,34.0,39.0,45.0,Kyle Petty,Well's Fargo (Petty Enterprises),Dodge,393.0,75200.0,running,0.0,61.0
+2007,13,Dover,35.0,14.0,21.0,Bill Elliott,Little Debbie (Wood Brothers),Ford,393.0,95139.0,running,0.0,58.0
+2007,13,Dover,36.0,34.0,40.0,David Stremme,Coors Light (Chip Ganassi),Dodge,390.0,74850.0,running,0.0,55.0
+2007,13,Dover,37.0,32.0,18.0,J.J. Yeley,Interstate Batteries (Joe Gibbs),Chevrolet,370.0,102613.0,running,0.0,52.0
+2007,13,Dover,38.0,20.0,36.0,Jeremy Mayfield,360 OTC (Bill Davis),Toyota,361.0,74595.0,running,0.0,49.0
+2007,13,Dover,39.0,40.0,88.0,Ricky Rudd,Snickers (Yates Racing),Ford,352.0,105513.0,crash,0.0,46.0
+2007,13,Dover,40.0,30.0,20.0,Tony Stewart,Home Depot (Joe Gibbs),Chevrolet,327.0,122886.0,crash,0.0,43.0
+2007,13,Dover,41.0,13.0,4.0,Ward Burton,State Water Heaters (Larry McClure),Chevrolet,324.0,74220.0,crash,0.0,40.0
+2007,13,Dover,42.0,12.0,2.0,Kurt Busch,Miller Lite (Roger Penske),Dodge,271.0,108298.0,parked,0.0,-63.0
+2007,13,Dover,43.0,22.0,44.0,Dale Jarrett,UPS (Michael Waltrip),Toyota,241.0,74307.0,engine,0.0,34.0
+2007,14,Pocono,1.0,18.0,24.0,Jeff Gordon,DuPont (Rick Hendrick),Chevrolet,106.0,238286.0,running,26.0,190.0
+2007,14,Pocono,2.0,1.0,12.0,Ryan Newman,Alltel (Roger Penske),Dodge,106.0,190375.0,running,20.0,175.0
+2007,14,Pocono,3.0,3.0,1.0,Martin Truex Jr,"Bass Pro Shops / Tracker Boats (Dale Earnhardt, Inc.)",Chevrolet,106.0,156545.0,running,1.0,170.0
+2007,14,Pocono,4.0,12.0,25.0,Casey Mears,National Guard / GMAC (Rick Hendrick),Chevrolet,106.0,131800.0,running,2.0,165.0
+2007,14,Pocono,5.0,6.0,20.0,Tony Stewart,The Home Depot (Joe Gibbs),Chevrolet,106.0,146736.0,running,3.0,160.0
+2007,14,Pocono,6.0,2.0,11.0,Denny Hamlin,FedEx Ground (Joe Gibbs),Chevrolet,106.0,123625.0,running,49.0,160.0
+2007,14,Pocono,7.0,34.0,1.0,Mark Martin,U.S. Army (Bobby Ginn),Chevrolet,106.0,112483.0,running,1.0,151.0
+2007,14,Pocono,8.0,4.0,5.0,Kyle Busch,Kellogg's / Carquest (Rick Hendrick),Chevrolet,106.0,93225.0,running,0.0,142.0
+2007,14,Pocono,9.0,24.0,17.0,Matt Kenseth,DeWalt (Jack Roush),Ford,106.0,123916.0,running,0.0,138.0
+2007,14,Pocono,10.0,5.0,7.0,Clint Bowyer,Jack Daniel's (Richard Childress),Chevrolet,106.0,89375.0,running,0.0,134.0
+2007,14,Pocono,11.0,19.0,29.0,Kevin Harvick,Shell / Pennzoil (Richard Childress),Chevrolet,106.0,119636.0,running,0.0,130.0
+2007,14,Pocono,12.0,13.0,8.0,"Dale Earnhardt, Jr.","Budweiser (Dale Earnhardt, Inc.)",Chevrolet,106.0,114858.0,running,0.0,127.0
+2007,14,Pocono,13.0,10.0,31.0,Jeff Burton,AT&T Mobility (Richard Childress),Chevrolet,106.0,109191.0,running,0.0,124.0
+2007,14,Pocono,14.0,32.0,99.0,Carl Edwards,Office Depot (Jack Roush),Ford,106.0,85350.0,running,4.0,126.0
+2007,14,Pocono,15.0,33.0,13.0,Joe Nemechek,Haier (Bobby Ginn),Chevrolet,106.0,72100.0,running,0.0,118.0
+2007,14,Pocono,16.0,27.0,2.0,Kurt Busch,Miller Lite (Roger Penske),Dodge,106.0,103908.0,running,0.0,115.0
+2007,14,Pocono,17.0,11.0,18.0,J.J. Yeley,Interstate Batteries (Joe Gibbs),Chevrolet,106.0,97358.0,running,0.0,112.0
+2007,14,Pocono,18.0,31.0,10.0,Scott Riggs,Valvoline / Stanley Tools (James Rocco),Dodge,106.0,77650.0,running,0.0,109.0
+2007,14,Pocono,19.0,26.0,43.0,Bobby Labonte,Cheerios / Betty Crocker (Petty Enterprises),Dodge,106.0,105636.0,running,0.0,106.0
+2007,14,Pocono,20.0,38.0,42.0,Juan Pablo Montoya,Texaco / Havoline (Chip Ganassi),Dodge,106.0,107300.0,running,0.0,103.0
+2007,14,Pocono,21.0,15.0,19.0,Elliott Sadler,Dodge Dealers / UAW (Ray Evernham),Dodge,106.0,86370.0,running,0.0,100.0
+2007,14,Pocono,22.0,8.0,9.0,Kasey Kahne,Dodge Dealers / UAW (Ray Evernham),Dodge,106.0,111516.0,running,0.0,97.0
+2007,14,Pocono,23.0,29.0,40.0,David Stremme,Coors Light (Chip Ganassi),Dodge,106.0,68425.0,running,0.0,94.0
+2007,14,Pocono,24.0,22.0,41.0,Reed Sorenson,Target (Chip Ganassi),Dodge,106.0,91408.0,running,0.0,91.0
+2007,14,Pocono,25.0,35.0,45.0,Chad McCumbee,Goody's Cool Orange (Petty Enterprises),Dodge,106.0,81583.0,running,0.0,88.0
+2007,14,Pocono,26.0,36.0,6.0,David Ragan,AAA (Jack Roush),Ford,106.0,103250.0,running,0.0,85.0
+2007,14,Pocono,27.0,30.0,88.0,Ricky Rudd,Snickers (Yates Racing),Ford,106.0,97458.0,running,0.0,82.0
+2007,14,Pocono,28.0,21.0,15.0,Paul Menard,"Pittsburgh Paints / Menards (Dale Earnhardt, Inc.)",Chevrolet,106.0,66275.0,running,0.0,79.0
+2007,14,Pocono,29.0,25.0,26.0,Jamie McMurray,Irwin Industrial Tools (Jack Roush),Ford,106.0,74125.0,running,0.0,76.0
+2007,14,Pocono,30.0,41.0,16.0,Greg Biffle,Dish Network (Jack Roush),Ford,106.0,81825.0,running,0.0,73.0
+2007,14,Pocono,31.0,42.0,14.0,Sterling Marlin,Pep Boys Auto (Bobby Ginn),Chevrolet,106.0,74483.0,running,0.0,70.0
+2007,14,Pocono,32.0,39.0,66.0,Jeff Green,Best Buy (Gene Haas),Chevrolet,106.0,80222.0,running,0.0,67.0
+2007,14,Pocono,33.0,20.0,4.0,Ward Burton,State Water Heaters (Larry McClure),Chevrolet,106.0,63725.0,running,0.0,64.0
+2007,14,Pocono,34.0,16.0,38.0,David Gilliland,M&M's (Yates Racing),Ford,106.0,89489.0,running,0.0,61.0
+2007,14,Pocono,35.0,9.0,83.0,Brian Vickers,Red Bull (Dietrich Mateschitz),Toyota,106.0,62125.0,running,0.0,58.0
+2007,14,Pocono,36.0,17.0,96.0,Tony Raines,DLP HDTV (Bill Saunders),Chevrolet,106.0,69900.0,running,0.0,55.0
+2007,14,Pocono,37.0,43.0,21.0,Bill Elliott,Little Debbie Snack Cakes (Wood Brothers),Ford,105.0,80939.0,running,0.0,52.0
+2007,14,Pocono,38.0,23.0,0.0,David Reutimann,Burger King (Michael Waltrip),Toyota,105.0,61600.0,running,0.0,49.0
+2007,14,Pocono,39.0,28.0,84.0,A.J. Allmendinger,Red Bull (Dietrich Mateschitz),Toyota,104.0,61475.0,running,0.0,46.0
+2007,14,Pocono,40.0,40.0,70.0,Johnny Sauter,Yellow Transportation (Gene Haas),Chevrolet,103.0,61325.0,running,0.0,43.0
+2007,14,Pocono,41.0,37.0,7.0,Robby Gordon,Jim Beam (Robby Gordon),Ford,103.0,61180.0,running,0.0,40.0
+2007,14,Pocono,42.0,7.0,48.0,Jimmie Johnson,Lowe's (Rick Hendrick),Chevrolet,97.0,114966.0,running,0.0,37.0
+2007,14,Pocono,43.0,14.0,22.0,Dave Blaney,Caterpillar (Bill Davis),Toyota,55.0,69197.0,crash,0.0,34.0
+2007,15,Michigan,1.0,12.0,99.0,Carl Edwards,Office Depot (Jack Roush),Ford,200.0,177850.0,running,63.0,195.0
+2007,15,Michigan,2.0,8.0,1.0,Martin Truex Jr,"Bass Pro Shops / Tracker Boats (Dale Earnhardt, Inc.)",Chevrolet,200.0,154445.0,running,54.0,175.0
+2007,15,Michigan,3.0,41.0,20.0,Tony Stewart,The Home Depot (Joe Gibbs),Chevrolet,200.0,157586.0,running,2.0,170.0
+2007,15,Michigan,4.0,13.0,25.0,Casey Mears,National Guard / GMAC (Rick Hendrick),Chevrolet,200.0,113325.0,running,1.0,165.0
+2007,15,Michigan,5.0,23.0,8.0,"Dale Earnhardt, Jr.","Budweiser (Dale Earnhardt, Inc.)",Chevrolet,200.0,128558.0,running,1.0,160.0
+2007,15,Michigan,6.0,3.0,5.0,Kyle Busch,Kellogg's / Carquest (Rick Hendrick),Chevrolet,200.0,111650.0,running,0.0,150.0
+2007,15,Michigan,7.0,19.0,29.0,Kevin Harvick,Shell / Pennzoil (Richard Childress),Chevrolet,200.0,129761.0,running,0.0,146.0
+2007,15,Michigan,8.0,35.0,26.0,Jamie McMurray,Crown Royal (Jack Roush),Ford,200.0,92400.0,running,0.0,142.0
+2007,15,Michigan,9.0,6.0,24.0,Jeff Gordon,DuPont (Rick Hendrick),Chevrolet,200.0,124986.0,running,18.0,143.0
+2007,15,Michigan,10.0,18.0,55.0,Michael Waltrip,NAPA Auto Parts (Michael Waltrip),Toyota,199.0,99208.0,running,1.0,139.0
+2007,15,Michigan,11.0,21.0,21.0,Bill Elliott,Motorcraft (Wood Brothers),Ford,199.0,102414.0,running,0.0,130.0
+2007,15,Michigan,12.0,38.0,15.0,Paul Menard,"Menards / Johns Manville (Dale Earnhardt, Inc.)",Chevrolet,199.0,81825.0,running,1.0,132.0
+2007,15,Michigan,13.0,30.0,7.0,Robby Gordon,Menards / MAPEI (Robby Gordon),Ford,199.0,81225.0,running,0.0,124.0
+2007,15,Michigan,14.0,7.0,11.0,Denny Hamlin,FedEx Freight (Joe Gibbs),Chevrolet,199.0,94025.0,running,1.0,126.0
+2007,15,Michigan,15.0,40.0,0.0,David Reutimann,Burger King (Michael Waltrip),Toyota,199.0,92683.0,running,0.0,118.0
+2007,15,Michigan,16.0,11.0,7.0,Clint Bowyer,DirecTV (Richard Childress),Chevrolet,199.0,86225.0,running,0.0,115.0
+2007,15,Michigan,17.0,20.0,38.0,David Gilliland,M&M's (Yates Racing),Ford,199.0,105039.0,running,0.0,112.0
+2007,15,Michigan,18.0,17.0,22.0,Dave Blaney,Caterpillar (Bill Davis),Toyota,199.0,100083.0,running,0.0,109.0
+2007,15,Michigan,19.0,2.0,48.0,Jimmie Johnson,Lowe's (Rick Hendrick),Chevrolet,199.0,144961.0,running,56.0,111.0
+2007,15,Michigan,20.0,27.0,14.0,Sterling Marlin,Ginn Resorts (Bobby Ginn),Chevrolet,199.0,91108.0,running,0.0,103.0
+2007,15,Michigan,21.0,34.0,6.0,David Ragan,AAA Insurance (Jack Roush),Ford,198.0,112550.0,running,0.0,100.0
+2007,15,Michigan,22.0,25.0,88.0,Ricky Rudd,Snickers (Yates Racing),Ford,198.0,106958.0,running,0.0,97.0
+2007,15,Michigan,23.0,29.0,41.0,Reed Sorenson,Target (Chip Ganassi),Dodge,198.0,94072.0,running,0.0,94.0
+2007,15,Michigan,24.0,9.0,31.0,Jeff Burton,AT&T Mobility (Richard Childress),Chevrolet,198.0,111966.0,running,0.0,91.0
+2007,15,Michigan,25.0,10.0,2.0,Kurt Busch,Miller Lite (Roger Penske),Dodge,198.0,109208.0,running,2.0,93.0
+2007,15,Michigan,26.0,28.0,70.0,Johnny Sauter,Radioactive Energy Drink (Gene Haas),Chevrolet,198.0,75200.0,running,0.0,85.0
+2007,15,Michigan,27.0,37.0,45.0,John Andretti,American Spirit Motor Oil (Petty Enterprises),Dodge,198.0,74400.0,running,0.0,82.0
+2007,15,Michigan,28.0,1.0,18.0,J.J. Yeley,Interstate Batteries (Joe Gibbs),Chevrolet,198.0,107958.0,running,0.0,79.0
+2007,15,Michigan,29.0,15.0,1.0,Mark Martin,U.S. Army (Bobby Ginn),Chevrolet,198.0,81950.0,running,0.0,76.0
+2007,15,Michigan,30.0,5.0,13.0,Joe Nemechek,Haier (Bobby Ginn),Chevrolet,198.0,73875.0,running,0.0,73.0
+2007,15,Michigan,31.0,43.0,84.0,A.J. Allmendinger,Red Bull (Dietrich Mateschitz),Toyota,197.0,70725.0,running,0.0,70.0
+2007,15,Michigan,32.0,36.0,9.0,Kasey Kahne,Dodge Dealers / UAW (Ray Evernham),Dodge,197.0,117841.0,running,0.0,67.0
+2007,15,Michigan,33.0,22.0,10.0,Scott Riggs,Valvoline / Stanley Tools (James Rocco),Dodge,197.0,79525.0,running,0.0,64.0
+2007,15,Michigan,34.0,31.0,43.0,Bobby Labonte,Cheerios / Betty Crocker (Petty Enterprises),Dodge,197.0,107411.0,running,0.0,61.0
+2007,15,Michigan,35.0,39.0,19.0,Elliott Sadler,Dodge Dealers / UAW (Ray Evernham),Dodge,196.0,88670.0,running,0.0,58.0
+2007,15,Michigan,36.0,42.0,66.0,Jeff Green,Best Buy (Gene Haas),Chevrolet,196.0,78275.0,running,0.0,55.0
+2007,15,Michigan,37.0,4.0,12.0,Ryan Newman,Alltel (Roger Penske),Dodge,196.0,102300.0,running,0.0,52.0
+2007,15,Michigan,38.0,14.0,16.0,Greg Biffle,Dish Network (Jack Roush),Ford,192.0,88490.0,running,0.0,49.0
+2007,15,Michigan,39.0,32.0,96.0,Tony Raines,DLP HDTV (Bill Saunders),Chevrolet,184.0,78390.0,running,0.0,46.0
+2007,15,Michigan,40.0,24.0,40.0,David Stremme,Coors Light (Chip Ganassi),Dodge,183.0,70050.0,running,0.0,43.0
+2007,15,Michigan,41.0,16.0,83.0,Brian Vickers,Red Bull (Dietrich Mateschitz),Toyota,140.0,70015.0,running,0.0,40.0
+2007,15,Michigan,42.0,26.0,17.0,Matt Kenseth,Carhartt / DeWalt (Jack Roush),Ford,78.0,117611.0,crash,0.0,37.0
+2007,15,Michigan,43.0,33.0,42.0,Juan Pablo Montoya,Texaco / Havoline (Chip Ganassi),Dodge,67.0,103926.0,crash,0.0,34.0
+2007,16,Sonoma,1.0,32.0,42.0,Juan Pablo Montoya,Texaco / Havoline (Chip Ganassi),Dodge,110.0,310600.0,running,7.0,190.0
+2007,16,Sonoma,2.0,22.0,29.0,Kevin Harvick,Shell / Pennzoil (Richard Childress),Chevrolet,110.0,241561.0,running,0.0,170.0
+2007,16,Sonoma,3.0,6.0,31.0,Jeff Burton,AT&T Mobility (Richard Childress),Chevrolet,110.0,189616.0,running,0.0,165.0
+2007,16,Sonoma,4.0,10.0,7.0,Clint Bowyer,Jack Daniel's (Richard Childress),Chevrolet,110.0,129725.0,running,0.0,160.0
+2007,16,Sonoma,5.0,17.0,16.0,Greg Biffle,Dish Network (Jack Roush),Ford,110.0,123875.0,running,0.0,155.0
+2007,16,Sonoma,6.0,5.0,20.0,Tony Stewart,The Home Depot (Joe Gibbs),Chevrolet,110.0,147961.0,running,6.0,155.0
+2007,16,Sonoma,7.0,41.0,24.0,Jeff Gordon,DuPont (Rick Hendrick),Chevrolet,110.0,136986.0,running,0.0,46.0
+2007,16,Sonoma,8.0,24.0,5.0,Kyle Busch,Kellogg's / Carquest (Rick Hendrick),Chevrolet,110.0,105350.0,running,0.0,142.0
+2007,16,Sonoma,9.0,4.0,60.0,Boris Said,SOBE - No Fear (Mark Simo),Ford,110.0,91900.0,running,0.0,138.0
+2007,16,Sonoma,10.0,36.0,11.0,Denny Hamlin,FedEx Express (Joe Gibbs),Chevrolet,110.0,105875.0,running,3.0,139.0
+2007,16,Sonoma,11.0,28.0,88.0,Ricky Rudd,Snickers (Yates Racing),Ford,110.0,116083.0,running,0.0,130.0
+2007,16,Sonoma,12.0,43.0,0.0,P.J. Jones,Burger King (Michael Waltrip),Toyota,110.0,98408.0,running,0.0,127.0
+2007,16,Sonoma,13.0,3.0,8.0,"Dale Earnhardt, Jr.","Budweiser (Dale Earnhardt, Inc.)",Chevrolet,110.0,125808.0,running,0.0,124.0
+2007,16,Sonoma,14.0,12.0,19.0,Elliott Sadler,Dodge Dealers / UAW (Ray Evernham),Dodge,110.0,100645.0,running,0.0,121.0
+2007,16,Sonoma,15.0,11.0,96.0,Ron Fellows,DLP HDTV (Bill Saunders),Chevrolet,110.0,91200.0,running,3.0,123.0
+2007,16,Sonoma,16.0,2.0,7.0,Robby Gordon,Monster Energy (Robby Gordon),Ford,110.0,92900.0,running,48.0,125.0
+2007,16,Sonoma,17.0,42.0,48.0,Jimmie Johnson,Lowe's (Rick Hendrick),Chevrolet,110.0,129661.0,running,1.0,17.0
+2007,16,Sonoma,18.0,15.0,99.0,Carl Edwards,Office Depot (Jack Roush),Ford,110.0,87775.0,running,12.0,114.0
+2007,16,Sonoma,19.0,7.0,21.0,Bill Elliott,Little Debbie Snack Cakes (Wood Brothers),Ford,110.0,98214.0,running,0.0,106.0
+2007,16,Sonoma,20.0,9.0,12.0,Ryan Newman,Alltel (Roger Penske),Dodge,110.0,110550.0,running,0.0,103.0
+2007,16,Sonoma,21.0,33.0,18.0,J.J. Yeley,Interstate Batteries (Joe Gibbs),Chevrolet,110.0,107483.0,running,0.0,100.0
+2007,16,Sonoma,22.0,14.0,2.0,Kurt Busch,Miller Lite (Roger Penske),Dodge,110.0,110783.0,running,0.0,97.0
+2007,16,Sonoma,23.0,8.0,9.0,Kasey Kahne,Dodge Dealers / UAW (Ray Evernham),Dodge,110.0,120641.0,running,0.0,94.0
+2007,16,Sonoma,24.0,18.0,1.0,Martin Truex Jr,"Bass Pro Shops / Tracker Boats (Dale Earnhardt, Inc.)",Chevrolet,110.0,101795.0,running,0.0,91.0
+2007,16,Sonoma,25.0,35.0,38.0,David Gilliland,M&M's (Yates Racing),Ford,110.0,102539.0,running,0.0,88.0
+2007,16,Sonoma,26.0,16.0,44.0,Dale Jarrett,UPS (Michael Waltrip),Toyota,110.0,70900.0,running,0.0,85.0
+2007,16,Sonoma,27.0,38.0,25.0,Casey Mears,National Guard / GMAC (Rick Hendrick),Chevrolet,110.0,88375.0,running,0.0,82.0
+2007,16,Sonoma,28.0,30.0,23.0,Butch Leitzinger,Caterpillar (Bill Davis),Toyota,110.0,69800.0,running,0.0,79.0
+2007,16,Sonoma,29.0,37.0,6.0,David Ragan,AAA Insurance (Jack Roush),Ford,110.0,109100.0,running,0.0,76.0
+2007,16,Sonoma,30.0,26.0,1.0,Regan Smith,U.S. Army (Bobby Ginn),Chevrolet,110.0,97408.0,running,0.0,73.0
+2007,16,Sonoma,31.0,34.0,70.0,Johnny Sauter,Yellow / Haas CNC Machine (Gene Haas),Chevrolet,110.0,72475.0,running,0.0,70.0
+2007,16,Sonoma,32.0,40.0,40.0,David Stremme,Coors (Chip Ganassi),Dodge,110.0,72230.0,running,0.0,67.0
+2007,16,Sonoma,33.0,13.0,43.0,Bobby Labonte,Cheerios / Betty Crocker (Petty Enterprises),Dodge,109.0,109056.0,out of gas,0.0,64.0
+2007,16,Sonoma,34.0,27.0,17.0,Matt Kenseth,DeWalt (Jack Roush),Ford,109.0,117596.0,running,0.0,61.0
+2007,16,Sonoma,35.0,25.0,55.0,Terry Labonte,NAPA Auto Parts (Michael Waltrip),Toyota,109.0,83028.0,running,0.0,58.0
+2007,16,Sonoma,36.0,21.0,91.0,Marc Goossens,Commonwealth / RDM Toyota (Eddie D'Hondt),Toyota,109.0,68760.0,running,0.0,55.0
+2007,16,Sonoma,37.0,1.0,26.0,Jamie McMurray,Crown Royal (Jack Roush),Ford,109.0,85525.0,running,30.0,57.0
+2007,16,Sonoma,38.0,39.0,13.0,Joe Nemechek,Haier (Bobby Ginn),Chevrolet,109.0,68510.0,running,0.0,49.0
+2007,16,Sonoma,39.0,23.0,45.0,Kyle Petty,Wells Fargo (Petty Enterprises),Dodge,108.0,80058.0,running,0.0,46.0
+2007,16,Sonoma,40.0,29.0,41.0,Reed Sorenson,Target (Chip Ganassi),Dodge,105.0,85797.0,out of gas,0.0,43.0
+2007,16,Sonoma,41.0,19.0,22.0,Dave Blaney,Caterpillar (Bill Davis),Toyota,97.0,76125.0,running,0.0,40.0
+2007,16,Sonoma,42.0,31.0,66.0,Jeff Green,Best Buy / Garmin / Comcast (Gene Haas),Chevrolet,68.0,76030.0,crash,0.0,37.0
+2007,16,Sonoma,43.0,20.0,14.0,Sterling Marlin,Wiley X (Bobby Ginn),Chevrolet,12.0,68188.0,engine,0.0,34.0
+2007,17,Loudon,1.0,11.0,11.0,Denny Hamlin,FedEx Ground (Joe Gibbs),Chevrolet,300.0,235775.0,running,46.0,190.0
+2007,17,Loudon,2.0,8.0,24.0,Jeff Gordon,DuPont (Rick Hendrick),Chevrolet,300.0,203986.0,running,37.0,175.0
+2007,17,Loudon,3.0,9.0,1.0,Martin Truex Jr,"Bass Pro Shops / Tracker Boats (Dale Earnhardt, Inc.)",Chevrolet,300.0,159645.0,running,46.0,170.0
+2007,17,Loudon,4.0,6.0,8.0,"Dale Earnhardt, Jr.","Budweiser (Dale Earnhardt, Inc.)",Chevrolet,300.0,167058.0,running,64.0,170.0
+2007,17,Loudon,5.0,10.0,48.0,Jimmie Johnson,Lowe's (Rick Hendrick),Chevrolet,300.0,164236.0,running,12.0,160.0
+2007,17,Loudon,6.0,15.0,66.0,Jeff Green,Haas CNC Machine Tools / Best Buy (Gene Haas),Chevrolet,300.0,126458.0,running,0.0,150.0
+2007,17,Loudon,7.0,26.0,31.0,Jeff Burton,Lenox Industrial Tools (Richard Childress),Chevrolet,300.0,126041.0,running,0.0,146.0
+2007,17,Loudon,8.0,7.0,29.0,Kevin Harvick,Shell / Pennzoil (Richard Childress),Chevrolet,300.0,130436.0,running,0.0,142.0
+2007,17,Loudon,9.0,30.0,17.0,Matt Kenseth,Carhartt / DeWalt (Jack Roush),Ford,300.0,130741.0,running,2.0,143.0
+2007,17,Loudon,10.0,12.0,12.0,Ryan Newman,Alltel (Roger Penske),Dodge,300.0,116725.0,running,3.0,139.0
+2007,17,Loudon,11.0,18.0,5.0,Kyle Busch,Kellogg's / Carquest (Rick Hendrick),Chevrolet,300.0,99750.0,running,48.0,110.0
+2007,17,Loudon,12.0,14.0,20.0,Tony Stewart,The Home Depot (Joe Gibbs),Chevrolet,300.0,126136.0,running,0.0,127.0
+2007,17,Loudon,13.0,22.0,99.0,Carl Edwards,Lumber Liquidators / Boston Red Sox (Jack Roush),Ford,300.0,90350.0,running,2.0,129.0
+2007,17,Loudon,14.0,4.0,70.0,Johnny Sauter,Haas CNC Machine Tools (Gene Haas),Chevrolet,300.0,80500.0,running,0.0,96.0
+2007,17,Loudon,15.0,32.0,6.0,David Ragan,AAA (Jack Roush),Ford,300.0,117325.0,running,0.0,118.0
+2007,17,Loudon,16.0,38.0,26.0,Jamie McMurray,Irwin Industrial Tools (Jack Roush),Ford,300.0,91200.0,running,0.0,115.0
+2007,17,Loudon,17.0,16.0,7.0,Robby Gordon,Menards / MAPEI (Robby Gordon),Ford,300.0,77325.0,running,0.0,112.0
+2007,17,Loudon,18.0,31.0,43.0,Bobby Labonte,Cheerios / Betty Crocker (Petty Enterprises),Dodge,300.0,114461.0,running,0.0,109.0
+2007,17,Loudon,19.0,5.0,42.0,Juan Pablo Montoya,Texaco / Havoline (Chip Ganassi),Dodge,300.0,111200.0,running,0.0,106.0
+2007,17,Loudon,20.0,39.0,96.0,Tony Raines,DLP HDTV (Bill Saunders),Chevrolet,300.0,87525.0,running,0.0,103.0
+2007,17,Loudon,21.0,2.0,2.0,Kurt Busch,Miller Lite (Roger Penske),Dodge,300.0,112633.0,running,10.0,105.0
+2007,17,Loudon,22.0,19.0,18.0,J.J. Yeley,Interstate Batteries (Joe Gibbs),Chevrolet,300.0,103583.0,running,0.0,97.0
+2007,17,Loudon,23.0,21.0,25.0,Casey Mears,National Guard / GMAC (Rick Hendrick),Chevrolet,300.0,91025.0,running,0.0,94.0
+2007,17,Loudon,24.0,41.0,14.0,Sterling Marlin,Ginn Resorts (Bobby Ginn),Chevrolet,300.0,91333.0,running,0.0,91.0
+2007,17,Loudon,25.0,28.0,9.0,Kasey Kahne,Dodge Dealers / UAW (Ray Evernham),Dodge,300.0,118866.0,running,0.0,88.0
+2007,17,Loudon,26.0,3.0,41.0,Reed Sorenson,Target (Chip Ganassi),Dodge,300.0,98833.0,running,0.0,85.0
+2007,17,Loudon,27.0,24.0,40.0,David Stremme,Coors Light (Chip Ganassi),Dodge,300.0,74350.0,running,0.0,82.0
+2007,17,Loudon,28.0,27.0,38.0,David Gilliland,M&M's (Yates Racing),Ford,299.0,101264.0,running,0.0,79.0
+2007,17,Loudon,29.0,1.0,22.0,Dave Blaney,Caterpillar (Bill Davis),Toyota,299.0,106433.0,running,30.0,81.0
+2007,17,Loudon,30.0,42.0,88.0,Ricky Rudd,Snickers (Yates Racing),Ford,299.0,104558.0,running,0.0,73.0
+2007,17,Loudon,31.0,34.0,16.0,Greg Biffle,Aflac (Jack Roush),Ford,298.0,88625.0,running,0.0,70.0
+2007,17,Loudon,32.0,13.0,1.0,Regan Smith,U.S. Army (Bobby Ginn),Chevrolet,298.0,87647.0,running,0.0,67.0
+2007,17,Loudon,33.0,23.0,19.0,Elliott Sadler,Dodge Dealers / UAW (Ray Evernham),Dodge,297.0,89195.0,running,0.0,64.0
+2007,17,Loudon,34.0,36.0,21.0,Bill Elliott,Little Debbie Snack Cakes (Wood Brothers),Ford,297.0,88914.0,running,0.0,61.0
+2007,17,Loudon,35.0,37.0,37.0,Kevin Lepage,MyAutoLoan.com (Bob Jenkins),Dodge,294.0,69500.0,running,0.0,58.0
+2007,17,Loudon,36.0,43.0,49.0,Chad Chaffin,Paralyzed Veterans of America (Beth Ann Morgenthau),Dodge,293.0,69275.0,running,0.0,55.0
+2007,17,Loudon,37.0,20.0,7.0,Clint Bowyer,Camping World / RVs.com (Richard Childress),Chevrolet,293.0,77075.0,running,0.0,52.0
+2007,17,Loudon,38.0,17.0,0.0,David Reutimann,Burger King (Michael Waltrip),Toyota,293.0,68875.0,running,0.0,49.0
+2007,17,Loudon,39.0,35.0,15.0,Paul Menard,"Menards / Sylvania (Dale Earnhardt, Inc.)",Chevrolet,286.0,68750.0,running,0.0,46.0
+2007,17,Loudon,40.0,29.0,36.0,Jeremy Mayfield,360 OTC (Bill Davis),Toyota,259.0,68600.0,running,0.0,43.0
+2007,17,Loudon,41.0,33.0,13.0,Joe Nemechek,Ginn Resorts (Bobby Ginn),Chevrolet,197.0,68430.0,crash,0.0,40.0
+2007,17,Loudon,42.0,40.0,45.0,John Andretti,Wells Fargo (Petty Enterprises),Dodge,109.0,68305.0,engine,0.0,37.0
+2007,17,Loudon,43.0,25.0,4.0,Ward Burton,State Water Heaters (Larry McClure),Chevrolet,4.0,68461.0,engine,0.0,34.0
+2007,18,Daytona,1.0,15.0,26.0,Jamie McMurray,Irwin Marathon Tool (Jack Roush),Ford,160.0,302500.0,running,3.0,190.0
+2007,18,Daytona,2.0,11.0,5.0,Kyle Busch,Kellogg's / Carquest (Rick Hendrick),Chevrolet,160.0,207275.0,running,20.0,175.0
+2007,18,Daytona,3.0,16.0,2.0,Kurt Busch,Miller Lite (Roger Penske),Dodge,160.0,197033.0,running,45.0,170.0
+2007,18,Daytona,4.0,7.0,99.0,Carl Edwards,Office Depot (Jack Roush),Ford,160.0,158325.0,running,0.0,160.0
+2007,18,Daytona,5.0,1.0,24.0,Jeff Gordon,DuPont / Pepsi (Rick Hendrick),Chevrolet,160.0,172261.0,running,9.0,160.0
+2007,18,Daytona,6.0,18.0,16.0,Greg Biffle,Dish Network (Jack Roush),Ford,160.0,130750.0,running,0.0,150.0
+2007,18,Daytona,7.0,12.0,7.0,Clint Bowyer,Jack Daniel's (Richard Childress),Chevrolet,160.0,123800.0,running,55.0,156.0
+2007,18,Daytona,8.0,3.0,17.0,Matt Kenseth,R&L Carriers / DeWalt (Jack Roush),Ford,160.0,151416.0,running,0.0,142.0
+2007,18,Daytona,9.0,27.0,9.0,Kasey Kahne,I Now Pronounce You Chuck & Larry (Ray Evernham),Dodge,160.0,148916.0,running,0.0,138.0
+2007,18,Daytona,10.0,4.0,48.0,Jimmie Johnson,Lowe's (Rick Hendrick),Chevrolet,160.0,156086.0,running,0.0,134.0
+2007,18,Daytona,11.0,32.0,38.0,David Gilliland,M&M's (Yates Racing),Ford,160.0,133514.0,running,0.0,130.0
+2007,18,Daytona,12.0,24.0,6.0,David Ragan,AAA Travel (Jack Roush),Ford,160.0,137250.0,running,0.0,127.0
+2007,18,Daytona,13.0,10.0,1.0,Martin Truex Jr,"Bass Pro Shops / NWTF (Dale Earnhardt, Inc.)",Chevrolet,160.0,125995.0,running,0.0,124.0
+2007,18,Daytona,14.0,14.0,12.0,Ryan Newman,Alltel (Roger Penske),Dodge,160.0,129875.0,running,0.0,121.0
+2007,18,Daytona,15.0,25.0,7.0,Robby Gordon,Camping World (Robby Gordon),Ford,160.0,98000.0,running,0.0,93.0
+2007,18,Daytona,16.0,5.0,31.0,Jeff Burton,AT&T Mobility (Richard Childress),Chevrolet,160.0,132366.0,running,0.0,115.0
+2007,18,Daytona,17.0,9.0,1.0,Mark Martin,Principal Financial (Bobby Ginn),Chevrolet,160.0,122283.0,running,0.0,112.0
+2007,18,Daytona,18.0,35.0,70.0,Johnny Sauter,Haas Automation (Gene Haas),Chevrolet,160.0,95100.0,running,0.0,109.0
+2007,18,Daytona,19.0,21.0,25.0,Casey Mears,National Guard / GMAC (Rick Hendrick),Chevrolet,160.0,119150.0,running,11.0,111.0
+2007,18,Daytona,20.0,17.0,18.0,J.J. Yeley,Interstate Batteries (Joe Gibbs),Chevrolet,160.0,123658.0,running,0.0,103.0
+2007,18,Daytona,21.0,41.0,15.0,Paul Menard,"Menards / Pittsburgh Paints (Dale Earnhardt, Inc.)",Chevrolet,160.0,92050.0,running,0.0,100.0
+2007,18,Daytona,22.0,26.0,40.0,David Stremme,Coors Light (Chip Ganassi),Dodge,160.0,91325.0,running,0.0,97.0
+2007,18,Daytona,23.0,40.0,22.0,Dave Blaney,Caterpillar (Bill Davis),Toyota,160.0,115658.0,running,0.0,94.0
+2007,18,Daytona,24.0,38.0,21.0,Bill Elliott,U.S. Air Force (Wood Brothers),Ford,160.0,109339.0,running,2.0,96.0
+2007,18,Daytona,25.0,43.0,78.0,Kenny Wallace,Furniture Row (Barney Visser),Chevrolet,160.0,86575.0,running,1.0,93.0
+2007,18,Daytona,26.0,42.0,0.0,David Reutimann,Burger King (Michael Waltrip),Toyota,160.0,99583.0,running,0.0,85.0
+2007,18,Daytona,27.0,37.0,44.0,Dale Jarrett,UPS (Michael Waltrip),Toyota,160.0,84775.0,running,0.0,82.0
+2007,18,Daytona,28.0,34.0,45.0,John Andretti,Tire Kingdom (Petty Enterprises),Dodge,160.0,98808.0,running,0.0,79.0
+2007,18,Daytona,29.0,36.0,83.0,Brian Vickers,Red Bull (Dietrich Mateschitz),Toyota,160.0,86925.0,running,0.0,76.0
+2007,18,Daytona,30.0,33.0,13.0,Joe Nemechek,"Charleston, SC Fire Dept. (Bobby Ginn)",Chevrolet,160.0,86750.0,running,0.0,73.0
+2007,18,Daytona,31.0,31.0,88.0,Ricky Rudd,M&M's (Yates Racing),Ford,158.0,114608.0,running,0.0,70.0
+2007,18,Daytona,32.0,20.0,42.0,Juan Pablo Montoya,Texaco / Havoline (Chip Ganassi),Dodge,157.0,118025.0,running,0.0,67.0
+2007,18,Daytona,33.0,22.0,19.0,Elliott Sadler,Dodge Dealers / UAW (Ray Evernham),Dodge,153.0,102620.0,running,0.0,64.0
+2007,18,Daytona,34.0,8.0,29.0,Kevin Harvick,Shell / Pennzoil (Richard Childress),Chevrolet,147.0,131936.0,running,3.0,66.0
+2007,18,Daytona,35.0,19.0,43.0,Bobby Labonte,Cheerios / Pillsbury Cinnabon (Petty Enterprises),Dodge,137.0,119961.0,running,1.0,63.0
+2007,18,Daytona,36.0,13.0,8.0,"Dale Earnhardt, Jr.","Budweiser (Dale Earnhardt, Inc.)",Chevrolet,134.0,128283.0,running,0.0,55.0
+2007,18,Daytona,37.0,30.0,66.0,Jeff Green,Haas Automation (Gene Haas),Chevrolet,131.0,100247.0,running,0.0,52.0
+2007,18,Daytona,38.0,6.0,20.0,Tony Stewart,Home Depot (Joe Gibbs),Chevrolet,125.0,131086.0,running,0.0,49.0
+2007,18,Daytona,39.0,23.0,96.0,Tony Raines,DLP HDTV (Bill Saunders),Chevrolet,120.0,90425.0,running,0.0,46.0
+2007,18,Daytona,40.0,29.0,14.0,Sterling Marlin,Waste Management (Bobby Ginn),Chevrolet,114.0,82280.0,crash,0.0,43.0
+2007,18,Daytona,41.0,39.0,10.0,Scott Riggs,Valvoline / Stanley Tools (James Rocco),Dodge,105.0,90150.0,engine,0.0,40.0
+2007,18,Daytona,42.0,28.0,41.0,Reed Sorenson,Target (Chip Ganassi),Dodge,103.0,90055.0,running,0.0,37.0
+2007,18,Daytona,43.0,2.0,11.0,Denny Hamlin,FedEx Kinko's (Joe Gibbs),Chevrolet,99.0,106611.0,running,10.0,39.0
+2007,19,Chicago,1.0,19.0,20.0,Tony Stewart,Home Depot (Joe Gibbs),Chevrolet,267.0,342161.0,running,108.0,195.0
+2007,19,Chicago,2.0,10.0,17.0,Matt Kenseth,USG Sheetrock / DeWalt (Jack Roush),Ford,267.0,249866.0,running,1.0,175.0
+2007,19,Chicago,3.0,25.0,99.0,Carl Edwards,Office Depot (Jack Roush),Ford,267.0,179625.0,running,0.0,165.0
+2007,19,Chicago,4.0,14.0,29.0,Kevin Harvick,Shell / Pennzoil (Richard Childress),Chevrolet,267.0,192986.0,running,54.0,165.0
+2007,19,Chicago,5.0,1.0,25.0,Casey Mears,National Guard / GMAC (Rick Hendrick),Chevrolet,267.0,157075.0,running,5.0,160.0
+2007,19,Chicago,6.0,35.0,2.0,Kurt Busch,Miller Lite (Roger Penske),Dodge,267.0,150133.0,running,2.0,155.0
+2007,19,Chicago,7.0,23.0,31.0,Jeff Burton,AT&T Mobility (Richard Childress),Chevrolet,267.0,142141.0,running,0.0,146.0
+2007,19,Chicago,8.0,3.0,12.0,Ryan Newman,Mobil 1 / Alltel (Roger Penske),Dodge,267.0,136025.0,running,0.0,142.0
+2007,19,Chicago,9.0,11.0,24.0,Jeff Gordon,DuPont / Nicorette (Rick Hendrick),Chevrolet,267.0,144086.0,running,0.0,138.0
+2007,19,Chicago,10.0,7.0,7.0,Clint Bowyer,Jack Daniel's (Richard Childress),Chevrolet,267.0,111725.0,running,1.0,139.0
+2007,19,Chicago,11.0,33.0,16.0,Greg Biffle,Aflac (Jack Roush),Ford,267.0,111875.0,running,0.0,130.0
+2007,19,Chicago,12.0,22.0,41.0,Reed Sorenson,Target / Maxwell House (Chip Ganassi),Dodge,267.0,123233.0,running,0.0,127.0
+2007,19,Chicago,13.0,6.0,5.0,Kyle Busch,Kellogg's / Carquest (Rick Hendrick),Chevrolet,267.0,108875.0,running,0.0,124.0
+2007,19,Chicago,14.0,4.0,1.0,Mark Martin,U.S. Army (Bobby Ginn),Chevrolet,267.0,118408.0,running,0.0,121.0
+2007,19,Chicago,15.0,30.0,42.0,Juan Pablo Montoya,Wrigley's Big Red (Chip Ganassi),Dodge,267.0,130575.0,running,0.0,118.0
+2007,19,Chicago,16.0,42.0,38.0,David Gilliland,M&M's (Yates Racing),Ford,267.0,124264.0,running,0.0,115.0
+2007,19,Chicago,17.0,13.0,11.0,Denny Hamlin,FedEx Express (Joe Gibbs),Chevrolet,267.0,106450.0,running,0.0,112.0
+2007,19,Chicago,18.0,9.0,45.0,John Andretti,National Tire & Battery (Petty Enterprises),Dodge,267.0,104808.0,running,0.0,109.0
+2007,19,Chicago,19.0,5.0,8.0,"Dale Earnhardt, Jr.","Budweiser (Dale Earnhardt, Inc.)",Chevrolet,267.0,131658.0,running,2.0,111.0
+2007,19,Chicago,20.0,12.0,43.0,Bobby Labonte,Cheerios / Betty Crocker (Petty Enterprises),Dodge,266.0,129136.0,running,0.0,103.0
+2007,19,Chicago,21.0,41.0,88.0,Ricky Rudd,Pedigree / Snickers (Yates Racing),Ford,266.0,119683.0,running,0.0,100.0
+2007,19,Chicago,22.0,18.0,70.0,Johnny Sauter,Yellow Transportation (Gene Haas),Chevrolet,266.0,87950.0,running,0.0,97.0
+2007,19,Chicago,23.0,37.0,14.0,Sterling Marlin,Waste Management (Bobby Ginn),Chevrolet,266.0,99858.0,running,0.0,94.0
+2007,19,Chicago,24.0,40.0,96.0,Tony Raines,DLP HDTV (Bill Saunders),Chevrolet,265.0,95050.0,running,0.0,91.0
+2007,19,Chicago,25.0,32.0,6.0,David Ragan,AAA Insurance (Jack Roush),Ford,265.0,122525.0,running,0.0,88.0
+2007,19,Chicago,26.0,20.0,36.0,Jeremy Mayfield,360 OTC (Bill Davis),Toyota,265.0,82025.0,running,0.0,85.0
+2007,19,Chicago,27.0,29.0,66.0,Jeff Green,Comcast / Best Buy (Gene Haas),Chevrolet,265.0,102072.0,running,0.0,82.0
+2007,19,Chicago,28.0,17.0,21.0,Bill Elliott,Little Debbie Snack Cakes (Wood Brothers),Ford,265.0,103339.0,running,0.0,79.0
+2007,19,Chicago,29.0,27.0,13.0,Joe Nemechek,CertainTeed (Bobby Ginn),Chevrolet,264.0,83625.0,running,0.0,76.0
+2007,19,Chicago,30.0,28.0,55.0,Michael Waltrip,NAPA Auto Parts (Michael Waltrip),Toyota,264.0,80875.0,running,0.0,73.0
+2007,19,Chicago,31.0,26.0,49.0,Chad Chaffin,Paralyzed Veterans of America (Beth Ann Morgenthau),Dodge,263.0,80175.0,running,0.0,70.0
+2007,19,Chicago,32.0,24.0,9.0,Kasey Kahne,Dodge Dealers / UAW (Ray Evernham),Dodge,262.0,127166.0,running,0.0,67.0
+2007,19,Chicago,33.0,31.0,19.0,Elliott Sadler,Dodge Dealers / UAW (Ray Evernham),Dodge,260.0,101570.0,running,0.0,64.0
+2007,19,Chicago,34.0,38.0,40.0,David Stremme,Tums / Coors Light (Chip Ganassi),Dodge,257.0,79575.0,engine,0.0,61.0
+2007,19,Chicago,35.0,36.0,18.0,J.J. Yeley,Interstate Batteries (Joe Gibbs),Chevrolet,243.0,107258.0,crash,0.0,58.0
+2007,19,Chicago,36.0,39.0,7.0,Robby Gordon,Jim Beam (Robby Gordon),Ford,225.0,79150.0,running,0.0,55.0
+2007,19,Chicago,37.0,8.0,48.0,Jimmie Johnson,Lowe's (Rick Hendrick),Chevrolet,222.0,132861.0,crash,82.0,57.0
+2007,19,Chicago,38.0,34.0,26.0,Jamie McMurray,Crown Royal (Jack Roush),Ford,214.0,86700.0,running,0.0,49.0
+2007,19,Chicago,39.0,2.0,1.0,Martin Truex Jr,"Bass Pro Shops / Tracker Boats (Dale Earnhardt, Inc.)",Chevrolet,211.0,104845.0,engine,12.0,51.0
+2007,19,Chicago,40.0,15.0,22.0,Dave Blaney,Caterpillar (Bill Davis),Toyota,199.0,86280.0,crash,0.0,43.0
+2007,19,Chicago,41.0,43.0,4.0,Ward Burton,State Water Heaters (Larry McClure),Chevrolet,197.0,78080.0,crash,0.0,40.0
+2007,19,Chicago,42.0,16.0,15.0,Paul Menard,"Menards / Turtle Wax Ice (Dale Earnhardt, Inc.)",Chevrolet,132.0,77910.0,running,0.0,37.0
+2007,19,Chicago,43.0,21.0,0.0,David Reutimann,Burger King (Michael Waltrip),Toyota,43.0,77976.0,engine,0.0,34.0
+2007,20,Indianapolis,1.0,14.0,20.0,Tony Stewart,Home Depot (Joe Gibbs),Chevrolet,160.0,488111.0,running,65.0,170.0
+2007,20,Indianapolis,2.0,2.0,42.0,Juan Pablo Montoya,Texaco / Havoline (Chip Ganassi),Dodge,160.0,360850.0,running,0.0,170.0
+2007,20,Indianapolis,3.0,21.0,24.0,Jeff Gordon,DuPont (Rick Hendrick),Chevrolet,160.0,324411.0,running,0.0,165.0
+2007,20,Indianapolis,4.0,18.0,5.0,Kyle Busch,Carquest / Kellogg's (Rick Hendrick),Chevrolet,160.0,271075.0,running,17.0,165.0
+2007,20,Indianapolis,5.0,1.0,41.0,Reed Sorenson,Target / FujiFilm (Chip Ganassi),Dodge,160.0,282408.0,running,16.0,160.0
+2007,20,Indianapolis,6.0,13.0,1.0,Mark Martin,"U.S. Army (Dale Earnhardt, Inc.)",Chevrolet,160.0,223075.0,running,0.0,150.0
+2007,20,Indianapolis,7.0,20.0,29.0,Kevin Harvick,Reese's / Elvis Presley (Richard Childress),Chevrolet,160.0,244411.0,running,18.0,151.0
+2007,20,Indianapolis,8.0,7.0,31.0,Jeff Burton,AT&T Mobility (Richard Childress),Chevrolet,160.0,221391.0,running,0.0,142.0
+2007,20,Indianapolis,9.0,27.0,22.0,Dave Blaney,Caterpillar (Bill Davis),Toyota,160.0,204958.0,running,0.0,138.0
+2007,20,Indianapolis,10.0,31.0,17.0,Matt Kenseth,DeWalt (Jack Roush),Ford,160.0,226241.0,running,0.0,134.0
+2007,20,Indianapolis,11.0,6.0,2.0,Kurt Busch,Miller Lite (Roger Penske),Dodge,160.0,205358.0,running,0.0,130.0
+2007,20,Indianapolis,12.0,33.0,1.0,Martin Truex Jr,"Bass Pro Shops / Tracker Boats (Dale Earnhardt, Inc.)",Chevrolet,160.0,191670.0,running,0.0,127.0
+2007,20,Indianapolis,13.0,26.0,7.0,Clint Bowyer,Jack Daniel's (Richard Childress),Chevrolet,160.0,169175.0,running,0.0,124.0
+2007,20,Indianapolis,14.0,40.0,4.0,Ward Burton,Lucas Oil / State Water Heaters (Larry McClure),Chevrolet,160.0,161125.0,running,0.0,121.0
+2007,20,Indianapolis,15.0,8.0,16.0,Greg Biffle,Dish Network (Jack Roush),Ford,160.0,178425.0,running,11.0,123.0
+2007,20,Indianapolis,16.0,30.0,6.0,David Ragan,AAA Insurance (Jack Roush),Ford,160.0,193450.0,running,0.0,115.0
+2007,20,Indianapolis,17.0,38.0,38.0,David Gilliland,M&M's (Yates Racing),Ford,160.0,183114.0,running,0.0,112.0
+2007,20,Indianapolis,18.0,35.0,99.0,Carl Edwards,Office Depot (Jack Roush),Ford,160.0,163150.0,running,0.0,109.0
+2007,20,Indianapolis,19.0,29.0,43.0,Bobby Labonte,Totino's Pizza Rolls (Petty Enterprises),Dodge,160.0,190636.0,running,0.0,106.0
+2007,20,Indianapolis,20.0,28.0,15.0,Paul Menard,"Menards / Johns Manville (Dale Earnhardt, Inc.)",Chevrolet,160.0,153650.0,running,0.0,103.0
+2007,20,Indianapolis,21.0,25.0,83.0,Brian Vickers,Red Bull (Dietrich Mateschitz),Toyota,160.0,151475.0,running,0.0,100.0
+2007,20,Indianapolis,22.0,10.0,11.0,Denny Hamlin,FedEx Kinko's (Joe Gibbs),Chevrolet,159.0,167875.0,running,0.0,97.0
+2007,20,Indianapolis,23.0,32.0,21.0,Bill Elliott,Motorcraft (Wood Brothers),Ford,159.0,169789.0,running,0.0,94.0
+2007,20,Indianapolis,24.0,37.0,88.0,Ricky Rudd,Snickers (Yates Racing),Ford,159.0,179258.0,running,0.0,91.0
+2007,20,Indianapolis,25.0,36.0,49.0,Ken Schrader,Paralyzed Veterans of America (Beth Ann Morgenthau),Dodge,159.0,158683.0,running,0.0,88.0
+2007,20,Indianapolis,26.0,12.0,40.0,David Stremme,Target (Chip Ganassi),Dodge,158.0,146075.0,running,0.0,85.0
+2007,20,Indianapolis,27.0,42.0,7.0,Robby Gordon,Menards / Johns Manville (Robby Gordon),Ford,157.0,144975.0,running,0.0,82.0
+2007,20,Indianapolis,28.0,17.0,19.0,Elliott Sadler,Dodge Dealers / UAW (Ray Evernham),Dodge,155.0,162320.0,running,0.0,79.0
+2007,20,Indianapolis,29.0,16.0,10.0,Scott Riggs,Stanley Tools / Valvoline (James Rocco),Dodge,154.0,150975.0,running,0.0,76.0
+2007,20,Indianapolis,30.0,43.0,55.0,Terry Labonte,NAPA Auto Parts (Michael Waltrip),Toyota,150.0,152108.0,engine,0.0,73.0
+2007,20,Indianapolis,31.0,22.0,33.0,Scott Wimmer,Holiday Inn (Richard Childress),Chevrolet,145.0,139450.0,running,0.0,70.0
+2007,20,Indianapolis,32.0,41.0,45.0,Kyle Petty,Marathon Amercian Spirit Motor Oil (Petty Enterprises),Dodge,141.0,148497.0,running,0.0,67.0
+2007,20,Indianapolis,33.0,15.0,26.0,Jamie McMurray,Crown Royal (Jack Roush),Ford,139.0,147650.0,running,0.0,64.0
+2007,20,Indianapolis,34.0,4.0,8.0,"Dale Earnhardt, Jr.","Budweiser (Dale Earnhardt, Inc.)",Chevrolet,136.0,203658.0,engine,33.0,66.0
+2007,20,Indianapolis,35.0,9.0,25.0,Casey Mears,National Guard / GMAC (Rick Hendrick),Chevrolet,132.0,156150.0,running,0.0,58.0
+2007,20,Indianapolis,36.0,23.0,18.0,J.J. Yeley,Interstate Batteries (Joe Gibbs),Chevrolet,120.0,165958.0,crash,0.0,55.0
+2007,20,Indianapolis,37.0,39.0,70.0,Johnny Sauter,Radioactive Energy Drink (Gene Haas),Chevrolet,100.0,137975.0,running,0.0,52.0
+2007,20,Indianapolis,38.0,34.0,0.0,David Reutimann,Burger King / The Simpsons (Michael Waltrip),Toyota,92.0,137850.0,engine,0.0,49.0
+2007,20,Indianapolis,39.0,19.0,48.0,Jimmie Johnson,Lowe's (Rick Hendrick),Chevrolet,59.0,191686.0,crash,0.0,46.0
+2007,20,Indianapolis,40.0,5.0,9.0,Kasey Kahne,Dodge Dealers / UAW (Ray Evernham),Dodge,39.0,186016.0,crash,0.0,43.0
+2007,20,Indianapolis,41.0,11.0,96.0,Tony Raines,DLP HDTV / H.H. Gregg (Bill Saunders),Chevrolet,39.0,145550.0,crash,0.0,40.0
+2007,20,Indianapolis,42.0,3.0,12.0,Ryan Newman,Alltel (Roger Penske),Dodge,20.0,172025.0,crash,0.0,37.0
+2007,20,Indianapolis,43.0,24.0,66.0,Jeff Green,Best Buy / Haas Automation (Gene Haas),Chevrolet,13.0,145647.0,crash,0.0,34.0
+2007,21,Pocono,1.0,2.0,2.0,Kurt Busch,Miller Lite (Roger Penske),Dodge,200.0,212108.0,running,175.0,195.0
+2007,21,Pocono,2.0,1.0,8.0,"Dale Earnhardt, Jr.","Budweiser (Dale Earnhardt, Inc.)",Chevrolet,200.0,218708.0,running,8.0,175.0
+2007,21,Pocono,3.0,6.0,11.0,Denny Hamlin,FedEx Express (Joe Gibbs),Chevrolet,200.0,157200.0,running,0.0,165.0
+2007,21,Pocono,4.0,11.0,24.0,Jeff Gordon,DuPont (Rick Hendrick),Chevrolet,200.0,155136.0,running,0.0,160.0
+2007,21,Pocono,5.0,7.0,48.0,Jimmie Johnson,Lowe's (Rick Hendrick),Chevrolet,200.0,148936.0,running,0.0,155.0
+2007,21,Pocono,6.0,24.0,20.0,Tony Stewart,Home Depot (Joe Gibbs),Chevrolet,200.0,136361.0,running,0.0,150.0
+2007,21,Pocono,7.0,4.0,12.0,Ryan Newman,Mobil 1 / Alltel (Roger Penske),Dodge,200.0,127350.0,running,1.0,151.0
+2007,21,Pocono,8.0,15.0,7.0,Clint Bowyer,Camping World (Richard Childress),Chevrolet,200.0,88925.0,running,1.0,147.0
+2007,21,Pocono,9.0,25.0,1.0,Mark Martin,"U.S. Army (Dale Earnhardt, Inc.)",Chevrolet,200.0,87325.0,running,0.0,138.0
+2007,21,Pocono,10.0,8.0,25.0,Casey Mears,National Guard / GMAC (Rick Hendrick),Chevrolet,200.0,94475.0,running,0.0,134.0
+2007,21,Pocono,11.0,18.0,31.0,Jeff Burton,AT&T Mobility (Richard Childress),Chevrolet,200.0,111391.0,running,0.0,130.0
+2007,21,Pocono,12.0,3.0,5.0,Kyle Busch,Kellogg's / Carquest (Rick Hendrick),Chevrolet,200.0,87650.0,running,2.0,132.0
+2007,21,Pocono,13.0,20.0,88.0,Ricky Rudd,Combos (Yates Racing),Ford,200.0,104533.0,running,0.0,124.0
+2007,21,Pocono,14.0,37.0,17.0,Matt Kenseth,DeWalt (Jack Roush),Ford,200.0,122191.0,running,1.0,126.0
+2007,21,Pocono,15.0,17.0,96.0,Tony Raines,DLP HDTV / Rush Hour 3 (Bill Saunders),Chevrolet,200.0,81100.0,running,0.0,118.0
+2007,21,Pocono,16.0,9.0,42.0,Juan Pablo Montoya,Texaco / Havoline (Chip Ganassi),Dodge,200.0,106425.0,running,0.0,115.0
+2007,21,Pocono,17.0,23.0,29.0,Kevin Harvick,Shell / Pennzoil (Richard Childress),Chevrolet,200.0,114186.0,running,0.0,112.0
+2007,21,Pocono,18.0,21.0,21.0,Bill Elliott,U.S. Air Force (Wood Brothers),Ford,200.0,89214.0,running,1.0,114.0
+2007,21,Pocono,19.0,32.0,66.0,Jeff Green,Haas Automation (Gene Haas),Chevrolet,200.0,94958.0,running,4.0,111.0
+2007,21,Pocono,20.0,19.0,22.0,Dave Blaney,Caterpillar (Bill Davis),Toyota,200.0,95483.0,running,0.0,103.0
+2007,21,Pocono,21.0,29.0,99.0,Carl Edwards,Office Depot (Jack Roush),Ford,200.0,76625.0,running,0.0,100.0
+2007,21,Pocono,22.0,13.0,1.0,Martin Truex Jr,"Bass Pro Shops / Tracker Boats (Dale Earnhardt, Inc.)",Chevrolet,200.0,94170.0,running,1.0,102.0
+2007,21,Pocono,23.0,12.0,16.0,Greg Biffle,Dish Network / Dog The Bounty Hunter (Jack Roush),Ford,200.0,83375.0,running,0.0,94.0
+2007,21,Pocono,24.0,16.0,10.0,Scott Riggs,Stanley Tools / Valvoline (James Rocco),Dodge,200.0,75350.0,running,0.0,91.0
+2007,21,Pocono,25.0,34.0,40.0,David Stremme,Target (Chip Ganassi),Dodge,200.0,67525.0,running,0.0,88.0
+2007,21,Pocono,26.0,35.0,15.0,Paul Menard,"Menards / Energizer (Dale Earnhardt, Inc.)",Chevrolet,200.0,66775.0,running,0.0,85.0
+2007,21,Pocono,27.0,5.0,9.0,Kasey Kahne,Dodge Dealers / UAW (Ray Evernham),Dodge,200.0,110616.0,running,0.0,82.0
+2007,21,Pocono,28.0,10.0,41.0,Reed Sorenson,Target (Chip Ganassi),Dodge,200.0,88533.0,running,5.0,84.0
+2007,21,Pocono,29.0,28.0,83.0,Brian Vickers,Red Bull (Dietrich Mateschitz),Toyota,200.0,66125.0,running,0.0,76.0
+2007,21,Pocono,30.0,26.0,43.0,Bobby Labonte,Cheerios / Betty Crocker (Petty Enterprises),Dodge,199.0,103411.0,running,1.0,78.0
+2007,21,Pocono,31.0,43.0,36.0,Jeremy Mayfield,360 OTC (Bill Davis),Toyota,199.0,62825.0,running,0.0,70.0
+2007,21,Pocono,32.0,14.0,19.0,Elliott Sadler,Dodge Dealers / UAW (Ray Evernham),Dodge,198.0,83520.0,running,0.0,67.0
+2007,21,Pocono,33.0,36.0,6.0,David Ragan,AAA Insurance (Jack Roush),Ford,198.0,99550.0,running,0.0,64.0
+2007,21,Pocono,34.0,42.0,45.0,Kyle Petty,Marathon Amercian Spirit Motor Oil (Petty Enterprises),Dodge,198.0,73933.0,running,0.0,61.0
+2007,21,Pocono,35.0,27.0,18.0,J.J. Yeley,Interstate Batteries (Joe Gibbs),Chevrolet,198.0,90033.0,running,0.0,58.0
+2007,21,Pocono,36.0,41.0,70.0,Johnny Sauter,Haas Automation (Gene Haas),Chevrolet,198.0,61900.0,running,0.0,55.0
+2007,21,Pocono,37.0,30.0,7.0,P.J. Jones,Menards / MAPEI (Robby Gordon),Ford,198.0,61725.0,running,0.0,52.0
+2007,21,Pocono,38.0,39.0,55.0,Michael Waltrip,NAPA Auto Parts (Michael Waltrip),Toyota,194.0,71147.0,fuel pump,0.0,49.0
+2007,21,Pocono,39.0,33.0,38.0,David Gilliland,M&M's (Yates Racing),Ford,192.0,88689.0,running,0.0,46.0
+2007,21,Pocono,40.0,22.0,26.0,Jamie McMurray,Crown Royal (Jack Roush),Ford,177.0,69325.0,crash,0.0,43.0
+2007,21,Pocono,41.0,31.0,0.0,David Reutimann,Burger King (Michael Waltrip),Toyota,159.0,61180.0,fuel pump,0.0,40.0
+2007,21,Pocono,42.0,40.0,44.0,Dale Jarrett,UPS (Michael Waltrip),Toyota,151.0,61030.0,fuel pump,0.0,37.0
+2007,21,Pocono,43.0,38.0,4.0,Ward Burton,State Water Heaters / Lucas Oil (Larry McClure),Chevrolet,109.0,61197.0,engine,0.0,34.0
+2007,22,Watkins Glen,1.0,5.0,20.0,Tony Stewart,Home Depot (Joe Gibbs),Chevrolet,90.0,239286.0,running,20.0,190.0
+2007,22,Watkins Glen,2.0,2.0,11.0,Denny Hamlin,FedEx Ground (Joe Gibbs),Chevrolet,90.0,167225.0,running,0.0,170.0
+2007,22,Watkins Glen,3.0,7.0,48.0,Jimmie Johnson,Lowe's (Rick Hendrick),Chevrolet,90.0,169711.0,running,0.0,165.0
+2007,22,Watkins Glen,4.0,26.0,96.0,Ron Fellows,DLP HDTV (Bill Saunders),Chevrolet,90.0,124675.0,running,0.0,160.0
+2007,22,Watkins Glen,5.0,29.0,7.0,Robby Gordon,Jim Beam (Robby Gordon),Ford,90.0,96025.0,running,0.0,155.0
+2007,22,Watkins Glen,6.0,12.0,1.0,Martin Truex Jr,"Bass Pro Shops (Dale Earnhardt, Inc.)",Chevrolet,90.0,124995.0,running,0.0,150.0
+2007,22,Watkins Glen,7.0,8.0,5.0,Kyle Busch,Kellogg's / Carquest (Rick Hendrick),Chevrolet,90.0,94825.0,running,0.0,146.0
+2007,22,Watkins Glen,8.0,6.0,99.0,Carl Edwards,Office Depot (Jack Roush),Ford,90.0,86000.0,running,0.0,142.0
+2007,22,Watkins Glen,9.0,1.0,24.0,Jeff Gordon,DuPont (Rick Hendrick),Chevrolet,90.0,129461.0,running,51.0,148.0
+2007,22,Watkins Glen,10.0,16.0,16.0,Greg Biffle,Nintendo Wii (Jack Roush),Ford,90.0,92950.0,running,0.0,134.0
+2007,22,Watkins Glen,11.0,13.0,2.0,Kurt Busch,Miller Lite (Roger Penske),Dodge,90.0,106458.0,running,0.0,130.0
+2007,22,Watkins Glen,12.0,3.0,17.0,Matt Kenseth,DeWalt (Jack Roush),Ford,90.0,114916.0,running,0.0,127.0
+2007,22,Watkins Glen,13.0,15.0,12.0,Ryan Newman,Kodak (Roger Penske),Dodge,90.0,101825.0,running,0.0,124.0
+2007,22,Watkins Glen,14.0,39.0,21.0,Boris Said,Little Debbie (Wood Brothers),Ford,90.0,93914.0,running,0.0,121.0
+2007,22,Watkins Glen,15.0,19.0,25.0,Casey Mears,National Guard / GMAC (Rick Hendrick),Chevrolet,90.0,82375.0,running,0.0,118.0
+2007,22,Watkins Glen,16.0,11.0,7.0,Clint Bowyer,Jack Daniel's (Richard Childress),Chevrolet,90.0,74900.0,running,0.0,115.0
+2007,22,Watkins Glen,17.0,23.0,19.0,Elliott Sadler,Dodge Dealers / UAW (Gillett Evernham Motorsports),Dodge,90.0,85620.0,running,0.0,112.0
+2007,22,Watkins Glen,18.0,21.0,18.0,J.J. Yeley,Interstate Batteries (Joe Gibbs),Chevrolet,90.0,94083.0,running,0.0,109.0
+2007,22,Watkins Glen,19.0,31.0,15.0,Paul Menard,"Menards / Quaker State (Dale Earnhardt, Inc.)",Chevrolet,90.0,67300.0,running,0.0,106.0
+2007,22,Watkins Glen,20.0,32.0,66.0,Jeff Green,Haas Automation (Gene Haas),Chevrolet,90.0,95108.0,running,0.0,103.0
+2007,22,Watkins Glen,21.0,25.0,40.0,David Stremme,Coors Light (Chip Ganassi),Dodge,90.0,65150.0,running,0.0,100.0
+2007,22,Watkins Glen,22.0,40.0,10.0,Patrick Carpentier,Valvoline / Stanley Tools (James Rocco),Dodge,90.0,72850.0,running,7.0,102.0
+2007,22,Watkins Glen,23.0,34.0,70.0,Johnny Sauter,Haas Automation (Gene Haas),Chevrolet,90.0,65475.0,running,0.0,94.0
+2007,22,Watkins Glen,24.0,20.0,43.0,Bobby Labonte,Cheerios / Betty Crocker (Petty Enterprises),Dodge,90.0,101186.0,running,4.0,96.0
+2007,22,Watkins Glen,25.0,41.0,0.0,P.J. Jones,Burger King (Michael Waltrip),Toyota,90.0,77683.0,running,0.0,88.0
+2007,22,Watkins Glen,26.0,28.0,9.0,Kasey Kahne,Dodge Dealers / UAW (Gillett Evernham Motorsports),Dodge,90.0,108066.0,running,0.0,85.0
+2007,22,Watkins Glen,27.0,42.0,36.0,Jeremy Mayfield,360 OTC (Bill Davis),Toyota,90.0,60650.0,running,2.0,87.0
+2007,22,Watkins Glen,28.0,24.0,41.0,Reed Sorenson,Target (Chip Ganassi),Dodge,90.0,85658.0,running,0.0,79.0
+2007,22,Watkins Glen,29.0,37.0,44.0,Dale Jarrett,UPS (Michael Waltrip),Toyota,90.0,60325.0,running,0.0,76.0
+2007,22,Watkins Glen,30.0,38.0,55.0,Terry Labonte,NAPA Auto Parts (Michael Waltrip),Toyota,90.0,72333.0,running,0.0,73.0
+2007,22,Watkins Glen,31.0,43.0,78.0,Kenny Wallace,Furniture Row (Barney Visser),Chevrolet,90.0,60025.0,running,0.0,70.0
+2007,22,Watkins Glen,32.0,22.0,6.0,David Ragan,AAA Insurance (Jack Roush),Ford,90.0,98950.0,running,0.0,67.0
+2007,22,Watkins Glen,33.0,30.0,38.0,David Gilliland,M&M's (Yates Racing),Ford,90.0,90339.0,running,0.0,64.0
+2007,22,Watkins Glen,34.0,17.0,26.0,Jamie McMurray,Crown Royal (Jack Roush),Ford,89.0,67550.0,running,6.0,66.0
+2007,22,Watkins Glen,35.0,35.0,22.0,Dave Blaney,Caterpillar (Bill Davis),Toyota,89.0,76947.0,running,0.0,58.0
+2007,22,Watkins Glen,36.0,9.0,29.0,Kevin Harvick,Shell / Pennzoil (Richard Childress),Chevrolet,84.0,107961.0,running,0.0,55.0
+2007,22,Watkins Glen,37.0,10.0,1.0,Regan Smith,"U.S. Army (Dale Earnhardt, Inc.)",Chevrolet,82.0,67100.0,running,0.0,52.0
+2007,22,Watkins Glen,38.0,27.0,88.0,Ricky Rudd,Snickers / EA Sports NASCAR 08 (Yates Racing),Ford,77.0,89958.0,electrical,0.0,49.0
+2007,22,Watkins Glen,39.0,18.0,42.0,Juan Pablo Montoya,Wrigley's Big Red (Chip Ganassi),Dodge,72.0,93375.0,crash,0.0,46.0
+2007,22,Watkins Glen,40.0,4.0,31.0,Jeff Burton,AT&T Mobility (Richard Childress),Chevrolet,72.0,98641.0,crash,0.0,43.0
+2007,22,Watkins Glen,41.0,36.0,83.0,Brian Vickers,Red Bull (Dietrich Mateschitz),Toyota,69.0,58505.0,transmission,0.0,40.0
+2007,22,Watkins Glen,42.0,14.0,8.0,"Dale Earnhardt, Jr.","Budweiser (Dale Earnhardt, Inc.)",Chevrolet,63.0,103788.0,engine,0.0,37.0
+2007,22,Watkins Glen,43.0,33.0,45.0,Kyle Petty,Marathon Amercian Spirit Motor Oil (Petty Enterprises),Dodge,56.0,58548.0,radiator,0.0,34.0
+2007,23,Michigan,1.0,15.0,2.0,Kurt Busch,Miller Lite (Roger Penske),Dodge,203.0,190108.0,running,92.0,195.0
+2007,23,Michigan,2.0,14.0,1.0,Martin Truex Jr,"Bass Pro Shops / Tracker Boats / 57 Chevy (Dale Earnhardt, Inc.)",Chevrolet,203.0,151245.0,running,0.0,170.0
+2007,23,Michigan,3.0,7.0,48.0,Jimmie Johnson,Lowe's / 57 Chevy (Rick Hendrick),Chevrolet,203.0,175761.0,running,15.0,170.0
+2007,23,Michigan,4.0,21.0,17.0,Matt Kenseth,DeWalt (Jack Roush),Ford,203.0,152491.0,running,31.0,165.0
+2007,23,Michigan,5.0,8.0,11.0,Denny Hamlin,FedEx Kinko's (Joe Gibbs),Chevrolet,203.0,109650.0,running,0.0,155.0
+2007,23,Michigan,6.0,17.0,22.0,Dave Blaney,Caterpillar (Bill Davis),Toyota,203.0,114433.0,running,0.0,150.0
+2007,23,Michigan,7.0,13.0,99.0,Carl Edwards,Office Depot (Jack Roush),Ford,203.0,93150.0,running,0.0,146.0
+2007,23,Michigan,8.0,18.0,83.0,Brian Vickers,Red Bull (Dietrich Mateschitz),Toyota,203.0,82925.0,running,11.0,147.0
+2007,23,Michigan,9.0,4.0,43.0,Bobby Labonte,Cheerios / Betty Crocker (Petty Enterprises),Dodge,203.0,120036.0,running,0.0,138.0
+2007,23,Michigan,10.0,35.0,20.0,Tony Stewart,Home Depot (Joe Gibbs),Chevrolet,203.0,135411.0,running,0.0,134.0
+2007,23,Michigan,11.0,29.0,25.0,Casey Mears,National Guard / GMAC / 57 Chevy (Rick Hendrick),Chevrolet,203.0,94625.0,running,0.0,130.0
+2007,23,Michigan,12.0,39.0,8.0,"Dale Earnhardt, Jr.","Budweiser / 57 Chevy (Dale Earnhardt, Inc.)",Chevrolet,203.0,121508.0,running,1.0,132.0
+2007,23,Michigan,13.0,6.0,5.0,Kyle Busch,Kellogg's / Carquest (Rick Hendrick),Chevrolet,203.0,94350.0,running,0.0,124.0
+2007,23,Michigan,14.0,19.0,31.0,Jeff Burton,AT&T Mobility (Richard Childress),Chevrolet,203.0,114891.0,running,0.0,121.0
+2007,23,Michigan,15.0,28.0,29.0,Kevin Harvick,Shell / Pennzoil (Richard Childress),Chevrolet,203.0,124336.0,running,0.0,118.0
+2007,23,Michigan,16.0,34.0,12.0,Ryan Newman,Alltel (Roger Penske),Dodge,203.0,110150.0,running,2.0,120.0
+2007,23,Michigan,17.0,9.0,7.0,Clint Bowyer,Jack Daniel's (Richard Childress),Chevrolet,203.0,85625.0,running,0.0,112.0
+2007,23,Michigan,18.0,25.0,6.0,David Ragan,AAA Insurance (Jack Roush),Ford,203.0,117200.0,running,0.0,109.0
+2007,23,Michigan,19.0,2.0,16.0,Greg Biffle,3M (Jack Roush),Ford,203.0,97225.0,running,20.0,111.0
+2007,23,Michigan,20.0,27.0,4.0,Ward Burton,State Water Heaters / Lucas Oil / 57 Chevy (Larry McClure),Chevrolet,203.0,76500.0,running,4.0,108.0
+2007,23,Michigan,21.0,20.0,40.0,David Stremme,Tums (Chip Ganassi),Dodge,202.0,76125.0,running,0.0,100.0
+2007,23,Michigan,22.0,40.0,66.0,Jeff Green,Best Buy (Gene Haas),Chevrolet,202.0,99983.0,running,0.0,97.0
+2007,23,Michigan,23.0,12.0,0.0,David Reutimann,Dominos.com (Michael Waltrip),Toyota,202.0,87108.0,running,0.0,94.0
+2007,23,Michigan,24.0,30.0,7.0,Robby Gordon,Jim Beam (Robby Gordon),Ford,202.0,75300.0,running,2.0,96.0
+2007,23,Michigan,25.0,31.0,18.0,J.J. Yeley,Interstate Batteries / 57 Chevy (Joe Gibbs),Chevrolet,202.0,103333.0,running,0.0,88.0
+2007,23,Michigan,26.0,26.0,42.0,Juan Pablo Montoya,Texaco / Havoline (Chip Ganassi),Dodge,202.0,109100.0,running,0.0,85.0
+2007,23,Michigan,27.0,1.0,24.0,Jeff Gordon,DuPont / 57 Chevy (Rick Hendrick),Chevrolet,202.0,135236.0,running,25.0,87.0
+2007,23,Michigan,28.0,24.0,38.0,David Gilliland,M&M's (Yates Racing),Ford,202.0,101264.0,running,0.0,79.0
+2007,23,Michigan,29.0,41.0,70.0,Johnny Sauter,Yellow Transportation (Gene Haas),Chevrolet,202.0,73775.0,running,0.0,76.0
+2007,23,Michigan,30.0,36.0,26.0,Jamie McMurray,Irwin Industrial Tools (Jack Roush),Ford,202.0,82400.0,running,0.0,73.0
+2007,23,Michigan,31.0,3.0,9.0,Kasey Kahne,Dodge Dealers / UAW (Gillett Evernham Motorsports),Dodge,201.0,117841.0,running,0.0,70.0
+2007,23,Michigan,32.0,5.0,19.0,Elliott Sadler,Dodge Dealers / UAW (Gillett Evernham Motorsports),Dodge,201.0,91745.0,running,0.0,67.0
+2007,23,Michigan,33.0,22.0,88.0,Ricky Rudd,Snickers (Yates Racing),Ford,201.0,104808.0,running,0.0,64.0
+2007,23,Michigan,34.0,37.0,96.0,Tony Raines,DLP HDTV / 57 Chevy (Bill Saunders),Chevrolet,201.0,78225.0,running,0.0,61.0
+2007,23,Michigan,35.0,23.0,21.0,Bill Elliott,Little Debbie (Wood Brothers),Ford,201.0,89289.0,running,0.0,58.0
+2007,23,Michigan,36.0,43.0,10.0,Scott Riggs,Auto Value / Bumper to Bumper (James Rocco),Dodge,201.0,78025.0,running,0.0,55.0
+2007,23,Michigan,37.0,16.0,49.0,John Andretti,Paralyzed Veterans of America (Beth Ann Morgenthau),Dodge,201.0,81633.0,running,0.0,52.0
+2007,23,Michigan,38.0,33.0,41.0,Reed Sorenson,Target (Chip Ganassi),Dodge,200.0,87422.0,running,0.0,49.0
+2007,23,Michigan,39.0,38.0,15.0,Paul Menard,"Menards / Sylvania / 57 Chevy (Dale Earnhardt, Inc.)",Chevrolet,167.0,69825.0,running,0.0,46.0
+2007,23,Michigan,40.0,11.0,55.0,Michael Waltrip,NAPA Auto Parts (Michael Waltrip),Toyota,135.0,69775.0,running,0.0,43.0
+2007,23,Michigan,41.0,42.0,45.0,Chad McCumbee,Marathon Amercian Spirit Motor Oil (Petty Enterprises),Dodge,134.0,69725.0,running,0.0,40.0
+2007,23,Michigan,42.0,10.0,1.0,Mark Martin,"U.S. Army / 57 Chevy (Dale Earnhardt, Inc.)",Chevrolet,101.0,77665.0,oil leak,0.0,37.0
+2007,23,Michigan,43.0,32.0,8.0,Joe Nemechek,E&M Motorsports (John Carter),Dodge,92.0,68724.0,crash,0.0,34.0
+2007,24,Bristol,1.0,6.0,99.0,Carl Edwards,Office Depot (Jack Roush),Ford,500.0,297050.0,running,182.0,190.0
+2007,24,Bristol,2.0,1.0,9.0,Kasey Kahne,Dodge Dealers / UAW (Gillett Evernham Motorsports),Dodge,500.0,265541.0,running,305.0,180.0
+2007,24,Bristol,3.0,15.0,7.0,Clint Bowyer,Jack Daniel's (Richard Childress),Chevrolet,500.0,180125.0,running,0.0,165.0
+2007,24,Bristol,4.0,23.0,20.0,Tony Stewart,The Home Depot (Joe Gibbs),Chevrolet,500.0,178386.0,running,0.0,160.0
+2007,24,Bristol,5.0,17.0,8.0,"Dale Earnhardt, Jr.","Budweiser (Dale Earnhardt, Inc.)",Chevrolet,500.0,164008.0,running,1.0,160.0
+2007,24,Bristol,6.0,19.0,2.0,Kurt Busch,Miller Lite (Roger Penske),Dodge,500.0,145608.0,running,2.0,155.0
+2007,24,Bristol,7.0,7.0,12.0,Ryan Newman,Alltel (Roger Penske),Dodge,500.0,139775.0,running,2.0,151.0
+2007,24,Bristol,8.0,22.0,43.0,Bobby Labonte,Cheerios / Betty Crocker (Petty Enterprises),Dodge,500.0,144238.0,running,0.0,142.0
+2007,24,Bristol,9.0,20.0,5.0,Kyle Busch,Kellogg's / Carquest (Rick Hendrick),Chevrolet,500.0,116875.0,running,3.0,143.0
+2007,24,Bristol,10.0,34.0,16.0,Greg Biffle,Dish Network (Jack Roush),Ford,500.0,120300.0,running,0.0,134.0
+2007,24,Bristol,11.0,25.0,1.0,Martin Truex Jr,"Bass Pro Shops / Tracker Boats (Dale Earnhardt, Inc.)",Chevrolet,500.0,125695.0,running,0.0,130.0
+2007,24,Bristol,12.0,10.0,31.0,Jeff Burton,Richard Childress Racing (Richard Childress),Chevrolet,500.0,134641.0,running,0.0,127.0
+2007,24,Bristol,13.0,40.0,18.0,J.J. Yeley,Interstate Batteries (Joe Gibbs),Chevrolet,500.0,131758.0,running,0.0,124.0
+2007,24,Bristol,14.0,36.0,40.0,David Stremme,Coors Light (Chip Ganassi),Dodge,500.0,97700.0,running,0.0,121.0
+2007,24,Bristol,15.0,29.0,41.0,Reed Sorenson,Target (Chip Ganassi),Dodge,500.0,123558.0,running,0.0,118.0
+2007,24,Bristol,16.0,13.0,29.0,Kevin Harvick,Shell / Pennzoil Platinum (Richard Childress),Chevrolet,500.0,140561.0,running,0.0,115.0
+2007,24,Bristol,17.0,2.0,42.0,Juan Pablo Montoya,Texaco / Havoline (Chip Ganassi),Dodge,500.0,131050.0,running,0.0,112.0
+2007,24,Bristol,18.0,11.0,10.0,Scott Riggs,Valvoline / Stanley Tools (James Rocco),Dodge,500.0,102300.0,running,0.0,109.0
+2007,24,Bristol,19.0,18.0,24.0,Jeff Gordon,Dupont (Rick Hendrick),Chevrolet,500.0,137111.0,running,2.0,111.0
+2007,24,Bristol,20.0,24.0,7.0,Robby Gordon,Camping World (Robby Gordon),Ford,500.0,95975.0,running,3.0,108.0
+2007,24,Bristol,21.0,9.0,48.0,Jimmie Johnson,Lowe's (Rick Hendrick),Chevrolet,499.0,142911.0,running,0.0,100.0
+2007,24,Bristol,22.0,30.0,25.0,Casey Mears,National Guard / GMAC (Rick Hendrick),Chevrolet,498.0,106425.0,running,0.0,97.0
+2007,24,Bristol,23.0,16.0,55.0,Michael Waltrip,NAPA Auto Parts (Michael Waltrip),Toyota,498.0,104958.0,running,0.0,94.0
+2007,24,Bristol,24.0,41.0,15.0,Paul Menard,"Menards / Turtle Wax Ice (Dale Earnhardt, Inc.)",Chevrolet,498.0,90675.0,running,0.0,91.0
+2007,24,Bristol,25.0,26.0,21.0,Bill Elliott,U.S. Air Force (Wood Brothers),Ford,498.0,110514.0,running,0.0,88.0
+2007,24,Bristol,26.0,3.0,26.0,Jamie McMurray,Irwin Industrial Tools (Jack Roush),Ford,498.0,97525.0,running,0.0,85.0
+2007,24,Bristol,27.0,39.0,66.0,Jeff Green,Haas Automation / Best Buy (Gene Haas),Chevrolet,498.0,110563.0,running,0.0,82.0
+2007,24,Bristol,28.0,42.0,96.0,Tony Raines,DLP HDTV (Bill Saunders),Chevrolet,498.0,96145.0,running,0.0,79.0
+2007,24,Bristol,29.0,21.0,19.0,Elliott Sadler,Dodge Dealers / UAW (Gillett Evernham Motorsports),Dodge,497.0,106030.0,running,0.0,76.0
+2007,24,Bristol,30.0,27.0,38.0,David Gilliland,M&M's (Yates Racing),Ford,497.0,114789.0,running,0.0,73.0
+2007,24,Bristol,31.0,5.0,22.0,Dave Blaney,Caterpillar (Bill Davis),Toyota,496.0,104123.0,running,0.0,70.0
+2007,24,Bristol,32.0,32.0,45.0,Kenny Wallace,Wells Fargo (Petty Enterprises),Dodge,496.0,93902.0,running,0.0,67.0
+2007,24,Bristol,33.0,14.0,4.0,Ward Burton,Miccosukee / Food City (Larry McClure),Chevrolet,494.0,85495.0,running,0.0,64.0
+2007,24,Bristol,34.0,33.0,44.0,Dale Jarrett,UPS (Michael Waltrip),Toyota,494.0,84135.0,running,0.0,61.0
+2007,24,Bristol,35.0,43.0,84.0,A.J. Allmendinger,Red Bull (Dietrich Mateschitz),Toyota,491.0,84000.0,running,0.0,58.0
+2007,24,Bristol,36.0,35.0,1.0,Aric Almirola,"U.S. Army (Dale Earnhardt, Inc.)",Chevrolet,485.0,91890.0,running,0.0,55.0
+2007,24,Bristol,37.0,31.0,36.0,Jeremy Mayfield,360 OTC (Bill Davis),Toyota,481.0,83755.0,running,0.0,52.0
+2007,24,Bristol,38.0,8.0,88.0,Ricky Rudd,Snickers (Yates Racing),Ford,478.0,114678.0,crash,0.0,49.0
+2007,24,Bristol,39.0,12.0,17.0,Matt Kenseth,DeWalt (Jack Roush),Ford,452.0,131176.0,crash,0.0,46.0
+2007,24,Bristol,40.0,28.0,49.0,John Andretti,Paralyzed Veterans of America (Beth Ann Morgenthau),Dodge,416.0,83425.0,electrical,0.0,43.0
+2007,24,Bristol,41.0,4.0,6.0,David Ragan,AAA (Jack Roush),Ford,414.0,119100.0,crash,0.0,40.0
+2007,24,Bristol,42.0,38.0,70.0,Johnny Sauter,Haas Automation (Gene Haas),Chevrolet,280.0,83155.0,running,0.0,37.0
+2007,24,Bristol,43.0,37.0,11.0,Denny Hamlin,FedEx Freight (Joe Gibbs),Chevrolet,209.0,102268.0,engine,0.0,34.0
+2007,25,Fontana,1.0,2.0,48.0,Jimmie Johnson,Lowe's / Jimmie Johnson Foundation (Rick Hendrick),Chevrolet,250.0,289411.0,running,84.0,190.0
+2007,25,Fontana,2.0,19.0,99.0,Carl Edwards,Office Depot (Jack Roush),Ford,250.0,185450.0,running,0.0,170.0
+2007,25,Fontana,3.0,5.0,5.0,Kyle Busch,Cheez-it / Carquest (Rick Hendrick),Chevrolet,250.0,163225.0,running,97.0,175.0
+2007,25,Fontana,4.0,15.0,31.0,Jeff Burton,Richard Childress Racing (Richard Childress),Chevrolet,250.0,163491.0,running,1.0,165.0
+2007,25,Fontana,5.0,7.0,8.0,"Dale Earnhardt, Jr.","Budweiser (Dale Earnhardt, Inc.)",Chevrolet,250.0,180433.0,running,15.0,160.0
+2007,25,Fontana,6.0,8.0,1.0,Martin Truex Jr,"Bass Pro Shops / Tracker Boats (Dale Earnhardt, Inc.)",Chevrolet,250.0,135345.0,running,4.0,155.0
+2007,25,Fontana,7.0,36.0,17.0,Matt Kenseth,R&L Carriers / DeWalt (Jack Roush),Ford,250.0,158941.0,running,0.0,146.0
+2007,25,Fontana,8.0,17.0,83.0,Brian Vickers,Red Bull (Dietrich Mateschitz),Toyota,250.0,102975.0,running,3.0,147.0
+2007,25,Fontana,9.0,1.0,2.0,Kurt Busch,Miller Lite (Roger Penske),Dodge,250.0,146308.0,running,21.0,143.0
+2007,25,Fontana,10.0,3.0,9.0,Kasey Kahne,Dodge Dealers / UAW (Gillett Evernham Motorsports),Dodge,250.0,148216.0,running,0.0,134.0
+2007,25,Fontana,11.0,11.0,43.0,Bobby Labonte,Cheerios / Totino's Pizza Rolls (Petty Enterprises),Dodge,250.0,138361.0,running,4.0,135.0
+2007,25,Fontana,12.0,33.0,6.0,David Ragan,AAA Insurance (Jack Roush),Ford,250.0,137475.0,running,0.0,127.0
+2007,25,Fontana,13.0,22.0,20.0,Tony Stewart,Home Depot (Joe Gibbs),Chevrolet,250.0,143286.0,running,12.0,129.0
+2007,25,Fontana,14.0,12.0,29.0,Kevin Harvick,Shell / Pennzoil (Richard Childress),Chevrolet,250.0,141836.0,running,0.0,121.0
+2007,25,Fontana,15.0,13.0,25.0,Casey Mears,National Guard / GMAC (Rick Hendrick),Chevrolet,250.0,111525.0,running,1.0,123.0
+2007,25,Fontana,16.0,38.0,26.0,Jamie McMurray,Sharp AQUOS (Jack Roush),Ford,250.0,104275.0,running,0.0,115.0
+2007,25,Fontana,17.0,10.0,16.0,Greg Biffle,Aflac (Jack Roush),Ford,250.0,109325.0,running,0.0,112.0
+2007,25,Fontana,18.0,18.0,84.0,A.J. Allmendinger,Red Bull (Dietrich Mateschitz),Toyota,249.0,90275.0,running,0.0,109.0
+2007,25,Fontana,19.0,9.0,11.0,Denny Hamlin,FedEx Express (Joe Gibbs),Chevrolet,249.0,108600.0,running,0.0,106.0
+2007,25,Fontana,20.0,24.0,7.0,Clint Bowyer,DirecTV (Richard Childress),Chevrolet,249.0,103900.0,running,0.0,103.0
+2007,25,Fontana,21.0,31.0,41.0,Reed Sorenson,Target / Memorex (Chip Ganassi),Dodge,249.0,119083.0,running,0.0,100.0
+2007,25,Fontana,22.0,16.0,24.0,Jeff Gordon,DuPont / Cromax Pro (Rick Hendrick),Chevrolet,249.0,135011.0,running,0.0,97.0
+2007,25,Fontana,23.0,32.0,66.0,Jeff Green,Best Buy (Gene Haas),Chevrolet,249.0,115533.0,running,0.0,94.0
+2007,25,Fontana,24.0,20.0,15.0,Paul Menard,"Menards / Johns Manville (Dale Earnhardt, Inc.)",Chevrolet,249.0,91850.0,running,0.0,91.0
+2007,25,Fontana,25.0,14.0,38.0,David Gilliland,M&M's (Yates Racing),Ford,249.0,114689.0,running,0.0,88.0
+2007,25,Fontana,26.0,26.0,21.0,Bill Elliott,Motorcraft (Wood Brothers),Ford,248.0,109689.0,running,1.0,90.0
+2007,25,Fontana,27.0,34.0,96.0,Tony Raines,DLP HDTV / Best Buy (Bill Saunders),Chevrolet,248.0,97925.0,running,0.0,82.0
+2007,25,Fontana,28.0,39.0,45.0,Kyle Petty,Wells Fargo (Petty Enterprises),Dodge,248.0,103858.0,running,1.0,84.0
+2007,25,Fontana,29.0,23.0,18.0,J.J. Yeley,Interstate Batteries (Joe Gibbs),Chevrolet,248.0,117408.0,running,0.0,76.0
+2007,25,Fontana,30.0,41.0,70.0,Johnny Sauter,Haas Automation (Gene Haas),Chevrolet,248.0,89850.0,running,2.0,78.0
+2007,25,Fontana,31.0,40.0,1.0,Aric Almirola,"U.S. Army (Dale Earnhardt, Inc.)",Chevrolet,248.0,97200.0,running,0.0,70.0
+2007,25,Fontana,32.0,28.0,0.0,David Reutimann,Burger King (Michael Waltrip),Toyota,247.0,100808.0,running,1.0,72.0
+2007,25,Fontana,33.0,42.0,42.0,Juan Pablo Montoya,Wrigley's Big Red (Chip Ganassi),Dodge,247.0,124125.0,running,0.0,64.0
+2007,25,Fontana,34.0,21.0,40.0,David Stremme,Target (Chip Ganassi),Dodge,245.0,86050.0,running,0.0,61.0
+2007,25,Fontana,35.0,6.0,19.0,Elliott Sadler,Dodge Dealers / UAW (Gillett Evernham Motorsports),Dodge,245.0,104345.0,running,0.0,58.0
+2007,25,Fontana,36.0,27.0,36.0,Jeremy Mayfield,360 OTC (Bill Davis),Toyota,229.0,85950.0,crash,0.0,30.0
+2007,25,Fontana,37.0,43.0,49.0,John Andretti,Paralyzed Veterans of America (Beth Ann Morgenthau),Dodge,203.0,95447.0,crash,2.0,57.0
+2007,25,Fontana,38.0,30.0,22.0,Dave Blaney,Caterpillar (Bill Davis),Toyota,201.0,93850.0,engine,0.0,49.0
+2007,25,Fontana,39.0,4.0,12.0,Ryan Newman,Kodak (Roger Penske),Dodge,194.0,117875.0,engine,1.0,51.0
+2007,25,Fontana,40.0,37.0,88.0,Ricky Rudd,Snickers Generation Max (Yates Racing),Ford,179.0,116783.0,crash,0.0,43.0
+2007,25,Fontana,41.0,35.0,7.0,Robby Gordon,Original Roadhouse Grill / Jim Beam (Robby Gordon),Ford,159.0,85705.0,running,0.0,40.0
+2007,25,Fontana,42.0,25.0,55.0,Michael Waltrip,NAPA Auto Parts (Michael Waltrip),Toyota,38.0,85640.0,crash,0.0,37.0
+2007,25,Fontana,43.0,29.0,78.0,Joe Nemechek,Furniture Row (Barney Visser),Chevrolet,9.0,85008.0,engine,0.0,34.0
+2007,26,Richmond,1.0,1.0,48.0,Jimmie Johnson,Lowe's (Rick Hendrick),Chevrolet,400.0,249836.0,running,104.0,190.0
+2007,26,Richmond,2.0,7.0,20.0,Tony Stewart,The Home Depot (Joe Gibbs),Chevrolet,400.0,207986.0,running,27.0,175.0
+2007,26,Richmond,3.0,8.0,6.0,David Ragan,AAA (Jack Roush),Ford,400.0,169925.0,running,0.0,165.0
+2007,26,Richmond,4.0,2.0,24.0,Jeff Gordon,DuPont / Nicorette (Rick Hendrick),Chevrolet,400.0,180186.0,running,191.0,170.0
+2007,26,Richmond,5.0,35.0,70.0,Johnny Sauter,Radioactive Energy Drink / Yellow (Gene Haas),Chevrolet,400.0,114150.0,running,0.0,155.0
+2007,26,Richmond,6.0,5.0,11.0,Denny Hamlin,FedEx Express (Joe Gibbs),Chevrolet,400.0,105575.0,running,17.0,155.0
+2007,26,Richmond,7.0,13.0,29.0,Kevin Harvick,Shell / Pennzoil (Richard Childress),Chevrolet,400.0,129311.0,running,0.0,146.0
+2007,26,Richmond,8.0,17.0,9.0,Kasey Kahne,Dodge Dealers / UAW (Gillett Evernham Motorsports),Dodge,400.0,124716.0,running,0.0,142.0
+2007,26,Richmond,9.0,14.0,2.0,Kurt Busch,Miller Lite (Roger Penske),Dodge,400.0,113958.0,running,0.0,138.0
+2007,26,Richmond,10.0,36.0,18.0,J.J. Yeley,Interstate Batteries (Joe Gibbs),Chevrolet,400.0,111158.0,running,0.0,134.0
+2007,26,Richmond,11.0,4.0,12.0,Ryan Newman,Alltel (Roger Penske),Dodge,400.0,108675.0,running,33.0,135.0
+2007,26,Richmond,12.0,20.0,7.0,Clint Bowyer,Jack Daniel's (Richard Childress),Chevrolet,400.0,83525.0,running,4.0,132.0
+2007,26,Richmond,13.0,24.0,0.0,David Reutimann,Burger King (Michael Waltrip),Toyota,400.0,93858.0,running,0.0,124.0
+2007,26,Richmond,14.0,18.0,17.0,Matt Kenseth,DeWalt (Jack Roush),Ford,400.0,117591.0,running,0.0,121.0
+2007,26,Richmond,15.0,40.0,1.0,Martin Truex Jr,"Bass Pro Shops 35th Anniversary/Tracker Boats (Dale Earnhardt, Inc.)",Chevrolet,400.0,98770.0,running,0.0,118.0
+2007,26,Richmond,16.0,10.0,43.0,Bobby Labonte,Cheerios / Labonte's 500th Start (Petty Enterprises),Dodge,400.0,109011.0,running,0.0,115.0
+2007,26,Richmond,17.0,23.0,25.0,Casey Mears,National Guard / GMAC (Rick Hendrick),Chevrolet,400.0,85425.0,running,6.0,117.0
+2007,26,Richmond,18.0,11.0,31.0,Jeff Burton,AT&T Mobility (Richard Childress),Chevrolet,400.0,107266.0,running,0.0,109.0
+2007,26,Richmond,19.0,26.0,40.0,David Stremme,Energizer (Chip Ganassi),Dodge,400.0,70850.0,running,0.0,106.0
+2007,26,Richmond,20.0,3.0,5.0,Kyle Busch,Kellogg's / Carquest (Rick Hendrick),Chevrolet,400.0,87875.0,running,0.0,103.0
+2007,26,Richmond,21.0,19.0,1.0,Mark Martin,"U.S. Army (Dale Earnhardt, Inc.)",Chevrolet,400.0,78475.0,running,0.0,100.0
+2007,26,Richmond,22.0,41.0,38.0,David Gilliland,M&M's (Yates Racing),Ford,400.0,97464.0,running,0.0,97.0
+2007,26,Richmond,23.0,27.0,84.0,A.J. Allmendinger,Red Bull (Dietrich Mateschitz),Toyota,400.0,66575.0,running,0.0,94.0
+2007,26,Richmond,24.0,28.0,83.0,Brian Vickers,Red Bull (Dietrich Mateschitz),Toyota,400.0,69825.0,running,0.0,91.0
+2007,26,Richmond,25.0,30.0,45.0,Kyle Petty,Marathon Amercian Spirit Motor Oil (Petty Enterprises),Dodge,400.0,86233.0,running,2.0,93.0
+2007,26,Richmond,26.0,38.0,15.0,Paul Menard,"Menards / Peak (Dale Earnhardt, Inc.)",Chevrolet,399.0,70275.0,running,1.0,90.0
+2007,26,Richmond,27.0,9.0,19.0,Elliott Sadler,Dodge Dealers / UAW (Gillett Evernham Motorsports),Dodge,399.0,87445.0,running,0.0,82.0
+2007,26,Richmond,28.0,22.0,88.0,Kenny Wallace,Snickers (Yates Racing),Ford,399.0,99908.0,running,0.0,79.0
+2007,26,Richmond,29.0,42.0,21.0,Bill Elliott,U.S. Air Force (Wood Brothers),Ford,395.0,88714.0,running,0.0,76.0
+2007,26,Richmond,30.0,21.0,8.0,"Dale Earnhardt, Jr.","Budweiser / Elvis Presley (Dale Earnhardt, Inc.)",Chevrolet,394.0,111533.0,engine,0.0,73.0
+2007,26,Richmond,31.0,32.0,44.0,Dale Jarrett,UPS (Michael Waltrip),Toyota,394.0,65500.0,running,0.0,70.0
+2007,26,Richmond,32.0,25.0,41.0,Reed Sorenson,Target (Chip Ganassi),Dodge,393.0,90033.0,running,0.0,67.0
+2007,26,Richmond,33.0,33.0,66.0,Jeff Green,"Best Buy ""HD Done Right"" (Gene Haas)",Chevrolet,380.0,84908.0,running,0.0,64.0
+2007,26,Richmond,34.0,29.0,22.0,Dave Blaney,Caterpillar (Bill Davis),Toyota,353.0,83622.0,running,0.0,61.0
+2007,26,Richmond,35.0,34.0,96.0,Tony Raines,DLP HDTV (Bill Saunders),Chevrolet,345.0,73475.0,running,0.0,58.0
+2007,26,Richmond,36.0,39.0,7.0,Robby Gordon,Jim Beam Black (Robby Gordon),Ford,335.0,64825.0,crash,0.0,55.0
+2007,26,Richmond,37.0,43.0,49.0,John Andretti,LifeLock (Beth Ann Morgenthau),Dodge,299.0,64700.0,engine,0.0,52.0
+2007,26,Richmond,38.0,12.0,26.0,Jamie McMurray,Crown Royal (Jack Roush),Ford,292.0,72925.0,crash,0.0,49.0
+2007,26,Richmond,39.0,37.0,16.0,Greg Biffle,Dish Network / voomhd.com (Jack Roush),Ford,261.0,82750.0,transmission,0.0,46.0
+2007,26,Richmond,40.0,16.0,10.0,Scott Riggs,Valvoline / Stanley Tools (James Rocco),Dodge,251.0,72325.0,running,0.0,43.0
+2007,26,Richmond,41.0,15.0,42.0,Juan Pablo Montoya,Texaco / Havoline (Chip Ganassi),Dodge,241.0,98755.0,crash,0.0,40.0
+2007,26,Richmond,42.0,6.0,99.0,Carl Edwards,Office Depot (Jack Roush),Ford,182.0,72055.0,engine,15.0,42.0
+2007,26,Richmond,43.0,31.0,78.0,Joe Nemechek,Furniture Row (Barney Visser),Chevrolet,130.0,64218.0,crash,0.0,34.0
+2007,27,Loudon,1.0,1.0,7.0,Clint Bowyer,Jack Daniel's (Richard Childress),Chevrolet,300.0,259175.0,running,222.0,195.0
+2007,27,Loudon,2.0,18.0,24.0,Jeff Gordon,DuPont (Rick Hendrick),Chevrolet,300.0,206086.0,running,0.0,170.0
+2007,27,Loudon,3.0,6.0,20.0,Tony Stewart,Home Depot (Joe Gibbs),Chevrolet,300.0,173186.0,running,39.0,170.0
+2007,27,Loudon,4.0,12.0,5.0,Kyle Busch,Carquest / Kellogg's (Rick Hendrick),Chevrolet,300.0,135450.0,running,21.0,165.0
+2007,27,Loudon,5.0,2.0,1.0,Martin Truex Jr,"Bass Pro Shops / Tracker Boats (Dale Earnhardt, Inc.)",Chevrolet,300.0,136195.0,running,1.0,160.0
+2007,27,Loudon,6.0,4.0,48.0,Jimmie Johnson,Lowe's (Rick Hendrick),Chevrolet,300.0,145886.0,running,0.0,150.0
+2007,27,Loudon,7.0,30.0,17.0,Matt Kenseth,DeWalt (Jack Roush),Ford,300.0,141191.0,running,0.0,146.0
+2007,27,Loudon,8.0,15.0,25.0,Casey Mears,National Guard / GMAC (Rick Hendrick),Chevrolet,300.0,99700.0,running,1.0,147.0
+2007,27,Loudon,9.0,5.0,12.0,Ryan Newman,Mobil 1 (Roger Penske),Dodge,300.0,116975.0,running,2.0,143.0
+2007,27,Loudon,10.0,21.0,18.0,J.J. Yeley,Interstate Batteries (Joe Gibbs),Chevrolet,300.0,116508.0,running,0.0,134.0
+2007,27,Loudon,11.0,22.0,26.0,Jamie McMurray,Crown Royal (Jack Roush),Ford,300.0,91700.0,running,0.0,130.0
+2007,27,Loudon,12.0,11.0,99.0,Carl Edwards,Marriott Vacation Club (Jack Roush),Ford,300.0,90050.0,running,0.0,127.0
+2007,27,Loudon,13.0,9.0,16.0,Greg Biffle,Lumber Liquidators (Jack Roush),Ford,300.0,95450.0,running,0.0,124.0
+2007,27,Loudon,14.0,13.0,41.0,Reed Sorenson,Target (Chip Ganassi),Dodge,300.0,106308.0,running,9.0,126.0
+2007,27,Loudon,15.0,14.0,11.0,Denny Hamlin,FedEx Express (Joe Gibbs),Chevrolet,300.0,94050.0,running,0.0,118.0
+2007,27,Loudon,16.0,19.0,8.0,"Dale Earnhardt, Jr.","Budweiser (Dale Earnhardt, Inc.)",Chevrolet,300.0,119008.0,running,4.0,120.0
+2007,27,Loudon,17.0,8.0,29.0,Kevin Harvick,Shell / Pennzoil (Richard Childress),Chevrolet,299.0,122061.0,running,0.0,112.0
+2007,27,Loudon,18.0,23.0,31.0,Jeff Burton,AT&T Mobility (Richard Childress),Chevrolet,299.0,113116.0,running,0.0,109.0
+2007,27,Loudon,19.0,38.0,6.0,David Ragan,AAA (Jack Roush),Ford,299.0,114600.0,running,0.0,106.0
+2007,27,Loudon,20.0,25.0,9.0,Kasey Kahne,Dodge Dealers / UAW (Gillett Evernham Motorsports),Dodge,299.0,123016.0,running,0.0,103.0
+2007,27,Loudon,21.0,24.0,96.0,Tony Raines,DLP HDTV (Bill Saunders),Chevrolet,299.0,85725.0,running,0.0,100.0
+2007,27,Loudon,22.0,26.0,43.0,Bobby Labonte,Cheerios / Trix / Lucky & Friends (Petty Enterprises),Dodge,299.0,112911.0,running,0.0,97.0
+2007,27,Loudon,23.0,31.0,42.0,Juan Pablo Montoya,Texaco / Havoline (Chip Ganassi),Dodge,299.0,111200.0,running,0.0,94.0
+2007,27,Loudon,24.0,17.0,15.0,Paul Menard,"Menards / Sylvania (Dale Earnhardt, Inc.)",Chevrolet,299.0,75375.0,running,0.0,91.0
+2007,27,Loudon,25.0,3.0,2.0,Kurt Busch,Miller Lite (Roger Penske),Dodge,299.0,110733.0,running,0.0,88.0
+2007,27,Loudon,26.0,20.0,0.0,David Reutimann,Burger King (Michael Waltrip),Toyota,299.0,91433.0,running,0.0,85.0
+2007,27,Loudon,27.0,33.0,66.0,Jeff Green,Best Buy (Gene Haas),Chevrolet,298.0,96608.0,running,0.0,82.0
+2007,27,Loudon,28.0,36.0,70.0,Johnny Sauter,Yellow Transportation (Gene Haas),Chevrolet,298.0,74150.0,running,0.0,79.0
+2007,27,Loudon,29.0,37.0,78.0,Joe Nemechek,Furniture Row (Barney Visser),Chevrolet,298.0,70775.0,running,0.0,76.0
+2007,27,Loudon,30.0,34.0,21.0,Ken Schrader,Little Debbie (Wood Brothers),Ford,297.0,93239.0,running,1.0,78.0
+2007,27,Loudon,31.0,40.0,7.0,Robby Gordon,Jim Beam (Robby Gordon),Ford,297.0,73325.0,running,0.0,70.0
+2007,27,Loudon,32.0,29.0,10.0,Scott Riggs,Stanley Tools / Valvoline (James Rocco),Dodge,297.0,80600.0,running,0.0,67.0
+2007,27,Loudon,33.0,39.0,84.0,A.J. Allmendinger,Red Bull (Dietrich Mateschitz),Toyota,297.0,69900.0,running,0.0,64.0
+2007,27,Loudon,34.0,27.0,88.0,Kenny Wallace,Snickers (Yates Racing),Ford,296.0,101683.0,running,0.0,61.0
+2007,27,Loudon,35.0,10.0,22.0,Dave Blaney,Caterpillar (Bill Davis),Toyota,296.0,89158.0,running,0.0,58.0
+2007,27,Loudon,36.0,16.0,1.0,Regan Smith,"Principal Financial (Dale Earnhardt, Inc.)",Chevrolet,296.0,77275.0,running,0.0,55.0
+2007,27,Loudon,37.0,41.0,45.0,Kyle Petty,Victory Junction Gang Camp (Petty Enterprises),Dodge,296.0,78622.0,running,0.0,52.0
+2007,27,Loudon,38.0,7.0,19.0,Elliott Sadler,Dodge Dealers / UAW (Gillett Evernham Motorsports),Dodge,295.0,87220.0,running,0.0,49.0
+2007,27,Loudon,39.0,35.0,38.0,David Gilliland,M&M's (Yates Racing),Ford,295.0,95964.0,running,0.0,46.0
+2007,27,Loudon,40.0,43.0,98.0,Boris Said,Valvoline (Gillett Evernham Motorsports),Dodge,292.0,68600.0,running,0.0,43.0
+2007,27,Loudon,41.0,28.0,4.0,Ward Burton,State Water Heaters / Lucas Oil (Larry McClure),Chevrolet,284.0,68430.0,running,0.0,40.0
+2007,27,Loudon,42.0,32.0,40.0,David Stremme,Energizer (Chip Ganassi),Dodge,273.0,68305.0,running,0.0,37.0
+2007,27,Loudon,43.0,42.0,83.0,Brian Vickers,Red Bull (Dietrich Mateschitz),Toyota,265.0,68161.0,running,0.0,34.0
+2007,28,Dover,1.0,15.0,99.0,Carl Edwards,Office Depot (Jack Roush),Ford,400.0,229250.0,running,95.0,165.0
+2007,28,Dover,2.0,9.0,16.0,Greg Biffle,Nintendo Wii (Jack Roush),Ford,400.0,172275.0,running,6.0,175.0
+2007,28,Dover,3.0,21.0,8.0,"Dale Earnhardt, Jr.","Budweiser (Dale Earnhardt, Inc.)",Chevrolet,400.0,173583.0,running,0.0,165.0
+2007,28,Dover,4.0,31.0,1.0,Mark Martin,"U.S. Army (Dale Earnhardt, Inc.)",Chevrolet,400.0,124425.0,running,22.0,165.0
+2007,28,Dover,5.0,22.0,5.0,Kyle Busch,Kellogg's / Carquest (Rick Hendrick),Chevrolet,400.0,117725.0,running,0.0,155.0
+2007,28,Dover,6.0,17.0,25.0,Casey Mears,National Guard / GMAC (Rick Hendrick),Chevrolet,400.0,118025.0,running,0.0,150.0
+2007,28,Dover,7.0,36.0,31.0,Jeff Burton,AT&T Mobility (Richard Childress),Chevrolet,399.0,123166.0,running,0.0,146.0
+2007,28,Dover,8.0,30.0,26.0,Jamie McMurray,Irwin (Jack Roush),Ford,399.0,92775.0,running,0.0,142.0
+2007,28,Dover,9.0,28.0,20.0,Tony Stewart,Home Depot (Joe Gibbs),Chevrolet,399.0,126411.0,running,0.0,138.0
+2007,28,Dover,10.0,2.0,42.0,Juan Pablo Montoya,Texaco / Havoline (Chip Ganassi),Dodge,399.0,121800.0,running,0.0,134.0
+2007,28,Dover,11.0,27.0,24.0,Jeff Gordon,DuPont (Rick Hendrick),Chevrolet,399.0,121461.0,running,0.0,130.0
+2007,28,Dover,12.0,42.0,7.0,Clint Bowyer,DirecTV (Richard Childress),Chevrolet,399.0,90825.0,running,0.0,127.0
+2007,28,Dover,13.0,5.0,1.0,Martin Truex Jr,"Bass Pro Shops / Tracker Boats (Dale Earnhardt, Inc.)",Chevrolet,399.0,103170.0,running,0.0,124.0
+2007,28,Dover,14.0,1.0,48.0,Jimmie Johnson,Lowe's (Rick Hendrick),Chevrolet,398.0,137311.0,running,1.0,126.0
+2007,28,Dover,15.0,43.0,55.0,Michael Waltrip,NAPA Auto Parts (Michael Waltrip),Toyota,398.0,89183.0,running,1.0,123.0
+2007,28,Dover,16.0,23.0,83.0,Brian Vickers,Red Bull (Dietrich Mateschitz),Toyota,397.0,73075.0,running,0.0,115.0
+2007,28,Dover,17.0,12.0,19.0,Elliott Sadler,Dodge Dealers / UAW (Gillett Evernham Motorsports),Dodge,397.0,91120.0,running,0.0,112.0
+2007,28,Dover,18.0,13.0,0.0,David Reutimann,Dominos.com (Michael Waltrip),Toyota,397.0,88508.0,running,0.0,109.0
+2007,28,Dover,19.0,41.0,7.0,Robby Gordon,Jim Beam Black (Robby Gordon),Ford,397.0,72075.0,running,0.0,106.0
+2007,28,Dover,20.0,7.0,29.0,Kevin Harvick,Shell / Pennzoil (Richard Childress),Chevrolet,396.0,119811.0,running,0.0,103.0
+2007,28,Dover,21.0,38.0,15.0,Paul Menard,"Menards / Pittsburgh Paints (Dale Earnhardt, Inc.)",Chevrolet,396.0,71650.0,running,0.0,100.0
+2007,28,Dover,22.0,18.0,78.0,Joe Nemechek,Furniture Row (Barney Visser),Chevrolet,396.0,67900.0,running,0.0,97.0
+2007,28,Dover,23.0,39.0,88.0,Kenny Wallace,Snickers (Yates Racing),Ford,396.0,103233.0,running,0.0,94.0
+2007,28,Dover,24.0,37.0,38.0,David Gilliland,M&M's (Yates Racing),Ford,395.0,98214.0,running,0.0,91.0
+2007,28,Dover,25.0,35.0,6.0,David Ragan,AAA (Jack Roush),Ford,394.0,107550.0,running,0.0,88.0
+2007,28,Dover,26.0,26.0,21.0,Ken Schrader,U.S. Air Force (Wood Brothers),Ford,394.0,90039.0,running,0.0,85.0
+2007,28,Dover,27.0,8.0,43.0,Bobby Labonte,Cheerios / Betty Crocker (Petty Enterprises),Dodge,394.0,107161.0,running,0.0,82.0
+2007,28,Dover,28.0,24.0,12.0,Ryan Newman,Alltel (Roger Penske),Dodge,386.0,102050.0,crash,0.0,79.0
+2007,28,Dover,29.0,4.0,2.0,Kurt Busch,Miller Lite (Roger Penske),Dodge,385.0,103983.0,crash,20.0,81.0
+2007,28,Dover,30.0,33.0,41.0,Reed Sorenson,Target (Chip Ganassi),Dodge,385.0,91833.0,crash,2.0,78.0
+2007,28,Dover,31.0,34.0,66.0,Jeff Green,Comcast / Best Buy (Gene Haas),Chevrolet,384.0,86158.0,crash,0.0,70.0
+2007,28,Dover,32.0,14.0,9.0,Kasey Kahne,Dodge Dealers / UAW (Gillett Evernham Motorsports),Dodge,384.0,113516.0,crash,0.0,67.0
+2007,28,Dover,33.0,32.0,18.0,J.J. Yeley,Interstate Batteries (Joe Gibbs),Chevrolet,383.0,95033.0,crash,0.0,64.0
+2007,28,Dover,34.0,6.0,10.0,Scott Riggs,Valvoline / Stanley Tools (James Rocco),Dodge,383.0,74000.0,crash,0.0,61.0
+2007,28,Dover,35.0,10.0,17.0,Matt Kenseth,DeWalt NANO Technology (Jack Roush),Ford,374.0,113716.0,engine,192.0,68.0
+2007,28,Dover,36.0,20.0,96.0,Tony Raines,DLP HDTV (Bill Saunders),Chevrolet,360.0,73625.0,crash,0.0,55.0
+2007,28,Dover,37.0,29.0,49.0,John Andretti,Paralyzed Veterans of America (Beth Ann Morgenthau),Dodge,358.0,75047.0,crash,0.0,52.0
+2007,28,Dover,38.0,3.0,11.0,Denny Hamlin,FedEx Ground (Joe Gibbs),Chevrolet,308.0,89650.0,running,61.0,54.0
+2007,28,Dover,39.0,40.0,40.0,David Stremme,Halo 3 / Target (Chip Ganassi),Dodge,287.0,65225.0,engine,0.0,46.0
+2007,28,Dover,40.0,16.0,45.0,Kyle Petty,Wells Fargo (Petty Enterprises),Dodge,200.0,65050.0,crash,0.0,43.0
+2007,28,Dover,41.0,19.0,44.0,Dale Jarrett,UPS (Michael Waltrip),Toyota,141.0,64855.0,engine,0.0,40.0
+2007,28,Dover,42.0,25.0,70.0,Johnny Sauter,Haas Automation (Gene Haas),Chevrolet,11.0,64730.0,crash,0.0,37.0
+2007,28,Dover,43.0,11.0,84.0,A.J. Allmendinger,Red Bull (Dietrich Mateschitz),Toyota,4.0,64588.0,engine,0.0,34.0
+2007,29,Kansas,1.0,7.0,16.0,Greg Biffle,Aflac (Jack Roush),Ford,210.0,316225.0,running,37.0,190.0
+2007,29,Kansas,2.0,10.0,7.0,Clint Bowyer,Jack Daniel's (Richard Childress),Chevrolet,210.0,218525.0,running,0.0,170.0
+2007,29,Kansas,3.0,1.0,48.0,Jimmie Johnson,Lowe's (Rick Hendrick),Chevrolet,210.0,221661.0,running,1.0,170.0
+2007,29,Kansas,4.0,16.0,25.0,Casey Mears,National Guard / GMAC (Rick Hendrick),Chevrolet,210.0,153050.0,running,0.0,160.0
+2007,29,Kansas,5.0,4.0,24.0,Jeff Gordon,DuPont (Rick Hendrick),Chevrolet,210.0,161311.0,running,6.0,160.0
+2007,29,Kansas,6.0,17.0,29.0,Kevin Harvick,Shell / Pennzoil (Richard Childress),Chevrolet,210.0,156411.0,running,18.0,155.0
+2007,29,Kansas,7.0,14.0,41.0,Reed Sorenson,Target / Lysol (Chip Ganassi),Dodge,210.0,134458.0,running,0.0,146.0
+2007,29,Kansas,8.0,15.0,19.0,Elliott Sadler,Dodge Dealers / UAW (Gillett Evernham Motorsports),Dodge,210.0,123295.0,running,0.0,142.0
+2007,29,Kansas,9.0,29.0,9.0,Kasey Kahne,Dodge Dealers / UAW (Gillett Evernham Motorsports),Dodge,210.0,144941.0,running,0.0,138.0
+2007,29,Kansas,10.0,6.0,8.0,"Dale Earnhardt, Jr.","Budweiser (Dale Earnhardt, Inc.)",Chevrolet,210.0,157883.0,running,0.0,134.0
+2007,29,Kansas,11.0,12.0,2.0,Kurt Busch,Miller Lite (Roger Penske),Dodge,210.0,131483.0,running,76.0,140.0
+2007,29,Kansas,12.0,39.0,1.0,Mark Martin,"U.S. Army (Dale Earnhardt, Inc.)",Chevrolet,210.0,106575.0,running,0.0,127.0
+2007,29,Kansas,13.0,3.0,10.0,Scott Riggs,Valvoline / Stanley Tools (James Rocco),Dodge,210.0,103075.0,running,0.0,124.0
+2007,29,Kansas,14.0,31.0,18.0,J.J. Yeley,Interstate Batteries (Joe Gibbs),Chevrolet,210.0,121283.0,running,0.0,121.0
+2007,29,Kansas,15.0,43.0,22.0,Dave Blaney,Caterpillar (Bill Davis),Toyota,210.0,122958.0,running,3.0,123.0
+2007,29,Kansas,16.0,18.0,6.0,David Ragan,AAA Insurance (Jack Roush),Ford,210.0,130175.0,running,0.0,115.0
+2007,29,Kansas,17.0,36.0,40.0,David Stremme,Energizer eLithium (Chip Ganassi),Dodge,210.0,91150.0,running,0.0,112.0
+2007,29,Kansas,18.0,40.0,96.0,Tony Raines,DLP HDTV (Bill Saunders),Chevrolet,210.0,99200.0,running,0.0,109.0
+2007,29,Kansas,19.0,41.0,7.0,Robby Gordon,Camping World / Winegard (Robby Gordon),Ford,210.0,89750.0,running,0.0,106.0
+2007,29,Kansas,20.0,37.0,66.0,Jeff Green,Garmin / Comcast / Samsung HDTV (Gene Haas),Chevrolet,210.0,114058.0,running,0.0,103.0
+2007,29,Kansas,21.0,33.0,45.0,Kyle Petty,Wells Fargo (Petty Enterprises),Dodge,210.0,100008.0,running,4.0,105.0
+2007,29,Kansas,22.0,26.0,36.0,Jeremy Mayfield,360 OTC (Bill Davis),Toyota,210.0,84450.0,running,0.0,97.0
+2007,29,Kansas,23.0,30.0,70.0,Johnny Sauter,Yellow Transportation (Gene Haas),Chevrolet,210.0,88000.0,running,0.0,94.0
+2007,29,Kansas,24.0,20.0,26.0,Jamie McMurray,Crown Royal (Jack Roush),Ford,210.0,94825.0,running,0.0,91.0
+2007,29,Kansas,25.0,24.0,78.0,Joe Nemechek,Furniture Row (Barney Visser),Chevrolet,210.0,83475.0,running,0.0,88.0
+2007,29,Kansas,26.0,13.0,44.0,Dale Jarrett,UPS (Michael Waltrip),Toyota,210.0,82025.0,running,0.0,85.0
+2007,29,Kansas,27.0,23.0,15.0,Paul Menard,"Menards / Johns Manville (Dale Earnhardt, Inc.)",Chevrolet,210.0,84425.0,running,0.0,82.0
+2007,29,Kansas,28.0,21.0,42.0,Juan Pablo Montoya,Texaco / Havoline (Chip Ganassi),Dodge,209.0,118400.0,running,0.0,79.0
+2007,29,Kansas,29.0,5.0,11.0,Denny Hamlin,FedEx Freight (Joe Gibbs),Chevrolet,209.0,99625.0,running,0.0,76.0
+2007,29,Kansas,30.0,11.0,55.0,Michael Waltrip,NAPA Auto Parts (Michael Waltrip),Toyota,209.0,90422.0,running,0.0,73.0
+2007,29,Kansas,31.0,25.0,0.0,David Reutimann,Dominos.com (Michael Waltrip),Toyota,209.0,82675.0,running,0.0,70.0
+2007,29,Kansas,32.0,35.0,21.0,Ken Schrader,Little Debbie Snack Cakes (Wood Brothers),Ford,208.0,99489.0,running,0.0,67.0
+2007,29,Kansas,33.0,28.0,49.0,John Andretti,LifeLock (Beth Ann Morgenthau),Dodge,208.0,80725.0,running,0.0,64.0
+2007,29,Kansas,34.0,22.0,38.0,David Gilliland,M&M's (Yates Racing),Ford,206.0,106789.0,running,0.0,61.0
+2007,29,Kansas,35.0,2.0,17.0,Matt Kenseth,DeWalt (Jack Roush),Ford,206.0,133091.0,running,49.0,63.0
+2007,29,Kansas,36.0,34.0,31.0,Jeff Burton,AT&T Mobility (Richard Childress),Chevrolet,199.0,119141.0,running,0.0,55.0
+2007,29,Kansas,37.0,27.0,99.0,Carl Edwards,Office Depot (Jack Roush),Ford,181.0,86925.0,crash,0.0,52.0
+2007,29,Kansas,38.0,9.0,1.0,Martin Truex Jr,"Bass Pro Shops / Tracker Boats (Dale Earnhardt, Inc.)",Chevrolet,175.0,105045.0,running,3.0,54.0
+2007,29,Kansas,39.0,19.0,20.0,Tony Stewart,Home Depot / Ryobi Lithium 18V (Joe Gibbs),Chevrolet,174.0,132336.0,crash,13.0,51.0
+2007,29,Kansas,40.0,38.0,88.0,Kenny Wallace,Snickers (Yates Racing),Ford,171.0,109333.0,running,0.0,43.0
+2007,29,Kansas,41.0,8.0,5.0,Kyle Busch,Kellogg's / Carquest (Rick Hendrick),Chevrolet,164.0,96075.0,running,0.0,40.0
+2007,29,Kansas,42.0,32.0,43.0,Bobby Labonte,Cheerios / Betty Crocker (Petty Enterprises),Dodge,155.0,114841.0,crash,0.0,37.0
+2007,29,Kansas,43.0,42.0,12.0,Ryan Newman,Alltel (Roger Penske),Dodge,108.0,109766.0,engine,0.0,34.0
+2007,30,Talladega,1.0,34.0,24.0,Jeff Gordon,DuPont / Pepsi (Rick Hendrick),Chevrolet,188.0,246036.0,running,1.0,190.0
+2007,30,Talladega,2.0,19.0,48.0,Jimmie Johnson,Lowe's (Rick Hendrick),Chevrolet,188.0,216461.0,running,6.0,175.0
+2007,30,Talladega,3.0,2.0,22.0,Dave Blaney,Caterpillar (Bill Davis),Toyota,188.0,180783.0,running,1.0,170.0
+2007,30,Talladega,4.0,18.0,11.0,Denny Hamlin,FedEx Ground (Joe Gibbs),Chevrolet,188.0,140975.0,running,40.0,170.0
+2007,30,Talladega,5.0,16.0,12.0,Ryan Newman,Alltel (Roger Penske),Dodge,188.0,149025.0,running,10.0,160.0
+2007,30,Talladega,6.0,29.0,25.0,Casey Mears,National Guard / GMAC (Rick Hendrick),Chevrolet,188.0,114325.0,running,0.0,150.0
+2007,30,Talladega,7.0,41.0,2.0,Kurt Busch,Miller Lite (Roger Penske),Dodge,188.0,127933.0,running,0.0,146.0
+2007,30,Talladega,8.0,11.0,20.0,Tony Stewart,Home Depot (Joe Gibbs),Chevrolet,188.0,134736.0,running,38.0,147.0
+2007,30,Talladega,9.0,14.0,96.0,Tony Raines,DLP HDTV (Bill Saunders),Chevrolet,188.0,96425.0,running,5.0,143.0
+2007,30,Talladega,10.0,28.0,41.0,Reed Sorenson,Target (Chip Ganassi),Dodge,188.0,114358.0,running,0.0,109.0
+2007,30,Talladega,11.0,23.0,7.0,Clint Bowyer,Jack Daniel's (Richard Childress),Chevrolet,188.0,92625.0,running,1.0,135.0
+2007,30,Talladega,12.0,39.0,70.0,Johnny Sauter,Radioactive Energy Drink (Gene Haas),Chevrolet,188.0,98750.0,running,2.0,132.0
+2007,30,Talladega,13.0,32.0,66.0,Jeff Green,Garmin (Gene Haas),Chevrolet,188.0,103383.0,running,1.0,129.0
+2007,30,Talladega,14.0,31.0,99.0,Carl Edwards,Office Depot (Jack Roush),Ford,188.0,89325.0,running,0.0,121.0
+2007,30,Talladega,15.0,22.0,42.0,Juan Pablo Montoya,Texaco / Havoline (Chip Ganassi),Dodge,188.0,115925.0,running,0.0,118.0
+2007,30,Talladega,16.0,9.0,9.0,Kasey Kahne,Dodge Dealers / UAW (Gillett Evernham Motorsports),Dodge,188.0,121891.0,running,0.0,115.0
+2007,30,Talladega,17.0,33.0,40.0,David Stremme,Coors Light (Chip Ganassi),Dodge,188.0,78050.0,running,1.0,117.0
+2007,30,Talladega,18.0,17.0,18.0,J.J. Yeley,Interstate Batteries (Joe Gibbs),Chevrolet,188.0,105658.0,running,0.0,109.0
+2007,30,Talladega,19.0,15.0,88.0,Mike Wallace,M&M's (Yates Racing),Ford,188.0,108408.0,running,0.0,106.0
+2007,30,Talladega,20.0,37.0,29.0,Kevin Harvick,Shell / Pennzoil (Richard Childress),Chevrolet,188.0,125236.0,running,1.0,108.0
+2007,30,Talladega,21.0,6.0,27.0,Jacques Villeneuve,UNICEF (Bill Davis),Toyota,188.0,73325.0,running,0.0,100.0
+2007,30,Talladega,22.0,5.0,0.0,David Reutimann,Burger King (Michael Waltrip),Toyota,179.0,88233.0,crash,2.0,102.0
+2007,30,Talladega,23.0,20.0,16.0,Greg Biffle,Dish Network / Starz (Jack Roush),Ford,176.0,92150.0,crash,0.0,94.0
+2007,30,Talladega,24.0,10.0,19.0,Elliott Sadler,Dodge Dealers / UAW (Gillett Evernham Motorsports),Dodge,175.0,94120.0,crash,25.0,96.0
+2007,30,Talladega,25.0,1.0,55.0,Michael Waltrip,NAPA Auto Parts (Michael Waltrip),Toyota,175.0,88722.0,crash,6.0,93.0
+2007,30,Talladega,26.0,25.0,17.0,Matt Kenseth,DeWalt (Jack Roush),Ford,171.0,120066.0,running,0.0,85.0
+2007,30,Talladega,27.0,27.0,38.0,David Gilliland,M&M's (Yates Racing),Ford,167.0,102239.0,running,0.0,82.0
+2007,30,Talladega,28.0,12.0,45.0,Kyle Petty,American Spirit Motor Oil (Petty Enterprises),Dodge,161.0,74775.0,crash,1.0,84.0
+2007,30,Talladega,29.0,24.0,7.0,Robby Gordon,Camping World (Robby Gordon),Ford,161.0,74625.0,running,3.0,81.0
+2007,30,Talladega,30.0,38.0,1.0,Aric Almirola,"U.S. Army (Dale Earnhardt, Inc.)",Chevrolet,156.0,82450.0,engine,0.0,73.0
+2007,30,Talladega,31.0,40.0,21.0,Ken Schrader,Motorcraft (Wood Brothers),Ford,152.0,90514.0,crash,0.0,70.0
+2007,30,Talladega,32.0,4.0,78.0,Joe Nemechek,Furniture Row (Barney Visser),Chevrolet,149.0,71375.0,running,0.0,67.0
+2007,30,Talladega,33.0,7.0,49.0,John Andretti,Paralyzed Veterans of America (Beth Ann Morgenthau),Dodge,149.0,71925.0,running,0.0,64.0
+2007,30,Talladega,34.0,42.0,6.0,David Ragan,AAA Travel (Jack Roush),Ford,146.0,106625.0,crash,0.0,61.0
+2007,30,Talladega,35.0,8.0,43.0,Bobby Labonte,Cheerios Racing / Pillsbury (Petty Enterprises),Dodge,144.0,107561.0,crash,3.0,63.0
+2007,30,Talladega,36.0,36.0,5.0,Kyle Busch,Kellogg's / Carquest (Rick Hendrick),Chevrolet,144.0,88475.0,crash,1.0,60.0
+2007,30,Talladega,37.0,35.0,26.0,Jamie McMurray,Irwin Vise-Grip GrooveLocks (Jack Roush),Ford,144.0,78350.0,crash,0.0,52.0
+2007,30,Talladega,38.0,30.0,15.0,Paul Menard,"Menards / Peak (Dale Earnhardt, Inc.)",Chevrolet,144.0,70225.0,crash,0.0,49.0
+2007,30,Talladega,39.0,3.0,83.0,Brian Vickers,Red Bull (Dietrich Mateschitz),Toyota,144.0,70500.0,crash,8.0,51.0
+2007,30,Talladega,40.0,26.0,8.0,"Dale Earnhardt, Jr.","Budweiser (Dale Earnhardt, Inc.)",Chevrolet,136.0,120768.0,engine,31.0,48.0
+2007,30,Talladega,41.0,43.0,44.0,Dale Jarrett,UPS (Michael Waltrip),Toyota,136.0,69810.0,crash,0.0,40.0
+2007,30,Talladega,42.0,13.0,1.0,Martin Truex Jr,"Bass Pro Shops / Tracker Boats (Dale Earnhardt, Inc.)",Chevrolet,113.0,96025.0,engine,1.0,42.0
+2007,30,Talladega,43.0,21.0,31.0,Jeff Burton,AT&T Mobility (Richard Childress),Chevrolet,91.0,109840.0,engine,0.0,34.0
+2007,31,Charlotte,1.0,4.0,24.0,Jeff Gordon,DuPont (Rick Hendrick),Chevrolet,337.0,268236.0,running,72.0,190.0
+2007,31,Charlotte,2.0,25.0,7.0,Clint Bowyer,Jack Daniel's (Richard Childress),Chevrolet,337.0,202450.0,running,79.0,175.0
+2007,31,Charlotte,3.0,13.0,5.0,Kyle Busch,Kellogg's / Carquest (Rick Hendrick),Chevrolet,337.0,153300.0,running,4.0,170.0
+2007,31,Charlotte,4.0,27.0,31.0,Jeff Burton,AT&T Mobility (Richard Childress),Chevrolet,337.0,157341.0,running,0.0,160.0
+2007,31,Charlotte,5.0,18.0,99.0,Carl Edwards,Office Depot (Jack Roush),Ford,337.0,127800.0,running,0.0,155.0
+2007,31,Charlotte,6.0,34.0,22.0,Dave Blaney,Caterpillar / CatUsed.com (Bill Davis),Toyota,337.0,132208.0,running,1.0,155.0
+2007,31,Charlotte,7.0,29.0,20.0,Tony Stewart,The Home Depot (Joe Gibbs),Chevrolet,337.0,135111.0,running,0.0,146.0
+2007,31,Charlotte,8.0,5.0,9.0,Kasey Kahne,Dodge Dealers / UAW (Gillett Evernham Motorsports),Dodge,337.0,136616.0,running,0.0,142.0
+2007,31,Charlotte,9.0,28.0,40.0,David Stremme,Target (Chip Ganassi),Dodge,337.0,83800.0,running,0.0,138.0
+2007,31,Charlotte,10.0,19.0,55.0,Michael Waltrip,NAPA Auto Parts (Michael Waltrip),Toyota,337.0,95733.0,running,0.0,134.0
+2007,31,Charlotte,11.0,33.0,88.0,Ricky Rudd,Snickers (Yates Racing),Ford,337.0,112083.0,running,0.0,130.0
+2007,31,Charlotte,12.0,3.0,43.0,Bobby Labonte,Cheerios Racing / Pink for the Cure (Petty Enterprises),Dodge,337.0,117461.0,running,0.0,127.0
+2007,31,Charlotte,13.0,39.0,18.0,J.J. Yeley,Interstate Batteries (Joe Gibbs),Chevrolet,337.0,104233.0,running,0.0,124.0
+2007,31,Charlotte,14.0,2.0,48.0,Jimmie Johnson,Lowe's / Kobalt Tools (Rick Hendrick),Chevrolet,337.0,167586.0,running,95.0,131.0
+2007,31,Charlotte,15.0,30.0,84.0,A.J. Allmendinger,Red Bull (Dietrich Mateschitz),Toyota,337.0,69250.0,running,0.0,118.0
+2007,31,Charlotte,16.0,12.0,1.0,Mark Martin,"U.S. Army (Dale Earnhardt, Inc.)",Chevrolet,337.0,84550.0,running,0.0,115.0
+2007,31,Charlotte,17.0,32.0,1.0,Martin Truex Jr,"Bass Pro Shops / Tracker Boats (Dale Earnhardt, Inc.)",Chevrolet,337.0,96645.0,running,0.0,112.0
+2007,31,Charlotte,18.0,42.0,45.0,Kyle Petty,Tire Kingdom (Petty Enterprises),Dodge,337.0,84558.0,running,2.0,114.0
+2007,31,Charlotte,19.0,22.0,8.0,"Dale Earnhardt, Jr.","Budweiser (Dale Earnhardt, Inc.)",Chevrolet,337.0,111058.0,running,0.0,106.0
+2007,31,Charlotte,20.0,11.0,11.0,Denny Hamlin,FedEx Kinko's (Joe Gibbs),Chevrolet,337.0,87200.0,running,0.0,103.0
+2007,31,Charlotte,21.0,9.0,25.0,Casey Mears,National Guard / GMAC (Rick Hendrick),Chevrolet,336.0,83025.0,running,0.0,100.0
+2007,31,Charlotte,22.0,17.0,15.0,Paul Menard,"Menards / Rain-X (Dale Earnhardt, Inc.)",Chevrolet,336.0,68350.0,running,0.0,97.0
+2007,31,Charlotte,23.0,23.0,70.0,Johnny Sauter,Yellow Transportation (Gene Haas),Chevrolet,336.0,67950.0,running,0.0,94.0
+2007,31,Charlotte,24.0,6.0,26.0,Jamie McMurray,Crown Royal (Jack Roush),Ford,336.0,80750.0,running,27.0,96.0
+2007,31,Charlotte,25.0,21.0,38.0,David Gilliland,M&M's (Yates Racing),Ford,335.0,94989.0,running,0.0,88.0
+2007,31,Charlotte,26.0,8.0,2.0,Kurt Busch,Miller Lite (Roger Penske),Dodge,335.0,102383.0,running,13.0,90.0
+2007,31,Charlotte,27.0,10.0,16.0,Greg Biffle,3M (Jack Roush),Ford,334.0,82350.0,running,0.0,82.0
+2007,31,Charlotte,28.0,1.0,12.0,Ryan Newman,Alltel (Roger Penske),Dodge,333.0,122775.0,crash,11.0,84.0
+2007,31,Charlotte,29.0,20.0,0.0,David Reutimann,Dominos.com (Michael Waltrip),Toyota,333.0,77808.0,running,0.0,76.0
+2007,31,Charlotte,30.0,26.0,41.0,Reed Sorenson,Fuji Film (Chip Ganassi),Dodge,333.0,83972.0,running,0.0,73.0
+2007,31,Charlotte,31.0,41.0,96.0,Tony Raines,DLP HDTV / Queen City (Bill Saunders),Chevrolet,331.0,73525.0,running,0.0,70.0
+2007,31,Charlotte,32.0,37.0,66.0,Jeff Green,Best Buy / Garmin (Gene Haas),Chevrolet,330.0,70525.0,running,0.0,67.0
+2007,31,Charlotte,33.0,24.0,29.0,Kevin Harvick,Shell / Pennzoil (Richard Childress),Chevrolet,330.0,112086.0,running,0.0,64.0
+2007,31,Charlotte,34.0,7.0,17.0,Matt Kenseth,Carhartt for Women / DeWalt (Jack Roush),Ford,282.0,115516.0,crash,32.0,66.0
+2007,31,Charlotte,35.0,35.0,21.0,Bill Elliott,Heinz / Ore-Ida (Wood Brothers),Ford,282.0,81339.0,running,0.0,58.0
+2007,31,Charlotte,36.0,14.0,10.0,Scott Riggs,Stanley Tools / Valvoline (James Rocco),Dodge,278.0,69950.0,crash,0.0,55.0
+2007,31,Charlotte,37.0,36.0,42.0,Juan Pablo Montoya,Texaco / Havoline (Chip Ganassi),Dodge,273.0,96400.0,crash,0.0,52.0
+2007,31,Charlotte,38.0,40.0,7.0,Robby Gordon,Motorola Digital Audio Players (Robby Gordon),Ford,270.0,61700.0,running,1.0,54.0
+2007,31,Charlotte,39.0,38.0,36.0,Jeremy Mayfield,360 OTC (Bill Davis),Toyota,253.0,61575.0,vibration,0.0,46.0
+2007,31,Charlotte,40.0,31.0,6.0,David Ragan,AAA (Jack Roush),Ford,231.0,97275.0,running,0.0,43.0
+2007,31,Charlotte,41.0,16.0,19.0,Elliott Sadler,Dodge Dealers / UAW (Gillett Evernham Motorsports),Dodge,228.0,79650.0,running,0.0,40.0
+2007,31,Charlotte,42.0,43.0,49.0,John Andretti,Paralyzed Veterans of America (Beth Ann Morgenthau),Dodge,205.0,61180.0,crash,0.0,37.0
+2007,31,Charlotte,43.0,15.0,4.0,Ward Burton,State Water Heaters / Lucas Oil (Larry McClure),Chevrolet,83.0,61343.0,engine,0.0,34.0
+2007,32,Martinsville,1.0,4.0,48.0,Jimmie Johnson,Lowe's (Rick Hendrick),Chevrolet,506.0,244486.0,running,147.0,190.0
+2007,32,Martinsville,2.0,12.0,12.0,Ryan Newman,Alltel (Roger Penske),Dodge,506.0,181625.0,running,0.0,170.0
+2007,32,Martinsville,3.0,1.0,24.0,Jeff Gordon,DuPont (Rick Hendrick),Chevrolet,506.0,183386.0,running,168.0,175.0
+2007,32,Martinsville,4.0,6.0,5.0,Kyle Busch,Kellogg's / Carquest (Rick Hendrick),Chevrolet,506.0,130375.0,running,106.0,165.0
+2007,32,Martinsville,5.0,24.0,17.0,Matt Kenseth,R&L Carriers / DeWalt (Jack Roush),Ford,506.0,147916.0,running,0.0,155.0
+2007,32,Martinsville,6.0,30.0,11.0,Denny Hamlin,FedEx Freight (Joe Gibbs),Chevrolet,506.0,105800.0,running,0.0,150.0
+2007,32,Martinsville,7.0,37.0,16.0,Greg Biffle,Dish Network (Jack Roush),Ford,506.0,103950.0,running,0.0,146.0
+2007,32,Martinsville,8.0,26.0,42.0,Juan Pablo Montoya,Texaco / Havoline (Chip Ganassi),Dodge,506.0,116850.0,running,9.0,147.0
+2007,32,Martinsville,9.0,21.0,7.0,Clint Bowyer,Jack Daniel's (Richard Childress),Chevrolet,506.0,85625.0,running,0.0,138.0
+2007,32,Martinsville,10.0,3.0,29.0,Kevin Harvick,Shell / Pennzoil (Richard Childress),Chevrolet,506.0,131761.0,running,0.0,134.0
+2007,32,Martinsville,11.0,20.0,99.0,Carl Edwards,Office Depot (Jack Roush),Ford,506.0,82275.0,running,0.0,130.0
+2007,32,Martinsville,12.0,18.0,31.0,Jeff Burton,AT&T Mobility (Richard Childress),Chevrolet,506.0,108216.0,running,51.0,132.0
+2007,32,Martinsville,13.0,34.0,20.0,Tony Stewart,The Home Depot (Joe Gibbs),Chevrolet,506.0,116611.0,running,0.0,124.0
+2007,32,Martinsville,14.0,10.0,96.0,Tony Raines,DLP HDTV (Bill Saunders),Chevrolet,506.0,79450.0,running,0.0,121.0
+2007,32,Martinsville,15.0,5.0,9.0,Kasey Kahne,Dodge Dealers / UAW (Gillett Evernham Motorsports),Dodge,506.0,113591.0,running,0.0,118.0
+2007,32,Martinsville,16.0,32.0,10.0,Scott Riggs,Valvoline / Stanley Tools (James Rocco),Dodge,506.0,76900.0,running,0.0,115.0
+2007,32,Martinsville,17.0,19.0,0.0,David Reutimann,Dominos.com (Michael Waltrip),Toyota,506.0,87408.0,running,0.0,112.0
+2007,32,Martinsville,18.0,29.0,55.0,Michael Waltrip,NAPA Auto Parts (Michael Waltrip),Toyota,506.0,80133.0,running,0.0,109.0
+2007,32,Martinsville,19.0,2.0,1.0,Martin Truex Jr,"Bass Pro Shops / Tracker Boats (Dale Earnhardt, Inc.)",Chevrolet,506.0,95695.0,running,0.0,106.0
+2007,32,Martinsville,20.0,22.0,25.0,Casey Mears,National Guard / GMAC (Rick Hendrick),Chevrolet,506.0,83975.0,running,0.0,103.0
+2007,32,Martinsville,21.0,42.0,45.0,Kyle Petty,Marathon American Spirit Motor Oil (Petty Enterprises),Dodge,506.0,80858.0,running,0.0,100.0
+2007,32,Martinsville,22.0,16.0,43.0,Bobby Labonte,Goody's Headache Powder (Petty Enterprises),Dodge,506.0,103386.0,running,0.0,97.0
+2007,32,Martinsville,23.0,7.0,8.0,"Dale Earnhardt, Jr.","Budweiser (Dale Earnhardt, Inc.)",Chevrolet,506.0,108958.0,running,24.0,99.0
+2007,32,Martinsville,24.0,35.0,15.0,Paul Menard,"Menards / Pittsburgh Paints (Dale Earnhardt, Inc.)",Chevrolet,505.0,66050.0,running,0.0,91.0
+2007,32,Martinsville,25.0,40.0,38.0,David Gilliland,M&M's (Yates Racing),Ford,505.0,93514.0,running,0.0,88.0
+2007,32,Martinsville,26.0,41.0,6.0,David Ragan,AAA (Jack Roush),Ford,505.0,101650.0,running,0.0,85.0
+2007,32,Martinsville,27.0,23.0,88.0,Ricky Rudd,Combos / Snickers (Yates Racing),Ford,504.0,96308.0,running,0.0,82.0
+2007,32,Martinsville,28.0,31.0,66.0,Jeff Green,Haas CNC Machine Tools / Best Buy (Gene Haas),Chevrolet,503.0,84683.0,running,1.0,84.0
+2007,32,Martinsville,29.0,13.0,70.0,Johnny Sauter,Haas CNC Machine Tools (Gene Haas),Chevrolet,503.0,64775.0,running,0.0,76.0
+2007,32,Martinsville,30.0,33.0,44.0,Dale Jarrett,UPS (Michael Waltrip),Toyota,503.0,62025.0,running,0.0,73.0
+2007,32,Martinsville,31.0,11.0,2.0,Kurt Busch,Miller Lite (Roger Penske),Dodge,501.0,98483.0,running,0.0,70.0
+2007,32,Martinsville,32.0,9.0,26.0,Jamie McMurray,Crown Royal (Jack Roush),Ford,500.0,72175.0,running,0.0,67.0
+2007,32,Martinsville,33.0,15.0,49.0,John Andretti,Paralyzed Veterans of America (Beth Ann Morgenthau),Dodge,492.0,71472.0,transmission,0.0,64.0
+2007,32,Martinsville,34.0,43.0,21.0,Bill Elliott,Little Debbie Snack Cakes (Wood Brothers),Ford,483.0,82564.0,engine,0.0,61.0
+2007,32,Martinsville,35.0,25.0,84.0,A.J. Allmendinger,Red Bull (Dietrich Mateschitz),Toyota,474.0,60725.0,running,0.0,58.0
+2007,32,Martinsville,36.0,17.0,22.0,Dave Blaney,Caterpillar (Bill Davis),Toyota,439.0,68575.0,running,0.0,55.0
+2007,32,Martinsville,37.0,38.0,40.0,David Stremme,Target House (Chip Ganassi),Dodge,410.0,60450.0,crash,0.0,52.0
+2007,32,Martinsville,38.0,36.0,4.0,Ward Burton,ITT Night Vision / State Water Heaters (Larry McClure),Chevrolet,406.0,60325.0,running,0.0,49.0
+2007,32,Martinsville,39.0,39.0,7.0,Robby Gordon,MAC Tools (Robby Gordon),Ford,390.0,60200.0,running,0.0,46.0
+2007,32,Martinsville,40.0,14.0,19.0,Elliott Sadler,Dodge Dealers / UAW (Gillett Evernham Motorsports),Dodge,371.0,78420.0,running,0.0,43.0
+2007,32,Martinsville,41.0,28.0,41.0,Reed Sorenson,Target (Chip Ganassi),Dodge,259.0,67930.0,engine,0.0,40.0
+2007,32,Martinsville,42.0,8.0,18.0,J.J. Yeley,Interstate Batteries (Joe Gibbs),Chevrolet,258.0,87713.0,engine,0.0,37.0
+2007,32,Martinsville,43.0,27.0,1.0,Aric Almirola,"U.S. Army (Dale Earnhardt, Inc.)",Chevrolet,111.0,67940.0,electrical,0.0,34.0
+2007,33,Atlanta,1.0,6.0,48.0,Jimmie Johnson,Lowe's / Kobalt Tools (Rick Hendrick),Chevrolet,329.0,349561.0,running,9.0,190.0
+2007,33,Atlanta,2.0,16.0,99.0,Carl Edwards,Office Depot (Jack Roush),Ford,329.0,217775.0,running,0.0,170.0
+2007,33,Atlanta,3.0,32.0,41.0,Reed Sorenson,Target / Breast Cancer Awareness (Chip Ganassi),Dodge,329.0,203533.0,running,0.0,165.0
+2007,33,Atlanta,4.0,17.0,17.0,Matt Kenseth,DeWalt NANO Technology (Jack Roush),Ford,329.0,180416.0,running,0.0,160.0
+2007,33,Atlanta,5.0,28.0,31.0,Jeff Burton,AT&T Mobility (Richard Childress),Chevrolet,329.0,157616.0,running,0.0,155.0
+2007,33,Atlanta,6.0,26.0,7.0,Clint Bowyer,Jack Daniel's (Richard Childress),Chevrolet,329.0,119925.0,running,0.0,150.0
+2007,33,Atlanta,7.0,8.0,24.0,Jeff Gordon,DuPont / Nicorette Cinnamon Surge (Rick Hendrick),Chevrolet,329.0,150011.0,running,0.0,146.0
+2007,33,Atlanta,8.0,2.0,2.0,Kurt Busch,Miller Lite / World Beer Cup Winner (Roger Penske),Dodge,329.0,145833.0,running,98.0,147.0
+2007,33,Atlanta,9.0,4.0,9.0,Kasey Kahne,Dodge Dealers / UAW (Gillett Evernham Motorsports),Dodge,329.0,146291.0,running,3.0,143.0
+2007,33,Atlanta,10.0,14.0,83.0,Brian Vickers,Red Bull (Dietrich Mateschitz),Toyota,329.0,100025.0,running,0.0,134.0
+2007,33,Atlanta,11.0,24.0,55.0,Michael Waltrip,NAPA Auto Parts (Michael Waltrip),Toyota,329.0,114008.0,running,0.0,130.0
+2007,33,Atlanta,12.0,15.0,25.0,Casey Mears,National Guard / GMAC (Rick Hendrick),Chevrolet,329.0,113825.0,running,0.0,127.0
+2007,33,Atlanta,13.0,39.0,45.0,Kyle Petty,American Spirit Motor Oil (Petty Enterprises),Dodge,329.0,111133.0,running,1.0,129.0
+2007,33,Atlanta,14.0,10.0,19.0,Elliott Sadler,Dodge Dealers / UAW (Gillett Evernham Motorsports),Dodge,329.0,115270.0,running,0.0,121.0
+2007,33,Atlanta,15.0,34.0,29.0,Kevin Harvick,Shell / Pennzoil (Richard Childress),Chevrolet,329.0,140961.0,running,1.0,123.0
+2007,33,Atlanta,16.0,31.0,84.0,A.J. Allmendinger,Red Bull (Dietrich Mateschitz),Toyota,329.0,91775.0,running,1.0,120.0
+2007,33,Atlanta,17.0,38.0,88.0,Ricky Rudd,Snickers (Yates Racing),Ford,329.0,124508.0,running,0.0,112.0
+2007,33,Atlanta,18.0,43.0,21.0,Bill Elliott,Little Debbie (Wood Brothers),Ford,329.0,112189.0,running,0.0,109.0
+2007,33,Atlanta,19.0,3.0,44.0,Dale Jarrett,UPS / Toys-for-Tots (Michael Waltrip),Toyota,329.0,88450.0,running,0.0,106.0
+2007,33,Atlanta,20.0,19.0,5.0,Kyle Busch,Carquest / Kellogg's (Rick Hendrick),Chevrolet,329.0,108000.0,running,77.0,108.0
+2007,33,Atlanta,21.0,33.0,7.0,Robby Gordon,Jim Beam (Robby Gordon),Ford,328.0,90150.0,running,0.0,100.0
+2007,33,Atlanta,22.0,1.0,16.0,Greg Biffle,Lumber Liquidators (Jack Roush),Ford,328.0,120975.0,running,1.0,102.0
+2007,33,Atlanta,23.0,40.0,96.0,Tony Raines,DLP HDTV (Bill Saunders),Chevrolet,328.0,97800.0,running,0.0,94.0
+2007,33,Atlanta,24.0,18.0,11.0,Denny Hamlin,FedEx Express (Joe Gibbs),Chevrolet,328.0,103250.0,running,2.0,96.0
+2007,33,Atlanta,25.0,5.0,8.0,"Dale Earnhardt, Jr.","Budweiser (Dale Earnhardt, Inc.)",Chevrolet,327.0,128958.0,crash,0.0,88.0
+2007,33,Atlanta,26.0,25.0,26.0,Jamie McMurray,Crown Royal (Jack Roush),Ford,327.0,94950.0,crash,0.0,85.0
+2007,33,Atlanta,27.0,36.0,15.0,Paul Menard,"Menards / Johns Manville (Dale Earnhardt, Inc.)",Chevrolet,327.0,85750.0,running,1.0,87.0
+2007,33,Atlanta,28.0,29.0,49.0,John Andretti,Paralyzed Veterans of America (Beth Ann Morgenthau),Dodge,327.0,93408.0,running,0.0,79.0
+2007,33,Atlanta,29.0,27.0,10.0,Scott Riggs,Sears Auto Center (James Rocco),Dodge,327.0,92875.0,running,0.0,76.0
+2007,33,Atlanta,30.0,30.0,20.0,Tony Stewart,The Home Depot (Joe Gibbs),Chevrolet,323.0,130461.0,running,0.0,73.0
+2007,33,Atlanta,31.0,20.0,1.0,Martin Truex Jr,"Bass Pro Shops / Tracker Boats (Dale Earnhardt, Inc.)",Chevrolet,322.0,121520.0,crash,135.0,80.0
+2007,33,Atlanta,32.0,35.0,70.0,Johnny Sauter,Radioactive Energy Drink (Gene Haas),Chevrolet,321.0,84200.0,running,0.0,67.0
+2007,33,Atlanta,33.0,37.0,6.0,David Ragan,AAA (Jack Roush),Ford,320.0,120700.0,running,0.0,64.0
+2007,33,Atlanta,34.0,21.0,42.0,Juan Pablo Montoya,Texaco / Havoline (Chip Ganassi),Dodge,283.0,118350.0,running,0.0,61.0
+2007,33,Atlanta,35.0,22.0,18.0,J.J. Yeley,Interstate Batteries (Joe Gibbs),Chevrolet,275.0,111008.0,running,0.0,58.0
+2007,33,Atlanta,36.0,23.0,78.0,Joe Nemechek,Furniture Row (Barney Visser),Chevrolet,268.0,80450.0,crash,0.0,55.0
+2007,33,Atlanta,37.0,9.0,12.0,Ryan Newman,Mobil 1 (Roger Penske),Dodge,267.0,112375.0,engine,0.0,52.0
+2007,33,Atlanta,38.0,42.0,22.0,Dave Blaney,Caterpillar (Bill Davis),Toyota,263.0,97722.0,running,0.0,49.0
+2007,33,Atlanta,39.0,7.0,40.0,David Stremme,Coors Light / St. Jude (Chip Ganassi),Dodge,250.0,80050.0,crash,0.0,46.0
+2007,33,Atlanta,40.0,41.0,66.0,Jeremy Mayfield,Best Buy (Gene Haas),Chevrolet,250.0,87925.0,running,0.0,43.0
+2007,33,Atlanta,41.0,11.0,43.0,Bobby Labonte,Cheerios / Betty Crocker (Petty Enterprises),Dodge,238.0,116736.0,running,0.0,40.0
+2007,33,Atlanta,42.0,13.0,38.0,David Gilliland,"M&M's Halloween Win $1,000,000 (Yates Racing)",Ford,64.0,106924.0,crash,0.0,37.0
+2007,33,Atlanta,43.0,12.0,1.0,Mark Martin,"U.S. Army (Dale Earnhardt, Inc.)",Chevrolet,64.0,87861.0,crash,0.0,34.0
+2007,34,Fort Worth,1.0,8.0,48.0,Jimmie Johnson,Lowe's / Kobalt Tools (Rick Hendrick),Chevrolet,334.0,486211.0,running,9.0,190.0
+2007,34,Fort Worth,2.0,18.0,17.0,Matt Kenseth,USG (Jack Roush),Ford,334.0,378041.0,running,44.0,175.0
+2007,34,Fort Worth,3.0,1.0,1.0,Martin Truex Jr,"Bass Pro Shops / Tracker Boats (Dale Earnhardt, Inc.)",Chevrolet,334.0,262245.0,running,16.0,170.0
+2007,34,Fort Worth,4.0,17.0,5.0,Kyle Busch,Carquest / Kellogg's (Rick Hendrick),Chevrolet,334.0,217400.0,running,153.0,170.0
+2007,34,Fort Worth,5.0,11.0,12.0,Ryan Newman,Alltel (Roger Penske),Dodge,334.0,214125.0,running,4.0,160.0
+2007,34,Fort Worth,6.0,27.0,31.0,Jeff Burton,AT&T Mobility (Richard Childress),Chevrolet,334.0,192116.0,running,0.0,150.0
+2007,34,Fort Worth,7.0,2.0,24.0,Jeff Gordon,DuPont (Rick Hendrick),Chevrolet,334.0,184561.0,running,20.0,151.0
+2007,34,Fort Worth,8.0,6.0,2.0,Kurt Busch,Miller Lite (Roger Penske),Dodge,334.0,165783.0,running,10.0,147.0
+2007,34,Fort Worth,9.0,24.0,26.0,Jamie McMurray,Crown Royal Special Reserve (Jack Roush),Ford,334.0,134925.0,running,0.0,138.0
+2007,34,Fort Worth,10.0,4.0,29.0,Kevin Harvick,Shell / Pennzoil (Richard Childress),Chevrolet,334.0,168261.0,running,0.0,134.0
+2007,34,Fort Worth,11.0,15.0,20.0,Tony Stewart,Home Depot (Joe Gibbs),Chevrolet,334.0,159361.0,running,0.0,130.0
+2007,34,Fort Worth,12.0,19.0,19.0,Elliott Sadler,Dodge Dealers / UAW (Gillett Evernham Motorsports),Dodge,334.0,131620.0,running,0.0,127.0
+2007,34,Fort Worth,13.0,20.0,10.0,Scott Riggs,Proto / Stanley Tools / Valvoline (James Rocco),Dodge,334.0,118325.0,running,0.0,124.0
+2007,34,Fort Worth,14.0,12.0,8.0,"Dale Earnhardt, Jr.","Budweiser (Dale Earnhardt, Inc.)",Chevrolet,334.0,147058.0,running,12.0,126.0
+2007,34,Fort Worth,15.0,39.0,88.0,Ricky Rudd,Snickers (Yates Racing),Ford,334.0,141758.0,running,10.0,123.0
+2007,34,Fort Worth,16.0,13.0,43.0,Bobby Labonte,Cheerios Spoonfuls of Stories (Petty Enterprises),Dodge,334.0,141561.0,running,0.0,115.0
+2007,34,Fort Worth,17.0,38.0,18.0,J.J. Yeley,Interstate Batteries (Joe Gibbs),Chevrolet,333.0,131133.0,running,0.0,112.0
+2007,34,Fort Worth,18.0,25.0,9.0,Kasey Kahne,Dodge Dealers / UAW (Gillett Evernham Motorsports),Dodge,332.0,146266.0,running,0.0,109.0
+2007,34,Fort Worth,19.0,29.0,7.0,Clint Bowyer,Jack Daniel's (Richard Childress),Chevrolet,332.0,110425.0,running,1.0,111.0
+2007,34,Fort Worth,20.0,40.0,96.0,Tony Raines,DLP HDTV (Bill Saunders),Chevrolet,332.0,113275.0,running,0.0,103.0
+2007,34,Fort Worth,21.0,32.0,22.0,Dave Blaney,Caterpillar (Bill Davis),Toyota,332.0,127908.0,running,0.0,100.0
+2007,34,Fort Worth,22.0,36.0,66.0,Jeremy Mayfield,Best Buy (Gene Haas),Chevrolet,332.0,125583.0,running,0.0,97.0
+2007,34,Fort Worth,23.0,22.0,83.0,Brian Vickers,Red Bull (Dietrich Mateschitz),Toyota,332.0,101125.0,running,0.0,94.0
+2007,34,Fort Worth,24.0,14.0,36.0,Mike Skinner,360 OTC (Bill Davis),Toyota,331.0,98575.0,running,0.0,91.0
+2007,34,Fort Worth,25.0,3.0,42.0,Juan Pablo Montoya,Texaco / Havoline (Chip Ganassi),Dodge,331.0,143300.0,running,10.0,93.0
+2007,34,Fort Worth,26.0,21.0,99.0,Carl Edwards,Office Depot (Jack Roush),Ford,331.0,108625.0,running,0.0,85.0
+2007,34,Fort Worth,27.0,42.0,70.0,Johnny Sauter,FleetPride (Gene Haas),Chevrolet,330.0,100025.0,running,0.0,82.0
+2007,34,Fort Worth,28.0,34.0,38.0,David Gilliland,M&M's (Yates Racing),Ford,330.0,127039.0,running,0.0,79.0
+2007,34,Fort Worth,29.0,7.0,11.0,Denny Hamlin,FedEx Kinko's (Joe Gibbs),Chevrolet,324.0,115625.0,running,45.0,81.0
+2007,34,Fort Worth,30.0,16.0,15.0,Paul Menard,"Menards / Moen (Dale Earnhardt, Inc.)",Chevrolet,322.0,99425.0,running,0.0,73.0
+2007,34,Fort Worth,31.0,9.0,25.0,Casey Mears,National Guard / GMAC (Rick Hendrick),Chevrolet,302.0,114225.0,running,0.0,70.0
+2007,34,Fort Worth,32.0,41.0,7.0,Robby Gordon,Menards / MAPEI (Robby Gordon),Ford,300.0,96025.0,running,0.0,67.0
+2007,34,Fort Worth,33.0,23.0,16.0,Greg Biffle,Jackson Hewitt (Jack Roush),Ford,295.0,114775.0,oil cooler,0.0,64.0
+2007,34,Fort Worth,34.0,10.0,1.0,Mark Martin,"U.S. Army (Dale Earnhardt, Inc.)",Chevrolet,278.0,103625.0,running,0.0,61.0
+2007,34,Fort Worth,35.0,35.0,78.0,Joe Nemechek,Furniture Row (Barney Visser),Chevrolet,275.0,95425.0,brakes,0.0,58.0
+2007,34,Fort Worth,36.0,30.0,21.0,Bill Elliott,Delimex (Wood Brothers),Ford,248.0,114414.0,running,0.0,55.0
+2007,34,Fort Worth,37.0,33.0,6.0,David Ragan,AAA Insurance (Jack Roush),Ford,222.0,130825.0,crash,0.0,52.0
+2007,34,Fort Worth,38.0,26.0,44.0,Dale Jarrett,UPS (Michael Waltrip),Toyota,217.0,94800.0,crash,0.0,49.0
+2007,34,Fort Worth,39.0,5.0,84.0,A.J. Allmendinger,Red Bull (Dietrich Mateschitz),Toyota,151.0,94600.0,crash,0.0,46.0
+2007,34,Fort Worth,40.0,31.0,41.0,Reed Sorenson,Target (Chip Ganassi),Dodge,143.0,116558.0,crash,0.0,43.0
+2007,34,Fort Worth,41.0,28.0,40.0,David Stremme,HomeLife Communities (Chip Ganassi),Dodge,136.0,94180.0,crash,0.0,40.0
+2007,34,Fort Worth,42.0,37.0,45.0,Kyle Petty,National Tire & Battery (Petty Enterprises),Dodge,129.0,105638.0,crash,0.0,37.0
+2007,34,Fort Worth,43.0,43.0,0.0,David Reutimann,Burger King (Michael Waltrip),Toyota,90.0,103608.0,engine,0.0,34.0
+2007,35,Phoenix,1.0,6.0,48.0,Jimmie Johnson,Lowe's (Rick Hendrick),Chevrolet,312.0,245011.0,running,55.0,190.0
+2007,35,Phoenix,2.0,7.0,16.0,Greg Biffle,Dish Network (Jack Roush),Ford,312.0,175075.0,running,0.0,170.0
+2007,35,Phoenix,3.0,18.0,17.0,Matt Kenseth,DeWalt NANO Technology (Jack Roush),Ford,312.0,172291.0,running,93.0,175.0
+2007,35,Phoenix,4.0,21.0,20.0,Tony Stewart,Home Depot (Joe Gibbs),Chevrolet,312.0,156211.0,running,0.0,160.0
+2007,35,Phoenix,5.0,13.0,12.0,Ryan Newman,Alltel (Roger Penske),Dodge,312.0,141125.0,running,4.0,160.0
+2007,35,Phoenix,6.0,34.0,29.0,Kevin Harvick,Shell / Pennzoil (Richard Childress),Chevrolet,312.0,136386.0,running,0.0,150.0
+2007,35,Phoenix,7.0,2.0,1.0,Martin Truex Jr,"Bass Pro Shops / Tracker Boats (Dale Earnhardt, Inc.)",Chevrolet,312.0,122895.0,running,72.0,151.0
+2007,35,Phoenix,8.0,38.0,5.0,Kyle Busch,Kellogg's / Carquest (Rick Hendrick),Chevrolet,312.0,99475.0,running,0.0,142.0
+2007,35,Phoenix,9.0,12.0,31.0,Jeff Burton,AT&T Mobility (Richard Childress),Chevrolet,312.0,114966.0,running,0.0,138.0
+2007,35,Phoenix,10.0,3.0,24.0,Jeff Gordon,DuPont (Rick Hendrick),Chevrolet,312.0,124911.0,running,0.0,134.0
+2007,35,Phoenix,11.0,20.0,7.0,Clint Bowyer,Jack Daniel's (Richard Childress),Chevrolet,312.0,84975.0,running,0.0,130.0
+2007,35,Phoenix,12.0,9.0,2.0,Kurt Busch,Miller Lite (Roger Penske),Dodge,312.0,109333.0,running,0.0,127.0
+2007,35,Phoenix,13.0,11.0,25.0,Casey Mears,National Guard / GMAC (Rick Hendrick),Chevrolet,312.0,87925.0,running,0.0,124.0
+2007,35,Phoenix,14.0,4.0,18.0,J.J. Yeley,Interstate Batteries (Joe Gibbs),Chevrolet,312.0,100183.0,running,0.0,121.0
+2007,35,Phoenix,15.0,5.0,70.0,Johnny Sauter,Yellow Transportation (Gene Haas),Chevrolet,312.0,72850.0,running,0.0,118.0
+2007,35,Phoenix,16.0,15.0,11.0,Denny Hamlin,FedEx Ground (Joe Gibbs),Chevrolet,312.0,84925.0,running,0.0,115.0
+2007,35,Phoenix,17.0,14.0,42.0,Juan Pablo Montoya,Texaco / Havoline (Chip Ganassi),Dodge,312.0,106700.0,running,0.0,112.0
+2007,35,Phoenix,18.0,32.0,43.0,Bobby Labonte,Cheerios / Betty Crocker (Petty Enterprises),Dodge,312.0,107036.0,running,0.0,109.0
+2007,35,Phoenix,19.0,25.0,41.0,Reed Sorenson,Target (Chip Ganassi),Dodge,312.0,95258.0,running,1.0,111.0
+2007,35,Phoenix,20.0,37.0,40.0,David Stremme,Wrigley's Juicy Fruit (Chip Ganassi),Dodge,312.0,71725.0,running,0.0,103.0
+2007,35,Phoenix,21.0,22.0,83.0,Brian Vickers,Red Bull (Dietrich Mateschitz),Toyota,312.0,68625.0,running,0.0,100.0
+2007,35,Phoenix,22.0,19.0,15.0,Paul Menard,"Menards / Johns Manville (Dale Earnhardt, Inc.)",Chevrolet,312.0,68400.0,running,0.0,97.0
+2007,35,Phoenix,23.0,23.0,26.0,Jamie McMurray,Irwin (Jack Roush),Ford,312.0,77475.0,running,0.0,94.0
+2007,35,Phoenix,24.0,39.0,7.0,Robby Gordon,Menards / MAPEI (Robby Gordon),Ford,312.0,67925.0,running,0.0,91.0
+2007,35,Phoenix,25.0,29.0,9.0,Sterling Marlin,Miccosukee Resorts (James Finch),Chevrolet,311.0,65000.0,running,0.0,88.0
+2007,35,Phoenix,26.0,28.0,1.0,Aric Almirola,"U.S. Army (Dale Earnhardt, Inc.)",Chevrolet,311.0,75575.0,running,0.0,85.0
+2007,35,Phoenix,27.0,16.0,19.0,Elliott Sadler,Siemens (Gillett Evernham Motorsports),Dodge,311.0,85695.0,running,0.0,82.0
+2007,35,Phoenix,28.0,42.0,38.0,David Gilliland,M&M's (Yates Racing),Ford,311.0,94314.0,running,0.0,79.0
+2007,35,Phoenix,29.0,36.0,45.0,Kyle Petty,Wells Fargo (Petty Enterprises),Dodge,311.0,83133.0,running,0.0,76.0
+2007,35,Phoenix,30.0,26.0,6.0,"Sam Hornish, Jr.",Mobil 1 (Roger Penske),Dodge,310.0,64150.0,running,0.0,73.0
+2007,35,Phoenix,31.0,17.0,22.0,Dave Blaney,Caterpillar (Bill Davis),Toyota,310.0,88883.0,running,0.0,70.0
+2007,35,Phoenix,32.0,41.0,6.0,David Ragan,AAA Insurance (Jack Roush),Ford,310.0,99400.0,running,0.0,67.0
+2007,35,Phoenix,33.0,24.0,10.0,Patrick Carpentier,Valvoline / Sears Auto Center (James Rocco),Dodge,310.0,72400.0,running,0.0,64.0
+2007,35,Phoenix,34.0,43.0,21.0,Bill Elliott,Ore-Ida / Heinz (Wood Brothers),Ford,310.0,82539.0,running,0.0,61.0
+2007,35,Phoenix,35.0,33.0,88.0,Ricky Rudd,Pedigree (Yates Racing),Ford,309.0,94233.0,running,0.0,58.0
+2007,35,Phoenix,36.0,30.0,36.0,"Johnny Benson, Jr.",360 OTC (Bill Davis),Toyota,308.0,63050.0,running,0.0,55.0
+2007,35,Phoenix,37.0,8.0,96.0,Tony Raines,DLP HDTV (Bill Saunders),Chevrolet,291.0,70925.0,running,0.0,52.0
+2007,35,Phoenix,38.0,31.0,78.0,Joe Nemechek,Furniture Row (Barney Visser),Chevrolet,241.0,62825.0,crash,0.0,49.0
+2007,35,Phoenix,39.0,40.0,66.0,Jeremy Mayfield,Haas Automation (Gene Haas),Chevrolet,212.0,82333.0,engine,0.0,46.0
+2007,35,Phoenix,40.0,10.0,9.0,Kasey Kahne,Dodge Dealers / UAW (Gillett Evernham Motorsports),Dodge,147.0,109716.0,crash,0.0,43.0
+2007,35,Phoenix,41.0,27.0,27.0,Jacques Villeneuve,UNICEF (Bill Davis),Toyota,136.0,62380.0,crash,0.0,40.0
+2007,35,Phoenix,42.0,1.0,99.0,Carl Edwards,Office Depot (Jack Roush),Ford,125.0,98155.0,engine,87.0,42.0
+2007,35,Phoenix,43.0,35.0,8.0,"Dale Earnhardt, Jr.","Budweiser (Dale Earnhardt, Inc.)",Chevrolet,118.0,107820.0,crash,0.0,34.0
+2007,36,Homestead,1.0,4.0,17.0,Matt Kenseth,DeWalt NANO Technology (Jack Roush),Ford,267.0,359941.0,running,214.0,195.0
+2007,36,Homestead,2.0,5.0,2.0,Kurt Busch,Miller Lite (Roger Penske),Dodge,267.0,263808.0,running,17.0,175.0
+2007,36,Homestead,3.0,32.0,11.0,Denny Hamlin,FedEx Express (Joe Gibbs),Chevrolet,267.0,208000.0,running,19.0,170.0
+2007,36,Homestead,4.0,11.0,24.0,Jeff Gordon,DuPont (Rick Hendrick),Chevrolet,267.0,181061.0,running,0.0,160.0
+2007,36,Homestead,5.0,10.0,99.0,Carl Edwards,Office Depot (Jack Roush),Ford,267.0,134025.0,running,0.0,155.0
+2007,36,Homestead,6.0,15.0,1.0,Martin Truex Jr,"Bass Pro Shops / Tracker Boats (Dale Earnhardt, Inc.)",Chevrolet,267.0,126720.0,running,3.0,155.0
+2007,36,Homestead,7.0,1.0,48.0,Jimmie Johnson,Lowe's (Rick Hendrick),Chevrolet,267.0,157736.0,running,1.0,151.0
+2007,36,Homestead,8.0,9.0,31.0,Jeff Burton,AT&T Mobility (Richard Childress),Chevrolet,267.0,119866.0,running,0.0,142.0
+2007,36,Homestead,9.0,6.0,1.0,Mark Martin,"U.S. Army (Dale Earnhardt, Inc.)",Chevrolet,267.0,85250.0,running,0.0,138.0
+2007,36,Homestead,10.0,7.0,6.0,David Ragan,AAA Insurance / Show Your Card (Jack Roush),Ford,267.0,126175.0,running,1.0,139.0
+2007,36,Homestead,11.0,30.0,40.0,David Stremme,Target (Chip Ganassi),Dodge,267.0,73100.0,running,0.0,130.0
+2007,36,Homestead,12.0,23.0,22.0,Dave Blaney,Caterpillar (Bill Davis),Toyota,267.0,98408.0,running,2.0,132.0
+2007,36,Homestead,13.0,37.0,16.0,Greg Biffle,Dish Network (Jack Roush),Ford,267.0,86450.0,running,0.0,124.0
+2007,36,Homestead,14.0,25.0,26.0,Jamie McMurray,Crown Royal (Jack Roush),Ford,267.0,78950.0,running,1.0,126.0
+2007,36,Homestead,15.0,33.0,42.0,Juan Pablo Montoya,Texaco / Havoline (Chip Ganassi),Dodge,267.0,108350.0,running,0.0,118.0
+2007,36,Homestead,16.0,21.0,25.0,Casey Mears,National Guard / GMAC (Rick Hendrick),Chevrolet,267.0,84525.0,running,1.0,120.0
+2007,36,Homestead,17.0,26.0,44.0,Dale Jarrett,UPS (Michael Waltrip),Toyota,266.0,66325.0,running,0.0,112.0
+2007,36,Homestead,18.0,2.0,12.0,Ryan Newman,Alltel (Roger Penske),Dodge,266.0,102200.0,running,7.0,114.0
+2007,36,Homestead,19.0,8.0,29.0,Kevin Harvick,Shell / Pennzoil (Richard Childress),Chevrolet,266.0,114661.0,running,0.0,106.0
+2007,36,Homestead,20.0,18.0,5.0,Kyle Busch,Kellogg's / Carquest (Rick Hendrick),Chevrolet,266.0,86550.0,running,1.0,108.0
+2007,36,Homestead,21.0,38.0,88.0,Ricky Rudd,Snickers (Yates Racing),Ford,266.0,100108.0,running,0.0,100.0
+2007,36,Homestead,22.0,27.0,41.0,Reed Sorenson,Target (Chip Ganassi),Dodge,266.0,92933.0,running,0.0,97.0
+2007,36,Homestead,23.0,36.0,43.0,Bobby Labonte,Cheerios / Betty Crocker (Petty Enterprises),Dodge,266.0,105411.0,running,0.0,94.0
+2007,36,Homestead,24.0,3.0,9.0,Kasey Kahne,Dodge Dealers / UAW (Gillett Evernham Motorsports),Dodge,265.0,113016.0,running,0.0,91.0
+2007,36,Homestead,25.0,35.0,0.0,David Reutimann,Burger King (Michael Waltrip),Toyota,265.0,82633.0,running,0.0,88.0
+2007,36,Homestead,26.0,34.0,66.0,Jeremy Mayfield,Best Buy (Gene Haas),Chevrolet,265.0,87308.0,running,0.0,85.0
+2007,36,Homestead,27.0,41.0,7.0,Robby Gordon,Camping World (Robby Gordon),Ford,264.0,67350.0,running,0.0,82.0
+2007,36,Homestead,28.0,43.0,21.0,Bill Elliott,Motorcraft (Wood Brothers),Ford,264.0,86264.0,running,0.0,79.0
+2007,36,Homestead,29.0,42.0,96.0,Tony Raines,DLP HDTV (Bill Saunders),Chevrolet,264.0,74850.0,running,0.0,76.0
+2007,36,Homestead,30.0,14.0,20.0,Tony Stewart,Home Depot (Joe Gibbs),Chevrolet,264.0,112661.0,running,0.0,73.0
+2007,36,Homestead,31.0,24.0,18.0,J.J. Yeley,Interstate Batteries (Joe Gibbs),Chevrolet,263.0,93833.0,running,0.0,70.0
+2007,36,Homestead,32.0,12.0,38.0,David Gilliland,M&M's (Yates Racing),Ford,263.0,90414.0,running,0.0,67.0
+2007,36,Homestead,33.0,16.0,9.0,Sterling Marlin,Miccosukee Resorts (James Finch),Chevrolet,263.0,63950.0,running,0.0,64.0
+2007,36,Homestead,34.0,40.0,45.0,Kyle Petty,Marathon American Spirit Motor Oil (Petty Enterprises),Dodge,263.0,72347.0,running,0.0,61.0
+2007,36,Homestead,35.0,39.0,15.0,Paul Menard,"Menards / Johns Manville (Dale Earnhardt, Inc.)",Chevrolet,262.0,62600.0,running,0.0,58.0
+2007,36,Homestead,36.0,13.0,8.0,"Dale Earnhardt, Jr.","Budweiser (Dale Earnhardt, Inc.)",Chevrolet,261.0,107783.0,running,0.0,55.0
+2007,36,Homestead,37.0,29.0,6.0,"Sam Hornish, Jr.",Mobil 1 (Roger Penske),Dodge,254.0,62175.0,running,0.0,52.0
+2007,36,Homestead,38.0,31.0,19.0,Elliott Sadler,Dodge Dealers / UAW (Gillett Evernham Motorsports),Dodge,250.0,80320.0,running,0.0,49.0
+2007,36,Homestead,39.0,19.0,7.0,Clint Bowyer,Jack Daniel's (Richard Childress),Chevrolet,242.0,69775.0,running,0.0,46.0
+2007,36,Homestead,40.0,28.0,10.0,Patrick Carpentier,Valvoline / Stanley Tools (James Rocco),Dodge,225.0,69550.0,running,0.0,43.0
+2007,36,Homestead,41.0,22.0,70.0,Johnny Sauter,Yellow Transportation (Gene Haas),Chevrolet,157.0,61345.0,crash,0.0,40.0
+2007,36,Homestead,42.0,17.0,83.0,Brian Vickers,Red Bull (Dietrich Mateschitz),Toyota,154.0,61045.0,crash,0.0,37.0
+2007,36,Homestead,43.0,20.0,36.0,"Johnny Benson, Jr.",360 OTC (Bill Davis),Toyota,73.0,61147.0,engine,0.0,34.0

@@ -1,0 +1,1361 @@
+Season,Race,Track,Pos,St,#,Driver,Sponsor / Owner,Car,Laps,Money,Status,Led
+1962,1,Concord,1.0,2.0,46.0,Jack Smith,Jack Smith,'61 Pontiac,200.0,800.0,running,93.0
+1962,1,Concord,2.0,1.0,8.0,Joe Weatherly,Bud Moore,'61 Pontiac,200.0,525.0,running,66.0
+1962,1,Concord,3.0,7.0,6.0,Cotton Owens,Cotton Owens,'61 Pontiac,198.0,375.0,running,0.0
+1962,1,Concord,4.0,4.0,4.0,Rex White,White-Clements (Rex White),'61 Chevrolet,198.0,275.0,running,0.0
+1962,1,Concord,5.0,8.0,11.0,Ned Jarrett,B.G. Holloway,'61 Chevrolet,196.0,350.0,running,41.0
+1962,1,Concord,6.0,13.0,23.0,Doug Yates,Raeford Johnson,'61 Plymouth,183.0,215.0,running,0.0
+1962,1,Concord,7.0,18.0,62.0,Curtis Crider,Curtis Crider,'61 Mercury,183.0,175.0,running,0.0
+1962,1,Concord,8.0,14.0,93.0,Lee Reitzel,Lee Reitzel,'60 Ford,183.0,150.0,running,0.0
+1962,1,Concord,9.0,21.0,36.0,Larry Thomas,Wade Younts,'60 Ford,178.0,140.0,running,0.0
+1962,1,Concord,10.0,22.0,19.0,Herman Beam,Herman Beam,'60 Ford,169.0,130.0,running,0.0
+1962,1,Concord,11.0,25.0,68.0,Ed Livingston,Curtis Crider,'60 Ford,157.0,125.0,running,0.0
+1962,1,Concord,12.0,11.0,48.0,G.C. Spencer,G.C. Spencer,'60 Chevrolet,156.0,110.0,running,0.0
+1962,1,Concord,13.0,6.0,42.0,Richard Petty,Petty Enterprises,'61 Plymouth,152.0,100.0,rear end,0.0
+1962,1,Concord,14.0,23.0,34.0,Wendell Scott,Wendell Scott,'60 Chevrolet,145.0,85.0,a frame,0.0
+1962,1,Concord,15.0,5.0,86.0,Buck Baker,Buck Baker,'61 Chrysler,139.0,70.0,axle,0.0
+1962,1,Concord,16.0,12.0,85.0,Tommy Irwin,Monroe Shook,'60 Chevrolet,137.0,60.0,running,0.0
+1962,1,Concord,17.0,20.0,1.0,George Green,Jess Potter,'60 Chevrolet,136.0,50.0,running,0.0
+1962,1,Concord,18.0,15.0,89.0,Mark Hurley,–,'59 Pontiac,129.0,50.0,rear end,0.0
+1962,1,Concord,19.0,16.0,97.0,Harry Leake,Harry Leake,'60 Chevrolet,98.0,50.0,running,0.0
+1962,1,Concord,20.0,10.0,59.0,Ralph Earnhardt,B.G. Holloway,'61 Pontiac,94.0,50.0,oil leak,0.0
+1962,1,Concord,21.0,24.0,77.0,Joe Jones,Joe Jones,'60 Ford,82.0,50.0,axle,0.0
+1962,1,Concord,22.0,26.0,54.0,Jimmy Pardue,Jimmy Pardue,'60 Chevrolet,59.0,50.0,a frame,0.0
+1962,1,Concord,23.0,19.0,74.0,L.D. Austin,L.D. Austin,'61 Chevrolet,53.0,,a frame,0.0
+1962,1,Concord,24.0,3.0,27.0,Junior Johnson,Holly Farms (Rex Lovette),'61 Pontiac,42.0,,engine,0.0
+1962,1,Concord,25.0,9.0,17.0,Fred Harb,Fred Harb,'61 Ford,38.0,,engine,0.0
+1962,1,Concord,26.0,17.0,43.0,Maurice Petty,Petty Enterprises,'61 Plymouth,16.0,,fuel tank,0.0
+1962,2,Weaverville,1.0,5.0,4.0,Rex White,White-Clements (Rex White),'61 Chevrolet,200.0,800.0,running,123.0
+1962,2,Weaverville,2.0,12.0,86.0,Buck Baker,Buck Baker,'61 Chrysler,200.0,525.0,running,6.0
+1962,2,Weaverville,3.0,1.0,8.0,Joe Weatherly,Bud Moore,'61 Pontiac,200.0,375.0,running,16.0
+1962,2,Weaverville,4.0,6.0,46.0,Jack Smith,Jack Smith,'61 Pontiac,200.0,275.0,running,0.0
+1962,2,Weaverville,5.0,4.0,11.0,Ned Jarrett,B.G. Holloway,'61 Chevrolet,200.0,350.0,running,0.0
+1962,2,Weaverville,6.0,3.0,85.0,Tommy Irwin,Monroe Shook,'61 Chevrolet,200.0,215.0,running,0.0
+1962,2,Weaverville,7.0,8.0,43.0,Richard Petty,Petty Enterprises,'61 Plymouth,199.0,175.0,running,0.0
+1962,2,Weaverville,8.0,9.0,44.0,Jim Paschal,Julian Petty,'61 Pontiac,198.0,150.0,running,55.0
+1962,2,Weaverville,9.0,15.0,64.0,Bill Morton,Bill Morton,'60 Chevrolet,192.0,140.0,running,0.0
+1962,2,Weaverville,10.0,20.0,36.0,Larry Thomas,Wade Younts,'60 Chevrolet,187.0,130.0,running,0.0
+1962,2,Weaverville,11.0,19.0,55.0,Tom Cox,Ray Herlocker,'60 Plymouth,187.0,125.0,running,0.0
+1962,2,Weaverville,12.0,16.0,19.0,Herman Beam,Herman Beam,'60 Ford,183.0,110.0,running,0.0
+1962,2,Weaverville,13.0,13.0,54.0,Jimmy Pardue,Jimmy Pardue,'59 Chevrolet,183.0,100.0,running,0.0
+1962,2,Weaverville,14.0,25.0,62.0,Curtis Crider,Curtis Crider,'61 Mercury,179.0,85.0,running,0.0
+1962,2,Weaverville,15.0,27.0,58.0,Bob Cooper,Bob Cooper,'60 Ford,178.0,70.0,running,0.0
+1962,2,Weaverville,16.0,22.0,1.0,George Green,Jess Potter,'60 Chevrolet,169.0,60.0,rear end,0.0
+1962,2,Weaverville,17.0,21.0,77.0,Joe Jones,Joe Jones,'60 Ford,168.0,50.0,running,0.0
+1962,2,Weaverville,18.0,23.0,68.0,Ed Livingston,Curtis Crider,'60 Ford,163.0,50.0,running,0.0
+1962,2,Weaverville,19.0,14.0,71.0,Bobby Waddell,Bobby Waddell,'60 Dodge,161.0,50.0,running,0.0
+1962,2,Weaverville,20.0,26.0,25.0,Lester Hicks,–,'60 Dodge,158.0,50.0,engine,0.0
+1962,2,Weaverville,21.0,18.0,23.0,Doug Yates,Raeford Johnson,'61 Plymouth,152.0,50.0,spindle,0.0
+1962,2,Weaverville,22.0,11.0,48.0,G.C. Spencer,G.C. Spencer,'60 Chevrolet,149.0,50.0,running,0.0
+1962,2,Weaverville,23.0,17.0,89.0,Mark Hurley,–,'59 Pontiac,145.0,,bearing,0.0
+1962,2,Weaverville,24.0,24.0,93.0,Lee Reitzel,Lee Reitzel,'60 Ford,137.0,,axle,0.0
+1962,2,Weaverville,25.0,10.0,59.0,Fred Harb,B.G. Holloway,'61 Pontiac,60.0,,brakes,0.0
+1962,2,Weaverville,26.0,2.0,27.0,Junior Johnson,Holly Farms (Rex Lovette),'61 Pontiac,35.0,,pan,0.0
+1962,2,Weaverville,27.0,7.0,14.0,Joe Lee Johnson,Joe Lee Johnson,'61 Chevrolet,8.0,,t bar,0.0
+1962,3,Daytona,1.0,1.0,22.0,Fireball Roberts,Stephens Pontiac (Jim Stephens),'62 Pontiac,40.0,1000.0,running,33
+1962,3,Daytona,2.0,2.0,47.0,Jack Smith,Jack Smith,'62 Pontiac,40.0,600.0,running,–
+1962,3,Daytona,3.0,4.0,6.0,Cotton Owens,Cotton Owens,'62 Pontiac,40.0,400.0,running,–
+1962,3,Daytona,4.0,6.0,0.0,Dan Gurney,LaFayette (Holman-Moody Racing),'62 Ford,40.0,300.0,running,–
+1962,3,Daytona,5.0,3.0,27.0,Junior Johnson,Holly Farms (Rex Lovette),'62 Pontiac,40.0,300.0,running,–
+1962,3,Daytona,6.0,7.0,66.0,Larry Frank,Ratus Walters,'62 Ford,40.0,250.0,running,–
+1962,3,Daytona,7.0,11.0,53.0,Bob Burdick,Roy Burdick,'61 Pontiac,40.0,225.0,running,–
+1962,3,Daytona,8.0,9.0,86.0,Buddy Baker,Buck Baker,'62 Chrysler,39.0,175.0,running,–
+1962,3,Daytona,9.0,10.0,84.0,Ernie Gahan,Rocky Hinton,'61 Ford,39.0,150.0,running,–
+1962,3,Daytona,10.0,22.0,25.0,Jim Bennett,Thurman Wilkes,'61 Ford,39.0,140.0,running,–
+1962,3,Daytona,11.0,21.0,75.0,Ralph Earnhardt,Robert Smith,'61 Pontiac,39.0,135.0,running,–
+1962,3,Daytona,12.0,17.0,14.0,Charley Griffith,Joe Lee Johnson,'62 Chevrolet,39.0,125.0,running,–
+1962,3,Daytona,13.0,15.0,42.0,Bunkie Blackburn,Petty Enterprises,'62 Plymouth,39.0,115.0,running,–
+1962,3,Daytona,14.0,13.0,31.0,Jim McGuirk,–,'61 Ford,39.0,100.0,running,–
+1962,3,Daytona,15.0,14.0,2.0,Jim Paschal,Cliff Stewart,'62 Pontiac,38.0,85.0,running,–
+1962,3,Daytona,16.0,20.0,36.0,Larry Thomas,Wade Younts,'62 Dodge,38.0,75.0,running,–
+1962,3,Daytona,17.0,8.0,32.0,Bill Wimble,Dave McCredy,'62 Pontiac,38.0,75.0,running,–
+1962,3,Daytona,18.0,24.0,95.0,Jim Cushman,Russell Trucking Co. (Jack Russell),'61 Plymouth,37.0,75.0,running,–
+1962,3,Daytona,19.0,18.0,88.0,Sal Tovella,Tom Hawkins,'61 Ford,36.0,50.0,running,–
+1962,3,Daytona,20.0,16.0,58.0,John Rogers,John Rogers,'61 Pontiac,35.0,50.0,fan belt,–
+1962,3,Daytona,21.0,23.0,38.0,G.C. Spencer,Matt DeMatthews,'61 Ford,35.0,50.0,fuel,–
+1962,3,Daytona,22.0,25.0,60.0,Tom Cox,Ray Herlocker,'60 Plymouth,22.0,50.0,running,–
+1962,3,Daytona,23.0,19.0,1.0,Harlan Richardson,Luther Costales,'62 Ford,17.0,50.0,oil pressure,–
+1962,3,Daytona,24.0,5.0,28.0,Fred Lorenzen,LaFayette (Holman-Moody Racing),'62 Ford,8.0,50.0,engine,–
+1962,3,Daytona,25.0,12.0,92.0,Gerald Duke,Don Harrison,'62 Ford,5.0,,running,–
+1962,4,Daytona,1.0,3.0,8.0,Joe Weatherly,Gillman Pontiac (Bud Moore),'62 Pontiac,40.0,1000.0,running,29.0
+1962,4,Daytona,2.0,5.0,29.0,Nelson Stacy,Ron's Ford Sales (Holman-Moody Racing),'62 Ford,40.0,600.0,running,0.0
+1962,4,Daytona,3.0,7.0,4.0,Rex White,Louis Clements (Rex White),'62 Chevrolet,40.0,400.0,running,0.0
+1962,4,Daytona,4.0,12.0,43.0,Richard Petty,Petty Enterprises,'62 Plymouth,39.0,300.0,running,0.0
+1962,4,Daytona,5.0,11.0,7.0,Johnny Allen,B.G. Holloway,'62 Chevrolet,39.0,300.0,running,0.0
+1962,4,Daytona,6.0,16.0,37.0,Wally Dallenbach,Don House,'61 Ford,39.0,250.0,running,0.0
+1962,4,Daytona,7.0,15.0,5.0,Woodie Wilson,Leroy Faucett,'61 Pontiac,39.0,225.0,running,0.0
+1962,4,Daytona,8.0,13.0,44.0,Bob Welborn,Julian Petty,'62 Pontiac,38.0,175.0,tire,0.0
+1962,4,Daytona,9.0,20.0,63.0,George Alsobrook,Ratus Walters,'61 Ford,38.0,150.0,running,0.0
+1962,4,Daytona,10.0,18.0,52.0,Cale Yarborough,Julian Buesink,'61 Ford,38.0,140.0,running,0.0
+1962,4,Daytona,11.0,24.0,23.0,Red Farmer,Frank Rhoads,'61 Ford,38.0,135.0,running,0.0
+1962,4,Daytona,12.0,21.0,68.0,Ed Livingston,Livingston's Auto Parts (Ed Livingston),'61 Ford,38.0,125.0,running,0.0
+1962,4,Daytona,13.0,23.0,62.0,Curtis Crider,Curtis Crider,'61 Mercury,37.0,115.0,running,0.0
+1962,4,Daytona,14.0,22.0,19.0,Herman Beam,Herman Beam,'62 Ford,35.0,100.0,running,0.0
+1962,4,Daytona,15.0,2.0,94.0,Banjo Matthews,Banjo Matthews,'62 Pontiac,30.0,85.0,fuel pump,11.0
+1962,4,Daytona,16.0,9.0,11.0,Ned Jarrett,B.G. Holloway,'62 Chevrolet,22.0,75.0,rocker arm,0.0
+1962,4,Daytona,17.0,14.0,87.0,Buck Baker,Buck Baker,'62 Chrysler,12.0,75.0,timing,0.0
+1962,4,Daytona,18.0,25.0,98.0,Paul Burrow,Ronald Hawk,'62 Ford,8.0,75.0,u joint,0.0
+1962,4,Daytona,19.0,17.0,77.0,Elmo Langley,Ratus Walters,'61 Ford,5.0,50.0,engine,0.0
+1962,4,Daytona,20.0,10.0,90.0,Marvin Panch,Osiecki's Dodge (Bob Osiecki),'62 Dodge,4.0,50.0,crash,0.0
+1962,4,Daytona,21.0,4.0,72.0,Bobby Johns,Shorty Johns,'62 Pontiac,4.0,50.0,crash,0.0
+1962,4,Daytona,22.0,1.0,39.0,Darel Dieringer,Ray Fox,'61 Pontiac,3.0,50.0,crash,0.0
+1962,4,Daytona,23.0,6.0,15.0,Speedy Thompson,Holman-Moody Racing,'62 Ford,3.0,50.0,crash,0.0
+1962,4,Daytona,24.0,19.0,9.0,Art Brady,Wildcat Williams,'62 Ford,3.0,50.0,crash,0.0
+1962,4,Daytona,25.0,8.0,85.0,Tommy Irwin,Monroe Shook,'62 Chevrolet,1.0,,crash,0.0
+1962,5,Daytona,1.0,1.0,22.0,Fireball Roberts,Stephens Pontiac (Jim Stephens),'62 Pontiac,200.0,24190.0,running,144.0
+1962,5,Daytona,2.0,10.0,43.0,Richard Petty,Patterson Motors (Petty Enterprises),'62 Plymouth,200.0,10250.0,running,32.0
+1962,5,Daytona,3.0,4.0,8.0,Joe Weatherly,Gillman Pontiac (Bud Moore),'62 Pontiac,199.0,7100.0,running,1.0
+1962,5,Daytona,4.0,3.0,47.0,Jack Smith,Jack Smith's Garage / Miller Pontiac (Jack Smith),'62 Pontiac,199.0,4025.0,running,0.0
+1962,5,Daytona,5.0,34.0,28.0,Fred Lorenzen,LaFayette (Holman-Moody Racing),'62 Ford,199.0,2975.0,running,0.0
+1962,5,Daytona,6.0,2.0,39.0,David Pearson,Cottrell's IGA Foodliner & Bakery (Ray Fox),'62 Pontiac,198.0,2075.0,running,0.0
+1962,5,Daytona,7.0,8.0,4.0,Rex White,Louis Clements (Rex White),'62 Chevrolet,197.0,1550.0,running,0.0
+1962,5,Daytona,8.0,35.0,94.0,Banjo Matthews,Salta Pontiac / Warrior Motel (Banjo Matthews),'62 Pontiac,197.0,1050.0,running,0.0
+1962,5,Daytona,9.0,38.0,11.0,Ned Jarrett,Jim Rathmann (B.G. Holloway),'62 Chevrolet,196.0,850.0,running,0.0
+1962,5,Daytona,10.0,17.0,44.0,Bob Welborn,Frizzel Pontiac (Julian Petty),'62 Pontiac,194.0,750.0,running,0.0
+1962,5,Daytona,11.0,36.0,32.0,Bill Wimble,McCredy Motors (Dave McCredy),'61 Pontiac,193.0,600.0,running,0.0
+1962,5,Daytona,12.0,16.0,84.0,Ernie Gahan,Tewksbury Speed Shop (Rocky Hinton),'61 Ford,192.0,500.0,running,0.0
+1962,5,Daytona,13.0,24.0,42.0,Bunkie Blackburn,Petty Enterprises,'62 Plymouth,192.0,500.0,running,0.0
+1962,5,Daytona,14.0,28.0,2.0,Jim Paschal,Spectrum Furniture / Neill Pontiac (Cliff Stewart),'61 Pontiac,186.0,475.0,running,0.0
+1962,5,Daytona,15.0,42.0,95.0,Jim Cushman,Russell Trucking Co. (Jack Russell),'61 Plymouth,186.0,475.0,running,0.0
+1962,5,Daytona,16.0,12.0,7.0,Johnny Allen,B.G. Holloway,'62 Chevrolet,183.0,450.0,running,0.0
+1962,5,Daytona,17.0,33.0,15.0,Speedy Thompson,Jones Motor Co. (Holman-Moody Racing),'62 Ford,182.0,450.0,engine,0.0
+1962,5,Daytona,18.0,45.0,1.0,Billy Wade,Luther Costales,'62 Ford,182.0,425.0,running,0.0
+1962,5,Daytona,19.0,46.0,98.0,Paul Burrow,Ronald Hawk,'62 Ford,181.0,425.0,running,0.0
+1962,5,Daytona,20.0,47.0,60.0,Tom Cox,Ray Herlocker,'60 Plymouth,180.0,425.0,running,0.0
+1962,5,Daytona,21.0,43.0,9.0,Art Brady,Wildcat Williams Auto Parts (Wildcat Williams),'62 Ford,176.0,400.0,running,0.0
+1962,5,Daytona,22.0,29.0,19.0,Herman Beam,Herman Beam,'62 Ford,175.0,400.0,running,0.0
+1962,5,Daytona,23.0,27.0,62.0,Curtis Crider,Mims Amusement Co. (Curtis Crider),'61 Mercury,173.0,400.0,running,0.0
+1962,5,Daytona,24.0,26.0,31.0,Jim McGuirk,–,'61 Ford,157.0,400.0,engine,0.0
+1962,5,Daytona,25.0,44.0,92.0,Gerald Duke,Universal Ford (Don Harrison),'62 Ford,150.0,400.0,engine,0.0
+1962,5,Daytona,26.0,19.0,63.0,George Alsobrook,Puckett's Body Works (Ratus Walters),'61 Ford,144.0,400.0,running,0.0
+1962,5,Daytona,27.0,7.0,0.0,Dan Gurney,LaFayette Ford (Holman-Moody Racing),'62 Ford,134.0,400.0,engine,0.0
+1962,5,Daytona,28.0,31.0,87.0,Buck Baker,Patterson Motors (Buck Baker),'62 Chrysler,89.0,400.0,crash,0.0
+1962,5,Daytona,29.0,15.0,86.0,Buddy Baker,Buck Baker,'62 Chrysler,83.0,400.0,overheating,0.0
+1962,5,Daytona,30.0,30.0,72.0,Bobby Johns,Vince Whibbs Pontiac Co. (Shorty Johns),'62 Pontiac,81.0,400.0,transmission,0.0
+1962,5,Daytona,31.0,40.0,36.0,Larry Thomas,Thomas Dodge (Wade Younts),'62 Dodge,76.0,400.0,distributor,0.0
+1962,5,Daytona,32.0,25.0,68.0,Ed Livingston,Livingston's Auto Parts (Ed Livingston),'61 Ford,75.0,400.0,oil pressure,0.0
+1962,5,Daytona,33.0,5.0,6.0,Cotton Owens,Hines Pontiac (Cotton Owens),'62 Pontiac,73.0,400.0,clutch,1.0
+1962,5,Daytona,34.0,9.0,27.0,Junior Johnson,Holly Farms (Rex Lovette),'62 Pontiac,72.0,400.0,engine,22.0
+1962,5,Daytona,35.0,13.0,53.0,Bob Burdick,Royal Beach (Roy Burdick),'62 Pontiac,55.0,400.0,crankshaft,0.0
+1962,5,Daytona,36.0,20.0,75.0,Ralph Earnhardt,Smith's Service Station (Robert Smith),'61 Pontiac,54.0,400.0,engine,0.0
+1962,5,Daytona,37.0,14.0,37.0,Wally Dallenbach,Don House,'61 Ford,53.0,400.0,engine,0.0
+1962,5,Daytona,38.0,22.0,14.0,Charley Griffith,Adcox-Kirby (Joe Lee Johnson),'62 Chevrolet,53.0,400.0,rocker arm,0.0
+1962,5,Daytona,39.0,41.0,88.0,Sal Tovella,Sal's Auto Sales (Tom Hawkins),'61 Ford,41.0,400.0,head gasket,0.0
+1962,5,Daytona,40.0,23.0,23.0,Red Farmer,23 Auto Parts (Frank Rhoads),'61 Ford,34.0,400.0,spindle,0.0
+1962,5,Daytona,41.0,18.0,25.0,Jim Bennett,Thurman Wilkes,'61 Ford,31.0,400.0,head gasket,0.0
+1962,5,Daytona,42.0,32.0,85.0,Tommy Irwin,Shook's Transfer (Monroe Shook),'62 Chevrolet,26.0,400.0,piston,0.0
+1962,5,Daytona,43.0,6.0,29.0,Nelson Stacy,Ron's Ford Sales (Holman-Moody Racing),'62 Ford,25.0,400.0,engine,0.0
+1962,5,Daytona,44.0,37.0,90.0,Marvin Panch,Osiecki's Dodge (Bob Osiecki),'62 Dodge,19.0,400.0,rear end,0.0
+1962,5,Daytona,45.0,48.0,38.0,G.C. Spencer,Matt DeMatthews,'61 Ford,15.0,400.0,clutch,0.0
+1962,5,Daytona,46.0,11.0,66.0,Larry Frank,Cafe Burgundy (Ratus Walters),'62 Ford,14.0,400.0,engine,0.0
+1962,5,Daytona,47.0,39.0,77.0,Elmo Langley,Cafe Burgundy (Ratus Walters),'61 Ford,4.0,400.0,engine,0.0
+1962,5,Daytona,48.0,21.0,52.0,Cale Yarborough,Air Lift (Julian Buesink),'61 Ford,4.0,400.0,electrical,0.0
+1962,6,Concord,1.0,1,8.0,Joe Weatherly,Bud Moore,'61 Pontiac,78.0,500.0,running,78.0
+1962,6,Concord,2.0,–,43.0,Richard Petty,Petty Enterprises,'62 Plymouth,78.0,300.0,running,0.0
+1962,6,Concord,3.0,–,75.0,Ralph Earnhardt,Robert Smith,'61 Pontiac,77.0,200.0,running,0.0
+1962,6,Concord,4.0,–,47.0,Jack Smith,Jack Smith,'61 Pontiac,77.0,150.0,running,0.0
+1962,6,Concord,5.0,–,87.0,Buddy Baker,Buck Baker,'61 Chrysler,77.0,138.0,running,0.0
+1962,6,Concord,6.0,–,2.0,Jim Paschal,Cliff Stewart,'62 Pontiac,76.0,120.0,running,0.0
+1962,6,Concord,7.0,–,48.0,G.C. Spencer,G.C. Spencer,'61 Chevrolet,76.0,100.0,running,0.0
+1962,6,Concord,8.0,–,34.0,Wendell Scott,Wendell Scott,'61 Chevrolet,75.0,88.0,running,0.0
+1962,6,Concord,9.0,–,85.0,Tommy Irwin,Monroe Shook,'61 Chevrolet,72.0,75.0,running,0.0
+1962,6,Concord,10.0,–,60.0,Tom Cox,Ray Herlocker,'60 Plymouth,72.0,70.0,running,0.0
+1962,6,Concord,11.0,–,62.0,Curtis Crider,Curtis Crider,'61 Mercury,71.0,65.0,running,0.0
+1962,6,Concord,12.0,–,19.0,Herman Beam,Herman Beam,'60 Ford,71.0,60.0,running,0.0
+1962,6,Concord,13.0,–,6.0,Cotton Owens,Cotton Owens,'62 Pontiac,69.0,55.0,engine,0.0
+1962,6,Concord,14.0,–,148.0,Bill McDonald,–,'61 Chevrolet,69.0,50.0,running,0.0
+1962,6,Concord,15.0,–,4.0,Rex White,Louis Clements (Rex White),'61 Chevrolet,51.0,43.0,crash,0.0
+1962,6,Concord,16.0,–,28.0,Fred Lorenzen,LaFayette (Holman-Moody Racing),'62 Ford,51.0,38.0,crash,0.0
+1962,6,Concord,17.0,–,18.0,Stick Elliott,Toy Bolton,'60 Ford,48.0,33.0,crash,0.0
+1962,6,Concord,18.0,–,93.0,Lee Reitzel,Lee Reitzel,'60 Ford,38.0,30.0,radiator,0.0
+1962,6,Concord,19.0,–,51.0,Bob Cooper,Bob Cooper,'60 Ford,31.0,25.0,engine,0.0
+1962,6,Concord,20.0,–,1.0,Ned Jarrett,B.G. Holloway,'60 Chevrolet,17.0,25.0,engine,0.0
+1962,7,Weaverville,1.0,3.0,8.0,Joe Weatherly,Bud Moore,'61 Pontiac,200.0,1000.0,running,57.0
+1962,7,Weaverville,2.0,5.0,2.0,Jim Paschal,Cliff Stewart,'62 Pontiac,197.0,600.0,running,0.0
+1962,7,Weaverville,3.0,12.0,87.0,Buddy Baker,Buck Baker,'61 Chrysler,197.0,400.0,running,0.0
+1962,7,Weaverville,4.0,15.0,41.0,Maurice Petty,Petty Enterprises,'62 Plymouth,192.0,300.0,running,0.0
+1962,7,Weaverville,5.0,4.0,47.0,Jack Smith,Jack Smith,'61 Pontiac,191.0,275.0,running,0.0
+1962,7,Weaverville,6.0,14.0,75.0,Ralph Earnhardt,Robert Smith,'61 Pontiac,191.0,240.0,running,0.0
+1962,7,Weaverville,7.0,2.0,85.0,Tommy Irwin,Monroe Shook,'61 Chevrolet,190.0,200.0,wheel,10.0
+1962,7,Weaverville,8.0,7.0,43.0,Richard Petty,Petty Enterprises,'62 Plymouth,190.0,175.0,running,0.0
+1962,7,Weaverville,9.0,17.0,95.0,Jim Cushman,Russell Trucking Co. (Jack Russell),'61 Plymouth,189.0,150.0,running,0.0
+1962,7,Weaverville,10.0,20.0,1.0,George Green,Jess Potter,'60 Chevrolet,187.0,140.0,running,0.0
+1962,7,Weaverville,11.0,13.0,19.0,Herman Beam,Herman Beam,'60 Ford,185.0,130.0,running,0.0
+1962,7,Weaverville,12.0,11.0,34.0,Wendell Scott,Wendell Scott,'61 Chevrolet,185.0,120.0,running,0.0
+1962,7,Weaverville,13.0,19.0,60.0,Tom Cox,Ray Herlocker,'60 Plymouth,184.0,110.0,running,0.0
+1962,7,Weaverville,14.0,18.0,62.0,Curtis Crider,Curtis Crider,'61 Mercury,182.0,100.0,running,0.0
+1962,7,Weaverville,15.0,21.0,51.0,Bob Cooper,Bob Cooper,'60 Ford,176.0,85.0,running,0.0
+1962,7,Weaverville,16.0,10.0,11.0,Ned Jarrett,B.G. Holloway,'62 Chevrolet,169.0,75.0,running,0.0
+1962,7,Weaverville,17.0,6.0,14.0,Joe Lee Johnson,Joe Lee Johnson,'62 Chevrolet,148.0,65.0,engine,0.0
+1962,7,Weaverville,18.0,1.0,4.0,Rex White,Louis Clements (Rex White),'61 Chevrolet,143.0,60.0,crash,133.0
+1962,7,Weaverville,19.0,16.0,148.0,Bill McDonald,–,'61 Chevrolet,52.0,50.0,rear end,0.0
+1962,7,Weaverville,20.0,8.0,48.0,G.C. Spencer,G.C. Spencer,'61 Chevrolet,36.0,50.0,axle,0.0
+1962,7,Weaverville,21.0,9.0,86.0,Junior Johnson,Buck Baker,'61 Chrysler,8.0,50.0,crash,0.0
+1962,8,Savannah,1.0,4.0,47.0,Jack Smith,Jack Smith,'61 Pontiac,200.0,1000.0,running,48.0
+1962,8,Savannah,2.0,9.0,6.0,Cotton Owens,Cotton Owens,'60 Pontiac,200.0,600.0,running,35.0
+1962,8,Savannah,3.0,3.0,8.0,Joe Weatherly,Bud Moore,'61 Pontiac,198.0,400.0,running,36.0
+1962,8,Savannah,4.0,13.0,62.0,Curtis Crider,Curtis Crider,'61 Mercury,190.0,300.0,running,0.0
+1962,8,Savannah,5.0,1.0,4.0,Rex White,Louis Clements (Rex White),'61 Chevrolet,183.0,275.0,axle,0.0
+1962,8,Savannah,6.0,10.0,60.0,Tom Cox,Ray Herlocker,'60 Plymouth,182.0,240.0,running,0.0
+1962,8,Savannah,7.0,11.0,34.0,Wendell Scott,Wendell Scott,'61 Chevrolet,177.0,200.0,running,0.0
+1962,8,Savannah,8.0,15.0,19.0,Herman Beam,Herman Beam,'60 Ford,173.0,175.0,running,0.0
+1962,8,Savannah,9.0,5.0,87.0,Buddy Baker,Buck Baker,'61 Chrysler,161.0,150.0,running,0.0
+1962,8,Savannah,10.0,14.0,1.0,George Green,Jess Potter,'60 Chevrolet,156.0,140.0,tie rod,0.0
+1962,8,Savannah,11.0,7.0,2.0,Jim Paschal,Cliff Stewart,'62 Pontiac,155.0,130.0,oil pan,0.0
+1962,8,Savannah,12.0,12.0,48.0,G.C. Spencer,G.C. Spencer,'60 Chevrolet,150.0,120.0,driveshaft,0.0
+1962,8,Savannah,13.0,6.0,11.0,Ned Jarrett,B.G. Holloway,'62 Chevrolet,134.0,310.0,oil pan,81.0
+1962,8,Savannah,14.0,8.0,43.0,Richard Petty,Petty Enterprises,'62 Plymouth,52.0,100.0,ball joint,0.0
+1962,8,Savannah,15.0,2.0,86.0,Darel Dieringer,Buck Baker,'61 Chrysler,36.0,85.0,crash,0.0
+1962,8,Savannah,16.0,16.0,68.0,Ed Livingston,Ed Livingston,'61 Ford,6.0,75.0,head gasket,0.0
+1962,9,Hillsboro,1.0,3.0,4.0,Rex White,Louis Clements (Rex White),'61 Chevrolet,110.0,1000.0,running,5.0
+1962,9,Hillsboro,2.0,2.0,43.0,Richard Petty,Petty Enterprises,'62 Plymouth,110.0,600.0,running,26.0
+1962,9,Hillsboro,3.0,7.0,2.0,Jim Paschal,Cliff Stewart,'62 Pontiac,110.0,400.0,running,0.0
+1962,9,Hillsboro,4.0,21.0,47.0,Jack Smith,Jack Smith,'61 Pontiac,110.0,300.0,running,0.0
+1962,9,Hillsboro,5.0,6.0,87.0,Buddy Baker,Buck Baker,'61 Chrysler,109.0,275.0,running,0.0
+1962,9,Hillsboro,6.0,8.0,41.0,Maurice Petty,Petty Enterprises,'62 Plymouth,107.0,240.0,running,0.0
+1962,9,Hillsboro,7.0,13.0,75.0,Ralph Earnhardt,Robert Smith,'61 Pontiac,105.0,200.0,running,0.0
+1962,9,Hillsboro,8.0,14.0,60.0,Tom Cox,Ray Herlocker,'60 Plymouth,105.0,175.0,running,0.0
+1962,9,Hillsboro,9.0,11.0,86.0,Buck Baker,Buck Baker,'61 Chrysler,105.0,150.0,running,0.0
+1962,9,Hillsboro,10.0,9.0,11.0,Ned Jarrett,B.G. Holloway,'62 Chevrolet,105.0,340.0,running,0.0
+1962,9,Hillsboro,11.0,1.0,8.0,Joe Weatherly,Bud Moore,'61 Pontiac,102.0,130.0,transmission,79.0
+1962,9,Hillsboro,12.0,12.0,34.0,Wendell Scott,Wendell Scott,'61 Chevrolet,102.0,120.0,running,0.0
+1962,9,Hillsboro,13.0,15.0,68.0,Ed Livingston,Livingston's Auto Parts (Ed Livingston),'61 Ford,99.0,110.0,running,0.0
+1962,9,Hillsboro,14.0,18.0,1.0,George Green,Jess Potter,'60 Chevrolet,97.0,100.0,running,0.0
+1962,9,Hillsboro,15.0,16.0,19.0,Herman Beam,Herman Beam,'60 Ford,94.0,85.0,running,0.0
+1962,9,Hillsboro,16.0,17.0,62.0,Curtis Crider,Curtis Crider,'61 Mercury,84.0,75.0,oil leak,0.0
+1962,9,Hillsboro,17.0,20.0,51.0,Bob Cooper,Bob Cooper,'60 Ford,72.0,65.0,rear end,0.0
+1962,9,Hillsboro,18.0,19.0,18.0,Stick Elliott,Toy Bolton,'60 Ford,68.0,60.0,distributor,0.0
+1962,9,Hillsboro,19.0,10.0,48.0,G.C. Spencer,G.C. Spencer,'60 Chevrolet,36.0,50.0,radiator,0.0
+1962,9,Hillsboro,20.0,4.0,6.0,Cotton Owens,Cotton Owens,'60 Pontiac,28.0,50.0,overheating,0.0
+1962,9,Hillsboro,21.0,5.0,85.0,Tommy Irwin,Monroe Shook,'61 Chevrolet,0.0,50.0,crash,0.0
+1962,10,Richmond,1.0,20.0,4.0,Rex White,Louis Clements (Rex White),'61 Chevrolet,180.0,1850.0,running,8.0
+1962,10,Richmond,2.0,2.0,11.0,Ned Jarrett,B.G. Holloway,'62 Chevrolet,179.0,1300.0,running,96.0
+1962,10,Richmond,3.0,12.0,27.0,Junior Johnson,Holly Farms (Rex Lovette),'61 Pontiac,178.0,800.0,running,10.0
+1962,10,Richmond,4.0,19.0,8.0,Joe Weatherly,Bud Moore,'61 Pontiac,168.0,600.0,running,0.0
+1962,10,Richmond,5.0,7.0,22.0,Fireball Roberts,Holly Farms (Rex Lovette),'61 Pontiac,163.0,450.0,running,0.0
+1962,10,Richmond,6.0,21.0,0.0,Harold Carmac,Ray Herlocker,'60 Plymouth,160.0,375.0,running,0.0
+1962,10,Richmond,7.0,8.0,6.0,Cotton Owens,Cotton Owens,'60 Pontiac,157.0,300.0,engine,0.0
+1962,10,Richmond,8.0,9.0,48.0,G.C. Spencer,G.C. Spencer,'60 Chevrolet,154.0,250.0,engine,0.0
+1962,10,Richmond,9.0,16.0,1.0,George Green,Jess Potter,'61 Chevrolet,152.0,200.0,running,0.0
+1962,10,Richmond,10.0,23.0,62.0,Curtis Crider,Curtis Crider,'61 Mercury,141.0,200.0,driveshaft,0.0
+1962,10,Richmond,11.0,5.0,60.0,Tom Cox,Ray Herlocker,'60 Plymouth,140.0,100.0,transmission,0.0
+1962,10,Richmond,12.0,1.0,19.0,Herman Beam,Herman Beam,'60 Ford,136.0,100.0,running,0.0
+1962,10,Richmond,13.0,25.0,76.0,Jim Bray,Neil Castles,'61 Ford,124.0,100.0,running,0.0
+1962,10,Richmond,14.0,6.0,47.0,Jack Smith,Jack Smith,'61 Pontiac,105.0,100.0,running,0.0
+1962,10,Richmond,15.0,13.0,17.0,Fred Harb,Fred Harb,'61 Ford,84.0,100.0,overheating,0.0
+1962,10,Richmond,16.0,22.0,2.0,Jim Paschal,Cliff Stewart,'62 Pontiac,83.0,75.0,engine,16.0
+1962,10,Richmond,17.0,10.0,20.0,Marvin Panch,–,'61 Ford,67.0,75.0,overheating,16.0
+1962,10,Richmond,18.0,18.0,34.0,Wendell Scott,Wendell Scott,'61 Chevrolet,62.0,75.0,engine,0.0
+1962,10,Richmond,19.0,15.0,84.0,Ernie Gahan,Rocky Hinton,'61 Ford,53.0,75.0,rear end,0.0
+1962,10,Richmond,20.0,3.0,43.0,Richard Petty,Petty Enterprises,'61 Plymouth,34.0,75.0,radiator,34.0
+1962,10,Richmond,21.0,11.0,18.0,Stick Elliott,Toy Bolton,'60 Ford,28.0,75.0,running,0.0
+1962,10,Richmond,22.0,17.0,81.0,Dick Dixon,Dick Dixon,'61 Ford,23.0,75.0,engine,0.0
+1962,10,Richmond,23.0,14.0,77.0,Larry Frank,Ratus Walters,'61 Ford,18.0,75.0,crash,0.0
+1962,10,Richmond,24.0,4.0,87.0,Buck Baker,Buck Baker,'61 Chrysler,2.0,75.0,brakes,0.0
+1962,10,Richmond,25.0,24.0,66.0,Ralph Moody,Ratus Walters,'62 Ford,1.0,75.0,overheating,0.0
+1962,11,Columbia,1.0,7.0,11.0,Ned Jarrett,B.G. Holloway,'62 Chevrolet,200.0,1200.0,running,–
+1962,11,Columbia,2.0,1.0,8.0,Joe Weatherly,Bud Moore,'61 Pontiac,200.0,600.0,running,–
+1962,11,Columbia,3.0,2.0,47.0,Jack Smith,Jack Smith,'61 Pontiac,198.0,400.0,running,–
+1962,11,Columbia,4.0,8.0,2.0,Jim Paschal,Cliff Stewart,'62 Pontiac,198.0,300.0,running,–
+1962,11,Columbia,5.0,10.0,48.0,G.C. Spencer,G.C. Spencer,'60 Chevrolet,197.0,275.0,running,–
+1962,11,Columbia,6.0,5.0,4.0,Rex White,Louis Clements (Rex White),'61 Chevrolet,197.0,240.0,running,–
+1962,11,Columbia,7.0,6.0,43.0,Richard Petty,Petty Enterprises,'61 Plymouth,197.0,200.0,running,–
+1962,11,Columbia,8.0,18.0,87.0,Buck Baker,Buck Baker,'62 Chrysler,195.0,175.0,running,–
+1962,11,Columbia,9.0,4.0,75.0,Ralph Earnhardt,Robert Smith,'61 Pontiac,194.0,150.0,running,–
+1962,11,Columbia,10.0,15.0,60.0,Tom Cox,Ray Herlocker,'60 Plymouth,186.0,140.0,running,–
+1962,11,Columbia,11.0,17.0,62.0,Curtis Crider,Curtis Crider,'61 Mercury,185.0,130.0,running,–
+1962,11,Columbia,12.0,19.0,18.0,Stick Elliott,Toy Bolton,'61 Ford,185.0,120.0,running,–
+1962,11,Columbia,13.0,13.0,86.0,Buddy Baker,Buck Baker,'61 Chrysler,184.0,110.0,running,–
+1962,11,Columbia,14.0,9.0,19.0,Herman Beam,Herman Beam,'60 Ford,183.0,100.0,running,–
+1962,11,Columbia,15.0,14.0,1.0,George Green,Jess Potter,'60 Chevrolet,183.0,85.0,running,–
+1962,11,Columbia,16.0,11.0,34.0,Wendell Scott,Wendell Scott,'61 Chevrolet,166.0,75.0,crash,–
+1962,11,Columbia,17.0,16.0,31.0,Frank Sessoms,Gene Stokes,'61 Studebaker,160.0,65.0,running,–
+1962,11,Columbia,18.0,12.0,6.0,Cotton Owens,Cotton Owens,'60 Pontiac,33.0,60.0,overheating,–
+1962,11,Columbia,19.0,3.0,25.0,Jim Bennett,Thurman Wilkes,'61 Ford,27.0,50.0,oil pressure,–
+1962,12,North Wilkesboro,1.0,15.0,43.0,Richard Petty,Petty Enterprises,'62 Plymouth,400.0,2725.0,running,142.0
+1962,12,North Wilkesboro,2.0,6.0,28.0,Fred Lorenzen,LaFayette (Holman-Moody Racing),'62 Ford,400.0,1450.0,running,0.0
+1962,12,North Wilkesboro,3.0,1.0,27.0,Junior Johnson,Holly Farms (Rex Lovette),'61 Pontiac,399.0,1110.0,running,19.0
+1962,12,North Wilkesboro,4.0,4.0,22.0,Fireball Roberts,Banjo Matthews,'62 Pontiac,398.0,850.0,running,95.0
+1962,12,North Wilkesboro,5.0,17.0,90.0,Darel Dieringer,Bob Osiecki,'62 Dodge,396.0,675.0,running,0.0
+1962,12,North Wilkesboro,6.0,21.0,87.0,Buck Baker,Buck Baker,'62 Chrysler,395.0,500.0,running,0.0
+1962,12,North Wilkesboro,7.0,20.0,66.0,Larry Frank,Ratus Walters,'62 Ford,391.0,475.0,running,0.0
+1962,12,North Wilkesboro,8.0,2.0,8.0,Joe Weatherly,Bud Moore,'62 Pontiac,389.0,590.0,running,90.0
+1962,12,North Wilkesboro,9.0,13.0,47.0,Jack Smith,Jack Smith,'62 Pontiac,387.0,375.0,running,0.0
+1962,12,North Wilkesboro,10.0,3.0,24.0,Billy Wade,James Turner,'61 Pontiac,382.0,375.0,crash,0.0
+1962,12,North Wilkesboro,11.0,18.0,48.0,G.C. Spencer,G.C. Spencer,'60 Chevrolet,382.0,300.0,running,0.0
+1962,12,North Wilkesboro,12.0,28.0,60.0,Tom Cox,Ray Herlocker,'60 Plymouth,381.0,250.0,running,0.0
+1962,12,North Wilkesboro,13.0,19.0,30.0,J.C. Hendrix,Fred Clark,'62 Chevrolet,379.0,250.0,running,0.0
+1962,12,North Wilkesboro,14.0,23.0,91.0,Herb Thomas,Stoney Johnson,'62 Chevrolet,377.0,200.0,running,0.0
+1962,12,North Wilkesboro,15.0,16.0,36.0,Larry Thomas,Wade Younts,'62 Dodge,373.0,175.0,running,0.0
+1962,12,North Wilkesboro,16.0,11.0,72.0,Bobby Johns,Shorty Johns,'62 Pontiac,370.0,175.0,running,0.0
+1962,12,North Wilkesboro,17.0,30.0,95.0,Jim Cushman,Russell Trucking Co. (Jack Russell),'61 Plymouth,370.0,150.0,running,0.0
+1962,12,North Wilkesboro,18.0,7.0,85.0,Tommy Irwin,Monroe Shook,'62 Chevrolet,365.0,175.0,running,0.0
+1962,12,North Wilkesboro,19.0,33.0,62.0,Curtis Crider,Curtis Crider,'61 Mercury,362.0,150.0,running,0.0
+1962,12,North Wilkesboro,20.0,27.0,19.0,Herman Beam,Herman Beam,'62 Ford,360.0,150.0,running,0.0
+1962,12,North Wilkesboro,21.0,26.0,92.0,Gerald Duke,Don Harrison,'62 Ford,356.0,100.0,running,0.0
+1962,12,North Wilkesboro,22.0,35.0,1.0,George Green,Jess Potter,'61 Chevrolet,353.0,100.0,running,0.0
+1962,12,North Wilkesboro,23.0,32.0,51.0,Bob Cooper,Bob Cooper,'60 Plymouth,349.0,100.0,running,0.0
+1962,12,North Wilkesboro,24.0,14.0,11.0,Ned Jarrett,B.G. Holloway,'62 Chevrolet,318.0,375.0,engine,54.0
+1962,12,North Wilkesboro,25.0,8.0,29.0,Nelson Stacy,Holman-Moody Racing,'62 Ford,289.0,125.0,transmission,0.0
+1962,12,North Wilkesboro,26.0,24.0,2.0,Jim Paschal,Cliff Stewart,'62 Pontiac,281.0,100.0,transmission,0.0
+1962,12,North Wilkesboro,27.0,25.0,34.0,Wendell Scott,Scott Racing (Wendell Scott),'61 Chevrolet,240.0,100.0,running,0.0
+1962,12,North Wilkesboro,28.0,5.0,54.0,Jimmy Pardue,Jimmy Pardue,'62 Pontiac,198.0,150.0,crash,0.0
+1962,12,North Wilkesboro,29.0,31.0,79.0,Johnny Nave,Robert Ramey,'60 Ford,169.0,100.0,withdrew,0.0
+1962,12,North Wilkesboro,30.0,9.0,6.0,Cotton Owens,Cotton Owens,'62 Pontiac,163.0,125.0,transmission,0.0
+1962,12,North Wilkesboro,31.0,12.0,4.0,Rex White,Louis Clements (Rex White),'62 Chevrolet,162.0,25.0,oil pressure,0.0
+1962,12,North Wilkesboro,32.0,10.0,21.0,Marvin Panch,Wood Brothers,'62 Ford,140.0,25.0,rear end,0.0
+1962,12,North Wilkesboro,33.0,22.0,44.0,David Pearson,Julian Petty,'62 Pontiac,90.0,,oil pressure,0.0
+1962,12,North Wilkesboro,34.0,29.0,23.0,Doug Yates,Raeford Johnson,'60 Plymouth,23.0,,oil leak,0.0
+1962,12,North Wilkesboro,35.0,34.0,50.0,Bobby Waddell,Bobby Waddell,'60 Dodge,6.0,,distributor,0.0
+1962,13,Greenville,1.0,1.0,11.0,Ned Jarrett,B.G. Holloway,'62 Chevrolet,200.0,1200.0,running,174.0
+1962,13,Greenville,2.0,8.0,2.0,Jim Paschal,Cliff Stewart,'62 Pontiac,200.0,600.0,running,0.0
+1962,13,Greenville,3.0,7.0,8.0,Joe Weatherly,Bud Moore,'61 Pontiac,200.0,400.0,running,0.0
+1962,13,Greenville,4.0,6.0,34.0,Wendell Scott,Wendell Scott,'61 Chevrolet,194.0,300.0,running,0.0
+1962,13,Greenville,5.0,10.0,25.0,Jim Bennett,Thurman Wilkes,'61 Ford,191.0,275.0,running,0.0
+1962,13,Greenville,6.0,15.0,19.0,Herman Beam,Herman Beam,'60 Ford,186.0,240.0,running,0.0
+1962,13,Greenville,7.0,11.0,62.0,Curtis Crider,Curtis Crider,'61 Mercury,182.0,200.0,running,0.0
+1962,13,Greenville,8.0,12.0,18.0,Stick Elliott,Toy Bolton,'60 Ford,172.0,175.0,running,0.0
+1962,13,Greenville,9.0,17.0,60.0,Tom Cox,Ray Herlocker,'60 Plymouth,170.0,150.0,running,0.0
+1962,13,Greenville,10.0,5.0,48.0,G.C. Spencer,G.C. Spencer,'60 Chevrolet,148.0,140.0,ball joint,0.0
+1962,13,Greenville,11.0,2.0,43.0,Richard Petty,Petty Enterprises,'62 Plymouth,139.0,230.0,ball joint,0.0
+1962,13,Greenville,12.0,9.0,17.0,Fred Harb,Fred Harb,'61 Ford,104.0,120.0,overheating,0.0
+1962,13,Greenville,13.0,3.0,47.0,Jack Smith,Jack Smith,'61 Pontiac,89.0,110.0,lug bolts,26.0
+1962,13,Greenville,14.0,19.0,51.0,Bob Cooper,Bob Cooper,'60 Ford,81.0,100.0,transmission,0.0
+1962,13,Greenville,15.0,18.0,55.0,Neil Castles,–,'60 Ford,61.0,85.0,running,0.0
+1962,13,Greenville,16.0,14.0,86.0,Buck Baker,Buck Baker,'61 Chrysler,44.0,75.0,rear end,0.0
+1962,13,Greenville,17.0,4.0,4.0,Rex White,Louis Clements (Rex White),'61 Chevrolet,41.0,65.0,engine,0.0
+1962,13,Greenville,18.0,16.0,1.0,George Green,Jess Potter,'61 Chevrolet,39.0,60.0,engine,0.0
+1962,13,Greenville,19.0,13.0,63.0,George Alsobrook,Ratus Walters,'61 Ford,36.0,50.0,overheating,0.0
+1962,14,Myrtle Beach,1.0,3.0,47.0,Jack Smith,Jack Smith,'61 Pontiac,200.0,1000.0,running,80.0
+1962,14,Myrtle Beach,2.0,7.0,43.0,Richard Petty,Petty Enterprises,'60 Plymouth,198.0,600.0,running,0.0
+1962,14,Myrtle Beach,3.0,1.0,11.0,Ned Jarrett,B.G. Holloway,'62 Chevrolet,195.0,600.0,running,120.0
+1962,14,Myrtle Beach,4.0,14.0,60.0,Tom Cox,Ray Herlocker,'60 Plymouth,188.0,300.0,running,0.0
+1962,14,Myrtle Beach,5.0,12.0,62.0,Curtis Crider,Curtis Crider,'61 Mercury,183.0,275.0,running,0.0
+1962,14,Myrtle Beach,6.0,10.0,17.0,Fred Harb,Fred Harb,'61 Ford,183.0,240.0,running,0.0
+1962,14,Myrtle Beach,7.0,13.0,1.0,George Green,Jess Potter,'61 Chevrolet,179.0,200.0,running,0.0
+1962,14,Myrtle Beach,8.0,15.0,6.0,Frank Graham,–,'60 Ford,178.0,175.0,running,0.0
+1962,14,Myrtle Beach,9.0,6.0,34.0,Wendell Scott,Wendell Scott,'61 Chevrolet,176.0,150.0,a frame,0.0
+1962,14,Myrtle Beach,10.0,11.0,76.0,Neil Castles,–,'60 Ford,173.0,140.0,running,0.0
+1962,14,Myrtle Beach,11.0,18.0,19.0,Herman Beam,Herman Beam,'60 Ford,163.0,130.0,running,0.0
+1962,14,Myrtle Beach,12.0,19.0,31.0,Frank Sessoms,Gene Stokes,'61 Studebaker,159.0,120.0,running,0.0
+1962,14,Myrtle Beach,13.0,2.0,8.0,Joe Weatherly,Bud Moore,'61 Pontiac,132.0,110.0,rear axle,0.0
+1962,14,Myrtle Beach,14.0,16.0,51.0,Bob Cooper,Bob Cooper,'60 Ford,129.0,100.0,running,0.0
+1962,14,Myrtle Beach,15.0,4.0,25.0,Jim Bennett,Thurman Wilkes,'61 Ford,114.0,85.0,flagged,0.0
+1962,14,Myrtle Beach,16.0,5.0,86.0,Buck Baker,Buck Baker,'61 Chrysler,112.0,75.0,crash,0.0
+1962,14,Myrtle Beach,17.0,9.0,48.0,G.C. Spencer,G.C. Spencer,'60 Chevrolet,96.0,65.0,cont arm,0.0
+1962,14,Myrtle Beach,18.0,8.0,2.0,Jim Paschal,Cliff Stewart,'62 Pontiac,73.0,60.0,piston,0.0
+1962,14,Myrtle Beach,19.0,17.0,68.0,Ed Livingston,Ed Livingston,'61 Ford,1.0,50.0,transmission,0.0
+1962,15,Martinsville,1.0,7.0,43.0,Richard Petty,Petty Enterprises,'62 Plymouth,500.0,3400.0,running,145.0
+1962,15,Martinsville,2.0,27.0,8.0,Joe Weatherly,Bud Moore,'62 Pontiac,500.0,1625.0,running,0.0
+1962,15,Martinsville,3.0,8.0,4.0,Rex White,Louis Clements (Rex White),'62 Chevrolet,499.0,1210.0,running,7.0
+1962,15,Martinsville,4.0,1.0,28.0,Fred Lorenzen,LaFayette (Holman-Moody Racing),'61 Ford,499.0,860.0,running,18.0
+1962,15,Martinsville,5.0,5.0,41.0,Lee Petty,Petty Enterprises,'62 Plymouth,499.0,750.0,running,0.0
+1962,15,Martinsville,6.0,3.0,21.0,Marvin Panch,Wood Brothers,'62 Ford,492.0,650.0,running,0.0
+1962,15,Martinsville,7.0,6.0,47.0,Jack Smith,Jack Smith,'62 Pontiac,492.0,550.0,running,0.0
+1962,15,Martinsville,8.0,10.0,24.0,Billy Wade,James Turner,'61 Pontiac,487.0,500.0,running,0.0
+1962,15,Martinsville,9.0,13.0,66.0,Larry Frank,Ratus Walters,'62 Ford,487.0,400.0,running,0.0
+1962,15,Martinsville,10.0,19.0,90.0,Darel Dieringer,Bob Osiecki,'62 Dodge,469.0,365.0,running,0.0
+1962,15,Martinsville,11.0,20.0,19.0,Herman Beam,Herman Beam,'62 Ford,461.0,325.0,running,0.0
+1962,15,Martinsville,12.0,29.0,48.0,G.C. Spencer,G.C. Spencer,'60 Chevrolet,456.0,275.0,coil,0.0
+1962,15,Martinsville,13.0,16.0,11.0,Ned Jarrett,B.G. Holloway,'62 Chevrolet,456.0,450.0,running,0.0
+1962,15,Martinsville,14.0,25.0,34.0,Wendell Scott,Wendell Scott,'61 Chevrolet,456.0,225.0,running,0.0
+1962,15,Martinsville,15.0,22.0,36.0,Larry Thomas,Wade Younts,'62 Dodge,451.0,150.0,running,0.0
+1962,15,Martinsville,16.0,9.0,54.0,Jimmy Pardue,Jimmy Pardue,'62 Pontiac,438.0,150.0,rear end,0.0
+1962,15,Martinsville,17.0,12.0,60.0,Tom Cox,Ray Herlocker,'60 Plymouth,430.0,150.0,ball joint,0.0
+1962,15,Martinsville,18.0,18.0,22.0,Fireball Roberts,Banjo Matthews,'62 Pontiac,415.0,390.0,rear end,244.0
+1962,15,Martinsville,19.0,24.0,62.0,Curtis Crider,Curtis Crider,'61 Mercury,410.0,150.0,brakes,0.0
+1962,15,Martinsville,20.0,11.0,85.0,Johnny Allen,Monroe Shook,'62 Chevrolet,282.0,150.0,rear end,0.0
+1962,15,Martinsville,21.0,2.0,29.0,Nelson Stacy,Holman-Moody Racing,'62 Ford,248.0,180.0,rear end,30.0
+1962,15,Martinsville,22.0,26.0,27.0,Junior Johnson,Holly Farms (Rex Lovette),'61 Pontiac,204.0,210.0,rear end,56.0
+1962,15,Martinsville,23.0,15.0,87.0,Buck Baker,Buck Baker,'62 Chrysler,202.0,150.0,transmission,0.0
+1962,15,Martinsville,24.0,21.0,1.0,George Green,Jess Potter,'61 Chevrolet,194.0,150.0,engine,0.0
+1962,15,Martinsville,25.0,4.0,72.0,Bobby Johns,Shorty Johns,'62 Pontiac,111.0,150.0,brakes,0.0
+1962,15,Martinsville,26.0,30.0,65.0,Lester Hicks,–,'60 Dodge,106.0,100.0,engine,0.0
+1962,15,Martinsville,27.0,23.0,18.0,Stick Elliott,Toy Bolton,'60 Ford,98.0,100.0,rocker arm,0.0
+1962,15,Martinsville,28.0,14.0,17.0,Fred Harb,Fred Harb,'61 Ford,20.0,100.0,clutch,0.0
+1962,15,Martinsville,29.0,28.0,51.0,Bob Cooper,Bob Cooper,'60 Ford,18.0,100.0,rear end,0.0
+1962,15,Martinsville,30.0,17.0,75.0,Ralph Earnhardt,Robert Smith,'61 Pontiac,18.0,100.0,fan belt,0.0
+1962,15,Martinsville,31.0,31.0,76.0,Neil Castles,Neil Castles,'60 Ford,1.0,100.0,brakes,0.0
+1962,15,Martinsville,32.0,32.0,79.0,Johnny Nave,Robert Ramey,'60 Ford,1.0,100.0,transmission,0.0
+1962,16,Winston-Salem,1.0,1.0,4.0,Rex White,Louis Clements (Rex White),'62 Chevrolet,108.0,565.0,running,108.0
+1962,16,Winston-Salem,2.0,5.0,47.0,Jack Smith,Miller Pontiac (Jack Smith),'61 Pontiac,108.0,475.0,running,0.0
+1962,16,Winston-Salem,3.0,3.0,8.0,Joe Weatherly,Gillman Pontiac (Bud Moore),'62 Pontiac,108.0,370.0,running,0.0
+1962,16,Winston-Salem,4.0,7.0,97.0,George Dunn,Lewis Osborne,'62 Chevrolet,108.0,305.0,running,0.0
+1962,16,Winston-Salem,5.0,6.0,43.0,Richard Petty,Petty Enterprises,'61 Plymouth,107.0,225.0,running,0.0
+1962,16,Winston-Salem,6.0,11.0,54.0,Jimmy Pardue,Bush (Jimmy Pardue),'62 Pontiac,107.0,250.0,running,0.0
+1962,16,Winston-Salem,7.0,4.0,11.0,Ned Jarrett,B.G. Holloway,'62 Chevrolet,107.0,410.0,running,0.0
+1962,16,Winston-Salem,8.0,10.0,2.0,Jim Paschal,Cliff Stewart,'62 Pontiac,106.0,210.0,running,0.0
+1962,16,Winston-Salem,9.0,8.0,48.0,G.C. Spencer,G.C. Spencer,'60 Chevrolet,106.0,170.0,running,0.0
+1962,16,Winston-Salem,10.0,9.0,17.0,Fred Harb,Fred Harb,'61 Ford,105.0,155.0,running,0.0
+1962,16,Winston-Salem,11.0,12.0,36.0,Larry Thomas,Wade Younts,'62 Dodge,104.0,145.0,running,0.0
+1962,16,Winston-Salem,12.0,13.0,19.0,Herman Beam,Herman Beam,'60 Ford,102.0,120.0,running,0.0
+1962,16,Winston-Salem,13.0,16.0,62.0,Curtis Crider,Curtis Crider,'60 Ford,102.0,125.0,running,0.0
+1962,16,Winston-Salem,14.0,17.0,60.0,Tom Cox,Ray Herlocker,'60 Plymouth,102.0,100.0,running,0.0
+1962,16,Winston-Salem,15.0,2.0,27.0,Junior Johnson,Holly Farms (Rex Lovette),'61 Pontiac,100.0,100.0,tires,0.0
+1962,16,Winston-Salem,16.0,15.0,34.0,Wendell Scott,Wendell Scott,'61 Chevrolet,96.0,75.0,running,0.0
+1962,16,Winston-Salem,17.0,18.0,76.0,Neil Castles,Neil Castles,'60 Ford,31.0,75.0,overheating,0.0
+1962,16,Winston-Salem,18.0,19.0,7.0,Bill Delaney,–,'62 Pontiac,3.0,60.0,handling,0.0
+1962,16,Winston-Salem,19.0,14.0,24.0,Billy Wade,James Turner,'61 Pontiac,3.0,50.0,handling,0.0
+1962,17,Bristol,1.0,6.0,72.0,Bobby Johns,Shorty Johns,'62 Pontiac,500.0,4405.0,running,430.0
+1962,17,Bristol,2.0,1.0,22.0,Fireball Roberts,Banjo Matthews,'62 Pontiac,494.0,2500.0,running,61.0
+1962,17,Bristol,3.0,10.0,47.0,Jack Smith,Jack Smith,'62 Pontiac,492.0,1635.0,running,0.0
+1962,17,Bristol,4.0,12.0,11.0,Ned Jarrett,B.G. Holloway,'62 Chevrolet,475.0,1400.0,running,0.0
+1962,17,Bristol,5.0,25.0,60.0,Tom Cox,Ray Herlocker,'60 Plymouth,470.0,850.0,running,0.0
+1962,17,Bristol,6.0,22.0,19.0,Herman Beam,Herman Beam,'62 Ford,469.0,850.0,running,0.0
+1962,17,Bristol,7.0,14.0,6.0,David Pearson,Cotton Owens,'62 Pontiac,461.0,650.0,lug bolts,0.0
+1962,17,Bristol,8.0,31.0,34.0,Wendell Scott,Wendell Scott,'61 Chevrolet,460.0,550.0,running,0.0
+1962,17,Bristol,9.0,28.0,61.0,Bill Morton,Bill Morton,'62 Ford,459.0,475.0,running,0.0
+1962,17,Bristol,10.0,33.0,62.0,Curtis Crider,Curtis Crider,'61 Mercury,447.0,400.0,running,0.0
+1962,17,Bristol,11.0,8.0,8.0,Joe Weatherly,Bud Moore,'62 Pontiac,444.0,400.0,rear end,0.0
+1962,17,Bristol,12.0,20.0,86.0,Buddy Baker,Buck Baker,'62 Chrysler,430.0,275.0,engine,0.0
+1962,17,Bristol,13.0,7.0,54.0,Jimmy Pardue,Jimmy Pardue,'62 Pontiac,419.0,325.0,running,0.0
+1962,17,Bristol,14.0,36.0,1.0,George Green,Jess Potter,'61 Chevrolet,417.0,225.0,running,0.0
+1962,17,Bristol,15.0,27.0,17.0,Fred Harb,Fred Harb,'61 Ford,370.0,200.0,head gasket,0.0
+1962,17,Bristol,16.0,11.0,43.0,Richard Petty,Petty Enterprises,'62 Plymouth,368.0,300.0,engine,9.0
+1962,17,Bristol,17.0,13.0,26.0,Bunkie Blackburn,–,'61 Pontiac,359.0,175.0,rear end,0.0
+1962,17,Bristol,18.0,4.0,29.0,Nelson Stacy,Holman-Moody Racing,'62 Ford,302.0,200.0,crash,0.0
+1962,17,Bristol,19.0,18.0,41.0,Maurice Petty,Petty Enterprises,'62 Plymouth,297.0,150.0,crash,0.0
+1962,17,Bristol,20.0,30.0,64.0,Gene Blackburn,–,'60 Chevrolet,274.0,150.0,axle,0.0
+1962,17,Bristol,21.0,17.0,85.0,Johnny Allen,Monroe Shook,'62 Chevrolet,225.0,125.0,engine,0.0
+1962,17,Bristol,22.0,23.0,14.0,Joe Lee Johnson,Joe Lee Johnson,'62 Chevrolet,223.0,125.0,engine,0.0
+1962,17,Bristol,23.0,19.0,90.0,Darel Dieringer,Bob Osiecki,'62 Dodge,191.0,225.0,oil line,0.0
+1962,17,Bristol,24.0,24.0,30.0,Tiny Lund,Fred Clark,'62 Chevrolet,187.0,125.0,hub,0.0
+1962,17,Bristol,25.0,26.0,48.0,G.C. Spencer,G.C. Spencer,'60 Chevrolet,161.0,125.0,engine,0.0
+1962,17,Bristol,26.0,3.0,21.0,Marvin Panch,Hull-Dobbs Ford (Wood Brothers),'62 Ford,154.0,200.0,rear end,0.0
+1962,17,Bristol,27.0,21.0,87.0,Buck Baker,Buck Baker,'62 Chrysler,139.0,125.0,distributor,0.0
+1962,17,Bristol,28.0,35.0,49.0,Charley Griffith,J.C. Parker,'61 Pontiac,137.0,100.0,rear end,0.0
+1962,17,Bristol,29.0,9.0,4.0,Rex White,Louis Clements (Rex White),'62 Chevrolet,109.0,125.0,rocker arm,0.0
+1962,17,Bristol,30.0,5.0,27.0,Junior Johnson,Holly Farms (Rex Lovette),'62 Pontiac,96.0,175.0,transmission,0.0
+1962,17,Bristol,31.0,34.0,18.0,Stick Elliott,Toy Bolton,'60 Ford,81.0,100.0,oil pressure,0.0
+1962,17,Bristol,32.0,16.0,2.0,Jim Paschal,Cliff Stewart,'62 Pontiac,77.0,100.0,crankshaft,0.0
+1962,17,Bristol,33.0,29.0,75.0,Ralph Earnhardt,Robert Smith,'62 Pontiac,68.0,,overheating,0.0
+1962,17,Bristol,34.0,2.0,28.0,Fred Lorenzen,LaFayette (Holman-Moody Racing),'62 Ford,61.0,100.0,engine,0.0
+1962,17,Bristol,35.0,15.0,36.0,Larry Thomas,Wade Younts,'62 Dodge,60.0,,engine,0.0
+1962,17,Bristol,36.0,32.0,66.0,Larry Frank,Ratus Walters,'62 Ford,29.0,,overheating,0.0
+1962,18,Richmond,1.0,12.0,54.0,Jimmy Pardue,Jimmy Pardue,'62 Pontiac,200.0,550.0,running,66.0
+1962,18,Richmond,2.0,4.0,47.0,Jack Smith,Jack Smith,'61 Pontiac,200.0,480.0,running,0.0
+1962,18,Richmond,3.0,7.0,43.0,Richard Petty,Petty Enterprises,'60 Plymouth,199.0,375.0,running,0.0
+1962,18,Richmond,4.0,9.0,17.0,Joe Weatherly,Fred Harb,'61 Ford,197.0,290.0,running,0.0
+1962,18,Richmond,5.0,3.0,2.0,Jim Paschal,Cliff Stewart,'62 Pontiac,196.0,275.0,running,0.0
+1962,18,Richmond,6.0,5.0,20.0,Emanuel Zervakis,Emanuel Zervakis,'62 Mercury,195.0,220.0,running,0.0
+1962,18,Richmond,7.0,8.0,85.0,Johnny Allen,Monroe Shook,'61 Chevrolet,192.0,200.0,running,0.0
+1962,18,Richmond,8.0,11.0,34.0,Wendell Scott,Wendell Scott,'61 Chevrolet,190.0,175.0,running,0.0
+1962,18,Richmond,9.0,16.0,62.0,Curtis Crider,Curtis Crider,'60 Ford,180.0,150.0,running,0.0
+1962,18,Richmond,10.0,14.0,19.0,Herman Beam,Herman Beam,'61 Ford,180.0,155.0,running,0.0
+1962,18,Richmond,11.0,13.0,224.0,Bob Devine,Walt Shutt,'61 Chevrolet,177.0,130.0,running,0.0
+1962,18,Richmond,12.0,10.0,112.0,Ronnie Fones,–,'60 Chevrolet,170.0,135.0,running,0.0
+1962,18,Richmond,13.0,1.0,4.0,Rex White,Louis Clements (Rex White),'62 Chevrolet,142.0,140.0,engine,134.0
+1962,18,Richmond,14.0,6.0,11.0,Ned Jarrett,B.G. Holloway,'62 Chevrolet,79.0,350.0,engine,0.0
+1962,18,Richmond,15.0,2.0,36.0,Larry Thomas,Wade Younts,'62 Dodge,66.0,100.0,engine,0.0
+1962,18,Richmond,16.0,15.0,76.0,Jim Bray,Neil Castles,'61 Ford,34.0,75.0,engine,0.0
+1962,19,Hickory,1.0,1.0,47,Jack Smith,Jack Smith,'61 Pontiac,250.0,1000.0,running,250.0
+1962,19,Hickory,2.0,3.0,4,Rex White,Louis Clements (Rex White),'62 Chevrolet,248.0,600.0,running,0.0
+1962,19,Hickory,3.0,7.0,8,Joe Weatherly,Bud Moore,'61 Pontiac,246.0,400.0,running,0.0
+1962,19,Hickory,4.0,13.0,2,Jim Paschal,Cliff Stewart,'62 Pontiac,240.0,300.0,running,0.0
+1962,19,Hickory,5.0,6.0,75,Ralph Earnhardt,Robert Smith,'61 Pontiac,237.0,275.0,running,0.0
+1962,19,Hickory,6.0,4.0,43,Richard Petty,Petty Enterprises,'62 Plymouth,234.0,240.0,running,0.0
+1962,19,Hickory,7.0,16.0,60,Tom Cox,Ray Herlocker,'60 Plymouth,231.0,200.0,running,0.0
+1962,19,Hickory,8.0,18.0,1,George Green,Jess Potter,'60 Chevrolet,229.0,175.0,running,0.0
+1962,19,Hickory,9.0,19.0,19,Herman Beam,Herman Beam,'60 Ford,223.0,150.0,running,0.0
+1962,19,Hickory,10.0,5.0,85,Johnny Allen,Monroe Shook,'61 Chevrolet,221.0,140.0,running,0.0
+1962,19,Hickory,11.0,17.0,X,John Hamby,–,'60 Ford,197.0,130.0,running,0.0
+1962,19,Hickory,12.0,11.0,17,Fred Harb,Fred Harb,'61 Ford,172.0,120.0,overheating,0.0
+1962,19,Hickory,13.0,9.0,11,Ned Jarrett,B.G. Holloway,'62 Chevrolet,167.0,110.0,rear end,0.0
+1962,19,Hickory,14.0,2.0,27,Junior Johnson,Holly Farms (Rex Lovette),'61 Pontiac,145.0,100.0,cont arm,0.0
+1962,19,Hickory,15.0,10.0,48,G.C. Spencer,G.C. Spencer,'60 Chevrolet,145.0,85.0,spindle,0.0
+1962,19,Hickory,16.0,12.0,34,Wendell Scott,Wendell Scott,'61 Chevrolet,141.0,75.0,running,0.0
+1962,19,Hickory,17.0,8.0,6,Cotton Owens,Cotton Owens,'61 Pontiac,126.0,65.0,overheating,0.0
+1962,19,Hickory,18.0,14.0,18,Stick Elliott,Toy Bolton,'60 Ford,96.0,60.0,oil leak,0.0
+1962,19,Hickory,19.0,15.0,62,Curtis Crider,Curtis Crider,'61 Mercury,31.0,50.0,head gasket,0.0
+1962,19,Hickory,20.0,20.0,50,Bobby Waddell,Bobby Waddell,'60 Dodge,1.0,50.0,engine,0.0
+1962,20,Concord,1.0,7.0,8,Joe Weatherly,Bud Moore,'61 Pontiac,200.0,1000.0,running,66.0
+1962,20,Concord,2.0,8.0,6,Cotton Owens,Cotton Owens,'60 Pontiac,200.0,600.0,running,0.0
+1962,20,Concord,3.0,3.0,34,Wendell Scott,Wendell Scott,'61 Chevrolet,192.0,400.0,running,0.0
+1962,20,Concord,4.0,12.0,47,Jack Smith,Jack Smith,'61 Pontiac,191.0,300.0,running,0.0
+1962,20,Concord,5.0,9.0,41,Maurice Petty,Petty Enterprises,'62 Plymouth,188.0,275.0,running,0.0
+1962,20,Concord,6.0,18.0,19,Herman Beam,Herman Beam,'60 Ford,171.0,240.0,running,0.0
+1962,20,Concord,7.0,14.0,44,Bob Welborn,Julian Petty,'62 Pontiac,154.0,200.0,housing,0.0
+1962,20,Concord,8.0,16.0,1,George Green,Jess Potter,'60 Chevrolet,140.0,175.0,rod,0.0
+1962,20,Concord,9.0,1.0,43,Richard Petty,Petty Enterprises,'62 Plymouth,134.0,150.0,axle,134.0
+1962,20,Concord,10.0,5.0,60,Tom Cox,Ray Herlocker,'60 Plymouth,131.0,140.0,a frame,0.0
+1962,20,Concord,11.0,19.0,18,Stick Elliott,Toy Bolton,'60 Ford,118.0,130.0,running,0.0
+1962,20,Concord,12.0,17.0,75,Ralph Earnhardt,Robert Smith,'61 Pontiac,70.0,120.0,brakes,0.0
+1962,20,Concord,13.0,11.0,21,Marvin Panch,Wood Brothers,'62 Ford,66.0,110.0,overheating,0.0
+1962,20,Concord,14.0,20.0,85,Johnny Allen,Monroe Shook,'61 Chevrolet,43.0,100.0,withdrew,0.0
+1962,20,Concord,15.0,6.0,48,G.C. Spencer,G.C. Spencer,'60 Chevrolet,39.0,85.0,axle,0.0
+1962,20,Concord,16.0,15.0,2,Jim Paschal,Cliff Stewart,'62 Pontiac,33.0,75.0,withdrew,0.0
+1962,20,Concord,17.0,2.0,62,Curtis Crider,Curtis Crider,'61 Mercury,20.0,65.0,–,0.0
+1962,20,Concord,18.0,13.0,X,John Hamby,–,'60 Ford,6.0,60.0,transmission,0.0
+1962,20,Concord,19.0,10.0,11,Ned Jarrett,B.G. Holloway,'62 Chevrolet,1.0,150.0,withdrew,0.0
+1962,20,Concord,20.0,4.0,4,Rex White,Louis Clements (Rex White),'62 Chevrolet,1.0,50.0,fire,0.0
+1962,21,Darlington,1.0,3.0,29.0,Nelson Stacy,Ron's Ford Sales (Holman-Moody Racing),'62 Ford,219.0,7900.0,running,15.0
+1962,21,Darlington,2.0,5.0,21.0,Marvin Panch,Wood Brothers,'62 Ford,219.0,4890.0,running,57.0
+1962,21,Darlington,3.0,1.0,28.0,Fred Lorenzen,LaFayette (Holman-Moody Racing),'62 Ford,218.0,3400.0,crash,71.0
+1962,21,Darlington,4.0,11.0,47.0,Jack Smith,Jack Smith,'62 Pontiac,217.0,2270.0,running,0.0
+1962,21,Darlington,5.0,14.0,6.0,Cotton Owens,Cotton Owens,'62 Pontiac,216.0,1765.0,crash,0.0
+1962,21,Darlington,6.0,32.0,66.0,Larry Frank,Ratus Walters,'62 Ford,215.0,1300.0,running,0.0
+1962,21,Darlington,7.0,6.0,3.0,David Pearson,Ray Fox,'62 Pontiac,215.0,1025.0,running,56.0
+1962,21,Darlington,8.0,9.0,72.0,Bobby Johns,Shorty Johns,'62 Pontiac,214.0,925.0,tire,2.0
+1962,21,Darlington,9.0,29.0,11.0,Ned Jarrett,B.G. Holloway,'62 Chevrolet,214.0,1000.0,running,0.0
+1962,21,Darlington,10.0,16.0,54.0,Jimmy Pardue,Jimmy Pardue,'62 Pontiac,213.0,750.0,running,0.0
+1962,21,Darlington,11.0,15.0,86.0,Buddy Baker,Buck Baker,'62 Chrysler,208.0,700.0,running,0.0
+1962,21,Darlington,12.0,10.0,90.0,Darel Dieringer,Bob Osiecki,'62 Dodge,205.0,650.0,rear end,17.0
+1962,21,Darlington,13.0,17.0,52.0,Cale Yarborough,Julian Buesink,'62 Ford,205.0,600.0,running,0.0
+1962,21,Darlington,14.0,12.0,87.0,Buck Baker,Buck Baker,'62 Chrysler,203.0,615.0,running,0.0
+1962,21,Darlington,15.0,7.0,43.0,Richard Petty,Petty Enterprises,'62 Plymouth,201.0,500.0,running,0.0
+1962,21,Darlington,16.0,22.0,68.0,Ed Livingston,Livingston's Auto Parts (Ed Livingston),'61 Ford,195.0,450.0,running,0.0
+1962,21,Darlington,17.0,26.0,1.0,George Green,Jess Potter,'61 Chevrolet,193.0,400.0,running,0.0
+1962,21,Darlington,18.0,4.0,8.0,Joe Weatherly,Bud Moore,'62 Pontiac,190.0,370.0,running,0.0
+1962,21,Darlington,19.0,25.0,80.0,Tubby Gonzales,Tubby Gonzales,'61 Ford,190.0,300.0,running,0.0
+1962,21,Darlington,20.0,27.0,60.0,Tom Cox,Ray Herlocker,'60 Plymouth,186.0,300.0,running,0.0
+1962,21,Darlington,21.0,31.0,62.0,Curtis Crider,Curtis Crider,'62 Mercury,178.0,200.0,running,0.0
+1962,21,Darlington,22.0,19.0,2.0,Jim Paschal,Cliff Stewart,'62 Pontiac,154.0,200.0,crash,0.0
+1962,21,Darlington,23.0,28.0,93.0,Lee Reitzel,Lee Reitzel,'62 Ford,143.0,200.0,crash,0.0
+1962,21,Darlington,24.0,20.0,64.0,Elmo Langley,Elmo Langley,'62 Ford,137.0,200.0,rear end,0.0
+1962,21,Darlington,25.0,21.0,75.0,Ralph Earnhardt,Robert Smith,'61 Pontiac,130.0,200.0,push rod,0.0
+1962,21,Darlington,26.0,18.0,77.0,Jim Reed,Ratus Walters,'62 Ford,129.0,200.0,crash,0.0
+1962,21,Darlington,27.0,13.0,4.0,Rex White,Louis Clements (Rex White),'62 Chevrolet,48.0,200.0,crash,0.0
+1962,21,Darlington,28.0,24.0,38.0,G.C. Spencer,Matt DeMatthews,'61 Ford,45.0,200.0,crash,0.0
+1962,21,Darlington,29.0,23.0,20.0,Emanuel Zervakis,Emanuel Zervakis,'62 Mercury,28.0,200.0,handling,0.0
+1962,21,Darlington,30.0,30.0,97.0,LeeRoy Yarbrough,Lewis Osborne,'62 Chevrolet,23.0,200.0,engine,0.0
+1962,21,Darlington,31.0,8.0,39.0,Junior Johnson,Ray Nichels,'61 Pontiac,7.0,200.0,oil leak,0.0
+1962,21,Darlington,32.0,2.0,22.0,Fireball Roberts,Banjo Matthews,'62 Pontiac,4.0,265.0,crash,1.0
+1962,22,Spartanburg,1.0,2.0,11.0,Ned Jarrett,B.G. Holloway,'62 Chevrolet,200.0,1200.0,running,–
+1962,22,Spartanburg,2.0,6.0,2.0,Jim Paschal,Cliff Stewart,'62 Pontiac,200.0,600.0,running,–
+1962,22,Spartanburg,3.0,7.0,43.0,Richard Petty,Petty Enterprises,'60 Plymouth,200.0,400.0,running,–
+1962,22,Spartanburg,4.0,9.0,48.0,G.C. Spencer,G.C. Spencer,'60 Chevrolet,198.0,300.0,running,–
+1962,22,Spartanburg,5.0,5.0,8.0,Joe Weatherly,Bud Moore,'61 Pontiac,197.0,275.0,running,–
+1962,22,Spartanburg,6.0,10.0,60.0,Tom Cox,Ray Herlocker,'60 Plymouth,193.0,240.0,running,–
+1962,22,Spartanburg,7.0,4.0,47.0,Jack Smith,Jack Smith,'61 Pontiac,189.0,200.0,running,–
+1962,22,Spartanburg,8.0,14.0,19.0,Herman Beam,Herman Beam,'60 Ford,183.0,175.0,running,–
+1962,22,Spartanburg,9.0,11.0,1.0,George Green,Jess Potter,'61 Chevrolet,182.0,150.0,running,–
+1962,22,Spartanburg,10.0,8.0,62.0,Curtis Crider,Curtis Crider,'62 Mercury,167.0,140.0,running,–
+1962,22,Spartanburg,11.0,13.0,68.0,Ed Livingston,Ed Livingston,'61 Ford,152.0,130.0,overheating,–
+1962,22,Spartanburg,12.0,12.0,58.0,Paul Lewis,–,'62 Chevrolet,147.0,120.0,running,–
+1962,22,Spartanburg,13.0,15.0,17.0,Fred Harb,Fred Harb,'61 Ford,60.0,110.0,overheating,–
+1962,22,Spartanburg,14.0,3.0,3.0,David Pearson,Ray Fox,'61 Pontiac,30.0,100.0,engine,–
+1962,22,Spartanburg,15.0,1.0,6.0,Cotton Owens,Cotton Owens,'61 Pontiac,20.0,85.0,engine,–
+1962,23,Charlotte,1.0,18.0,29.0,Nelson Stacy,Ron's Ford Sales (Holman-Moody Racing),'62 Ford,400.0,25505.0,running,13.0
+1962,23,Charlotte,2.0,4.0,8.0,Joe Weatherly,Bud Moore,'62 Pontiac,400.0,11105.0,running,0.0
+1962,23,Charlotte,3.0,15.0,0.0,Fred Lorenzen,LaFayette (Holman-Moody Racing),'62 Ford,399.0,6870.0,running,0.0
+1962,23,Charlotte,4.0,21.0,43.0,Richard Petty,Petty Enterprises,'62 Plymouth,397.0,5400.0,running,5.0
+1962,23,Charlotte,5.0,12.0,66.0,Larry Frank,Cafe Burgundy (Ratus Walters),'62 Ford,395.0,3475.0,running,0.0
+1962,23,Charlotte,6.0,14.0,11.0,Ned Jarrett,City Chevrolet Co. (B.G. Holloway),'62 Chevrolet,394.0,3600.0,running,0.0
+1962,23,Charlotte,7.0,2.0,3.0,David Pearson,Gerry Earl Pontiac (Ray Fox),'62 Pontiac,393.0,4695.0,engine,208.0
+1962,23,Charlotte,8.0,11.0,21.0,Marvin Panch,Wood Brothers,'62 Ford,393.0,1600.0,running,0.0
+1962,23,Charlotte,9.0,1.0,22.0,Fireball Roberts,Stephens Pontiac (Banjo Matthews),'62 Pontiac,393.0,2095.0,running,27.0
+1962,23,Charlotte,10.0,24.0,41.0,Bunkie Blackburn,Petty Enterprises,'62 Plymouth,393.0,1100.0,running,0.0
+1962,23,Charlotte,11.0,10.0,4.0,Rex White,Louis Clements (Rex White),'62 Chevrolet,392.0,1075.0,running,0.0
+1962,23,Charlotte,12.0,31.0,39.0,LeeRoy Yarbrough,Ray Nichels,'61 Pontiac,386.0,1300.0,running,0.0
+1962,23,Charlotte,13.0,19.0,44.0,Bob Welborn,Julian Petty,'62 Pontiac,385.0,850.0,running,0.0
+1962,23,Charlotte,14.0,8.0,20.0,Emanuel Zervakis,Emanuel Zervakis,'62 Mercury,383.0,1150.0,running,0.0
+1962,23,Charlotte,15.0,6.0,46.0,Johnny Allen,Holly Farms (Rex Lovette),'62 Pontiac,380.0,590.0,running,4.0
+1962,23,Charlotte,16.0,22.0,36.0,Larry Thomas,Wade Younts,'62 Dodge,378.0,1000.0,running,0.0
+1962,23,Charlotte,17.0,26.0,84.0,Red Foote,Rocky Hinton,'61 Ford,369.0,575.0,running,0.0
+1962,23,Charlotte,18.0,46.0,61.0,Bill Morton,Bill Morton,'62 Ford,368.0,485.0,running,0.0
+1962,23,Charlotte,19.0,37.0,30.0,Tiny Lund,Fred Clark,'62 Chevrolet,365.0,500.0,running,0.0
+1962,23,Charlotte,20.0,28.0,9.0,Jimmy Thompson,Wildcat Williams,'62 Ford,364.0,475.0,running,0.0
+1962,23,Charlotte,21.0,27.0,79.0,G.C. Spencer,Ralph Smith,'62 Chevrolet,363.0,500.0,running,0.0
+1962,23,Charlotte,22.0,38.0,1.0,George Green,Jess Potter,'61 Chevrolet,360.0,425.0,running,0.0
+1962,23,Charlotte,23.0,34.0,90.0,Darel Dieringer,Bob Osiecki,'62 Dodge,358.0,500.0,coil wire,0.0
+1962,23,Charlotte,24.0,25.0,47.0,Jack Smith,Jack Smith,'62 Pontiac,355.0,475.0,brakes,0.0
+1962,23,Charlotte,25.0,39.0,19.0,Herman Beam,Herman Beam,'62 Ford,348.0,375.0,running,0.0
+1962,23,Charlotte,26.0,47.0,5.0,Stick Elliott,Leroy Faucett,'61 Pontiac,341.0,350.0,running,0.0
+1962,23,Charlotte,27.0,42.0,62.0,Curtis Crider,Curtis Crider,'62 Mercury,284.0,375.0,wheel,0.0
+1962,23,Charlotte,28.0,5.0,72.0,Bobby Johns,Shorty Johns,'62 Pontiac,284.0,615.0,push rod,24.0
+1962,23,Charlotte,29.0,17.0,77.0,Jim Reed,Ratus Walters,'62 Ford,284.0,475.0,engine,0.0
+1962,23,Charlotte,30.0,41.0,34.0,Wendell Scott,Wendell Scott,'61 Chevrolet,277.0,325.0,engine,0.0
+1962,23,Charlotte,31.0,20.0,87.0,Buck Baker,Buck Baker,'62 Chrysler,259.0,825.0,oil pressure,0.0
+1962,23,Charlotte,32.0,32.0,2.0,Jim Paschal,Cliff Stewart,'62 Pontiac,227.0,600.0,fuel pump,0.0
+1962,23,Charlotte,33.0,33.0,91.0,Herb Tillman,Bob Osiecki,'62 Dodge,194.0,500.0,clutch,0.0
+1962,23,Charlotte,34.0,7.0,54.0,Jimmy Pardue,Jimmy Pardue,'62 Pontiac,190.0,1400.0,crash,119.0
+1962,23,Charlotte,35.0,16.0,86.0,Buddy Baker,Buck Baker,'62 Chrysler,176.0,300.0,oil pressure,0.0
+1962,23,Charlotte,36.0,29.0,68.0,Ed Livingston,Livingston's Auto Parts (Ed Livingston),'61 Ford,118.0,325.0,engine,0.0
+1962,23,Charlotte,37.0,23.0,92.0,Gerald Duke,Don Harrison,'62 Ford,96.0,300.0,engine,0.0
+1962,23,Charlotte,38.0,9.0,6.0,Junior Johnson,Cotton Owens,'62 Pontiac,72.0,500.0,clutch,0.0
+1962,23,Charlotte,39.0,40.0,93.0,Lee Reitzel,Lee Reitzel,'62 Ford,69.0,325.0,transmission,0.0
+1962,23,Charlotte,40.0,35.0,38.0,"John Dodd, Jr.",Matt DeMatthews,'61 Ford,68.0,375.0,engine,0.0
+1962,23,Charlotte,41.0,36.0,58.0,Paul Lewis,–,'61 Chevrolet,57.0,350.0,engine,0.0
+1962,23,Charlotte,42.0,44.0,60.0,Tom Cox,Ray Herlocker,'60 Plymouth,45.0,320.0,crankshaft,0.0
+1962,23,Charlotte,43.0,3.0,94.0,Banjo Matthews,Banjo Matthews,'62 Pontiac,13.0,350.0,crash,0.0
+1962,23,Charlotte,44.0,13.0,81.0,Roscoe Thompson,Jimmy Baker,'62 Mercury,12.0,325.0,engine,0.0
+1962,23,Charlotte,45.0,30.0,16.0,Ralph Earnhardt,Happy Steigel,'61 Pontiac,11.0,300.0,crash,0.0
+1962,23,Charlotte,46.0,48.0,80.0,Tubby Gonzales,Tubby Gonzales,'61 Ford,6.0,300.0,vibration,0.0
+1962,23,Charlotte,47.0,43.0,96.0,Johnny Sudderth,–,'61 Chevrolet,5.0,320.0,engine,0.0
+1962,23,Charlotte,48.0,45.0,50.0,Bobby Waddell,Bobby Waddell,'60 Dodge,2.0,320.0,freeze pl,0.0
+1962,24,Atlanta,1.0,7.0,28.0,Fred Lorenzen,LaFayette (Holman-Moody Racing),'62 Ford,219.0,15555.0,running,51.0
+1962,24,Atlanta,2.0,1.0,2.0,Banjo Matthews,Stephens Pontiac (Banjo Matthews),'62 Pontiac,219.0,9490.0,running,73.0
+1962,24,Atlanta,3.0,4.0,72.0,Bobby Johns,Vince Whibbs Pontiac Co. (Shorty Johns),'62 Pontiac,218.0,5220.0,running,32.0
+1962,24,Atlanta,4.0,14.0,22.0,Fireball Roberts,Banjo Matthews,'62 Pontiac,218.0,2525.0,running,0.0
+1962,24,Atlanta,5.0,22.0,98.0,Troy Ruttman,Bill Stroppe,'62 Mercury,218.0,1750.0,running,0.0
+1962,24,Atlanta,6.0,19.0,1.0,Paul Goldsmith,Packer Pontiac (Ray Nichels),'62 Pontiac,218.0,1375.0,running,0.0
+1962,24,Atlanta,7.0,3.0,3.0,David Pearson,Ray Fox,'62 Pontiac,217.0,1420.0,running,14.0
+1962,24,Atlanta,8.0,10.0,21.0,Marvin Panch,Hull-Dobbs Ford (Wood Brothers),'62 Ford,217.0,1250.0,running,0.0
+1962,24,Atlanta,9.0,11.0,6.0,Junior Johnson,Hine Pontiac (Cotton Owens),'62 Pontiac,216.0,1025.0,running,0.0
+1962,24,Atlanta,10.0,30.0,2.0,Jim Paschal,Cliff Stewart,'62 Pontiac,214.0,900.0,running,0.0
+1962,24,Atlanta,11.0,25.0,86.0,Buddy Baker,Buck Baker,'62 Chrysler,213.0,800.0,running,0.0
+1962,24,Atlanta,12.0,12.0,12.0,Bob Welborn,B.G. Holloway,'62 Pontiac,213.0,750.0,running,0.0
+1962,24,Atlanta,13.0,16.0,47.0,Jack Smith,Jack Smith,'62 Pontiac,213.0,625.0,running,0.0
+1962,24,Atlanta,14.0,18.0,81.0,Roscoe Thompson,Jimmy Baker,'62 Mercury,212.0,500.0,running,0.0
+1962,24,Atlanta,15.0,21.0,30.0,Tiny Lund,Fred Clark,'62 Chevrolet,212.0,400.0,running,8.0
+1962,24,Atlanta,16.0,15.0,20.0,Emanuel Zervakis,Emanuel Zervakis,'62 Mercury,212.0,350.0,running,5.0
+1962,24,Atlanta,17.0,35.0,97.0,LeeRoy Yarbrough,Lewis Osborne,'62 Chevrolet,211.0,300.0,running,0.0
+1962,24,Atlanta,18.0,9.0,8.0,Joe Weatherly,Gillman Pontiac (Bud Moore),'62 Pontiac,210.0,375.0,running,36.0
+1962,24,Atlanta,19.0,39.0,36.0,Larry Thomas,Wade Younts,'62 Dodge,210.0,300.0,running,0.0
+1962,24,Atlanta,20.0,24.0,87.0,Buck Baker,Buck Baker,'62 Chrysler,209.0,300.0,running,0.0
+1962,24,Atlanta,21.0,2.0,4.0,Rex White,Inalley Chevrolet (Rex White),'62 Chevrolet,207.0,325.0,running,0.0
+1962,24,Atlanta,22.0,34.0,61.0,Bill Morton,Bill Morton,'62 Ford,207.0,250.0,running,0.0
+1962,24,Atlanta,23.0,27.0,43.0,Richard Petty,Petty Enterprises,'62 Plymouth,207.0,250.0,running,0.0
+1962,24,Atlanta,24.0,31.0,80.0,Tubby Gonzales,Clint Brannen Ford (Tubby Gonzales),'61 Ford,206.0,250.0,running,0.0
+1962,24,Atlanta,25.0,20.0,54.0,Jimmy Pardue,Bush Olds-Pontiac (Jimmy Pardue),'62 Pontiac,205.0,250.0,running,0.0
+1962,24,Atlanta,26.0,32.0,79.0,G.C. Spencer,Ralph Smith,'62 Chevrolet,204.0,250.0,running,0.0
+1962,24,Atlanta,27.0,38.0,49.0,Friday Hassler,J.C. Parker,'62 Pontiac,202.0,250.0,running,0.0
+1962,24,Atlanta,28.0,40.0,62.0,Curtis Crider,Curtis Crider,'62 Mercury,202.0,250.0,running,0.0
+1962,24,Atlanta,29.0,26.0,19.0,Herman Beam,Herman Beam,'61 Ford,199.0,250.0,running,0.0
+1962,24,Atlanta,30.0,6.0,66.0,Larry Frank,Cafe Burgundy (Ratus Walters),'62 Ford,199.0,525.0,running,0.0
+1962,24,Atlanta,31.0,43.0,1.0,George Green,Jess Potter,'61 Chevrolet,199.0,225.0,running,0.0
+1962,24,Atlanta,32.0,33.0,90.0,Darel Dieringer,Bob Osiecki,'62 Dodge,183.0,225.0,rear end,0.0
+1962,24,Atlanta,33.0,41.0,68.0,Ed Livingston,Livingston's Auto Parts (Ed Livingston),'61 Ford,181.0,225.0,engine,0.0
+1962,24,Atlanta,34.0,42.0,63.0,George Alsobrook,Ratus Walters,'61 Ford,156.0,225.0,head gasket,0.0
+1962,24,Atlanta,35.0,45.0,32.0,Jim Locke,–,'61 Ford,140.0,225.0,running,0.0
+1962,24,Atlanta,36.0,28.0,16.0,Ralph Earnhardt,Happy Steigel,'62 Pontiac,132.0,225.0,transmission,0.0
+1962,24,Atlanta,37.0,17.0,46.0,Johnny Allen,Holly Farms (Fred Lovette),'62 Pontiac,130.0,250.0,transmission,0.0
+1962,24,Atlanta,38.0,44.0,60.0,Tom Cox,Alabama Trucking Co. (Ray Herlocker),'60 Plymouth,130.0,200.0,axle,0.0
+1962,24,Atlanta,39.0,13.0,11.0,Ned Jarrett,B.G. Holloway,'62 Chevrolet,114.0,475.0,engine,0.0
+1962,24,Atlanta,40.0,23.0,92.0,Cale Yarborough,Julian Buesink,'62 Ford,89.0,200.0,engine,0.0
+1962,24,Atlanta,41.0,5.0,7.0,Cotton Owens,Al Dyke Pontiac (Cotton Owens),'62 Pontiac,81.0,425.0,transmission,0.0
+1962,24,Atlanta,42.0,36.0,18.0,Stick Elliott,Toy Bolton,'61 Pontiac,66.0,200.0,engine,0.0
+1962,24,Atlanta,43.0,29.0,9.0,Bunkie Blackburn,High Point Ford (Wildcat Williams),'62 Ford,23.0,200.0,crash,0.0
+1962,24,Atlanta,44.0,37.0,10.0,T.C. Hunt,Jack Reid & Associates (Fred Wheat),'61 Dodge,6.0,200.0,engine,0.0
+1962,24,Atlanta,45.0,8.0,29.0,Nelson Stacy,Ron's Ford Sales (Holman-Moody Racing),'62 Ford,2.0,250.0,tie rod,0.0
+1962,24,Atlanta,46.0,46.0,50.0,A.F. Nichols,–,'60 Plymouth,1.0,200.0,oil pressure,0.0
+1962,25,Winston-Salem,1.0,2.0,58.0,Johnny Allen,Fred Lovette,'61 Pontiac,200.0,580.0,running,178.0
+1962,25,Winston-Salem,2.0,1.0,4.0,Rex White,Louis Clements (Rex White),'62 Chevrolet,200.0,500.0,running,22.0
+1962,25,Winston-Salem,3.0,4.0,43.0,Richard Petty,Petty Enterprises,'62 Plymouth,196.0,375.0,running,0.0
+1962,25,Winston-Salem,4.0,9.0,36.0,Larry Thomas,Wade Younts,'62 Dodge,195.0,305.0,running,0.0
+1962,25,Winston-Salem,5.0,12.0,8.0,Joe Weatherly,Bud Moore,'61 Pontiac,194.0,275.0,running,0.0
+1962,25,Winston-Salem,6.0,10.0,34.0,Wendell Scott,Wendell Scott,'61 Chevrolet,193.0,215.0,running,0.0
+1962,25,Winston-Salem,7.0,17.0,17.0,Fred Harb,Fred Harb,'61 Ford,192.0,195.0,running,0.0
+1962,25,Winston-Salem,8.0,3.0,54.0,Jimmy Pardue,Jimmy Pardue,'62 Pontiac,190.0,160.0,running,0.0
+1962,25,Winston-Salem,9.0,13.0,97.0,Harry Leake,Lewis Osborne,'60 Chevrolet,189.0,150.0,running,0.0
+1962,25,Winston-Salem,10.0,5.0,47.0,Jack Smith,Jack Smith,'61 Pontiac,189.0,155.0,running,0.0
+1962,25,Winston-Salem,11.0,6.0,11.0,Ned Jarrett,B.G. Holloway,'62 Chevrolet,188.0,350.0,running,0.0
+1962,25,Winston-Salem,12.0,19.0,62.0,Curtis Crider,Curtis Crider,'60 Ford,182.0,120.0,running,0.0
+1962,25,Winston-Salem,13.0,15.0,19.0,Herman Beam,Herman Beam,'60 Ford,179.0,110.0,running,0.0
+1962,25,Winston-Salem,14.0,11.0,48.0,G.C. Spencer,G.C. Spencer,'60 Chevrolet,172.0,125.0,transmission,0.0
+1962,25,Winston-Salem,15.0,8.0,2.0,Jim Paschal,Cliff Stewart,'62 Pontiac,153.0,90.0,rear end,0.0
+1962,25,Winston-Salem,16.0,14.0,1.0,George Green,Jess Potter,'60 Chevrolet,145.0,75.0,a frame,0.0
+1962,25,Winston-Salem,17.0,18.0,18.0,Stick Elliott,Toy Bolton,'60 Ford,122.0,75.0,wheel bearing,0.0
+1962,25,Winston-Salem,18.0,7.0,87.0,Buck Baker,Buck Baker,'61 Chrysler,112.0,80.0,tires,0.0
+1962,25,Winston-Salem,19.0,16.0,60.0,Tom Cox,Ray Herlocker,'60 Plymouth,51.0,50.0,brakes,0.0
+1962,26,Augusta,1.0,1.0,8.0,Joe Weatherly,Bud Moore,'61 Pontiac,200.0,1000.0,running,–
+1962,26,Augusta,2.0,8.0,11.0,Ned Jarrett,B.G. Holloway,'62 Chevrolet,199.0,800.0,running,–
+1962,26,Augusta,3.0,5.0,43.0,Richard Petty,Petty Enterprises,'62 Plymouth,198.0,400.0,running,–
+1962,26,Augusta,4.0,6.0,2.0,Jim Paschal,Cliff Stewart,'62 Pontiac,193.0,300.0,running,–
+1962,26,Augusta,5.0,11.0,48.0,G.C. Spencer,G.C. Spencer,'60 Chevrolet,193.0,275.0,running,–
+1962,26,Augusta,6.0,15.0,86.0,Buddy Baker,Buck Baker,'61 Chrysler,193.0,240.0,running,–
+1962,26,Augusta,7.0,13.0,62.0,Curtis Crider,Curtis Crider,'62 Mercury,180.0,200.0,running,–
+1962,26,Augusta,8.0,9.0,60.0,Tom Cox,Ray Herlocker,'60 Plymouth,177.0,175.0,running,–
+1962,26,Augusta,9.0,7.0,34.0,Wendell Scott,Wendell Scott,'61 Chevrolet,177.0,150.0,running,–
+1962,26,Augusta,10.0,16.0,19.0,Herman Beam,Herman Beam,'60 Ford,175.0,140.0,running,–
+1962,26,Augusta,11.0,10.0,1.0,George Green,Jess Potter,'61 Chevrolet,166.0,130.0,running,–
+1962,26,Augusta,12.0,2.0,47.0,Jack Smith,Jack Smith,'62 Pontiac,143.0,120.0,a frame,–
+1962,26,Augusta,13.0,3.0,97.0,LeeRoy Yarbrough,Lewis Osborne,'62 Chevrolet,136.0,110.0,electrical,–
+1962,26,Augusta,14.0,4.0,87.0,Buck Baker,Buck Baker,'62 Chrysler,100.0,100.0,brakes,–
+1962,26,Augusta,15.0,14.0,6.0,Weldon Adams,–,'60 Ford,90.0,85.0,axle,–
+1962,26,Augusta,16.0,12.0,18.0,Stick Elliott,Toy Bolton,'60 Ford,79.0,75.0,head gasket,–
+1962,27,Richmond,1.0,3.0,2.0,Jim Paschal,Cliff Stewart,'62 Pontiac,300.0,1010.0,running,9.0
+1962,27,Richmond,2.0,1.0,4.0,Rex White,Louis Clements (Rex White),'62 Chevrolet,299.0,650.0,running,276.0
+1962,27,Richmond,3.0,6.0,54.0,Jimmy Pardue,Jimmy Pardue,'62 Pontiac,298.0,400.0,running,15.0
+1962,27,Richmond,4.0,9.0,58.0,Johnny Allen,Fred Lovette,'61 Pontiac,297.0,300.0,running,0.0
+1962,27,Richmond,5.0,4.0,77.0,Jim Reed,Ratus Walters,'62 Pontiac,296.0,290.0,running,0.0
+1962,27,Richmond,6.0,7.0,11.0,Ned Jarrett,B.G. Holloway,'62 Chevrolet,294.0,440.0,running,0.0
+1962,27,Richmond,7.0,11.0,8.0,Joe Weatherly,Bud Moore,'61 Pontiac,294.0,200.0,running,0.0
+1962,27,Richmond,8.0,5.0,47.0,Jack Smith,Jack Smith,'61 Pontiac,290.0,175.0,running,0.0
+1962,27,Richmond,9.0,8.0,27.0,Tommy Irwin,Melvin Bradley,'62 Chevrolet,288.0,150.0,running,0.0
+1962,27,Richmond,10.0,23.0,87.0,Buck Baker,Buck Baker,'62 Chrysler,284.0,140.0,running,0.0
+1962,27,Richmond,11.0,24.0,48.0,G.C. Spencer,G.C. Spencer,'60 Chevrolet,278.0,130.0,running,0.0
+1962,27,Richmond,12.0,16.0,60.0,Tom Cox,Ray Herlocker,'60 Plymouth,278.0,120.0,running,0.0
+1962,27,Richmond,13.0,17.0,224.0,Bob Devine,Walt Shutt,'61 Chevrolet,276.0,110.0,running,0.0
+1962,27,Richmond,14.0,20.0,34.0,Wendell Scott,Wendell Scott,'61 Chevrolet,275.0,100.0,running,0.0
+1962,27,Richmond,15.0,25.0,1.0,George Green,Jess Potter,'61 Chevrolet,272.0,85.0,running,0.0
+1962,27,Richmond,16.0,19.0,19.0,Herman Beam,Herman Beam,'60 Ford,267.0,75.0,running,0.0
+1962,27,Richmond,17.0,21.0,112.0,Ronnie Fones,–,'60 Chevrolet,264.0,65.0,running,0.0
+1962,27,Richmond,18.0,18.0,62.0,Curtis Crider,Curtis Crider,'60 Ford,262.0,60.0,running,0.0
+1962,27,Richmond,19.0,2.0,43.0,Richard Petty,Petty Enterprises,'62 Plymouth,111.0,75.0,rear end,0.0
+1962,27,Richmond,20.0,12.0,17.0,Fred Harb,Fred Harb,'61 Ford,89.0,50.0,overheating,0.0
+1962,27,Richmond,21.0,15.0,57.0,Jack Deniston,–,'62 Chevrolet,81.0,50.0,frame,0.0
+1962,27,Richmond,22.0,22.0,76.0,Neil Castles,Neil Castles,'60 Ford,76.0,50.0,running,0.0
+1962,27,Richmond,23.0,10.0,20.0,Emanuel Zervakis,Emanuel Zervakis,'62 Mercury,74.0,,rear end,0.0
+1962,27,Richmond,24.0,13.0,36.0,Larry Thomas,Wade Younts,'62 Dodge,41.0,,crash,0.0
+1962,27,Richmond,25.0,14.0,86.0,Buddy Baker,Buck Baker,'61 Chrysler,41.0,,crash,0.0
+1962,28,South Boston,1.0,2.0,4.0,Rex White,Louis Clements (Rex White),'62 Chevrolet,267.0,1000.0,running,115.0
+1962,28,South Boston,2.0,1.0,47.0,Jack Smith,Jack Smith,'61 Pontiac,267.0,600.0,running,152.0
+1962,28,South Boston,3.0,5.0,43.0,Richard Petty,Petty Enterprises,'62 Plymouth,267.0,400.0,running,0.0
+1962,28,South Boston,4.0,9.0,58.0,Johnny Allen,Fred Lovette,'61 Pontiac,265.0,300.0,running,0.0
+1962,28,South Boston,5.0,12.0,36.0,Larry Thomas,Wade Younts,'62 Dodge,262.0,275.0,running,0.0
+1962,28,South Boston,6.0,4.0,11.0,Ned Jarrett,B.G. Holloway,'62 Chevrolet,262.0,440.0,running,0.0
+1962,28,South Boston,7.0,10.0,8.0,Joe Weatherly,Bud Moore,'61 Pontiac,260.0,200.0,running,0.0
+1962,28,South Boston,8.0,7.0,27.0,Tommy Irwin,Holly Farms (Melvin Bradley),'62 Chevrolet,256.0,175.0,running,0.0
+1962,28,South Boston,9.0,6.0,87.0,Buck Baker,Buck Baker,'62 Chrysler,253.0,150.0,running,0.0
+1962,28,South Boston,10.0,16.0,34.0,Wendell Scott,Wendell Scott,'62 Chevrolet,249.0,140.0,running,0.0
+1962,28,South Boston,11.0,17.0,19.0,Herman Beam,Herman Beam,'60 Ford,241.0,130.0,running,0.0
+1962,28,South Boston,12.0,18.0,62.0,Curtis Crider,Curtis Crider,'60 Ford,241.0,120.0,running,0.0
+1962,28,South Boston,13.0,13.0,60.0,Tom Cox,Ray Herlocker,'60 Plymouth,240.0,110.0,running,0.0
+1962,28,South Boston,14.0,23.0,83.0,Worth McMillion,Worth McMillion,'62 Pontiac,236.0,100.0,running,0.0
+1962,28,South Boston,15.0,22.0,86.0,Buddy Baker,Buck Baker,'61 Chrysler,223.0,85.0,running,0.0
+1962,28,South Boston,16.0,3.0,54.0,Jimmy Pardue,Jimmy Pardue,'62 Pontiac,222.0,75.0,running,0.0
+1962,28,South Boston,17.0,8.0,77.0,Jim Reed,Ratus Walters,'62 Ford,210.0,65.0,crash,0.0
+1962,28,South Boston,18.0,19.0,1.0,George Green,Jess Potter,'61 Chevrolet,201.0,60.0,running,0.0
+1962,28,South Boston,19.0,15.0,48.0,G.C. Spencer,G.C. Spencer,'60 Chevrolet,146.0,50.0,rear end,0.0
+1962,28,South Boston,20.0,21.0,2.0,Jim Paschal,Cliff Stewart,'62 Pontiac,77.0,50.0,engine,0.0
+1962,28,South Boston,21.0,11.0,20.0,Emanuel Zervakis,Emanuel Zervakis,'62 Mercury,53.0,50.0,transmission,0.0
+1962,28,South Boston,22.0,20.0,76.0,Neil Castles,Neil Castles,'60 Ford,14.0,50.0,oil pressure,0.0
+1962,28,South Boston,23.0,14.0,17.0,Fred Harb,Fred Harb,'61 Ford,8.0,,clutch,0.0
+1962,28,South Boston,24.0,24.0,3.0,Earl Brooks,Wendell Scott,'60 Chevrolet,3.0,,flagged,0.0
+1962,29,Daytona,1.0,4.0,22.0,Fireball Roberts,Stephens Pontiac (Banjo Matthews),'62 Pontiac,100.0,9850.0,running,22.0
+1962,29,Daytona,2.0,7.0,6.0,Junior Johnson,Cotton Owens,'62 Pontiac,100.0,5450.0,running,0.0
+1962,29,Daytona,3.0,10.0,21.0,Marvin Panch,Wood Brothers,'62 Ford,98.0,3400.0,running,0.0
+1962,29,Daytona,4.0,8.0,47.0,Jack Smith,Jack Smith,'62 Pontiac,98.0,1675.0,running,0.0
+1962,29,Daytona,5.0,12.0,54.0,Jimmy Pardue,Jimmy Pardue,'62 Pontiac,97.0,1225.0,running,0.0
+1962,29,Daytona,6.0,16.0,66.0,Larry Frank,Ratus Walters,'62 Ford,96.0,900.0,running,0.0
+1962,29,Daytona,7.0,23.0,11.0,Ned Jarrett,B.G. Holloway,'62 Chevrolet,96.0,775.0,running,0.0
+1962,29,Daytona,8.0,5.0,3.0,David Pearson,Ray Fox,'62 Pontiac,96.0,1075.0,running,0.0
+1962,29,Daytona,9.0,19.0,36.0,Larry Thomas,Wade Younts,'62 Dodge,95.0,650.0,running,0.0
+1962,29,Daytona,10.0,13.0,41.0,Art Malone,Jack Smith,'62 Pontiac,95.0,600.0,running,0.0
+1962,29,Daytona,11.0,21.0,4.0,Rex White,Louis Clements (Rex White),'62 Chevrolet,93.0,450.0,running,0.0
+1962,29,Daytona,12.0,26.0,87.0,Buck Baker,Buck Baker,'62 Chrysler,92.0,350.0,running,0.0
+1962,29,Daytona,13.0,27.0,19.0,Herman Beam,Herman Beam,'62 Ford,89.0,320.0,running,0.0
+1962,29,Daytona,14.0,29.0,60.0,Tom Cox,Ray Herlocker,'60 Plymouth,89.0,300.0,running,0.0
+1962,29,Daytona,15.0,33.0,1.0,George Green,Jess Potter,'61 Chevrolet,89.0,220.0,running,0.0
+1962,29,Daytona,16.0,32.0,62.0,Curtis Crider,Curtis Crider,'62 Mercury,88.0,200.0,running,0.0
+1962,29,Daytona,17.0,18.0,16.0,Ralph Earnhardt,Happy Steigel,'62 Chevrolet,85.0,275.0,running,0.0
+1962,29,Daytona,18.0,25.0,86.0,Buddy Baker,Buck Baker,'62 Chrysler,84.0,250.0,running,0.0
+1962,29,Daytona,19.0,2.0,72.0,Bobby Johns,Vince Whibbs Pontiac Co. (Shorty Johns),'62 Pontiac,82.0,275.0,transmission,17.0
+1962,29,Daytona,20.0,28.0,90.0,Darel Dieringer,Bob Osiecki,'62 Dodge,76.0,250.0,engine,0.0
+1962,29,Daytona,21.0,1.0,2.0,Banjo Matthews,Banjo Matthews,'62 Pontiac,73.0,400.0,engine,61.0
+1962,29,Daytona,22.0,22.0,81.0,Roscoe Thompson,Jimmy Baker,'62 Mercury,42.0,250.0,engine,0.0
+1962,29,Daytona,23.0,6.0,8.0,Joe Weatherly,Gillman Pontiac (Bud Moore),'62 Pontiac,34.0,600.0,crash,0.0
+1962,29,Daytona,24.0,9.0,28.0,Fred Lorenzen,LaFayette (Holman-Moody Racing),'62 Ford,34.0,400.0,crash,0.0
+1962,29,Daytona,25.0,14.0,39.0,LeeRoy Yarbrough,Ray Nichels,'61 Pontiac,34.0,300.0,crash,0.0
+1962,29,Daytona,26.0,15.0,29.0,Nelson Stacy,Holman-Moody Racing,'62 Ford,32.0,250.0,crash,0.0
+1962,29,Daytona,27.0,3.0,46.0,Johnny Allen,Holly Farms (Fred Lovette),'62 Pontiac,24.0,600.0,transmission,0.0
+1962,29,Daytona,28.0,31.0,80.0,Tubby Gonzales,Tubby Gonzales,'62 Ford,20.0,200.0,oil pressure,0.0
+1962,29,Daytona,29.0,24.0,38.0,"John Dodd, Jr.",Matt DeMatthews,'60 Ford,10.0,250.0,engine,0.0
+1962,29,Daytona,30.0,11.0,43.0,Richard Petty,Petty Enterprises,'62 Plymouth,6.0,275.0,crash,0.0
+1962,29,Daytona,31.0,20.0,97.0,Tom Pistone,Lewis Osborne,'62 Chevrolet,2.0,250.0,crash,0.0
+1962,29,Daytona,32.0,30.0,27.0,Tommy Irwin,Melvin Bradley,'62 Chevrolet,1.0,200.0,oil pressure,0.0
+1962,29,Daytona,33.0,17.0,12.0,Bob Welborn,Cliff Stewart,'62 Pontiac,1.0,275.0,lug bolts,0.0
+1962,30,Columbia,1.0,4.0,4.0,Rex White,Louis Clements (Rex White),'62 Chevrolet,200.0,1000.0,running,–
+1962,30,Columbia,2.0,3.0,8.0,Joe Weatherly,Bud Moore,'61 Pontiac,200.0,600.0,running,–
+1962,30,Columbia,3.0,1.0,47.0,Jack Smith,Jack Smith,'61 Pontiac,199.0,400.0,running,–
+1962,30,Columbia,4.0,9.0,6.0,Cotton Owens,Cotton Owens,'62 Pontiac,199.0,300.0,running,–
+1962,30,Columbia,5.0,5.0,11.0,Ned Jarrett,B.G. Holloway,'62 Chevrolet,199.0,475.0,running,–
+1962,30,Columbia,6.0,11.0,27.0,Tommy Irwin,Holly Farms (Melvin Bradley),'62 Chevrolet,198.0,240.0,running,–
+1962,30,Columbia,7.0,6.0,60.0,Tom Cox,Ray Herlocker,'60 Plymouth,197.0,200.0,running,–
+1962,30,Columbia,8.0,12.0,61.0,Sherman Utsman,Sherman Utsman,'62 Ford,189.0,175.0,running,–
+1962,30,Columbia,9.0,10.0,34.0,Wendell Scott,Wendell Scott,'61 Chevrolet,186.0,150.0,tire,–
+1962,30,Columbia,10.0,19.0,1.0,George Green,Jess Potter,'61 Chevrolet,185.0,140.0,running,–
+1962,30,Columbia,11.0,13.0,19.0,Herman Beam,Herman Beam,'60 Ford,183.0,130.0,running,–
+1962,30,Columbia,12.0,15.0,18.0,Stick Elliott,Toy Bolton,'61 Pontiac,183.0,120.0,running,–
+1962,30,Columbia,13.0,17.0,62.0,Curtis Crider,Curtis Crider,'62 Mercury,182.0,110.0,running,–
+1962,30,Columbia,14.0,18.0,87.0,Buddy Baker,Buck Baker,'61 Chrysler,177.0,100.0,rear end,–
+1962,30,Columbia,15.0,20.0,48.0,Joe Penland,Floyd Powell,'60 Chevrolet,160.0,85.0,running,–
+1962,30,Columbia,16.0,7.0,2.0,Jim Paschal,Cliff Stewart,'62 Pontiac,104.0,75.0,radiator fan,–
+1962,30,Columbia,17.0,8.0,17.0,Fred Harb,Fred Harb,'61 Ford,95.0,65.0,head gasket,–
+1962,30,Columbia,18.0,16.0,76.0,Neil Castles,Neil Castles,'60 Ford,73.0,60.0,rear end,–
+1962,30,Columbia,19.0,14.0,36.0,Larry Thomas,Wade Younts,'62 Dodge,60.0,50.0,crash,–
+1962,30,Columbia,20.0,2.0,43.0,Richard Petty,Petty Enterprises,'62 Plymouth,20.0,50.0,engine,–
+1962,31,Asheville,1.0,3.0,47.0,Jack Smith,Jack Smith,'61 Pontiac,250.0,1000.0,running,132.0
+1962,31,Asheville,2.0,5.0,8.0,Joe Weatherly,Bud Moore,'61 Pontiac,249.0,600.0,running,0.0
+1962,31,Asheville,3.0,2.0,43.0,Richard Petty,Petty Enterprises,'62 Plymouth,248.0,400.0,running,0.0
+1962,31,Asheville,4.0,9.0,87.0,Buck Baker,Buck Baker,'62 Chrysler,244.0,300.0,running,0.0
+1962,31,Asheville,5.0,4.0,11.0,Ned Jarrett,B.G. Holloway,'62 Chevrolet,241.0,475.0,running,0.0
+1962,31,Asheville,6.0,10.0,61.0,Sherman Utsman,Sherman Utsman,'62 Ford,239.0,240.0,running,0.0
+1962,31,Asheville,7.0,13.0,60.0,Tom Cox,Ray Herlocker,'60 Plymouth,238.0,200.0,running,0.0
+1962,31,Asheville,8.0,14.0,1.0,George Green,Jess Potter,'60 Chevrolet,231.0,175.0,running,0.0
+1962,31,Asheville,9.0,17.0,34.0,Wendell Scott,Wendell Scott,'61 Chevrolet,221.0,150.0,running,0.0
+1962,31,Asheville,10.0,12.0,26.0,Earl Brooks,Earl Brooks,'60 Chevrolet,220.0,140.0,running,0.0
+1962,31,Asheville,11.0,6.0,54.0,Jimmy Pardue,Jimmy Pardue,'62 Pontiac,219.0,130.0,running,0.0
+1962,31,Asheville,12.0,16.0,62.0,Curtis Crider,Curtis Crider,'60 Ford,218.0,120.0,running,0.0
+1962,31,Asheville,13.0,19.0,18.0,Stick Elliott,Toy Bolton,'60 Ford,203.0,110.0,running,0.0
+1962,31,Asheville,14.0,18.0,19.0,Herman Beam,Herman Beam,'60 Ford,201.0,100.0,running,0.0
+1962,31,Asheville,15.0,7.0,49.0,Bob Welborn,J.C. Parker,'62 Pontiac,163.0,85.0,oil pressure,0.0
+1962,31,Asheville,16.0,8.0,41.0,Bunkie Blackburn,Petty Enterprises,'62 Plymouth,128.0,75.0,steering,0.0
+1962,31,Asheville,17.0,1.0,4.0,Rex White,Louis Clements (Rex White),'62 Chevrolet,118.0,65.0,shocks,118.0
+1962,31,Asheville,18.0,11.0,86.0,Buddy Baker,Buck Baker,'61 Chrysler,21.0,60.0,fuel pump,0.0
+1962,31,Asheville,19.0,15.0,36.0,Larry Thomas,Wade Younts,'62 Dodge,4.0,50.0,head gasket,0.0
+1962,32,Greenville,1.0,4.0,43.0,Richard Petty,Petty Enterprises,'62 Plymouth,200.0,1000.0,running,–
+1962,32,Greenville,2.0,2.0,47.0,Jack Smith,Jack Smith,'61 Pontiac,197.0,600.0,running,–
+1962,32,Greenville,3.0,11.0,34.0,Wendell Scott,Wendell Scott,'61 Chevrolet,194.0,400.0,running,–
+1962,32,Greenville,4.0,3.0,27.0,Tommy Irwin,Melvin Bradley,'62 Chevrolet,194.0,300.0,running,–
+1962,32,Greenville,5.0,1.0,4.0,Rex White,Louis Clements (Rex White),'62 Chevrolet,192.0,275.0,running,–
+1962,32,Greenville,6.0,14.0,62.0,Curtis Crider,Curtis Crider,'62 Mercury,190.0,240.0,running,–
+1962,32,Greenville,7.0,10.0,61.0,Sherman Utsman,Sherman Utsman,'62 Ford,186.0,200.0,running,–
+1962,32,Greenville,8.0,20.0,19.0,Herman Beam,Herman Beam,'60 Ford,185.0,175.0,running,–
+1962,32,Greenville,9.0,15.0,86.0,Buddy Baker,Buck Baker,'61 Chrysler,176.0,150.0,running,–
+1962,32,Greenville,10.0,12.0,60.0,Tom Cox,Ray Herlocker,'60 Plymouth,172.0,140.0,running,–
+1962,32,Greenville,11.0,16.0,118.0,Bob Cooper,Toy Bolton,'60 Ford,167.0,130.0,running,–
+1962,32,Greenville,12.0,17.0,18.0,Stick Elliott,Toy Bolton,'61 Pontiac,147.0,120.0,distributor,–
+1962,32,Greenville,13.0,13.0,48.0,Floyd Powell,Floyd Powell,'60 Chevrolet,142.0,110.0,brakes,–
+1962,32,Greenville,14.0,9.0,49.0,Bob Welborn,J.C. Parker,'62 Pontiac,124.0,100.0,running,–
+1962,32,Greenville,15.0,7.0,11.0,Ned Jarrett,B.G. Holloway,'62 Chevrolet,118.0,285.0,engine,–
+1962,32,Greenville,16.0,8.0,1.0,George Green,Jess Potter,'61 Chevrolet,104.0,75.0,running,–
+1962,32,Greenville,17.0,18.0,26.0,Earl Brooks,Earl Brooks,'60 Chevrolet,91.0,65.0,a frame,–
+1962,32,Greenville,18.0,6.0,87.0,Buck Baker,Buck Baker,'62 Chrysler,57.0,60.0,oil line,–
+1962,32,Greenville,19.0,5.0,8.0,Joe Weatherly,Bud Moore,'62 Pontiac,45.0,50.0,fuel pump,–
+1962,32,Greenville,20.0,21.0,6.0,Mark Hurley,–,'60 Ford,15.0,50.0,flagged,–
+1962,32,Greenville,21.0,19.0,36.0,Larry Thomas,Wade Younts,'62 Dodge,15.0,50.0,engine mount,–
+1962,33,Augusta,1.0,4.0,8.0,Joe Weatherly,Bud Moore,'61 Pontiac,200.0,1000.0,running,–
+1962,33,Augusta,2.0,3.0,43.0,Richard Petty,Petty Enterprises,'62 Plymouth,200.0,600.0,running,–
+1962,33,Augusta,3.0,7.0,87.0,Buck Baker,Buck Baker,'62 Chrysler,198.0,400.0,running,–
+1962,33,Augusta,4.0,13.0,86.0,Buddy Baker,Buck Baker,'61 Chrysler,196.0,300.0,running,–
+1962,33,Augusta,5.0,9.0,49.0,Bob Welborn,J.C. Parker,'62 Pontiac,195.0,275.0,running,–
+1962,33,Augusta,6.0,14.0,60.0,Tom Cox,Ray Herlocker,'60 Plymouth,194.0,240.0,running,–
+1962,33,Augusta,7.0,6.0,54.0,Jimmy Pardue,Jimmy Pardue,'62 Pontiac,192.0,200.0,running,–
+1962,33,Augusta,8.0,18.0,26.0,Earl Brooks,Earl Brooks,'60 Chevrolet,187.0,175.0,running,–
+1962,33,Augusta,9.0,11.0,27.0,Tommy Irwin,Melvin Bradley,'62 Chevrolet,182.0,150.0,axle,–
+1962,33,Augusta,10.0,17.0,62.0,Curtis Crider,Curtis Crider,'62 Mercury,180.0,140.0,running,–
+1962,33,Augusta,11.0,10.0,1.0,George Green,Jess Potter,'61 Chevrolet,180.0,130.0,running,–
+1962,33,Augusta,12.0,16.0,36.0,Larry Thomas,Wade Younts,'62 Dodge,177.0,120.0,running,–
+1962,33,Augusta,13.0,20.0,19.0,Herman Beam,Herman Beam,'60 Ford,176.0,110.0,running,–
+1962,33,Augusta,14.0,1.0,47.0,Jack Smith,Jack Smith,'61 Pontiac,160.0,100.0,piston,1
+1962,33,Augusta,15.0,5.0,11.0,Ned Jarrett,B.G. Holloway,'62 Chevrolet,152.0,285.0,lug bolts,–
+1962,33,Augusta,16.0,8.0,96.0,Tiny Lund,Lewis Osborne,'61 Chevrolet,124.0,75.0,engine,–
+1962,33,Augusta,17.0,15.0,61.0,H.G. Rosier,Curtis Crider,'61 Mercury,119.0,65.0,rear end,–
+1962,33,Augusta,18.0,2.0,77.0,Larry Frank,Ratus Walters,'62 Ford,108.0,60.0,wheel,–
+1962,33,Augusta,19.0,21.0,97.0,LeeRoy Yarbrough,Lewis Osborne,'62 Chevrolet,69.0,50.0,oil leak,–
+1962,33,Augusta,20.0,12.0,48.0,Joe Penland,Floyd Powell,'60 Chevrolet,64.0,50.0,ball joint,–
+1962,33,Augusta,21.0,19.0,18.0,Bob Cooper,Toy Bolton,'60 Ford,38.0,50.0,cylinder,–
+1962,33,Augusta,22.0,22.0,6.0,Rock Harn,–,'60 Ford,2.0,50.0,crash,–
+1962,34,Savannah,1.0,6.0,8.0,Joe Weatherly,Bud Moore,'61 Pontiac,200.0,1000.0,running,–
+1962,34,Savannah,2.0,7.0,27.0,Tommy Irwin,Melvin Bradley,'62 Chevrolet,200.0,600.0,running,–
+1962,34,Savannah,3.0,9.0,43.0,Richard Petty,Petty Enterprises,'62 Plymouth,200.0,400.0,running,–
+1962,34,Savannah,4.0,2.0,49.0,Bob Welborn,J.C. Parker,'62 Pontiac,199.0,300.0,running,–
+1962,34,Savannah,5.0,14.0,2.0,Jim Paschal,Cliff Stewart,'62 Pontiac,198.0,275.0,running,–
+1962,34,Savannah,6.0,3.0,11.0,Ned Jarrett,B.G. Holloway,'62 Chevrolet,193.0,340.0,running,–
+1962,34,Savannah,7.0,15.0,60.0,Tom Cox,Ray Herlocker,'60 Plymouth,193.0,200.0,running,–
+1962,34,Savannah,8.0,1.0,34.0,Wendell Scott,Wendell Scott,'61 Chevrolet,188.0,175.0,running,–
+1962,34,Savannah,9.0,11.0,62.0,Curtis Crider,Curtis Crider,'62 Mercury,187.0,150.0,running,–
+1962,34,Savannah,10.0,19.0,19.0,Herman Beam,Herman Beam,'60 Ford,183.0,140.0,running,–
+1962,34,Savannah,11.0,12.0,1.0,George Green,Jess Potter,'61 Chevrolet,177.0,130.0,running,–
+1962,34,Savannah,12.0,21.0,79.0,Harry Leake,Ralph Smith,'60 Chevrolet,176.0,120.0,running,–
+1962,34,Savannah,13.0,16.0,96.0,Tiny Lund,Paul Lewis,'60 Chevrolet,170.0,110.0,rear end,–
+1962,34,Savannah,14.0,18.0,36.0,Larry Thomas,Wade Younts,'62 Dodge,169.0,100.0,running,–
+1962,34,Savannah,15.0,17.0,61.0,Frank Brantley,Curtis Crider,'61 Mercury,164.0,85.0,running,–
+1962,34,Savannah,16.0,10.0,86.0,Buddy Baker,Buck Baker,'61 Chrysler,162.0,75.0,electrical,–
+1962,34,Savannah,17.0,20.0,26.0,Earl Brooks,Earl Brooks,'60 Chevrolet,160.0,65.0,running,–
+1962,34,Savannah,18.0,5.0,47.0,Jack Smith,Jack Smith,'61 Pontiac,115.0,50.0,housing,–
+1962,34,Savannah,19.0,13.0,87.0,Buck Baker,Buck Baker,'62 Chrysler,107.0,50.0,engine,–
+1962,34,Savannah,20.0,8.0,97.0,LeeRoy Yarbrough,Lewis Osborne,'62 Chevrolet,21.0,50.0,overheating,–
+1962,34,Savannah,21.0,4.0,77.0,Larry Frank,Ratus Walters,'62 Ford,17.0,50.0,overheating,–
+1962,35,Myrtle Beach,1.0,1.0,11.0,Ned Jarrett,Royal Beach Motel / Don Gulley Chevrolet (B.G. Holloway),'62 Chevrolet,200.0,1000.0,running,191.0
+1962,35,Myrtle Beach,2.0,4.0,8.0,Joe Weatherly,Bud Moore,'60 Pontiac,199.0,600.0,running,0.0
+1962,35,Myrtle Beach,3.0,11.0,47.0,Jack Smith,Jack Smith,'62 Pontiac,196.0,400.0,running,0.0
+1962,35,Myrtle Beach,4.0,19.0,86.0,Buddy Baker,Buck Baker,'61 Chrysler,195.0,300.0,running,0.0
+1962,35,Myrtle Beach,5.0,7.0,49.0,Bob Welborn,J.C. Parker,'62 Pontiac,190.0,275.0,running,0.0
+1962,35,Myrtle Beach,6.0,3.0,54.0,Jimmy Pardue,Jimmy Pardue,'62 Pontiac,188.0,240.0,running,0.0
+1962,35,Myrtle Beach,7.0,15.0,34.0,Wendell Scott,Wendell Scott,'61 Chevrolet,177.0,200.0,running,0.0
+1962,35,Myrtle Beach,8.0,17.0,19.0,Herman Beam,Herman Beam,'60 Ford,175.0,175.0,running,0.0
+1962,35,Myrtle Beach,9.0,18.0,26.0,Earl Brooks,Earl Brooks,'60 Chevrolet,173.0,150.0,running,0.0
+1962,35,Myrtle Beach,10.0,13.0,60.0,Tom Cox,Ray Herlocker,'60 Plymouth,170.0,140.0,running,0.0
+1962,35,Myrtle Beach,11.0,16.0,79.0,Harry Leake,Ralph Smith,'60 Chevrolet,170.0,130.0,running,0.0
+1962,35,Myrtle Beach,12.0,9.0,62.0,Curtis Crider,Curtis Crider,'62 Mercury,169.0,120.0,vapor lock,0.0
+1962,35,Myrtle Beach,13.0,6.0,2.0,Jim Paschal,Cliff Stewart,'62 Pontiac,163.0,110.0,engine,9.0
+1962,35,Myrtle Beach,14.0,12.0,48.0,Joe Penland,Floyd Powell,'60 Chevrolet,155.0,100.0,running,0.0
+1962,35,Myrtle Beach,15.0,14.0,36.0,Larry Thomas,Wade Younts,'62 Dodge,148.0,85.0,battery,0.0
+1962,35,Myrtle Beach,16.0,5.0,43.0,Richard Petty,Petty Enterprises,'62 Plymouth,130.0,75.0,idler arm,0.0
+1962,35,Myrtle Beach,17.0,8.0,1.0,George Green,Jess Potter,'61 Chevrolet,89.0,65.0,frame,0.0
+1962,35,Myrtle Beach,18.0,2.0,27.0,Tommy Irwin,Melvin Bradley,'62 Chevrolet,27.0,60.0,engine,0.0
+1962,35,Myrtle Beach,19.0,10.0,17.0,Fred Harb,Fred Harb,'61 Ford,13.0,50.0,overheating,0.0
+1962,36,Bristol,1.0,12.0,42.0,Jim Paschal,Petty Enterprises,'62 Plymouth,500.0,3930.0,running,77.0
+1962,36,Bristol,2.0,4.0,28.0,Fred Lorenzen,LaFayette Ford (Holman-Moody Racing),'62 Ford,500.0,2370.0,running,121.0
+1962,36,Bristol,3.0,16.0,43.0,Richard Petty,Petty Enterprises,'62 Plymouth,500.0,1540.0,running,47.0
+1962,36,Bristol,4.0,14.0,46.0,Johnny Allen,Holly Farms (Fred Lovette),'62 Pontiac,498.0,1270.0,running,60.0
+1962,36,Bristol,5.0,8.0,29.0,Nelson Stacy,Holman-Moody Racing,'62 Ford,498.0,875.0,running,0.0
+1962,36,Bristol,6.0,13.0,8.0,Joe Weatherly,Gillman Pontiac (Bud Moore),'62 Pontiac,498.0,900.0,running,0.0
+1962,36,Bristol,7.0,11.0,4.0,Rex White,Louis Clements (Rex White),'62 Chevrolet,494.0,650.0,running,0.0
+1962,36,Bristol,8.0,21.0,41.0,Bunkie Blackburn,Petty Enterprises,'62 Plymouth,491.0,550.0,running,0.0
+1962,36,Bristol,9.0,19.0,11.0,Ned Jarrett,B.G. Holloway,'62 Chevrolet,491.0,675.0,running,0.0
+1962,36,Bristol,10.0,6.0,54.0,Jimmy Pardue,Jimmy Pardue,'62 Pontiac,491.0,450.0,running,0.0
+1962,36,Bristol,11.0,7.0,21.0,Marvin Panch,Wood Brothers,'62 Ford,489.0,375.0,running,0.0
+1962,36,Bristol,12.0,17.0,49.0,Bob Welborn,Frizell Pontiac (J.C. Parker),'62 Pontiac,486.0,275.0,running,0.0
+1962,36,Bristol,13.0,18.0,87.0,Buck Baker,Buck Baker,'62 Chrysler,486.0,350.0,running,0.0
+1962,36,Bristol,14.0,5.0,61.0,Sherman Utsman,Sherman Utsman,'62 Ford,483.0,275.0,running,0.0
+1962,36,Bristol,15.0,27.0,86.0,Buddy Baker,Buck Baker,'62 Chrysler,483.0,200.0,running,0.0
+1962,36,Bristol,16.0,34.0,36.0,Larry Thomas,Wade Younts,'62 Dodge,468.0,290.0,running,0.0
+1962,36,Bristol,17.0,26.0,1.0,George Green,Jess Potter,'61 Chevrolet,467.0,175.0,running,0.0
+1962,36,Bristol,18.0,31.0,2.0,Ken Rush,Cliff Stewart,'62 Pontiac,463.0,150.0,running,0.0
+1962,36,Bristol,19.0,33.0,34.0,Wendell Scott,Wendell Scott,'61 Chevrolet,454.0,150.0,running,0.0
+1962,36,Bristol,20.0,25.0,19.0,Herman Beam,Herman Beam,'62 Ford,453.0,150.0,running,0.0
+1962,36,Bristol,21.0,9.0,47.0,Jack Smith,Jack Smith,'62 Pontiac,444.0,175.0,running,0.0
+1962,36,Bristol,22.0,32.0,35.0,Ray Hendrick,Rebel Racing,'61 Pontiac,438.0,125.0,running,0.0
+1962,36,Bristol,23.0,40.0,63.0,John Hamby,Curtis Crider,'61 Mercury,435.0,125.0,running,0.0
+1962,36,Bristol,24.0,35.0,83.0,Worth McMillion,Worth McMillion,'62 Pontiac,432.0,125.0,running,0.0
+1962,36,Bristol,25.0,29.0,60.0,Tom Cox,Ray Herlocker,'60 Plymouth,430.0,125.0,hub,0.0
+1962,36,Bristol,26.0,44.0,79.0,Ralph Smith,Ralph Smith,'62 Chevrolet,392.0,125.0,rear end,0.0
+1962,36,Bristol,27.0,37.0,17.0,Fred Harb,Fred Harb,'61 Ford,385.0,125.0,axle,0.0
+1962,36,Bristol,28.0,3.0,72.0,Bobby Johns,Shorty Johns,'62 Pontiac,324.0,375.0,engine,0.0
+1962,36,Bristol,29.0,2.0,6.0,Junior Johnson,Cotton Owens,'62 Pontiac,283.0,370.0,crash,166.0
+1962,36,Bristol,30.0,10.0,20.0,Emanuel Zervakis,Emanuel Zervakis,'62 Mercury,258.0,225.0,engine,0.0
+1962,36,Bristol,31.0,20.0,27.0,Tommy Irwin,Melvin Bradley,'62 Chevrolet,247.0,100.0,rear end,0.0
+1962,36,Bristol,32.0,24.0,48.0,G.C. Spencer,G.C. Spencer,'62 Chevrolet,241.0,100.0,rear end,0.0
+1962,36,Bristol,33.0,39.0,93.0,Lee Reitzel,Lee Reitzel,'62 Ford,228.0,,rear end,0.0
+1962,36,Bristol,34.0,36.0,18.0,Stick Elliott,Toy Bolton,'61 Pontiac,225.0,,engine,0.0
+1962,36,Bristol,35.0,38.0,62.0,Curtis Crider,Curtis Crider,'62 Mercury,213.0,,rear end,0.0
+1962,36,Bristol,36.0,1.0,22.0,Fireball Roberts,Jim Stephens,'62 Pontiac,185.0,270.0,ignition,29.0
+1962,36,Bristol,37.0,22.0,3.0,David Pearson,Ray Fox,'62 Pontiac,135.0,,water pump,0.0
+1962,36,Bristol,38.0,28.0,64.0,Bill Morton,Bill Morton,'60 Chevrolet,133.0,,wheel bearing,0.0
+1962,36,Bristol,39.0,41.0,67.0,Reb Wickersham,Reb Wickersham,'60 Oldsmobile,133.0,,engine,0.0
+1962,36,Bristol,40.0,42.0,89.0,Earl Brooks,Wendell Scott,'60 Chevrolet,110.0,,rear end,0.0
+1962,36,Bristol,41.0,15.0,66.0,Larry Frank,Ratus Walters,'62 Ford,78.0,,brakes,0.0
+1962,36,Bristol,42.0,23.0,97.0,LeeRoy Yarbrough,Lewis Osborne,'62 Chevrolet,69.0,,rear end,0.0
+1962,36,Bristol,43.0,30.0,9.0,T.C. Hunt,Wildcat Williams,'62 Ford,63.0,,bearing,0.0
+1962,36,Bristol,44.0,43.0,65.0,Allan Harley,Allan Harley,'60 Dodge,5.0,,handling,0.0
+1962,37,Ringgold,1.0,5.0,8.0,Joe Weatherly,Bud Moore,'61 Pontiac,200.0,1000.0,running,19.0
+1962,37,Ringgold,2.0,3.0,22.0,Fireball Roberts,Jim Stephens,'62 Pontiac,200.0,600.0,running,0.0
+1962,37,Ringgold,3.0,9.0,2.0,Jim Paschal,Cliff Stewart,'62 Pontiac,197.0,400.0,running,0.0
+1962,37,Ringgold,4.0,1.0,42.0,Richard Petty,Petty Enterprises,'62 Plymouth,197.0,300.0,running,172.0
+1962,37,Ringgold,5.0,10.0,61.0,Sherman Utsman,Sherman Utsman,'62 Ford,196.0,275.0,running,0.0
+1962,37,Ringgold,6.0,6.0,48.0,G.C. Spencer,G.C. Spencer,'62 Chevrolet,195.0,240.0,running,0.0
+1962,37,Ringgold,7.0,21.0,149.0,Bob Welborn,J.C. Parker,'62 Pontiac,192.0,200.0,running,0.0
+1962,37,Ringgold,8.0,2.0,11.0,Ned Jarrett,B.G. Holloway,'62 Chevrolet,192.0,375.0,running,9.0
+1962,37,Ringgold,9.0,13.0,87.0,Buck Baker,Buck Baker,'62 Chrysler,192.0,150.0,running,0.0
+1962,37,Ringgold,10.0,4.0,47.0,Jack Smith,Jack Smith,'62 Pontiac,191.0,140.0,running,0.0
+1962,37,Ringgold,11.0,17.0,86.0,Buddy Baker,Buck Baker,'61 Chrysler,189.0,130.0,running,0.0
+1962,37,Ringgold,12.0,15.0,34.0,Wendell Scott,Wendell Scott,'61 Chevrolet,188.0,120.0,running,0.0
+1962,37,Ringgold,13.0,12.0,79.0,Harold Fryar,Ralph Smith,'62 Chevrolet,187.0,110.0,running,0.0
+1962,37,Ringgold,14.0,14.0,62.0,Curtis Crider,Curtis Crider,'62 Mercury,186.0,100.0,running,0.0
+1962,37,Ringgold,15.0,16.0,1.0,George Green,Jess Potter,'61 Chevrolet,184.0,85.0,running,0.0
+1962,37,Ringgold,16.0,18.0,19.0,Herman Beam,Herman Beam,'62 Ford,172.0,75.0,running,0.0
+1962,37,Ringgold,17.0,7.0,3.0,Junior Johnson,Ray Fox,'62 Pontiac,123.0,65.0,overheating,0.0
+1962,37,Ringgold,18.0,19.0,63.0,Jerry Smith,Curtis Crider,'61 Mercury,109.0,60.0,lug bolts,0.0
+1962,37,Ringgold,19.0,11.0,9.0,T.C. Hunt,Wildcat Williams,'62 Ford,94.0,50.0,rear end,0.0
+1962,37,Ringgold,20.0,8.0,49.0,Friday Hassler,J.C. Parker,'61 Pontiac,55.0,50.0,rear end,0.0
+1962,37,Ringgold,21.0,20.0,39.0,Nero Steptoe,Red Sharp's Garage (Red Sharp),'60 Chevrolet,36.0,50.0,wheel bearing,0.0
+1962,37,Ringgold,22.0,22.0,54.0,Jimmy Pardue,Jimmy Pardue,'62 Pontiac,0.0,,did not start,0.0
+1962,38,Nashville,1.0,3.0,42.0,Jim Paschal,Petty Enterprises,'62 Plymouth,500.0,3250.0,running,307.0
+1962,38,Nashville,2.0,2.0,43.0,Richard Petty,Petty Enterprises,'62 Plymouth,496.0,1875.0,running,135.0
+1962,38,Nashville,3.0,9.0,87.0,Buck Baker,Buck Baker,'62 Chrysler,493.0,1350.0,running,12.0
+1962,38,Nashville,4.0,10.0,8.0,Joe Weatherly,Bud Moore,'62 Pontiac,489.0,800.0,running,0.0
+1962,38,Nashville,5.0,11.0,2.0,Tom Cox,Cliff Stewart,'62 Pontiac,471.0,700.0,running,0.0
+1962,38,Nashville,6.0,13.0,1.0,George Green,Jess Potter,'61 Chevrolet,463.0,600.0,running,0.0
+1962,38,Nashville,7.0,16.0,19.0,Herman Beam,Herman Beam,'62 Ford,452.0,500.0,running,0.0
+1962,38,Nashville,8.0,12.0,36.0,Larry Thomas,Wade Younts,'62 Dodge,422.0,500.0,running,0.0
+1962,38,Nashville,9.0,8.0,11.0,Ned Jarrett,B.G. Holloway,'62 Chevrolet,387.0,550.0,engine,0.0
+1962,38,Nashville,10.0,17.0,62.0,Curtis Crider,Curtis Crider,'62 Mercury,384.0,365.0,rocker arm,0.0
+1962,38,Nashville,11.0,5.0,48.0,G.C. Spencer,G.C. Spencer,'62 Chevrolet,357.0,350.0,running,0.0
+1962,38,Nashville,12.0,15.0,149.0,Bob Welborn,J.C. Parker,'62 Pontiac,333.0,225.0,running,0.0
+1962,38,Nashville,13.0,6.0,61.0,Sherman Utsman,Sherman Utsman,'62 Ford,330.0,240.0,hub,0.0
+1962,38,Nashville,14.0,24.0,79.0,Ralph Smith,Ralph Smith,'62 Chevrolet,292.0,175.0,driveshaft,0.0
+1962,38,Nashville,15.0,19.0,34.0,Wendell Scott,Wendell Scott,'61 Chevrolet,244.0,150.0,crash,0.0
+1962,38,Nashville,16.0,4.0,54.0,Jimmy Pardue,Jimmy Pardue,'62 Pontiac,204.0,150.0,engine,0.0
+1962,38,Nashville,17.0,1.0,46.0,Johnny Allen,Holly Farms (Fred Lovette),'62 Pontiac,179.0,175.0,crash,46.0
+1962,38,Nashville,18.0,7.0,47.0,Jack Smith,Jack Smith,'62 Pontiac,119.0,150.0,overheating,0.0
+1962,38,Nashville,19.0,20.0,22.0,Fireball Roberts,Jim Stephens,'62 Pontiac,78.0,150.0,steering,0.0
+1962,38,Nashville,20.0,18.0,49.0,Nero Steptoe,J.C. Parker,'61 Pontiac,78.0,150.0,crash,0.0
+1962,38,Nashville,21.0,14.0,86.0,Buddy Baker,Buck Baker,'61 Chrysler,60.0,150.0,head gasket,0.0
+1962,38,Nashville,22.0,22.0,60.0,Harold Carmac,Ray Herlocker,'60 Plymouth,12.0,150.0,oil pressure,0.0
+1962,38,Nashville,23.0,23.0,63.0,Earl Brooks,Curtis Crider,'61 Mercury,2.0,150.0,handling,0.0
+1962,38,Nashville,24.0,25.0,41.0,Joe Lee Johnson,Jack Smith,'61 Pontiac,2.0,150.0,clutch,0.0
+1962,38,Nashville,25.0,21.0,74.0,Hank Grilliot,Hank Grilliot,'62 Studebaker,1.0,150.0,handling,0.0
+1962,39,Huntsville,1.0,1.0,43.0,Richard Petty,Petty Enterprises,'62 Plymouth,200.0,580.0,running,200.0
+1962,39,Huntsville,2.0,5.0,49.0,Bob Welborn,J.C. Parker,'62 Pontiac,199.0,475.0,running,0.0
+1962,39,Huntsville,3.0,7.0,2.0,Jim Paschal,Cliff Stewart,'62 Pontiac,198.0,400.0,running,0.0
+1962,39,Huntsville,4.0,8.0,87.0,Buck Baker,Buck Baker,'62 Chrysler,198.0,325.0,running,0.0
+1962,39,Huntsville,5.0,2.0,11.0,Ned Jarrett,B.G. Holloway,'62 Chevrolet,198.0,450.0,running,0.0
+1962,39,Huntsville,6.0,4.0,47.0,Jack Smith,Jack Smith,'62 Pontiac,195.0,230.0,running,0.0
+1962,39,Huntsville,7.0,6.0,8.0,Joe Weatherly,Bud Moore,'61 Pontiac,193.0,195.0,running,0.0
+1962,39,Huntsville,8.0,9.0,86.0,Buddy Baker,Buck Baker,'61 Chrysler,193.0,180.0,running,0.0
+1962,39,Huntsville,9.0,12.0,36.0,Larry Thomas,Wade Younts,'62 Dodge,186.0,165.0,running,0.0
+1962,39,Huntsville,10.0,13.0,79.0,T.C. Hunt,Ralph Smith,'62 Chevrolet,182.0,140.0,running,0.0
+1962,39,Huntsville,11.0,11.0,62.0,Curtis Crider,Curtis Crider,'62 Mercury,179.0,145.0,running,0.0
+1962,39,Huntsville,12.0,10.0,19.0,Herman Beam,Herman Beam,'61 Ford,179.0,120.0,running,0.0
+1962,39,Huntsville,13.0,15.0,1.0,George Green,Jess Potter,'61 Chevrolet,179.0,110.0,running,0.0
+1962,39,Huntsville,14.0,16.0,89.0,Wendell Scott,Wendell Scott,'60 Chevrolet,56.0,115.0,brake cylinder,0.0
+1962,39,Huntsville,15.0,14.0,39.0,Nero Steptoe,–,'60 Chevrolet,54.0,75.0,rear end,0.0
+1962,39,Huntsville,16.0,3.0,48.0,G.C. Spencer,G.C. Spencer,'62 Chevrolet,2.0,75.0,timing,0.0
+1962,40,Weaverville,1.0,2.0,42.0,Jim Paschal,Petty Enterprises,'62 Plymouth,500.0,2350.0,running,337.0
+1962,40,Weaverville,2.0,7.0,8.0,Joe Weatherly,Bud Moore,'62 Pontiac,497.0,1625.0,running,0.0
+1962,40,Weaverville,3.0,5.0,4.0,Rex White,Louis Clements (Rex White),'62 Chevrolet,495.0,1150.0,running,0.0
+1962,40,Weaverville,4.0,11.0,11.0,Ned Jarrett,B.G. Holloway,'62 Chevrolet,494.0,1150.0,running,0.0
+1962,40,Weaverville,5.0,1.0,47.0,Jack Smith,Jack Smith,'62 Pontiac,488.0,800.0,running,163.0
+1962,40,Weaverville,6.0,3.0,54.0,Jimmy Pardue,Jimmy Pardue,'62 Pontiac,487.0,650.0,running,0.0
+1962,40,Weaverville,7.0,6.0,43.0,Richard Petty,Petty Enterprises,'62 Plymouth,485.0,600.0,running,0.0
+1962,40,Weaverville,8.0,14.0,1.0,George Green,Jess Potter,'61 Chevrolet,456.0,550.0,running,0.0
+1962,40,Weaverville,9.0,15.0,2.0,Tom Cox,Cliff Stewart,'62 Pontiac,454.0,450.0,running,0.0
+1962,40,Weaverville,10.0,17.0,36.0,Larry Thomas,Wade Younts,'62 Dodge,451.0,400.0,running,0.0
+1962,40,Weaverville,11.0,21.0,63.0,Curtis Crider,Curtis Crider,'61 Mercury,438.0,375.0,running,0.0
+1962,40,Weaverville,12.0,18.0,83.0,Worth McMillion,Worth McMillion,'62 Pontiac,413.0,375.0,running,0.0
+1962,40,Weaverville,13.0,16.0,19.0,Herman Beam,Herman Beam,'62 Ford,377.0,325.0,running,0.0
+1962,40,Weaverville,14.0,25.0,89.0,Wendell Scott,Wendell Scott,'60 Chevrolet,371.0,275.0,running,0.0
+1962,40,Weaverville,15.0,24.0,0.0,Eddie Pagan,Dick Getty,'62 Chevrolet,354.0,250.0,running,0.0
+1962,40,Weaverville,16.0,9.0,61.0,Sherman Utsman,Sherman Utsman,'62 Ford,273.0,250.0,rear end,0.0
+1962,40,Weaverville,17.0,19.0,60.0,Ray Hughes,Ray Herlocker,'60 Plymouth,235.0,250.0,clutch,0.0
+1962,40,Weaverville,18.0,4.0,27.0,Tommy Irwin,Melvin Bradley,'62 Chevrolet,151.0,225.0,rear end,0.0
+1962,40,Weaverville,19.0,10.0,49.0,Bob Welborn,J.C. Parker,'62 Pontiac,116.0,225.0,fuel line,0.0
+1962,40,Weaverville,20.0,22.0,51.0,Bob Cooper,Bob Cooper,'60 Ford,106.0,225.0,transmission,0.0
+1962,40,Weaverville,21.0,20.0,79.0,Bill Smith,Ralph Smith,'62 Chevrolet,60.0,200.0,crash,0.0
+1962,40,Weaverville,22.0,12.0,48.0,G.C. Spencer,G.C. Spencer,'62 Chevrolet,46.0,200.0,valve,0.0
+1962,40,Weaverville,23.0,8.0,87.0,Buck Baker,Buck Baker,'62 Chrysler,26.0,175.0,oil leak,0.0
+1962,40,Weaverville,24.0,13.0,86.0,Buddy Baker,Buck Baker,'61 Chrysler,18.0,150.0,oil pressure,0.0
+1962,40,Weaverville,25.0,23.0,65.0,Allan Harley,Allan Harley,'60 Dodge,10.0,150.0,oil line,0.0
+1962,41,Roanoke,1.0,2.0,42.0,Richard Petty,Petty Enterprises,'62 Plymouth,200.0,550.0,running,40.0
+1962,41,Roanoke,2.0,7.0,8.0,Joe Weatherly,Bud Moore,'62 Pontiac,200.0,480.0,running,0.0
+1962,41,Roanoke,3.0,3.0,11.0,Ned Jarrett,B.G. Holloway,'62 Chevrolet,200.0,575.0,running,152.0
+1962,41,Roanoke,4.0,4.0,49.0,Bob Welborn,J.C. Parker,'62 Pontiac,200.0,325.0,running,0.0
+1962,41,Roanoke,5.0,1.0,47.0,Jack Smith,Jack Smith,'62 Pontiac,200.0,245.0,running,8.0
+1962,41,Roanoke,6.0,6.0,2.0,Tom Cox,Cliff Stewart,'62 Pontiac,197.0,225.0,running,0.0
+1962,41,Roanoke,7.0,8.0,54.0,Jimmy Pardue,Jimmy Pardue,'62 Pontiac,196.0,210.0,running,0.0
+1962,41,Roanoke,8.0,12.0,36.0,Larry Thomas,Wade Younts,'62 Dodge,190.0,180.0,running,0.0
+1962,41,Roanoke,9.0,9.0,60.0,Ray Hughes,Ray Herlocker,'60 Plymouth,189.0,165.0,running,0.0
+1962,41,Roanoke,10.0,5.0,48.0,G.C. Spencer,G.C. Spencer,'62 Chevrolet,186.0,190.0,transmission,0.0
+1962,41,Roanoke,11.0,10.0,63.0,Curtis Crider,Curtis Crider,'61 Mercury,186.0,145.0,rear end,0.0
+1962,41,Roanoke,12.0,14.0,89.0,Wendell Scott,Wendell Scott,'60 Chevrolet,180.0,120.0,running,0.0
+1962,41,Roanoke,13.0,11.0,19.0,Herman Beam,Herman Beam,'60 Ford,176.0,125.0,running,0.0
+1962,41,Roanoke,14.0,16.0,17.0,Fred Harb,Fred Harb,'60 Ford,154.0,115.0,tires,0.0
+1962,41,Roanoke,15.0,13.0,97.0,Harry Leake,Lewis Osborne,'60 Chevrolet,36.0,75.0,engine,0.0
+1962,41,Roanoke,16.0,17.0,83.0,Worth McMillion,Worth McMillion,'62 Pontiac,24.0,75.0,handling,0.0
+1962,41,Roanoke,17.0,15.0,1.0,George Green,Jess Potter,'60 Chevrolet,17.0,75.0,driveshaft,0.0
+1962,41,Roanoke,18.0,18.0,0.0,Dick Getty,Dick Getty,'62 Chevrolet,8.0,60.0,handling,0.0
+1962,42,Winston-Salem,1.0,3.0,43,Richard Petty,Petty Enterprises,'62 Plymouth,200.0,600.0,running,54.0
+1962,42,Winston-Salem,2.0,1.0,47,Jack Smith,Jack Smith,'61 Pontiac,199.0,450.0,running,146.0
+1962,42,Winston-Salem,3.0,2.0,8,Joe Weatherly,Bud Moore,'61 Pontiac,199.0,400.0,running,0.0
+1962,42,Winston-Salem,4.0,4.0,54,Jimmy Pardue,Jimmy Pardue,'62 Pontiac,199.0,290.0,running,0.0
+1962,42,Winston-Salem,5.0,6.0,48,G.C. Spencer,G.C. Spencer,'62 Chevrolet,196.0,250.0,running,0.0
+1962,42,Winston-Salem,6.0,7.0,49,Ned Jarrett,J.C. Parker,'62 Pontiac,196.0,430.0,running,0.0
+1962,42,Winston-Salem,7.0,5.0,00,Dick Getty,Dick Getty,'62 Chevrolet,192.0,205.0,running,0.0
+1962,42,Winston-Salem,8.0,11.0,63,Curtis Crider,Curtis Crider,'61 Mercury,188.0,175.0,running,0.0
+1962,42,Winston-Salem,9.0,15.0,89,Wendell Scott,Wendell Scott,'60 Chevrolet,186.0,165.0,running,0.0
+1962,42,Winston-Salem,10.0,12.0,60,Ray Hughes,Ray Herlocker,'60 Plymouth,182.0,170.0,running,0.0
+1962,42,Winston-Salem,11.0,14.0,19,Herman Beam,Herman Beam,'60 Ford,177.0,130.0,running,0.0
+1962,42,Winston-Salem,12.0,13.0,17X,Bill Whitley,–,Corvette,171.0,370.0,running,0.0
+1962,42,Winston-Salem,13.0,8.0,2,Tom Cox,Cliff Stewart,'62 Pontiac,137.0,110.0,timing,0.0
+1962,42,Winston-Salem,14.0,9.0,17,Fred Harb,Fred Harb,'61 Ford,102.0,120.0,overheating,0.0
+1962,42,Winston-Salem,15.0,24.0,32,Robert Berrier,–,MG,100.0,250.0,running,0.0
+1962,42,Winston-Salem,16.0,10.0,36,Larry Thomas,Wade Younts,'62 Dodge,84.0,95.0,engine,0.0
+1962,42,Winston-Salem,17.0,18.0,71,Herbert Scott,–,Austin Healey,79.0,175.0,–,0.0
+1962,42,Winston-Salem,18.0,21.0,21,Doug Duvall,–,Sprite,59.0,160.0,–,0.0
+1962,42,Winston-Salem,19.0,20.0,9,Bill Faulkner,–,MG,43.0,125.0,–,0.0
+1962,42,Winston-Salem,20.0,22.0,114,Steve Garrett,–,MG,40.0,75.0,–,0.0
+1962,42,Winston-Salem,21.0,23.0,53,Kelly Ryan,–,Sprite,34.0,75.0,–,0.0
+1962,42,Winston-Salem,22.0,16.0,7,Bill Block,–,Alfa Romeo,32.0,75.0,–,0.0
+1962,42,Winston-Salem,23.0,19.0,27,Paul Lyons,–,Sprite,9.0,25.0,–,0.0
+1962,42,Winston-Salem,24.0,17.0,4,Jim Street,–,MG,8.0,50.0,–,0.0
+1962,43,Spartanburg,1.0,1.0,43.0,Richard Petty,Petty Enterprises,'62 Plymouth,200.0,1000.0,running,45.0
+1962,43,Spartanburg,2.0,6.0,8.0,Joe Weatherly,Bud Moore,'61 Pontiac,200.0,600.0,running,83.0
+1962,43,Spartanburg,3.0,5.0,47.0,Jack Smith,Jack Smith,'61 Pontiac,197.0,400.0,running,0.0
+1962,43,Spartanburg,4.0,2.0,6.0,Cotton Owens,Cotton Owens,'60 Pontiac,197.0,300.0,running,72.0
+1962,43,Spartanburg,5.0,4.0,48.0,G.C. Spencer,G.C. Spencer,'62 Chevrolet,195.0,275.0,running,0.0
+1962,43,Spartanburg,6.0,13.0,36.0,Larry Thomas,Wade Younts,'62 Dodge,192.0,240.0,running,0.0
+1962,43,Spartanburg,7.0,15.0,51.0,Bob Cooper,Bob Cooper,'60 Ford,184.0,200.0,running,0.0
+1962,43,Spartanburg,8.0,10.0,19.0,Herman Beam,Herman Beam,'60 Ford,181.0,175.0,running,0.0
+1962,43,Spartanburg,9.0,11.0,1.0,George Green,Jess Potter,'60 Chevrolet,171.0,150.0,running,0.0
+1962,43,Spartanburg,10.0,3.0,11.0,Ned Jarrett,B.G. Holloway,'62 Chevrolet,158.0,230.0,crash,0.0
+1962,43,Spartanburg,11.0,12.0,89.0,Wendell Scott,Wendell Scott,'60 Chevrolet,155.0,130.0,clutch,0.0
+1962,43,Spartanburg,12.0,14.0,60.0,Ray Hughes,Ray Herlocker,'60 Plymouth,143.0,120.0,transmission,0.0
+1962,43,Spartanburg,13.0,7.0,27.0,Tommy Irwin,Melvin Bradley,'62 Chevrolet,123.0,100.0,crash,0.0
+1962,43,Spartanburg,14.0,9.0,63.0,Curtis Crider,Curtis Crider,'61 Mercury,118.0,100.0,rear end,0.0
+1962,43,Spartanburg,15.0,8.0,2.0,Tom Cox,Cliff Stewart,'62 Pontiac,107.0,85.0,steering,0.0
+1962,43,Spartanburg,16.0,16.0,0.0,Dick Getty,Dick Getty,'62 Ford,18.0,75.0,a frame,0.0
+1962,44,Valdosta,1.0,5.0,11.0,Ned Jarrett,B.G. Holloway,'62 Chevrolet,200.0,1200.0,running,–
+1962,44,Valdosta,2.0,1.0,43.0,Richard Petty,Petty Enterprises,'62 Plymouth,199.0,600.0,running,–
+1962,44,Valdosta,3.0,2.0,8.0,Joe Weatherly,Bud Moore,'61 Pontiac,197.0,400.0,running,–
+1962,44,Valdosta,4.0,11.0,48.0,G.C. Spencer,G.C. Spencer,'62 Chevrolet,191.0,300.0,running,–
+1962,44,Valdosta,5.0,4.0,179.0,LeeRoy Yarbrough,Ralph Smith,'62 Chevrolet,191.0,275.0,running,–
+1962,44,Valdosta,6.0,6.0,36.0,Larry Thomas,Wade Younts,'62 Dodge,189.0,240.0,running,–
+1962,44,Valdosta,7.0,8.0,89.0,Wendell Scott,Wendell Scott,'60 Chevrolet,183.0,200.0,running,–
+1962,44,Valdosta,8.0,10.0,63.0,Curtis Crider,Curtis Crider,'62 Mercury,182.0,175.0,running,–
+1962,44,Valdosta,9.0,7.0,1.0,George Green,Jess Potter,'60 Chevrolet,182.0,150.0,running,–
+1962,44,Valdosta,10.0,12.0,19.0,Herman Beam,Herman Beam,'60 Ford,161.0,140.0,running,–
+1962,44,Valdosta,11.0,3.0,47.0,Jack Smith,Jack Smith,'61 Pontiac,130.0,130.0,oil leak,–
+1962,44,Valdosta,12.0,9.0,62.0,Sam McQuagg,Sam McQuagg,'60 Ford,51.0,120.0,engine,–
+1962,44,Valdosta,13.0,13.0,38.0,Sammy Packard,Matt DeMatthews,'61 Ford,45.0,110.0,piston,–
+1962,45,Darlington,1.0,10.0,66.0,Larry Frank,Cafe Burgundy (Ratus Walters),'62 Ford,364.0,21730.0,running,85.0
+1962,45,Darlington,2.0,2.0,3.0,Junior Johnson,Jerry Earl Pontiac (Ray Fox),'62 Pontiac,364.0,10155.0,running,29.0
+1962,45,Darlington,3.0,8.0,21.0,Marvin Panch,Hull-Dobbs Ford (Wood Brothers),'62 Ford,364.0,5150.0,running,0.0
+1962,45,Darlington,4.0,7.0,6.0,David Pearson,Hine Pontiac (Cotton Owens),'62 Pontiac,364.0,3325.0,running,0.0
+1962,45,Darlington,5.0,6.0,43.0,Richard Petty,Petty Enterprises,'62 Plymouth,363.0,5450.0,running,95.0
+1962,45,Darlington,6.0,14.0,42.0,Jim Paschal,Petty Enterprises,'62 Plymouth,363.0,2025.0,running,9.0
+1962,45,Darlington,7.0,13.0,29.0,Nelson Stacy,Holman-Moody Racing,'62 Ford,363.0,1525.0,running,0.0
+1962,45,Darlington,8.0,19.0,11.0,Ned Jarrett,Royal Beach Motel (B.G. Holloway),'62 Chevrolet,360.0,1575.0,running,0.0
+1962,45,Darlington,9.0,18.0,4.0,Rex White,Louis Clements (Rex White),'62 Chevrolet,359.0,1355.0,running,0.0
+1962,45,Darlington,10.0,5.0,8.0,Joe Weatherly,Gillman Pontiac (Bud Moore),'62 Pontiac,357.0,1025.0,running,0.0
+1962,45,Darlington,11.0,23.0,87.0,Buck Baker,Buck Baker,'62 Chrysler,357.0,950.0,running,0.0
+1962,45,Darlington,12.0,12.0,54.0,Jimmy Pardue,Bush (Jimmy Pardue),'62 Pontiac,357.0,900.0,running,0.0
+1962,45,Darlington,13.0,16.0,20.0,Emanuel Zervakis,Emanuel Zervakis,'62 Mercury,355.0,800.0,running,0.0
+1962,45,Darlington,14.0,28.0,49.0,Bob Welborn,J.C. Parker,'62 Pontiac,354.0,700.0,running,0.0
+1962,45,Darlington,15.0,31.0,61.0,Sherman Utsman,Fred Ford Auto Sales Inc. (Sherman Utsman),'62 Ford,346.0,650.0,running,0.0
+1962,45,Darlington,16.0,27.0,82.0,Elmo Langley,McCue Construction (Elmo Langley),'61 Ford,344.0,620.0,running,0.0
+1962,45,Darlington,17.0,24.0,5.0,H.G. Rosier,McElmurray Pontiac (H.G. Rosier),'61 Pontiac,343.0,550.0,wheel,0.0
+1962,45,Darlington,18.0,42.0,97.0,Paul Lewis,Lewis Osborne,'62 Chevrolet,340.0,500.0,running,0.0
+1962,45,Darlington,19.0,11.0,30.0,Tiny Lund,Fred Clark,'62 Chevrolet,335.0,470.0,running,0.0
+1962,45,Darlington,20.0,34.0,84.0,Red Foote,Rocky Hinton,'61 Ford,334.0,450.0,running,0.0
+1962,45,Darlington,21.0,33.0,1.0,George Green,Jess Potter,'61 Chevrolet,332.0,400.0,running,0.0
+1962,45,Darlington,22.0,32.0,68.0,Ed Livingston,Livingston's Auto Parts (Ed Livingston),'61 Ford,330.0,400.0,running,0.0
+1962,45,Darlington,23.0,38.0,62.0,Curtis Crider,Curtis Crider,'62 Mercury,304.0,400.0,running,0.0
+1962,45,Darlington,24.0,3.0,28.0,Fred Lorenzen,LaFayette (Holman-Moody Racing),'62 Ford,291.0,730.0,engine,31.0
+1962,45,Darlington,25.0,39.0,19.0,Herman Beam,Herman Beam,'61 Ford,286.0,400.0,running,0.0
+1962,45,Darlington,26.0,9.0,46.0,Johnny Allen,Holly Farms (Fred Lovette),'62 Pontiac,275.0,550.0,crash,0.0
+1962,45,Darlington,27.0,29.0,83.0,LeeRoy Yarbrough,Worth McMillion,'62 Pontiac,259.0,400.0,engine,0.0
+1962,45,Darlington,28.0,22.0,48.0,G.C. Spencer,G.C. Spencer,'62 Chevrolet,200.0,400.0,wheel bearing,0.0
+1962,45,Darlington,29.0,37.0,96.0,T.C. Hunt,Lewis Osborne,'60 Chevrolet,196.0,400.0,engine,0.0
+1962,45,Darlington,30.0,15.0,26.0,Darel Dieringer,Mamie Reynolds,'62 Ford,184.0,450.0,crash,0.0
+1962,45,Darlington,31.0,4.0,72.0,Bobby Johns,Vince Whibbs Pontiac Co. (Shorty Johns),'62 Pontiac,184.0,1070.0,crash,57.0
+1962,45,Darlington,32.0,21.0,41.0,Bunkie Blackburn,Petty Enterprises,'62 Plymouth,181.0,400.0,crash,0.0
+1962,45,Darlington,33.0,36.0,93.0,Lee Reitzel,Lee Reitzel,'62 Ford,161.0,400.0,transmission,0.0
+1962,45,Darlington,34.0,17.0,47.0,Jack Smith,Miller Pontiac (Jack Smith),'62 Pontiac,111.0,550.0,crash,0.0
+1962,45,Darlington,35.0,30.0,36.0,Larry Thomas,Wade Younts,'62 Dodge,95.0,400.0,transmission,0.0
+1962,45,Darlington,36.0,1.0,22.0,Fireball Roberts,Stephens Pontiac (Jim Stephens),'62 Pontiac,74.0,1030.0,crash,58.0
+1962,45,Darlington,37.0,20.0,86.0,Buddy Baker,Buck Baker,'62 Chrysler,58.0,400.0,distributor,0.0
+1962,45,Darlington,38.0,25.0,92.0,Cale Yarborough,Universal Ford (Don Harrison),'62 Ford,39.0,650.0,overheating,0.0
+1962,45,Darlington,39.0,26.0,81.0,Roscoe Thompson,Jimmy Baker,'62 Mercury,39.0,530.0,crash,0.0
+1962,45,Darlington,40.0,41.0,79.0,Bill Champion,Ralph Smith,'62 Chevrolet,15.0,400.0,transmission,0.0
+1962,45,Darlington,41.0,35.0,18.0,Stick Elliott,Toy Bolton,'61 Pontiac,14.0,400.0,engine,0.0
+1962,45,Darlington,42.0,40.0,91.0,Gary Sain,Bob Osiecki,'62 Dodge,11.0,400.0,fuel pump,0.0
+1962,45,Darlington,43.0,43.0,2.0,Tom Cox,Cliff Stewart,'62 Pontiac,4.0,400.0,oil pressure,0.0
+1962,45,Darlington,44.0,44.0,38.0,Matt DeMatthews,Matt DeMatthews,'61 Ford,2.0,400.0,oil pressure,0.0
+1962,46,Hickory,1.0,3.0,4.0,Rex White,Louis Clements (Rex White),'62 Chevrolet,250.0,1000.0,running,178.0
+1962,46,Hickory,2.0,4.0,54.0,Jimmy Pardue,Jimmy Pardue,'62 Pontiac,241.0,600.0,running,0.0
+1962,46,Hickory,3.0,9.0,87.0,Buck Baker,Buck Baker,'62 Chrysler,240.0,400.0,running,0.0
+1962,46,Hickory,4.0,13.0,36.0,Larry Thomas,Wade Younts,'62 Dodge,240.0,300.0,running,0.0
+1962,46,Hickory,5.0,7.0,8.0,Joe Weatherly,Bud Moore,'61 Pontiac,239.0,275.0,running,0.0
+1962,46,Hickory,6.0,14.0,62.0,Curtis Crider,Curtis Crider,'62 Mercury,236.0,240.0,running,0.0
+1962,46,Hickory,7.0,2.0,48.0,G.C. Spencer,G.C. Spencer,'62 Chevrolet,233.0,200.0,running,0.0
+1962,46,Hickory,8.0,18.0,2.0,Bill Foster,Cliff Stewart,'62 Pontiac,228.0,175.0,running,0.0
+1962,46,Hickory,9.0,21.0,19.0,Herman Beam,Herman Beam,'60 Ford,224.0,150.0,running,0.0
+1962,46,Hickory,10.0,5.0,42.0,Richard Petty,Petty Enterprises,'62 Plymouth,220.0,140.0,running,0.0
+1962,46,Hickory,11.0,20.0,17.0,Fred Harb,Fred Harb,'61 Ford,206.0,130.0,running,0.0
+1962,46,Hickory,12.0,6.0,49.0,Bob Welborn,J.C. Parker,'61 Pontiac,172.0,120.0,running,0.0
+1962,46,Hickory,13.0,17.0,60.0,Ray Hughes,Ray Herlocker,'60 Plymouth,159.0,110.0,running,0.0
+1962,46,Hickory,14.0,24.0,1.0,George Green,Jess Potter,'60 Chevrolet,152.0,100.0,running,0.0
+1962,46,Hickory,15.0,13.0,34.0,Wendell Scott,Wendell Scott,'61 Chevrolet,150.0,85.0,head gasket,0.0
+1962,46,Hickory,16.0,12.0,67.0,Jerry Burnett,Reb's Sport Shop (Reb Wickersham),'60 Chevrolet,143.0,75.0,oil pressure,0.0
+1962,46,Hickory,17.0,11.0,11.0,Ned Jarrett,B.G. Holloway,'62 Chevrolet,130.0,265.0,piston,0.0
+1962,46,Hickory,18.0,22.0,76.0,Neil Castles,Neil Castles,'61 Ford,118.0,60.0,running,0.0
+1962,46,Hickory,19.0,23.0,41.0,Bob Cooper,Bob Cooper,'60 Ford,115.0,50.0,overheating,0.0
+1962,46,Hickory,20.0,10.0,26.0,Fred Lorenzen,Mamie Reynolds,'62 Ford,106.0,50.0,radiator,0.0
+1962,46,Hickory,21.0,1.0,3.0,Junior Johnson,Ray Fox,'62 Pontiac,72.0,50.0,radiator,72.0
+1962,46,Hickory,22.0,8.0,91.0,Gary Sain,Bob Osiecki,'62 Dodge,66.0,50.0,rear end,0.0
+1962,46,Hickory,23.0,16.0,47.0,Jack Smith,Jack Smith,'61 Pontiac,62.0,50.0,radiator,0.0
+1962,46,Hickory,24.0,19.0,63.0,Glenn Killian,Curtis Crider,'61 Mercury,3.0,50.0,driveshaft,0.0
+1962,47,Richmond,1.0,2.0,8.0,Joe Weatherly,Bud Moore,'62 Pontiac,300.0,2000.0,running,–
+1962,47,Richmond,2.0,4.0,41.0,Jim Paschal,Petty Enterprises,'62 Plymouth,299.0,1350.0,running,–
+1962,47,Richmond,3.0,14.0,26.0,Fred Lorenzen,LaFayette (Holman-Moody Racing),'62 Ford,296.0,950.0,running,–
+1962,47,Richmond,4.0,9.0,42.0,Richard Petty,Petty Enterprises,'62 Plymouth,296.0,675.0,running,–
+1962,47,Richmond,5.0,1.0,4.0,Rex White,Louis Clements (Rex White),'62 Chevrolet,294.0,510.0,running,–
+1962,47,Richmond,6.0,6.0,11.0,Ned Jarrett,B.G. Holloway,'62 Chevrolet,292.0,625.0,running,–
+1962,47,Richmond,7.0,19.0,27.0,Melvin Bradley,Melvin Bradley,'62 Chevrolet,287.0,350.0,running,–
+1962,47,Richmond,8.0,16.0,49.0,Bob Welborn,J.C. Parker,'62 Pontiac,282.0,300.0,running,–
+1962,47,Richmond,9.0,24.0,0.0,Dick Getty,Dick Getty,'62 Chevrolet,281.0,250.0,running,–
+1962,47,Richmond,10.0,12.0,54.0,Jimmy Pardue,Jimmy Pardue,'62 Pontiac,277.0,250.0,running,–
+1962,47,Richmond,11.0,8.0,35.0,Ray Hendrick,Rebel Racing,'61 Pontiac,276.0,150.0,running,–
+1962,47,Richmond,12.0,15.0,62.0,Curtis Crider,Curtis Crider,'62 Mercury,270.0,150.0,running,–
+1962,47,Richmond,13.0,18.0,36.0,Larry Thomas,Wade Younts,'62 Dodge,269.0,150.0,running,–
+1962,47,Richmond,14.0,3.0,48.0,G.C. Spencer,G.C. Spencer,'62 Chevrolet,269.0,150.0,running,–
+1962,47,Richmond,15.0,21.0,98.0,Bill Dennis,–,'61 Chevrolet,268.0,150.0,running,–
+1962,47,Richmond,16.0,17.0,2.0,Bill Foster,Cliff Stewart,'62 Pontiac,257.0,125.0,running,–
+1962,47,Richmond,17.0,10.0,22.0,Fireball Roberts,Jim Stephens,'62 Pontiac,256.0,125.0,running,–
+1962,47,Richmond,18.0,25.0,19.0,Herman Beam,Herman Beam,'60 Ford,254.0,125.0,running,–
+1962,47,Richmond,19.0,20.0,17.0,Fred Harb,Fred Harb,'61 Ford,246.0,125.0,running,–
+1962,47,Richmond,20.0,28.0,31.0,Al White,Al White,'62 Ford,233.0,125.0,distributor,–
+1962,47,Richmond,21.0,32.0,34.0,Wendell Scott,Wendell Scott,'61 Chevrolet,220.0,125.0,ball joint,–
+1962,47,Richmond,22.0,33.0,1.0,George Green,Jess Potter,'60 Chevrolet,220.0,125.0,running,–
+1962,47,Richmond,23.0,29.0,5.0,Jim Bray,Jim Bray,'60 Ford,204.0,125.0,radiator,–
+1962,47,Richmond,24.0,5.0,20.0,Emanuel Zervakis,Emanuel Zervakis,'62 Mercury,190.0,125.0,steering,–
+1962,47,Richmond,25.0,11.0,91.0,Gary Sain,Bob Osiecki,'62 Dodge,173.0,,lug bolts,–
+1962,47,Richmond,26.0,27.0,79.0,T.C. Hunt,Ralph Smith,'62 Chevrolet,138.0,,shocks,–
+1962,47,Richmond,27.0,31.0,50.0,Bobby Waddell,Bobby Waddell,'60 Dodge,80.0,,radiator,–
+1962,47,Richmond,28.0,26.0,63.0,Runt Harris,Curtis Crider,'61 Mercury,73.0,,pistons,–
+1962,47,Richmond,29.0,13.0,47.0,Jack Smith,Jack Smith,'62 Pontiac,50.0,,crash,–
+1962,47,Richmond,30.0,22.0,87.0,Buck Baker,Buck Baker,'62 Chrysler,47.0,,radiator,–
+1962,47,Richmond,31.0,23.0,7.0,Bill Champion,–,'60 Ford,40.0,,head gasket,–
+1962,47,Richmond,32.0,7.0,64.0,Elmo Langley,Elmo Langley,'62 Ford,24.0,,transmission,–
+1962,47,Richmond,33.0,30.0,66.0,Larry Frank,Ratus Walters,'62 Ford,2.0,,rear end,–
+1962,48,Moyock,1.0,1.0,11.0,Ned Jarrett,B.G. Holloway,'62 Chevrolet,250.0,775.0,running,250.0
+1962,48,Moyock,2.0,6.0,8.0,Joe Weatherly,Bud Moore,'61 Pontiac,249.0,500.0,running,0.0
+1962,48,Moyock,3.0,14.0,62.0,Curtis Crider,Curtis Crider,'62 Mercury,240.0,380.0,running,0.0
+1962,48,Moyock,4.0,8.0,27.0,Melvin Bradley,Melvin Bradley,'62 Chevrolet,235.0,290.0,running,0.0
+1962,48,Moyock,5.0,2.0,1.0,George Green,Jess Potter,'60 Chevrolet,228.0,245.0,transmission,0.0
+1962,48,Moyock,6.0,12.0,19.0,Herman Beam,Herman Beam,'60 Ford,221.0,215.0,running,0.0
+1962,48,Moyock,7.0,13.0,34.0,Wendell Scott,Wendell Scott,'61 Chevrolet,209.0,180.0,running,0.0
+1962,48,Moyock,8.0,7.0,40.0,Roy Hallquist,–,'62 Chevrolet,183.0,175.0,rear end,0.0
+1962,48,Moyock,9.0,11.0,23.0,Doug Yates,Raeford Johnson,'61 Plymouth,163.0,150.0,axle,0.0
+1962,48,Moyock,10.0,5.0,87.0,Buck Baker,Buck Baker,'62 Chrysler,159.0,190.0,head gasket,0.0
+1962,48,Moyock,11.0,4.0,42.0,Richard Petty,Petty Enterprises,'62 Plymouth,151.0,155.0,axle,0.0
+1962,48,Moyock,12.0,10.0,49.0,Bob Welborn,J.C. Parker,'62 Pontiac,143.0,150.0,oil pressure,0.0
+1962,48,Moyock,13.0,3.0,66.0,Larry Frank,Ratus Walters,'62 Ford,119.0,130.0,axle,0.0
+1962,48,Moyock,14.0,15.0,63.0,Runt Harris,Curtis Crider,'61 Mercury,57.0,100.0,head gasket,0.0
+1962,48,Moyock,15.0,9.0,36.0,Larry Thomas,Wade Younts,'62 Dodge,53.0,90.0,tortion b,0.0
+1962,49,Augusta,1.0,4.0,26.0,Fred Lorenzen,Mamie Reynolds,'62 Ford,200.0,1000.0,running,19.0
+1962,49,Augusta,2.0,5.0,41.0,Richard Petty,Petty Enterprises,'62 Plymouth,200.0,600.0,running,0.0
+1962,49,Augusta,3.0,1.0,8.0,Joe Weatherly,Bud Moore,'62 Pontiac,197.0,400.0,running,0.0
+1962,49,Augusta,4.0,2.0,11.0,Ned Jarrett,B.G. Holloway,'62 Chevrolet,190.0,500.0,running,181.0
+1962,49,Augusta,5.0,7.0,34.0,Wendell Scott,Wendell Scott,'61 Chevrolet,190.0,275.0,running,0.0
+1962,49,Augusta,6.0,15.0,5.0,H.G. Rosier,H.G. Rosier,'61 Pontiac,189.0,240.0,running,0.0
+1962,49,Augusta,7.0,12.0,1.0,George Green,Jess Potter,'60 Chevrolet,181.0,200.0,running,0.0
+1962,49,Augusta,8.0,14.0,19.0,Herman Beam,Herman Beam,'60 Ford,174.0,175.0,running,0.0
+1962,49,Augusta,9.0,10.0,79.0,T.C. Hunt,Ralph Smith,'62 Chevrolet,158.0,150.0,running,0.0
+1962,49,Augusta,10.0,11.0,62.0,Curtis Crider,Curtis Crider,'62 Mercury,131.0,140.0,running,0.0
+1962,49,Augusta,11.0,9.0,87.0,Buck Baker,Buck Baker,'62 Chrysler,114.0,130.0,head gasket,0.0
+1962,49,Augusta,12.0,6.0,47.0,Jack Smith,Jack Smith,'61 Pontiac,94.0,120.0,housing,0.0
+1962,49,Augusta,13.0,3.0,92.0,Cale Yarborough,Don Harrison,'62 Ford,56.0,110.0,fuel pump,0.0
+1962,49,Augusta,14.0,13.0,63.0,George Alsobrook,George Alsobrook,'61 Ford,32.0,100.0,spring,0.0
+1962,49,Augusta,15.0,16.0,0.0,Dick Getty,Dick Getty,'62 Chevrolet,26.0,85.0,oil pressure,0.0
+1962,49,Augusta,16.0,8.0,97.0,Bubba Farr,Lewis Osborne,'62 Chevrolet,22.0,75.0,manifold,0.0
+1962,50,Martinsville,1.0,3.0,29.0,Nelson Stacy,Ron's Ford Sales (Holman-Moody Racing),'62 Ford,500.0,3655.0,running,313.0
+1962,50,Martinsville,2.0,13.0,43.0,Richard Petty,Petty Enterprises,'62 Plymouth,497.0,1650.0,running,0.0
+1962,50,Martinsville,3.0,21.0,11.0,Ned Jarrett,B.G. Holloway,'62 Chevrolet,496.0,1500.0,running,0.0
+1962,50,Martinsville,4.0,34.0,47.0,Jack Smith,Jack Smith,'62 Pontiac,495.0,850.0,running,0.0
+1962,50,Martinsville,5.0,2.0,8.0,Joe Weatherly,Bud Moore,'62 Pontiac,495.0,920.0,running,81.0
+1962,50,Martinsville,6.0,17.0,26.0,Darel Dieringer,Mamie Reynolds,'62 Pontiac,495.0,675.0,running,0.0
+1962,50,Martinsville,7.0,1.0,22.0,Fireball Roberts,Stephens Pontiac (Jim Stephens),'62 Pontiac,492.0,800.0,running,102.0
+1962,50,Martinsville,8.0,22.0,54.0,Jimmy Pardue,Jimmy Pardue,'62 Pontiac,492.0,550.0,running,0.0
+1962,50,Martinsville,9.0,8.0,41.0,Jim Paschal,Petty Enterprises,'62 Plymouth,489.0,425.0,running,0.0
+1962,50,Martinsville,10.0,12.0,49.0,Bob Welborn,J.C. Parker,'62 Pontiac,489.0,390.0,running,0.0
+1962,50,Martinsville,11.0,15.0,27.0,Melvin Bradley,Melvin Bradley,'62 Chevrolet,485.0,350.0,running,0.0
+1962,50,Martinsville,12.0,36.0,58.0,Tiny Lund,Fred Clark,'62 Chevrolet,482.0,275.0,running,0.0
+1962,50,Martinsville,13.0,23.0,86.0,Buddy Baker,Buck Baker,'62 Chrysler,479.0,285.0,running,0.0
+1962,50,Martinsville,14.0,6.0,61.0,Sherman Utsman,Sherman Utsman,'62 Chevrolet,476.0,250.0,running,0.0
+1962,50,Martinsville,15.0,18.0,36.0,Larry Thomas,Wade Younts,'62 Dodge,474.0,175.0,running,0.0
+1962,50,Martinsville,16.0,16.0,19.0,Herman Beam,Herman Beam,'62 Ford,465.0,175.0,running,0.0
+1962,50,Martinsville,17.0,5.0,3.0,Junior Johnson,Ray Fox,'62 Pontiac,455.0,200.0,axle,0.0
+1962,50,Martinsville,18.0,25.0,2.0,Bill Foster,Cliff Stewart,'62 Pontiac,452.0,175.0,running,0.0
+1962,50,Martinsville,19.0,27.0,34.0,Wendell Scott,Wendell Scott,'61 Chevrolet,452.0,175.0,running,0.0
+1962,50,Martinsville,20.0,31.0,91.0,Gary Sain,Bob Osiecki,'62 Dodge,437.0,150.0,running,0.0
+1962,50,Martinsville,21.0,32.0,37.0,Tom Cox,–,'60 Chevrolet,437.0,150.0,running,0.0
+1962,50,Martinsville,22.0,14.0,66.0,Larry Frank,Ratus Walters,'62 Ford,416.0,175.0,running,0.0
+1962,50,Martinsville,23.0,37.0,60.0,Ray Hughes,Ray Herlocker,'60 Plymouth,381.0,150.0,running,0.0
+1962,50,Martinsville,24.0,29.0,18.0,Stick Elliott,Toy Bolton,'61 Pontiac,337.0,150.0,fuel pump,0.0
+1962,50,Martinsville,25.0,28.0,23.0,Doug Yates,Raeford Johnson,'60 Plymouth,256.0,150.0,engine,0.0
+1962,50,Martinsville,26.0,19.0,97.0,Paul Lewis,Lewis Osborne,'62 Chevrolet,239.0,125.0,rear end,0.0
+1962,50,Martinsville,27.0,10.0,4.0,Rex White,Louis Clements (Rex White),'62 Chevrolet,203.0,125.0,engine,0.0
+1962,50,Martinsville,28.0,4.0,28.0,Fred Lorenzen,LaFayette (Holman-Moody Racing),'62 Ford,106.0,150.0,crash,4.0
+1962,50,Martinsville,29.0,24.0,1.0,George Green,Jess Potter,'61 Chevrolet,102.0,125.0,engine,0.0
+1962,50,Martinsville,30.0,9.0,48.0,G.C. Spencer,G.C. Spencer,'62 Chevrolet,98.0,125.0,crash,0.0
+1962,50,Martinsville,31.0,30.0,93.0,Lee Reitzel,Lee Reitzel,'62 Ford,97.0,100.0,rear end,0.0
+1962,50,Martinsville,32.0,11.0,46.0,Johnny Allen,Holly Farms (Fred Lovette),'62 Pontiac,84.0,125.0,crash,0.0
+1962,50,Martinsville,33.0,7.0,21.0,Marvin Panch,Wood Brothers,'62 Ford,83.0,125.0,brakes,0.0
+1962,50,Martinsville,34.0,33.0,17.0,Fred Harb,Fred Harb,'61 Ford,77.0,100.0,engine,0.0
+1962,50,Martinsville,35.0,26.0,79.0,T.C. Hunt,Ralph Smith,'62 Chevrolet,45.0,125.0,rear end,0.0
+1962,50,Martinsville,36.0,20.0,62.0,Curtis Crider,Curtis Crider,'62 Mercury,43.0,125.0,oil pressure,0.0
+1962,50,Martinsville,37.0,35.0,0.0,E.J. Trivette,Bill Church,'61 Chevrolet,29.0,100.0,brakes,0.0
+1962,51,North Wilkesboro,1.0,5.0,43.0,Richard Petty,Petty Enterprises,'62 Plymouth,320.0,2500.0,running,160.0
+1962,51,North Wilkesboro,2.0,3.0,21.0,Marvin Panch,Wood Brothers,'62 Ford,320.0,1400.0,running,0.0
+1962,51,North Wilkesboro,3.0,9.0,8.0,Joe Weatherly,Bud Moore,'62 Pontiac,320.0,875.0,running,0.0
+1962,51,North Wilkesboro,4.0,7.0,27.0,Junior Johnson,Holly Farms (Rex Lovette),'62 Pontiac,319.0,765.0,running,36.0
+1962,51,North Wilkesboro,5.0,4.0,41.0,Jim Paschal,Petty Enterprises,'62 Plymouth,319.0,650.0,running,0.0
+1962,51,North Wilkesboro,6.0,1.0,28.0,Fred Lorenzen,LaFayette (Holman-Moody Racing),'62 Ford,318.0,770.0,running,124.0
+1962,51,North Wilkesboro,7.0,2.0,29.0,Nelson Stacy,Ron's Ford Sales (Holman-Moody Racing),'62 Ford,318.0,500.0,running,0.0
+1962,51,North Wilkesboro,8.0,11.0,4.0,Rex White,Louis Clements (Rex White),'62 Chevrolet,318.0,375.0,running,0.0
+1962,51,North Wilkesboro,9.0,6.0,46.0,Johnny Allen,Holly Farms (Fred Lovette),'62 Pontiac,318.0,325.0,running,0.0
+1962,51,North Wilkesboro,10.0,15.0,54.0,Jimmy Pardue,Jimmy Pardue,'62 Pontiac,316.0,250.0,running,0.0
+1962,51,North Wilkesboro,11.0,12.0,11.0,Ned Jarrett,B.G. Holloway,'62 Chevrolet,315.0,425.0,running,0.0
+1962,51,North Wilkesboro,12.0,13.0,26.0,Darel Dieringer,Mamie Reynolds,'62 Ford,315.0,200.0,running,0.0
+1962,51,North Wilkesboro,13.0,30.0,47.0,Jack Smith,Jack Smith,'62 Pontiac,314.0,150.0,running,0.0
+1962,51,North Wilkesboro,14.0,20.0,66.0,Larry Frank,Ratus Walters,'62 Ford,314.0,165.0,running,0.0
+1962,51,North Wilkesboro,15.0,14.0,49.0,Bob Welborn,J.C. Parker,'62 Pontiac,313.0,150.0,running,0.0
+1962,51,North Wilkesboro,16.0,19.0,36.0,Larry Thomas,Wade Younts,'62 Dodge,309.0,135.0,running,0.0
+1962,51,North Wilkesboro,17.0,21.0,91.0,Gary Sain,Bob Osiecki,'62 Dodge,299.0,100.0,running,0.0
+1962,51,North Wilkesboro,18.0,22.0,1.0,George Green,Jess Potter,'61 Chevrolet,296.0,100.0,running,0.0
+1962,51,North Wilkesboro,19.0,17.0,48.0,G.C. Spencer,G.C. Spencer,'62 Chevrolet,294.0,125.0,running,0.0
+1962,51,North Wilkesboro,20.0,23.0,19.0,Herman Beam,Herman Beam,'62 Ford,288.0,100.0,running,0.0
+1962,51,North Wilkesboro,21.0,25.0,62.0,Curtis Crider,Curtis Crider,'62 Mercury,258.0,100.0,running,0.0
+1962,51,North Wilkesboro,22.0,28.0,37.0,Tom Cox,–,'60 Chevrolet,208.0,100.0,crash,0.0
+1962,51,North Wilkesboro,23.0,18.0,86.0,Buddy Baker,Buck Baker,'62 Chrysler,203.0,125.0,head gasket,0.0
+1962,51,North Wilkesboro,24.0,16.0,61.0,Sherman Utsman,Sherman Utsman,'62 Ford,176.0,125.0,crash,0.0
+1962,51,North Wilkesboro,25.0,26.0,58.0,Tiny Lund,Fred Clark,'62 Chevrolet,167.0,100.0,manifold,0.0
+1962,51,North Wilkesboro,26.0,24.0,2.0,Bill Foster,Cliff Stewart,'62 Pontiac,166.0,50.0,radiator,0.0
+1962,51,North Wilkesboro,27.0,10.0,87.0,Buck Baker,Buck Baker,'62 Chrysler,137.0,75.0,water pump,0.0
+1962,51,North Wilkesboro,28.0,31.0,34.0,Wendell Scott,Wendell Scott,'61 Chevrolet,110.0,50.0,engine,0.0
+1962,51,North Wilkesboro,29.0,8.0,22.0,Fireball Roberts,Jim Stephens,'62 Pontiac,75.0,75.0,head gasket,0.0
+1962,51,North Wilkesboro,30.0,27.0,50.0,Bobby Waddell,Bobby Waddell,'60 Dodge,53.0,50.0,gas tank,0.0
+1962,51,North Wilkesboro,31.0,29.0,5.0,George Fox,Bobby Waddell,'60 Dodge,3.0,50.0,transmission,0.0
+1962,52,Charlotte,1.0,3.0,3.0,Junior Johnson,Gerry Earl Pontiac (Ray Fox),'62 Pontiac,267.0,11355.0,running,204.0
+1962,52,Charlotte,2.0,1.0,22.0,Fireball Roberts,Stephens Pontiac (Jim Stephens),'62 Pontiac,265.0,5420.0,running,0.0
+1962,52,Charlotte,3.0,8.0,28.0,Fred Lorenzen,LaFayette (Holman-Moody Racing),'62 Ford,264.0,3230.0,running,0.0
+1962,52,Charlotte,4.0,27.0,83.0,Bunkie Blackburn,Worth McMillion,'62 Pontiac,262.0,2425.0,running,0.0
+1962,52,Charlotte,5.0,7.0,8.0,Joe Weatherly,Bud Moore,'62 Pontiac,261.0,1725.0,running,0.0
+1962,52,Charlotte,6.0,15.0,42.0,Jim Paschal,Petty Enterprises,'62 Plymouth,259.0,1250.0,running,0.0
+1962,52,Charlotte,7.0,20.0,20.0,Emanuel Zervakis,Emanuel Zervakis,'62 Mercury,258.0,1125.0,running,0.0
+1962,52,Charlotte,8.0,33.0,91.0,Ralph Earnhardt,Osiecki's Dodge (Bob Osiecki),'62 Dodge,258.0,1225.0,running,0.0
+1962,52,Charlotte,9.0,23.0,41.0,Speedy Thompson,Petty Enterprises,'62 Plymouth,258.0,900.0,running,0.0
+1962,52,Charlotte,10.0,19.0,49.0,Bob Welborn,J.C. Parker,'62 Pontiac,258.0,823.0,running,0.0
+1962,52,Charlotte,11.0,31.0,11.0,Ned Jarrett,City Chevrolet Co. (B.G. Holloway),'62 Chevrolet,255.0,1300.0,running,0.0
+1962,52,Charlotte,12.0,28.0,36.0,Larry Thomas,Wade Younts,'62 Dodge,255.0,625.0,running,0.0
+1962,52,Charlotte,13.0,32.0,90.0,Jimmy Thompson,Osiecki's Dodge (Bob Osiecki),'62 Dodge,254.0,850.0,running,0.0
+1962,52,Charlotte,14.0,36.0,61.0,Sherman Utsman,Sherman Utsman,'62 Ford,251.0,600.0,running,0.0
+1962,52,Charlotte,15.0,5.0,21.0,Marvin Panch,Hull Dobbs Ford (Wood Brothers),'62 Ford,250.0,760.0,block,47.0
+1962,52,Charlotte,16.0,12.0,43.0,Richard Petty,Petty Enterprises,'62 Plymouth,250.0,475.0,running,0.0
+1962,52,Charlotte,17.0,40.0,68.0,Ed Livingston,Livingston's Auto Parts (Ed Livingston),'61 Ford,243.0,475.0,running,0.0
+1962,52,Charlotte,18.0,11.0,87.0,Buck Baker,Buck Baker,'62 Chrysler,243.0,450.0,running,0.0
+1962,52,Charlotte,19.0,43.0,1.0,George Green,Jess Potter,'62 Chevrolet,242.0,425.0,running,0.0
+1962,52,Charlotte,20.0,18.0,54.0,Jimmy Pardue,Bush Olds-Pontiac (Jimmy Pardue),'62 Pontiac,238.0,425.0,running,0.0
+1962,52,Charlotte,21.0,30.0,62.0,Curtis Crider,Curtis Crider,'62 Mercury,237.0,350.0,running,0.0
+1962,52,Charlotte,22.0,44.0,19.0,Herman Beam,Herman Beam,'62 Ford,233.0,375.0,running,0.0
+1962,52,Charlotte,23.0,2.0,6.0,David Pearson,Cotton Owens,'62 Pontiac,230.0,460.0,ball joint,2.0
+1962,52,Charlotte,24.0,9.0,47.0,Jack Smith,Jack Smith,'62 Pontiac,223.0,450.0,fan belt,0.0
+1962,52,Charlotte,25.0,39.0,9.0,Cale Yarborough,Wildcat Williams,'62 Ford,212.0,375.0,wheel bearing,0.0
+1962,52,Charlotte,26.0,34.0,48.0,G.C. Spencer,G.C. Spencer,'61 Chevrolet,204.0,400.0,engine,0.0
+1962,52,Charlotte,27.0,16.0,12.0,Tiny Lund,Cliff Stewart,'62 Pontiac,194.0,400.0,timing,0.0
+1962,52,Charlotte,28.0,6.0,72.0,Bobby Johns,Shorty Johns,'62 Pontiac,185.0,360.0,distributor,14.0
+1962,52,Charlotte,29.0,29.0,84.0,Red Foote,Rocky Hinton,'61 Ford,181.0,300.0,head gasket,0.0
+1962,52,Charlotte,30.0,26.0,4.0,Rex White,Louis Clements (Rex White),'62 Chevrolet,178.0,350.0,engine,0.0
+1962,52,Charlotte,31.0,17.0,29.0,Nelson Stacy,Ron's Ford Sales (Holman-Moody Racing),'62 Ford,177.0,300.0,crash,0.0
+1962,52,Charlotte,32.0,35.0,30.0,Johnny Sudderth,Fred Clark,'62 Chevrolet,171.0,325.0,engine,0.0
+1962,52,Charlotte,33.0,24.0,86.0,Buddy Baker,Buck Baker,'62 Chrysler,168.0,250.0,oil pressure,0.0
+1962,52,Charlotte,34.0,14.0,18.0,Stick Elliott,Toy Bolton,'62 Pontiac,154.0,250.0,engine,0.0
+1962,52,Charlotte,35.0,25.0,97.0,Paul Lewis,Lewis Osborne,'62 Chevrolet,142.0,350.0,crash,0.0
+1962,52,Charlotte,36.0,42.0,96.0,Bruce Brantley,Lewis Osborne,'60 Chevrolet,139.0,275.0,rear end,0.0
+1962,52,Charlotte,37.0,38.0,2.0,Bill Foster,Cliff Stewart,'62 Pontiac,127.0,275.0,brakes,0.0
+1962,52,Charlotte,38.0,10.0,26.0,Darel Dieringer,Mamie Reynolds,'62 Ford,72.0,325.0,engine,0.0
+1962,52,Charlotte,39.0,41.0,79.0,T.C. Hunt,Ralph Smith,'62 Chevrolet,38.0,275.0,engine,0.0
+1962,52,Charlotte,40.0,22.0,27.0,Doug Yates,Melvin Bradley,'62 Chevrolet,31.0,250.0,engine,0.0
+1962,52,Charlotte,41.0,13.0,5.0,H.G. Rosier,H.G. Rosier,'61 Pontiac,22.0,400.0,transmission,0.0
+1962,52,Charlotte,42.0,37.0,38.0,Woodie Wilson,Matt DeMatthews,'61 Ford,19.0,275.0,axle,0.0
+1962,52,Charlotte,43.0,21.0,81.0,LeeRoy Yarbrough,Jimmy Baker,'62 Mercury,17.0,250.0,oil leak,0.0
+1962,52,Charlotte,44.0,4.0,46.0,Johnny Allen,Holly Farms (Fred Lovette),'62 Pontiac,8.0,350.0,head gasket,0.0
+1962,53,Atlanta,1.0,5.0,4.0,Rex White,"Nalley Chevrolet, Inc. / Louis Clements (Rex White)",'62 Chevrolet,267.0,10315.0,running,3.0
+1962,53,Atlanta,2.0,7.0,8.0,Joe Weatherly,Bud Moore,'62 Pontiac,267.0,5270.0,running,0.0
+1962,53,Atlanta,3.0,3.0,21.0,Marvin Panch,Hull-Dobbs (Wood Brothers),'62 Ford,267.0,3535.0,running,52.0
+1962,53,Atlanta,4.0,15.0,43.0,Richard Petty,Petty Enterprises,'62 Plymouth,266.0,2415.0,running,3.0
+1962,53,Atlanta,5.0,2.0,28.0,Fred Lorenzen,LaFayette (Holman-Moody Racing),'62 Ford,266.0,2000.0,running,0.0
+1962,53,Atlanta,6.0,28.0,77.0,Larry Frank,Ratus Walters,'62 Ford,264.0,1300.0,running,0.0
+1962,53,Atlanta,7.0,39.0,18.0,Stick Elliott,Toy Bolton,'62 Pontiac,263.0,1175.0,running,0.0
+1962,53,Atlanta,8.0,27.0,47.0,Buck Baker,Jack Smith,'62 Pontiac,263.0,1125.0,running,0.0
+1962,53,Atlanta,9.0,12.0,17.0,Jack Smith,Jack Smith,'62 Pontiac,262.0,900.0,running,0.0
+1962,53,Atlanta,10.0,1.0,22.0,Fireball Roberts,Jim Stephens,'62 Pontiac,262.0,2425.0,running,144.0
+1962,53,Atlanta,11.0,10.0,8.0,David Pearson,Bud Moore,'62 Pontiac,261.0,750.0,running,0.0
+1962,53,Atlanta,12.0,23.0,49.0,Bob Welborn,J.C. Parker,'62 Pontiac,261.0,600.0,running,0.0
+1962,53,Atlanta,13.0,30.0,66.0,Elmo Langley,Ratus Walters,'62 Ford,260.0,525.0,running,0.0
+1962,53,Atlanta,14.0,34.0,91.0,Ralph Earnhardt,Bob Osiecki,'62 Dodge,259.0,450.0,running,0.0
+1962,53,Atlanta,15.0,40.0,87.0,Buddy Baker,Buck Baker,'62 Chrysler,258.0,425.0,running,0.0
+1962,53,Atlanta,16.0,18.0,48.0,G.C. Spencer,G.C. Spencer,'62 Chevrolet,257.0,350.0,running,0.0
+1962,53,Atlanta,17.0,20.0,42.0,Jim Paschal,Petty Enterprises,'62 Plymouth,257.0,350.0,running,0.0
+1962,53,Atlanta,18.0,16.0,83.0,Bunkie Blackburn,Worth McMillion,'62 Pontiac,257.0,350.0,running,0.0
+1962,53,Atlanta,19.0,38.0,12.0,Tiny Lund,Cliff Stewart,'62 Pontiac,251.0,425.0,running,0.0
+1962,53,Atlanta,20.0,8.0,46.0,Johnny Allen,Holly Farms (Fred Lovette),'62 Pontiac,251.0,350.0,running,0.0
+1962,53,Atlanta,21.0,32.0,19.0,Herman Beam,Herman Beam,'62 Ford,241.0,325.0,running,0.0
+1962,53,Atlanta,22.0,26.0,90.0,Jimmy Thompson,Bob Osiecki,'62 Dodge,229.0,325.0,oil pressure,0.0
+1962,53,Atlanta,23.0,19.0,26.0,Darel Dieringer,Mamie Reynolds,'62 Ford,196.0,325.0,engine,0.0
+1962,53,Atlanta,24.0,6.0,72.0,Bobby Johns,Shorty Johns,'62 Pontiac,188.0,515.0,crash,38.0
+1962,53,Atlanta,25.0,22.0,54.0,Jimmy Pardue,Jimmy Pardue,'62 Pontiac,158.0,325.0,head gasket,0.0
+1962,53,Atlanta,26.0,36.0,61.0,Sherman Utsman,Sherman Utsman,'62 Ford,148.0,300.0,engine,0.0
+1962,53,Atlanta,27.0,21.0,20.0,Emanuel Zervakis,Emanuel Zervakis,'62 Mercury,145.0,300.0,transmission,0.0
+1962,53,Atlanta,28.0,13.0,40.0,Tommy Irwin,Rex White,'62 Chevrolet,124.0,300.0,crash,0.0
+1962,53,Atlanta,29.0,35.0,36.0,Larry Thomas,Wade Younts,'62 Dodge,104.0,300.0,a frame,0.0
+1962,53,Atlanta,30.0,37.0,24.0,H.B. Bailey,H.B. Bailey,'61 Pontiac,101.0,300.0,crash,0.0
+1962,53,Atlanta,31.0,33.0,5.0,H.G. Rosier,H.G. Rosier,'61 Pontiac,99.0,250.0,rear end,0.0
+1962,53,Atlanta,32.0,17.0,30.0,Johnny Sudderth,Fred Clark,'62 Chevrolet,85.0,250.0,sway bar,0.0
+1962,53,Atlanta,33.0,31.0,92.0,Cale Yarborough,Don Harrison,'62 Ford,84.0,250.0,engine,0.0
+1962,53,Atlanta,34.0,29.0,27.0,Doug Yates,Melvin Bradley,'62 Chevrolet,75.0,275.0,engine,0.0
+1962,53,Atlanta,35.0,9.0,29.0,Nelson Stacy,Ron's Ford Sales (Holman-Moody Racing),'62 Ford,71.0,250.0,crash,0.0
+1962,53,Atlanta,36.0,4.0,3.0,Junior Johnson,Jerry Earl Pontiac (Ray Fox),'62 Pontiac,66.0,560.0,crash,27.0
+1962,53,Atlanta,37.0,14.0,81.0,LeeRoy Yarbrough,Jimmy Baker,'62 Mercury,62.0,250.0,crash,0.0
+1962,53,Atlanta,38.0,41.0,84.0,Red Foote,Rocky Hinton,'61 Ford,55.0,275.0,engine,0.0
+1962,53,Atlanta,39.0,42.0,97.0,Paul Lewis,Lewis Osborne,'62 Chevrolet,20.0,250.0,engine,0.0
+1962,53,Atlanta,40.0,11.0,11.0,Ned Jarrett,B.G. Holloway,'62 Chevrolet,12.0,550.0,engine,0.0
+1962,53,Atlanta,41.0,44.0,38.0,Woodie Wilson,Matt DeMatthews,'61 Ford,12.0,250.0,axle,0.0
+1962,53,Atlanta,42.0,24.0,86.0,Tom Cox,Buck Baker,'62 Chrysler,11.0,250.0,oil pressure,0.0
+1962,53,Atlanta,43.0,25.0,62.0,Curtis Crider,Curtis Crider,'62 Mercury,6.0,250.0,fr plug,0.0
+1962,53,Atlanta,44.0,43.0,1.0,George Green,Jess Potter,'61 Chevrolet,3.0,250.0,engine,0.0

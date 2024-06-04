@@ -1,0 +1,939 @@
+Season,Race,Track,Pos,St,#,Driver,Sponsor / Owner,Truck,Laps,Money,Status,Led,Pts
+1998,1,Disney,1.0,2.0,16.0,"Ron Hornaday, Jr.","NAPA Brakes (Dale Earnhardt, Inc.)",Chevrolet,204.0,48625.0,running,35.0,180.0
+1998,1,Disney,2.0,15.0,50.0,Joe Ruttman,LCI International (Jack Roush),Ford,204.0,40325.0,running,16.0,170.0
+1998,1,Disney,3.0,17.0,6.0,Rick Carelli,RE/MAX International (Marshall Chesrown),Chevrolet,204.0,31875.0,running,0.0,165.0
+1998,1,Disney,4.0,3.0,24.0,Jack Sprague,Quaker State (Rick Hendrick),Chevrolet,204.0,22175.0,running,0.0,160.0
+1998,1,Disney,5.0,20.0,80.0,Greg Biffle,Grainger (Jack Roush),Ford,204.0,19675.0,running,0.0,155.0
+1998,1,Disney,6.0,26.0,87.0,Joe Nemechek,BellSouth Mobility (Joe Nemechek),Chevrolet,204.0,14575.0,running,0.0,150.0
+1998,1,Disney,7.0,29.0,3.0,Jay Sauter,GM Goodwrench Service Plus (Richard Childress),Chevrolet,204.0,13085.0,running,0.0,146.0
+1998,1,Disney,8.0,23.0,29.0,Bob Keselowski,Mopar Performance (Ron Keselowski),Dodge,204.0,12585.0,running,0.0,142.0
+1998,1,Disney,9.0,32.0,18.0,Butch Miller,Dana Corporation (Ron Norick),Dodge,204.0,12335.0,running,0.0,138.0
+1998,1,Disney,10.0,28.0,78.0,Rich Bickle,MCI (Dominic Dobson),Dodge,204.0,12235.0,running,0.0,134.0
+1998,1,Disney,11.0,8.0,44.0,Boris Said,Federated Auto Parts (Mark Simo),Ford,204.0,11385.0,running,0.0,130.0
+1998,1,Disney,12.0,9.0,2.0,Mike Bliss,Team ASE Racing (Jim Smith),Ford,204.0,11185.0,running,2.0,127.0
+1998,1,Disney,13.0,22.0,66.0,Bryan Reffner,Carlin Burners & Controls (Dale Phelon),Ford,204.0,10985.0,running,0.0,124.0
+1998,1,Disney,14.0,30.0,43.0,Jimmy Hensley,Cummins Engines (Petty Enterprises),Dodge,203.0,10785.0,running,0.0,121.0
+1998,1,Disney,15.0,31.0,84.0,Wayne Anderson,Porter-Cable Power Tools (Jim Herrick),Ford,203.0,10185.0,running,0.0,118.0
+1998,1,Disney,16.0,11.0,19.0,Tony Raines,Pennzoil (Kurt Roehrig),Ford,203.0,10485.0,running,0.0,115.0
+1998,1,Disney,17.0,34.0,51.0,Tammy Jo Kirk,Auto Value (Tammy Jo Kirk),Ford,203.0,10635.0,running,0.0,112.0
+1998,1,Disney,18.0,16.0,75.0,Kevin Harvick,Spears Manufacturing (Wayne Spears),Chevrolet,203.0,9285.0,running,0.0,109.0
+1998,1,Disney,19.0,5.0,5.0,Mike Skinner,Llumar Window Films (Mike Skinner),Chevrolet,203.0,9185.0,running,0.0,106.0
+1998,1,Disney,20.0,33.0,61.0,Randy Tolsma,Dole / IWX Motor Freight (Steve Coulter),Chevrolet,202.0,10460.0,running,0.0,103.0
+1998,1,Disney,21.0,27.0,88.0,Terry Cook,Sealmaster / PBA Tour (Duke Thorson),Chevrolet,202.0,8985.0,running,0.0,100.0
+1998,1,Disney,22.0,24.0,35.0,"Ron Barfield, Jr.",Ortho Lawn & Garden Products (Charles Hardy),Chevrolet,201.0,8885.0,running,0.0,97.0
+1998,1,Disney,23.0,14.0,83.0,Joe Gaita,Lamb & Robinson Drywall (Joe Gaita),Ford,201.0,8785.0,running,0.0,94.0
+1998,1,Disney,24.0,4.0,52.0,Mike Wallace,Purolator PureOne Filters (Ken Schrader),Chevrolet,196.0,9435.0,crash,35.0,91.0
+1998,1,Disney,25.0,1.0,99.0,Chuck Bown,Exide Batteries (Jack Roush),Ford,182.0,11535.0,running,116.0,88.0
+1998,1,Disney,26.0,10.0,37.0,Scot Walters,Red Man (Clarence Brewer),Chevrolet,177.0,8235.0,running,0.0,85.0
+1998,1,Disney,27.0,12.0,60.0,Andy Houston,Addington Racing (Mike Addington),Chevrolet,175.0,7785.0,running,0.0,82.0
+1998,1,Disney,28.0,6.0,31.0,Tony Roper,Concor Tool & Machine (Bob Brevak),Ford,174.0,8785.0,crash,0.0,79.0
+1998,1,Disney,29.0,18.0,14.0,Rick Crawford,Circle Bar Motel & RV Park (Tom Mitchell),Ford,173.0,8785.0,running,0.0,76.0
+1998,1,Disney,30.0,19.0,86.0,Stacy Compton,Royal Crown Cola (David Hodson),Ford,164.0,8785.0,rear end,0.0,73.0
+1998,1,Disney,31.0,36.0,55.0,Dave Rezendes,Icehouse Beer (Tom Gloy),Ford,142.0,8785.0,running,0.0,70.0
+1998,1,Disney,32.0,13.0,11.0,Brett Bodine,Red Line Oil (Phil Bonifield),Chevrolet,115.0,7785.0,engine,0.0,67.0
+1998,1,Disney,33.0,7.0,10.0,"Lonnie Rush, Jr.",A & G Coal (Jerry Wharton),Chevrolet,103.0,7785.0,crash,0.0,64.0
+1998,1,Disney,34.0,35.0,40.0,Bobby Hamilton,Southern Pride Trucking (Bobby Hamilton Racing),Chevrolet,94.0,8035.0,transmission,0.0,61.0
+1998,1,Disney,35.0,21.0,7.0,Barry Bodine,Purvis Brothers Ford (Jim Mattei),Ford,55.0,7785.0,engine,0.0,58.0
+1998,1,Disney,36.0,25.0,4.0,Tommy Archer,All American Museum (Bill Westbrook),Dodge,15.0,7785.0,engine,0.0,55.0
+1998,2,Homestead,1.0,12.0,14.0,Rick Crawford,Circle Bar Motel & RV Park (Tom Mitchell),Ford,167.0,52850.0,running,31.0,180.0
+1998,2,Homestead,2.0,1.0,24.0,Jack Sprague,Team Hendrick (Rick Hendrick),Chevrolet,167.0,27350.0,running,81.0,170.0
+1998,2,Homestead,3.0,10.0,3.0,Jay Sauter,GM Goodwrench Service Plus (Richard Childress),Chevrolet,167.0,18850.0,running,0.0,165.0
+1998,2,Homestead,4.0,23.0,50.0,Greg Biffle,Grainger (Jack Roush),Ford,167.0,15450.0,running,0.0,160.0
+1998,2,Homestead,5.0,4.0,35.0,"Ron Barfield, Jr.",Ortho Lawn & Garden Products (Charles Hardy),Chevrolet,167.0,13950.0,running,4.0,155.0
+1998,2,Homestead,6.0,11.0,86.0,Stacy Compton,Royal Crown Cola (David Hodson),Ford,167.0,13700.0,running,0.0,150.0
+1998,2,Homestead,7.0,14.0,29.0,Bob Keselowski,Mopar Performance (Ron Keselowski),Dodge,167.0,11900.0,running,0.0,146.0
+1998,2,Homestead,8.0,21.0,16.0,"Ron Hornaday, Jr.","NAPA Brakes (Dale Earnhardt, Inc.)",Chevrolet,167.0,11400.0,running,1.0,142.0
+1998,2,Homestead,9.0,28.0,55.0,Dave Rezendes,Icehouse Beer (Tom Gloy),Ford,167.0,11200.0,running,0.0,138.0
+1998,2,Homestead,10.0,33.0,37.0,Scot Walters,Red Man (Clarence Brewer),Chevrolet,167.0,10775.0,running,0.0,134.0
+1998,2,Homestead,11.0,37.0,7.0,Barry Bodine,Damron's Auto Parts (Jim Clark),Chevrolet,167.0,9900.0,running,0.0,130.0
+1998,2,Homestead,12.0,26.0,57.0,Chuck Bown,CSG Motorsports (Ed Scherer),Ford,167.0,10800.0,running,0.0,127.0
+1998,2,Homestead,13.0,31.0,75.0,Kevin Harvick,Spears Manufacturing (Wayne Spears),Chevrolet,167.0,9700.0,running,0.0,124.0
+1998,2,Homestead,14.0,2.0,2.0,Mike Bliss,Team ASE Racing (Jim Smith),Ford,167.0,10600.0,running,24.0,121.0
+1998,2,Homestead,15.0,34.0,51.0,Tammy Jo Kirk,Auto Value (Tammy Jo Kirk),Ford,167.0,10850.0,running,0.0,118.0
+1998,2,Homestead,16.0,38.0,0.0,Frank Kimmel,Sprayer Auto Parts (Andy Campbell),Chevrolet,167.0,9400.0,running,0.0,115.0
+1998,2,Homestead,17.0,3.0,17.0,Rich Bickle,Sears DieHard (Tim Beverley),Chevrolet,167.0,10300.0,running,0.0,112.0
+1998,2,Homestead,18.0,25.0,6.0,Rick Carelli,RE/MAX International (Marshall Chesrown),Chevrolet,167.0,10200.0,running,26.0,109.0
+1998,2,Homestead,19.0,36.0,84.0,Wayne Anderson,Porter-Cable Power Tools (Jim Herrick),Ford,166.0,9100.0,running,0.0,106.0
+1998,2,Homestead,20.0,17.0,60.0,Andy Houston,Addington Racing (Mike Addington),Chevrolet,166.0,9225.0,running,0.0,103.0
+1998,2,Homestead,21.0,30.0,18.0,Butch Miller,Dana Corporation (Ron Norick),Dodge,166.0,9800.0,running,0.0,100.0
+1998,2,Homestead,22.0,7.0,99.0,Joe Ruttman,Exide Batteries (Jack Roush),Ford,165.0,9600.0,running,0.0,97.0
+1998,2,Homestead,23.0,32.0,32.0,Curtis Markham,Active Truck Team (Joe Horner),Chevrolet,165.0,8475.0,running,0.0,94.0
+1998,2,Homestead,24.0,5.0,44.0,Boris Said,Federated Auto Parts (Mark Simo),Ford,165.0,9175.0,running,0.0,91.0
+1998,2,Homestead,25.0,15.0,19.0,Tony Raines,Pennzoil (Kurt Roehrig),Ford,164.0,8975.0,running,0.0,88.0
+1998,2,Homestead,26.0,20.0,82.0,Randy Nelson,Rhino Linings USA (Steve Lucore),Ford,155.0,7775.0,running,0.0,85.0
+1998,2,Homestead,27.0,22.0,90.0,Lance Norick,NHL (Ron Norick),Dodge,140.0,7575.0,engine,0.0,82.0
+1998,2,Homestead,28.0,24.0,43.0,Jimmy Hensley,Cummins Engines (Petty Enterprises),Dodge,137.0,7375.0,engine,0.0,79.0
+1998,2,Homestead,29.0,19.0,6.0,Randy MacDonald,Ams Oil (Dick Greenfield),Dodge,134.0,7175.0,running,0.0,76.0
+1998,2,Homestead,30.0,18.0,98.0,Rob Rizzo,Hastings Premium Filters (Jim Herrick),Ford,129.0,6425.0,crash,0.0,73.0
+1998,2,Homestead,31.0,8.0,66.0,Bryan Reffner,Carlin Burners & Controls (Dale Phelon),Ford,95.0,7325.0,engine,0.0,70.0
+1998,2,Homestead,32.0,13.0,10.0,"Lonnie Rush, Jr.",A & G Coal (Jerry Wharton),Chevrolet,88.0,6225.0,rear end,0.0,67.0
+1998,2,Homestead,33.0,35.0,26.0,Doug George,Auto Trim Design Network (Mike Mittler),Ford,59.0,7075.0,engine,0.0,64.0
+1998,2,Homestead,34.0,16.0,52.0,Mike Wallace,Dayco No-Slack Belts (Ken Schrader),Chevrolet,50.0,6075.0,engine,0.0,61.0
+1998,2,Homestead,35.0,29.0,83.0,Joe Gaita,Lamb & Robinson Drywall (Joe Gaita),Ford,41.0,6075.0,overheating,0.0,58.0
+1998,2,Homestead,36.0,27.0,31.0,Tony Roper,Big Daddy's BBQ Sauce (Bob Brevak),Ford,33.0,7075.0,engine,0.0,55.0
+1998,2,Homestead,37.0,9.0,61.0,Randy Tolsma,IWX Motor Freight (Steve Coulter),Chevrolet,17.0,6075.0,crash,0.0,52.0
+1998,2,Homestead,38.0,6.0,88.0,Terry Cook,Nokia / George Strait Country Music Festival (Duke Thorson),Chevrolet,0.0,6075.0,crash,0.0,49.0
+1998,3,Phoenix,1.0,4.0,16.0,"Ron Hornaday, Jr.","NAPA Brakes (Dale Earnhardt, Inc.)",Chevrolet,150.0,35875.0,running,20.0,180.0
+1998,3,Phoenix,2.0,3.0,24.0,Jack Sprague,Team Hendrick (Rick Hendrick),Chevrolet,150.0,26625.0,running,93.0,170.0
+1998,3,Phoenix,3.0,1.0,86.0,Stacy Compton,Royal Crown Cola (David Hodson),Ford,150.0,21250.0,running,37.0,165.0
+1998,3,Phoenix,4.0,2.0,60.0,Andy Houston,Addington Racing (Mike Addington),Chevrolet,150.0,9050.0,running,0.0,160.0
+1998,3,Phoenix,5.0,11.0,14.0,Rick Crawford,Circle Bar Motel & RV Park (Tom Mitchell),Ford,150.0,10275.0,running,0.0,155.0
+1998,3,Phoenix,6.0,14.0,3.0,Jay Sauter,GM Goodwrench Service Plus (Richard Childress),Chevrolet,150.0,6475.0,running,0.0,150.0
+1998,3,Phoenix,7.0,21.0,99.0,Joe Ruttman,Exide Batteries (Jack Roush),Ford,150.0,6525.0,running,0.0,146.0
+1998,3,Phoenix,8.0,10.0,66.0,Bryan Reffner,Carlin Burners & Controls (Dale Phelon),Ford,150.0,6375.0,running,0.0,142.0
+1998,3,Phoenix,9.0,12.0,19.0,Tony Raines,Pennzoil (Kurt Roehrig),Ford,150.0,6275.0,running,0.0,138.0
+1998,3,Phoenix,10.0,13.0,61.0,Randy Tolsma,IWX Motor Freight (Steve Coulter),Chevrolet,150.0,7225.0,running,0.0,134.0
+1998,3,Phoenix,11.0,9.0,52.0,Mike Wallace,Dayco No-Slack Belts (Ken Schrader),Chevrolet,150.0,5225.0,running,0.0,130.0
+1998,3,Phoenix,12.0,17.0,31.0,Tony Roper,Big Daddy's BBQ Sauce (Bob Brevak),Ford,150.0,6065.0,running,0.0,127.0
+1998,3,Phoenix,13.0,18.0,75.0,Kevin Harvick,Spears Manufacturing (Wayne Spears),Chevrolet,150.0,5015.0,running,0.0,124.0
+1998,3,Phoenix,14.0,22.0,43.0,Jimmy Hensley,Cummins Engines (Petty Enterprises),Dodge,150.0,5965.0,running,0.0,121.0
+1998,3,Phoenix,15.0,8.0,44.0,Boris Said,Federated Auto Parts (Mark Simo),Ford,150.0,6040.0,running,0.0,118.0
+1998,3,Phoenix,16.0,33.0,88.0,Terry Cook,Sealmaster / PBA Tour (Duke Thorson),Chevrolet,150.0,5865.0,running,0.0,115.0
+1998,3,Phoenix,17.0,7.0,6.0,Rick Carelli,RE/MAX International (Marshall Chesrown),Chevrolet,150.0,5815.0,running,0.0,112.0
+1998,3,Phoenix,18.0,20.0,55.0,Dave Rezendes,Icehouse Beer (Tom Gloy),Ford,150.0,5765.0,running,0.0,109.0
+1998,3,Phoenix,19.0,28.0,78.0,Dominic Dobson,MCI (Dominic Dobson),Dodge,150.0,4965.0,running,0.0,106.0
+1998,3,Phoenix,20.0,30.0,84.0,Wayne Anderson,Porter-Cable Power Tools (Jim Herrick),Ford,149.0,4415.0,running,0.0,103.0
+1998,3,Phoenix,21.0,19.0,35.0,"Ron Barfield, Jr.",Ortho Lawn & Garden Products (Charles Hardy),Chevrolet,149.0,4590.0,running,0.0,100.0
+1998,3,Phoenix,22.0,34.0,37.0,Scot Walters,Red Man (Clarence Brewer),Chevrolet,148.0,4540.0,running,0.0,97.0
+1998,3,Phoenix,23.0,29.0,57.0,Chuck Bown,Cunningham Historic Motorcars (Ed Scherer),Ford,148.0,5440.0,running,0.0,94.0
+1998,3,Phoenix,24.0,31.0,81.0,Randy Nelson,Rhino Linings USA (Jerry Glanville),Ford,148.0,4340.0,running,0.0,91.0
+1998,3,Phoenix,25.0,36.0,9.0,David Starr,Reher-Morrison (Buddy Morrison),Chevrolet,147.0,4240.0,running,0.0,88.0
+1998,3,Phoenix,26.0,23.0,10.0,"Lonnie Rush, Jr.",A & G Coal (Jerry Wharton),Chevrolet,146.0,4140.0,running,0.0,85.0
+1998,3,Phoenix,27.0,27.0,15.0,Rob Morgan,Acxiom (Billy Ballew),Ford,145.0,4040.0,running,0.0,82.0
+1998,3,Phoenix,28.0,25.0,42.0,Rick McCray,McCray Racing (Rick McCray),Chevrolet,140.0,3940.0,running,0.0,79.0
+1998,3,Phoenix,29.0,35.0,33.0,Jay Stewart,Farris Concrete (Jay Stewart),Chevrolet,139.0,3840.0,running,0.0,76.0
+1998,3,Phoenix,30.0,32.0,26.0,Doug George,Auto Trim Design (Mike Mittler),Ford,107.0,4750.0,running,0.0,73.0
+1998,3,Phoenix,31.0,15.0,18.0,Butch Miller,Dana Corporation (Ron Norick),Dodge,99.0,4555.0,engine,0.0,70.0
+1998,3,Phoenix,32.0,26.0,29.0,Bob Keselowski,Mopar Performance (Ron Keselowski),Dodge,87.0,4555.0,running,0.0,67.0
+1998,3,Phoenix,33.0,5.0,2.0,Mike Bliss,Team ASE Racing (Jim Smith),Ford,70.0,4555.0,engine,0.0,64.0
+1998,3,Phoenix,34.0,6.0,32.0,Curtis Markham,Active Truck Team (Joe Horner),Chevrolet,40.0,3555.0,engine,0.0,61.0
+1998,3,Phoenix,35.0,24.0,90.0,Lance Norick,NHL (Ron Norick),Dodge,17.0,3555.0,engine,0.0,58.0
+1998,3,Phoenix,36.0,16.0,50.0,Greg Biffle,Grainger (Jack Roush),Ford,2.0,3555.0,crash,0.0,55.0
+1998,4,Portland,1.0,2.0,86.0,Stacy Compton,Royal Crown Cola (David Hodson),Ford,200.0,41600.0,running,198.0,180.0
+1998,4,Portland,2.0,3.0,61.0,Randy Tolsma,IWX Motor Freight (Steve Coulter),Chevrolet,200.0,26550.0,running,0.0,170.0
+1998,4,Portland,3.0,13.0,6.0,Rick Carelli,RE/MAX International (Marshall Chesrown),Chevrolet,200.0,20150.0,running,0.0,165.0
+1998,4,Portland,4.0,8.0,24.0,Jack Sprague,Big Daddy's BBQ Sauce (Rick Hendrick),Chevrolet,200.0,11000.0,running,0.0,160.0
+1998,4,Portland,5.0,11.0,19.0,Tony Raines,Pennzoil (Kurt Roehrig),Ford,200.0,8650.0,running,0.0,155.0
+1998,4,Portland,6.0,10.0,16.0,"Ron Hornaday, Jr.","NAPA Brakes (Dale Earnhardt, Inc.)",Chevrolet,200.0,7150.0,running,0.0,150.0
+1998,4,Portland,7.0,12.0,66.0,Bryan Reffner,Carlin Burners & Controls (Dale Phelon),Ford,200.0,8300.0,running,0.0,146.0
+1998,4,Portland,8.0,7.0,3.0,Jay Sauter,GM Goodwrench Service Plus (Richard Childress),Chevrolet,200.0,6900.0,running,0.0,142.0
+1998,4,Portland,9.0,14.0,99.0,Joe Ruttman,Exide Batteries (Jack Roush),Ford,200.0,6850.0,running,0.0,138.0
+1998,4,Portland,10.0,20.0,31.0,Tony Roper,Bendix Brakes (Bob Brevak),Ford,200.0,7725.0,running,0.0,134.0
+1998,4,Portland,11.0,18.0,18.0,Butch Miller,Dana Corporation (Ron Norick),Dodge,200.0,6750.0,running,0.0,130.0
+1998,4,Portland,12.0,15.0,43.0,Jimmy Hensley,Cummins Engines (Petty Enterprises),Dodge,199.0,6700.0,running,0.0,127.0
+1998,4,Portland,13.0,16.0,29.0,Bob Keselowski,Mopar Performance (Ron Keselowski),Dodge,199.0,6650.0,running,0.0,124.0
+1998,4,Portland,14.0,17.0,75.0,Kevin Harvick,Spears Manufacturing (Wayne Spears),Chevrolet,199.0,5600.0,running,0.0,121.0
+1998,4,Portland,15.0,9.0,57.0,Chuck Bown,Cunningham Historic Motorcars (Ed Scherer),Ford,199.0,7000.0,running,0.0,118.0
+1998,4,Portland,16.0,25.0,60.0,Andy Houston,Addington Racing (Mike Addington),Chevrolet,199.0,6200.0,running,0.0,115.0
+1998,4,Portland,17.0,22.0,55.0,Dave Rezendes,Icehouse Beer (Tom Gloy),Ford,198.0,6400.0,running,0.0,112.0
+1998,4,Portland,18.0,4.0,35.0,"Ron Barfield, Jr.",Ortho Lawn & Garden Products (Charles Hardy),Chevrolet,198.0,5350.0,running,0.0,109.0
+1998,4,Portland,19.0,27.0,52.0,Mike Wallace,Purolator PureOne Filters (Ken Schrader),Chevrolet,198.0,6300.0,running,0.0,106.0
+1998,4,Portland,20.0,21.0,10.0,"Lonnie Rush, Jr.",A & G Coal (Jerry Wharton),Chevrolet,198.0,5475.0,running,0.0,103.0
+1998,4,Portland,21.0,23.0,90.0,Lance Norick,NHL (Ron Norick),Dodge,197.0,5200.0,running,0.0,100.0
+1998,4,Portland,22.0,26.0,37.0,Scot Walters,Red Man (Clarence Brewer),Chevrolet,197.0,5400.0,running,0.0,97.0
+1998,4,Portland,23.0,19.0,44.0,Boris Said,Federated Auto Parts (Mark Simo),Ford,196.0,6100.0,running,0.0,94.0
+1998,4,Portland,24.0,32.0,82.0,Randy Nelson,Rhino Linings USA (Steve Lucore),Ford,190.0,5050.0,running,0.0,91.0
+1998,4,Portland,25.0,30.0,84.0,Wayne Anderson,Porter-Cable Power Tools (Jim Herrick),Ford,183.0,4950.0,running,0.0,88.0
+1998,4,Portland,26.0,1.0,50.0,Greg Biffle,Grainger (Jack Roush),Ford,169.0,5625.0,running,2.0,85.0
+1998,4,Portland,27.0,5.0,14.0,Rick Crawford,Circle Bar Motel & RV Park (Tom Mitchell),Ford,159.0,5900.0,running,0.0,82.0
+1998,4,Portland,28.0,6.0,2.0,Mike Bliss,Team ASE Racing (Jim Smith),Ford,142.0,5875.0,engine,0.0,79.0
+1998,4,Portland,29.0,31.0,78.0,Dominic Dobson,MCI (Dominic Dobson),Dodge,141.0,4875.0,running,0.0,76.0
+1998,4,Portland,30.0,28.0,26.0,Doug George,Auto Trim Design (Mike Mittler),Ford,131.0,5875.0,running,0.0,73.0
+1998,4,Portland,31.0,29.0,88.0,Terry Cook,Jani-King / PBA Tour (Duke Thorson),Chevrolet,126.0,4875.0,running,0.0,70.0
+1998,4,Portland,32.0,24.0,42.0,Rick McCray,McCray Racing (Rick McCray),Chevrolet,99.0,4875.0,crash,0.0,67.0
+1998,5,Evergreen,1.0,6.0,24.0,Jack Sprague,Team Hendrick (Rick Hendrick),Chevrolet,200.0,40300.0,running,162.0,180.0
+1998,5,Evergreen,2.0,5.0,16.0,"Ron Hornaday, Jr.","NAPA Brakes (Dale Earnhardt, Inc.)",Chevrolet,200.0,21635.0,running,0.0,170.0
+1998,5,Evergreen,3.0,14.0,61.0,Randy Tolsma,IWX Motor Freight (Steve Coulter),Chevrolet,200.0,16325.0,running,0.0,165.0
+1998,5,Evergreen,4.0,4.0,86.0,Stacy Compton,Royal Crown Cola (David Hodson),Ford,200.0,13625.0,running,0.0,160.0
+1998,5,Evergreen,5.0,7.0,52.0,Mike Wallace,Purolator PureOne Filters (Ken Schrader),Chevrolet,200.0,8225.0,running,0.0,155.0
+1998,5,Evergreen,6.0,12.0,31.0,Tony Roper,Bendix Brakes (Bob Brevak),Ford,200.0,7275.0,running,0.0,150.0
+1998,5,Evergreen,7.0,11.0,6.0,Rick Carelli,RE/MAX International (Marshall Chesrown),Chevrolet,200.0,7125.0,running,0.0,146.0
+1998,5,Evergreen,8.0,8.0,66.0,Bryan Reffner,Carlin Burners & Controls (Dale Phelon),Ford,200.0,7075.0,running,0.0,142.0
+1998,5,Evergreen,9.0,9.0,35.0,"Ron Barfield, Jr.",Ortho Lawn & Garden Products (Charles Hardy),Chevrolet,199.0,7050.0,running,0.0,138.0
+1998,5,Evergreen,10.0,26.0,18.0,Butch Miller,Dana Corporation (Ron Norick),Dodge,199.0,7875.0,running,0.0,134.0
+1998,5,Evergreen,11.0,10.0,10.0,"Lonnie Rush, Jr.",A & G Coal (Jerry Wharton),Chevrolet,199.0,5950.0,running,0.0,130.0
+1998,5,Evergreen,12.0,1.0,99.0,Joe Ruttman,Exide Batteries (Jack Roush),Ford,199.0,7600.0,running,38.0,127.0
+1998,5,Evergreen,13.0,15.0,29.0,Bob Keselowski,Mopar Performance (Ron Keselowski),Dodge,199.0,6825.0,running,0.0,124.0
+1998,5,Evergreen,14.0,19.0,90.0,Lance Norick,NHL (Ron Norick),Dodge,199.0,5725.0,running,0.0,121.0
+1998,5,Evergreen,15.0,21.0,84.0,Wayne Anderson,Porter-Cable Power Tools (Jim Herrick),Ford,199.0,7925.0,running,0.0,118.0
+1998,5,Evergreen,16.0,2.0,3.0,Jay Sauter,GM Goodwrench Service Plus (Richard Childress),Chevrolet,198.0,7525.0,running,0.0,115.0
+1998,5,Evergreen,17.0,3.0,50.0,Greg Biffle,Grainger (Jack Roush),Ford,198.0,6725.0,running,0.0,112.0
+1998,5,Evergreen,18.0,18.0,19.0,Tony Raines,Pennzoil (Kurt Roehrig),Ford,198.0,6425.0,running,0.0,109.0
+1998,5,Evergreen,19.0,27.0,43.0,Jimmy Hensley,Cummins Engines (Petty Enterprises),Dodge,198.0,6325.0,running,0.0,106.0
+1998,5,Evergreen,20.0,28.0,57.0,Chuck Bown,Cunningham Historic Motorcars (Ed Scherer),Ford,198.0,6425.0,running,0.0,103.0
+1998,5,Evergreen,21.0,16.0,14.0,Rick Crawford,Circle Bar Motel & RV Park (Tom Mitchell),Ford,198.0,6275.0,running,0.0,100.0
+1998,5,Evergreen,22.0,31.0,78.0,Dominic Dobson,MCI (Dominic Dobson),Dodge,197.0,5225.0,running,0.0,97.0
+1998,5,Evergreen,23.0,32.0,82.0,Randy Nelson,Rhino Linings USA (Steve Lucore),Ford,197.0,5125.0,running,0.0,94.0
+1998,5,Evergreen,24.0,30.0,55.0,Ernie Cope,Icehouse Beer (Tom Gloy),Ford,196.0,5125.0,running,0.0,91.0
+1998,5,Evergreen,25.0,25.0,37.0,Scot Walters,Red Man (Clarence Brewer),Chevrolet,194.0,5025.0,running,0.0,88.0
+1998,5,Evergreen,26.0,24.0,44.0,Boris Said,Federated Auto Parts (Mark Simo),Ford,194.0,6000.0,running,0.0,85.0
+1998,5,Evergreen,27.0,23.0,42.0,Rick McCray,McCray Racing (Rick McCray),Chevrolet,192.0,4950.0,running,0.0,82.0
+1998,5,Evergreen,28.0,22.0,60.0,Andy Houston,Addington Racing (Mike Addington),Chevrolet,189.0,5950.0,running,0.0,79.0
+1998,5,Evergreen,29.0,29.0,88.0,Terry Cook,Jani-King / PBA Tour (Duke Thorson),Chevrolet,184.0,4950.0,running,0.0,76.0
+1998,5,Evergreen,30.0,17.0,2.0,Mike Bliss,Team ASE Racing (Jim Smith),Ford,180.0,4950.0,running,0.0,73.0
+1998,5,Evergreen,31.0,20.0,75.0,Kevin Harvick,Spears Manufacturing (Wayne Spears),Chevrolet,106.0,5950.0,crash,0.0,70.0
+1998,5,Evergreen,32.0,13.0,26.0,Doug George,Auto Trim Design Network (Mike Mittler),Ford,84.0,4950.0,engine,0.0,67.0
+1998,6,I-70,1.0,1.0,19.0,Tony Raines,Pennzoil (Kurt Roehrig),Ford,200.0,33850.0,running,182.0,180.0
+1998,6,I-70,2.0,8.0,99.0,Joe Ruttman,Exide Batteries (Jack Roush),Ford,200.0,27525.0,running,0.0,170.0
+1998,6,I-70,3.0,3.0,2.0,Mike Bliss,Team ASE / Ultra Wheels (Jim Smith),Ford,200.0,18525.0,running,0.0,165.0
+1998,6,I-70,4.0,12.0,66.0,Bryan Reffner,Carlin Burners & Controls / Phelon (Dale Phelon),Ford,200.0,13025.0,running,0.0,160.0
+1998,6,I-70,5.0,7.0,24.0,Jack Sprague,Quaker State / 1-800-Marrow (Rick Hendrick),Chevrolet,200.0,11450.0,running,0.0,155.0
+1998,6,I-70,6.0,9.0,16.0,"Ron Hornaday, Jr.","NAPA Brakes (Dale Earnhardt, Inc.)",Chevrolet,200.0,7550.0,running,0.0,150.0
+1998,6,I-70,7.0,5.0,52.0,Mike Wallace,Purolator PureOne Filters / O'Reilly (Ken Schrader),Chevrolet,200.0,7300.0,running,0.0,146.0
+1998,6,I-70,8.0,6.0,31.0,Tony Roper,Bendix Brakes (Bob Brevak),Ford,200.0,7200.0,running,0.0,142.0
+1998,6,I-70,9.0,27.0,84.0,Wayne Anderson,Porter-Cable Power Tools (Jim Herrick),Ford,200.0,7900.0,running,0.0,138.0
+1998,6,I-70,10.0,18.0,60.0,Andy Houston,Addington Racing (Mike Addington),Chevrolet,200.0,7525.0,running,0.0,134.0
+1998,6,I-70,11.0,4.0,86.0,Stacy Compton,Royal Crown Cola (David Hodson),Ford,200.0,7050.0,running,0.0,130.0
+1998,6,I-70,12.0,29.0,35.0,"Ron Barfield, Jr.",Ortho Lawn & Garden / New Holland (Charles Hardy),Chevrolet,200.0,7025.0,running,0.0,127.0
+1998,6,I-70,13.0,11.0,18.0,Butch Miller,Spicer / Dana Corporation (Ron Norick),Dodge,200.0,7000.0,running,0.0,124.0
+1998,6,I-70,14.0,14.0,68.0,Mike Garvey,Metro Milwaukee Auto Auction (Jerry Gunderman),Chevrolet,200.0,5975.0,running,0.0,121.0
+1998,6,I-70,15.0,23.0,37.0,Scot Walters,Red Man (Clarence Brewer),Chevrolet,200.0,6700.0,running,0.0,118.0
+1998,6,I-70,16.0,16.0,3.0,Jay Sauter,GM Goodwrench Service Plus (Richard Childress),Chevrolet,199.0,6775.0,running,0.0,115.0
+1998,6,I-70,17.0,28.0,61.0,Randy Tolsma,IWX Motor Freight (Steve Coulter),Chevrolet,199.0,6750.0,running,0.0,112.0
+1998,6,I-70,18.0,17.0,14.0,Rick Crawford,Circle Bar Motel & RV Park (Tom Mitchell),Ford,199.0,6725.0,running,0.0,109.0
+1998,6,I-70,19.0,25.0,51.0,Tammy Jo Kirk,Auto Value (Tammy Jo Kirk),Ford,199.0,5700.0,running,0.0,106.0
+1998,6,I-70,20.0,21.0,88.0,Terry Cook,Jani-King / PBA Tour (Duke Thorson),Chevrolet,199.0,5900.0,running,0.0,103.0
+1998,6,I-70,21.0,13.0,50.0,Greg Biffle,Grainger (Jack Roush),Ford,198.0,6650.0,running,0.0,100.0
+1998,6,I-70,22.0,31.0,57.0,Chuck Bown,Web World Services (Ed Scherer),Ford,196.0,6625.0,running,0.0,97.0
+1998,6,I-70,23.0,24.0,9.0,David Starr,My Favorite Oranges / CNG Engines (Buddy Morrison),Chevrolet,189.0,5600.0,running,0.0,94.0
+1998,6,I-70,24.0,15.0,43.0,Jimmy Hensley,Cummins Engines (Petty Enterprises),Dodge,174.0,6575.0,running,0.0,91.0
+1998,6,I-70,25.0,32.0,78.0,Dominic Dobson,MCI / Mopar (Dominic Dobson),Dodge,171.0,5550.0,running,0.0,88.0
+1998,6,I-70,26.0,26.0,75.0,Kevin Harvick,Spears Manufacturing (Wayne Spears),Chevrolet,167.0,6525.0,crash,0.0,85.0
+1998,6,I-70,27.0,10.0,10.0,"Lonnie Rush, Jr.",A & G Coal (Jerry Wharton),Chevrolet,152.0,5475.0,crash,0.0,82.0
+1998,6,I-70,28.0,19.0,29.0,Bob Keselowski,Mopar Performance (Ron Keselowski),Dodge,140.0,6475.0,running,0.0,79.0
+1998,6,I-70,29.0,20.0,44.0,Boris Said,Federated Auto Parts (Mark Simo),Ford,140.0,5475.0,crash,0.0,76.0
+1998,6,I-70,30.0,22.0,90.0,Lance Norick,NHL / St. Louis Blues (Ron Norick),Dodge,94.0,5475.0,engine,0.0,73.0
+1998,6,I-70,31.0,30.0,55.0,Dennis Setzer,Icehouse Beer (Tom Gloy),Ford,88.0,5475.0,transmission,0.0,70.0
+1998,6,I-70,32.0,2.0,6.0,Rick Carelli,RE/MAX International (Marshall Chesrown),Chevrolet,88.0,7475.0,crash,18.0,67.0
+1998,7,Watkins Glen,1.0,2.0,99.0,Joe Ruttman,Exide Batteries (Jack Roush),Ford,65.0,40780.0,running,1.0,180.0
+1998,7,Watkins Glen,2.0,11.0,3.0,Jay Sauter,GM Goodwrench Service Plus (Richard Childress),Chevrolet,65.0,22490.0,running,0.0,170.0
+1998,7,Watkins Glen,3.0,3.0,44.0,Boris Said,Federated Auto Parts (Mark Simo),Ford,65.0,18245.0,running,4.0,165.0
+1998,7,Watkins Glen,4.0,4.0,16.0,"Ron Hornaday, Jr.","NAPA Brakes (Dale Earnhardt, Inc.)",Chevrolet,65.0,12725.0,running,53.0,160.0
+1998,7,Watkins Glen,5.0,5.0,24.0,Jack Sprague,Team Hendrick (Rick Hendrick),Chevrolet,65.0,11995.0,running,0.0,155.0
+1998,7,Watkins Glen,6.0,24.0,28.0,Mark Simo,Federated Auto Parts (Mark Simo),Ford,65.0,8845.0,running,0.0,150.0
+1998,7,Watkins Glen,7.0,13.0,2.0,Mike Bliss,Team ASE Racing (Jim Smith),Ford,65.0,7545.0,running,0.0,146.0
+1998,7,Watkins Glen,8.0,8.0,98.0,Rob Rizzo,Hastings Premium Filters (Jim Herrick),Ford,65.0,7345.0,running,0.0,142.0
+1998,7,Watkins Glen,9.0,10.0,61.0,Randy Tolsma,IWX Motor Freight (Steve Coulter),Chevrolet,65.0,8245.0,running,0.0,138.0
+1998,7,Watkins Glen,10.0,12.0,52.0,Mike Wallace,Purolator PureOne Filters (Ken Schrader),Chevrolet,65.0,9320.0,running,0.0,134.0
+1998,7,Watkins Glen,11.0,17.0,6.0,Randy MacDonald,Ams Oil (Dick Greenfield),Dodge,65.0,6945.0,running,0.0,130.0
+1998,7,Watkins Glen,12.0,14.0,19.0,Tony Raines,Pennzoil (Kurt Roehrig),Ford,65.0,7945.0,running,0.0,127.0
+1998,7,Watkins Glen,13.0,15.0,55.0,Dorsey Schroeder,Icehouse Beer (Tom Gloy),Ford,65.0,6895.0,running,0.0,124.0
+1998,7,Watkins Glen,14.0,18.0,14.0,Rick Crawford,Circle Bar Motel & RV Park (Tom Mitchell),Ford,65.0,7945.0,running,0.0,121.0
+1998,7,Watkins Glen,15.0,31.0,60.0,Andy Houston,Addington Racing (Mike Addington),Chevrolet,65.0,8895.0,running,0.0,118.0
+1998,7,Watkins Glen,16.0,25.0,57.0,Chuck Bown,Cunningham Historic Motorcars (Ed Scherer),Ford,65.0,6745.0,running,0.0,115.0
+1998,7,Watkins Glen,17.0,21.0,7.0,Barry Bodine,WLR Construction (Jim Clark),Chevrolet,65.0,6695.0,running,0.0,112.0
+1998,7,Watkins Glen,18.0,16.0,66.0,Bryan Reffner,Carlin Burners & Controls (Dale Phelon),Ford,65.0,7645.0,running,2.0,109.0
+1998,7,Watkins Glen,19.0,23.0,86.0,Stacy Compton,Royal Crown Cola (David Hodson),Ford,65.0,7595.0,running,0.0,106.0
+1998,7,Watkins Glen,20.0,27.0,18.0,Butch Miller,Dana Corporation (Ron Norick),Dodge,65.0,7545.0,running,2.0,103.0
+1998,7,Watkins Glen,21.0,30.0,29.0,Bob Keselowski,Mopar Performance (Ron Keselowski),Dodge,65.0,7370.0,running,0.0,100.0
+1998,7,Watkins Glen,22.0,34.0,37.0,Scot Walters,Red Man (Clarence Brewer),Chevrolet,65.0,6020.0,running,0.0,97.0
+1998,7,Watkins Glen,23.0,7.0,35.0,"Ron Barfield, Jr.",Ortho Lawn & Garden Products (Charles Hardy),Chevrolet,64.0,7270.0,tire,0.0,94.0
+1998,7,Watkins Glen,24.0,19.0,88.0,Terry Cook,Pick-Ups Plus / PBA Tour (Duke Thorson),Chevrolet,64.0,6220.0,running,0.0,91.0
+1998,7,Watkins Glen,25.0,26.0,90.0,Lance Norick,NHL (Ron Norick),Dodge,64.0,6170.0,running,0.0,88.0
+1998,7,Watkins Glen,26.0,32.0,84.0,Wayne Anderson,Porter-Cable Power Tools (Jim Herrick),Ford,59.0,7070.0,engine,0.0,85.0
+1998,7,Watkins Glen,27.0,6.0,50.0,Greg Biffle,Grainger (Jack Roush),Ford,50.0,6970.0,transmission,2.0,82.0
+1998,7,Watkins Glen,28.0,22.0,6.0,Rick Carelli,RE/MAX International (Marshall Chesrown),Chevrolet,44.0,6870.0,engine,0.0,79.0
+1998,7,Watkins Glen,29.0,9.0,75.0,Kevin Harvick,Spears Manufacturing (Wayne Spears),Chevrolet,35.0,6770.0,crash,0.0,76.0
+1998,7,Watkins Glen,30.0,29.0,31.0,Tony Roper,Concor Tool & Machine (Bob Brevak),Ford,33.0,6770.0,engine,0.0,73.0
+1998,7,Watkins Glen,31.0,33.0,43.0,Jimmy Hensley,Cummins Engines (Petty Enterprises),Dodge,31.0,6470.0,engine,0.0,70.0
+1998,7,Watkins Glen,32.0,20.0,15.0,Rob Morgan,Acxiom (Billy Ballew),Ford,19.0,5770.0,engine,0.0,67.0
+1998,7,Watkins Glen,33.0,1.0,48.0,Ron Fellows,AER Manufacturing (Billy Hess),Chevrolet,18.0,5770.0,engine,0.0,64.0
+1998,7,Watkins Glen,34.0,28.0,78.0,Dominic Dobson,MCI (Dominic Dobson),Dodge,12.0,5770.0,clutch,1.0,61.0
+1998,8,Fort Worth,1.0,12.0,19.0,Tony Raines,Pennzoil (Kurt Roehrig),Ford,167.0,56400.0,running,25.0,180.0
+1998,8,Fort Worth,2.0,6.0,60.0,Andy Houston,Addington Racing (Mike Addington),Chevrolet,167.0,49700.0,running,9.0,170.0
+1998,8,Fort Worth,3.0,31.0,99.0,Joe Ruttman,Exide Batteries (Jack Roush),Ford,167.0,32500.0,running,0.0,165.0
+1998,8,Fort Worth,4.0,21.0,75.0,Kevin Harvick,Spears Manufacturing (Wayne Spears),Chevrolet,167.0,19600.0,running,3.0,160.0
+1998,8,Fort Worth,5.0,28.0,86.0,Stacy Compton,Royal Crown Cola (David Hodson),Ford,167.0,18450.0,running,0.0,155.0
+1998,8,Fort Worth,6.0,1.0,24.0,Jack Sprague,Team Hendrick (Rick Hendrick),Chevrolet,167.0,16700.0,running,96.0,150.0
+1998,8,Fort Worth,7.0,10.0,48.0,Ron Fellows,AER Manufacturing (Billy Hess),Chevrolet,167.0,11500.0,running,0.0,146.0
+1998,8,Fort Worth,8.0,30.0,5.0,Dave Rezendes,Llumar Window Films (Mike Skinner),Chevrolet,167.0,10950.0,running,0.0,142.0
+1998,8,Fort Worth,9.0,34.0,6.0,Rick Carelli,RE/MAX International (Marshall Chesrown),Chevrolet,167.0,11800.0,running,0.0,138.0
+1998,8,Fort Worth,10.0,9.0,88.0,Terry Cook,Pick-Ups Plus / PBA Tour (Duke Thorson),Chevrolet,167.0,11675.0,running,0.0,134.0
+1998,8,Fort Worth,11.0,20.0,31.0,Tony Roper,Big Daddy's BBQ Sauce (Bob Brevak),Ford,167.0,11550.0,running,0.0,130.0
+1998,8,Fort Worth,12.0,4.0,52.0,Mike Wallace,Purolator PureOne Filters (Ken Schrader),Chevrolet,167.0,11450.0,running,0.0,127.0
+1998,8,Fort Worth,13.0,14.0,18.0,Butch Miller,Dana Corporation (Ron Norick),Dodge,167.0,11350.0,running,0.0,124.0
+1998,8,Fort Worth,14.0,36.0,55.0,Dennis Setzer,Icehouse Beer (Tom Gloy),Ford,166.0,10250.0,running,0.0,121.0
+1998,8,Fort Worth,15.0,27.0,51.0,Tammy Jo Kirk,Aptex (Tammy Jo Kirk),Ford,166.0,10575.0,running,0.0,118.0
+1998,8,Fort Worth,16.0,2.0,3.0,Jay Sauter,GM Goodwrench Service Plus (Richard Childress),Chevrolet,165.0,11950.0,running,7.0,115.0
+1998,8,Fort Worth,17.0,23.0,78.0,Dominic Dobson,MCI (Dominic Dobson),Dodge,164.0,10100.0,running,0.0,112.0
+1998,8,Fort Worth,18.0,32.0,9.0,David Starr,Choice Cabs (Buddy Morrison),Chevrolet,163.0,9750.0,running,1.0,109.0
+1998,8,Fort Worth,19.0,18.0,90.0,Lance Norick,NHL (Ron Norick),Dodge,159.0,9650.0,running,0.0,106.0
+1998,8,Fort Worth,20.0,37.0,57.0,Rob Morgan,Acxiom (Ed Scherer),Ford,158.0,9875.0,running,0.0,103.0
+1998,8,Fort Worth,21.0,11.0,84.0,Wayne Anderson,Porter-Cable Power Tools (Jim Herrick),Ford,147.0,10450.0,crash,9.0,100.0
+1998,8,Fort Worth,22.0,17.0,50.0,Greg Biffle,Grainger (Jack Roush),Ford,147.0,10350.0,crash,3.0,97.0
+1998,8,Fort Worth,23.0,7.0,17.0,Toby Porter,Tyler Jet Motorsports (Tim Beverley),Chevrolet,147.0,9250.0,crash,0.0,94.0
+1998,8,Fort Worth,24.0,22.0,16.0,"Ron Hornaday, Jr.","NAPA Brakes (Dale Earnhardt, Inc.)",Chevrolet,144.0,10150.0,engine,5.0,91.0
+1998,8,Fort Worth,25.0,13.0,61.0,Randy Tolsma,IWX Motor Freight (Steve Coulter),Chevrolet,138.0,10050.0,engine,9.0,88.0
+1998,8,Fort Worth,26.0,26.0,14.0,Rick Crawford,Circle Bar Motel & RV Park (Tom Mitchell),Ford,135.0,9950.0,engine,0.0,85.0
+1998,8,Fort Worth,27.0,3.0,7.0,Barry Bodine,Prime Performance (Jim Clark),Chevrolet,116.0,8850.0,engine,0.0,82.0
+1998,8,Fort Worth,28.0,35.0,82.0,Kenny Allen,Rhino Linings USA (Steve Lucore),Ford,108.0,9500.0,crash,0.0,79.0
+1998,8,Fort Worth,29.0,19.0,29.0,Bob Keselowski,Mopar Performance (Ron Keselowski),Dodge,102.0,9650.0,engine,0.0,76.0
+1998,8,Fort Worth,30.0,25.0,35.0,"Ron Barfield, Jr.",Ortho Lawn & Garden Products (Charles Hardy),Chevrolet,88.0,9550.0,engine,0.0,73.0
+1998,8,Fort Worth,31.0,29.0,10.0,"Lonnie Rush, Jr.",A & G Coal (Jerry Wharton),Chevrolet,59.0,8450.0,transmission,0.0,70.0
+1998,8,Fort Worth,32.0,38.0,26.0,Randy MacDonald,Auto Trim Design Network (Mike Mittler),Ford,58.0,8350.0,engine,0.0,67.0
+1998,8,Fort Worth,33.0,15.0,43.0,Jimmy Hensley,Cummins Engines (Petty Enterprises),Dodge,57.0,8250.0,crash,0.0,64.0
+1998,8,Fort Worth,34.0,33.0,85.0,B.A. Wilson,Barker Cable TV (B.A. Wilson),Ford,55.0,8250.0,radiator,0.0,61.0
+1998,8,Fort Worth,35.0,24.0,66.0,Bryan Reffner,Carlin Burners & Controls (Dale Phelon),Ford,46.0,9250.0,crash,0.0,58.0
+1998,8,Fort Worth,36.0,8.0,37.0,Scot Walters,Red Man (Clarence Brewer),Chevrolet,3.0,8250.0,crash,0.0,55.0
+1998,8,Fort Worth,37.0,5.0,2.0,Mike Bliss,Team ASE Racing (Jim Smith),Ford,3.0,9250.0,crash,0.0,52.0
+1998,8,Fort Worth,38.0,16.0,44.0,Boris Said,Federated Auto Parts (Mark Simo),Ford,3.0,9250.0,crash,0.0,49.0
+1998,9,Bristol,1.0,1.0,16.0,"Ron Hornaday, Jr.","NAPA Brakes (Dale Earnhardt, Inc.)",Chevrolet,206.0,35675.0,running,187.0,180.0
+1998,9,Bristol,2.0,2.0,24.0,Jack Sprague,Team Hendrick (Rick Hendrick),Chevrolet,206.0,23650.0,running,19.0,170.0
+1998,9,Bristol,3.0,3.0,99.0,Joe Ruttman,Exide Batteries (Jack Roush),Ford,206.0,16500.0,running,0.0,165.0
+1998,9,Bristol,4.0,8.0,52.0,Mike Wallace,Purolator PureOne Filters (Ken Schrader),Chevrolet,206.0,12800.0,running,0.0,160.0
+1998,9,Bristol,5.0,6.0,61.0,Randy Tolsma,IWX Motor Freight (Steve Coulter),Chevrolet,206.0,9800.0,running,0.0,155.0
+1998,9,Bristol,6.0,12.0,19.0,Tony Raines,Pennzoil (Kurt Roehrig),Ford,206.0,7700.0,running,0.0,150.0
+1998,9,Bristol,7.0,13.0,35.0,"Ron Barfield, Jr.",Ortho Lawn & Garden Products (Charles Hardy),Chevrolet,206.0,7150.0,running,0.0,146.0
+1998,9,Bristol,8.0,18.0,31.0,Kevin Cywinski,Auto Trim Design (Bob Brevak),Ford,206.0,6800.0,running,0.0,142.0
+1998,9,Bristol,9.0,16.0,43.0,Jimmy Hensley,Cummins Engines (Petty Enterprises),Dodge,206.0,5900.0,running,0.0,138.0
+1998,9,Bristol,10.0,15.0,66.0,Bryan Reffner,Carlin Burners & Controls (Dale Phelon),Ford,205.0,7925.0,running,0.0,134.0
+1998,9,Bristol,11.0,30.0,10.0,"Lonnie Rush, Jr.",A & G Coal (Jerry Wharton),Chevrolet,205.0,5750.0,running,0.0,130.0
+1998,9,Bristol,12.0,7.0,3.0,Jay Sauter,GM Goodwrench Service Plus (Richard Childress),Chevrolet,205.0,6675.0,running,0.0,127.0
+1998,9,Bristol,13.0,28.0,51.0,Tammy Jo Kirk,Aptex / Auto Value (Tammy Jo Kirk),Ford,205.0,5625.0,running,0.0,124.0
+1998,9,Bristol,14.0,20.0,88.0,Terry Cook,PBA Tour (Duke Thorson),Chevrolet,205.0,5575.0,running,0.0,121.0
+1998,9,Bristol,15.0,23.0,55.0,Tony Roper,Icehouse Beer (Tom Gloy),Ford,204.0,6650.0,running,0.0,118.0
+1998,9,Bristol,16.0,17.0,11.0,Ken Bouchard,Loadhandler (Phil Bonifield),Chevrolet,204.0,5375.0,running,0.0,115.0
+1998,9,Bristol,17.0,4.0,32.0,Curtis Markham,Active Truck Team (Joe Horner),Chevrolet,204.0,5325.0,running,0.0,112.0
+1998,9,Bristol,18.0,36.0,29.0,Bob Keselowski,Mopar Performance (Ron Keselowski),Dodge,204.0,6275.0,running,0.0,109.0
+1998,9,Bristol,19.0,27.0,4.0,Brad Teague,Hobart Food Service (William Rose),Chevrolet,203.0,5225.0,running,0.0,106.0
+1998,9,Bristol,20.0,32.0,44.0,Boris Said,Federated Auto Parts (Mark Simo),Ford,203.0,5275.0,running,0.0,103.0
+1998,9,Bristol,21.0,33.0,37.0,Scot Walters,Red Man (Clarence Brewer),Chevrolet,202.0,5475.0,running,0.0,100.0
+1998,9,Bristol,22.0,35.0,75.0,Kevin Harvick,Spears Manufacturing (Wayne Spears),Chevrolet,202.0,6325.0,running,0.0,97.0
+1998,9,Bristol,23.0,31.0,70.0,Joe Buford,Buford Racing (James Buford),Ford,198.0,5025.0,running,0.0,94.0
+1998,9,Bristol,24.0,37.0,2.0,Dave Rezendes,Team ASE Racing (Jim Smith),Ford,196.0,4975.0,crash,0.0,91.0
+1998,9,Bristol,25.0,19.0,1.0,Mike Bliss,Team ASE Racing (Jim Smith),Ford,193.0,4925.0,running,0.0,88.0
+1998,9,Bristol,26.0,5.0,5.0,Jamie Skinner,Llumar Window Films (Mike Skinner),Chevrolet,193.0,4875.0,running,0.0,85.0
+1998,9,Bristol,27.0,38.0,82.0,Randy Nelson,Vegas Casino & Turf Club (Steve Lucore),Ford,167.0,4825.0,running,0.0,82.0
+1998,9,Bristol,28.0,11.0,60.0,Andy Houston,Addington Racing (Mike Addington),Chevrolet,155.0,5775.0,running,0.0,79.0
+1998,9,Bristol,29.0,10.0,50.0,Greg Biffle,Grainger (Jack Roush),Ford,137.0,5750.0,running,0.0,76.0
+1998,9,Bristol,30.0,26.0,6.0,Rick Carelli,RE/MAX International (Marshall Chesrown),Chevrolet,131.0,5725.0,running,0.0,73.0
+1998,9,Bristol,31.0,21.0,91.0,Carl Long,Mansion Motorsports (Thee Dixon),Ford,111.0,4700.0,engine,0.0,70.0
+1998,9,Bristol,32.0,29.0,90.0,Lance Norick,NHL (Ron Norick),Dodge,103.0,4675.0,crash,0.0,67.0
+1998,9,Bristol,33.0,34.0,18.0,Butch Miller,Dana Corporation (Ron Norick),Dodge,99.0,5625.0,crash,0.0,64.0
+1998,9,Bristol,34.0,22.0,84.0,Wayne Anderson,Porter-Cable Power Tools (Jim Herrick),Ford,79.0,5625.0,crash,0.0,61.0
+1998,9,Bristol,35.0,24.0,78.0,Dominic Dobson,MCI (Dominic Dobson),Dodge,70.0,4675.0,engine,0.0,58.0
+1998,9,Bristol,36.0,25.0,67.0,Joe Bush,Hill Machinery (Don VanDenBos),Chevrolet,37.0,4675.0,oil pump,0.0,55.0
+1998,9,Bristol,37.0,9.0,86.0,Stacy Compton,Royal Crown Cola (David Hodson),Ford,31.0,5675.0,engine,0.0,52.0
+1998,9,Bristol,38.0,14.0,14.0,Rick Crawford,Circle Bar Motel & RV Park (Tom Mitchell),Ford,20.0,5675.0,running,0.0,49.0
+1998,10,Milwaukee,1.0,2.0,2.0,Mike Bliss,Team ASE Racing (Jim Smith),Ford,200.0,44800.0,running,91.0,180.0
+1998,10,Milwaukee,2.0,12.0,43.0,Jimmy Hensley,Cummins Engines (Petty Enterprises),Dodge,200.0,25700.0,running,10.0,170.0
+1998,10,Milwaukee,3.0,1.0,24.0,Jack Sprague,Team Hendrick (Rick Hendrick),Chevrolet,200.0,21100.0,running,47.0,165.0
+1998,10,Milwaukee,4.0,3.0,16.0,"Ron Hornaday, Jr.","NAPA Brakes (Dale Earnhardt, Inc.)",Chevrolet,200.0,11525.0,running,0.0,160.0
+1998,10,Milwaukee,5.0,17.0,50.0,Greg Biffle,Grainger (Jack Roush),Ford,200.0,12650.0,running,0.0,155.0
+1998,10,Milwaukee,6.0,27.0,6.0,Rick Carelli,RE/MAX International (Marshall Chesrown),Chevrolet,200.0,9800.0,running,0.0,150.0
+1998,10,Milwaukee,7.0,5.0,99.0,Joe Ruttman,Exide Batteries (Jack Roush),Ford,200.0,8350.0,running,0.0,146.0
+1998,10,Milwaukee,8.0,10.0,52.0,Mike Wallace,Purolator PureOne Filters (Ken Schrader),Chevrolet,200.0,8150.0,running,0.0,142.0
+1998,10,Milwaukee,9.0,28.0,35.0,"Ron Barfield, Jr.",Ortho Lawn & Garden Products (Charles Hardy),Chevrolet,200.0,8050.0,running,5.0,138.0
+1998,10,Milwaukee,10.0,24.0,18.0,Butch Miller,Dana Corporation (Ron Norick),Dodge,200.0,8825.0,running,0.0,134.0
+1998,10,Milwaukee,11.0,23.0,75.0,Kevin Harvick,Spears Manufacturing (Wayne Spears),Chevrolet,200.0,7850.0,running,0.0,130.0
+1998,10,Milwaukee,12.0,22.0,61.0,Randy Tolsma,IWX Motor Freight (Steve Coulter),Chevrolet,200.0,7850.0,running,1.0,127.0
+1998,10,Milwaukee,13.0,5.0,86.0,Stacy Compton,Royal Crown Cola (David Hodson),Ford,200.0,7650.0,running,31.0,124.0
+1998,10,Milwaukee,14.0,7.0,3.0,Jay Sauter,GM Goodwrench Service Plus (Richard Childress),Chevrolet,200.0,7550.0,running,15.0,121.0
+1998,10,Milwaukee,15.0,15.0,19.0,Tony Raines,Pennzoil (Kurt Roehrig),Ford,200.0,7550.0,running,0.0,118.0
+1998,10,Milwaukee,16.0,4.0,17.0,Toby Porter,Tyler Jet Motorsports (Tim Beverley),Chevrolet,200.0,5875.0,running,0.0,115.0
+1998,10,Milwaukee,17.0,9.0,44.0,Boris Said,Federated Auto Parts (Mark Simo),Ford,200.0,5925.0,running,0.0,112.0
+1998,10,Milwaukee,18.0,30.0,55.0,Tony Roper,Icehouse Beer (Tom Gloy),Ford,200.0,6875.0,running,0.0,109.0
+1998,10,Milwaukee,19.0,11.0,66.0,Bryan Reffner,Carlin Burners & Controls (Dale Phelon),Ford,200.0,6825.0,running,0.0,106.0
+1998,10,Milwaukee,20.0,25.0,37.0,Scot Walters,Red Man (Clarence Brewer),Chevrolet,199.0,6250.0,running,0.0,103.0
+1998,10,Milwaukee,21.0,21.0,29.0,Dennis Setzer,Mopar Performance (Ron Keselowski),Dodge,199.0,5725.0,running,0.0,100.0
+1998,10,Milwaukee,22.0,29.0,90.0,Lance Norick,NHL (Ron Norick),Dodge,199.0,5675.0,running,0.0,97.0
+1998,10,Milwaukee,23.0,19.0,68.0,Mike Garvey,Metro Milwaukee Auto Auction (Jerry Gunderman),Chevrolet,198.0,5625.0,running,0.0,94.0
+1998,10,Milwaukee,24.0,8.0,15.0,Scott Hansen,Oshkosh Trucks / Neihus (Billy Ballew),Ford,198.0,5575.0,running,0.0,91.0
+1998,10,Milwaukee,25.0,32.0,84.0,Wayne Anderson,Porter-Cable Power Tools (Jim Herrick),Ford,197.0,6550.0,running,0.0,88.0
+1998,10,Milwaukee,26.0,31.0,14.0,Rick Crawford,Circle Bar Motel & RV Park (Tom Mitchell),Ford,197.0,6525.0,running,0.0,85.0
+1998,10,Milwaukee,27.0,16.0,10.0,"Lonnie Rush, Jr.",A & G Coal (Jerry Wharton),Chevrolet,197.0,5550.0,running,0.0,82.0
+1998,10,Milwaukee,28.0,20.0,26.0,Randy MacDonald,Auto Trim Design Network (Mike Mittler),Ford,196.0,5475.0,running,0.0,79.0
+1998,10,Milwaukee,29.0,26.0,60.0,Andy Houston,Addington Racing (Mike Addington),Chevrolet,195.0,6450.0,running,0.0,76.0
+1998,10,Milwaukee,30.0,33.0,57.0,Rob Morgan,Acxiom (Ed Scherer),Ford,183.0,5450.0,running,0.0,73.0
+1998,10,Milwaukee,31.0,34.0,78.0,Dominic Dobson,MCI (Dominic Dobson),Dodge,162.0,5450.0,engine,0.0,70.0
+1998,10,Milwaukee,32.0,18.0,88.0,Terry Cook,PBA Tour (Duke Thorson),Chevrolet,144.0,5450.0,engine,0.0,67.0
+1998,10,Milwaukee,33.0,14.0,31.0,Kevin Cywinski,Allied Signal / Bendix (Bob Brevak),Ford,144.0,5450.0,engine,0.0,64.0
+1998,10,Milwaukee,34.0,13.0,9.0,Bob Keselowski,Mopar Performance (Ron Keselowski),Dodge,120.0,6450.0,engine,0.0,61.0
+1998,11,Nazareth,1.0,10.0,16.0,"Ron Hornaday, Jr.","NAPA Brakes (Dale Earnhardt, Inc.)",Chevrolet,200.0,40250.0,running,151.0,180.0
+1998,11,Nazareth,2.0,32.0,86.0,Stacy Compton,Royal Crown Cola (David Hodson),Ford,200.0,33750.0,running,0.0,170.0
+1998,11,Nazareth,3.0,21.0,3.0,Jay Sauter,GM Goodwrench Service Plus (Richard Childress),Chevrolet,200.0,18400.0,running,0.0,165.0
+1998,11,Nazareth,4.0,7.0,18.0,Butch Miller,Dana Corporation (Ron Norick),Dodge,200.0,11750.0,running,0.0,160.0
+1998,11,Nazareth,5.0,22.0,99.0,Joe Ruttman,Exide Batteries (Jack Roush),Ford,200.0,10850.0,running,0.0,155.0
+1998,11,Nazareth,6.0,4.0,43.0,Jimmy Hensley,Cummins Engines (Petty Enterprises),Dodge,200.0,8450.0,running,0.0,150.0
+1998,11,Nazareth,7.0,5.0,19.0,Tony Raines,Pennzoil (Kurt Roehrig),Ford,200.0,8300.0,running,0.0,146.0
+1998,11,Nazareth,8.0,33.0,66.0,Bryan Reffner,Carlin Burners & Controls (Dale Phelon),Ford,200.0,8250.0,running,0.0,142.0
+1998,11,Nazareth,9.0,9.0,6.0,Rick Carelli,RE/MAX International (Marshall Chesrown),Chevrolet,200.0,8175.0,running,0.0,138.0
+1998,11,Nazareth,10.0,8.0,24.0,Jack Sprague,Team Hendrick (Rick Hendrick),Chevrolet,199.0,9750.0,crash,0.0,134.0
+1998,11,Nazareth,11.0,11.0,29.0,Dennis Setzer,Mopar Performance (Ron Keselowski),Dodge,199.0,7075.0,running,0.0,130.0
+1998,11,Nazareth,12.0,17.0,55.0,Tony Roper,Icehouse Beer (Tom Gloy),Ford,199.0,8025.0,running,0.0,127.0
+1998,11,Nazareth,13.0,28.0,37.0,Scot Walters,Red Man (Clarence Brewer),Chevrolet,199.0,7725.0,running,0.0,124.0
+1998,11,Nazareth,14.0,27.0,75.0,Kevin Harvick,Spears Manufacturing (Wayne Spears),Chevrolet,199.0,7925.0,running,7.0,121.0
+1998,11,Nazareth,15.0,24.0,60.0,Andy Houston,Addington Racing (Mike Addington),Chevrolet,199.0,8375.0,running,0.0,118.0
+1998,11,Nazareth,16.0,26.0,51.0,Tammy Jo Kirk,Auto Value (Tammy Jo Kirk),Ford,199.0,6350.0,running,0.0,115.0
+1998,11,Nazareth,17.0,31.0,11.0,Ken Bouchard,Loadhandler / Nicklaus Golf (Phil Bonifield),Chevrolet,199.0,6300.0,running,0.0,112.0
+1998,11,Nazareth,18.0,19.0,61.0,Randy Tolsma,IWX Motor Freight (Steve Coulter),Chevrolet,199.0,7250.0,running,0.0,109.0
+1998,11,Nazareth,19.0,18.0,6.0,Randy MacDonald,Greenfield (Dick Greenfield),Dodge,198.0,6200.0,running,0.0,106.0
+1998,11,Nazareth,20.0,23.0,35.0,"Ron Barfield, Jr.",Ortho Lawn & Garden Products (Charles Hardy),Chevrolet,195.0,7375.0,running,0.0,103.0
+1998,11,Nazareth,21.0,13.0,90.0,Lance Norick,NHL (Ron Norick),Dodge,181.0,6125.0,crash,0.0,100.0
+1998,11,Nazareth,22.0,18.0,52.0,Mike Wallace,Purolator PureOne Filters (Ken Schrader),Chevrolet,174.0,7100.0,engine,0.0,97.0
+1998,11,Nazareth,23.0,25.0,10.0,"Lonnie Rush, Jr.",A & G Coal (Jerry Wharton),Chevrolet,172.0,6075.0,crash,0.0,94.0
+1998,11,Nazareth,24.0,14.0,7.0,Barry Bodine,Prime Performance (Jim Clark),Chevrolet,169.0,6050.0,engine,0.0,91.0
+1998,11,Nazareth,25.0,1.0,2.0,Mike Bliss,Team ASE Racing (Jim Smith),Ford,145.0,8725.0,crash,42.0,88.0
+1998,11,Nazareth,26.0,30.0,84.0,Wayne Anderson,Porter-Cable Power Tools (Jim Herrick),Ford,141.0,6000.0,engine,0.0,85.0
+1998,11,Nazareth,27.0,15.0,44.0,Boris Said,Federated Auto Parts (Mark Simo),Ford,121.0,6975.0,running,0.0,82.0
+1998,11,Nazareth,28.0,35.0,0.0,Ryan McGlynn,Buyers Choice (Raynard McGlynn),Chevrolet,112.0,5950.0,transmission,0.0,79.0
+1998,11,Nazareth,29.0,2.0,14.0,Rick Crawford,Circle Bar Motel & RV Park (Tom Mitchell),Ford,98.0,6925.0,crash,0.0,76.0
+1998,11,Nazareth,30.0,12.0,50.0,Greg Biffle,Grainger (Jack Roush),Ford,90.0,6900.0,crash,0.0,73.0
+1998,11,Nazareth,31.0,29.0,48.0,Ron Fellows,AER Manufacturing (Billy Hess),Chevrolet,82.0,5875.0,crash,0.0,70.0
+1998,11,Nazareth,32.0,20.0,31.0,Kevin Cywinski,Auto Trim Design (Bob Brevak),Ford,63.0,5875.0,crash,0.0,67.0
+1998,11,Nazareth,33.0,3.0,78.0,Dominic Dobson,MCI (Dominic Dobson),Dodge,50.0,5875.0,crash,0.0,64.0
+1998,11,Nazareth,34.0,6.0,88.0,Terry Cook,PBA Tour (Duke Thorson),Chevrolet,22.0,5875.0,crash,0.0,61.0
+1998,11,Nazareth,35.0,34.0,57.0,Rob Morgan,Acxiom (Ed Scherer),Ford,17.0,5825.0,crash,0.0,58.0
+1998,12,Fontana,1.0,12.0,24.0,Jack Sprague,GMAC Financial Services (Rick Hendrick),Chevrolet,100.0,42775.0,running,26.0,180.0
+1998,12,Fontana,2.0,20.0,28.0,Ernie Irvan,Federated Auto Parts / 1-800-Collect (Mark Simo),Ford,100.0,28775.0,running,0.0,170.0
+1998,12,Fontana,3.0,7.0,16.0,"Ron Hornaday, Jr.","NAPA Brakes (Dale Earnhardt, Inc.)",Chevrolet,100.0,22175.0,running,45.0,165.0
+1998,12,Fontana,4.0,1.0,60.0,Andy Houston,Addington Racing (Mike Addington),Chevrolet,100.0,14950.0,running,13.0,160.0
+1998,12,Fontana,5.0,8.0,5.0,Mike Skinner,Llumar Window Films (Mike Skinner),Chevrolet,100.0,11050.0,running,4.0,155.0
+1998,12,Fontana,6.0,2.0,61.0,Randy Tolsma,IWX Motor Freight (Steve Coulter),Chevrolet,100.0,9050.0,running,8.0,150.0
+1998,12,Fontana,7.0,5.0,50.0,Greg Biffle,Grainger (Jack Roush),Ford,100.0,9100.0,running,3.0,146.0
+1998,12,Fontana,8.0,13.0,44.0,Boris Said,Federated Auto Parts / 1-800-Collect (Mark Simo),Ford,100.0,8650.0,running,0.0,142.0
+1998,12,Fontana,9.0,9.0,2.0,Mike Bliss,Team ASE Racing (Jim Smith),Ford,100.0,8350.0,running,0.0,138.0
+1998,12,Fontana,10.0,23.0,18.0,Butch Miller,Dana Corporation (Ron Norick),Dodge,100.0,9025.0,running,0.0,134.0
+1998,12,Fontana,11.0,15.0,99.0,Joe Ruttman,Exide Batteries (Jack Roush),Ford,100.0,8100.0,running,0.0,130.0
+1998,12,Fontana,12.0,19.0,52.0,Mike Wallace,Purolator PureOne Filters (Ken Schrader),Chevrolet,100.0,7925.0,running,0.0,127.0
+1998,12,Fontana,13.0,32.0,66.0,Bryan Reffner,Carlin Burners & Controls (Dale Phelon),Ford,100.0,7875.0,running,0.0,124.0
+1998,12,Fontana,14.0,14.0,86.0,Stacy Compton,Royal Crown Cola (David Hodson),Ford,100.0,7825.0,running,0.0,121.0
+1998,12,Fontana,15.0,33.0,14.0,Rick Crawford,Circle Bar Motel & RV Park (Tom Mitchell),Ford,100.0,8075.0,running,0.0,118.0
+1998,12,Fontana,16.0,11.0,6.0,Rick Carelli,RE/MAX International (Marshall Chesrown),Chevrolet,100.0,7600.0,running,0.0,115.0
+1998,12,Fontana,17.0,26.0,19.0,Tony Raines,Pennzoil (Kurt Roehrig),Ford,100.0,7475.0,running,0.0,112.0
+1998,12,Fontana,18.0,24.0,55.0,Tony Roper,Icehouse Beer (Tom Gloy),Ford,100.0,7450.0,running,0.0,109.0
+1998,12,Fontana,19.0,22.0,88.0,Terry Cook,PBA Tour (Duke Thorson),Chevrolet,100.0,6425.0,running,0.0,106.0
+1998,12,Fontana,20.0,25.0,43.0,Jimmy Hensley,Cummins Engines (Petty Enterprises),Dodge,100.0,7625.0,running,0.0,103.0
+1998,12,Fontana,21.0,34.0,37.0,Scot Walters,Red Man (Clarence Brewer),Chevrolet,100.0,6300.0,running,0.0,100.0
+1998,12,Fontana,22.0,36.0,57.0,Matt Hutter,Acxiom (Ed Scherer),Ford,100.0,6275.0,running,0.0,97.0
+1998,12,Fontana,23.0,29.0,31.0,Kevin Cywinski,Auto Trim Design (Bob Brevak),Ford,100.0,6250.0,running,0.0,94.0
+1998,12,Fontana,24.0,10.0,3.0,Jay Sauter,GM Goodwrench Service Plus (Richard Childress),Chevrolet,99.0,7225.0,running,0.0,91.0
+1998,12,Fontana,25.0,17.0,29.0,Dennis Setzer,Mopar Performance (Ron Keselowski),Dodge,99.0,6200.0,running,0.0,88.0
+1998,12,Fontana,26.0,28.0,81.0,Jerry Glanville,Unifirst Uniforms / HBO Sports (Jerry Glanville),Ford,97.0,6175.0,running,0.0,85.0
+1998,12,Fontana,27.0,16.0,90.0,Lance Norick,NHL (Ron Norick),Dodge,97.0,6150.0,running,0.0,82.0
+1998,12,Fontana,28.0,21.0,35.0,"Ron Barfield, Jr.",Ortho Lawn & Garden Products (Charles Hardy),Chevrolet,97.0,7125.0,running,0.0,79.0
+1998,12,Fontana,29.0,3.0,10.0,"Lonnie Rush, Jr.",A & G Coal (Jerry Wharton),Chevrolet,76.0,6100.0,engine,0.0,76.0
+1998,12,Fontana,30.0,6.0,75.0,Kevin Harvick,Spears Manufacturing (Wayne Spears),Chevrolet,64.0,7075.0,engine,1.0,73.0
+1998,12,Fontana,31.0,31.0,1.0,Michael Waltrip,Band-Aid (Michael Waltrip),Ford,56.0,6050.0,engine,0.0,70.0
+1998,12,Fontana,32.0,27.0,51.0,Tammy Jo Kirk,Pilot Light / Auto Value (Tammy Jo Kirk),Ford,52.0,6050.0,engine,0.0,67.0
+1998,12,Fontana,33.0,4.0,78.0,Randy Renfrow,MCI / Mopar (Dominic Dobson),Dodge,41.0,6050.0,transmission,0.0,64.0
+1998,12,Fontana,34.0,35.0,84.0,Wayne Anderson,Porter-Cable Power Tools (Jim Herrick),Ford,26.0,6050.0,engine,0.0,61.0
+1998,12,Fontana,35.0,18.0,7.0,Barry Bodine,Prime Performance (Jim Clark),Chevrolet,24.0,6050.0,engine,0.0,58.0
+1998,12,Fontana,36.0,30.0,9.0,David Starr,My Favorite Oranges / CNG Engines (Buddy Morrison),Chevrolet,22.0,6050.0,transmission,0.0,55.0
+1998,13,Pikes Peak,1.0,6.0,16.0,"Ron Hornaday, Jr.","NAPA Brakes (Dale Earnhardt, Inc.)",Chevrolet,198.0,34825.0,running,97.0,180.0
+1998,13,Pikes Peak,2.0,16.0,19.0,Tony Raines,Pennzoil (Kurt Roehrig),Ford,198.0,23575.0,running,0.0,170.0
+1998,13,Pikes Peak,3.0,8.0,99.0,Joe Ruttman,Exide Batteries (Jack Roush),Ford,198.0,20575.0,running,0.0,165.0
+1998,13,Pikes Peak,4.0,13.0,6.0,Rick Carelli,RE/MAX International (Marshall Chesrown),Chevrolet,198.0,12725.0,running,0.0,160.0
+1998,13,Pikes Peak,5.0,21.0,43.0,Jimmy Hensley,Cummins Engines (Petty Enterprises),Dodge,198.0,12825.0,running,19.0,155.0
+1998,13,Pikes Peak,6.0,1.0,2.0,Mike Bliss,Team ASE Racing (Jim Smith),Ford,198.0,12725.0,running,55.0,150.0
+1998,13,Pikes Peak,7.0,10.0,86.0,Stacy Compton,Royal Crown Cola (David Hodson),Ford,198.0,8875.0,running,0.0,146.0
+1998,13,Pikes Peak,8.0,11.0,29.0,Dennis Setzer,Mopar Performance (Ron Keselowski),Dodge,198.0,7825.0,running,0.0,142.0
+1998,13,Pikes Peak,9.0,12.0,61.0,Randy Tolsma,IWX Motor Freight (Steve Coulter),Chevrolet,198.0,8750.0,running,0.0,138.0
+1998,13,Pikes Peak,10.0,23.0,55.0,Tony Roper,Icehouse Beer (Tom Gloy),Ford,198.0,8700.0,running,0.0,134.0
+1998,13,Pikes Peak,11.0,26.0,14.0,Rick Crawford,Circle Bar Motel & RV Park (Tom Mitchell),Ford,198.0,8900.0,running,0.0,130.0
+1998,13,Pikes Peak,12.0,27.0,37.0,Scot Walters,Red Man (Clarence Brewer),Chevrolet,198.0,8350.0,running,0.0,127.0
+1998,13,Pikes Peak,13.0,5.0,35.0,"Ron Barfield, Jr.",Ortho Lawn & Garden Products (Charles Hardy),Chevrolet,198.0,8550.0,running,0.0,124.0
+1998,13,Pikes Peak,14.0,4.0,7.0,Barry Bodine,Tempus Resorts (Jim Clark),Chevrolet,198.0,7500.0,running,0.0,121.0
+1998,13,Pikes Peak,15.0,15.0,75.0,Kevin Harvick,Spears Manufacturing (Wayne Spears),Chevrolet,198.0,8700.0,running,0.0,118.0
+1998,13,Pikes Peak,16.0,28.0,18.0,Butch Miller,Dana Corporation (Ron Norick),Dodge,198.0,7925.0,running,0.0,115.0
+1998,13,Pikes Peak,17.0,24.0,50.0,Greg Biffle,Grainger (Jack Roush),Ford,197.0,8125.0,running,0.0,112.0
+1998,13,Pikes Peak,18.0,9.0,60.0,Andy Houston,Addington Racing (Mike Addington),Chevrolet,197.0,7825.0,running,0.0,109.0
+1998,13,Pikes Peak,19.0,18.0,31.0,Kevin Cywinski,Concor Tool & Machine (Bob Brevak),Ford,197.0,6775.0,running,0.0,106.0
+1998,13,Pikes Peak,20.0,22.0,10.0,"Lonnie Rush, Jr.",A & G Coal (Jerry Wharton),Chevrolet,196.0,6950.0,running,0.0,103.0
+1998,13,Pikes Peak,21.0,30.0,90.0,Lance Norick,NHL (Ron Norick),Dodge,196.0,6700.0,running,5.0,100.0
+1998,13,Pikes Peak,22.0,25.0,3.0,Jay Sauter,GM Goodwrench Service Plus (Richard Childress),Chevrolet,195.0,7675.0,running,0.0,97.0
+1998,13,Pikes Peak,23.0,3.0,88.0,Terry Cook,PBA Tour (Duke Thorson),Chevrolet,194.0,6650.0,engine,0.0,94.0
+1998,13,Pikes Peak,24.0,17.0,44.0,Boris Said,Federated Auto Parts (Mark Simo),Ford,194.0,7625.0,running,0.0,91.0
+1998,13,Pikes Peak,25.0,29.0,84.0,Wayne Anderson,Porter-Cable Power Tools (Jim Herrick),Ford,194.0,6600.0,running,0.0,88.0
+1998,13,Pikes Peak,26.0,32.0,57.0,Rob Morgan,Acxiom (Ed Scherer),Ford,193.0,6575.0,running,0.0,85.0
+1998,13,Pikes Peak,27.0,14.0,78.0,Randy Renfrow,MCI (Dominic Dobson),Dodge,190.0,6550.0,fuel,10.0,82.0
+1998,13,Pikes Peak,28.0,33.0,58.0,Chris Horn,Horn Automotive (Fred Horn),Chevrolet,185.0,6525.0,running,0.0,79.0
+1998,13,Pikes Peak,29.0,19.0,66.0,Bryan Reffner,Carlin Burners & Controls (Dale Phelon),Ford,184.0,7475.0,crash,0.0,76.0
+1998,13,Pikes Peak,30.0,2.0,52.0,Mike Wallace,Purolator PureOne Filters (Ken Schrader),Chevrolet,180.0,7450.0,running,12.0,73.0
+1998,13,Pikes Peak,31.0,7.0,24.0,Jack Sprague,GMAC Financial Services (Rick Hendrick),Chevrolet,174.0,8425.0,running,0.0,70.0
+1998,13,Pikes Peak,32.0,36.0,41.0,Terry Fisher,Synergy / Dallas Mack (Mike Farris),Chevrolet,150.0,6425.0,engine,0.0,67.0
+1998,13,Pikes Peak,33.0,35.0,20.0,Brendan Gaughan,Orleans Hotel & Casino (Walker Evans),Chevrolet,131.0,6425.0,brakes,0.0,64.0
+1998,13,Pikes Peak,34.0,20.0,51.0,Tammy Jo Kirk,Pilot Light / Auto Value (Tammy Jo Kirk),Ford,18.0,6425.0,crash,0.0,61.0
+1998,13,Pikes Peak,35.0,31.0,48.0,Ron Fellows,AER Manufacturing (Billy Hess),Chevrolet,18.0,6425.0,crash,0.0,58.0
+1998,13,Pikes Peak,36.0,34.0,81.0,Jerry Glanville,Unifirst Uniforms / HBO Sports (Jerry Glanville),Ford,18.0,6425.0,crash,0.0,55.0
+1998,14,IRP,1.0,3.0,24.0,Jack Sprague,GMAC Financial Services (Rick Hendrick),Chevrolet,200.0,37955.0,running,87.0,180.0
+1998,14,IRP,2.0,19.0,55.0,Tony Roper,Icehouse Beer (Tom Gloy),Ford,200.0,20305.0,running,0.0,170.0
+1998,14,IRP,3.0,6.0,99.0,Joe Ruttman,Exide Batteries (Jack Roush),Ford,200.0,18145.0,running,0.0,165.0
+1998,14,IRP,4.0,13.0,19.0,Tony Raines,Pennzoil (Kurt Roehrig),Ford,200.0,11945.0,running,0.0,160.0
+1998,14,IRP,5.0,16.0,10.0,"Lonnie Rush, Jr.",Ohio State University (Jerry Wharton),Chevrolet,200.0,10620.0,running,21.0,155.0
+1998,14,IRP,6.0,1.0,61.0,Randy Tolsma,IWX Motor Freight (Steve Coulter),Chevrolet,200.0,9070.0,running,4.0,150.0
+1998,14,IRP,7.0,14.0,50.0,Greg Biffle,Grainger (Jack Roush),Ford,200.0,8720.0,running,0.0,146.0
+1998,14,IRP,8.0,15.0,29.0,Dennis Setzer,Mopar Performance (Ron Keselowski),Dodge,200.0,6795.0,running,0.0,142.0
+1998,14,IRP,9.0,10.0,35.0,"Ron Barfield, Jr.",Ortho Lawn & Garden Products (Charles Hardy),Chevrolet,200.0,7720.0,running,8.0,138.0
+1998,14,IRP,10.0,7.0,3.0,Jay Sauter,GM Goodwrench Service Plus (Richard Childress),Chevrolet,200.0,8795.0,running,0.0,134.0
+1998,14,IRP,11.0,9.0,75.0,Kevin Harvick,Spears Manufacturing (Wayne Spears),Chevrolet,200.0,7470.0,running,0.0,130.0
+1998,14,IRP,12.0,18.0,66.0,Bryan Reffner,Carlin Burners & Controls (Dale Phelon),Ford,200.0,7420.0,running,0.0,127.0
+1998,14,IRP,13.0,17.0,86.0,Stacy Compton,Royal Crown Cola (David Hodson),Ford,200.0,7370.0,running,0.0,124.0
+1998,14,IRP,14.0,4.0,43.0,Jimmy Hensley,Cummins Engines (Petty Enterprises),Dodge,200.0,9320.0,running,17.0,121.0
+1998,14,IRP,15.0,24.0,18.0,Butch Miller,Dana Corporation (Ron Norick),Dodge,200.0,7395.0,running,0.0,118.0
+1998,14,IRP,16.0,27.0,78.0,Randy Renfrow,MCI (Dominic Dobson),Dodge,200.0,6220.0,running,0.0,115.0
+1998,14,IRP,17.0,30.0,6.0,Rick Carelli,RE/MAX International (Marshall Chesrown),Chevrolet,200.0,7170.0,running,0.0,112.0
+1998,14,IRP,18.0,22.0,84.0,Wayne Anderson,Porter-Cable Power Tools (Jim Herrick),Ford,200.0,6370.0,running,0.0,109.0
+1998,14,IRP,19.0,11.0,85.0,B.A. Wilson,ICSE Controls (B.A. Wilson),Ford,200.0,6070.0,running,0.0,106.0
+1998,14,IRP,20.0,26.0,88.0,Terry Cook,PBA Tour (Duke Thorson),Chevrolet,199.0,6245.0,running,0.0,103.0
+1998,14,IRP,21.0,33.0,37.0,Scot Walters,Red Man (Clarence Brewer),Chevrolet,198.0,5970.0,running,0.0,100.0
+1998,14,IRP,22.0,32.0,31.0,Kevin Cywinski,Concor Tool & Machine (Bob Brevak),Ford,198.0,5920.0,running,0.0,97.0
+1998,14,IRP,23.0,28.0,26.0,Randy MacDonald,Auto Trim Design Network (Mike Mittler),Ford,198.0,5870.0,running,0.0,94.0
+1998,14,IRP,24.0,20.0,57.0,Scott Hansen,Victor Ford / Ballew (Ed Scherer),Ford,198.0,5820.0,running,0.0,91.0
+1998,14,IRP,25.0,21.0,77.0,Gary St. Amant,Mokart Indoor Karting (Kevin Doran),Chevrolet,197.0,5795.0,running,0.0,88.0
+1998,14,IRP,26.0,31.0,60.0,Andy Houston,Addington Racing (Mike Addington),Chevrolet,194.0,6745.0,running,0.0,85.0
+1998,14,IRP,27.0,5.0,2.0,Mike Bliss,Team ASE Racing (Jim Smith),Ford,193.0,6720.0,running,0.0,82.0
+1998,14,IRP,28.0,2.0,16.0,"Ron Hornaday, Jr.","NAPA Brakes (Dale Earnhardt, Inc.)",Chevrolet,188.0,8695.0,running,63.0,79.0
+1998,14,IRP,29.0,34.0,44.0,Boris Said,Federated Auto Parts (Mark Simo),Ford,177.0,6670.0,running,0.0,76.0
+1998,14,IRP,30.0,25.0,9.0,Blake Bainbridge,Burke Automotive Group (Wilbur Bunce),Chevrolet,170.0,5670.0,running,0.0,73.0
+1998,14,IRP,31.0,23.0,51.0,Tammy Jo Kirk,Auto Value (Tammy Jo Kirk),Ford,147.0,5670.0,engine,0.0,70.0
+1998,14,IRP,32.0,29.0,90.0,Lance Norick,NHL (Ron Norick),Dodge,147.0,5670.0,running,0.0,67.0
+1998,14,IRP,33.0,8.0,52.0,Mike Wallace,Purolator PureOne Filters (Ken Schrader),Chevrolet,134.0,6670.0,engine,0.0,64.0
+1998,14,IRP,34.0,12.0,14.0,Rick Crawford,Circle Bar Motel & RV Park (Tom Mitchell),Ford,98.0,6670.0,engine,0.0,61.0
+1998,15,Loudon,1.0,7.0,60.0,Andy Houston,Addington Racing (Mike Addington),Chevrolet,200.0,44575.0,running,56.0,180.0
+1998,15,Loudon,2.0,6.0,50.0,Greg Biffle,Grainger (Jack Roush),Ford,200.0,26925.0,running,35.0,170.0
+1998,15,Loudon,3.0,3.0,99.0,Joe Ruttman,Exide Batteries (Jack Roush),Ford,200.0,19625.0,running,28.0,165.0
+1998,15,Loudon,4.0,8.0,35.0,"Ron Barfield, Jr.",Ortho Lawn & Garden / New Holland (Charles Hardy),Chevrolet,200.0,12975.0,running,14.0,160.0
+1998,15,Loudon,5.0,14.0,19.0,Tony Raines,Pennzoil (Kurt Roehrig),Ford,200.0,9575.0,running,0.0,155.0
+1998,15,Loudon,6.0,13.0,43.0,Jimmy Hensley,Cummins Engines (Petty Enterprises),Dodge,200.0,8025.0,running,0.0,150.0
+1998,15,Loudon,7.0,9.0,75.0,Kevin Harvick,Spears Manufacturing (Wayne Spears),Chevrolet,200.0,7525.0,running,0.0,146.0
+1998,15,Loudon,8.0,2.0,24.0,Jack Sprague,GMAC Financial Services (Rick Hendrick),Chevrolet,200.0,8475.0,running,0.0,142.0
+1998,15,Loudon,9.0,11.0,86.0,Stacy Compton,Royal Crown Cola (David Hodson),Ford,200.0,7375.0,running,3.0,138.0
+1998,15,Loudon,10.0,4.0,16.0,"Ron Hornaday, Jr.","NAPA Brakes (Dale Earnhardt, Inc.)",Chevrolet,200.0,9050.0,running,48.0,134.0
+1998,15,Loudon,11.0,5.0,3.0,Jay Sauter,GM Goodwrench Service Plus (Richard Childress),Chevrolet,200.0,7275.0,running,0.0,130.0
+1998,15,Loudon,12.0,22.0,88.0,Terry Cook,PBA Tour (Duke Thorson),Chevrolet,200.0,6225.0,running,0.0,127.0
+1998,15,Loudon,13.0,10.0,10.0,"Lonnie Rush, Jr.",A & G Coal (Jerry Wharton),Chevrolet,200.0,6175.0,running,0.0,124.0
+1998,15,Loudon,14.0,1.0,52.0,Mike Wallace,Purolator PureOne Filters / VIP Auto (Ken Schrader),Chevrolet,200.0,7825.0,running,7.0,121.0
+1998,15,Loudon,15.0,16.0,2.0,Mike Bliss,Team ASE Racing (Jim Smith),Ford,199.0,7325.0,running,0.0,118.0
+1998,15,Loudon,16.0,28.0,29.0,Bob Keselowski,Mopar Performance (Ron Keselowski),Dodge,199.0,6000.0,running,0.0,115.0
+1998,15,Loudon,17.0,26.0,57.0,Nathan Buttke,CSG Motorsports (Ed Scherer),Ford,199.0,5925.0,running,0.0,112.0
+1998,15,Loudon,18.0,30.0,44.0,Boris Said,Federated Auto Parts (Mark Simo),Ford,199.0,5875.0,running,0.0,109.0
+1998,15,Loudon,19.0,21.0,37.0,Scot Walters,Red Man (Clarence Brewer),Chevrolet,199.0,6825.0,running,0.0,106.0
+1998,15,Loudon,20.0,29.0,6.0,Rick Carelli,RE/MAX International (Marshall Chesrown),Chevrolet,199.0,7000.0,running,0.0,103.0
+1998,15,Loudon,21.0,32.0,7.0,Barry Bodine,Prime Performance (Jim Clark),Chevrolet,199.0,5750.0,running,0.0,100.0
+1998,15,Loudon,22.0,12.0,14.0,Rick Crawford,Circle Bar Motel & RV Park (Tom Mitchell),Ford,199.0,6725.0,running,0.0,97.0
+1998,15,Loudon,23.0,27.0,84.0,Wayne Anderson,Porter-Cable Power Tools (Jim Herrick),Ford,199.0,5700.0,running,0.0,94.0
+1998,15,Loudon,24.0,15.0,31.0,Kevin Cywinski,Concor Tool & Machine (Bob Brevak),Ford,197.0,5425.0,running,0.0,91.0
+1998,15,Loudon,25.0,17.0,61.0,Randy Tolsma,IWX Motor Freight (Steve Coulter),Chevrolet,195.0,6400.0,running,0.0,88.0
+1998,15,Loudon,26.0,35.0,69.0,Jeff Spraker,National Parts Peddler (Jeff Spraker),Chevrolet,192.0,5375.0,running,0.0,85.0
+1998,15,Loudon,27.0,23.0,42.0,Rick McCray,Sylvania Brilliant Light (Rick McCray),Chevrolet,192.0,5350.0,running,0.0,82.0
+1998,15,Loudon,28.0,31.0,90.0,Lance Norick,NHL / Dana Corporation (Ron Norick),Dodge,189.0,5325.0,running,0.0,79.0
+1998,15,Loudon,29.0,34.0,0.0,Ryan McGlynn,Buyers Choice / Howes Lubricants (Raynard McGlynn),Chevrolet,188.0,5300.0,running,0.0,76.0
+1998,15,Loudon,30.0,25.0,18.0,Butch Miller,Spicer / Dana Corporation (Ron Norick),Dodge,138.0,6275.0,fuel pump,0.0,73.0
+1998,15,Loudon,31.0,18.0,66.0,Bryan Reffner,Carlin Burners & Controls (Dale Phelon),Ford,118.0,6250.0,engine,0.0,70.0
+1998,15,Loudon,32.0,36.0,78.0,Randy Renfrow,MCI (Dominic Dobson),Dodge,91.0,5250.0,crash,9.0,67.0
+1998,15,Loudon,33.0,33.0,97.0,Tim Boulton,Tow Times Magazine (Marion Lawson),Chevrolet,70.0,5250.0,handling,0.0,64.0
+1998,15,Loudon,34.0,20.0,51.0,Tammy Jo Kirk,Auto Value (Tammy Jo Kirk),Ford,69.0,5250.0,rear end,0.0,61.0
+1998,15,Loudon,35.0,24.0,40.0,Mike Ewanitsko,Long Island Motorsports (Joe Ambrose),Chevrolet,31.0,5250.0,engine,0.0,58.0
+1998,15,Loudon,36.0,19.0,55.0,Tony Roper,Icehouse Beer (Tom Gloy),Ford,2.0,6250.0,crash,0.0,55.0
+1998,16,Flemington,1.0,4.0,88.0,Terry Cook,PBA Tour (Duke Thorson),Chevrolet,200.0,39300.0,running,34.0,180.0
+1998,16,Flemington,2.0,10.0,16.0,"Ron Hornaday, Jr.","NAPA Brakes (Dale Earnhardt, Inc.)",Chevrolet,200.0,21235.0,running,0.0,170.0
+1998,16,Flemington,3.0,3.0,66.0,Bryan Reffner,Carlin Burners & Controls (Dale Phelon),Ford,200.0,17575.0,running,0.0,165.0
+1998,16,Flemington,4.0,15.0,99.0,Joe Ruttman,Exide Batteries (Jack Roush),Ford,200.0,14475.0,running,0.0,160.0
+1998,16,Flemington,5.0,7.0,43.0,Jimmy Hensley,Cummins Engines (Petty Enterprises),Dodge,200.0,9925.0,running,0.0,155.0
+1998,16,Flemington,6.0,14.0,6.0,Billy Pauch,MCI (Dick Greenfield),Dodge,200.0,7200.0,running,0.0,150.0
+1998,16,Flemington,7.0,20.0,35.0,"Ron Barfield, Jr.",Ortho Lawn & Garden Products (Charles Hardy),Chevrolet,200.0,7975.0,running,0.0,146.0
+1998,16,Flemington,8.0,9.0,9.0,Randy MacDonald,Greenfield (Dick Greenfield),Dodge,200.0,6825.0,running,0.0,142.0
+1998,16,Flemington,9.0,12.0,75.0,Kevin Harvick,Spears Manufacturing (Wayne Spears),Chevrolet,200.0,7775.0,running,0.0,138.0
+1998,16,Flemington,10.0,27.0,52.0,Mike Wallace,Purolator PureOne Filters (Ken Schrader),Chevrolet,200.0,8950.0,running,0.0,134.0
+1998,16,Flemington,11.0,18.0,29.0,Bob Keselowski,Mopar Performance (Ron Keselowski),Dodge,200.0,6675.0,running,0.0,130.0
+1998,16,Flemington,12.0,8.0,2.0,Mike Bliss,Team ASE Racing (Jim Smith),Ford,200.0,7625.0,running,0.0,127.0
+1998,16,Flemington,13.0,26.0,3.0,Jay Sauter,GM Goodwrench Service Plus (Richard Childress),Chevrolet,200.0,7575.0,running,0.0,124.0
+1998,16,Flemington,14.0,28.0,55.0,Tony Roper,Icehouse Beer (Tom Gloy),Ford,200.0,7525.0,running,0.0,121.0
+1998,16,Flemington,15.0,11.0,14.0,Rick Crawford,Circle Bar Motel & RV Park (Tom Mitchell),Ford,200.0,7825.0,running,0.0,118.0
+1998,16,Flemington,16.0,17.0,6.0,Rick Carelli,RE/MAX International (Marshall Chesrown),Chevrolet,200.0,7175.0,running,0.0,115.0
+1998,16,Flemington,17.0,6.0,19.0,Tony Raines,Pennzoil (Kurt Roehrig),Ford,200.0,7250.0,running,0.0,112.0
+1998,16,Flemington,18.0,2.0,31.0,Kevin Cywinski,Concor Tool & Machine (Bob Brevak),Ford,199.0,6825.0,running,0.0,109.0
+1998,16,Flemington,19.0,30.0,44.0,Boris Said,Federated Auto Parts (Mark Simo),Ford,199.0,6025.0,running,0.0,106.0
+1998,16,Flemington,20.0,21.0,60.0,Andy Houston,Addington Racing (Mike Addington),Chevrolet,198.0,7450.0,running,0.0,103.0
+1998,16,Flemington,21.0,24.0,18.0,Butch Miller,Dana Corporation (Ron Norick),Dodge,198.0,6900.0,running,0.0,100.0
+1998,16,Flemington,22.0,29.0,37.0,Scot Walters,Red Man (Clarence Brewer),Chevrolet,198.0,6850.0,running,0.0,97.0
+1998,16,Flemington,23.0,25.0,7.0,Barry Bodine,Prime Performance (Jim Clark),Chevrolet,196.0,5800.0,running,0.0,94.0
+1998,16,Flemington,24.0,13.0,50.0,Greg Biffle,Grainger (Jack Roush),Ford,196.0,6750.0,running,0.0,91.0
+1998,16,Flemington,25.0,5.0,32.0,Curtis Markham,Active Truck Team (Joe Horner),Chevrolet,196.0,5725.0,running,0.0,88.0
+1998,16,Flemington,26.0,19.0,61.0,Randy Tolsma,IWX Motor Freight (Steve Coulter),Chevrolet,181.0,6725.0,ignition,0.0,85.0
+1998,16,Flemington,27.0,22.0,10.0,"Lonnie Rush, Jr.",Ohio State University (Jerry Wharton),Chevrolet,170.0,5725.0,running,0.0,82.0
+1998,16,Flemington,28.0,1.0,86.0,Stacy Compton,Royal Crown Cola (David Hodson),Ford,166.0,8425.0,crash,166.0,79.0
+1998,16,Flemington,29.0,16.0,24.0,Jack Sprague,GMAC Financial Services (Rick Hendrick),Chevrolet,63.0,7725.0,crash,0.0,76.0
+1998,16,Flemington,30.0,23.0,84.0,Wayne Anderson,Porter-Cable Power Tools (Jim Herrick),Ford,8.0,5725.0,crash,0.0,73.0
+1998,17,Nashville,1.0,30.0,43.0,Jimmy Hensley,Cummins Engines (Petty Enterprises),Dodge,250.0,38905.0,running,74.0,180.0
+1998,17,Nashville,2.0,17.0,19.0,Tony Raines,Pennzoil (Kurt Roehrig),Ford,250.0,21505.0,running,3.0,170.0
+1998,17,Nashville,3.0,3.0,14.0,Rick Crawford,Circle Bar Motel & RV Park (Tom Mitchell),Ford,250.0,18745.0,running,0.0,165.0
+1998,17,Nashville,4.0,2.0,50.0,Greg Biffle,Grainger (Jack Roush),Ford,250.0,13945.0,running,21.0,160.0
+1998,17,Nashville,5.0,16.0,52.0,Mike Wallace,Purolator PureOne Filters (Ken Schrader),Chevrolet,250.0,10595.0,running,0.0,155.0
+1998,17,Nashville,6.0,8.0,61.0,Randy Tolsma,IWX Motor Freight (Steve Coulter),Chevrolet,250.0,7295.0,running,0.0,150.0
+1998,17,Nashville,7.0,27.0,16.0,"Ron Hornaday, Jr.","NAPA Brakes (Dale Earnhardt, Inc.)",Chevrolet,250.0,7295.0,running,3.0,146.0
+1998,17,Nashville,8.0,15.0,37.0,Scot Walters,Red Man (Clarence Brewer),Chevrolet,250.0,7495.0,running,0.0,142.0
+1998,17,Nashville,9.0,11.0,86.0,Stacy Compton,Royal Crown Cola (David Hodson),Ford,250.0,7145.0,running,0.0,138.0
+1998,17,Nashville,10.0,12.0,35.0,"Ron Barfield, Jr.",Ortho Lawn & Garden Products (Charles Hardy),Chevrolet,250.0,8220.0,running,3.0,134.0
+1998,17,Nashville,11.0,5.0,24.0,Jack Sprague,GMAC Financial Services (Rick Hendrick),Chevrolet,250.0,7895.0,running,13.0,130.0
+1998,17,Nashville,12.0,1.0,2.0,Mike Bliss,Team ASE Racing (Jim Smith),Ford,250.0,9070.0,running,80.0,127.0
+1998,17,Nashville,13.0,25.0,60.0,Andy Houston,Addington Racing (Mike Addington),Chevrolet,250.0,6795.0,running,19.0,124.0
+1998,17,Nashville,14.0,4.0,66.0,Bryan Reffner,Carlin Burners & Controls (Dale Phelon),Ford,250.0,6770.0,running,0.0,121.0
+1998,17,Nashville,15.0,20.0,3.0,Jay Sauter,GM Goodwrench Service Plus (Richard Childress),Chevrolet,249.0,9045.0,running,34.0,118.0
+1998,17,Nashville,16.0,29.0,29.0,Bob Keselowski,Mopar Performance (Ron Keselowski),Dodge,249.0,5645.0,running,0.0,115.0
+1998,17,Nashville,17.0,6.0,6.0,Rick Carelli,RE/MAX International (Marshall Chesrown),Chevrolet,249.0,6595.0,running,0.0,112.0
+1998,17,Nashville,18.0,33.0,84.0,Wayne Anderson,Porter-Cable Power Tools (Jim Herrick),Ford,249.0,5545.0,running,0.0,109.0
+1998,17,Nashville,19.0,13.0,33.0,Shayne Lockhart,Token Racing (Kenneth Brown),Chevrolet,249.0,5495.0,running,0.0,106.0
+1998,17,Nashville,20.0,28.0,31.0,Kevin Cywinski,Concor Tool & Machine (Bob Brevak),Ford,249.0,5570.0,running,0.0,103.0
+1998,17,Nashville,21.0,7.0,55.0,Tony Roper,Icehouse Beer (Tom Gloy),Ford,249.0,6270.0,running,0.0,100.0
+1998,17,Nashville,22.0,19.0,90.0,Lance Norick,NHL (Ron Norick),Dodge,248.0,5220.0,running,0.0,97.0
+1998,17,Nashville,23.0,14.0,44.0,Boris Said,Federated Auto Parts (Mark Simo),Ford,247.0,6170.0,running,0.0,94.0
+1998,17,Nashville,24.0,10.0,99.0,Joe Ruttman,Exide Batteries (Jack Roush),Ford,234.0,6120.0,running,0.0,91.0
+1998,17,Nashville,25.0,22.0,88.0,Terry Cook,PBA Tour (Duke Thorson),Chevrolet,213.0,5095.0,crash,0.0,88.0
+1998,17,Nashville,26.0,24.0,51.0,Tammy Jo Kirk,Auto Value (Tammy Jo Kirk),Ford,182.0,5045.0,engine,0.0,85.0
+1998,17,Nashville,27.0,32.0,75.0,"Lonnie Rush, Jr.",A & G Coal (Wayne Spears),Chevrolet,153.0,5020.0,crash,0.0,82.0
+1998,17,Nashville,28.0,31.0,18.0,Butch Miller,Dana Corporation (Ron Norick),Dodge,118.0,5995.0,engine,0.0,79.0
+1998,17,Nashville,29.0,21.0,78.0,Randy Renfrow,MCI (Dominic Dobson),Dodge,104.0,4970.0,crash,0.0,76.0
+1998,17,Nashville,30.0,9.0,85.0,B.A. Wilson,Barker Cable TV (B.A. Wilson),Ford,104.0,4970.0,crash,0.0,73.0
+1998,17,Nashville,31.0,23.0,1.0,Dave Mader III,Raynor Garage Doors (Marty Walsh),Ford,95.0,4970.0,engine,0.0,70.0
+1998,17,Nashville,32.0,17.0,70.0,Joe Buford,Easy Care / Town & Country (James Buford),Ford,75.0,4970.0,engine,0.0,67.0
+1998,17,Nashville,33.0,34.0,7.0,Barry Bodine,Prime Performance (Jim Clark),Chevrolet,68.0,4970.0,crash,0.0,64.0
+1998,17,Nashville,34.0,26.0,9.0,Blake Bainbridge,Burke Automotive Group (Wilbur Bunce),Chevrolet,67.0,4970.0,crash,0.0,61.0
+1998,18,Topeka,1.0,8.0,86.0,Stacy Compton,Royal Crown Cola (David Hodson),Ford,81.0,41430.0,running,7.0,180.0
+1998,18,Topeka,2.0,6.0,88.0,Terry Cook,PBA Tour (Duke Thorson),Chevrolet,81.0,26980.0,running,0.0,170.0
+1998,18,Topeka,3.0,20.0,43.0,Jimmy Hensley,Cummins Engines (Petty Enterprises),Dodge,81.0,16870.0,running,0.0,165.0
+1998,18,Topeka,4.0,12.0,24.0,Jack Sprague,GMAC Financial Services (Rick Hendrick),Chevrolet,81.0,12170.0,running,0.0,160.0
+1998,18,Topeka,5.0,21.0,75.0,Kevin Harvick,Spears Manufacturing (Wayne Spears),Chevrolet,81.0,10320.0,running,0.0,155.0
+1998,18,Topeka,6.0,16.0,18.0,Butch Miller,Dana Corporation (Ron Norick),Dodge,81.0,8220.0,running,0.0,150.0
+1998,18,Topeka,7.0,18.0,3.0,Jay Sauter,GM Goodwrench Service Plus (Richard Childress),Chevrolet,81.0,7970.0,running,0.0,146.0
+1998,18,Topeka,8.0,10.0,16.0,"Ron Hornaday, Jr.","NAPA Brakes (Dale Earnhardt, Inc.)",Chevrolet,81.0,7670.0,running,0.0,142.0
+1998,18,Topeka,9.0,9.0,99.0,Joe Ruttman,Exide Batteries (Jack Roush),Ford,81.0,7570.0,running,0.0,138.0
+1998,18,Topeka,10.0,19.0,29.0,Bob Keselowski,Mopar Performance (Ron Keselowski),Dodge,81.0,7845.0,running,2.0,134.0
+1998,18,Topeka,11.0,32.0,31.0,Kevin Cywinski,Concor Tool & Machine (Bob Brevak),Ford,81.0,7070.0,running,0.0,130.0
+1998,18,Topeka,12.0,27.0,84.0,Wayne Anderson,Porter-Cable Power Tools (Jim Herrick),Ford,81.0,6520.0,running,0.0,127.0
+1998,18,Topeka,13.0,23.0,37.0,Scot Walters,Red Man (Clarence Brewer),Chevrolet,81.0,7220.0,running,0.0,124.0
+1998,18,Topeka,14.0,3.0,19.0,Tony Raines,Pennzoil (Kurt Roehrig),Ford,81.0,7170.0,running,2.0,121.0
+1998,18,Topeka,15.0,14.0,14.0,Rick Crawford,Circle Bar Motel & RV Park (Tom Mitchell),Ford,80.0,7470.0,running,0.0,118.0
+1998,18,Topeka,16.0,24.0,35.0,"Ron Barfield, Jr.",Ortho Lawn & Garden Products (Charles Hardy),Chevrolet,80.0,7070.0,running,0.0,115.0
+1998,18,Topeka,17.0,34.0,58.0,Chris Horn,Horn Automotive (Fred Horn),Chevrolet,79.0,6020.0,running,0.0,112.0
+1998,18,Topeka,18.0,2.0,66.0,Tom Hubert,Carlin Burners & Controls (Dale Phelon),Ford,78.0,9470.0,engine,35.0,109.0
+1998,18,Topeka,19.0,25.0,90.0,Lance Norick,NHL (Ron Norick),Dodge,78.0,5945.0,running,0.0,106.0
+1998,18,Topeka,20.0,5.0,2.0,Mike Bliss,Team ASE Racing (Jim Smith),Ford,74.0,7045.0,engine,19.0,103.0
+1998,18,Topeka,21.0,11.0,50.0,Greg Biffle,Grainger (Jack Roush),Ford,73.0,6795.0,running,0.0,100.0
+1998,18,Topeka,22.0,1.0,44.0,Boris Said,Federated Auto Parts (Mark Simo),Ford,72.0,6470.0,rear end,16.0,97.0
+1998,18,Topeka,23.0,26.0,78.0,Dominic Dobson,MCI (Dominic Dobson),Dodge,70.0,5745.0,running,0.0,94.0
+1998,18,Topeka,24.0,28.0,55.0,Tony Roper,Icehouse Beer (Tom Gloy),Ford,68.0,6720.0,running,0.0,91.0
+1998,18,Topeka,25.0,17.0,61.0,Randy Tolsma,IWX Motor Freight (Steve Coulter),Chevrolet,67.0,6695.0,crash,0.0,88.0
+1998,18,Topeka,26.0,33.0,26.0,Randy MacDonald,Auto Trim Design Network (Mike Mittler),Ford,66.0,6645.0,running,0.0,85.0
+1998,18,Topeka,27.0,7.0,52.0,Mike Wallace,Purolator PureOne Filters (Ken Schrader),Chevrolet,50.0,6620.0,rear end,0.0,82.0
+1998,18,Topeka,28.0,13.0,46.0,Rob Morgan,Acxiom (David Dollar),Ford,46.0,5595.0,engine,0.0,79.0
+1998,18,Topeka,29.0,29.0,42.0,Rick McCray,McCray Racing (Rick McCray),Chevrolet,38.0,5570.0,engine,0.0,76.0
+1998,18,Topeka,30.0,15.0,6.0,Rick Carelli,RE/MAX International (Marshall Chesrown),Chevrolet,35.0,6570.0,transmission,0.0,73.0
+1998,18,Topeka,31.0,4.0,48.0,Ron Fellows,AER Manufacturing (Billy Hess),Chevrolet,16.0,5570.0,transmission,0.0,70.0
+1998,18,Topeka,32.0,22.0,60.0,Andy Houston,Addington Racing (Mike Addington),Chevrolet,10.0,6570.0,engine,0.0,67.0
+1998,18,Topeka,33.0,31.0,10.0,"Lonnie Rush, Jr.",IWX Motor Freight (Jerry Wharton),Chevrolet,4.0,5570.0,ignition,0.0,64.0
+1998,18,Topeka,34.0,30.0,98.0,Bryan Reffner,Porter-Cable Power Tools (Jim Herrick),Ford,2.0,6570.0,handling,0.0,61.0
+1998,19,Louisville,1.0,6.0,19.0,Tony Raines,Pennzoil (Kurt Roehrig),Ford,225.0,35050.0,running,10.0,180.0
+1998,19,Louisville,2.0,4.0,2.0,Mike Bliss,Team ASE Racing (Jim Smith),Ford,225.0,29975.0,running,207.0,170.0
+1998,19,Louisville,3.0,3.0,60.0,Andy Houston,Addington Racing (Mike Addington),Chevrolet,225.0,19375.0,running,0.0,165.0
+1998,19,Louisville,4.0,7.0,86.0,Stacy Compton,Royal Crown Cola (David Hodson),Ford,225.0,14075.0,running,0.0,160.0
+1998,19,Louisville,5.0,1.0,88.0,Terry Cook,PBA Tour (Duke Thorson),Chevrolet,225.0,10375.0,running,8.0,155.0
+1998,19,Louisville,6.0,8.0,55.0,Tony Roper,Icehouse Beer (Tom Gloy),Ford,225.0,7675.0,running,0.0,150.0
+1998,19,Louisville,7.0,14.0,43.0,Jimmy Hensley,Cummins Engines (Petty Enterprises),Dodge,225.0,7400.0,running,0.0,146.0
+1998,19,Louisville,8.0,5.0,50.0,Greg Biffle,Grainger (Jack Roush),Ford,225.0,7450.0,running,0.0,142.0
+1998,19,Louisville,9.0,13.0,24.0,Jack Sprague,GMAC Financial Services (Rick Hendrick),Chevrolet,225.0,8300.0,running,0.0,138.0
+1998,19,Louisville,10.0,12.0,52.0,Mike Wallace,Purolator PureOne Filters (Ken Schrader),Chevrolet,225.0,8350.0,running,0.0,134.0
+1998,19,Louisville,11.0,28.0,35.0,"Ron Barfield, Jr.",Ortho Lawn & Garden Products (Charles Hardy),Chevrolet,225.0,7200.0,running,0.0,130.0
+1998,19,Louisville,12.0,15.0,37.0,Scot Walters,Red Man (Clarence Brewer),Chevrolet,224.0,7125.0,running,0.0,127.0
+1998,19,Louisville,13.0,2.0,75.0,Kevin Harvick,Spears Manufacturing (Wayne Spears),Chevrolet,224.0,7100.0,running,0.0,124.0
+1998,19,Louisville,14.0,20.0,18.0,Butch Miller,Dana Corporation (Ron Norick),Dodge,224.0,7025.0,running,0.0,121.0
+1998,19,Louisville,15.0,19.0,26.0,Bryan Reffner,Auto Trim Design Network (Mike Mittler),Ford,223.0,7375.0,running,0.0,118.0
+1998,19,Louisville,16.0,25.0,10.0,"Lonnie Rush, Jr.",IWX Motor Freight (Jerry Wharton),Chevrolet,222.0,5775.0,running,0.0,115.0
+1998,19,Louisville,17.0,18.0,16.0,"Ron Hornaday, Jr.","NAPA Brakes (Dale Earnhardt, Inc.)",Chevrolet,222.0,6755.0,running,0.0,112.0
+1998,19,Louisville,18.0,22.0,78.0,Randy Renfrow,MCI (Dominic Dobson),Dodge,222.0,5675.0,running,0.0,109.0
+1998,19,Louisville,19.0,29.0,90.0,Lance Norick,NHL (Ron Norick),Dodge,222.0,5655.0,running,0.0,106.0
+1998,19,Louisville,20.0,9.0,3.0,Jay Sauter,GM Goodwrench Service Plus (Richard Childress),Chevrolet,221.0,6900.0,running,0.0,103.0
+1998,19,Louisville,21.0,30.0,66.0,Tom Hubert,Carlin Burners & Controls (Dale Phelon),Ford,221.0,5525.0,running,0.0,100.0
+1998,19,Louisville,22.0,23.0,61.0,Randy Tolsma,IWX Motor Freight (Steve Coulter),Chevrolet,220.0,6475.0,running,0.0,97.0
+1998,19,Louisville,23.0,16.0,44.0,Boris Said,Federated Auto Parts (Mark Simo),Ford,218.0,5455.0,running,0.0,94.0
+1998,19,Louisville,24.0,27.0,29.0,Bob Keselowski,Mopar Performance (Ron Keselowski),Dodge,213.0,5425.0,running,0.0,91.0
+1998,19,Louisville,25.0,10.0,14.0,Rick Crawford,Circle Bar Motel & RV Park (Tom Mitchell),Ford,207.0,6405.0,running,0.0,88.0
+1998,19,Louisville,26.0,24.0,84.0,Wayne Anderson,Porter-Cable Power Tools (Jim Herrick),Ford,185.0,5375.0,running,0.0,85.0
+1998,19,Louisville,27.0,11.0,99.0,Joe Ruttman,Exide Batteries (Jack Roush),Ford,179.0,6330.0,running,0.0,82.0
+1998,19,Louisville,28.0,26.0,31.0,Kevin Cywinski,Concor Tool & Machine (Bob Brevak),Ford,173.0,5330.0,oil leak,0.0,79.0
+1998,19,Louisville,29.0,17.0,0.0,Bill Kimmel,Shoe Carnival (Andy Campbell),Chevrolet,76.0,5330.0,crash,0.0,76.0
+1998,19,Louisville,30.0,31.0,11.0,Brandon Sperling,Nicklaus Golf Equipment (Phil Bonifield),Chevrolet,27.0,5330.0,rear end,0.0,73.0
+1998,19,Louisville,31.0,21.0,6.0,Rick Carelli,RE/MAX International (Marshall Chesrown),Chevrolet,8.0,6330.0,crash,0.0,70.0
+1998,20,Richmond,1.0,2.0,24.0,Jack Sprague,GMAC Financial Services (Rick Hendrick),Chevrolet,200.0,38400.0,running,107.0,180.0
+1998,20,Richmond,2.0,8.0,28.0,Ernie Irvan,Federated Auto Parts (Mark Simo),Ford,200.0,22200.0,running,48.0,170.0
+1998,20,Richmond,3.0,18.0,50.0,Greg Biffle,Grainger (Jack Roush),Ford,200.0,16250.0,running,0.0,165.0
+1998,20,Richmond,4.0,1.0,99.0,Joe Ruttman,Exide Batteries (Jack Roush),Ford,200.0,11775.0,running,1.0,160.0
+1998,20,Richmond,5.0,19.0,18.0,Butch Miller,Dana Corporation (Ron Norick),Dodge,200.0,8575.0,running,0.0,155.0
+1998,20,Richmond,6.0,5.0,15.0,Rich Bickle,Turbine Solutions (Billy Ballew),Ford,200.0,6025.0,running,0.0,150.0
+1998,20,Richmond,7.0,15.0,61.0,Randy Tolsma,IWX Motor Freight (Steve Coulter),Chevrolet,200.0,6875.0,running,0.0,146.0
+1998,20,Richmond,8.0,3.0,6.0,Rick Carelli,RE/MAX International (Marshall Chesrown),Chevrolet,200.0,6825.0,running,18.0,142.0
+1998,20,Richmond,9.0,10.0,88.0,Terry Cook,PBA Tour (Duke Thorson),Chevrolet,200.0,5775.0,running,0.0,138.0
+1998,20,Richmond,10.0,9.0,52.0,Mike Wallace,Purolator PureOne Filters (Ken Schrader),Chevrolet,200.0,7850.0,running,9.0,134.0
+1998,20,Richmond,11.0,4.0,14.0,Rick Crawford,Circle Bar Motel & RV Park (Tom Mitchell),Ford,200.0,6675.0,running,0.0,130.0
+1998,20,Richmond,12.0,31.0,60.0,Andy Houston,Addington Racing (Mike Addington),Chevrolet,200.0,6800.0,running,0.0,127.0
+1998,20,Richmond,13.0,17.0,55.0,Tony Roper,Icehouse Beer (Tom Gloy),Ford,200.0,6500.0,running,0.0,124.0
+1998,20,Richmond,14.0,27.0,85.0,B.A. Wilson,ICSE Controls (B.A. Wilson),Ford,200.0,5450.0,running,0.0,121.0
+1998,20,Richmond,15.0,30.0,29.0,Bob Keselowski,Mopar Performance (Ron Keselowski),Dodge,200.0,5400.0,running,0.0,118.0
+1998,20,Richmond,16.0,12.0,43.0,Jimmy Hensley,Cummins Engines (Petty Enterprises),Dodge,200.0,6325.0,running,0.0,115.0
+1998,20,Richmond,17.0,16.0,3.0,Jay Sauter,GM Goodwrench Service Plus (Richard Childress),Chevrolet,200.0,6315.0,running,0.0,112.0
+1998,20,Richmond,18.0,6.0,10.0,"Lonnie Rush, Jr.",Ohio State University (Jerry Wharton),Chevrolet,200.0,5225.0,running,17.0,109.0
+1998,20,Richmond,19.0,34.0,44.0,Boris Said,Federated Auto Parts (Mark Simo),Ford,200.0,5175.0,running,0.0,106.0
+1998,20,Richmond,20.0,33.0,37.0,Scot Walters,Red Man (Clarence Brewer),Chevrolet,200.0,6250.0,running,0.0,103.0
+1998,20,Richmond,21.0,35.0,84.0,Wayne Anderson,Porter-Cable Power Tools (Jim Herrick),Ford,200.0,5100.0,running,0.0,100.0
+1998,20,Richmond,22.0,7.0,16.0,"Ron Hornaday, Jr.","NAPA Brakes (Dale Earnhardt, Inc.)",Chevrolet,200.0,6075.0,running,0.0,97.0
+1998,20,Richmond,23.0,13.0,86.0,Stacy Compton,Royal Crown Cola (David Hodson),Ford,200.0,6050.0,running,0.0,94.0
+1998,20,Richmond,24.0,36.0,90.0,Lance Norick,NHL (Ron Norick),Dodge,200.0,5025.0,running,0.0,91.0
+1998,20,Richmond,25.0,32.0,75.0,Kevin Harvick,Spears Manufacturing (Wayne Spears),Chevrolet,199.0,6000.0,running,0.0,88.0
+1998,20,Richmond,26.0,25.0,9.0,John Blewett III,Greenfield Racing (Dick Greenfield),Dodge,199.0,4975.0,running,0.0,85.0
+1998,20,Richmond,27.0,20.0,2.0,Mike Bliss,Team ASE Racing (Jim Smith),Ford,198.0,5950.0,running,0.0,82.0
+1998,20,Richmond,28.0,14.0,19.0,Tony Raines,Pennzoil (Kurt Roehrig),Ford,197.0,5925.0,running,0.0,79.0
+1998,20,Richmond,29.0,22.0,31.0,Kevin Cywinski,Concor Tool & Machine (Bob Brevak),Ford,182.0,4875.0,running,0.0,76.0
+1998,20,Richmond,30.0,21.0,35.0,"Ron Barfield, Jr.",Ortho Lawn & Garden Products (Charles Hardy),Chevrolet,146.0,5950.0,crash,0.0,73.0
+1998,20,Richmond,31.0,23.0,78.0,Randy Renfrow,MCI (Dominic Dobson),Dodge,122.0,4825.0,fuel pump,0.0,70.0
+1998,20,Richmond,32.0,28.0,11.0,Brett Bodine,Nicklaus Golf Equipment (Phil Bonifield),Chevrolet,119.0,4825.0,transmission,0.0,67.0
+1998,20,Richmond,33.0,11.0,7.0,Barry Bodine,Prime Performance (Jim Clark),Chevrolet,109.0,4825.0,crash,0.0,64.0
+1998,20,Richmond,34.0,29.0,1.0,Bobby Hamilton,Southern Pride Trucking (Bobby Hamilton Racing),Chevrolet,104.0,4825.0,brakes,0.0,61.0
+1998,20,Richmond,35.0,26.0,26.0,Bryan Reffner,Auto Trim Design (Mike Mittler),Ford,68.0,5825.0,overheating,0.0,58.0
+1998,20,Richmond,36.0,24.0,66.0,Johnny Chapman,Carlin Burners & Controls (Dale Phelon),Ford,32.0,4825.0,engine,0.0,55.0
+1998,21,Memphis,1.0,3.0,16.0,"Ron Hornaday, Jr.","NAPA Brakes (Dale Earnhardt, Inc.)",Chevrolet,200.0,38625.0,running,42.0,180.0
+1998,21,Memphis,2.0,7.0,3.0,Jay Sauter,GM Goodwrench Service Plus (Richard Childress),Chevrolet,200.0,30735.0,running,11.0,170.0
+1998,21,Memphis,3.0,10.0,43.0,Jimmy Hensley,Cummins Engines (Petty Enterprises),Dodge,200.0,21525.0,running,38.0,165.0
+1998,21,Memphis,4.0,29.0,99.0,Joe Ruttman,Exide Batteries (Jack Roush),Ford,200.0,16550.0,running,0.0,160.0
+1998,21,Memphis,5.0,9.0,14.0,Rick Crawford,Circle Bar Motel & RV Park (Tom Mitchell),Ford,200.0,14250.0,running,0.0,155.0
+1998,21,Memphis,6.0,11.0,35.0,"Ron Barfield, Jr.",Ortho Lawn & Garden Products (Charles Hardy),Chevrolet,200.0,9000.0,running,0.0,150.0
+1998,21,Memphis,7.0,20.0,52.0,Mike Wallace,Purolator PureOne Filters (Ken Schrader),Chevrolet,200.0,8900.0,running,0.0,146.0
+1998,21,Memphis,8.0,6.0,88.0,Terry Cook,PBA Tour (Duke Thorson),Chevrolet,200.0,8800.0,running,0.0,142.0
+1998,21,Memphis,9.0,15.0,24.0,Jack Sprague,GMAC Financial Services (Rick Hendrick),Chevrolet,200.0,9475.0,running,0.0,138.0
+1998,21,Memphis,10.0,17.0,84.0,Wayne Anderson,Porter-Cable Power Tools (Jim Herrick),Ford,200.0,9475.0,running,0.0,134.0
+1998,21,Memphis,11.0,31.0,10.0,"Lonnie Rush, Jr.",Ohio State University (Jerry Wharton),Chevrolet,200.0,7500.0,running,0.0,130.0
+1998,21,Memphis,12.0,5.0,18.0,Butch Miller,Dana Corporation (Ron Norick),Dodge,200.0,8275.0,running,0.0,127.0
+1998,21,Memphis,13.0,18.0,61.0,Randy Tolsma,IWX Motor Freight (Steve Coulter),Chevrolet,200.0,8225.0,running,0.0,124.0
+1998,21,Memphis,14.0,23.0,44.0,Boris Said,Federated Auto Parts (Mark Simo),Ford,200.0,7175.0,running,0.0,121.0
+1998,21,Memphis,15.0,19.0,75.0,Kevin Harvick,Spears Manufacturing (Wayne Spears),Chevrolet,200.0,8575.0,running,0.0,118.0
+1998,21,Memphis,16.0,16.0,86.0,Stacy Compton,Royal Crown Cola (David Hodson),Ford,200.0,8075.0,running,0.0,115.0
+1998,21,Memphis,17.0,4.0,55.0,Tony Roper,Icehouse Beer (Tom Gloy),Ford,199.0,7975.0,running,0.0,112.0
+1998,21,Memphis,18.0,14.0,85.0,B.A. Wilson,ICSE Controls (B.A. Wilson),Ford,199.0,6875.0,running,0.0,109.0
+1998,21,Memphis,19.0,12.0,66.0,Johnny Chapman,Carlin Burners & Controls (Dale Phelon),Ford,198.0,6850.0,running,0.0,106.0
+1998,21,Memphis,20.0,26.0,90.0,Lance Norick,NHL (Ron Norick),Dodge,198.0,7050.0,running,0.0,103.0
+1998,21,Memphis,21.0,25.0,51.0,Tammy Jo Kirk,Auto Value (Tammy Jo Kirk),Ford,198.0,6800.0,running,0.0,100.0
+1998,21,Memphis,22.0,1.0,50.0,Greg Biffle,Grainger (Jack Roush),Ford,196.0,10975.0,running,109.0,97.0
+1998,21,Memphis,23.0,2.0,2.0,Mike Bliss,Team ASE Racing (Jim Smith),Ford,195.0,8750.0,running,0.0,94.0
+1998,21,Memphis,24.0,22.0,9.0,David Starr,Embee Technology / CNG Engines (Buddy Morrison),Chevrolet,189.0,6725.0,running,0.0,91.0
+1998,21,Memphis,25.0,21.0,19.0,Tony Raines,Pennzoil (Kurt Roehrig),Ford,168.0,7700.0,crash,0.0,88.0
+1998,21,Memphis,26.0,28.0,8.0,Sammy Potashnick,PTI / Hart Transport (Sammy Potashnick),Chevrolet,157.0,6675.0,running,0.0,85.0
+1998,21,Memphis,27.0,13.0,29.0,Randy MacDonald,Mopar Performance (Ron Keselowski),Dodge,152.0,6650.0,engine,0.0,82.0
+1998,21,Memphis,28.0,32.0,26.0,Bryan Reffner,Auto Trim Design Network (Mike Mittler),Ford,143.0,7525.0,engine,0.0,79.0
+1998,21,Memphis,29.0,35.0,89.0,Stan Boyd,Precision Automotive (James Liguori),Chevrolet,142.0,6600.0,ignition,0.0,76.0
+1998,21,Memphis,30.0,24.0,6.0,Rick Carelli,RE/MAX International (Marshall Chesrown),Chevrolet,125.0,7575.0,running,0.0,73.0
+1998,21,Memphis,31.0,33.0,28.0,Danny Bagwell,Four-Tech Racing (Wilson Bagwell),Ford,91.0,6550.0,transmission,0.0,70.0
+1998,21,Memphis,32.0,8.0,31.0,Kevin Cywinski,Big Daddy's BBQ Sauce (Bob Brevak),Ford,85.0,6550.0,engine,0.0,67.0
+1998,21,Memphis,33.0,34.0,56.0,Tim Ice,FAST Racing Engines (Jerry Lawrence),Dodge,63.0,6550.0,rear end,0.0,64.0
+1998,21,Memphis,34.0,27.0,60.0,Andy Houston,Addington Racing (Mike Addington),Chevrolet,53.0,7550.0,crash,0.0,61.0
+1998,21,Memphis,35.0,36.0,81.0,Dave Mader III,Raynor Garage Doors (Marty Walsh),Ford,48.0,6550.0,transmission,0.0,58.0
+1998,21,Memphis,36.0,30.0,37.0,Scot Walters,Red Man (Clarence Brewer),Chevrolet,3.0,6550.0,engine,0.0,55.0
+1998,22,Gateway,1.0,4.0,6.0,Rick Carelli,RE/MAX International (Marshall Chesrown),Chevrolet,160.0,48175.0,running,72.0,180.0
+1998,22,Gateway,2.0,6.0,16.0,"Ron Hornaday, Jr.","NAPA Brakes (Dale Earnhardt, Inc.)",Chevrolet,160.0,28675.0,running,20.0,170.0
+1998,22,Gateway,3.0,5.0,3.0,Jay Sauter,GM Goodwrench Service Plus (Richard Childress),Chevrolet,160.0,24175.0,running,1.0,165.0
+1998,22,Gateway,4.0,3.0,24.0,Jack Sprague,GMAC Financial Services (Rick Hendrick),Chevrolet,160.0,20450.0,running,30.0,160.0
+1998,22,Gateway,5.0,28.0,66.0,Tom Hubert,Carlin Burners & Controls (Dale Phelon),Ford,160.0,13900.0,running,0.0,155.0
+1998,22,Gateway,6.0,14.0,43.0,Jimmy Hensley,Cummins Engines (Petty Enterprises),Dodge,160.0,11950.0,running,0.0,150.0
+1998,22,Gateway,7.0,8.0,14.0,Rick Crawford,Circle Bar Motel & RV Park (Tom Mitchell),Ford,160.0,10450.0,running,0.0,146.0
+1998,22,Gateway,8.0,19.0,52.0,Mike Wallace,Purolator PureOne Filters (Ken Schrader),Chevrolet,160.0,9450.0,running,0.0,142.0
+1998,22,Gateway,9.0,23.0,37.0,Scot Walters,Red Man (Clarence Brewer),Chevrolet,160.0,8500.0,running,0.0,138.0
+1998,22,Gateway,10.0,15.0,84.0,Bryan Reffner,Porter-Cable Power Tools (Jim Herrick),Ford,160.0,9875.0,running,0.0,134.0
+1998,22,Gateway,11.0,21.0,75.0,Kevin Harvick,Spears Manufacturing (Wayne Spears),Chevrolet,160.0,8550.0,running,4.0,130.0
+1998,22,Gateway,12.0,11.0,90.0,Lance Norick,NHL (Ron Norick),Dodge,160.0,7375.0,running,0.0,127.0
+1998,22,Gateway,13.0,22.0,29.0,Dennis Setzer,Mopar Performance (Ron Keselowski),Dodge,159.0,7325.0,running,0.0,124.0
+1998,22,Gateway,14.0,10.0,35.0,"Ron Barfield, Jr.",Ortho Lawn & Garden Products (Charles Hardy),Chevrolet,159.0,8275.0,running,9.0,121.0
+1998,22,Gateway,15.0,12.0,55.0,Tony Roper,Icehouse Beer (Tom Gloy),Ford,159.0,8350.0,running,0.0,118.0
+1998,22,Gateway,16.0,27.0,61.0,Randy Tolsma,IWX Motor Freight (Steve Coulter),Chevrolet,159.0,8175.0,running,0.0,115.0
+1998,22,Gateway,17.0,9.0,2.0,Mike Bliss,Team ASE Racing (Jim Smith),Ford,159.0,8125.0,running,0.0,112.0
+1998,22,Gateway,18.0,2.0,99.0,Joe Ruttman,Exide Batteries (Jack Roush),Ford,158.0,7875.0,running,0.0,109.0
+1998,22,Gateway,19.0,1.0,50.0,Greg Biffle,Grainger (Jack Roush),Ford,158.0,8825.0,running,24.0,106.0
+1998,22,Gateway,20.0,25.0,26.0,Randy MacDonald,Auto Trim Design Network (Mike Mittler),Ford,158.0,6850.0,running,0.0,103.0
+1998,22,Gateway,21.0,20.0,44.0,Boris Said,Federated Auto Parts (Mark Simo),Ford,158.0,6825.0,running,0.0,100.0
+1998,22,Gateway,22.0,18.0,88.0,Terry Cook,PBA Tour (Duke Thorson),Chevrolet,156.0,7800.0,running,0.0,97.0
+1998,22,Gateway,23.0,29.0,11.0,Matt Hutter,Nicklaus Golf Equipment (Phil Bonifield),Chevrolet,156.0,6775.0,running,0.0,94.0
+1998,22,Gateway,24.0,7.0,10.0,"Lonnie Rush, Jr.",Ohio State Unviersity (Jerry Wharton),Chevrolet,156.0,6750.0,running,0.0,91.0
+1998,22,Gateway,25.0,26.0,78.0,Randy Renfrow,MCI (Dominic Dobson),Dodge,155.0,6725.0,running,0.0,88.0
+1998,22,Gateway,26.0,24.0,86.0,Stacy Compton,Royal Crown Cola (David Hodson),Ford,153.0,7700.0,running,0.0,85.0
+1998,22,Gateway,27.0,31.0,58.0,Chris Horn,Horn Automotive (Fred Horn),Chevrolet,148.0,6675.0,running,0.0,82.0
+1998,22,Gateway,28.0,16.0,18.0,Butch Miller,Dana Corporation (Ron Norick),Dodge,103.0,7650.0,transmission,0.0,79.0
+1998,22,Gateway,29.0,30.0,31.0,Kevin Cywinski,Big Daddy's BBQ Sauce (Bob Brevak),Ford,102.0,6725.0,engine,0.0,76.0
+1998,22,Gateway,30.0,17.0,60.0,Andy Houston,Addington Racing (Mike Addington),Chevrolet,71.0,7600.0,crash,0.0,73.0
+1998,22,Gateway,31.0,32.0,28.0,Danny Bagwell,Four-Tech Racing (Wilson Bagwell),Ford,61.0,6575.0,transmission,0.0,70.0
+1998,22,Gateway,32.0,13.0,19.0,Tony Raines,Pennzoil (Kurt Roehrig),Ford,49.0,7575.0,engine,0.0,67.0
+1998,23,Martinsville,1.0,10.0,3.0,Jay Sauter,GM Goodwrench Service Plus (Richard Childress),Chevrolet,250.0,36450.0,running,34.0,180.0
+1998,23,Martinsville,2.0,4.0,43.0,Jimmy Hensley,Cummins / Players Inc. (Petty Enterprises),Dodge,250.0,21550.0,running,62.0,170.0
+1998,23,Martinsville,3.0,6.0,16.0,"Ron Hornaday, Jr.","NAPA Brakes (Dale Earnhardt, Inc.)",Chevrolet,250.0,14550.0,running,4.0,165.0
+1998,23,Martinsville,4.0,15.0,86.0,Stacy Compton,Royal Crown Cola (David Hodson),Ford,250.0,13225.0,running,0.0,160.0
+1998,23,Martinsville,5.0,3.0,15.0,Rich Bickle,Turbine Solutions (Billy Ballew),Ford,250.0,8625.0,running,0.0,155.0
+1998,23,Martinsville,6.0,17.0,29.0,Dennis Setzer,Mopar Performance (Ron Keselowski),Dodge,250.0,6025.0,running,20.0,150.0
+1998,23,Martinsville,7.0,12.0,19.0,Tony Raines,Pennzoil (Kurt Roehrig),Ford,250.0,6875.0,running,4.0,146.0
+1998,23,Martinsville,8.0,1.0,50.0,Greg Biffle,Grainger (Jack Roush),Ford,250.0,8075.0,running,80.0,142.0
+1998,23,Martinsville,9.0,22.0,61.0,Randy Renfrow,IWX Motor Freight (Steve Coulter),Chevrolet,250.0,7775.0,running,45.0,138.0
+1998,23,Martinsville,10.0,11.0,24.0,Jack Sprague,GMAC Financial Services (Rick Hendrick),Chevrolet,250.0,7825.0,running,0.0,134.0
+1998,23,Martinsville,11.0,31.0,6.0,Rick Carelli,RE/MAX International (Marshall Chesrown),Chevrolet,250.0,6675.0,running,0.0,130.0
+1998,23,Martinsville,12.0,24.0,60.0,Andy Houston,Addington Racing (Mike Addington),Chevrolet,250.0,6850.0,running,1.0,127.0
+1998,23,Martinsville,13.0,2.0,2.0,Mike Bliss,Team ASE Racing (Jim Smith),Ford,250.0,7500.0,running,0.0,124.0
+1998,23,Martinsville,14.0,16.0,84.0,Randy Tolsma,Porter-Cable Power Tools (Jim Herrick),Ford,249.0,6450.0,running,0.0,121.0
+1998,23,Martinsville,15.0,14.0,14.0,Rick Crawford,Circle Bar Motel & RV Park (Tom Mitchell),Ford,249.0,6750.0,running,0.0,118.0
+1998,23,Martinsville,16.0,30.0,37.0,Scot Walters,Red Man (Clarence Brewer),Chevrolet,249.0,5325.0,running,0.0,115.0
+1998,23,Martinsville,17.0,29.0,4.0,Brad Teague,Hobart Food Service (William Rose),Chevrolet,249.0,5275.0,running,0.0,112.0
+1998,23,Martinsville,18.0,20.0,55.0,Tony Roper,Icehouse Beer (Tom Gloy),Ford,249.0,6225.0,running,0.0,109.0
+1998,23,Martinsville,19.0,35.0,90.0,Lance Norick,NHL (Ron Norick),Dodge,248.0,5175.0,running,0.0,106.0
+1998,23,Martinsville,20.0,33.0,35.0,"Ron Barfield, Jr.",Ortho Lawn & Garden Products (Charles Hardy),Chevrolet,248.0,6125.0,running,0.0,103.0
+1998,23,Martinsville,21.0,32.0,99.0,Joe Ruttman,Exide Batteries (Jack Roush),Ford,247.0,6100.0,running,0.0,100.0
+1998,23,Martinsville,22.0,21.0,88.0,Terry Cook,PBA Tour (Duke Thorson),Chevrolet,237.0,6075.0,running,0.0,97.0
+1998,23,Martinsville,23.0,28.0,22.0,Bryan Reffner,M & J Racing (Mike Thompson),Ford,227.0,6050.0,electrical,0.0,94.0
+1998,23,Martinsville,24.0,7.0,52.0,Mike Wallace,Purolator PureOne Filters (Ken Schrader),Chevrolet,222.0,6025.0,rear end,0.0,91.0
+1998,23,Martinsville,25.0,13.0,75.0,Kevin Harvick,Spears Manufacturing (Wayne Spears),Chevrolet,214.0,6000.0,overheating,0.0,88.0
+1998,23,Martinsville,26.0,9.0,85.0,B.A. Wilson,Llumar Window Films (B.A. Wilson),Ford,174.0,4975.0,overheating,0.0,85.0
+1998,23,Martinsville,27.0,23.0,10.0,"Lonnie Rush, Jr.",Ohio State University (Jerry Wharton),Chevrolet,153.0,4950.0,rear end,0.0,82.0
+1998,23,Martinsville,28.0,25.0,18.0,Butch Miller,Dana Corporation (Ron Norick),Dodge,146.0,5925.0,running,0.0,79.0
+1998,23,Martinsville,29.0,5.0,44.0,Boris Said,Federated Auto Parts (Mark Simo),Ford,137.0,4875.0,engine,0.0,76.0
+1998,23,Martinsville,30.0,19.0,31.0,Kevin Cywinski,Auto Trim Design / Big Daddy's BBQ (Bob Brevak),Ford,130.0,4850.0,crash,0.0,73.0
+1998,23,Martinsville,31.0,36.0,42.0,"Tom Carey, Jr.",AAA Aircraft Parts (Joe Ambrose),Chevrolet,127.0,4825.0,brakes,0.0,70.0
+1998,23,Martinsville,32.0,18.0,33.0,Shayne Lockhart,Token Racing (Kenneth Brown),Chevrolet,126.0,4825.0,brakes,0.0,67.0
+1998,23,Martinsville,33.0,8.0,1.0,Bobby Hamilton,Southern Pride Trucking (Bobby Hamilton Racing),Chevrolet,89.0,4825.0,overheating,0.0,64.0
+1998,23,Martinsville,34.0,34.0,66.0,Tom Hubert,Carlin Burners & Controls (Dale Phelon),Ford,78.0,4825.0,crash,0.0,61.0
+1998,23,Martinsville,35.0,27.0,71.0,Brett Bodine,Nicklaus Golf Equipment (Phil Bonifield),Chevrolet,48.0,4825.0,engine,0.0,58.0
+1998,23,Martinsville,36.0,26.0,83.0,Joe Gaita,Building Specialties (Joe Gaita),Ford,23.0,4825.0,overheating,0.0,55.0
+1998,24,Sonoma,1.0,2.0,44.0,Boris Said,Federated Auto Parts / 1-800-Collect (Mark Simo),Ford,77.0,43650.0,running,47.0,180.0
+1998,24,Sonoma,2.0,11.0,2.0,Mike Bliss,Team ASE Racing (Jim Smith),Ford,77.0,23705.0,running,0.0,170.0
+1998,24,Sonoma,3.0,3.0,19.0,Tony Raines,Pennzoil (Kurt Roehrig),Ford,77.0,15095.0,running,0.0,165.0
+1998,24,Sonoma,4.0,13.0,99.0,Joe Ruttman,Exide Batteries (Jack Roush),Ford,77.0,11495.0,running,0.0,160.0
+1998,24,Sonoma,5.0,26.0,43.0,Jimmy Hensley,Cummins Engines (Petty Enterprises),Dodge,77.0,9295.0,running,0.0,155.0
+1998,24,Sonoma,6.0,20.0,60.0,Andy Houston,Addington Racing (Mike Addington),Chevrolet,77.0,8045.0,running,0.0,150.0
+1998,24,Sonoma,7.0,28.0,90.0,Lance Norick,NHL (Ron Norick),Dodge,77.0,6095.0,running,0.0,146.0
+1998,24,Sonoma,8.0,12.0,3.0,Jay Sauter,GM Goodwrench Service Plus (Richard Childress),Chevrolet,77.0,7045.0,running,0.0,142.0
+1998,24,Sonoma,9.0,7.0,24.0,Jack Sprague,GMAC Financial Services (Rick Hendrick),Chevrolet,77.0,7995.0,running,0.0,138.0
+1998,24,Sonoma,10.0,14.0,84.0,Doug George,Porter-Cable Power Tools (Jim Herrick),Ford,77.0,7070.0,running,0.0,134.0
+1998,24,Sonoma,11.0,5.0,6.0,Rick Carelli,RE/MAX International (Marshall Chesrown),Chevrolet,77.0,6745.0,running,1.0,130.0
+1998,24,Sonoma,12.0,19.0,55.0,Tony Roper,Icehouse Beer (Tom Gloy),Ford,77.0,6695.0,running,0.0,127.0
+1998,24,Sonoma,13.0,23.0,35.0,"Ron Barfield, Jr.",Ortho Lawn & Garden Products (Charles Hardy),Chevrolet,77.0,6645.0,running,0.0,124.0
+1998,24,Sonoma,14.0,24.0,29.0,Dennis Setzer,Mopar Performance (Ron Keselowski),Dodge,77.0,5595.0,running,0.0,121.0
+1998,24,Sonoma,15.0,16.0,86.0,Stacy Compton,Royal Crown Cola (David Hodson),Ford,77.0,6895.0,running,0.0,118.0
+1998,24,Sonoma,16.0,22.0,37.0,Scot Walters,Red Man (Clarence Brewer),Chevrolet,76.0,5495.0,running,0.0,115.0
+1998,24,Sonoma,17.0,4.0,75.0,Kevin Harvick,Spears Manufacturing (Wayne Spears),Chevrolet,76.0,6445.0,running,0.0,112.0
+1998,24,Sonoma,18.0,25.0,85.0,Milan Garrett,Champion Wheel (Milan Garrett),Ford,76.0,5395.0,running,0.0,109.0
+1998,24,Sonoma,19.0,27.0,11.0,Randy Tolsma,Nicklaus Golf / Red Line Oil (Phil Bonifield),Chevrolet,72.0,6370.0,running,0.0,106.0
+1998,24,Sonoma,20.0,10.0,50.0,Greg Biffle,Grainger (Jack Roush),Ford,65.0,6495.0,running,0.0,103.0
+1998,24,Sonoma,21.0,31.0,38.0,Mike Clark,Ridge Gate Motorsports (Mike Clark),Chevrolet,65.0,5220.0,running,0.0,100.0
+1998,24,Sonoma,22.0,18.0,52.0,Mike Wallace,Purolator PureOne Filters (Ken Schrader),Chevrolet,62.0,6195.0,crash,0.0,97.0
+1998,24,Sonoma,23.0,6.0,16.0,"Ron Hornaday, Jr.","NAPA Brakes (Dale Earnhardt, Inc.)",Chevrolet,62.0,6170.0,running,0.0,94.0
+1998,24,Sonoma,24.0,32.0,41.0,Terry Fisher,Farris Concrete (Mike Farris),Chevrolet,61.0,5145.0,crash,0.0,91.0
+1998,24,Sonoma,25.0,21.0,31.0,Kevin Cywinski,Allied Signal / Bendix (Bob Brevak),Ford,60.0,5070.0,rear end,0.0,88.0
+1998,24,Sonoma,26.0,8.0,46.0,Rob Morgan,Acxiom (David Dollar),Ford,55.0,5045.0,running,0.0,85.0
+1998,24,Sonoma,27.0,1.0,66.0,Tom Hubert,Carlin Burners & Controls / Phelon (Dale Phelon),Ford,54.0,5720.0,crash,29.0,82.0
+1998,24,Sonoma,28.0,17.0,18.0,Butch Miller,Dana Corporation (Ron Norick),Dodge,47.0,5995.0,running,0.0,79.0
+1998,24,Sonoma,29.0,15.0,14.0,Rick Crawford,Circle Bar Motel & RV Park (Tom Mitchell),Ford,46.0,5970.0,rear end,0.0,76.0
+1998,24,Sonoma,30.0,9.0,88.0,Terry Cook,PBA Tour (Duke Thorson),Chevrolet,44.0,5970.0,engine,0.0,73.0
+1998,24,Sonoma,31.0,29.0,39.0,Kenny Gross,Ridge Gate Motorsports (Mike Clark),Chevrolet,38.0,4970.0,transmission,0.0,70.0
+1998,24,Sonoma,32.0,30.0,1.0,Bryan Reffner,Dana (Ron Norick),Dodge,1.0,5970.0,handling,0.0,67.0
+1998,25,Mesa Marin,1.0,12.0,29.0,Dennis Setzer,Mopar Performance (Ron Keselowski),Dodge,300.0,33555.0,running,11.0,180.0
+1998,25,Mesa Marin,2.0,10.0,24.0,Jack Sprague,GMAC Financial Services (Rick Hendrick),Chevrolet,300.0,19655.0,running,0.0,170.0
+1998,25,Mesa Marin,3.0,2.0,86.0,Stacy Compton,Royal Crown Cola (David Hodson),Ford,300.0,16645.0,running,25.0,165.0
+1998,25,Mesa Marin,4.0,1.0,16.0,"Ron Hornaday, Jr.","NAPA Brakes (Dale Earnhardt, Inc.)",Chevrolet,300.0,11745.0,running,95.0,160.0
+1998,25,Mesa Marin,5.0,5.0,75.0,Kevin Harvick,Spears Manufacturing (Wayne Spears),Chevrolet,300.0,9945.0,running,3.0,155.0
+1998,25,Mesa Marin,6.0,15.0,6.0,Rick Carelli,RE/MAX International (Marshall Chesrown),Chevrolet,300.0,7495.0,running,0.0,150.0
+1998,25,Mesa Marin,7.0,28.0,18.0,Butch Miller,Dana Corporation (Ron Norick),Dodge,300.0,7445.0,running,0.0,146.0
+1998,25,Mesa Marin,8.0,14.0,3.0,Jay Sauter,GM Goodwrench Service Plus (Richard Childress),Chevrolet,299.0,7395.0,running,0.0,142.0
+1998,25,Mesa Marin,9.0,19.0,60.0,Andy Houston,Addington Racing (Mike Addington),Chevrolet,299.0,8095.0,running,0.0,138.0
+1998,25,Mesa Marin,10.0,13.0,19.0,Tony Raines,Pennzoil (Kurt Roehrig),Ford,299.0,7795.0,running,0.0,134.0
+1998,25,Mesa Marin,11.0,4.0,88.0,Terry Cook,PBA Tour (Duke Thorson),Chevrolet,299.0,7095.0,running,0.0,130.0
+1998,25,Mesa Marin,12.0,23.0,84.0,Doug George,Porter-Cable Power Tools (Jim Herrick),Ford,299.0,6045.0,running,0.0,127.0
+1998,25,Mesa Marin,13.0,6.0,99.0,Joe Ruttman,Exide Batteries (Jack Roush),Ford,299.0,6995.0,running,0.0,124.0
+1998,25,Mesa Marin,14.0,11.0,50.0,Greg Biffle,Grainger (Jack Roush),Ford,299.0,7195.0,running,7.0,121.0
+1998,25,Mesa Marin,15.0,26.0,37.0,Scot Walters,Red Man (Clarence Brewer),Chevrolet,299.0,6895.0,running,0.0,118.0
+1998,25,Mesa Marin,16.0,9.0,55.0,Tony Roper,Icehouse Beer (Tom Gloy),Ford,298.0,6845.0,running,0.0,115.0
+1998,25,Mesa Marin,17.0,20.0,90.0,Lance Norick,NHL (Ron Norick),Dodge,298.0,5795.0,running,0.0,112.0
+1998,25,Mesa Marin,18.0,27.0,11.0,Brandon Sperling,Nicklaus Golf Equipment (Phil Bonifield),Chevrolet,295.0,5745.0,running,0.0,109.0
+1998,25,Mesa Marin,19.0,3.0,2.0,Mike Bliss,Team ASE Racing (Jim Smith),Ford,292.0,9170.0,running,158.0,106.0
+1998,25,Mesa Marin,20.0,22.0,52.0,Mike Wallace,Purolator PureOne Filters (Ken Schrader),Chevrolet,278.0,6750.0,running,1.0,103.0
+1998,25,Mesa Marin,21.0,16.0,43.0,Jimmy Hensley,Cummins Engines (Petty Enterprises),Dodge,253.0,6470.0,running,0.0,100.0
+1998,25,Mesa Marin,22.0,24.0,31.0,Kevin Cywinski,Allied Signal / Bendix (Bob Brevak),Ford,252.0,5420.0,transmission,0.0,97.0
+1998,25,Mesa Marin,23.0,17.0,35.0,"Ron Barfield, Jr.",Ortho Lawn & Garden Products (Charles Hardy),Chevrolet,240.0,6370.0,running,0.0,94.0
+1998,25,Mesa Marin,24.0,8.0,44.0,Boris Said,Federated Auto Parts (Mark Simo),Ford,238.0,6420.0,crash,0.0,91.0
+1998,25,Mesa Marin,25.0,32.0,5.0,Auggie Vidovich,Creative Touch Interiors (Auggie Vidovich),Ford,234.0,5245.0,crash,0.0,88.0
+1998,25,Mesa Marin,26.0,25.0,4.0,Bill Sedgwick,DuPont Stainmaster Carpet (Tim Buckley),Chevrolet,232.0,5195.0,crash,0.0,85.0
+1998,25,Mesa Marin,27.0,7.0,14.0,Rick Crawford,Circle Bar Motel & RV Park (Tom Mitchell),Ford,223.0,6095.0,running,0.0,82.0
+1998,25,Mesa Marin,28.0,29.0,65.0,B.A. Wilson,Llumar Window Films (B.A. Wilson),Ford,87.0,4995.0,engine,0.0,79.0
+1998,25,Mesa Marin,29.0,18.0,66.0,Randy Renfrow,Carlin Burners & Controls (Dale Phelon),Ford,84.0,4895.0,suspension,0.0,76.0
+1998,25,Mesa Marin,30.0,31.0,58.0,Wayne Jacks,Jacks Motorsports (Wayne Jacks),Chevrolet,50.0,4895.0,crash,0.0,73.0
+1998,25,Mesa Marin,31.0,33.0,85.0,Milan Garrett,Champion Wheel (Milan Garrett),Ford,38.0,4895.0,ignition,0.0,70.0
+1998,25,Mesa Marin,32.0,34.0,8.0,Jerry Cook,PBA Tour (Duke Thorson),Chevrolet,2.0,4895.0,clutch,0.0,67.0
+1998,25,Mesa Marin,33.0,30.0,61.0,Stan Boyd,Pennzoil (Steve Coulter),Ford,2.0,8495.0,engine,0.0,64.0
+1998,25,Mesa Marin,34.0,21.0,78.0,Randy Tolsma,MCI / Mopar (Dominic Dobson),Dodge,0.0,,did not start,0.0,61.0
+1998,26,Phoenix,1.0,1.0,2.0,Mike Bliss,Team ASE Racing (Jim Smith),Ford,186.0,37400.0,running,74.0,180.0
+1998,26,Phoenix,2.0,17.0,50.0,Greg Biffle,Grainger (Jack Roush),Ford,186.0,21850.0,running,31.0,170.0
+1998,26,Phoenix,3.0,5.0,16.0,"Ron Hornaday, Jr.","NAPA Brakes (Dale Earnhardt, Inc.)",Chevrolet,186.0,13550.0,running,15.0,165.0
+1998,26,Phoenix,4.0,4.0,99.0,Joe Ruttman,Exide Batteries (Jack Roush),Ford,186.0,11775.0,running,1.0,160.0
+1998,26,Phoenix,5.0,10.0,60.0,Andy Houston,Addington Racing (Mike Addington),Chevrolet,186.0,10675.0,running,5.0,155.0
+1998,26,Phoenix,6.0,33.0,29.0,Dennis Setzer,Mopar Performance (Ron Keselowski),Dodge,186.0,6175.0,running,0.0,150.0
+1998,26,Phoenix,7.0,6.0,44.0,Boris Said,Federated Auto Parts (Mark Simo),Ford,186.0,6125.0,running,0.0,146.0
+1998,26,Phoenix,8.0,3.0,86.0,Stacy Compton,Cherry RC (David Hodson),Ford,186.0,7075.0,running,0.0,142.0
+1998,26,Phoenix,9.0,19.0,43.0,Jimmy Hensley,Cummins Engines (Petty Enterprises),Dodge,186.0,7025.0,running,0.0,138.0
+1998,26,Phoenix,10.0,8.0,19.0,Tony Raines,Pennzoil (Kurt Roehrig),Ford,186.0,7475.0,running,0.0,134.0
+1998,26,Phoenix,11.0,15.0,6.0,Rick Carelli,RE/MAX International (Marshall Chesrown),Chevrolet,186.0,6925.0,running,0.0,130.0
+1998,26,Phoenix,12.0,24.0,3.0,Jay Sauter,GM Goodwrench Service Plus (Richard Childress),Chevrolet,186.0,6800.0,running,9.0,127.0
+1998,26,Phoenix,13.0,2.0,24.0,Jack Sprague,GMAC Financial Services (Rick Hendrick),Chevrolet,186.0,8750.0,running,51.0,124.0
+1998,26,Phoenix,14.0,14.0,84.0,Doug George,Porter-Cable Power Tools (Jim Herrick),Ford,186.0,5700.0,running,0.0,121.0
+1998,26,Phoenix,15.0,11.0,35.0,"Ron Barfield, Jr.",Ortho Lawn & Garden Products (Charles Hardy),Chevrolet,186.0,6900.0,running,0.0,118.0
+1998,26,Phoenix,16.0,7.0,14.0,Rick Crawford,Circle Bar Motel & RV Park (Tom Mitchell),Ford,185.0,6600.0,running,0.0,115.0
+1998,26,Phoenix,17.0,28.0,67.0,Chuck Bown,Hill Machinery (Don VanDenBos),Chevrolet,185.0,5550.0,running,0.0,112.0
+1998,26,Phoenix,18.0,13.0,75.0,Kevin Harvick,Spears Manufacturing (Wayne Spears),Chevrolet,185.0,6500.0,running,0.0,109.0
+1998,26,Phoenix,19.0,29.0,8.0,Bobby Dotter,PTI Transportation (Sammy Potashnick),Chevrolet,185.0,5450.0,running,0.0,106.0
+1998,26,Phoenix,20.0,12.0,28.0,"Kenny Irwin, Jr.",Cintas / ASE (Jim Smith),Ford,184.0,5625.0,running,0.0,103.0
+1998,26,Phoenix,21.0,32.0,37.0,Scot Walters,Red Man (Clarence Brewer),Chevrolet,184.0,6350.0,running,0.0,100.0
+1998,26,Phoenix,22.0,30.0,88.0,Terry Cook,PBA Tour (Duke Thorson),Chevrolet,184.0,6300.0,running,0.0,97.0
+1998,26,Phoenix,23.0,22.0,90.0,Lance Norick,NHL (Ron Norick),Dodge,184.0,5250.0,running,0.0,94.0
+1998,26,Phoenix,24.0,26.0,39.0,Bryan Reffner,Ridge Gate Motorsports (Mike Clark),Chevrolet,184.0,5200.0,running,0.0,91.0
+1998,26,Phoenix,25.0,31.0,55.0,Tony Roper,Icehouse Beer (Tom Gloy),Ford,184.0,6150.0,running,0.0,88.0
+1998,26,Phoenix,26.0,18.0,66.0,Randy Renfrow,Carlin Burners & Controls (Dale Phelon),Ford,184.0,5100.0,running,0.0,85.0
+1998,26,Phoenix,27.0,21.0,9.0,Jerry Nadeau,Embee Technology (Buddy Morrison),Chevrolet,183.0,5000.0,running,0.0,82.0
+1998,26,Phoenix,28.0,34.0,61.0,Rick McCray,Cerritos Pontiac-GMC (Steve Coulter),Chevrolet,183.0,4900.0,running,0.0,79.0
+1998,26,Phoenix,29.0,35.0,92.0,Nipper Alsup,"Trackscan (Ron Hornaday, Jr.)",Chevrolet,181.0,4800.0,running,0.0,76.0
+1998,26,Phoenix,30.0,9.0,52.0,Mike Wallace,Purolator PureOne Filters (Ken Schrader),Chevrolet,179.0,5700.0,running,0.0,73.0
+1998,26,Phoenix,31.0,27.0,11.0,Scott Hansen,Nicklaus Golf / Red Line Oil (Phil Bonifield),Chevrolet,127.0,4575.0,electrical,0.0,70.0
+1998,26,Phoenix,32.0,23.0,31.0,Kevin Cywinski,Allied Signal / Bendix (Bob Brevak),Ford,119.0,4575.0,engine,0.0,67.0
+1998,26,Phoenix,33.0,20.0,18.0,Butch Miller,Dana Corporation (Ron Norick),Dodge,115.0,5575.0,engine,0.0,64.0
+1998,26,Phoenix,34.0,25.0,78.0,Randy Tolsma,MCI / Mopar (Dominic Dobson),Dodge,111.0,5575.0,engine,0.0,61.0
+1998,26,Phoenix,35.0,36.0,85.0,Milan Garrett,Champion Wheel (Milan Garrett),Ford,96.0,4575.0,rocker arm,0.0,58.0
+1998,26,Phoenix,36.0,16.0,10.0,"Lonnie Rush, Jr.",Ohio State University (Jerry Wharton),Chevrolet,85.0,4575.0,crash,0.0,55.0
+1998,27,Las Vegas,1.0,1.0,24.0,Jack Sprague,GMAC Financial Services (Rick Hendrick),Chevrolet,169.0,84725.0,running,25.0,180.0
+1998,27,Las Vegas,2.0,10.0,16.0,"Ron Hornaday, Jr.","NAPA Brakes (Dale Earnhardt, Inc.)",Chevrolet,169.0,52250.0,running,5.0,170.0
+1998,27,Las Vegas,3.0,9.0,43.0,Jimmy Hensley,Cummins Engines (Petty Enterprises),Dodge,169.0,40250.0,running,0.0,165.0
+1998,27,Las Vegas,4.0,3.0,3.0,Jay Sauter,GM Goodwrench Service Plus (Richard Childress),Chevrolet,169.0,29250.0,running,2.0,160.0
+1998,27,Las Vegas,5.0,5.0,50.0,Greg Biffle,Grainger (Jack Roush),Ford,169.0,25325.0,running,61.0,155.0
+1998,27,Las Vegas,6.0,2.0,2.0,Mike Bliss,Team ASE Racing (Jim Smith),Ford,169.0,23875.0,running,68.0,150.0
+1998,27,Las Vegas,7.0,12.0,99.0,Joe Ruttman,Exide Batteries (Jack Roush),Ford,169.0,18475.0,running,3.0,146.0
+1998,27,Las Vegas,8.0,26.0,66.0,Mike Stefanik,Carlin Burners & Controls (Dale Phelon),Ford,168.0,16475.0,running,0.0,142.0
+1998,27,Las Vegas,9.0,11.0,35.0,"Ron Barfield, Jr.",Ortho Lawn & Garden Products (Charles Hardy),Chevrolet,168.0,16475.0,running,3.0,138.0
+1998,27,Las Vegas,10.0,22.0,18.0,Butch Miller,Dana Corporation (Ron Norick),Dodge,168.0,16350.0,running,0.0,134.0
+1998,27,Las Vegas,11.0,6.0,60.0,Andy Houston,Addington Racing (Mike Addington),Chevrolet,168.0,15625.0,running,0.0,130.0
+1998,27,Las Vegas,12.0,21.0,52.0,Mike Wallace,Purolator PureOne Filters (Ken Schrader),Chevrolet,168.0,15275.0,running,0.0,127.0
+1998,27,Las Vegas,13.0,18.0,29.0,Dennis Setzer,Mopar Performance (Ron Keselowski),Dodge,168.0,14175.0,running,0.0,124.0
+1998,27,Las Vegas,14.0,23.0,14.0,Rick Crawford,Circle Bar Motel & RV Park (Tom Mitchell),Ford,167.0,15075.0,running,0.0,121.0
+1998,27,Las Vegas,15.0,20.0,98.0,Doug George,Big Daddy's BBQ Sauce (Jim Herrick),Ford,167.0,14375.0,running,0.0,118.0
+1998,27,Las Vegas,16.0,33.0,90.0,Lance Norick,NHL (Ron Norick),Dodge,167.0,13675.0,running,0.0,115.0
+1998,27,Las Vegas,17.0,7.0,86.0,Stacy Compton,Royal Crown Cola (David Hodson),Ford,167.0,14575.0,running,0.0,112.0
+1998,27,Las Vegas,18.0,4.0,10.0,"Lonnie Rush, Jr.",Ohio State University (Jerry Wharton),Chevrolet,167.0,13475.0,running,2.0,109.0
+1998,27,Las Vegas,19.0,39.0,65.0,B.A. Wilson,Llumar Window Films (B.A. Wilson),Ford,167.0,13375.0,running,0.0,106.0
+1998,27,Las Vegas,20.0,15.0,75.0,Kevin Harvick,Spears Manufacturing (Wayne Spears),Chevrolet,167.0,14500.0,running,0.0,103.0
+1998,27,Las Vegas,21.0,27.0,31.0,Kevin Cywinski,Allied Signal / Bendix (Bob Brevak),Ford,167.0,13175.0,running,0.0,100.0
+1998,27,Las Vegas,22.0,17.0,19.0,Tony Raines,Pennzoil (Kurt Roehrig),Ford,167.0,14075.0,running,0.0,97.0
+1998,27,Las Vegas,23.0,25.0,37.0,Scot Walters,Red Man (Clarence Brewer),Chevrolet,166.0,13950.0,running,0.0,94.0
+1998,27,Las Vegas,24.0,31.0,89.0,Tom Hubert,Cyberdyne Tech (James Liguori),Chevrolet,166.0,12850.0,running,0.0,91.0
+1998,27,Las Vegas,25.0,24.0,78.0,Randy Tolsma,MCI / Mopar (Dominic Dobson),Dodge,166.0,13750.0,running,0.0,88.0
+1998,27,Las Vegas,26.0,32.0,26.0,Rick Beebe,Auto Trim Design Network (Mike Mittler),Ford,166.0,12650.0,running,0.0,85.0
+1998,27,Las Vegas,27.0,38.0,92.0,Nipper Alsup,"Trackscan (Ron Hornaday, Jr.)",Chevrolet,166.0,12550.0,running,0.0,82.0
+1998,27,Las Vegas,28.0,36.0,44.0,Boris Said,Federated Auto Parts (Mark Simo),Ford,166.0,12450.0,running,0.0,79.0
+1998,27,Las Vegas,29.0,40.0,42.0,Rick McCray,Cerritos Pontiac-GMC (Rick McCray),Chevrolet,165.0,12350.0,running,0.0,76.0
+1998,27,Las Vegas,30.0,14.0,67.0,Chuck Bown,Hill Machinery (Don VanDenBos),Chevrolet,165.0,12250.0,running,0.0,73.0
+1998,27,Las Vegas,31.0,29.0,8.0,Sammy Potashnick,Dunlop Golf (Sammy Potashnick),Chevrolet,162.0,12200.0,running,0.0,70.0
+1998,27,Las Vegas,32.0,34.0,20.0,Brendan Gaughan,Orleans Hotel & Casino (Walker Evans),Chevrolet,160.0,12150.0,crash,0.0,67.0
+1998,27,Las Vegas,33.0,8.0,61.0,Blake Bainbridge,Burke Automotive Group (Steve Coulter),Chevrolet,159.0,12175.0,running,0.0,64.0
+1998,27,Las Vegas,34.0,16.0,88.0,Terry Cook,PBA Tour (Duke Thorson),Chevrolet,153.0,13100.0,engine,0.0,61.0
+1998,27,Las Vegas,35.0,13.0,6.0,Rick Carelli,RE/MAX International (Marshall Chesrown),Chevrolet,135.0,13075.0,engine,0.0,58.0
+1998,27,Las Vegas,36.0,28.0,51.0,Tammy Jo Kirk,Peterson Manufacturing (Tammy Jo Kirk),Ford,115.0,12075.0,engine,0.0,55.0
+1998,27,Las Vegas,37.0,19.0,39.0,Bryan Reffner,Ridge Gate Motorsports (Mike Clark),Chevrolet,94.0,13075.0,engine,0.0,52.0
+1998,27,Las Vegas,38.0,30.0,55.0,Tony Roper,Icehouse Beer (Tom Gloy),Ford,88.0,13075.0,engine,0.0,49.0
+1998,27,Las Vegas,39.0,35.0,11.0,Scott Hansen,Nicklaus Golf Equipment (Phil Bonifield),Chevrolet,39.0,12075.0,engine,0.0,46.0
+1998,27,Las Vegas,40.0,37.0,84.0,Randy Renfrow,Porter-Cable Power Tools (Jim Herrick),Ford,28.0,12075.0,engine,0.0,43.0

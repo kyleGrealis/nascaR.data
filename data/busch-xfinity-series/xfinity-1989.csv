@@ -1,0 +1,959 @@
+Season,Race,Track,Pos,St,#,Driver,Sponsor / Owner,Car,Laps,Money,Status,Led,Pts
+1989,1,Daytona,1.0,9.0,17.0,Darrell Waltrip,Exxon Superflo (Darrell Waltrip),Chevrolet,120.0,34457.0,running,12.0,180.0
+1989,1,Daytona,2.0,7.0,72.0,Rusty Wallace,Kodiak (Raymond Beadle),Pontiac,120.0,22725.0,running,14.0,170.0
+1989,1,Daytona,3.0,2.0,25.0,Rob Moroso,Swisher Sweets (Dick Moroso),Oldsmobile,120.0,35382.0,running,56.0,165.0
+1989,1,Daytona,4.0,27.0,3.0,Dale Earnhardt,"Lowe's Foods (Dale Earnhardt, Inc.)",Pontiac,120.0,12882.0,running,0.0,160.0
+1989,1,Daytona,5.0,4.0,15.0,Geoffrey Bodine,Levi Garrett (Rick Hendrick),Chevrolet,120.0,10707.0,running,17.0,155.0
+1989,1,Daytona,6.0,17.0,75.0,Rick Wilson,Food Country USA (Charlie Henderson),Oldsmobile,120.0,8075.0,running,0.0,150.0
+1989,1,Daytona,7.0,10.0,11.0,Jack Ingram,Skoal (Jack Ingram),Chevrolet,120.0,20725.0,running,0.0,146.0
+1989,1,Daytona,8.0,26.0,30.0,Michael Waltrip,Post Cereals (Chuck Rider),Pontiac,120.0,6732.0,running,0.0,142.0
+1989,1,Daytona,9.0,30.0,52.0,Ken Schrader,Red Baron Frozen Pizza (Ken Schrader),Chevrolet,120.0,6057.0,running,5.0,138.0
+1989,1,Daytona,10.0,1.0,36.0,Kenny Wallace,Cox Treated Lumber (Rusty Wallace),Pontiac,120.0,5350.0,running,4.0,134.0
+1989,1,Daytona,11.0,25.0,6.0,Tommy Houston,Southern Biscuit Flour (Steve Arndt),Buick,120.0,16232.0,running,0.0,130.0
+1989,1,Daytona,12.0,19.0,5.0,Ed Berrier,Commerical Management (Sam Ard),Buick,120.0,11125.0,running,0.0,127.0
+1989,1,Daytona,13.0,5.0,32.0,Dale Jarrett,Port-A-Lube (Horace Isenhower),Pontiac,119.0,4607.0,crash,5.0,124.0
+1989,1,Daytona,14.0,13.0,81.0,"Bobby Hillin, Jr.",Rose's Stores (Ted Conder),Buick,119.0,5082.0,running,0.0,121.0
+1989,1,Daytona,15.0,3.0,97.0,Morgan Shepherd,Valvoline (Morgan Shepherd),Chevrolet,119.0,5182.0,running,0.0,118.0
+1989,1,Daytona,16.0,24.0,47.0,Billy Standridge,Standridge Auto Parts (Billy Standridge),Pontiac,119.0,8900.0,running,0.0,115.0
+1989,1,Daytona,17.0,35.0,9.0,Steve Grissom,Texas Pete Sauces (Mike Swaim),Pontiac,118.0,7925.0,running,0.0,112.0
+1989,1,Daytona,18.0,40.0,33.0,Brad Teague,Pharo's Truck Stop (John Pharo),Oldsmobile,118.0,3800.0,running,0.0,109.0
+1989,1,Daytona,19.0,12.0,8.0,Bobby Hamilton,Lighting & Fans (Fil Martocci),Buick,116.0,3150.0,running,0.0,106.0
+1989,1,Daytona,20.0,34.0,2.0,L.D. Ottinger,Detroit Gasket (Ron Parker),Pontiac,114.0,8032.0,crash,2.0,103.0
+1989,1,Daytona,21.0,8.0,1.0,Mark Martin,Carolina Ford Dealers (Bill Davis),Ford,113.0,3050.0,running,0.0,100.0
+1989,1,Daytona,22.0,18.0,40.0,Ben Hess,Purolator (Ben Hess),Oldsmobile,113.0,3000.0,running,0.0,97.0
+1989,1,Daytona,23.0,22.0,42.0,Elton Sawyer,Bill Lewis,Chevrolet,111.0,7682.0,crash,2.0,94.0
+1989,1,Daytona,24.0,16.0,55.0,Phil Parsons,Fast Fare (Don Beverley),Oldsmobile,109.0,2900.0,crash,3.0,91.0
+1989,1,Daytona,25.0,23.0,20.0,Brett Hearn,Wheels Discount Auto,Pontiac,109.0,2875.0,crash,0.0,88.0
+1989,1,Daytona,26.0,15.0,7.0,Harry Gant,Whitaker Racing (Ed Whitaker),Buick,93.0,4307.0,engine,0.0,85.0
+1989,1,Daytona,27.0,29.0,22.0,Rick Mast,"A.G. Dillard (Alan Dillard, Jr.)",Buick,89.0,8832.0,engine,0.0,82.0
+1989,1,Daytona,28.0,33.0,38.0,Dave Simpson,Simpson Safety Equipment (Bill Simpson),Buick,86.0,2675.0,axle,0.0,79.0
+1989,1,Daytona,29.0,32.0,56.0,Ronald Cooper,Speedway Waste Disposal (Lewis Cooper),Buick,84.0,6657.0,engine,0.0,76.0
+1989,1,Daytona,30.0,14.0,92.0,Jimmy Means,Custom Veneers (Mac Martin),Pontiac,74.0,2575.0,engine,0.0,73.0
+1989,1,Daytona,31.0,28.0,71.0,Randy LaJoie,D & D Competition (Randy LaJoie),Oldsmobile,73.0,4125.0,engine,0.0,70.0
+1989,1,Daytona,32.0,36.0,63.0,Chuck Bown,Nescafe / Nestea (Hubert Hensley),Pontiac,66.0,5825.0,clutch,0.0,67.0
+1989,1,Daytona,33.0,38.0,62.0,Jimmy Hensley,Lemon's Auto Parts (John Linville),Chevrolet,21.0,6007.0,engine,0.0,64.0
+1989,1,Daytona,34.0,21.0,34.0,Jimmy Spencer,Wayne Paging (Frank Cicci),Buick,18.0,4825.0,engine,0.0,61.0
+1989,1,Daytona,35.0,37.0,0.0,Ken Bouchard,Whitcomb Racing (Bob Whitcomb),Pontiac,15.0,2275.0,engine,0.0,0.0
+1989,1,Daytona,36.0,39.0,24.0,Joe Thurman,Hindman Music (Marvin Thackston),Ford,12.0,3700.0,engine,0.0,55.0
+1989,1,Daytona,37.0,31.0,23.0,Donnie Allison,Collins Engineering,Buick,7.0,2225.0,crash,0.0,52.0
+1989,1,Daytona,38.0,6.0,45.0,Patty Moise,Amway (Patty Moise),Buick,6.0,2200.0,crash,0.0,49.0
+1989,1,Daytona,39.0,11.0,99.0,Tommy Ellis,Goo Goo Clusters (John Jackson),Buick,6.0,7982.0,crash,0.0,46.0
+1989,1,Daytona,40.0,20.0,74.0,Kelly Moore,Jordan Lumber (Richard Moore),Chevrolet,5.0,3700.0,engine,0.0,43.0
+1989,2,Rockingham,1.0,1.0,25.0,Rob Moroso,Swisher Sweets (Dick Moroso),Oldsmobile,197.0,25350.0,running,7.0,180.0
+1989,2,Rockingham,2.0,10.0,3.0,Dale Earnhardt,"GM Goodwrench (Dale Earnhardt, Inc.)",Chevrolet,197.0,4960.0,running,22.0,170.0
+1989,2,Rockingham,3.0,12.0,99.0,Tommy Ellis,Goo Goo Clusters (John Jackson),Buick,197.0,7860.0,running,0.0,165.0
+1989,2,Rockingham,4.0,29.0,44.0,Bobby Labonte,Winner's Circle Auto Parts (Bob Labonte),Buick,197.0,1875.0,running,0.0,160.0
+1989,2,Rockingham,5.0,24.0,6.0,Tommy Houston,Southern Biscuit Flour (Steve Arndt),Buick,196.0,4260.0,running,0.0,155.0
+1989,2,Rockingham,6.0,14.0,2.0,L.D. Ottinger,Detroit Gasket (Ron Parker),Pontiac,196.0,3235.0,running,0.0,150.0
+1989,2,Rockingham,7.0,11.0,11.0,Jack Ingram,Skoal (Jack Ingram),Chevrolet,196.0,4635.0,running,0.0,146.0
+1989,2,Rockingham,8.0,8.0,34.0,Jimmy Spencer,Wayne Paging (Frank Cicci),Buick,196.0,2585.0,running,0.0,142.0
+1989,2,Rockingham,9.0,35.0,56.0,Ronald Cooper,Speedway Waste Disposal (Lewis Cooper),Buick,196.0,2385.0,running,0.0,138.0
+1989,2,Rockingham,10.0,31.0,86.0,Dana Patten,U.S. Chrome (Dana Patten),Buick,196.0,1675.0,running,0.0,134.0
+1989,2,Rockingham,11.0,3.0,7.0,Harry Gant,Buick (Ed Whitaker),Buick,195.0,1310.0,running,94.0,130.0
+1989,2,Rockingham,12.0,4.0,81.0,"Bobby Hillin, Jr.",Rose's Stores (Ted Conder),Buick,195.0,1280.0,running,0.0,127.0
+1989,2,Rockingham,13.0,20.0,79.0,Dave Rezendes,"K.R. Rezendes, Inc. (Dave Rezendes)",Oldsmobile,195.0,500.0,running,0.0,124.0
+1989,2,Rockingham,14.0,18.0,52.0,Ken Schrader,Red Baron Frozen Pizza (Ken Schrader),Chevrolet,194.0,470.0,running,0.0,121.0
+1989,2,Rockingham,15.0,13.0,42.0,Elton Sawyer,Bill Lewis,Chevrolet,194.0,1850.0,running,0.0,118.0
+1989,2,Rockingham,16.0,27.0,51.0,Lee Faulk,Slender You Figure Salons,Pontiac,193.0,420.0,running,0.0,0.0
+1989,2,Rockingham,17.0,36.0,1.0,Jack Pennington,Sandlapper Fabrics (Derick Close),Buick,193.0,400.0,running,0.0,0.0
+1989,2,Rockingham,18.0,26.0,96.0,Tom Peck,JLG Industries / Thomas Chevrolet (Mark Thomas),Oldsmobile,192.0,395.0,running,0.0,109.0
+1989,2,Rockingham,19.0,37.0,12.0,Jeff Burton,Burton Autosports (John Burton),Pontiac,192.0,390.0,running,0.0,106.0
+1989,2,Rockingham,20.0,38.0,9.0,Joe Bessey,Cola Transport (Joe Bessey),Pontiac,190.0,1170.0,running,0.0,103.0
+1989,2,Rockingham,21.0,2.0,32.0,Dale Jarrett,Port-A-Lube (Horace Isenhower),Pontiac,182.0,365.0,running,0.0,100.0
+1989,2,Rockingham,22.0,22.0,14.0,Wayne Patterson,"W.O. Grubb, Inc. (William Grubb)",Pontiac,179.0,360.0,running,0.0,97.0
+1989,2,Rockingham,23.0,32.0,63.0,Chuck Bown,Nescafe Classic (Hubert Hensley),Pontiac,176.0,2105.0,engine,0.0,94.0
+1989,2,Rockingham,24.0,15.0,36.0,Kenny Wallace,Cox Treated Lumber (Rusty Wallace),Pontiac,175.0,345.0,running,0.0,91.0
+1989,2,Rockingham,25.0,7.0,87.0,Greg Sacks,Lowe's Foods (Buddy Baker / Danny Schiff),Pontiac,173.0,340.0,crash,0.0,88.0
+1989,2,Rockingham,26.0,21.0,45.0,Patty Moise,Amway Freedom (Patty Moise),Buick,149.0,335.0,transmission,0.0,85.0
+1989,2,Rockingham,27.0,5.0,75.0,Rick Wilson,Food Country USA (Charlie Henderson),Oldsmobile,133.0,335.0,engine,19.0,82.0
+1989,2,Rockingham,28.0,39.0,2.0,Dave Davis,W.H. Green & Sons (Dick & Mary Davis),Pontiac,123.0,585.0,engine,0.0,79.0
+1989,2,Rockingham,29.0,16.0,28.0,Davey Allison,Havoline Antifreeze (Davey Allison),Buick,118.0,335.0,engine,0.0,76.0
+1989,2,Rockingham,30.0,19.0,24.0,Joe Thurman,Lumberton Lincoln-Mercury (Marvin Thackston),Ford,117.0,1545.0,oil pressure,0.0,73.0
+1989,2,Rockingham,31.0,6.0,1.0,Mark Martin,Carolina Ford Dealers (Bill Davis),Ford,104.0,330.0,engine,55.0,70.0
+1989,2,Rockingham,32.0,33.0,10.0,Ken Bouchard,Whitcomb Brothers (Bob Whitcomb),Pontiac,62.0,325.0,engine,0.0,67.0
+1989,2,Rockingham,33.0,25.0,47.0,Billy Standridge,Standridge Auto Parts (Billy Standridge),Pontiac,62.0,1080.0,crash,0.0,64.0
+1989,2,Rockingham,34.0,23.0,38.0,Dave Simpson,Simpson Safety Equipment (Bill Simpson),Buick,46.0,315.0,crash,0.0,61.0
+1989,2,Rockingham,35.0,9.0,55.0,Phil Parsons,Fast Fare Stores / Crown (Don Beverley),Oldsmobile,44.0,300.0,engine,0.0,58.0
+1989,2,Rockingham,36.0,17.0,22.0,Rick Mast,"A.G. Dillard / Massanutten (Alan Dillard, Jr.)",Buick,41.0,2810.0,engine,0.0,55.0
+1989,2,Rockingham,37.0,34.0,41.0,Jamie Aube,Lake Morey Inn (Allen Avery),Buick,31.0,1550.0,clutch,0.0,52.0
+1989,2,Rockingham,38.0,28.0,9.0,Steve Grissom,Texas Pete Sauces (Mike Swaim),Pontiac,15.0,1060.0,crash,0.0,49.0
+1989,2,Rockingham,39.0,30.0,5.0,Brandon Baker,Commercial Management (Sam Ard),Buick,15.0,2050.0,crash,0.0,46.0
+1989,3,Martinsville,1.0,5.0,99.0,Tommy Ellis,Goo Goo Clusters (John Jackson),Buick,200.0,14108.0,running,40.0,180.0
+1989,3,Martinsville,2.0,8.0,6.0,Tommy Houston,Southern Biscuit Flour (Steve Arndt),Buick,200.0,6383.0,running,0.0,170.0
+1989,3,Martinsville,3.0,7.0,42.0,Elton Sawyer,Bill Lewis,Chevrolet,200.0,3533.0,running,0.0,165.0
+1989,3,Martinsville,4.0,10.0,4.0,Max Prestwood,Prestwood Racing (Max Prestwood),Oldsmobile,200.0,1580.0,running,0.0,160.0
+1989,3,Martinsville,5.0,25.0,49.0,Ed Ferree,DLK Performance (Ed Ferree),Pontiac,200.0,1390.0,running,0.0,155.0
+1989,3,Martinsville,6.0,20.0,34.0,Jimmy Spencer,Wayne Paging (Frank Cicci),Buick,199.0,2083.0,running,0.0,150.0
+1989,3,Martinsville,7.0,23.0,36.0,Kenny Wallace,Cox Treated Lumber (Rusty Wallace),Pontiac,199.0,1300.0,running,0.0,146.0
+1989,3,Martinsville,8.0,9.0,63.0,Chuck Bown,Nescafe Classic (Hubert Hensley),Pontiac,199.0,2350.0,running,0.0,142.0
+1989,3,Martinsville,9.0,6.0,1.0,Mark Martin,Carolina Ford Dealers (Bill Davis),Ford,199.0,1075.0,running,0.0,138.0
+1989,3,Martinsville,10.0,27.0,12.0,Jeff Burton,Golden Skillet (John Burton),Pontiac,199.0,1080.0,running,0.0,134.0
+1989,3,Martinsville,11.0,24.0,9.0,Steve Grissom,Texas Pete Sauces (Mike Swaim),Pontiac,198.0,1913.0,running,0.0,130.0
+1989,3,Martinsville,12.0,30.0,2.0,Dave Davis,Davis Brothers (Dick & Mary Davis),Pontiac,198.0,1435.0,running,0.0,127.0
+1989,3,Martinsville,13.0,13.0,11.0,Jack Ingram,Skoal (Jack Ingram),Chevrolet,197.0,3073.0,running,0.0,124.0
+1989,3,Martinsville,14.0,11.0,56.0,Ronald Cooper,Speedway Waste Disposal (Lewis Cooper),Buick,197.0,1803.0,running,0.0,121.0
+1989,3,Martinsville,15.0,18.0,41.0,Jamie Aube,Lake Morey Inn (Allen Avery),Buick,196.0,2200.0,running,0.0,118.0
+1989,3,Martinsville,16.0,32.0,96.0,Tom Peck,JLG Industries (Mark Thomas),Oldsmobile,195.0,955.0,running,0.0,115.0
+1989,3,Martinsville,17.0,4.0,2.0,L.D. Ottinger,Detroit Gasket (Ron Parker),Pontiac,194.0,1743.0,running,0.0,112.0
+1989,3,Martinsville,18.0,28.0,35.0,Mike Porter,Motor Supply Corp.,Oldsmobile,189.0,920.0,running,0.0,109.0
+1989,3,Martinsville,19.0,15.0,86.0,Dana Patten,U.S. Chrome (Dana Patten),Buick,180.0,1270.0,running,0.0,106.0
+1989,3,Martinsville,20.0,3.0,7.0,Harry Gant,Whitaker Racing (Ed Whitaker),Buick,176.0,1668.0,engine,0.0,103.0
+1989,3,Martinsville,21.0,2.0,75.0,Rick Wilson,Food Country USA (Charlie Henderson),Oldsmobile,173.0,2065.0,engine,160.0,100.0
+1989,3,Martinsville,22.0,31.0,24.0,Joe Thurman,Vinton Motors (Marvin Thackston),Ford,171.0,1653.0,running,0.0,97.0
+1989,3,Martinsville,23.0,1.0,25.0,Rob Moroso,Swisher Sweets (Dick Moroso),Oldsmobile,164.0,3408.0,driveshaft,0.0,94.0
+1989,3,Martinsville,24.0,17.0,47.0,Billy Standridge,Standridge Auto Parts (Billy Standridge),Pontiac,153.0,1583.0,running,0.0,91.0
+1989,3,Martinsville,25.0,21.0,58.0,Martin Truex,"Shellfish Packing (Martin Truex, Sr.)",Pontiac,140.0,800.0,rear end,0.0,0.0
+1989,3,Martinsville,26.0,29.0,62.0,Ed Berrier,Lemon's Auto Parts (John Linville),Oldsmobile,129.0,1533.0,ignition,0.0,85.0
+1989,3,Martinsville,27.0,26.0,69.0,Jeff Spraker,Spraker Racing (Jeff Spraker),Oldsmobile,91.0,1090.0,engine,0.0,82.0
+1989,3,Martinsville,28.0,16.0,8.0,Bobby Hamilton,Lighting & Fans (Fil Martocci),Buick,55.0,625.0,engine,0.0,79.0
+1989,3,Martinsville,29.0,19.0,74.0,Kelly Moore,Jordan Lumber (Richard Moore),Chevrolet,42.0,1025.0,engine,0.0,76.0
+1989,3,Martinsville,30.0,22.0,27.0,Jimmy Hensley,Ryder Floors (Edgar Ryder),Pontiac,41.0,1533.0,engine,0.0,73.0
+1989,3,Martinsville,31.0,14.0,22.0,Rick Mast,"Massanutten Ski Resort (Alan Dillard, Jr.)",Buick,34.0,2708.0,engine,0.0,70.0
+1989,3,Martinsville,32.0,12.0,91.0,Tom Harrington,BFI Waste Systems (Tom Harrington),Oldsmobile,33.0,625.0,crash,0.0,67.0
+1989,4,Hickory,1.0,2.0,34.0,Jimmy Spencer,Wayne Paging (Frank Cicci),Buick,200.0,8263.0,running,78.0,180.0
+1989,4,Hickory,2.0,9.0,99.0,Tommy Ellis,Goo Goo Clusters (John Jackson),Buick,200.0,4863.0,running,0.0,170.0
+1989,4,Hickory,3.0,8.0,25.0,Rob Moroso,Swisher Sweets (Dick Moroso),Oldsmobile,200.0,3638.0,running,0.0,165.0
+1989,4,Hickory,4.0,6.0,11.0,Jack Ingram,Skoal (Jack Ingram),Chevrolet,200.0,3138.0,running,54.0,160.0
+1989,4,Hickory,5.0,1.0,32.0,Dale Jarrett,Port-A-Lube (Horace Isenhower),Pontiac,199.0,2300.0,running,29.0,155.0
+1989,4,Hickory,6.0,4.0,7.0,Harry Gant,Sig's Tire Centers (Ed Whitaker),Buick,199.0,1788.0,running,39.0,150.0
+1989,4,Hickory,7.0,7.0,22.0,Rick Mast,"A.G. Dillard (Alan Dillard, Jr.)",Buick,199.0,2438.0,running,0.0,146.0
+1989,4,Hickory,8.0,27.0,36.0,Kenny Wallace,Cox Treated Lumber (Rusty Wallace),Pontiac,199.0,1300.0,running,0.0,142.0
+1989,4,Hickory,9.0,26.0,24.0,Joe Thurman,Thackston's Garage (Marvin Thackston),Ford,199.0,1538.0,running,0.0,138.0
+1989,4,Hickory,10.0,18.0,3.0,Dale Earnhardt,"GM Goodwrench (Dale Earnhardt, Inc.)",Chevrolet,198.0,1538.0,running,0.0,134.0
+1989,4,Hickory,11.0,11.0,9.0,Steve Grissom,Texas Pete Sauces (Mike Swaim),Pontiac,198.0,1463.0,running,0.0,130.0
+1989,4,Hickory,12.0,21.0,12.0,Jeff Burton,Burton Autosports (John Burton),Pontiac,198.0,850.0,running,0.0,127.0
+1989,4,Hickory,13.0,16.0,2.0,L.D. Ottinger,Detroit Gasket (Ron Parker),Pontiac,197.0,1413.0,running,0.0,124.0
+1989,4,Hickory,14.0,10.0,41.0,Max Prestwood,Prestwood Racing (Max Prestwood),Oldsmobile,197.0,800.0,running,0.0,121.0
+1989,4,Hickory,15.0,12.0,59.0,Robert Pressley,Pressley Racing (Brad Daugherty),Oldsmobile,196.0,825.0,running,0.0,118.0
+1989,4,Hickory,16.0,29.0,79.0,Dave Rezendes,"K.R. Rezendes, Inc. (Dave Rezendes)",Oldsmobile,196.0,950.0,running,0.0,115.0
+1989,4,Hickory,17.0,23.0,49.0,Ed Ferree,DLK Performance (Ed Ferree),Pontiac,196.0,725.0,running,0.0,112.0
+1989,4,Hickory,18.0,22.0,38.0,Dave Simpson,Simpson Safety Equipment (Bill Simpson),Buick,196.0,700.0,running,0.0,109.0
+1989,4,Hickory,19.0,5.0,63.0,Chuck Bown,Nescafe Classic (Hubert Hensley),Pontiac,195.0,1425.0,running,0.0,106.0
+1989,4,Hickory,20.0,28.0,96.0,Tom Peck,JLG Industries (Mark Thomas),Oldsmobile,194.0,700.0,running,0.0,103.0
+1989,4,Hickory,21.0,3.0,6.0,Tommy Houston,Southern Biscuit Flour (Steve Arndt),Buick,191.0,1963.0,running,0.0,100.0
+1989,4,Hickory,22.0,17.0,56.0,Ronald Cooper,Speedway Waste Disposal (Lewis Cooper),Buick,187.0,1118.0,running,0.0,97.0
+1989,4,Hickory,23.0,19.0,8.0,Bobby Hamilton,Lighting & Fans (Fil Martocci),Buick,178.0,550.0,running,0.0,94.0
+1989,4,Hickory,24.0,13.0,47.0,Billy Standridge,Standridge Auto Parts (Billy Standridge),Pontiac,141.0,1088.0,crash,0.0,91.0
+1989,4,Hickory,25.0,20.0,62.0,Ed Berrier,Lemon's Auto Parts (John Linville),Oldsmobile,136.0,1088.0,ignition,0.0,88.0
+1989,4,Hickory,26.0,14.0,3.0,Ronnie Silver,Post Cereals (Chuck Rider),Pontiac,105.0,1088.0,ignition,0.0,85.0
+1989,4,Hickory,27.0,15.0,2.0,Kenny Burks,Williams & Burks (J.C. Burks),Buick,58.0,1088.0,engine,0.0,82.0
+1989,4,Hickory,28.0,25.0,89.0,Jimmy Hensley,Bishop Body Shop,Chevrolet,37.0,1088.0,overheating,0.0,79.0
+1989,4,Hickory,29.0,24.0,5.0,Brandon Baker,Commercial Management (Sam Ard),Buick,36.0,500.0,crash,0.0,76.0
+1989,5,Darlington,1.0,1.0,15.0,Geoffrey Bodine,Levi Garrett / Winn-Dixie (Rick Hendrick),Chevrolet,147.0,14200.0,running,68.0,180.0
+1989,5,Darlington,2.0,8.0,1.0,Mark Martin,Carolina Ford Dealers (Bill Davis),Ford,147.0,5600.0,running,0.0,0.0
+1989,5,Darlington,3.0,2.0,7.0,Harry Gant,Whitaker Racing (Ed Whitaker),Buick,147.0,4950.0,running,45.0,165.0
+1989,5,Darlington,4.0,20.0,55.0,Phil Parsons,Crown / Fast Fare / Skoal (Don Beverley),Oldsmobile,147.0,3000.0,running,0.0,160.0
+1989,5,Darlington,5.0,12.0,75.0,Rick Wilson,Food Country USA (Charlie Henderson),Oldsmobile,147.0,2675.0,running,0.0,155.0
+1989,5,Darlington,6.0,3.0,3.0,Dale Earnhardt,"GM Goodwrench (Dale Earnhardt, Inc.)",Chevrolet,147.0,2882.0,running,0.0,150.0
+1989,5,Darlington,7.0,27.0,28.0,Davey Allison,Havoline Antifreeze (Davey Allison),Buick,147.0,1500.0,running,0.0,146.0
+1989,5,Darlington,8.0,19.0,52.0,Ken Schrader,Red Baron Frozen Pizza (Ken Schrader),Chevrolet,147.0,1400.0,running,0.0,142.0
+1989,5,Darlington,9.0,21.0,25.0,Rob Moroso,Swisher Sweets (Dick Moroso),Oldsmobile,146.0,4757.0,running,0.0,138.0
+1989,5,Darlington,10.0,14.0,56.0,Ronald Cooper,Speedway Waste Disposal (Lewis Cooper),Buick,146.0,3257.0,running,0.0,134.0
+1989,5,Darlington,11.0,23.0,2.0,L.D. Ottinger,Detroit Gasket (Ron Parker),Pontiac,146.0,2582.0,running,0.0,130.0
+1989,5,Darlington,12.0,34.0,11.0,Jack Ingram,Skoal (Jack Ingram),Chevrolet,146.0,4232.0,running,0.0,127.0
+1989,5,Darlington,13.0,15.0,22.0,Rick Mast,"A.G. Dillard (Alan Dillard, Jr.)",Buick,146.0,3582.0,running,0.0,124.0
+1989,5,Darlington,14.0,32.0,30.0,Michael Waltrip,Post Cereals (Chuck Rider),Pontiac,146.0,925.0,running,0.0,121.0
+1989,5,Darlington,15.0,25.0,6.0,Tommy Houston,Southern Biscuit Flour (Steve Arndt),Buick,145.0,4207.0,running,0.0,118.0
+1989,5,Darlington,16.0,10.0,99.0,Tommy Ellis,Goo Goo Clusters (John Jackson),Buick,145.0,5057.0,running,0.0,115.0
+1989,5,Darlington,17.0,22.0,34.0,Jimmy Spencer,Wayne Paging (Frank Cicci),Buick,145.0,4007.0,running,0.0,112.0
+1989,5,Darlington,18.0,26.0,63.0,Chuck Bown,Nescafe Classic (Hubert Hensley),Pontiac,145.0,3075.0,running,0.0,109.0
+1989,5,Darlington,19.0,36.0,70.0,Dave Marcis,Dirt Devil Vacuums (Dwight Huffman),Buick,145.0,800.0,running,0.0,106.0
+1989,5,Darlington,20.0,31.0,12.0,Jeff Burton,Climate Control (John Burton),Pontiac,145.0,1225.0,running,0.0,103.0
+1989,5,Darlington,21.0,16.0,81.0,"Bobby Hillin, Jr.",Rose's Stores (Ted Conder),Buick,144.0,1607.0,running,0.0,100.0
+1989,5,Darlington,22.0,18.0,45.0,Patty Moise,Amway Freedom (Patty Moise),Buick,144.0,700.0,running,0.0,97.0
+1989,5,Darlington,23.0,11.0,71.0,Randy LaJoie,D & D Competition (Randy LaJoie),Oldsmobile,144.0,680.0,running,0.0,94.0
+1989,5,Darlington,24.0,28.0,8.0,Bobby Hamilton,Lighting & Fans (Fil Martocci),Buick,144.0,1120.0,running,0.0,91.0
+1989,5,Darlington,25.0,35.0,47.0,Billy Standridge,Standridge Auto Parts (Billy Standridge),Pontiac,143.0,1967.0,running,0.0,88.0
+1989,5,Darlington,26.0,38.0,38.0,Dave Simpson,Simpson Safety Equipment (Bill Simpson),Buick,143.0,1050.0,running,0.0,85.0
+1989,5,Darlington,27.0,42.0,9.0,Steve Grissom,Texas Pete Sauces (Mike Swaim),Pontiac,141.0,1897.0,running,0.0,82.0
+1989,5,Darlington,28.0,37.0,5.0,Brandon Baker,Commercial Management / Days Inn (Sam Ard),Buick,141.0,630.0,running,0.0,79.0
+1989,5,Darlington,29.0,9.0,36.0,Kenny Wallace,Cox Treated Lumber (Rusty Wallace),Pontiac,131.0,970.0,oil leak,0.0,76.0
+1989,5,Darlington,30.0,4.0,72.0,Rusty Wallace,Kodiak (Raymond Beadle),Pontiac,117.0,860.0,clutch,34.0,73.0
+1989,5,Darlington,31.0,5.0,32.0,Dale Jarrett,Port-A-Lube (Horace Isenhower),Pontiac,113.0,600.0,engine,0.0,70.0
+1989,5,Darlington,32.0,39.0,42.0,Elton Sawyer,Accu-Turn (Bill Lewis),Chevrolet,109.0,1797.0,engine,0.0,67.0
+1989,5,Darlington,33.0,40.0,51.0,Lee Faulk,Slender You Figure Salons,Pontiac,106.0,580.0,crash,0.0,64.0
+1989,5,Darlington,34.0,29.0,79.0,Dave Rezendes,"K.R. Rezendes, Inc. (Dave Rezendes)",Oldsmobile,96.0,570.0,valve,0.0,61.0
+1989,5,Darlington,35.0,30.0,96.0,Tom Peck,JLG Industries (Mark Thomas),Oldsmobile,93.0,560.0,engine,0.0,58.0
+1989,5,Darlington,36.0,17.0,33.0,Brad Teague,Pharo's Truck Stop (John Pharo),Oldsmobile,90.0,1432.0,engine,0.0,55.0
+1989,5,Darlington,37.0,13.0,17.0,Darrell Waltrip,Exxon Superflo (Darrell Waltrip),Chevrolet,44.0,540.0,engine,0.0,52.0
+1989,5,Darlington,38.0,7.0,44.0,Bobby Labonte,Winner's Circle Auto Parts (Bob Labonte),Buick,30.0,530.0,crash,0.0,49.0
+1989,5,Darlington,39.0,33.0,1.0,Jack Pennington,Dooley Contractors (Derick Close),Buick,30.0,520.0,crash,0.0,46.0
+1989,5,Darlington,40.0,24.0,58.0,Jimmy Hensley,Southern Maryland Motorsports (Joe Cudmore),Oldsmobile,15.0,1382.0,engine,0.0,43.0
+1989,5,Darlington,41.0,6.0,87.0,Greg Sacks,Lowe's Foods (Buddy Baker / Danny Schiff),Pontiac,13.0,500.0,ignition,0.0,40.0
+1989,5,Darlington,42.0,41.0,62.0,Ed Berrier,Lemon's Auto Parts (John Linville),Oldsmobile,1.0,1382.0,engine,0.0,37.0
+1989,6,Bristol,1.0,1.0,75.0,Rick Wilson,Food Country USA (Charlie Henderson),Oldsmobile,200.0,13325.0,running,161.0,180.0
+1989,6,Bristol,2.0,2.0,1.0,Mark Martin,Carolina Ford Dealers (Bill Davis),Ford,200.0,5850.0,running,0.0,170.0
+1989,6,Bristol,3.0,6.0,22.0,Rick Mast,"A.G. Dillard (Alan Dillard, Jr.)",Buick,200.0,6475.0,running,2.0,165.0
+1989,6,Bristol,4.0,24.0,9.0,Steve Grissom,Texas Pete Sauces (Mike Swaim),Pontiac,200.0,5275.0,running,0.0,160.0
+1989,6,Bristol,5.0,14.0,36.0,Kenny Wallace,Cox Treated Lumber (Rusty Wallace),Pontiac,200.0,4550.0,running,0.0,155.0
+1989,6,Bristol,6.0,5.0,25.0,Rob Moroso,Swisher Sweets (Dick Moroso),Oldsmobile,199.0,4625.0,running,0.0,150.0
+1989,6,Bristol,7.0,8.0,2.0,L.D. Ottinger,Detroit Gasket (Ron Parker),Pontiac,199.0,3025.0,running,0.0,146.0
+1989,6,Bristol,8.0,3.0,30.0,Michael Waltrip,Post Cereals (Chuck Rider),Pontiac,198.0,1400.0,running,30.0,142.0
+1989,6,Bristol,9.0,15.0,34.0,Jimmy Spencer,Wayne Paging (Frank Cicci),Buick,198.0,4025.0,running,0.0,138.0
+1989,6,Bristol,10.0,12.0,6.0,Tommy Houston,Southern Biscuit Flour (Steve Arndt),Buick,198.0,3825.0,running,7.0,134.0
+1989,6,Bristol,11.0,13.0,56.0,Ronald Cooper,Speedway Waste Disposal (Lewis Cooper),Buick,198.0,2375.0,running,0.0,130.0
+1989,6,Bristol,12.0,10.0,55.0,Phil Parsons,Crown (Don Beverley),Oldsmobile,198.0,1055.0,running,0.0,127.0
+1989,6,Bristol,13.0,9.0,63.0,Chuck Bown,Nescafe Classic (Hubert Hensley),Pontiac,198.0,3425.0,running,0.0,124.0
+1989,6,Bristol,14.0,26.0,41.0,Max Prestwood,Prestwood Racing (Max Prestwood),Oldsmobile,197.0,1430.0,running,0.0,121.0
+1989,6,Bristol,15.0,11.0,47.0,Billy Standridge,Standridge Auto Parts (Billy Standridge),Pontiac,194.0,1955.0,running,0.0,118.0
+1989,6,Bristol,16.0,19.0,96.0,Tom Peck,JLG Industries (Mark Thomas),Oldsmobile,191.0,1940.0,running,0.0,115.0
+1989,6,Bristol,17.0,22.0,91.0,Tom Harrington,BFI Waste Systems (Tom Harrington),Oldsmobile,191.0,920.0,running,0.0,112.0
+1989,6,Bristol,18.0,18.0,24.0,Joe Thurman,Thurman Enterprises (Marvin Thackston),Ford,189.0,1875.0,running,0.0,109.0
+1989,6,Bristol,19.0,27.0,59.0,Robert Pressley,Pressley Racing (Brad Daugherty),Oldsmobile,189.0,880.0,running,0.0,106.0
+1989,6,Bristol,20.0,30.0,79.0,Dave Rezendes,"K.R. Rezendes, Inc. (Dave Rezendes)",Oldsmobile,185.0,1185.0,running,0.0,103.0
+1989,6,Bristol,21.0,21.0,38.0,Dave Simpson,Simpson Safety Equipment (Bill Simpson),Buick,179.0,1790.0,running,0.0,100.0
+1989,6,Bristol,22.0,23.0,11.0,Jack Ingram,Skoal (Jack Ingram),Chevrolet,171.0,3020.0,ignition,0.0,97.0
+1989,6,Bristol,23.0,20.0,83.0,Bill Gratton,Gratton Racing,Oldsmobile,156.0,880.0,running,0.0,94.0
+1989,6,Bristol,24.0,25.0,8.0,Bobby Hamilton,Lighting & Fans (Fil Martocci),Buick,127.0,1405.0,engine,0.0,91.0
+1989,6,Bristol,25.0,16.0,45.0,Patty Moise,Amway Freedom (Patty Moise),Buick,69.0,760.0,suspension,0.0,88.0
+1989,6,Bristol,26.0,17.0,12.0,Jeff Burton,Burton Autosports (John Burton),Pontiac,68.0,1365.0,oil pump,0.0,85.0
+1989,6,Bristol,27.0,7.0,3.0,Dale Earnhardt,"GM Goodwrench (Dale Earnhardt, Inc.)",Chevrolet,39.0,1345.0,steering,0.0,82.0
+1989,6,Bristol,28.0,28.0,70.0,Ed Berrier,Dirt Devil Vacuums (Dwight Huffman),Buick,33.0,1295.0,engine,0.0,79.0
+1989,6,Bristol,29.0,29.0,99.0,Tommy Ellis,Goo Goo Clusters (John Jackson),Buick,21.0,4705.0,crash,0.0,76.0
+1989,6,Bristol,30.0,4.0,7.0,Harry Gant,Smith Oil (Ed Whitaker),Buick,13.0,1275.0,crash,0.0,73.0
+1989,7,Nazareth,1.0,2.0,81.0,"Bobby Hillin, Jr.",Rose's Stores (Ted Conder),Buick,300.0,13675.0,running,58.0,180.0
+1989,7,Nazareth,2.0,9.0,99.0,Tommy Ellis,Goo Goo Clusters (John Jackson),Buick,300.0,13031.0,running,0.0,170.0
+1989,7,Nazareth,3.0,3.0,30.0,Michael Waltrip,Post Cereals (Chuck Rider),Pontiac,300.0,5650.0,running,58.0,165.0
+1989,7,Nazareth,4.0,23.0,86.0,Tom Peck,Thomas Chevrolet (Mark Thomas),Oldsmobile,300.0,5906.0,running,14.0,160.0
+1989,7,Nazareth,5.0,7.0,28.0,Davey Allison,Havoline Antifreeze (Davey Allison),Buick,300.0,3350.0,running,35.0,155.0
+1989,7,Nazareth,6.0,11.0,52.0,Ken Schrader,Red Baron Frozen Pizza (Ken Schrader),Chevrolet,299.0,2680.0,running,0.0,150.0
+1989,7,Nazareth,7.0,29.0,79.0,Dave Rezendes,"K.R. Rezendes, Inc. (Dave Rezendes)",Oldsmobile,297.0,3650.0,running,0.0,146.0
+1989,7,Nazareth,8.0,19.0,11.0,Jack Ingram,Skoal (Jack Ingram),Chevrolet,295.0,5631.0,running,0.0,142.0
+1989,7,Nazareth,9.0,17.0,34.0,Jimmy Spencer,Jones Truck Sales (Frank Cicci),Buick,294.0,5356.0,running,0.0,138.0
+1989,7,Nazareth,10.0,20.0,60.0,Dale Shaw,Budweiser (Dale Shaw),Pontiac,289.0,3125.0,running,0.0,134.0
+1989,7,Nazareth,11.0,36.0,74.0,Kelly Moore,Jordan Lumber (Richard Moore),Chevrolet,288.0,2850.0,running,0.0,130.0
+1989,7,Nazareth,12.0,15.0,22.0,Rick Mast,"Raven Boats (Alan Dillard, Jr.)",Buick,287.0,4106.0,running,55.0,127.0
+1989,7,Nazareth,13.0,35.0,47.0,Billy Standridge,Standridge Auto Parts (Billy Standridge),Pontiac,279.0,2781.0,running,0.0,124.0
+1989,7,Nazareth,14.0,6.0,2.0,L.D. Ottinger,Detroit Gasket (Ron Parker),Pontiac,279.0,2681.0,running,0.0,121.0
+1989,7,Nazareth,15.0,25.0,36.0,Kenny Wallace,Cox Treated Lumber (Rusty Wallace),Pontiac,271.0,2681.0,running,0.0,118.0
+1989,7,Nazareth,16.0,22.0,96.0,Dana Patten,U.S. Chrome (Dana Patten),Buick,268.0,1450.0,engine,0.0,115.0
+1989,7,Nazareth,17.0,26.0,19.0,Joe Bessey,Cola Transport (Joe Bessey),Pontiac,268.0,2150.0,running,0.0,112.0
+1989,7,Nazareth,18.0,32.0,98.0,Ron Lamell,Lamell Lumber (Ron Lamell),Buick,264.0,1400.0,running,0.0,109.0
+1989,7,Nazareth,19.0,1.0,6.0,Tommy Houston,Southern Biscuit Flour (Steve Arndt),Buick,235.0,3681.0,transmission,71.0,106.0
+1989,7,Nazareth,20.0,37.0,8.0,Bobby Hamilton,Lighting & Fans (Fil Martocci),Buick,233.0,2306.0,crash,0.0,103.0
+1989,7,Nazareth,21.0,18.0,12.0,Jeff Burton,Sign Time (John Burton),Pontiac,233.0,2256.0,running,0.0,100.0
+1989,7,Nazareth,22.0,13.0,25.0,Rob Moroso,Swisher Sweets (Dick Moroso),Oldsmobile,222.0,3881.0,running,0.0,97.0
+1989,7,Nazareth,23.0,8.0,63.0,Chuck Bown,Nescafe Classic (Hubert Hensley),Pontiac,188.0,3606.0,piston,9.0,94.0
+1989,7,Nazareth,24.0,10.0,42.0,Elton Sawyer,Accu-Turn (Bill Lewis),Chevrolet,169.0,1781.0,crash,0.0,91.0
+1989,7,Nazareth,25.0,39.0,38.0,Dave Simpson,Simpson Safety Equipment (Bill Simpson),Buick,167.0,1771.0,crash,0.0,88.0
+1989,7,Nazareth,26.0,5.0,75.0,Rick Wilson,Food Country USA (Charlie Henderson),Oldsmobile,166.0,1761.0,engine,0.0,85.0
+1989,7,Nazareth,27.0,27.0,56.0,Ronald Cooper,Speedway Waste Disposal (Lewis Cooper),Buick,164.0,1751.0,running,0.0,82.0
+1989,7,Nazareth,28.0,33.0,41.0,Jamie Aube,Lake Morey Inn (Allen Avery),Buick,162.0,2410.0,valve,0.0,79.0
+1989,7,Nazareth,29.0,40.0,7.0,Billy Clark,Skoal Bandit (Quint Boisvert),Pontiac,129.0,1400.0,brakes,0.0,76.0
+1989,7,Nazareth,30.0,28.0,58.0,Martin Truex,"Shellfish Packing (Martin Truex, Sr.)",Pontiac,123.0,1025.0,crash,0.0,73.0
+1989,7,Nazareth,31.0,41.0,62.0,Ed Berrier,Lemon's Auto Parts (John Linville),Oldsmobile,106.0,1681.0,valve,0.0,70.0
+1989,7,Nazareth,32.0,38.0,69.0,Jeff Spraker,Spraker Enterprises (Jeff Spraker),Oldsmobile,100.0,1340.0,brakes,0.0,67.0
+1989,7,Nazareth,33.0,31.0,24.0,Joe Thurman,Thackston's Garage (Marvin Thackston),Ford,98.0,1661.0,valve,0.0,64.0
+1989,7,Nazareth,34.0,30.0,95.0,Larry Pollard,Central Gas & Appliance (Kirby Pollard),Oldsmobile,90.0,975.0,crash,0.0,61.0
+1989,7,Nazareth,35.0,12.0,1.0,Mark Martin,Carolina Ford Dealers (Bill Davis),Ford,84.0,1656.0,crash,0.0,58.0
+1989,7,Nazareth,36.0,34.0,33.0,Brad Teague,Pharo's Truck Stop (John Pharo),Oldsmobile,69.0,975.0,crash,0.0,55.0
+1989,7,Nazareth,37.0,16.0,3.0,Dale Earnhardt,"GM Goodwrench (Dale Earnhardt, Inc.)",Chevrolet,32.0,1656.0,crash,0.0,52.0
+1989,7,Nazareth,38.0,14.0,72.0,Rusty Wallace,Kodiak (Raymond Beadle),Pontiac,31.0,975.0,crash,0.0,49.0
+1989,7,Nazareth,39.0,24.0,9.0,Steve Grissom,Texas Pete Sauces (Mike Swaim),Pontiac,19.0,1656.0,piston,0.0,46.0
+1989,7,Nazareth,40.0,4.0,90.0,Thierry Tassin,Giro-Flex (David Pearson),Buick,11.0,975.0,clutch,0.0,43.0
+1989,7,Nazareth,41.0,21.0,66.0,"Donny Ling, Jr.","Just Say No (Don Ling, Sr.)",Oldsmobile,2.0,975.0,engine,0.0,40.0
+1989,8,South Boston,1.0,3.0,99.0,Tommy Ellis,Goo Goo Clusters (John Jackson),Buick,200.0,10575.0,running,116.0,180.0
+1989,8,South Boston,2.0,13.0,11.0,Jack Ingram,Skoal (Jack Ingram),Chevrolet,200.0,5300.0,running,0.0,170.0
+1989,8,South Boston,3.0,4.0,6.0,Tommy Houston,Southern Biscuit Flour (Steve Arndt),Buick,200.0,3750.0,running,0.0,165.0
+1989,8,South Boston,4.0,1.0,25.0,Rob Moroso,Swisher Sweets (Dick Moroso),Oldsmobile,200.0,3100.0,running,84.0,160.0
+1989,8,South Boston,5.0,10.0,22.0,Rick Mast,"Raven Boats (Alan Dillard, Jr.)",Buick,200.0,2200.0,running,0.0,155.0
+1989,8,South Boston,6.0,11.0,36.0,Kenny Wallace,Cox Treated Lumber (Rusty Wallace),Pontiac,200.0,1600.0,running,0.0,150.0
+1989,8,South Boston,7.0,15.0,56.0,Ronald Cooper,Speedway Waste Disposal (Lewis Cooper),Buick,200.0,1500.0,running,0.0,146.0
+1989,8,South Boston,8.0,2.0,63.0,Chuck Bown,Nescafe Classic (Hubert Hensley),Pontiac,199.0,2150.0,running,0.0,142.0
+1989,8,South Boston,9.0,12.0,30.0,Ronnie Silver,Post Cereals (Chuck Rider),Pontiac,199.0,1375.0,running,0.0,138.0
+1989,8,South Boston,10.0,6.0,32.0,Robert Powell,Coca-Cola,Pontiac,199.0,925.0,running,0.0,134.0
+1989,8,South Boston,11.0,5.0,12.0,Jeff Burton,Golden Skillet (John Burton),Pontiac,199.0,1275.0,running,0.0,130.0
+1989,8,South Boston,12.0,8.0,2.0,L.D. Ottinger,Detroit Gasket (Ron Parker),Pontiac,199.0,1250.0,running,0.0,127.0
+1989,8,South Boston,13.0,13.0,24.0,Joe Thurman,Thurman Enterprises (Marvin Thackston),Ford,197.0,1225.0,running,0.0,124.0
+1989,8,South Boston,14.0,16.0,8.0,Bobby Hamilton,Lighting & Fans (Fil Martocci),Buick,197.0,1200.0,running,0.0,121.0
+1989,8,South Boston,15.0,25.0,96.0,Tom Peck,Thomas Chevrolet (Mark Thomas),Oldsmobile,197.0,1175.0,running,0.0,118.0
+1989,8,South Boston,16.0,18.0,5.0,Brandon Baker,Commercial Management (Sam Ard),Buick,188.0,1150.0,running,0.0,115.0
+1989,8,South Boston,17.0,24.0,69.0,Jeff Spraker,Spraker Racing (Jeff Spraker),Oldsmobile,180.0,725.0,crash,0.0,112.0
+1989,8,South Boston,18.0,9.0,59.0,Robert Pressley,C.L. Loven (Brad Daugherty),Oldsmobile,162.0,1100.0,crash,0.0,109.0
+1989,8,South Boston,19.0,20.0,47.0,Billy Standridge,Standridge Auto Parts (Billy Standridge),Pontiac,140.0,1075.0,crash,0.0,106.0
+1989,8,South Boston,20.0,16.0,2.0,Kenny Burks,Williams & Burks (J.C. Burks),Buick,129.0,1050.0,oil leak,0.0,103.0
+1989,8,South Boston,21.0,7.0,14.0,Wayne Patterson,"W.O. Grubb, Inc. (William Grubb)",Pontiac,107.0,1025.0,engine,0.0,100.0
+1989,8,South Boston,22.0,14.0,34.0,Jimmy Spencer,Cicci Racing (Frank Cicci),Buick,65.0,1750.0,oil leak,0.0,97.0
+1989,8,South Boston,23.0,17.0,41.0,Max Prestwood,Tri-County Furniture (Max Prestwood),Oldsmobile,37.0,950.0,crash,0.0,94.0
+1989,8,South Boston,24.0,21.0,79.0,Dave Rezendes,"K.R. Rezendes, Inc. (Dave Rezendes)",Oldsmobile,7.0,900.0,crash,0.0,91.0
+1989,8,South Boston,25.0,19.0,9.0,Steve Grissom,Texas Pete Sauces (Mike Swaim),Pontiac,6.0,900.0,crash,0.0,88.0
+1989,9,Lanier,1.0,14.0,56.0,Ronald Cooper,Speedway Waste Disposal (Lewis Cooper),Buick,200.0,9175.0,running,66.0,180.0
+1989,9,Lanier,2.0,4.0,25.0,Rob Moroso,Swisher Sweets (Dick Moroso),Oldsmobile,200.0,4475.0,running,0.0,170.0
+1989,9,Lanier,3.0,5.0,6.0,Tommy Houston,Southern Biscuit Flour (Steve Arndt),Buick,200.0,3400.0,running,105.0,165.0
+1989,9,Lanier,4.0,7.0,32.0,Robert Powell,Coca-Cola,Pontiac,200.0,1600.0,running,0.0,160.0
+1989,9,Lanier,5.0,24.0,11.0,Jack Ingram,Skoal (Jack Ingram),Chevrolet,200.0,2600.0,running,0.0,155.0
+1989,9,Lanier,6.0,3.0,99.0,Tommy Ellis,Goo Goo Clusters (John Jackson),Buick,200.0,2850.0,running,0.0,150.0
+1989,9,Lanier,7.0,8.0,22.0,Rick Mast,"Raven Boats (Alan Dillard, Jr.)",Buick,200.0,1850.0,running,0.0,146.0
+1989,9,Lanier,8.0,19.0,47.0,Billy Standridge,Standridge Auto Parts (Billy Standridge),Pontiac,200.0,1400.0,running,0.0,142.0
+1989,9,Lanier,9.0,10.0,12.0,Jeff Burton,Burton Autosports (John Burton),Pontiac,199.0,1350.0,running,0.0,138.0
+1989,9,Lanier,10.0,13.0,81.0,"Bobby Hillin, Jr.",Rose's Stores (Ted Conder),Buick,199.0,900.0,running,0.0,134.0
+1989,9,Lanier,11.0,26.0,70.0,Elton Sawyer,Huffman Racing (Dwight Huffman),Oldsmobile,199.0,1275.0,running,0.0,130.0
+1989,9,Lanier,12.0,6.0,59.0,Robert Pressley,Brad Daugherty (Brad Daugherty),Oldsmobile,199.0,1250.0,running,0.0,127.0
+1989,9,Lanier,13.0,2.0,36.0,Kenny Wallace,Cox Treated Lumber (Rusty Wallace),Pontiac,198.0,1225.0,running,0.0,124.0
+1989,9,Lanier,14.0,17.0,41.0,Max Prestwood,Tri-County Furniture (Max Prestwood),Oldsmobile,198.0,1200.0,running,0.0,121.0
+1989,9,Lanier,15.0,22.0,34.0,Jimmy Spencer,Cicci Racing (Frank Cicci),Buick,197.0,1925.0,running,0.0,118.0
+1989,9,Lanier,16.0,21.0,2.0,L.D. Ottinger,Detroit Gasket (Ron Parker),Pontiac,197.0,1150.0,running,0.0,115.0
+1989,9,Lanier,17.0,25.0,24.0,Joe Thurman,Thurman Enterprises (Marvin Thackston),Ford,197.0,1125.0,running,0.0,112.0
+1989,9,Lanier,18.0,16.0,96.0,Tom Peck,Thomas Chevrolet (Mark Thomas),Oldsmobile,197.0,1100.0,running,0.0,109.0
+1989,9,Lanier,19.0,12.0,2.0,Kenny Burks,Williams & Burks (J.C. Burks),Buick,197.0,1075.0,running,0.0,106.0
+1989,9,Lanier,20.0,1.0,63.0,Chuck Bown,Nescafe Classic (Hubert Hensley),Pontiac,197.0,1800.0,running,29.0,103.0
+1989,9,Lanier,21.0,20.0,79.0,Dave Rezendes,"K.R. Rezendes, Inc. (Dave Rezendes)",Oldsmobile,197.0,1025.0,running,0.0,100.0
+1989,9,Lanier,22.0,9.0,9.0,Steve Grissom,Texas Pete Sauces (Mike Swaim),Pontiac,195.0,1100.0,running,0.0,97.0
+1989,9,Lanier,23.0,15.0,49.0,Debbie Lunsford,Nestle Quik,Buick,190.0,550.0,running,0.0,94.0
+1989,9,Lanier,24.0,11.0,8.0,Bobby Hamilton,Lighting & Fans (Fil Martocci),Buick,189.0,900.0,running,0.0,91.0
+1989,9,Lanier,25.0,18.0,30.0,Ronnie Silver,Post Cereals (Chuck Rider),Pontiac,57.0,900.0,overheating,0.0,88.0
+1989,9,Lanier,26.0,23.0,5.0,Brandon Baker,Commercial Management (Sam Ard),Buick,2.0,900.0,crash,0.0,85.0
+1989,10,Nashville,1.0,2.0,22.0,Rick Mast,"Raven Boats (Alan Dillard, Jr.)",Buick,200.0,9775.0,running,31.0,180.0
+1989,10,Nashville,2.0,18.0,8.0,Bobby Hamilton,Lighting & Fans (Fil Martocci),Buick,200.0,4375.0,running,3.0,170.0
+1989,10,Nashville,3.0,1.0,36.0,Kenny Wallace,Cox Treated Lumber (Rusty Wallace),Pontiac,200.0,3450.0,running,154.0,165.0
+1989,10,Nashville,4.0,9.0,11.0,Jack Ingram,Skoal (Jack Ingram),Chevrolet,199.0,3500.0,running,0.0,160.0
+1989,10,Nashville,5.0,4.0,56.0,Ronald Cooper,Speedway Waste Disposal (Lewis Cooper),Buick,199.0,3250.0,running,0.0,155.0
+1989,10,Nashville,6.0,15.0,30.0,Ronnie Silver,Post Cereals (Chuck Rider),Pontiac,199.0,1775.0,running,0.0,150.0
+1989,10,Nashville,7.0,3.0,99.0,Tommy Ellis,Goo Goo Clusters (John Jackson),Buick,198.0,3675.0,running,0.0,146.0
+1989,10,Nashville,8.0,5.0,63.0,Chuck Bown,Nescafe Classic (Hubert Hensley),Pontiac,198.0,2830.0,running,0.0,142.0
+1989,10,Nashville,9.0,10.0,34.0,Jimmy Spencer,Cicci Racing (Frank Cicci),Buick,198.0,2800.0,running,0.0,138.0
+1989,10,Nashville,10.0,11.0,2.0,L.D. Ottinger,Detroit Gasket (Ron Parker),Pontiac,197.0,1550.0,running,0.0,134.0
+1989,10,Nashville,11.0,13.0,12.0,Jeff Burton,Burton Autosports (John Burton),Pontiac,197.0,1450.0,running,0.0,130.0
+1989,10,Nashville,12.0,12.0,59.0,Robert Pressley,Brad Daugherty (Brad Daugherty),Oldsmobile,195.0,1400.0,running,0.0,127.0
+1989,10,Nashville,13.0,20.0,24.0,Joe Thurman,Thurman Enterprises (Marvin Thackston),Ford,194.0,1350.0,running,0.0,124.0
+1989,10,Nashville,14.0,19.0,96.0,Tom Peck,Thomas Chevrolet (Mark Thomas),Oldsmobile,190.0,1300.0,running,0.0,121.0
+1989,10,Nashville,15.0,14.0,2.0,Kenny Burks,Williams & Burks (J.C. Burks),Buick,181.0,1350.0,running,0.0,118.0
+1989,10,Nashville,16.0,7.0,6.0,Tommy Houston,Southern Biscuit Flour (Steve Arndt),Buick,179.0,2475.0,ignition,12.0,115.0
+1989,10,Nashville,17.0,24.0,0.0,Allen Applegate,Applegate Racing (W.O. Applegate),Chevrolet,166.0,700.0,running,0.0,112.0
+1989,10,Nashville,18.0,6.0,25.0,Rob Moroso,Swisher Sweets (Dick Moroso),Oldsmobile,135.0,2425.0,clutch,0.0,109.0
+1989,10,Nashville,19.0,23.0,47.0,Billy Standridge,Standridge Auto Parts (Billy Standridge),Pontiac,100.0,1150.0,running,0.0,106.0
+1989,10,Nashville,20.0,22.0,9.0,Steve Grissom,Texas Pete Sauces (Mike Swaim),Pontiac,66.0,1125.0,engine,0.0,103.0
+1989,10,Nashville,21.0,16.0,79.0,Dave Rezendes,"K.R. Rezendes, Inc. (Dave Rezendes)",Oldsmobile,34.0,1115.0,overheating,0.0,100.0
+1989,10,Nashville,22.0,8.0,32.0,Robert Powell,Coca-Cola,Pontiac,25.0,1105.0,engine,0.0,97.0
+1989,10,Nashville,23.0,17.0,91.0,Tom Harrington,BFI Recycle Now (Tom Harrington),Oldsmobile,21.0,595.0,crash,0.0,94.0
+1989,10,Nashville,24.0,21.0,41.0,Max Prestwood,Tri-County Furniture (Max Prestwood),Oldsmobile,21.0,1075.0,crash,0.0,91.0
+1989,11,Charlotte,1.0,4.0,25.0,Rob Moroso,Swisher Sweets (Dick Moroso),Oldsmobile,200.0,47650.0,running,43.0,180.0
+1989,11,Charlotte,2.0,7.0,17.0,Darrell Waltrip,Exxon Superflo (Darrell Waltrip),Chevrolet,200.0,12650.0,running,10.0,170.0
+1989,11,Charlotte,3.0,8.0,30.0,Michael Waltrip,Post Cereals (Chuck Rider),Pontiac,200.0,9250.0,running,0.0,165.0
+1989,11,Charlotte,4.0,6.0,33.0,Brad Teague,Pharo's Truck Stop (John Pharo),Oldsmobile,200.0,7558.0,running,0.0,160.0
+1989,11,Charlotte,5.0,31.0,22.0,Rick Mast,"Raven Boats (Alan Dillard, Jr.)",Buick,200.0,8425.0,running,0.0,155.0
+1989,11,Charlotte,6.0,18.0,32.0,Dale Jarrett,Village Motors (Horace Isenhower),Pontiac,200.0,5680.0,running,0.0,150.0
+1989,11,Charlotte,7.0,20.0,6.0,Tommy Houston,Southern Biscuit Flour (Steve Arndt),Buick,200.0,11318.0,running,0.0,146.0
+1989,11,Charlotte,8.0,26.0,11.0,Jack Ingram,Skoal (Jack Ingram),Chevrolet,200.0,10218.0,running,0.0,142.0
+1989,11,Charlotte,9.0,3.0,72.0,Rusty Wallace,Kodiak (Raymond Beadle),Pontiac,200.0,6980.0,running,51.0,138.0
+1989,11,Charlotte,10.0,5.0,15.0,Geoffrey Bodine,Levi Garrett (Rick Hendrick),Chevrolet,200.0,8355.0,running,91.0,134.0
+1989,11,Charlotte,11.0,23.0,34.0,Jimmy Spencer,Cicci Racing (Frank Cicci),Buick,199.0,8118.0,running,0.0,130.0
+1989,11,Charlotte,12.0,12.0,36.0,Kenny Wallace,Cox Treated Lumber (Rusty Wallace),Pontiac,199.0,5468.0,running,0.0,127.0
+1989,11,Charlotte,13.0,16.0,44.0,Bobby Labonte,Winner's Circle Auto Parts (Bob Labonte),Buick,199.0,6630.0,running,0.0,124.0
+1989,11,Charlotte,14.0,30.0,2.0,L.D. Ottinger,Detroit Gasket (Ron Parker),Pontiac,199.0,4618.0,running,0.0,121.0
+1989,11,Charlotte,15.0,29.0,12.0,Jeff Burton,Southland Fire Protection (John Burton),Pontiac,198.0,4268.0,running,0.0,118.0
+1989,11,Charlotte,16.0,36.0,9.0,Steve Grissom,Texas Pete Sauces (Mike Swaim),Pontiac,197.0,3718.0,running,0.0,115.0
+1989,11,Charlotte,17.0,41.0,70.0,Jimmy Hensley,Dirt Devil Vacuums (Dwight Huffman),Buick,197.0,1998.0,running,0.0,112.0
+1989,11,Charlotte,18.0,42.0,31.0,Lee Faulk,Slender You Figure Salons,Pontiac,196.0,1730.0,running,0.0,109.0
+1989,11,Charlotte,19.0,35.0,89.0,Don Jenkins,Athens Paper,Oldsmobile,195.0,1210.0,running,0.0,106.0
+1989,11,Charlotte,20.0,9.0,3.0,Dale Earnhardt,"GM Goodwrench (Dale Earnhardt, Inc.)",Chevrolet,189.0,1185.0,engine,0.0,103.0
+1989,11,Charlotte,21.0,38.0,8.0,Bobby Hamilton,Lighting & Fans (Fil Martocci),Buick,183.0,3133.0,running,0.0,100.0
+1989,11,Charlotte,22.0,1.0,87.0,Greg Sacks,Lowe's Foods (Buddy Baker / Danny Schiff),Pontiac,172.0,6370.0,engine,0.0,97.0
+1989,11,Charlotte,23.0,27.0,63.0,Chuck Bown,Nescafe Classic (Hubert Hensley),Pontiac,172.0,4733.0,running,0.0,94.0
+1989,11,Charlotte,24.0,15.0,56.0,Ronald Cooper,Caterpillar (Lewis Cooper),Buick,160.0,4608.0,transmission,0.0,91.0
+1989,11,Charlotte,25.0,25.0,1.0,Jack Pennington,R.T. Dooley (Derick Close),Buick,157.0,995.0,piston,0.0,88.0
+1989,11,Charlotte,26.0,32.0,79.0,Dave Rezendes,"K.R. Rezendes, Inc. (Dave Rezendes)",Oldsmobile,153.0,2718.0,running,0.0,85.0
+1989,11,Charlotte,27.0,21.0,55.0,Phil Parsons,Fast Fare (Don Beverley),Oldsmobile,124.0,965.0,engine,0.0,82.0
+1989,11,Charlotte,28.0,37.0,47.0,Billy Standridge,Mastertrim Custom Builders (Billy Standridge),Pontiac,123.0,2593.0,piston,0.0,79.0
+1989,11,Charlotte,29.0,10.0,7.0,Harry Gant,Carman Christies Garage (Ed Whitaker),Buick,122.0,2970.0,ignition,0.0,76.0
+1989,11,Charlotte,30.0,19.0,92.0,Jimmy Means,Custom Veneers (Mac Martin),Pontiac,115.0,935.0,engine,0.0,73.0
+1989,11,Charlotte,31.0,39.0,28.0,Davey Allison,Havoline Antifreeze (Davey Allison),Buick,114.0,1420.0,carburetor,0.0,70.0
+1989,11,Charlotte,32.0,33.0,42.0,Elton Sawyer,Wrecker Wholesalers (Bill Lewis),Chevrolet,90.0,2448.0,piston,0.0,67.0
+1989,11,Charlotte,33.0,40.0,82.0,Kyle Petty,Uniden (Ted Conder),Pontiac,89.0,1390.0,crash,0.0,64.0
+1989,11,Charlotte,34.0,17.0,99.0,Tommy Ellis,Goo Goo Clusters (John Jackson),Buick,86.0,5178.0,engine,0.0,61.0
+1989,11,Charlotte,35.0,28.0,45.0,Patty Moise,Amway Freedom (Patty Moise),Buick,81.0,880.0,transmission,0.0,58.0
+1989,11,Charlotte,36.0,22.0,57.0,Hut Stricklin,Heinz Ketchup,Buick,64.0,875.0,piston,0.0,55.0
+1989,11,Charlotte,37.0,34.0,96.0,Tom Peck,Thomas Chevrolet (Mark Thomas),Oldsmobile,56.0,1908.0,engine,0.0,52.0
+1989,11,Charlotte,38.0,14.0,81.0,"Bobby Hillin, Jr.",Rose's Stores (Ted Conder),Buick,50.0,865.0,engine,0.0,49.0
+1989,11,Charlotte,39.0,2.0,1.0,Mark Martin,Carolina Ford Dealers (Bill Davis),Ford,35.0,1160.0,engine,5.0,46.0
+1989,11,Charlotte,40.0,24.0,4.0,Ed Berrier,Hill Racing (Roy Hill),Buick,26.0,1893.0,oil leak,0.0,43.0
+1989,11,Charlotte,41.0,11.0,52.0,Ken Schrader,Red Baron Frozen Pizza (Ken Schrader),Chevrolet,23.0,855.0,engine,0.0,40.0
+1989,11,Charlotte,42.0,13.0,75.0,Rick Wilson,Food Country USA (Charlie Henderson),Oldsmobile,16.0,855.0,engine,0.0,37.0
+1989,12,Dover,1.0,8.0,75.0,Rick Wilson,Food Country USA (Charlie Henderson),Oldsmobile,200.0,10965.0,running,96.0,180.0
+1989,12,Dover,2.0,5.0,55.0,Phil Parsons,Fast Fare (Don Beverley),Oldsmobile,200.0,5200.0,running,0.0,170.0
+1989,12,Dover,3.0,4.0,87.0,Dale Earnhardt,Lowe's Foods (Buddy Baker / Danny Schiff),Pontiac,200.0,3575.0,running,8.0,0.0
+1989,12,Dover,4.0,10.0,1.0,Mark Martin,Carolina Ford Dealers (Bill Davis),Ford,200.0,2275.0,running,3.0,160.0
+1989,12,Dover,5.0,14.0,99.0,Tommy Ellis,Goo Goo Clusters (John Jackson),Buick,200.0,5757.0,running,0.0,155.0
+1989,12,Dover,6.0,13.0,63.0,Chuck Bown,Nescafe Classic (Hubert Hensley),Pontiac,200.0,4257.0,running,0.0,150.0
+1989,12,Dover,7.0,11.0,36.0,Kenny Wallace,Cox Treated Lumber (Rusty Wallace),Pontiac,200.0,2257.0,running,0.0,146.0
+1989,12,Dover,8.0,9.0,52.0,Ken Schrader,Red Baron Frozen Pizza (Ken Schrader),Chevrolet,200.0,1275.0,running,0.0,142.0
+1989,12,Dover,9.0,24.0,86.0,Dana Patten,U.S. Chrome (Dana Patten),Buick,200.0,1875.0,running,0.0,138.0
+1989,12,Dover,10.0,12.0,71.0,Randy LaJoie,D & D Competition (Randy LaJoie),Pontiac,199.0,1675.0,running,0.0,134.0
+1989,12,Dover,11.0,15.0,56.0,Ronald Cooper,Caterpillar (Lewis Cooper),Buick,199.0,2607.0,running,0.0,130.0
+1989,12,Dover,12.0,6.0,4.0,Ed Berrier,Hill Racing (Roy Hill),Buick,198.0,1832.0,running,0.0,127.0
+1989,12,Dover,13.0,25.0,2.0,L.D. Ottinger,Detroit Gasket (Ron Parker),Pontiac,198.0,1782.0,running,0.0,124.0
+1989,12,Dover,14.0,7.0,96.0,Tom Peck,Thomas Chevrolet (Mark Thomas),Oldsmobile,197.0,1757.0,running,0.0,121.0
+1989,12,Dover,15.0,28.0,11.0,Jack Ingram,Skoal (Jack Ingram),Chevrolet,197.0,3582.0,running,0.0,118.0
+1989,12,Dover,16.0,38.0,81.0,"Bobby Hillin, Jr.",Rose's Stores (Ted Conder),Buick,196.0,825.0,running,0.0,115.0
+1989,12,Dover,17.0,3.0,25.0,Rob Moroso,Swisher Sweets (Dick Moroso),Oldsmobile,196.0,3432.0,running,0.0,112.0
+1989,12,Dover,18.0,16.0,45.0,Patty Moise,Amway Freedom (Patty Moise),Buick,195.0,775.0,running,0.0,109.0
+1989,12,Dover,19.0,23.0,22.0,Rick Mast,"Raven Boats (Alan Dillard, Jr.)",Buick,193.0,2500.0,running,0.0,106.0
+1989,12,Dover,20.0,35.0,9.0,Joe Bessey,Cola Transport (Joe Bessey),Pontiac,193.0,1325.0,running,0.0,103.0
+1989,12,Dover,21.0,31.0,42.0,Elton Sawyer,Wrecker Wholesalers (Bill Lewis),Chevrolet,193.0,1582.0,running,0.0,100.0
+1989,12,Dover,22.0,18.0,88.0,Curtis Markham,Landworks (Ken Curley),Buick,192.0,675.0,running,0.0,97.0
+1989,12,Dover,23.0,27.0,1.0,Jack Pennington,R.T. Dooley (Derick Close),Buick,192.0,650.0,running,0.0,94.0
+1989,12,Dover,24.0,33.0,41.0,Jamie Aube,Lake Morey Inn (Allen Avery),Buick,190.0,2225.0,running,0.0,91.0
+1989,12,Dover,25.0,20.0,47.0,Billy Standridge,Standridge Auto Parts (Billy Standridge),Pontiac,187.0,1482.0,running,0.0,88.0
+1989,12,Dover,26.0,34.0,34.0,Jimmy Spencer,Cicci Racing (Frank Cicci),Buick,159.0,3207.0,ignition,0.0,85.0
+1989,12,Dover,27.0,21.0,12.0,Jeff Burton,Burton Autosports (John Burton),Pontiac,142.0,1432.0,engine,0.0,82.0
+1989,12,Dover,28.0,1.0,7.0,Harry Gant,Carman Christies Garage (Ed Whitaker),Buick,115.0,825.0,handling,51.0,79.0
+1989,12,Dover,29.0,32.0,8.0,Bobby Hamilton,Lighting & Fans (Fil Martocci),Buick,112.0,1392.0,running,0.0,76.0
+1989,12,Dover,30.0,2.0,30.0,Michael Waltrip,Post Cereals (Chuck Rider),Pontiac,110.0,500.0,crash,42.0,73.0
+1989,12,Dover,31.0,30.0,66.0,"Donny Ling, Jr.","Just Say No (Don Ling, Sr.)",Oldsmobile,110.0,500.0,crash,0.0,70.0
+1989,12,Dover,32.0,22.0,6.0,Tommy Houston,Southern Biscuit Flour (Steve Arndt),Buick,109.0,3132.0,crash,0.0,67.0
+1989,12,Dover,33.0,17.0,70.0,Jimmy Hensley,Dirt Devil Vacuums (Dwight Huffman),Buick,101.0,500.0,crash,0.0,64.0
+1989,12,Dover,34.0,26.0,33.0,Brad Teague,Pharo's Truck Stop (John Pharo),Oldsmobile,100.0,500.0,crash,0.0,61.0
+1989,12,Dover,35.0,37.0,2.0,Dave Davis,Davis Brothers (Dick & Mary Davis),Pontiac,94.0,1100.0,crash,0.0,58.0
+1989,12,Dover,36.0,29.0,79.0,Dave Rezendes,"K.R. Rezendes, Inc. (Dave Rezendes)",Oldsmobile,90.0,1382.0,crash,0.0,55.0
+1989,12,Dover,37.0,19.0,17.0,Darrell Waltrip,Exxon Superflo (Darrell Waltrip),Chevrolet,58.0,500.0,engine,0.0,52.0
+1989,12,Dover,38.0,36.0,19.0,Steve Grissom,Texas Pete Sauces (Mike Swaim),Pontiac,33.0,1382.0,engine,0.0,49.0
+1989,13,Rougemont,1.0,1.0,34.0,Jimmy Spencer,Cicci Racing (Frank Cicci),Buick,200.0,10801.0,running,190.0,180.0
+1989,13,Rougemont,2.0,12.0,6.0,Tommy Houston,Southern Biscuit Flour (Steve Arndt),Buick,199.0,4801.0,running,0.0,170.0
+1989,13,Rougemont,3.0,13.0,22.0,Rick Mast,"Raven Boats (Alan Dillard, Jr.)",Buick,199.0,3200.0,running,0.0,165.0
+1989,13,Rougemont,4.0,11.0,36.0,Kenny Wallace,Cox Treated Lumber (Rusty Wallace),Pontiac,199.0,2176.0,running,0.0,160.0
+1989,13,Rougemont,5.0,22.0,30.0,Ronnie Silver,Post Cereals (Chuck Rider),Pontiac,199.0,1976.0,running,0.0,155.0
+1989,13,Rougemont,6.0,18.0,42.0,Elton Sawyer,Wrecker Wholesalers (Bill Lewis),Chevrolet,199.0,1726.0,running,0.0,150.0
+1989,13,Rougemont,7.0,21.0,81.0,Kyle Petty,Rose's Stores (Ted Conder),Buick,198.0,1100.0,running,0.0,146.0
+1989,13,Rougemont,8.0,25.0,12.0,Jeff Burton,Burton Autosports (John Burton),Pontiac,197.0,1526.0,running,0.0,142.0
+1989,13,Rougemont,9.0,4.0,59.0,Robert Pressley,Brad Daugherty (Brad Daugherty),Oldsmobile,197.0,1501.0,running,0.0,138.0
+1989,13,Rougemont,10.0,2.0,56.0,Ronald Cooper,Speedway Waste Disposal (Lewis Cooper),Buick,195.0,1451.0,running,0.0,134.0
+1989,13,Rougemont,11.0,19.0,96.0,Tom Peck,Thomas Chevrolet (Mark Thomas),Oldsmobile,194.0,1401.0,running,0.0,130.0
+1989,13,Rougemont,12.0,17.0,11.0,Jack Ingram,Skoal (Jack Ingram),Chevrolet,194.0,2126.0,running,0.0,127.0
+1989,13,Rougemont,13.0,20.0,24.0,Joe Thurman,Thurman Enterprises (Marvin Thackston),Ford,194.0,1351.0,running,0.0,124.0
+1989,13,Rougemont,14.0,8.0,85.0,Bobby Moon,Moon Racing (Bobby Moon),Buick,194.0,800.0,running,0.0,121.0
+1989,13,Rougemont,15.0,23.0,32.0,Robert Powell,Coca-Cola,Pontiac,193.0,775.0,running,0.0,118.0
+1989,13,Rougemont,16.0,9.0,99.0,Tommy Ellis,Goo Goo Clusters (John Jackson),Buick,192.0,2526.0,running,0.0,115.0
+1989,13,Rougemont,17.0,26.0,47.0,Billy Standridge,Standridge Auto Parts (Billy Standridge),Pontiac,191.0,1251.0,running,0.0,112.0
+1989,13,Rougemont,18.0,24.0,9.0,Steve Grissom,Texas Pete Sauces (Mike Swaim),Pontiac,191.0,1226.0,running,0.0,109.0
+1989,13,Rougemont,19.0,15.0,8.0,Bobby Hamilton,Lighting & Fans (Fil Martocci),Buick,190.0,1201.0,running,0.0,106.0
+1989,13,Rougemont,20.0,5.0,25.0,Rob Moroso,Swisher Sweets (Dick Moroso),Oldsmobile,189.0,1926.0,running,0.0,103.0
+1989,13,Rougemont,21.0,10.0,2.0,L.D. Ottinger,Detroit Gasket (Ron Parker),Pontiac,186.0,1151.0,running,0.0,100.0
+1989,13,Rougemont,22.0,6.0,5.0,Jay Fogleman,Ard Motorsports (Sam Ard),Buick,104.0,600.0,ignition,0.0,0.0
+1989,13,Rougemont,23.0,14.0,2.0,Kenny Burks,Williams & Burks (J.C. Burks),Buick,103.0,1076.0,crash,0.0,94.0
+1989,13,Rougemont,24.0,16.0,70.0,Jimmy Hensley,Dirt Devil Vacuums (Dwight Huffman),Buick,82.0,500.0,engine,0.0,91.0
+1989,13,Rougemont,25.0,7.0,14.0,Wayne Patterson,"W.O. Grubb, Inc. (William Grubb)",Pontiac,71.0,500.0,crash,0.0,88.0
+1989,13,Rougemont,26.0,3.0,63.0,Chuck Bown,Nescafe Classic (Hubert Hensley),Pontiac,32.0,1026.0,engine,10.0,85.0
+1989,14,Louisville,1.0,17.0,6.0,Tommy Houston,Southern Biscuit Flour (Steve Arndt),Buick,200.0,11725.0,running,43.0,180.0
+1989,14,Louisville,2.0,2.0,30.0,Michael Waltrip,Post Cereals (Chuck Rider),Pontiac,200.0,4875.0,running,0.0,170.0
+1989,14,Louisville,3.0,11.0,42.0,Elton Sawyer,Sawyer Racing (Bill Lewis),Chevrolet,200.0,3300.0,running,0.0,165.0
+1989,14,Louisville,4.0,18.0,2.0,L.D. Ottinger,Detroit Gasket (Ron Parker),Pontiac,200.0,2650.0,running,0.0,160.0
+1989,14,Louisville,5.0,4.0,63.0,Chuck Bown,Nescafe Classic (Hubert Hensley),Pontiac,200.0,3475.0,running,97.0,155.0
+1989,14,Louisville,6.0,21.0,2.0,Kenny Burks,Parrish Masonry (J.C. Burks),Buick,200.0,2150.0,running,0.0,150.0
+1989,14,Louisville,7.0,1.0,36.0,Kenny Wallace,Cox Treated Lumber (Rusty Wallace),Pontiac,200.0,2900.0,running,60.0,146.0
+1989,14,Louisville,8.0,9.0,96.0,Tom Peck,Thomas Chevrolet (Mark Thomas),Oldsmobile,200.0,1760.0,running,0.0,142.0
+1989,14,Louisville,9.0,16.0,25.0,Rob Moroso,Swisher Sweets (Dick Moroso),Oldsmobile,199.0,2275.0,running,0.0,138.0
+1989,14,Louisville,10.0,7.0,9.0,Steve Grissom,Texas Pete Sauces (Mike Swaim),Pontiac,199.0,1665.0,running,0.0,134.0
+1989,14,Louisville,11.0,23.0,24.0,Joe Thurman,Charleston Speedway (Marvin Thackston),Ford,199.0,1450.0,running,0.0,130.0
+1989,14,Louisville,12.0,22.0,89.0,Don Satterfield,Bishop Body Shop,Chevrolet,191.0,1000.0,running,0.0,127.0
+1989,14,Louisville,13.0,19.0,56.0,Ronald Cooper,Speedway Waste Disposal (Lewis Cooper),Buick,186.0,2125.0,running,0.0,124.0
+1989,14,Louisville,14.0,20.0,11.0,Jack Ingram,Skoal (Jack Ingram),Chevrolet,169.0,2100.0,running,0.0,121.0
+1989,14,Louisville,15.0,6.0,59.0,Robert Pressley,Brad Daugherty (Brad Daugherty),Oldsmobile,147.0,1585.0,crash,0.0,118.0
+1989,14,Louisville,16.0,10.0,12.0,Jeff Burton,Burton Autosports (John Burton),Pontiac,145.0,1400.0,crash,0.0,115.0
+1989,14,Louisville,17.0,14.0,34.0,Jimmy Spencer,Cicci Racing (Frank Cicci),Buick,136.0,2025.0,parked,0.0,112.0
+1989,14,Louisville,18.0,12.0,47.0,Billy Standridge,Rite-Way Grinding (Billy Standridge),Pontiac,116.0,1450.0,engine,0.0,109.0
+1989,14,Louisville,19.0,13.0,22.0,Rick Mast,"Raven Boats (Alan Dillard, Jr.)",Buick,92.0,1575.0,running,0.0,106.0
+1989,14,Louisville,20.0,3.0,8.0,Bobby Hamilton,Lighting & Fans (Fil Martocci),Buick,81.0,1500.0,engine,0.0,103.0
+1989,14,Louisville,21.0,8.0,99.0,Tommy Ellis,Goo Goo Clusters (John Jackson),Buick,39.0,2545.0,crash,0.0,100.0
+1989,14,Louisville,22.0,5.0,79.0,Dave Rezendes,"K.R. Rezendes, Inc. (Dave Rezendes)",Oldsmobile,23.0,1320.0,engine,0.0,97.0
+1989,14,Louisville,23.0,15.0,70.0,Jimmy Hensley,Dirt Devil Vacuums (Dwight Huffman),Buick,19.0,1425.0,crash,0.0,94.0
+1989,15,Volusia County,1.0,1.0,25.0,Rob Moroso,Swisher Sweets (Dick Moroso),Oldsmobile,200.0,11825.0,running,186.0,180.0
+1989,15,Volusia County,2.0,12.0,99.0,Tommy Ellis,Goo Goo Clusters (John Jackson),Buick,200.0,6900.0,running,0.0,170.0
+1989,15,Volusia County,3.0,4.0,63.0,Chuck Bown,Nescafe Classic (Hubert Hensley),Pontiac,200.0,4900.0,running,0.0,165.0
+1989,15,Volusia County,4.0,6.0,2.0,L.D. Ottinger,Detroit Gasket (Ron Parker),Pontiac,200.0,3300.0,running,0.0,160.0
+1989,15,Volusia County,5.0,10.0,11.0,Jack Ingram,Skoal (Jack Ingram),Chevrolet,200.0,3650.0,running,0.0,155.0
+1989,15,Volusia County,6.0,3.0,56.0,Ronald Cooper,Speedway Waste Disposal (Lewis Cooper),Buick,200.0,3050.0,running,0.0,150.0
+1989,15,Volusia County,7.0,5.0,22.0,Rick Mast,"Raven Boats (Alan Dillard, Jr.)",Buick,200.0,2550.0,running,0.0,146.0
+1989,15,Volusia County,8.0,2.0,36.0,Kenny Wallace,Cox Treated Lumber (Rusty Wallace),Pontiac,200.0,1600.0,running,0.0,142.0
+1989,15,Volusia County,9.0,21.0,30.0,Ronnie Silver,Post Cereals (Chuck Rider),Pontiac,200.0,1400.0,running,0.0,138.0
+1989,15,Volusia County,10.0,25.0,79.0,Dave Rezendes,"K.R. Rezendes, Inc. (Dave Rezendes)",Oldsmobile,200.0,1325.0,running,0.0,134.0
+1989,15,Volusia County,11.0,18.0,24.0,Joe Thurman,Thurman Enterprises (Marvin Thackston),Ford,200.0,1300.0,running,0.0,130.0
+1989,15,Volusia County,12.0,8.0,6.0,Tommy Houston,Southern Biscuit Flour (Steve Arndt),Buick,199.0,2025.0,running,0.0,127.0
+1989,15,Volusia County,13.0,9.0,59.0,Robert Pressley,Brad Daugherty (Brad Daugherty),Oldsmobile,199.0,1250.0,running,0.0,124.0
+1989,15,Volusia County,14.0,16.0,12.0,Jeff Burton,Burton Autosports (John Burton),Pontiac,198.0,1230.0,running,14.0,121.0
+1989,15,Volusia County,15.0,19.0,47.0,Billy Standridge,Standridge Auto Parts (Billy Standridge),Pontiac,198.0,1220.0,running,0.0,118.0
+1989,15,Volusia County,16.0,17.0,8.0,Bobby Hamilton,Lighting & Fans (Fil Martocci),Buick,198.0,1200.0,running,0.0,115.0
+1989,15,Volusia County,17.0,23.0,2.0,Kenny Burks,Parrish Masonry (J.C. Burks),Buick,198.0,1150.0,running,0.0,112.0
+1989,15,Volusia County,18.0,11.0,9.0,Steve Grissom,Texas Pete Sauces (Mike Swaim),Pontiac,197.0,1125.0,running,0.0,109.0
+1989,15,Volusia County,19.0,7.0,41.0,Max Prestwood,Tri-County Furniture (Max Prestwood),Oldsmobile,197.0,700.0,running,0.0,106.0
+1989,15,Volusia County,20.0,13.0,31.0,Lee Faulk,Slender You Figure Salons,Pontiac,191.0,680.0,running,0.0,103.0
+1989,15,Volusia County,21.0,24.0,80.0,Brandon Baker,Days Inn Special,Pontiac,190.0,670.0,running,0.0,100.0
+1989,15,Volusia County,22.0,26.0,89.0,Don Satterfield,Bishop Body Shop,Chevrolet,185.0,650.0,running,0.0,97.0
+1989,15,Volusia County,23.0,14.0,42.0,Elton Sawyer,Sawyer Racing (Bill Lewis),Chevrolet,155.0,1025.0,overheating,0.0,94.0
+1989,15,Volusia County,24.0,15.0,95.0,Larry Pollard,Kirby Racing (Kirby Pollard),Oldsmobile,120.0,600.0,crash,0.0,91.0
+1989,15,Volusia County,25.0,22.0,96.0,Tom Peck,Thomas Chevrolet (Mark Thomas),Oldsmobile,115.0,1075.0,crash,0.0,88.0
+1989,15,Volusia County,26.0,20.0,34.0,Jimmy Spencer,Cicci Racing (Frank Cicci),Buick,113.0,1710.0,crash,0.0,85.0
+1989,16,Myrtle Beach,1.0,20.0,34.0,Jimmy Spencer,Cicci Racing (Frank Cicci),Buick,200.0,11825.0,running,109.0,180.0
+1989,16,Myrtle Beach,2.0,16.0,11.0,Jack Ingram,Skoal (Jack Ingram),Chevrolet,200.0,6500.0,running,0.0,170.0
+1989,16,Myrtle Beach,3.0,25.0,8.0,Bobby Hamilton,Lighting & Fans (Fil Martocci),Buick,200.0,4350.0,running,0.0,165.0
+1989,16,Myrtle Beach,4.0,5.0,12.0,Jeff Burton,Burton Autosports (John Burton),Pontiac,200.0,3650.0,running,0.0,160.0
+1989,16,Myrtle Beach,5.0,18.0,42.0,Elton Sawyer,Sawyer Racing (Bill Lewis),Chevrolet,200.0,2900.0,running,0.0,155.0
+1989,16,Myrtle Beach,6.0,21.0,2.0,Kenny Burks,Parrish Masonry (J.C. Burks),Buick,200.0,2400.0,running,0.0,150.0
+1989,16,Myrtle Beach,7.0,2.0,25.0,Rob Moroso,Swisher Sweets (Dick Moroso),Oldsmobile,200.0,2550.0,running,91.0,146.0
+1989,16,Myrtle Beach,8.0,13.0,32.0,Robert Powell,Coca-Cola,Pontiac,200.0,1225.0,running,0.0,142.0
+1989,16,Myrtle Beach,9.0,14.0,99.0,Tommy Ellis,Goo Goo Clusters (John Jackson),Buick,200.0,2650.0,running,0.0,138.0
+1989,16,Myrtle Beach,10.0,8.0,96.0,Tom Peck,Thomas Chevrolet (Mark Thomas),Oldsmobile,199.0,1375.0,running,0.0,134.0
+1989,16,Myrtle Beach,11.0,9.0,56.0,Ronald Cooper,Speedway Waste Disposal (Lewis Cooper),Buick,199.0,2100.0,running,0.0,130.0
+1989,16,Myrtle Beach,12.0,31.0,79.0,Dave Rezendes,"K.R. Rezendes, Inc. (Dave Rezendes)",Oldsmobile,199.0,1325.0,running,0.0,127.0
+1989,16,Myrtle Beach,13.0,22.0,41.0,Max Prestwood,Custom Veneers (Max Prestwood),Oldsmobile,199.0,900.0,running,0.0,124.0
+1989,16,Myrtle Beach,14.0,28.0,70.0,Jimmy Hensley,Dirt Devil Vacuums (Dwight Huffman),Buick,198.0,880.0,running,0.0,121.0
+1989,16,Myrtle Beach,15.0,19.0,9.0,Steve Grissom,Texas Pete Sauces (Mike Swaim),Pontiac,198.0,1260.0,running,0.0,118.0
+1989,16,Myrtle Beach,16.0,29.0,31.0,Lee Faulk,Slender You Figure Salons,Pontiac,198.0,840.0,running,0.0,115.0
+1989,16,Myrtle Beach,17.0,1.0,22.0,Rick Mast,"Raven Boats (Alan Dillard, Jr.)",Buick,197.0,1970.0,running,0.0,112.0
+1989,16,Myrtle Beach,18.0,24.0,62.0,John Linville,Lemon's Auto Parts (John Linville),Oldsmobile,197.0,800.0,running,0.0,109.0
+1989,16,Myrtle Beach,19.0,26.0,35.0,Mike Porter,Porter Racing,Oldsmobile,194.0,780.0,running,0.0,106.0
+1989,16,Myrtle Beach,20.0,7.0,36.0,Kenny Wallace,Cox Treated Lumber (Rusty Wallace),Pontiac,193.0,1160.0,running,0.0,103.0
+1989,16,Myrtle Beach,21.0,27.0,59.0,Robert Pressley,Brad Daugherty (Brad Daugherty),Oldsmobile,162.0,1140.0,crash,0.0,100.0
+1989,16,Myrtle Beach,22.0,11.0,2.0,L.D. Ottinger,Detroit Gasket (Ron Parker),Pontiac,143.0,1120.0,running,0.0,97.0
+1989,16,Myrtle Beach,23.0,15.0,6.0,Tommy Houston,Southern Biscuit Flour (Steve Arndt),Buick,134.0,1850.0,engine,0.0,94.0
+1989,16,Myrtle Beach,24.0,10.0,30.0,Ronnie Silver,Post Cereals (Chuck Rider),Pontiac,119.0,1075.0,engine,0.0,91.0
+1989,16,Myrtle Beach,25.0,30.0,24.0,Joe Thurman,Thurman Enterprises (Marvin Thackston),Ford,111.0,1050.0,engine,0.0,88.0
+1989,16,Myrtle Beach,26.0,3.0,1.0,Mark Martin,Carolina Ford Dealers (Bill Davis),Ford,96.0,625.0,crash,0.0,85.0
+1989,16,Myrtle Beach,27.0,6.0,28.0,Davey Allison,Texaco Antifreeze (Davey Allison),Buick,74.0,600.0,crash,0.0,82.0
+1989,16,Myrtle Beach,28.0,12.0,63.0,Chuck Bown,Nescafe Classic (Hubert Hensley),Pontiac,53.0,1725.0,rear end,0.0,79.0
+1989,16,Myrtle Beach,29.0,23.0,47.0,Billy Standridge,Standridge Auto Parts (Billy Standridge),Pontiac,30.0,950.0,engine,0.0,76.0
+1989,16,Myrtle Beach,30.0,4.0,26.0,Brandon Baker,Southern Biscuit Flour,Buick,3.0,500.0,handling,0.0,73.0
+1989,16,Myrtle Beach,31.0,17.0,44.0,Bobby Labonte,Winner's Circle Auto Parts (Bob Labonte),Buick,3.0,500.0,crash,0.0,70.0
+1989,17,South Boston,1.0,26.0,6.0,Tommy Houston,Southern Biscuit Flour (Steve Arndt),Buick,200.0,9625.0,running,77.0,180.0
+1989,17,South Boston,2.0,3.0,99.0,Tommy Ellis,Goo Goo Clusters (John Jackson),Buick,200.0,5150.0,running,0.0,170.0
+1989,17,South Boston,3.0,1.0,63.0,Chuck Bown,Nescafe Classic (Hubert Hensley),Pontiac,200.0,4100.0,running,123.0,165.0
+1989,17,South Boston,4.0,5.0,2.0,L.D. Ottinger,Detroit Gasket (Ron Parker),Pontiac,200.0,2300.0,running,0.0,160.0
+1989,17,South Boston,5.0,2.0,25.0,Rob Moroso,Swisher Sweets (Dick Moroso),Oldsmobile,200.0,2600.0,running,0.0,155.0
+1989,17,South Boston,6.0,19.0,90.0,Larry Pearson,Giro-Flex (David Pearson),Buick,200.0,1200.0,running,0.0,0.0
+1989,17,South Boston,7.0,8.0,70.0,Jimmy Hensley,Huffman Racing (Dwight Huffman),Buick,200.0,1500.0,running,0.0,146.0
+1989,17,South Boston,8.0,7.0,56.0,Ronald Cooper,Speedway Waste Disposal (Lewis Cooper),Buick,200.0,2150.0,running,0.0,142.0
+1989,17,South Boston,9.0,4.0,36.0,Kenny Wallace,Cox Treated Lumber (Rusty Wallace),Pontiac,200.0,1375.0,running,0.0,138.0
+1989,17,South Boston,10.0,29.0,24.0,Joe Thurman,Thurman Enterprises (Marvin Thackston),Ford,200.0,1325.0,running,0.0,134.0
+1989,17,South Boston,11.0,28.0,47.0,Billy Standridge,Standridge Auto Parts (Billy Standridge),Pontiac,200.0,1275.0,running,0.0,130.0
+1989,17,South Boston,12.0,18.0,42.0,Elton Sawyer,Sawyer Racing (Bill Lewis),Chevrolet,199.0,1250.0,running,0.0,127.0
+1989,17,South Boston,13.0,20.0,79.0,Dave Rezendes,"K.R. Rezendes, Inc. (Dave Rezendes)",Oldsmobile,199.0,1225.0,running,0.0,124.0
+1989,17,South Boston,14.0,17.0,9.0,Steve Grissom,Texas Pete Sauces (Mike Swaim),Pontiac,199.0,1200.0,running,0.0,121.0
+1989,17,South Boston,15.0,25.0,11.0,Jack Ingram,Skoal (Jack Ingram),Chevrolet,199.0,1925.0,running,0.0,118.0
+1989,17,South Boston,16.0,23.0,8.0,Bobby Hamilton,Lighting & Fans (Fil Martocci),Buick,198.0,1150.0,running,0.0,115.0
+1989,17,South Boston,17.0,27.0,34.0,Jimmy Spencer,Cicci Racing (Frank Cicci),Buick,198.0,1875.0,running,0.0,112.0
+1989,17,South Boston,18.0,16.0,85.0,Bobby Moon,Moon Racing (Bobby Moon),Buick,198.0,700.0,running,0.0,109.0
+1989,17,South Boston,19.0,6.0,22.0,Rick Mast,"A.G. Dillard (Alan Dillard, Jr.)",Buick,197.0,1825.0,running,0.0,106.0
+1989,17,South Boston,20.0,24.0,96.0,Tom Peck,JLG Industries (Mark Thomas),Oldsmobile,197.0,1050.0,running,0.0,103.0
+1989,17,South Boston,21.0,11.0,5.0,Jay Fogleman,Winner's Circle Auto Parts (Sam Ard),Buick,196.0,625.0,running,0.0,100.0
+1989,17,South Boston,22.0,13.0,2.0,Kenny Burks,Parrish Masonry (J.C. Burks),Buick,174.0,1000.0,running,0.0,97.0
+1989,17,South Boston,23.0,12.0,12.0,Jeff Burton,Burton Autosports (John Burton),Pontiac,172.0,950.0,crash,0.0,94.0
+1989,17,South Boston,24.0,14.0,81.0,"Bobby Hillin, Jr.",Rose's Stores (Ted Conder),Buick,162.0,500.0,overheating,0.0,91.0
+1989,17,South Boston,25.0,21.0,62.0,John Linville,Lemon's Auto Parts (John Linville),Oldsmobile,160.0,500.0,crash,0.0,88.0
+1989,17,South Boston,26.0,9.0,59.0,Robert Pressley,Brad Daugherty (Brad Daugherty),Oldsmobile,128.0,900.0,rear end,0.0,85.0
+1989,17,South Boston,27.0,10.0,14.0,Wayne Patterson,"W.O. Grubb, Inc. (William Grubb)",Pontiac,123.0,500.0,transmission,0.0,82.0
+1989,17,South Boston,28.0,15.0,3.0,Dale Earnhardt,"GM Goodwrench (Dale Earnhardt, Inc.)",Chevrolet,48.0,500.0,overheating,0.0,79.0
+1989,17,South Boston,29.0,22.0,41.0,Max Prestwood,Custom Veneers (Max Prestwood),Oldsmobile,46.0,900.0,overheating,0.0,76.0
+1989,18,Hickory,1.0,4.0,99.0,Tommy Ellis,Goo Goo Clusters (John Jackson),Buick,200.0,10225.0,running,156.0,180.0
+1989,18,Hickory,2.0,19.0,34.0,Randy LaJoie,Cicci Racing (Frank Cicci),Buick,200.0,4175.0,running,0.0,0.0
+1989,18,Hickory,3.0,10.0,11.0,Jack Ingram,Skoal (Jack Ingram),Chevrolet,200.0,3350.0,running,0.0,165.0
+1989,18,Hickory,4.0,8.0,22.0,Rick Mast,"A.G. Dillard (Alan Dillard, Jr.)",Buick,200.0,2750.0,running,0.0,160.0
+1989,18,Hickory,5.0,11.0,6.0,Tommy Houston,Southern Biscuit Flour (Steve Arndt),Buick,200.0,2550.0,running,0.0,155.0
+1989,18,Hickory,6.0,1.0,70.0,Jimmy Hensley,Paramount Motors (Dwight Huffman),Buick,199.0,1900.0,running,3.0,150.0
+1989,18,Hickory,7.0,2.0,41.0,Max Prestwood,Paramount Motors (Max Prestwood),Oldsmobile,199.0,1500.0,running,41.0,146.0
+1989,18,Hickory,8.0,13.0,2.0,L.D. Ottinger,Detroit Gasket (Ron Parker),Pontiac,199.0,1400.0,running,0.0,142.0
+1989,18,Hickory,9.0,6.0,36.0,Kenny Wallace,Cox Treated Lumber (Rusty Wallace),Pontiac,199.0,1350.0,running,0.0,138.0
+1989,18,Hickory,10.0,17.0,32.0,Robert Powell,Coca-Cola,Pontiac,198.0,1300.0,running,0.0,134.0
+1989,18,Hickory,11.0,3.0,5.0,Jay Fogleman,Winner's Circle Auto Parts (Sam Ard),Buick,198.0,875.0,running,0.0,130.0
+1989,18,Hickory,12.0,7.0,56.0,Ronald Cooper,Caterpillar (Lewis Cooper),Buick,198.0,2000.0,running,0.0,127.0
+1989,18,Hickory,13.0,22.0,24.0,Joe Thurman,Thurman Enterprises (Marvin Thackston),Ford,198.0,1225.0,running,0.0,124.0
+1989,18,Hickory,14.0,5.0,59.0,Robert Pressley,Precision (Brad Daugherty),Oldsmobile,198.0,1200.0,running,0.0,121.0
+1989,18,Hickory,15.0,27.0,42.0,Elton Sawyer,Galaxy Food Centers (Bill Lewis),Chevrolet,198.0,1175.0,running,0.0,118.0
+1989,18,Hickory,16.0,24.0,9.0,Steve Grissom,Texas Pete Sauces (Mike Swaim),Pontiac,197.0,1150.0,running,0.0,115.0
+1989,18,Hickory,17.0,26.0,47.0,Billy Standridge,Standridge Auto Parts (Billy Standridge),Pontiac,197.0,1125.0,running,0.0,112.0
+1989,18,Hickory,18.0,20.0,96.0,Tom Peck,JLG Industries (Mark Thomas),Oldsmobile,196.0,1100.0,running,0.0,109.0
+1989,18,Hickory,19.0,28.0,79.0,Dave Rezendes,"K.R. Rezendes, Inc. (Dave Rezendes)",Oldsmobile,196.0,1075.0,running,0.0,106.0
+1989,18,Hickory,20.0,12.0,30.0,Ronnie Silver,Post Cereals (Chuck Rider),Pontiac,196.0,1050.0,running,0.0,103.0
+1989,18,Hickory,21.0,29.0,2.0,Kenny Burks,Parrish Masonry (J.C. Burks),Buick,196.0,1025.0,running,0.0,100.0
+1989,18,Hickory,22.0,14.0,62.0,John Linville,Lemon's Auto Parts (John Linville),Oldsmobile,196.0,1000.0,running,0.0,97.0
+1989,18,Hickory,23.0,23.0,95.0,Larry Pollard,Space Age Satellite (Kirby Pollard),Oldsmobile,195.0,950.0,running,0.0,94.0
+1989,18,Hickory,24.0,16.0,8.0,Bobby Hamilton,Lighting & Fans (Fil Martocci),Buick,194.0,900.0,running,0.0,91.0
+1989,18,Hickory,25.0,30.0,80.0,Brandon Baker,Days Inn Special,Pontiac,193.0,900.0,running,0.0,88.0
+1989,18,Hickory,26.0,25.0,12.0,Jeff Burton,Burton Autosports (John Burton),Pontiac,191.0,900.0,running,0.0,85.0
+1989,18,Hickory,27.0,31.0,89.0,Don Satterfield,Bishop Body Shop,Chevrolet,190.0,900.0,running,0.0,82.0
+1989,18,Hickory,28.0,9.0,25.0,Rob Moroso,Swisher Sweets (Dick Moroso),Oldsmobile,189.0,1650.0,crash,0.0,79.0
+1989,18,Hickory,29.0,18.0,63.0,Chuck Bown,Nescafe Classic (Hubert Hensley),Pontiac,105.0,1650.0,rear end,0.0,76.0
+1989,18,Hickory,30.0,15.0,16.0,David Green,31-W Insulation (Wayne Day),Oldsmobile,58.0,500.0,engine,0.0,0.0
+1989,18,Hickory,31.0,21.0,19.0,Eric Wilson,Wilson Racing,Oldsmobile,15.0,500.0,crash,0.0,70.0
+1989,19,Dublin,1.0,11.0,22.0,Rick Mast,"A.G. Dillard (Alan Dillard, Jr.)",Buick,200.0,11775.0,running,18.0,180.0
+1989,19,Dublin,2.0,4.0,63.0,Chuck Bown,Nescafe Classic (Hubert Hensley),Pontiac,200.0,6850.0,running,79.0,170.0
+1989,19,Dublin,3.0,12.0,9.0,Steve Grissom,Texas Pete Sauces (Mike Swaim),Pontiac,200.0,4500.0,running,0.0,165.0
+1989,19,Dublin,4.0,13.0,2.0,Kenny Burks,Parrish Masonry (J.C. Burks),Buick,200.0,3550.0,running,0.0,160.0
+1989,19,Dublin,5.0,10.0,2.0,L.D. Ottinger,Detroit Gasket (Ron Parker),Pontiac,200.0,3075.0,running,0.0,155.0
+1989,19,Dublin,6.0,21.0,8.0,Bobby Hamilton,Lighting & Fans (Fil Martocci),Buick,200.0,2500.0,running,0.0,150.0
+1989,19,Dublin,7.0,19.0,6.0,Tommy Houston,Southern Biscuit Flour (Steve Arndt),Buick,200.0,2750.0,running,0.0,146.0
+1989,19,Dublin,8.0,16.0,11.0,Jack Ingram,Skoal (Jack Ingram),Chevrolet,200.0,2500.0,running,27.0,142.0
+1989,19,Dublin,9.0,9.0,36.0,Kenny Wallace,Cox Treated Lumber (Rusty Wallace),Pontiac,199.0,1575.0,running,0.0,138.0
+1989,19,Dublin,10.0,20.0,59.0,Robert Pressley,Precision Tune (Brad Daugherty),Oldsmobile,199.0,1500.0,running,0.0,134.0
+1989,19,Dublin,11.0,18.0,96.0,Tom Peck,JLG Industries (Mark Thomas),Oldsmobile,199.0,1475.0,running,0.0,130.0
+1989,19,Dublin,12.0,2.0,99.0,Tommy Ellis,Goo Goo Clusters (John Jackson),Buick,199.0,2700.0,running,32.0,127.0
+1989,19,Dublin,13.0,1.0,25.0,Rob Moroso,Swisher Sweets (Dick Moroso),Oldsmobile,198.0,2475.0,running,44.0,124.0
+1989,19,Dublin,14.0,27.0,41.0,Max Prestwood,Custom Veneers (Max Prestwood),Oldsmobile,198.0,1735.0,running,0.0,121.0
+1989,19,Dublin,15.0,5.0,34.0,Randy LaJoie,Cicci Racing (Frank Cicci),Buick,198.0,965.0,running,0.0,118.0
+1989,19,Dublin,16.0,17.0,66.0,"Donny Ling, Jr.","Just Say No (Don Ling, Sr.)",Oldsmobile,198.0,950.0,running,0.0,115.0
+1989,19,Dublin,17.0,15.0,90.0,Davey Johnson,Daily's Fruit Juice (David Pearson),Buick,197.0,1325.0,running,0.0,112.0
+1989,19,Dublin,18.0,7.0,70.0,Jimmy Hensley,Huffman Racing (Dwight Huffman),Buick,197.0,1400.0,running,0.0,109.0
+1989,19,Dublin,19.0,8.0,35.0,Mike Porter,Fred & Jack's Salvage,Oldsmobile,195.0,900.0,running,0.0,106.0
+1989,19,Dublin,20.0,23.0,79.0,Dave Rezendes,"K.R. Rezendes, Inc. (Dave Rezendes)",Oldsmobile,190.0,1250.0,running,0.0,103.0
+1989,19,Dublin,21.0,25.0,47.0,Billy Standridge,Standridge Auto Parts (Billy Standridge),Pontiac,185.0,1200.0,running,0.0,100.0
+1989,19,Dublin,22.0,24.0,62.0,John Linville,Linville Racing (John Linville),Oldsmobile,184.0,1150.0,running,0.0,97.0
+1989,19,Dublin,23.0,6.0,5.0,Jay Fogleman,Winner's Circle Auto Parts (Sam Ard),Buick,160.0,1125.0,crash,0.0,94.0
+1989,19,Dublin,24.0,22.0,42.0,Elton Sawyer,Sawyer Racing (Bill Lewis),Chevrolet,137.0,1100.0,engine,0.0,91.0
+1989,19,Dublin,25.0,26.0,24.0,Joe Thurman,Thurman Enterprises (Marvin Thackston),Ford,117.0,1100.0,engine,0.0,88.0
+1989,19,Dublin,26.0,14.0,12.0,Jeff Burton,Burton Autosports (John Burton),Pontiac,82.0,1100.0,crash,0.0,85.0
+1989,19,Dublin,27.0,3.0,56.0,Ronald Cooper,Speedway Waste Disposal (Lewis Cooper),Buick,62.0,1850.0,engine,0.0,82.0
+1989,19,Dublin,28.0,28.0,69.0,Jeff Spraker,Highlands Suite Hotel (Jeff Spraker),Oldsmobile,52.0,700.0,engine,0.0,79.0
+1989,20,IRP,1.0,1.0,30.0,Michael Waltrip,Country Time Lemonade (Chuck Rider),Pontiac,200.0,12225.0,running,24.0,180.0
+1989,20,IRP,2.0,4.0,1.0,Mark Martin,Carolina Ford Dealers (Bill Davis),Ford,200.0,5100.0,running,20.0,170.0
+1989,20,IRP,3.0,22.0,6.0,Tommy Houston,Southern Biscuit Flour (Steve Arndt),Buick,200.0,5950.0,running,58.0,165.0
+1989,20,IRP,4.0,27.0,86.0,Dana Patten,U.S. Chrome (Dana Patten),Buick,200.0,2200.0,running,0.0,160.0
+1989,20,IRP,5.0,19.0,3.0,Dale Earnhardt,"GM Goodwrench (Dale Earnhardt, Inc.)",Chevrolet,200.0,2500.0,running,0.0,155.0
+1989,20,IRP,6.0,14.0,9.0,Steve Grissom,Texas Pete Sauces (Mike Swaim),Pontiac,200.0,2150.0,running,0.0,150.0
+1989,20,IRP,7.0,3.0,2.0,L.D. Ottinger,Detroit Gasket (Ron Parker),Pontiac,199.0,3500.0,running,25.0,146.0
+1989,20,IRP,8.0,2.0,63.0,Chuck Bown,Nescafe Classic (Hubert Hensley),Pontiac,199.0,3350.0,running,73.0,142.0
+1989,20,IRP,9.0,18.0,96.0,Tom Peck,Thomas Chevrolet (Mark Thomas),Oldsmobile,199.0,1800.0,running,0.0,138.0
+1989,20,IRP,10.0,7.0,90.0,Morgan Shepherd,Daily's Fruit Juice (David Pearson),Buick,199.0,1200.0,running,0.0,134.0
+1989,20,IRP,11.0,9.0,56.0,Ronald Cooper,Speedway Waste Disposal (Lewis Cooper),Buick,199.0,2850.0,running,0.0,130.0
+1989,20,IRP,12.0,21.0,34.0,Randy LaJoie,Cicci Racing (Frank Cicci),Buick,199.0,2500.0,running,0.0,127.0
+1989,20,IRP,13.0,12.0,36.0,Kenny Wallace,Cox Treated Lumber (Rusty Wallace),Pontiac,199.0,1475.0,running,0.0,124.0
+1989,20,IRP,14.0,8.0,25.0,Rob Moroso,Swisher Sweets (Dick Moroso),Oldsmobile,198.0,2700.0,running,0.0,121.0
+1989,20,IRP,15.0,11.0,99.0,Tommy Ellis,Goo Goo Clusters (John Jackson),Buick,198.0,3425.0,running,0.0,118.0
+1989,20,IRP,16.0,36.0,12.0,Jeff Burton,Burton Autosports (John Burton),Pontiac,198.0,1400.0,running,0.0,115.0
+1989,20,IRP,17.0,20.0,8.0,Bobby Hamilton,Lighting & Fans (Fil Martocci),Buick,198.0,1380.0,running,0.0,112.0
+1989,20,IRP,18.0,23.0,42.0,Elton Sawyer,Sawyer Racing (Bill Lewis),Chevrolet,198.0,1575.0,running,0.0,109.0
+1989,20,IRP,19.0,24.0,11.0,Jack Ingram,Skoal (Jack Ingram),Chevrolet,197.0,2600.0,running,0.0,106.0
+1989,20,IRP,20.0,28.0,98.0,Ron Lamell,Lamell Lumber (Ron Lamell),Buick,197.0,1540.0,running,0.0,103.0
+1989,20,IRP,21.0,36.0,24.0,Joe Thurman,Thurman Enterprises (Marvin Thackston),Ford,197.0,1320.0,running,0.0,100.0
+1989,20,IRP,22.0,32.0,62.0,John Linville,Linville Racing (John Linville),Oldsmobile,196.0,1510.0,running,0.0,97.0
+1989,20,IRP,23.0,33.0,80.0,Brandon Baker,Days Inn Special,Pontiac,196.0,1500.0,running,0.0,94.0
+1989,20,IRP,24.0,13.0,41.0,Jamie Aube,Mountain Racing (Allen Avery),Buick,189.0,2045.0,running,0.0,91.0
+1989,20,IRP,25.0,10.0,47.0,Billy Standridge,Standridge Auto Parts (Billy Standridge),Pontiac,158.0,1290.0,running,0.0,88.0
+1989,20,IRP,26.0,17.0,70.0,Jimmy Hensley,Huffman Racing (Dwight Huffman),Buick,147.0,1285.0,engine,0.0,85.0
+1989,20,IRP,27.0,29.0,1.0,Joey Kourafas,CRS Racing (Harry Franssen),Pontiac,135.0,1480.0,engine,0.0,82.0
+1989,20,IRP,28.0,5.0,79.0,Dave Rezendes,"K.R. Rezendes, Inc. (Dave Rezendes)",Oldsmobile,134.0,1275.0,engine,0.0,79.0
+1989,20,IRP,29.0,6.0,28.0,Davey Allison,Texaco Antifreeze (Davey Allison),Buick,115.0,775.0,overheating,0.0,76.0
+1989,20,IRP,30.0,15.0,59.0,Robert Pressley,Brad Daugherty (Brad Daugherty),Oldsmobile,115.0,1275.0,engine,0.0,73.0
+1989,20,IRP,31.0,16.0,52.0,Ken Schrader,Red Baron Frozen Pizza (Ken Schrader),Chevrolet,106.0,775.0,overheating,0.0,70.0
+1989,20,IRP,32.0,34.0,17.0,Darrell Waltrip,Exxon Superflo (Darrell Waltrip),Chevrolet,61.0,1025.0,overheating,0.0,67.0
+1989,20,IRP,33.0,31.0,69.0,Jeff Spraker,Highlands Suite Hotel (Jeff Spraker),Oldsmobile,51.0,1475.0,engine,0.0,64.0
+1989,20,IRP,34.0,30.0,19.0,Joe Bessey,Labrecque Construction (Joe Bessey),Pontiac,50.0,1475.0,crash,0.0,61.0
+1989,20,IRP,35.0,25.0,22.0,Rick Mast,"A.G. Dillard (Alan Dillard, Jr.)",Buick,6.0,2725.0,ignition,0.0,58.0
+1989,20,IRP,36.0,35.0,81.0,"Bobby Hillin, Jr.",Rose's Stores (Ted Conder),Buick,5.0,775.0,engine,0.0,55.0
+1989,21,Rougemont,1.0,7.0,59.0,Robert Pressley,Brad Daugherty (Brad Daugherty),Oldsmobile,200.0,8725.0,running,108.0,180.0
+1989,21,Rougemont,2.0,21.0,6.0,Tommy Houston,Southern Biscuit Flour (Steve Arndt),Buick,200.0,4650.0,running,0.0,170.0
+1989,21,Rougemont,3.0,10.0,99.0,Tommy Ellis,Goo Goo Clusters (John Jackson),Buick,200.0,4050.0,running,3.0,165.0
+1989,21,Rougemont,4.0,8.0,22.0,Rick Mast,"A.G. Dillard (Alan Dillard, Jr.)",Buick,200.0,3050.0,running,16.0,160.0
+1989,21,Rougemont,5.0,22.0,30.0,Ronnie Silver,Country Time Lemonade (Chuck Rider),Pontiac,200.0,1850.0,running,0.0,155.0
+1989,21,Rougemont,6.0,23.0,2.0,L.D. Ottinger,Detroit Gasket (Ron Parker),Pontiac,200.0,1600.0,running,0.0,150.0
+1989,21,Rougemont,7.0,4.0,12.0,Jeff Burton,Burton Autosports (John Burton),Pontiac,199.0,1500.0,running,0.0,146.0
+1989,21,Rougemont,8.0,24.0,14.0,Wayne Patterson,"W.O. Grubb, Inc. (William Grubb)",Pontiac,199.0,1000.0,running,0.0,142.0
+1989,21,Rougemont,9.0,25.0,96.0,Tom Peck,Thomas Chevrolet (Mark Thomas),Oldsmobile,199.0,1375.0,running,0.0,138.0
+1989,21,Rougemont,10.0,27.0,90.0,Davey Johnson,Daily's Fruit Juice (David Pearson),Buick,199.0,925.0,running,0.0,134.0
+1989,21,Rougemont,11.0,13.0,36.0,Kenny Wallace,Cox Treated Lumber (Rusty Wallace),Pontiac,199.0,1275.0,running,0.0,130.0
+1989,21,Rougemont,12.0,6.0,9.0,Steve Grissom,Texas Pete Sauces (Mike Swaim),Pontiac,198.0,1250.0,running,0.0,127.0
+1989,21,Rougemont,13.0,29.0,79.0,Dave Rezendes,"K.R. Rezendes, Inc. (Dave Rezendes)",Oldsmobile,198.0,1225.0,running,0.0,124.0
+1989,21,Rougemont,14.0,16.0,70.0,Jimmy Hensley,Huffman Racing (Dwight Huffman),Buick,197.0,1250.0,running,0.0,121.0
+1989,21,Rougemont,15.0,3.0,63.0,Chuck Bown,Nescafe Classic (Hubert Hensley),Pontiac,197.0,1925.0,running,0.0,118.0
+1989,21,Rougemont,16.0,1.0,25.0,Rob Moroso,Swisher Sweets (Dick Moroso),Oldsmobile,197.0,2200.0,running,22.0,115.0
+1989,21,Rougemont,17.0,15.0,42.0,Elton Sawyer,Sawyer Racing (Bill Lewis),Chevrolet,197.0,1125.0,running,0.0,112.0
+1989,21,Rougemont,18.0,2.0,5.0,Jay Fogleman,Winner's Circle Auto Parts (Sam Ard),Buick,197.0,1100.0,running,51.0,109.0
+1989,21,Rougemont,19.0,28.0,24.0,Joe Thurman,Thurman Enterprises (Marvin Thackston),Ford,197.0,1075.0,running,0.0,106.0
+1989,21,Rougemont,20.0,14.0,47.0,Billy Standridge,Standridge Auto Parts (Billy Standridge),Pontiac,195.0,1050.0,running,0.0,103.0
+1989,21,Rougemont,21.0,11.0,56.0,Ronald Cooper,Speedway Waste Disposal (Lewis Cooper),Buick,193.0,1775.0,running,0.0,100.0
+1989,21,Rougemont,22.0,26.0,66.0,"Donny Ling, Jr.","Just Say No (Don Ling, Sr.)",Oldsmobile,190.0,600.0,running,0.0,97.0
+1989,21,Rougemont,23.0,19.0,8.0,Bobby Hamilton,Lighting & Fans (Fil Martocci),Buick,189.0,950.0,running,0.0,94.0
+1989,21,Rougemont,24.0,9.0,85.0,Bobby Moon,Moon Racing (Bobby Moon),Buick,163.0,500.0,engine,0.0,91.0
+1989,21,Rougemont,25.0,12.0,34.0,Randy LaJoie,Cicci Racing (Frank Cicci),Buick,131.0,1250.0,crash,0.0,88.0
+1989,21,Rougemont,26.0,17.0,19.0,Eric Wilson,Wilson Racing,Oldsmobile,92.0,500.0,crash,0.0,85.0
+1989,21,Rougemont,27.0,5.0,2.0,Kenny Burks,Parrish Masonry (J.C. Burks),Buick,80.0,900.0,engine,0.0,82.0
+1989,21,Rougemont,28.0,20.0,11.0,Jack Ingram,Skoal (Jack Ingram),Chevrolet,65.0,1650.0,crash,0.0,79.0
+1989,21,Rougemont,29.0,18.0,6.0,Todd Cray,Cray Racing (Barry Cray),Buick,33.0,500.0,crash,0.0,76.0
+1989,21,Rougemont,30.0,30.0,41.0,Max Prestwood,Custom Veneers (Max Prestwood),Oldsmobile,29.0,900.0,engine,0.0,73.0
+1989,22,Bristol,1.0,8.0,1.0,Mark Martin,Carolina Ford Dealers (Bill Davis),Ford,200.0,12450.0,running,97.0,180.0
+1989,22,Bristol,2.0,7.0,2.0,L.D. Ottinger,Detroit Gasket (Ron Parker),Pontiac,200.0,8425.0,running,1.0,170.0
+1989,22,Bristol,3.0,14.0,22.0,Rick Mast,"Raven Boats (Alan Dillard, Jr.)",Buick,200.0,5650.0,running,0.0,165.0
+1989,22,Bristol,4.0,11.0,32.0,Dale Jarrett,Nestle Crunch (Horace Isenhower),Pontiac,200.0,3100.0,running,0.0,160.0
+1989,22,Bristol,5.0,9.0,3.0,Dale Earnhardt,"GM Goodwrench (Dale Earnhardt, Inc.)",Chevrolet,200.0,2400.0,running,0.0,155.0
+1989,22,Bristol,6.0,5.0,87.0,Jimmy Spencer,Lowe's Foods (Buddy Baker / Danny Schiff),Pontiac,200.0,1700.0,running,0.0,150.0
+1989,22,Bristol,7.0,21.0,2.0,Kenny Burks,Parrish Masonry (J.C. Burks),Buick,199.0,3375.0,running,0.0,146.0
+1989,22,Bristol,8.0,2.0,99.0,Tommy Ellis,Goo Goo Clusters (John Jackson),Buick,198.0,4975.0,running,0.0,142.0
+1989,22,Bristol,9.0,12.0,36.0,Kenny Wallace,Cox Treated Lumber (Rusty Wallace),Pontiac,198.0,2825.0,running,0.0,138.0
+1989,22,Bristol,10.0,16.0,6.0,Tommy Houston,Southern Biscuit Flour (Steve Arndt),Buick,198.0,3925.0,running,0.0,134.0
+1989,22,Bristol,11.0,15.0,34.0,Randy LaJoie,Cicci Racing (Frank Cicci),Buick,198.0,2975.0,running,0.0,130.0
+1989,22,Bristol,12.0,26.0,11.0,Jack Ingram,Skoal (Jack Ingram),Chevrolet,198.0,3625.0,running,0.0,127.0
+1989,22,Bristol,13.0,22.0,47.0,Billy Standridge,Standridge Auto Parts (Billy Standridge),Pontiac,198.0,2250.0,running,0.0,124.0
+1989,22,Bristol,14.0,3.0,28.0,Davey Allison,Havoline Antifreeze (Davey Allison),Buick,197.0,950.0,crash,27.0,121.0
+1989,22,Bristol,15.0,6.0,70.0,Jimmy Hensley,Huffman Racing (Dwight Huffman),Buick,197.0,2100.0,running,0.0,118.0
+1989,22,Bristol,16.0,18.0,96.0,Tom Peck,Thomas Chevrolet (Mark Thomas),Oldsmobile,197.0,1975.0,running,0.0,115.0
+1989,22,Bristol,17.0,24.0,24.0,Joe Thurman,Thurman Enterprises (Marvin Thackston),Ford,197.0,1900.0,running,0.0,112.0
+1989,22,Bristol,18.0,19.0,56.0,Ronald Cooper,Speedway Waste Disposal (Lewis Cooper),Buick,196.0,3100.0,running,0.0,109.0
+1989,22,Bristol,19.0,25.0,79.0,Dave Rezendes,"K.R. Rezendes, Inc. (Dave Rezendes)",Oldsmobile,194.0,1800.0,running,0.0,106.0
+1989,22,Bristol,20.0,28.0,59.0,Robert Pressley,Brad Daugherty (Brad Daugherty),Oldsmobile,194.0,1750.0,running,0.0,103.0
+1989,22,Bristol,21.0,31.0,9.0,Steve Grissom,Texas Pete Sauces (Mike Swaim),Pontiac,191.0,1725.0,running,0.0,100.0
+1989,22,Bristol,22.0,10.0,25.0,Rob Moroso,Swisher Sweets (Dick Moroso),Oldsmobile,185.0,2960.0,running,0.0,97.0
+1989,22,Bristol,23.0,13.0,63.0,Chuck Bown,Nescafe Classic (Hubert Hensley),Pontiac,173.0,2615.0,crash,0.0,94.0
+1989,22,Bristol,24.0,17.0,8.0,Bobby Hamilton,Lighting & Fans (Fil Martocci),Oldsmobile,155.0,1345.0,engine,0.0,91.0
+1989,22,Bristol,25.0,27.0,30.0,Michael Waltrip,Post Cereals (Chuck Rider),Pontiac,147.0,710.0,crash,0.0,88.0
+1989,22,Bristol,26.0,20.0,72.0,Rusty Wallace,Cox Treated Lumber (Raymond Beadle),Pontiac,108.0,700.0,engine,0.0,0.0
+1989,22,Bristol,27.0,1.0,90.0,Morgan Shepherd,Daily's Fruit Juice (David Pearson),Buick,107.0,980.0,handling,54.0,82.0
+1989,22,Bristol,28.0,4.0,7.0,Harry Gant,Whitaker Racing (Ed Whitaker),Buick,101.0,910.0,crash,21.0,79.0
+1989,22,Bristol,29.0,29.0,45.0,Patty Moise,Amway (Patty Moise),Buick,68.0,1275.0,engine,0.0,76.0
+1989,22,Bristol,30.0,23.0,75.0,Rick Wilson,Food Country USA (Charlie Henderson),Oldsmobile,66.0,635.0,engine,0.0,73.0
+1989,22,Bristol,31.0,30.0,12.0,Jeff Burton,Westside Beverage (John Burton),Pontiac,29.0,1260.0,engine,0.0,70.0
+1989,23,Darlington,1.0,3.0,7.0,Harry Gant,Detroit Gasket (Ed Whitaker),Buick,147.0,13675.0,running,28.0,180.0
+1989,23,Darlington,2.0,20.0,55.0,Phil Parsons,Fast Fare Stores / Skoal (Don Beverley),Oldsmobile,147.0,6250.0,running,0.0,170.0
+1989,23,Darlington,3.0,25.0,1.0,Jack Pennington,Sandlapper Fabrics / Springstein Properties (Derick Close),Buick,147.0,5000.0,running,0.0,165.0
+1989,23,Darlington,4.0,2.0,3.0,Dale Earnhardt,"GM Goodwrench (Dale Earnhardt, Inc.)",Chevrolet,147.0,3225.0,running,105.0,160.0
+1989,23,Darlington,5.0,10.0,96.0,Tom Peck,Akzo / Sikken's Car Refinishes (Mark Thomas),Oldsmobile,147.0,5350.0,running,0.0,155.0
+1989,23,Darlington,6.0,17.0,99.0,Tommy Ellis,Goo Goo Clusters (John Jackson),Buick,147.0,6900.0,running,0.0,150.0
+1989,23,Darlington,7.0,5.0,44.0,Bobby Labonte,Winner's Circle Auto Parts (Bob Labonte),Buick,147.0,2400.0,running,0.0,146.0
+1989,23,Darlington,8.0,19.0,2.0,L.D. Ottinger,Detroit Gasket (Ron Parker),Pontiac,147.0,3400.0,running,0.0,142.0
+1989,23,Darlington,9.0,15.0,4.0,Ed Berrier,Asheboro Redi-Mix (Roy Hill),Buick,147.0,2100.0,running,0.0,138.0
+1989,23,Darlington,10.0,30.0,92.0,Jimmy Means,Custom Veneers (Mac Martin),Pontiac,147.0,1300.0,running,0.0,134.0
+1989,23,Darlington,11.0,12.0,56.0,Ronald Cooper,Blanchard Caterpillar (Lewis Cooper),Buick,147.0,4675.0,running,0.0,130.0
+1989,23,Darlington,12.0,11.0,25.0,Rob Moroso,Swisher Sweets (Dick Moroso),Oldsmobile,146.0,4475.0,running,0.0,127.0
+1989,23,Darlington,13.0,33.0,79.0,Dave Rezendes,"K.R. Rezendes, Inc. (Dave Rezendes)",Oldsmobile,145.0,2550.0,running,0.0,124.0
+1989,23,Darlington,14.0,27.0,11.0,Jack Ingram,Skoal (Jack Ingram),Chevrolet,145.0,4125.0,running,0.0,121.0
+1989,23,Darlington,15.0,35.0,47.0,Billy Standridge,Standridge Auto Parts (Billy Standridge),Pontiac,145.0,2325.0,running,0.0,118.0
+1989,23,Darlington,16.0,34.0,52.0,Jimmy Horton,Red Baron Frozen Pizza (Ken Schrader),Chevrolet,144.0,900.0,running,0.0,0.0
+1989,23,Darlington,17.0,39.0,6.0,Tommy Houston,Southern Biscuit Flour (Steve Arndt),Buick,143.0,3875.0,running,0.0,112.0
+1989,23,Darlington,18.0,21.0,34.0,Randy LaJoie,Cicci Racing (Frank Cicci),Buick,143.0,3800.0,running,0.0,109.0
+1989,23,Darlington,19.0,36.0,80.0,Brandon Baker,Days Inn Special,Pontiac,143.0,1425.0,running,0.0,106.0
+1989,23,Darlington,20.0,14.0,5.0,Jay Fogleman,Ard Motorsports (Sam Ard),Buick,143.0,1400.0,running,0.0,103.0
+1989,23,Darlington,21.0,24.0,88.0,Curtis Markham,Service Specialties (Ken Curley),Buick,143.0,1375.0,running,0.0,100.0
+1989,23,Darlington,22.0,29.0,36.0,Kenny Wallace,Cox Treated Lumber (Rusty Wallace),Pontiac,139.0,1900.0,running,0.0,97.0
+1989,23,Darlington,23.0,9.0,30.0,Michael Waltrip,Post Cereals (Chuck Rider),Pontiac,138.0,975.0,engine,0.0,94.0
+1989,23,Darlington,24.0,4.0,22.0,Rick Mast,"A.G. Dillard (Alan Dillard, Jr.)",Buick,137.0,2650.0,running,4.0,91.0
+1989,23,Darlington,25.0,37.0,12.0,Jeff Burton,Burton Autosports (John Burton),Pontiac,134.0,1775.0,running,0.0,88.0
+1989,23,Darlington,26.0,22.0,9.0,Steve Grissom,Texas Pete Sauces (Mike Swaim),Pontiac,131.0,1700.0,running,1.0,85.0
+1989,23,Darlington,27.0,40.0,8.0,Bobby Hamilton,Lighting & Fans / Filmar Racing (Fil Martocci),Buick,124.0,1670.0,crash,0.0,82.0
+1989,23,Darlington,28.0,41.0,24.0,Joe Thurman,Thurman Enterprises (Marvin Thackston),Ford,123.0,1640.0,running,0.0,79.0
+1989,23,Darlington,29.0,6.0,28.0,Davey Allison,Havoline Antifreeze (Davey Allison),Ford,112.0,635.0,oil leak,9.0,76.0
+1989,23,Darlington,30.0,31.0,45.0,Patty Moise,Amway Freedom (Patty Moise),Buick,112.0,1230.0,running,0.0,73.0
+1989,23,Darlington,31.0,38.0,13.0,Randy Baker,Banquet Foods,Pontiac,95.0,625.0,engine,0.0,70.0
+1989,23,Darlington,32.0,42.0,89.0,Don Satterfield,Bishop Body Shop,Chevrolet,93.0,1220.0,handling,0.0,67.0
+1989,23,Darlington,33.0,13.0,81.0,"Bobby Hillin, Jr.",Rose's Stores (Ted Conder),Buick,90.0,615.0,engine,0.0,64.0
+1989,23,Darlington,34.0,7.0,75.0,Rick Wilson,Food Country USA (Charlie Henderson),Oldsmobile,69.0,610.0,engine,0.0,61.0
+1989,23,Darlington,35.0,1.0,15.0,Ken Schrader,Levi Garrett / Bi-Lo (Rick Hendrick),Chevrolet,54.0,905.0,engine,0.0,58.0
+1989,23,Darlington,36.0,23.0,63.0,Chuck Bown,Nescafe Classic (Hubert Hensley),Pontiac,53.0,2950.0,engine,0.0,55.0
+1989,23,Darlington,37.0,18.0,87.0,Jimmy Spencer,Lowe's Foods (Buddy Baker / Danny Schiff),Pontiac,21.0,600.0,engine,0.0,52.0
+1989,23,Darlington,38.0,28.0,97.0,Morgan Shepherd,Valvoline (Morgan Shepherd),Pontiac,18.0,600.0,oil leak,0.0,49.0
+1989,23,Darlington,39.0,32.0,48.0,Sterling Marlin,Motorsports Designs (Billy Hagan),Oldsmobile,17.0,575.0,oil leak,0.0,46.0
+1989,23,Darlington,40.0,16.0,32.0,Dale Jarrett,Nestle Crunch (Horace Isenhower),Pontiac,14.0,575.0,engine,0.0,43.0
+1989,23,Darlington,41.0,26.0,72.0,Rusty Wallace,Kodiak (Raymond Beadle),Pontiac,12.0,575.0,ignition,0.0,0.0
+1989,23,Darlington,42.0,8.0,1.0,Mark Martin,Carolina Ford Dealers (Bill Davis),Ford,7.0,575.0,crash,0.0,37.0
+1989,24,Richmond,1.0,29.0,8.0,Bobby Hamilton,Lighting & Fans (Fil Martocci),Oldsmobile,200.0,13095.0,running,30.0,180.0
+1989,24,Richmond,2.0,1.0,99.0,Tommy Ellis,Goo Goo Clusters (John Jackson),Buick,200.0,8495.0,running,43.0,170.0
+1989,24,Richmond,3.0,15.0,36.0,Kenny Wallace,Cox Treated Lumber (Rusty Wallace),Pontiac,200.0,4695.0,running,0.0,165.0
+1989,24,Richmond,4.0,3.0,25.0,Rob Moroso,Swisher Sweets (Dick Moroso),Oldsmobile,200.0,4995.0,running,0.0,160.0
+1989,24,Richmond,5.0,14.0,3.0,Dale Earnhardt,"GM Goodwrench (Dale Earnhardt, Inc.)",Chevrolet,200.0,2125.0,running,0.0,155.0
+1989,24,Richmond,6.0,8.0,11.0,Jack Ingram,Skoal (Jack Ingram),Chevrolet,200.0,4020.0,running,0.0,150.0
+1989,24,Richmond,7.0,25.0,6.0,Tommy Houston,Southern Biscuit Flour (Steve Arndt),Buick,200.0,3870.0,running,0.0,146.0
+1989,24,Richmond,8.0,11.0,1.0,Mark Martin,Carolina Ford Dealers (Bill Davis),Ford,199.0,1425.0,running,78.0,142.0
+1989,24,Richmond,9.0,26.0,2.0,L.D. Ottinger,Detroit Gasket (Ron Parker),Pontiac,199.0,2395.0,running,0.0,138.0
+1989,24,Richmond,10.0,27.0,81.0,"Bobby Hillin, Jr.",Rose's Stores (Ted Conder),Buick,199.0,1270.0,running,0.0,134.0
+1989,24,Richmond,11.0,32.0,34.0,Randy LaJoie,Cicci Racing (Frank Cicci),Buick,199.0,2870.0,running,0.0,130.0
+1989,24,Richmond,12.0,17.0,79.0,Dave Rezendes,"K.R. Rezendes, Inc. (Dave Rezendes)",Oldsmobile,199.0,2090.0,running,0.0,127.0
+1989,24,Richmond,13.0,21.0,70.0,Jimmy Hensley,Huffman Racing (Dwight Huffman),Buick,199.0,2025.0,running,0.0,124.0
+1989,24,Richmond,14.0,28.0,59.0,Robert Pressley,Brad Daugherty (Brad Daugherty),Oldsmobile,199.0,1800.0,running,0.0,121.0
+1989,24,Richmond,15.0,2.0,30.0,Michael Waltrip,Post Cereals (Chuck Rider),Pontiac,199.0,1070.0,running,0.0,118.0
+1989,24,Richmond,16.0,23.0,24.0,Joe Thurman,Thurman Enterprises (Marvin Thackston),Ford,198.0,1695.0,running,0.0,115.0
+1989,24,Richmond,17.0,19.0,14.0,Wayne Patterson,"W.O. Grubb, Inc. (William Grubb)",Pontiac,196.0,950.0,running,0.0,112.0
+1989,24,Richmond,18.0,34.0,71.0,Billy Clark,Skoal (Quint Boisvert),Pontiac,196.0,2130.0,running,0.0,109.0
+1989,24,Richmond,19.0,31.0,86.0,Dana Patten,U.S. Chrome (Dana Patten),Buick,193.0,2040.0,running,0.0,106.0
+1989,24,Richmond,20.0,24.0,41.0,Jamie Aube,Mountain Racing (Allen Avery),Buick,192.0,2705.0,running,0.0,103.0
+1989,24,Richmond,21.0,33.0,56.0,Ronald Cooper,Speedway Waste Disposal (Lewis Cooper),Buick,184.0,2730.0,engine,0.0,100.0
+1989,24,Richmond,22.0,35.0,19.0,Steve Grissom,Texas Pete Sauces (Mike Swaim),Pontiac,182.0,1455.0,running,0.0,97.0
+1989,24,Richmond,23.0,20.0,2.0,Kenny Burks,Parrish Masonry (J.C. Burks),Buick,172.0,1445.0,rear end,0.0,94.0
+1989,24,Richmond,24.0,6.0,75.0,Rick Wilson,Food Country USA (Charlie Henderson),Oldsmobile,171.0,975.0,crash,34.0,91.0
+1989,24,Richmond,25.0,10.0,7.0,Harry Gant,Detroit Gasket (Ed Whitaker),Buick,171.0,690.0,crash,15.0,88.0
+1989,24,Richmond,26.0,36.0,0.0,Dick McCabe,Hi-Torque Engines (Dick McCabe),Buick,152.0,1765.0,ignition,0.0,85.0
+1989,24,Richmond,27.0,13.0,22.0,Rick Mast,"A.G. Dillard (Alan Dillard, Jr.)",Buick,151.0,1900.0,running,0.0,82.0
+1989,24,Richmond,28.0,4.0,17.0,Darrell Waltrip,Exxon Superflo (Darrell Waltrip),Chevrolet,150.0,625.0,engine,0.0,79.0
+1989,24,Richmond,29.0,16.0,96.0,Tom Peck,Thomas Chevrolet (Mark Thomas),Oldsmobile,147.0,1315.0,crash,0.0,76.0
+1989,24,Richmond,30.0,9.0,9.0,Joe Bessey,Cola Transport (Joe Bessey),Pontiac,142.0,1660.0,crash,0.0,73.0
+1989,24,Richmond,31.0,22.0,66.0,"Donny Ling, Jr.","Just Say No (Don Ling, Sr.)",Oldsmobile,142.0,610.0,crash,0.0,70.0
+1989,24,Richmond,32.0,5.0,28.0,Davey Allison,Havoline Antifreeze (Davey Allison),Ford,121.0,600.0,brakes,0.0,67.0
+1989,24,Richmond,33.0,18.0,74.0,Kelly Moore,Jordan Lumber (Richard Moore),Chevrolet,84.0,1640.0,crash,0.0,64.0
+1989,24,Richmond,34.0,7.0,63.0,Chuck Bown,Nescafe Classic (Hubert Hensley),Pontiac,74.0,2545.0,transmission,0.0,61.0
+1989,24,Richmond,35.0,12.0,42.0,Elton Sawyer,Sawyer Racing (Bill Lewis),Chevrolet,65.0,1295.0,engine,0.0,58.0
+1989,24,Richmond,36.0,30.0,87.0,Jimmy Spencer,Lowe's Foods (Buddy Baker / Danny Schiff),Pontiac,2.0,600.0,engine,0.0,55.0
+1989,25,Dover,1.0,14.0,52.0,Ken Schrader,Red Baron Frozen Pizza (Ken Schrader),Chevrolet,200.0,11025.0,running,15.0,180.0
+1989,25,Dover,2.0,5.0,1.0,Mark Martin,Carolina Ford Dealers (Bill Davis),Ford,200.0,5450.0,running,79.0,170.0
+1989,25,Dover,3.0,13.0,56.0,Ronald Cooper,Speedway Waste Disposal (Lewis Cooper),Buick,200.0,6745.0,running,0.0,165.0
+1989,25,Dover,4.0,22.0,82.0,Kyle Petty,Peak Performance (Ted Conder),Pontiac,200.0,2400.0,running,41.0,160.0
+1989,25,Dover,5.0,4.0,17.0,Darrell Waltrip,Exxon Superflo (Darrell Waltrip),Chevrolet,199.0,2125.0,running,4.0,155.0
+1989,25,Dover,6.0,11.0,63.0,Chuck Bown,Nescafe Classic (Hubert Hensley),Pontiac,199.0,4570.0,running,6.0,150.0
+1989,25,Dover,7.0,15.0,22.0,Rick Mast,"A.G. Dillard (Alan Dillard, Jr.)",Buick,199.0,3200.0,running,0.0,146.0
+1989,25,Dover,8.0,16.0,2.0,L.D. Ottinger,Detroit Gasket (Ron Parker),Pontiac,199.0,2420.0,running,0.0,142.0
+1989,25,Dover,9.0,7.0,96.0,Tom Peck,Sikken's Car Refinishes (Mark Thomas),Oldsmobile,199.0,2320.0,running,0.0,138.0
+1989,25,Dover,10.0,12.0,86.0,Dana Patten,U.S. Chrome (Dana Patten),Buick,198.0,1650.0,running,0.0,134.0
+1989,25,Dover,11.0,24.0,74.0,Kelly Moore,Jordan Lumber (Richard Moore),Chevrolet,198.0,1550.0,running,0.0,130.0
+1989,25,Dover,12.0,3.0,99.0,Tommy Ellis,Goo Goo Clusters (John Jackson),Buick,198.0,4870.0,running,0.0,127.0
+1989,25,Dover,13.0,19.0,6.0,Tommy Houston,Southern Biscuit Flour (Steve Arndt),Buick,197.0,3770.0,running,0.0,124.0
+1989,25,Dover,14.0,33.0,19.0,Joe Bessey,Cola Transport (Joe Bessey),Pontiac,197.0,1425.0,running,0.0,121.0
+1989,25,Dover,15.0,9.0,7.0,Harry Gant,Wheels Discount Auto (Ed Whitaker),Buick,196.0,900.0,fuel,0.0,118.0
+1989,25,Dover,16.0,29.0,45.0,Patty Moise,Amway Freedom (Patty Moise),Buick,195.0,875.0,running,0.0,115.0
+1989,25,Dover,17.0,31.0,41.0,Jamie Aube,EJP (Allen Avery),Buick,195.0,2350.0,running,0.0,112.0
+1989,25,Dover,18.0,28.0,18.0,Ken Bouchard,Riverside Park,Oldsmobile,189.0,825.0,running,0.0,109.0
+1989,25,Dover,19.0,17.0,11.0,Jack Ingram,Skoal (Jack Ingram),Chevrolet,186.0,3620.0,running,0.0,106.0
+1989,25,Dover,20.0,10.0,34.0,Randy LaJoie,Cicci Racing (Frank Cicci),Buick,173.0,2525.0,engine,0.0,103.0
+1989,25,Dover,21.0,23.0,9.0,Steve Grissom,Texas Pete Sauces (Mike Swaim),Pontiac,169.0,1820.0,brakes,0.0,100.0
+1989,25,Dover,22.0,25.0,12.0,Jeff Burton,Burton Autosports (John Burton),Pontiac,155.0,1795.0,running,0.0,97.0
+1989,25,Dover,23.0,6.0,25.0,Rob Moroso,Swisher Sweets (Dick Moroso),Oldsmobile,123.0,3520.0,running,0.0,94.0
+1989,25,Dover,24.0,21.0,8.0,Bobby Hamilton,Lighting & Fans (Fil Martocci),Oldsmobile,115.0,1745.0,running,0.0,91.0
+1989,25,Dover,25.0,1.0,30.0,Michael Waltrip,Post Cereals (Chuck Rider),Pontiac,111.0,950.0,engine,55.0,88.0
+1989,25,Dover,26.0,26.0,33.0,Jim Sauter,Thomas' English Muffins (John Pharo),Oldsmobile,88.0,625.0,crash,0.0,0.0
+1989,25,Dover,27.0,2.0,36.0,Kenny Wallace,Cox Treated Lumber (Rusty Wallace),Pontiac,86.0,1670.0,crash,0.0,82.0
+1989,25,Dover,28.0,18.0,81.0,"Bobby Hillin, Jr.",Rose's Stores (Ted Conder),Buick,86.0,580.0,crash,0.0,79.0
+1989,25,Dover,29.0,27.0,80.0,Brandon Baker,Days Inn Special,Pontiac,85.0,1640.0,crash,0.0,76.0
+1989,25,Dover,30.0,30.0,98.0,Ron Lamell,Lamell Lumber (Ron Lamell),Buick,85.0,1050.0,crash,0.0,73.0
+1989,25,Dover,31.0,8.0,55.0,Phil Parsons,Fast Fare Stores (Don Beverley),Oldsmobile,73.0,550.0,engine,0.0,70.0
+1989,25,Dover,32.0,20.0,79.0,Dave Rezendes,"K.R. Rezendes, Inc. (Dave Rezendes)",Oldsmobile,33.0,1620.0,engine,0.0,67.0
+1989,25,Dover,33.0,35.0,39.0,Lloyd Gillie,Gillie's Truck Caps (Lloyd Gillie),Buick,32.0,1050.0,handling,0.0,64.0
+1989,25,Dover,34.0,32.0,24.0,Joe Thurman,Thurman Enterprises (Marvin Thackston),Ford,26.0,1620.0,engine,0.0,61.0
+1989,25,Dover,35.0,34.0,38.0,"Ed St. Angelo, Jr.","D & A Racing (Ed St. Angelo, Sr.)",Buick,5.0,1050.0,crash,0.0,58.0
+1989,26,Martinsville,1.0,27.0,6.0,Tommy Houston,Southern Biscuit Flour (Steve Arndt),Buick,150.0,10508.0,running,1.0,180.0
+1989,26,Martinsville,2.0,1.0,25.0,Rob Moroso,Swisher Sweets (Dick Moroso),Oldsmobile,150.0,6108.0,running,0.0,170.0
+1989,26,Martinsville,3.0,30.0,12.0,Jeff Burton,Burton Autosports (John Burton),Pontiac,150.0,3508.0,running,0.0,165.0
+1989,26,Martinsville,4.0,15.0,56.0,Ronald Cooper,Speedway Waste Disposal (Lewis Cooper),Buick,150.0,3409.0,running,0.0,160.0
+1989,26,Martinsville,5.0,6.0,2.0,L.D. Ottinger,Detroit Gasket (Ron Parker),Pontiac,150.0,1908.0,running,126.0,155.0
+1989,26,Martinsville,6.0,31.0,47.0,Billy Standridge,Standridge Auto Parts (Billy Standridge),Pontiac,150.0,1833.0,running,0.0,150.0
+1989,26,Martinsville,7.0,13.0,79.0,Dave Rezendes,"K.R. Rezendes, Inc. (Dave Rezendes)",Oldsmobile,150.0,1758.0,running,0.0,146.0
+1989,26,Martinsville,8.0,18.0,63.0,Chuck Bown,Nescafe Classic (Hubert Hensley),Pontiac,150.0,2908.0,running,0.0,142.0
+1989,26,Martinsville,9.0,7.0,75.0,Butch Miller,Food Country USA (Charlie Henderson),Oldsmobile,149.0,950.0,running,0.0,0.0
+1989,26,Martinsville,10.0,28.0,87.0,Jimmy Spencer,Lowe's Foods (Buddy Baker / Danny Schiff),Pontiac,149.0,900.0,running,0.0,134.0
+1989,26,Martinsville,11.0,5.0,85.0,Bobby Moon,Kowalsky Racing Engines (Bobby Moon),Buick,149.0,850.0,running,0.0,130.0
+1989,26,Martinsville,12.0,19.0,59.0,Robert Pressley,Brad Daugherty (Brad Daugherty),Oldsmobile,149.0,1458.0,running,0.0,127.0
+1989,26,Martinsville,13.0,10.0,70.0,Jimmy Hensley,Huffman Racing (Dwight Huffman),Buick,149.0,1398.0,running,0.0,124.0
+1989,26,Martinsville,14.0,25.0,62.0,John Linville,Lemon's Auto Parts (John Linville),Oldsmobile,149.0,725.0,running,0.0,121.0
+1989,26,Martinsville,15.0,21.0,96.0,Tom Peck,Thomas Chevrolet (Mark Thomas),Oldsmobile,148.0,1373.0,running,0.0,118.0
+1989,26,Martinsville,16.0,32.0,80.0,Brandon Baker,Days Inn Special,Pontiac,148.0,700.0,running,0.0,115.0
+1989,26,Martinsville,17.0,9.0,1.0,Mark Martin,Carolina Ford Dealers (Bill Davis),Ford,148.0,680.0,running,0.0,112.0
+1989,26,Martinsville,18.0,24.0,27.0,Brad Teague,Ryder Floors (Edgar Ryder),Pontiac,147.0,660.0,running,0.0,109.0
+1989,26,Martinsville,19.0,4.0,36.0,Kenny Wallace,Cox Treated Lumber (Rusty Wallace),Pontiac,147.0,1313.0,running,0.0,106.0
+1989,26,Martinsville,20.0,26.0,9.0,Steve Grissom,Texas Pete Sauces (Mike Swaim),Pontiac,146.0,1308.0,running,0.0,103.0
+1989,26,Martinsville,21.0,22.0,11.0,Jack Ingram,Skoal (Jack Ingram),Chevrolet,143.0,2552.0,running,0.0,100.0
+1989,26,Martinsville,22.0,14.0,8.0,Bobby Hamilton,Lighting & Fans (Fil Martocci),Oldsmobile,111.0,1298.0,running,0.0,97.0
+1989,26,Martinsville,23.0,8.0,22.0,Rick Mast,"A.G. Dillard (Alan Dillard, Jr.)",Buick,85.0,1895.0,engine,0.0,94.0
+1989,26,Martinsville,24.0,29.0,24.0,Joe Thurman,Thurman Enterprises (Marvin Thackston),Ford,76.0,1288.0,engine,0.0,91.0
+1989,26,Martinsville,25.0,20.0,2.0,Kenny Burks,Williams & Burks (J.C. Burks),Buick,70.0,1283.0,brakes,0.0,88.0
+1989,26,Martinsville,26.0,16.0,7.0,Harry Gant,Detroit Gasket (Ed Whitaker),Buick,51.0,620.0,oil leak,0.0,85.0
+1989,26,Martinsville,27.0,17.0,34.0,Randy LaJoie,Cicci Racing (Frank Cicci),Buick,37.0,1865.0,engine,0.0,82.0
+1989,26,Martinsville,28.0,23.0,6.0,Todd Cray,Cray Racing (Barry Cray),Buick,34.0,610.0,engine,0.0,79.0
+1989,26,Martinsville,29.0,2.0,99.0,Tommy Ellis,Goo Goo Clusters (John Jackson),Buick,24.0,3265.0,engine,23.0,76.0
+1989,26,Martinsville,30.0,3.0,42.0,Elton Sawyer,Sawyer Racing (Bill Lewis),Chevrolet,20.0,1258.0,oil leak,0.0,73.0
+1989,26,Martinsville,31.0,11.0,32.0,Dale Jarrett,Coca-Cola (Horace Isenhower),Pontiac,17.0,600.0,engine,0.0,0.0
+1989,26,Martinsville,32.0,12.0,91.0,Tom Harrington,BFI Recycle Now (Tom Harrington),Oldsmobile,1.0,600.0,engine,0.0,67.0
+1989,27,Charlotte,1.0,4.0,25.0,Rob Moroso,Swisher Sweets (Dick Moroso),Oldsmobile,200.0,66815.0,running,64.0,180.0
+1989,27,Charlotte,2.0,1.0,30.0,Michael Waltrip,Post Cereals (Chuck Rider),Pontiac,200.0,44900.0,running,14.0,170.0
+1989,27,Charlotte,3.0,22.0,32.0,Dale Jarrett,Nestle Crunch (Horace Isenhower),Pontiac,200.0,17700.0,running,83.0,165.0
+1989,27,Charlotte,4.0,12.0,1.0,Jack Pennington,Sandlapper Fabrics (Derick Close),Buick,200.0,22315.0,running,0.0,160.0
+1989,27,Charlotte,5.0,40.0,87.0,Jimmy Spencer,Lowe's Foods (Buddy Baker / Danny Schiff),Pontiac,200.0,16440.0,running,0.0,155.0
+1989,27,Charlotte,6.0,10.0,44.0,Bobby Labonte,Winner's Circle Auto Parts (Bob Labonte),Buick,200.0,12190.0,running,0.0,150.0
+1989,27,Charlotte,7.0,21.0,7.0,Harry Gant,Wheels Discount Auto (Ed Whitaker),Buick,200.0,6900.0,running,0.0,146.0
+1989,27,Charlotte,8.0,19.0,36.0,Kenny Wallace,Cox Treated Lumber (Rusty Wallace),Pontiac,199.0,9415.0,running,0.0,142.0
+1989,27,Charlotte,9.0,36.0,9.0,Steve Grissom,Texas Pete Sauces (Mike Swaim),Pontiac,199.0,8365.0,running,0.0,138.0
+1989,27,Charlotte,10.0,39.0,55.0,Phil Parsons,Fast Fare Stores (Don Beverley),Oldsmobile,198.0,5725.0,running,0.0,0.0
+1989,27,Charlotte,11.0,13.0,56.0,Ronald Cooper,Speedway Waste Disposal (Lewis Cooper),Buick,198.0,8315.0,running,0.0,130.0
+1989,27,Charlotte,12.0,31.0,98.0,Ted Musgrave,G & G Trucking (Ted Musgrave),Buick,197.0,5100.0,running,0.0,0.0
+1989,27,Charlotte,13.0,20.0,47.0,Billy Standridge,Standridge Auto Parts (Billy Standridge),Pontiac,197.0,5265.0,running,0.0,124.0
+1989,27,Charlotte,14.0,18.0,34.0,Randy LaJoie,Cicci Racing (Frank Cicci),Buick,196.0,11565.0,running,0.0,121.0
+1989,27,Charlotte,15.0,30.0,59.0,Robert Pressley,Alliance Training Centers (Brad Daugherty),Oldsmobile,195.0,7215.0,running,0.0,118.0
+1989,27,Charlotte,16.0,9.0,99.0,Tommy Ellis,Goo Goo Clusters (John Jackson),Buick,193.0,8590.0,running,0.0,115.0
+1989,27,Charlotte,17.0,38.0,8.0,Bobby Hamilton,Lighting & Fans (Fil Martocci),Oldsmobile,192.0,4065.0,running,0.0,112.0
+1989,27,Charlotte,18.0,26.0,96.0,Tom Peck,Akzo Sikkens (Mark Thomas),Oldsmobile,190.0,3865.0,running,0.0,109.0
+1989,27,Charlotte,19.0,42.0,83.0,Jeff McClure,AC Delco (Jeff McClure),Pontiac,188.0,3420.0,running,0.0,106.0
+1989,27,Charlotte,20.0,7.0,1.0,Mark Martin,Carolina Ford Dealers (Bill Davis),Ford,178.0,4800.0,engine,0.0,103.0
+1989,27,Charlotte,21.0,16.0,12.0,Jeff Burton,Burton Autosports (John Burton),Pontiac,159.0,3365.0,running,0.0,100.0
+1989,27,Charlotte,22.0,32.0,63.0,Chuck Bown,Nescafe Classic (Hubert Hensley),Pontiac,141.0,5105.0,running,0.0,97.0
+1989,27,Charlotte,23.0,37.0,2.0,L.D. Ottinger,Detroit Gasket (Ron Parker),Pontiac,138.0,2665.0,engine,0.0,94.0
+1989,27,Charlotte,24.0,33.0,33.0,Frank Fleming,Thomas' English Muffins (John Pharo),Oldsmobile,129.0,1850.0,running,0.0,0.0
+1989,27,Charlotte,25.0,3.0,48.0,Sterling Marlin,Sunoco (Billy Hagan),Oldsmobile,118.0,11900.0,engine,34.0,88.0
+1989,27,Charlotte,26.0,15.0,45.0,Patty Moise,Freedom Fuel Additive (Patty Moise),Buick,117.0,2365.0,clutch,0.0,85.0
+1989,27,Charlotte,27.0,23.0,3.0,Dale Earnhardt,"GM Goodwrench (Dale Earnhardt, Inc.)",Chevrolet,111.0,1550.0,crash,0.0,82.0
+1989,27,Charlotte,28.0,6.0,75.0,Rick Wilson,Food Country USA (Charlie Henderson),Oldsmobile,111.0,1500.0,crash,5.0,79.0
+1989,27,Charlotte,29.0,35.0,11.0,Jack Ingram,Skoal (Jack Ingram),Chevrolet,110.0,3815.0,crash,0.0,76.0
+1989,27,Charlotte,30.0,8.0,22.0,Rick Mast,"Raven Boats (Alan Dillard, Jr.)",Buick,86.0,4595.0,engine,0.0,73.0
+1989,27,Charlotte,31.0,27.0,17.0,Darrell Waltrip,Exxon Superflo (Darrell Waltrip),Chevrolet,77.0,1255.0,vibration,0.0,70.0
+1989,27,Charlotte,32.0,5.0,15.0,Ken Schrader,Levi Garrett (Rick Hendrick),Chevrolet,75.0,1290.0,engine,0.0,67.0
+1989,27,Charlotte,33.0,17.0,13.0,Randy Baker,Banquet Foods,Pontiac,68.0,1900.0,engine,0.0,64.0
+1989,27,Charlotte,34.0,24.0,81.0,"Bobby Hillin, Jr.",Rose's Stores (Ted Conder),Buick,65.0,1555.0,engine,0.0,61.0
+1989,27,Charlotte,35.0,2.0,72.0,Rusty Wallace,Kodiak (Raymond Beadle),Pontiac,49.0,1430.0,engine,0.0,0.0
+1989,27,Charlotte,36.0,41.0,66.0,"Donny Ling, Jr.","Royal (Don Ling, Sr.)",Oldsmobile,28.0,2305.0,crash,0.0,55.0
+1989,27,Charlotte,37.0,25.0,9.0,Morgan Shepherd,Edwards Racing (Bill Edwards),Ford,28.0,1090.0,crash,0.0,52.0
+1989,27,Charlotte,38.0,29.0,80.0,Brandon Baker,Days Inn Special,Pontiac,27.0,1070.0,crash,0.0,49.0
+1989,27,Charlotte,39.0,11.0,6.0,Tommy Houston,Tyson Foods (Steve Arndt),Buick,24.0,3515.0,engine,0.0,46.0
+1989,27,Charlotte,40.0,14.0,49.0,Jeff Purvis,Finch Racing (James Finch),Buick,21.0,1030.0,engine,0.0,43.0
+1989,27,Charlotte,41.0,28.0,78.0,Jack Sprague,Griffin Racing (Bruce Griffin),Chevrolet,8.0,2530.0,engine,0.0,40.0
+1989,27,Charlotte,42.0,34.0,4.0,Ed Berrier,Hill Racing (Roy Hill),Buick,2.0,3245.0,engine,0.0,37.0
+1989,28,Rockingham,1.0,4.0,7.0,Harry Gant,Wheels Discount Auto (Ed Whitaker),Buick,197.0,10425.0,running,114.0,180.0
+1989,28,Rockingham,2.0,12.0,55.0,Phil Parsons,Fast Fare Stores (Don Beverley),Oldsmobile,197.0,4375.0,running,0.0,170.0
+1989,28,Rockingham,3.0,22.0,8.0,Bobby Hamilton,Lighting & Fans (Fil Martocci),Oldsmobile,197.0,6183.0,running,4.0,165.0
+1989,28,Rockingham,4.0,5.0,17.0,Darrell Waltrip,Exxon Superflo (Darrell Waltrip),Chevrolet,197.0,1925.0,running,0.0,160.0
+1989,28,Rockingham,5.0,7.0,6.0,Tommy Houston,Southern Biscuit Flour (Steve Arndt),Buick,197.0,5758.0,running,6.0,155.0
+1989,28,Rockingham,6.0,6.0,81.0,"Bobby Hillin, Jr.",Rose's Stores (Ted Conder),Buick,197.0,1575.0,running,14.0,150.0
+1989,28,Rockingham,7.0,13.0,3.0,Michael Waltrip,"GM Goodwrench (Dale Earnhardt, Inc.)",Chevrolet,197.0,1025.0,running,0.0,0.0
+1989,28,Rockingham,8.0,21.0,34.0,Randy LaJoie,Cicci Racing (Frank Cicci),Buick,197.0,4708.0,running,0.0,142.0
+1989,28,Rockingham,9.0,23.0,52.0,Ken Schrader,Red Baron Frozen Pizza (Ken Schrader),Chevrolet,197.0,825.0,running,0.0,0.0
+1989,28,Rockingham,10.0,15.0,99.0,Tommy Ellis,Goo Goo Clusters (John Jackson),Buick,196.0,5508.0,running,0.0,134.0
+1989,28,Rockingham,11.0,11.0,4.0,Ed Berrier,Asheboro Redi-Mix (Roy Hill),Buick,196.0,600.0,running,0.0,130.0
+1989,28,Rockingham,12.0,3.0,25.0,Rob Moroso,Swisher Sweets (Dick Moroso),Oldsmobile,196.0,4385.0,running,15.0,127.0
+1989,28,Rockingham,13.0,2.0,22.0,Rick Mast,"Raven Boats (Alan Dillard, Jr.)",Buick,196.0,2300.0,running,0.0,124.0
+1989,28,Rockingham,14.0,14.0,79.0,Dave Rezendes,"K.R. Rezendes, Inc. (Dave Rezendes)",Oldsmobile,195.0,2208.0,running,0.0,121.0
+1989,28,Rockingham,15.0,20.0,2.0,L.D. Ottinger,Detroit Gasket (Ron Parker),Pontiac,195.0,2225.0,running,0.0,118.0
+1989,28,Rockingham,16.0,34.0,45.0,Patty Moise,Freedom Fuel Additive (Patty Moise),Buick,195.0,470.0,running,0.0,115.0
+1989,28,Rockingham,17.0,29.0,98.0,Ted Musgrave,G & G Trucking (Ted Musgrave),Buick,195.0,450.0,running,0.0,112.0
+1989,28,Rockingham,18.0,31.0,21.0,Grant Adcox,Adcox Chevrolet (Herb Adcox),Oldsmobile,195.0,445.0,running,0.0,109.0
+1989,28,Rockingham,19.0,18.0,11.0,Jack Ingram,Skoal (Jack Ingram),Chevrolet,195.0,3775.0,running,0.0,106.0
+1989,28,Rockingham,20.0,36.0,5.0,Robert Powell,Coca-Cola (Sam Ard),Buick,193.0,430.0,running,0.0,0.0
+1989,28,Rockingham,21.0,10.0,36.0,Kenny Wallace,Cox Treated Lumber (Rusty Wallace),Pontiac,191.0,1883.0,running,0.0,100.0
+1989,28,Rockingham,22.0,19.0,13.0,Randy Baker,Banquet Foods,Pontiac,189.0,420.0,running,0.0,97.0
+1989,28,Rockingham,23.0,24.0,24.0,Joe Thurman,Thurman Enterprises (Marvin Thackston),Ford,188.0,1848.0,running,0.0,94.0
+1989,28,Rockingham,24.0,1.0,1.0,Mark Martin,Carolina Ford Dealers (Bill Davis),Ford,182.0,710.0,running,16.0,91.0
+1989,28,Rockingham,25.0,39.0,83.0,Jeff McClure,AC Delco (Jeff McClure),Pontiac,179.0,405.0,running,0.0,88.0
+1989,28,Rockingham,26.0,16.0,28.0,Davey Allison,Texaco Antifreeze (Davey Allison),Buick,171.0,400.0,engine,25.0,85.0
+1989,28,Rockingham,27.0,8.0,32.0,Dale Jarrett,Nestle Crunch (Horace Isenhower),Pontiac,167.0,390.0,engine,3.0,82.0
+1989,28,Rockingham,28.0,26.0,96.0,Tom Peck,Sikken's Car Refinishes (Mark Thomas),Oldsmobile,166.0,1743.0,running,0.0,79.0
+1989,28,Rockingham,29.0,33.0,9.0,Steve Grissom,Texas Pete Sauces (Mike Swaim),Pontiac,162.0,1713.0,carburetor,0.0,76.0
+1989,28,Rockingham,30.0,30.0,63.0,Chuck Bown,Nescafe Classic (Hubert Hensley),Pontiac,162.0,3408.0,running,0.0,73.0
+1989,28,Rockingham,31.0,37.0,80.0,Brandon Baker,Days Inn Special,Pontiac,160.0,1603.0,running,0.0,70.0
+1989,28,Rockingham,32.0,38.0,95.0,Larry Pollard,Kirby Racing (Kirby Pollard),Oldsmobile,152.0,365.0,engine,0.0,67.0
+1989,28,Rockingham,33.0,40.0,88.0,Joe Nemechek,Nemechek Racing (Joe Nemechek),Buick,109.0,360.0,engine,0.0,64.0
+1989,28,Rockingham,34.0,28.0,47.0,Billy Standridge,Mastertrim (Billy Standridge),Pontiac,95.0,1533.0,engine,0.0,61.0
+1989,28,Rockingham,35.0,9.0,44.0,Bobby Labonte,Winner's Circle Auto Parts (Bob Labonte),Buick,60.0,325.0,crash,0.0,58.0
+1989,28,Rockingham,36.0,32.0,49.0,Ed Ferree,Cochran (Ed Ferree),Pontiac,52.0,325.0,crash,0.0,55.0
+1989,28,Rockingham,37.0,35.0,3.0,Ronnie Silver,All-Pro Auto Parts (Chuck Rider),Pontiac,50.0,1158.0,crash,0.0,52.0
+1989,28,Rockingham,38.0,27.0,56.0,Ronald Cooper,Speedway Waste Disposal (Lewis Cooper),Buick,46.0,2908.0,engine,0.0,49.0
+1989,28,Rockingham,39.0,17.0,12.0,Jeff Burton,Burton Autosports (John Burton),Pontiac,14.0,1158.0,engine,0.0,46.0
+1989,28,Rockingham,40.0,25.0,9.0,Morgan Shepherd,Edwards Racing (Bill Edwards),Ford,0.0,325.0,ignition,0.0,43.0
+1989,29,Martinsville,1.0,15.0,2.0,L.D. Ottinger,Detroit Gasket (Ron Parker),Pontiac,200.0,12432.0,running,34.0,180.0
+1989,29,Martinsville,2.0,11.0,7.0,Harry Gant,Detroit Gasket (Ed Whitaker),Buick,200.0,4575.0,running,0.0,170.0
+1989,29,Martinsville,3.0,2.0,25.0,Rob Moroso,Swisher Sweets (Dick Moroso),Oldsmobile,200.0,5157.0,running,54.0,165.0
+1989,29,Martinsville,4.0,3.0,1.0,Geoffrey Bodine,Carolina Ford Dealers (Bill Davis),Ford,200.0,1700.0,running,0.0,0.0
+1989,29,Martinsville,5.0,4.0,63.0,Chuck Bown,Nescafe Classic (Hubert Hensley),Pontiac,200.0,3507.0,running,0.0,155.0
+1989,29,Martinsville,6.0,19.0,77.0,Morgan Shepherd,Huffman Racing (Dwight Huffman),Buick,200.0,1650.0,running,0.0,0.0
+1989,29,Martinsville,7.0,12.0,11.0,Jack Ingram,Skoal (Jack Ingram),Chevrolet,200.0,3207.0,running,0.0,146.0
+1989,29,Martinsville,8.0,5.0,8.0,Bobby Hamilton,Lighting & Fans (Fil Martocci),Oldsmobile,200.0,1857.0,running,0.0,142.0
+1989,29,Martinsville,9.0,16.0,8.0,Bobby Dotter,Team R (Ed Reizen),Buick,200.0,1175.0,running,0.0,0.0
+1989,29,Martinsville,10.0,13.0,99.0,Tommy Ellis,Goo Goo Clusters (John Jackson),Buick,200.0,4852.0,running,112.0,134.0
+1989,29,Martinsville,11.0,9.0,16.0,Larry Pearson,Pearson Racing (Don Miller),Buick,200.0,1160.0,running,0.0,0.0
+1989,29,Martinsville,12.0,7.0,36.0,Kenny Wallace,Cox Treated Lumber (Rusty Wallace),Pontiac,199.0,1807.0,running,0.0,127.0
+1989,29,Martinsville,13.0,23.0,59.0,Robert Pressley,Alliance Training Centers (Brad Daugherty),Oldsmobile,199.0,1827.0,running,0.0,0.0
+1989,29,Martinsville,14.0,27.0,49.0,Ed Ferree,Cochran (Ed Ferree),Pontiac,199.0,1130.0,running,0.0,121.0
+1989,29,Martinsville,15.0,14.0,42.0,Elton Sawyer,Sawyer Racing (Bill Lewis),Chevrolet,199.0,1832.0,running,0.0,118.0
+1989,29,Martinsville,16.0,30.0,66.0,"Donny Ling, Jr.","Royal (Don Ling, Sr.)",Oldsmobile,198.0,1075.0,running,0.0,115.0
+1989,29,Martinsville,17.0,20.0,56.0,Ronald Cooper,Speedway Waste Disposal (Lewis Cooper),Buick,198.0,2947.0,running,0.0,112.0
+1989,29,Martinsville,18.0,25.0,95.0,Larry Pollard,Kirby Racing (Kirby Pollard),Oldsmobile,198.0,1065.0,running,0.0,109.0
+1989,29,Martinsville,19.0,22.0,47.0,Billy Standridge,Mastertrim (Billy Standridge),Pontiac,196.0,1732.0,running,0.0,106.0
+1989,29,Martinsville,20.0,32.0,24.0,Joe Thurman,Thurman Enterprises (Marvin Thackston),Ford,196.0,1657.0,running,0.0,103.0
+1989,29,Martinsville,21.0,21.0,9.0,Steve Grissom,Texas Pete Sauces (Mike Swaim),Pontiac,196.0,1682.0,running,0.0,100.0
+1989,29,Martinsville,22.0,29.0,58.0,Martin Truex,"Shellfish Packing (Martin Truex, Sr.)",Pontiac,195.0,950.0,running,0.0,0.0
+1989,29,Martinsville,23.0,24.0,34.0,Randy LaJoie,Cicci Racing (Frank Cicci),Buick,194.0,2857.0,running,0.0,94.0
+1989,29,Martinsville,24.0,6.0,6.0,Tommy Houston,Southern Biscuit Flour (Steve Arndt),Buick,174.0,3032.0,engine,0.0,91.0
+1989,29,Martinsville,25.0,18.0,96.0,Tom Peck,JLG Industries (Mark Thomas),Oldsmobile,150.0,1517.0,engine,0.0,88.0
+1989,29,Martinsville,26.0,31.0,12.0,Jeff Burton,Burton Autosports (John Burton),Pontiac,130.0,1532.0,crash,0.0,85.0
+1989,29,Martinsville,27.0,28.0,62.0,John Linville,Lemon's Auto Parts (John Linville),Oldsmobile,93.0,855.0,engine,0.0,82.0
+1989,29,Martinsville,28.0,1.0,22.0,Rick Mast,"Raven Boats (Alan Dillard, Jr.)",Buick,87.0,2600.0,crash,0.0,79.0
+1989,29,Martinsville,29.0,10.0,85.0,Bobby Moon,Taco Bell (Bobby Moon),Buick,61.0,775.0,engine,0.0,76.0
+1989,29,Martinsville,30.0,17.0,45.0,Patty Moise,Freedom Fuel Additive (Patty Moise),Buick,57.0,750.0,engine,0.0,73.0
+1989,29,Martinsville,31.0,26.0,79.0,Dave Rezendes,"K.R. Rezendes, Inc. (Dave Rezendes)",Oldsmobile,24.0,1447.0,crash,0.0,70.0
+1989,29,Martinsville,32.0,8.0,55.0,Jimmy Hensley,Crown (Don Beverley),Oldsmobile,18.0,1407.0,engine,0.0,67.0

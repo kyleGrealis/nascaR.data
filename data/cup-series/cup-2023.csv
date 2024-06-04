@@ -1,0 +1,1321 @@
+Season,Race,Track,Pos,St,#,Driver,Sponsor / Owner,Car,Laps,Status,Led,Pts,PPts
+2023,1,Daytona,1.0,31.0,47.0,Ricky Stenhouse Jr,Kroger/Cottonelle (JTG-Daugherty Racing),Chevrolet,212.0,running,10.0,48.0,5.0
+2023,1,Daytona,2.0,3.0,22.0,Joey Logano,Shell Pennzoil (Roger Penske),Ford,212.0,running,12.0,52.0,0.0
+2023,1,Daytona,3.0,5.0,20.0,Christopher Bell,DeWalt - Rheem (Joe Gibbs),Toyota,212.0,running,20.0,44.0,0.0
+2023,1,Daytona,4.0,9.0,17.0,Chris Buescher,Fastenal (Jack Roush),Ford,212.0,running,32.0,50.0,0.0
+2023,1,Daytona,5.0,1.0,48.0,Alex Bowman,Ally (Rick Hendrick),Chevrolet,212.0,running,12.0,41.0,0.0
+2023,1,Daytona,6.0,29.0,16.0,A.J. Allmendinger,Nutrien Ag Solutions (Matthew Kaulig),Chevrolet,212.0,running,1.0,34.0,0.0
+2023,1,Daytona,7.0,24.0,99.0,Daniel Suarez,Tootsies Orchid Lounge (Trackhouse Racing),Chevrolet,212.0,running,3.0,30.0,0.0
+2023,1,Daytona,8.0,7.0,12.0,Ryan Blaney,MenardsBlue DEFPEAK (Roger Penske),Ford,212.0,running,1.0,37.0,0.0
+2023,1,Daytona,9.0,23.0,1.0,Ross Chastain,AdventHealth (Trackhouse Racing),Chevrolet,212.0,running,6.0,38.0,1.0
+2023,1,Daytona,10.0,38.0,15.0,Riley Herbst,SunnyD (Rick Ware),Ford,212.0,running,0.0,0.0,0.0
+2023,1,Daytona,11.0,40.0,67.0,Travis Pastrana,Black Rifle Coffee (23XI Racing),Toyota,212.0,running,2.0,26.0,0.0
+2023,1,Daytona,12.0,13.0,4.0,Kevin Harvick,Busch Light (Stewart Haas Racing),Ford,212.0,running,1.0,37.0,0.0
+2023,1,Daytona,13.0,17.0,36.0,Zane Smith,Wellcare (Bob Jenkins),Ford,212.0,running,0.0,3.0,0.0
+2023,1,Daytona,14.0,35.0,51.0,Cody Ware,Biohaven/Jacob Co. (Rick Ware),Ford,212.0,running,0.0,23.0,0.0
+2023,1,Daytona,15.0,16.0,19.0,Martin Truex Jr,Bass Pro Shops (Joe Gibbs),Toyota,212.0,running,13.0,32.0,0.0
+2023,1,Daytona,16.0,12.0,7.0,Corey LaJoie,Celsius (Spire Motorsports),Chevrolet,212.0,running,0.0,27.0,0.0
+2023,1,Daytona,17.0,18.0,11.0,Denny Hamlin,FedEx 50 (Joe Gibbs),Toyota,212.0,running,6.0,22.0,0.0
+2023,1,Daytona,18.0,2.0,5.0,Kyle Larson,HendrickCars.com (Rick Hendrick),Chevrolet,211.0,crash,6.0,24.0,0.0
+2023,1,Daytona,19.0,36.0,8.0,Kyle Busch,3CHI (Richard Childress),Chevrolet,211.0,crash,6.0,18.0,0.0
+2023,1,Daytona,20.0,15.0,23.0,Bubba Wallace,McDonald's (23XI Racing),Toyota,211.0,crash,5.0,21.0,0.0
+2023,1,Daytona,21.0,4.0,10.0,Aric Almirola,Smithfield (Stewart Haas Racing),Ford,211.0,crash,16.0,29.0,0.0
+2023,1,Daytona,22.0,10.0,6.0,Brad Keselowski,Nexlizet (Jack Roush),Ford,211.0,crash,42.0,32.0,1.0
+2023,1,Daytona,23.0,6.0,2.0,Austin Cindric,Discount Tire (Roger Penske),Ford,210.0,crash,0.0,29.0,0.0
+2023,1,Daytona,24.0,22.0,42.0,Noah Gragson,Wendy's (Legacy Motor Club),Chevrolet,210.0,running,0.0,13.0,0.0
+2023,1,Daytona,25.0,33.0,54.0,Ty Gibbs,Monster Energy â€“ Interstate Batteries (Joe Gibbs),Toyota,210.0,running,0.0,17.0,0.0
+2023,1,Daytona,26.0,19.0,21.0,Harrison Burton,Motorcraft Dex Imaging (Wood Brothers),Ford,210.0,running,9.0,13.0,0.0
+2023,1,Daytona,27.0,14.0,38.0,Todd Gilliland,gener8tor Skills (Bob Jenkins),Ford,208.0,crash,0.0,15.0,0.0
+2023,1,Daytona,28.0,11.0,34.0,Michael McDowell,Love's Travel Stops (Bob Jenkins),Ford,208.0,running,0.0,21.0,0.0
+2023,1,Daytona,29.0,34.0,50.0,Conor Daly,Bitnile.com (TMT Racing),Chevrolet,206.0,running,0.0,0.0,0.0
+2023,1,Daytona,30.0,32.0,78.0,B.J. McLeod,Power Slap Rumble (B.J. McLeod),Chevrolet,204.0,running,0.0,7.0,0.0
+2023,1,Daytona,31.0,39.0,84.0,Jimmie Johnson,Carvana (Legacy Motor Club),Chevrolet,203.0,crash,0.0,10.0,0.0
+2023,1,Daytona,32.0,28.0,31.0,Justin Haley,Cirkul (Matthew Kaulig),Chevrolet,203.0,crash,0.0,5.0,0.0
+2023,1,Daytona,33.0,27.0,3.0,Austin Dillon,Bass Pro Shops Club (Richard Childress),Chevrolet,202.0,crash,0.0,4.0,0.0
+2023,1,Daytona,34.0,21.0,24.0,William Byron,RaptorTough.com (Rick Hendrick),Chevrolet,202.0,crash,0.0,7.0,0.0
+2023,1,Daytona,35.0,30.0,14.0,Chase Briscoe,Mahindra Tractors (Stewart Haas Racing),Ford,182.0,crash,5.0,2.0,0.0
+2023,1,Daytona,36.0,20.0,41.0,Ryan Preece,HaasTooling.com (Stewart Haas Racing),Ford,181.0,crash,4.0,11.0,0.0
+2023,1,Daytona,37.0,25.0,43.0,Erik Jones,GUNS Nâ€™ ROSES (Legacy Motor Club),Chevrolet,118.0,crash,0.0,1.0,0.0
+2023,1,Daytona,38.0,8.0,9.0,Chase Elliott,NAPA Auto Parts (Rick Hendrick),Chevrolet,118.0,crash,0.0,9.0,0.0
+2023,1,Daytona,39.0,26.0,45.0,Tyler Reddick,Monster Energy (23XI Racing),Toyota,117.0,crash,0.0,1.0,0.0
+2023,1,Daytona,40.0,37.0,77.0,Ty Dillon,Ferris (Spire Motorsports),Chevrolet,26.0,engine,0.0,1.0,0.0
+2023,2,Fontana,1.0,21.0,8.0,Kyle Busch,Lucas Oil (Richard Childress),Chevrolet,200.0,running,27.0,49.0,5.0
+2023,2,Fontana,2.0,33.0,9.0,Chase Elliott,NAPA Auto Parts (Rick Hendrick),Chevrolet,200.0,running,1.0,40.0,0.0
+2023,2,Fontana,3.0,8.0,1.0,Ross Chastain,Kubota (Trackhouse Racing),Chevrolet,200.0,running,91.0,54.0,2.0
+2023,2,Fontana,4.0,7.0,99.0,Daniel Suarez,Freeway Insurance (Trackhouse Racing),Chevrolet,200.0,running,0.0,47.0,0.0
+2023,2,Fontana,5.0,10.0,4.0,Kevin Harvick,Gearwrench (Stewart Haas Racing),Ford,200.0,running,5.0,42.0,0.0
+2023,2,Fontana,6.0,13.0,11.0,Denny Hamlin,SportClips Haircuts (Joe Gibbs),Toyota,200.0,running,11.0,42.0,0.0
+2023,2,Fontana,7.0,16.0,6.0,Brad Keselowski,Castrol Edge (Jack Roush),Ford,200.0,running,2.0,32.0,0.0
+2023,2,Fontana,8.0,4.0,48.0,Alex Bowman,Ally (Rick Hendrick),Chevrolet,200.0,running,17.0,39.0,0.0
+2023,2,Fontana,9.0,28.0,3.0,Austin Dillon,Dow Coatings (Richard Childress),Chevrolet,200.0,running,3.0,28.0,0.0
+2023,2,Fontana,10.0,3.0,22.0,Joey Logano,AAA Southern California (Roger Penske),Ford,200.0,running,19.0,39.0,0.0
+2023,2,Fontana,11.0,14.0,19.0,Martin Truex Jr,Reser's Fine Foods (Joe Gibbs),Toyota,200.0,running,0.0,28.0,0.0
+2023,2,Fontana,12.0,2.0,47.0,Ricky Stenhouse Jr,Ralphs/Tree Top (JTG-Daugherty Racing),Chevrolet,200.0,running,0.0,25.0,0.0
+2023,2,Fontana,13.0,5.0,17.0,Chris Buescher,Pala Casino (Jack Roush),Ford,200.0,running,0.0,24.0,0.0
+2023,2,Fontana,14.0,12.0,7.0,Corey LaJoie,NEGU (Spire Motorsports),Chevrolet,200.0,running,0.0,24.0,0.0
+2023,2,Fontana,15.0,24.0,21.0,Harrison Burton,DEX Imaging (Wood Brothers),Ford,200.0,running,0.0,22.0,0.0
+2023,2,Fontana,16.0,23.0,54.0,Ty Gibbs,Monster Energy (Joe Gibbs),Toyota,200.0,running,0.0,21.0,0.0
+2023,2,Fontana,17.0,25.0,38.0,Todd Gilliland,LONG JOHN SILVER'S (Bob Jenkins),Ford,200.0,running,0.0,20.0,0.0
+2023,2,Fontana,18.0,26.0,34.0,Michael McDowell,Horizon Hobby (Bob Jenkins),Ford,200.0,running,6.0,19.0,0.0
+2023,2,Fontana,19.0,34.0,43.0,Erik Jones,Allegiant (Legacy Motor Club),Chevrolet,200.0,running,0.0,18.0,0.0
+2023,2,Fontana,20.0,31.0,14.0,Chase Briscoe,Rush Truck CentersMobilDelvac (Stewart Haas Racing),Ford,200.0,running,0.0,17.0,0.0
+2023,2,Fontana,21.0,29.0,31.0,Justin Haley,LeafFilter Gutter Protection (Matthew Kaulig),Chevrolet,199.0,running,0.0,16.0,0.0
+2023,2,Fontana,22.0,20.0,42.0,Noah Gragson,Sunseeker Resort (Legacy Motor Club),Chevrolet,199.0,running,1.0,15.0,0.0
+2023,2,Fontana,23.0,22.0,15.0,J.J. Yeley,ActOne Group (Rick Ware),Ford,199.0,running,0.0,14.0,0.0
+2023,2,Fontana,24.0,30.0,78.0,B.J. McLeod,AMERICAN HARTFORD GOLD (B.J. McLeod),Chevrolet,199.0,running,0.0,13.0,0.0
+2023,2,Fontana,25.0,32.0,24.0,William Byron,RaptorTough.com (Rick Hendrick),Chevrolet,198.0,running,0.0,17.0,0.0
+2023,2,Fontana,26.0,9.0,12.0,Ryan Blaney,Wurth (Roger Penske),Ford,196.0,running,16.0,20.0,0.0
+2023,2,Fontana,27.0,11.0,51.0,Cody Ware,Biohaven (Rick Ware),Ford,195.0,running,0.0,10.0,0.0
+2023,2,Fontana,28.0,19.0,2.0,Austin Cindric,Menards Quaker State (Roger Penske),Ford,194.0,running,0.0,9.0,0.0
+2023,2,Fontana,29.0,15.0,5.0,Kyle Larson,HendrickCars.com (Rick Hendrick),Chevrolet,185.0,running,0.0,8.0,0.0
+2023,2,Fontana,30.0,18.0,23.0,Bubba Wallace,Leidos (23XI Racing),Toyota,172.0,engine,0.0,7.0,0.0
+2023,2,Fontana,31.0,36.0,77.0,Ty Dillon,Nations Guard (Spire Motorsports),Chevrolet,140.0,engine,0.0,6.0,0.0
+2023,2,Fontana,32.0,1.0,20.0,Christopher Bell,SiriusXM (Joe Gibbs),Toyota,88.0,crash,1.0,5.0,0.0
+2023,2,Fontana,33.0,27.0,41.0,Ryan Preece,HaasTooling.com (Stewart Haas Racing),Ford,87.0,crash,0.0,4.0,0.0
+2023,2,Fontana,34.0,35.0,45.0,Tyler Reddick,The Beast Unleashed (23XI Racing),Toyota,87.0,crash,0.0,3.0,0.0
+2023,2,Fontana,35.0,17.0,10.0,Aric Almirola,Smithfield (Stewart Haas Racing),Ford,86.0,crash,0.0,2.0,0.0
+2023,2,Fontana,36.0,6.0,16.0,A.J. Allmendinger,Farmsmart (Matthew Kaulig),Chevrolet,75.0,crash,0.0,1.0,0.0
+2023,3,Las Vegas,1.0,2.0,24.0,William Byron,RaptorTough.com (Rick Hendrick),Chevrolet,271.0,running,176.0,60.0,7.0
+2023,3,Las Vegas,2.0,6.0,5.0,Kyle Larson,HendrickCars.com (Rick Hendrick),Chevrolet,271.0,running,63.0,53.0,0.0
+2023,3,Las Vegas,3.0,11.0,48.0,Alex Bowman,Ally (Rick Hendrick),Chevrolet,271.0,running,2.0,46.0,0.0
+2023,3,Las Vegas,4.0,13.0,23.0,Bubba Wallace,Columbia Sportswear Company (23XI Racing),Toyota,271.0,running,0.0,41.0,0.0
+2023,3,Las Vegas,5.0,10.0,20.0,Christopher Bell,SiriusXM (Joe Gibbs),Toyota,271.0,running,0.0,45.0,0.0
+2023,3,Las Vegas,6.0,9.0,2.0,Austin Cindric,Discount Tire (Roger Penske),Ford,271.0,running,0.0,31.0,0.0
+2023,3,Las Vegas,7.0,15.0,19.0,Martin Truex Jr,Bass Pro Shops (Joe Gibbs),Toyota,271.0,running,3.0,42.0,0.0
+2023,3,Las Vegas,8.0,27.0,31.0,Justin Haley,LeafFilter Gutter Protection (Matthew Kaulig),Chevrolet,271.0,running,0.0,29.0,0.0
+2023,3,Las Vegas,9.0,14.0,4.0,Kevin Harvick,Rheem (Stewart Haas Racing),Ford,271.0,running,0.0,29.0,0.0
+2023,3,Las Vegas,10.0,24.0,99.0,Daniel Suarez,Tootsies Orchid Lounge (Trackhouse Racing),Chevrolet,271.0,running,0.0,27.0,0.0
+2023,3,Las Vegas,11.0,12.0,11.0,Denny Hamlin,FedEx Express (Joe Gibbs),Toyota,271.0,running,10.0,35.0,0.0
+2023,3,Las Vegas,12.0,8.0,1.0,Ross Chastain,GlobalTranz (Trackhouse Racing),Chevrolet,271.0,running,0.0,37.0,0.0
+2023,3,Las Vegas,13.0,3.0,12.0,Ryan Blaney,MenardsPennzoil (Roger Penske),Ford,271.0,running,0.0,24.0,0.0
+2023,3,Las Vegas,14.0,5.0,8.0,Kyle Busch,Alsco (Richard Childress),Chevrolet,271.0,running,0.0,25.0,0.0
+2023,3,Las Vegas,15.0,34.0,45.0,Tyler Reddick,Monster Energy (23XI Racing),Toyota,271.0,running,3.0,22.0,0.0
+2023,3,Las Vegas,16.0,21.0,10.0,Aric Almirola,Smithfield (Stewart Haas Racing),Ford,271.0,running,0.0,21.0,0.0
+2023,3,Las Vegas,17.0,7.0,6.0,Brad Keselowski,Fastenal (Jack Roush),Ford,271.0,running,5.0,23.0,0.0
+2023,3,Las Vegas,18.0,23.0,16.0,A.J. Allmendinger,Action Industries (Matthew Kaulig),Chevrolet,271.0,running,0.0,19.0,0.0
+2023,3,Las Vegas,19.0,22.0,43.0,Erik Jones,Allegiant (Legacy Motor Club),Chevrolet,270.0,crash,0.0,18.0,0.0
+2023,3,Las Vegas,20.0,19.0,7.0,Corey LaJoie,EnviroXstream (Spire Motorsports),Chevrolet,270.0,running,0.0,17.0,0.0
+2023,3,Las Vegas,21.0,18.0,17.0,Chris Buescher,Nexletol (Jack Roush),Ford,270.0,running,0.0,16.0,0.0
+2023,3,Las Vegas,22.0,4.0,54.0,Ty Gibbs,He Gets Us (Joe Gibbs),Toyota,270.0,running,0.0,15.0,0.0
+2023,3,Las Vegas,23.0,31.0,41.0,Ryan Preece,HaasTooling.com (Stewart Haas Racing),Ford,270.0,running,0.0,14.0,0.0
+2023,3,Las Vegas,24.0,16.0,47.0,Ricky Stenhouse Jr,Smith's/Coca-Cola Zero Sugar (JTG-Daugherty Racing),Chevrolet,270.0,running,0.0,13.0,0.0
+2023,3,Las Vegas,25.0,17.0,34.0,Michael McDowell,Quincy Compressor (Bob Jenkins),Ford,270.0,running,0.0,12.0,0.0
+2023,3,Las Vegas,26.0,35.0,21.0,Harrison Burton,Motorcraft/Quick Lane (Wood Brothers),Ford,269.0,running,0.0,11.0,0.0
+2023,3,Las Vegas,27.0,26.0,3.0,Austin Dillon,BREZTRI (Richard Childress),Chevrolet,269.0,running,0.0,10.0,0.0
+2023,3,Las Vegas,28.0,20.0,14.0,Chase Briscoe,Mahindra Tractors (Stewart Haas Racing),Ford,269.0,running,0.0,9.0,0.0
+2023,3,Las Vegas,29.0,32.0,9.0,Josh Berry,NAPA Auto Parts (Rick Hendrick),Chevrolet,269.0,running,0.0,0.0,0.0
+2023,3,Las Vegas,30.0,25.0,42.0,Noah Gragson,Sunseeker Resort (Legacy Motor Club),Chevrolet,269.0,running,0.0,7.0,0.0
+2023,3,Las Vegas,31.0,28.0,38.0,Todd Gilliland,Ruedebusch (Bob Jenkins),Ford,268.0,running,0.0,6.0,0.0
+2023,3,Las Vegas,32.0,36.0,78.0,B.J. McLeod,Circle B Diecast (B.J. McLeod),Chevrolet,266.0,running,0.0,5.0,0.0
+2023,3,Las Vegas,33.0,29.0,15.0,J.J. Yeley,OTR Mobile (Rick Ware),Ford,265.0,running,0.0,4.0,0.0
+2023,3,Las Vegas,34.0,33.0,77.0,Ty Dillon,Nations Guard (Spire Motorsports),Chevrolet,265.0,running,0.0,3.0,0.0
+2023,3,Las Vegas,35.0,30.0,51.0,Cody Ware,Biohaven/Jacob Co. (Rick Ware),Ford,259.0,running,0.0,2.0,0.0
+2023,3,Las Vegas,36.0,1.0,22.0,Joey Logano,Pennzoil (Roger Penske),Ford,183.0,dvp,9.0,1.0,0.0
+2023,4,Phoenix,1.0,3.0,24.0,William Byron,Valvoline (Rick Hendrick),Chevrolet,317.0,running,64.0,59.0,6.0
+2023,4,Phoenix,2.0,8.0,12.0,Ryan Blaney,Dent Wizard (Roger Penske),Ford,317.0,running,0.0,43.0,0.0
+2023,4,Phoenix,3.0,12.0,45.0,Tyler Reddick,The Beast Unleashed (23XI Racing),Toyota,317.0,running,0.0,46.0,0.0
+2023,4,Phoenix,4.0,1.0,5.0,Kyle Larson,HendrickCars.com (Rick Hendrick),Chevrolet,317.0,running,201.0,52.0,1.0
+2023,4,Phoenix,5.0,15.0,4.0,Kevin Harvick,Hunt Brothers Pizza (Stewart Haas Racing),Ford,317.0,running,36.0,43.0,0.0
+2023,4,Phoenix,6.0,5.0,20.0,Christopher Bell,Rheem (Joe Gibbs),Toyota,317.0,running,0.0,43.0,0.0
+2023,4,Phoenix,7.0,24.0,14.0,Chase Briscoe,Mahindra Tractors (Stewart Haas Racing),Ford,317.0,running,0.0,31.0,0.0
+2023,4,Phoenix,8.0,9.0,8.0,Kyle Busch,Cheddar's Scratch Kitchen (Richard Childress),Chevrolet,317.0,running,0.0,30.0,0.0
+2023,4,Phoenix,9.0,18.0,48.0,Alex Bowman,Ally Best Friends (Rick Hendrick),Chevrolet,317.0,running,0.0,28.0,0.0
+2023,4,Phoenix,10.0,17.0,9.0,Josh Berry,Kelley Blue Book (Rick Hendrick),Chevrolet,317.0,running,0.0,0.0,0.0
+2023,4,Phoenix,11.0,16.0,22.0,Joey Logano,Shell Pennzoil (Roger Penske),Ford,317.0,running,0.0,26.0,0.0
+2023,4,Phoenix,12.0,25.0,41.0,Ryan Preece,United Rentals (Stewart Haas Racing),Ford,317.0,running,0.0,25.0,0.0
+2023,4,Phoenix,13.0,7.0,34.0,Michael McDowell,Love's Travel Stops (Bob Jenkins),Ford,317.0,running,0.0,24.0,0.0
+2023,4,Phoenix,14.0,19.0,23.0,Bubba Wallace,McDonald's (23XI Racing),Toyota,317.0,running,0.0,23.0,0.0
+2023,4,Phoenix,15.0,21.0,17.0,Chris Buescher,Socios (Jack Roush),Ford,317.0,running,0.0,22.0,0.0
+2023,4,Phoenix,16.0,30.0,3.0,Austin Dillon,BetMGM March Matchups (Richard Childress),Chevrolet,317.0,running,0.0,21.0,0.0
+2023,4,Phoenix,17.0,13.0,19.0,Martin Truex Jr,Bass Pro Shops (Joe Gibbs),Toyota,317.0,running,0.0,20.0,0.0
+2023,4,Phoenix,18.0,4.0,6.0,Brad Keselowski,Castrol Edge (Jack Roush),Ford,317.0,running,1.0,28.0,0.0
+2023,4,Phoenix,19.0,23.0,47.0,Ricky Stenhouse Jr,Thomas' (JTG-Daugherty Racing),Chevrolet,317.0,running,0.0,18.0,0.0
+2023,4,Phoenix,20.0,22.0,16.0,A.J. Allmendinger,Action Industries (Matthew Kaulig),Chevrolet,317.0,running,0.0,17.0,0.0
+2023,4,Phoenix,21.0,10.0,43.0,Erik Jones,Allegiant (Legacy Motor Club),Chevrolet,317.0,running,14.0,16.0,0.0
+2023,4,Phoenix,22.0,11.0,99.0,Daniel Suarez,Freeway Insurance (Trackhouse Racing),Chevrolet,317.0,running,0.0,15.0,0.0
+2023,4,Phoenix,23.0,2.0,11.0,Denny Hamlin,Shingrix (Joe Gibbs),Toyota,317.0,running,0.0,2.0,0.0
+2023,4,Phoenix,24.0,6.0,1.0,Ross Chastain,Kubota (Trackhouse Racing),Chevrolet,317.0,running,1.0,19.0,0.0
+2023,4,Phoenix,25.0,20.0,2.0,Austin Cindric,MenardsRichmond Water Heaters (Roger Penske),Ford,316.0,running,0.0,12.0,0.0
+2023,4,Phoenix,26.0,28.0,7.0,Corey LaJoie,EnviroXstream (Spire Motorsports),Chevrolet,316.0,running,0.0,11.0,0.0
+2023,4,Phoenix,27.0,26.0,31.0,Justin Haley,LeafFilter Gutter Protection (Matthew Kaulig),Chevrolet,316.0,running,0.0,10.0,0.0
+2023,4,Phoenix,28.0,14.0,54.0,Ty Gibbs,Monster Energy (Joe Gibbs),Toyota,316.0,running,0.0,9.0,0.0
+2023,4,Phoenix,29.0,32.0,42.0,Noah Gragson,Sunseeker Resort (Legacy Motor Club),Chevrolet,316.0,running,0.0,8.0,0.0
+2023,4,Phoenix,30.0,35.0,77.0,Ty Dillon,Mutoh (Spire Motorsports),Chevrolet,315.0,running,0.0,7.0,0.0
+2023,4,Phoenix,31.0,34.0,38.0,Zane Smith,Wellcare (Bob Jenkins),Ford,315.0,running,0.0,0.0,0.0
+2023,4,Phoenix,32.0,29.0,15.0,Todd Gilliland,OTR Mobile (Rick Ware),Ford,314.0,running,0.0,5.0,0.0
+2023,4,Phoenix,33.0,31.0,10.0,Aric Almirola,Go Bowling (Stewart Haas Racing),Ford,313.0,running,0.0,4.0,0.0
+2023,4,Phoenix,34.0,36.0,51.0,Cody Ware,Biohaven/Jacob Co. (Rick Ware),Ford,311.0,running,0.0,3.0,0.0
+2023,4,Phoenix,35.0,27.0,21.0,Harrison Burton,DEX Imaging (Wood Brothers),Ford,310.0,running,0.0,2.0,0.0
+2023,4,Phoenix,36.0,33.0,78.0,B.J. McLeod,Superior Logistics Services (B.J. McLeod),Chevrolet,50.0,fuel pump,0.0,1.0,0.0
+2023,5,Atlanta,1.0,1.0,22.0,Joey Logano,AutoTrader (Roger Penske),Ford,260.0,running,140.0,59.0,6.0
+2023,5,Atlanta,2.0,4.0,6.0,Brad Keselowski,King's Hawaiian (Jack Roush),Ford,260.0,running,47.0,45.0,0.0
+2023,5,Atlanta,3.0,10.0,20.0,Christopher Bell,DEWALT (Joe Gibbs),Toyota,260.0,running,6.0,39.0,0.0
+2023,5,Atlanta,4.0,31.0,7.0,Corey LaJoie,Celsius (Spire Motorsports),Chevrolet,260.0,running,0.0,34.0,0.0
+2023,5,Atlanta,5.0,16.0,45.0,Tyler Reddick,Xfinity 10G Network (23XI Racing),Toyota,260.0,running,0.0,39.0,0.0
+2023,5,Atlanta,6.0,14.0,11.0,Denny Hamlin,Shingrix (Joe Gibbs),Toyota,260.0,running,14.0,40.0,0.0
+2023,5,Atlanta,7.0,3.0,12.0,Ryan Blaney,BodyArmor Sport Water (Roger Penske),Ford,260.0,running,5.0,37.0,0.0
+2023,5,Atlanta,8.0,28.0,43.0,Erik Jones,Allegiant (Legacy Motor Club),Chevrolet,260.0,running,0.0,29.0,0.0
+2023,5,Atlanta,9.0,35.0,54.0,Ty Gibbs,Monster Energy (Joe Gibbs),Toyota,260.0,running,0.0,28.0,0.0
+2023,5,Atlanta,10.0,17.0,8.0,Kyle Busch,Lenovo (Richard Childress),Chevrolet,260.0,running,7.0,31.0,0.0
+2023,5,Atlanta,11.0,2.0,2.0,Austin Cindric,Menards Knauf (Roger Penske),Ford,260.0,running,5.0,45.0,1.0
+2023,5,Atlanta,12.0,22.0,42.0,Noah Gragson,Sunseeker Resort (Legacy Motor Club),Chevrolet,260.0,running,0.0,25.0,0.0
+2023,5,Atlanta,13.0,18.0,1.0,Ross Chastain,AdventHealth (Trackhouse Racing),Chevrolet,260.0,running,5.0,24.0,0.0
+2023,5,Atlanta,14.0,15.0,48.0,Alex Bowman,Ally (Rick Hendrick),Chevrolet,260.0,running,0.0,31.0,0.0
+2023,5,Atlanta,15.0,23.0,38.0,Todd Gilliland,Gary Martin Hays (Bob Jenkins),Ford,260.0,running,0.0,22.0,0.0
+2023,5,Atlanta,16.0,30.0,16.0,A.J. Allmendinger,Action Industries (Matthew Kaulig),Chevrolet,260.0,running,0.0,21.0,0.0
+2023,5,Atlanta,17.0,27.0,47.0,Ricky Stenhouse Jr,Kroger/Nature Valley (JTG-Daugherty Racing),Chevrolet,260.0,running,7.0,20.0,0.0
+2023,5,Atlanta,18.0,21.0,9.0,Josh Berry,NAPA Auto Parts (Rick Hendrick),Chevrolet,260.0,running,0.0,0.0,0.0
+2023,5,Atlanta,19.0,29.0,19.0,Martin Truex Jr,Bass Pro Shops (Joe Gibbs),Toyota,260.0,running,0.0,23.0,0.0
+2023,5,Atlanta,20.0,13.0,3.0,Austin Dillon,Andy's Frozen Custard (Richard Childress),Chevrolet,260.0,running,0.0,17.0,0.0
+2023,5,Atlanta,21.0,12.0,34.0,Michael McDowell,Fr8Auctions.com (Bob Jenkins),Ford,260.0,running,0.0,16.0,0.0
+2023,5,Atlanta,22.0,20.0,31.0,Justin Haley,LeafFilter Gutter Protection (Matthew Kaulig),Chevrolet,260.0,running,0.0,15.0,0.0
+2023,5,Atlanta,23.0,26.0,77.0,Ty Dillon,Ferris Commercial Mowers (Spire Motorsports),Chevrolet,260.0,running,0.0,14.0,0.0
+2023,5,Atlanta,24.0,8.0,14.0,Chase Briscoe,HighPoint.com (Stewart Haas Racing),Ford,259.0,running,0.0,13.0,0.0
+2023,5,Atlanta,25.0,32.0,51.0,Cody Ware,Biohaven/Jacob Co. (Rick Ware),Ford,258.0,running,1.0,12.0,0.0
+2023,5,Atlanta,26.0,34.0,15.0,J.J. Yeley,Barnett Southern Corporation (Rick Ware),Ford,258.0,running,0.0,0.0,0.0
+2023,5,Atlanta,27.0,19.0,23.0,Bubba Wallace,Door Dash (23XI Racing),Toyota,255.0,running,0.0,10.0,0.0
+2023,5,Atlanta,28.0,24.0,41.0,Ryan Preece,Autodesk/HaasTooling.com (Stewart Haas Racing),Ford,244.0,running,0.0,9.0,0.0
+2023,5,Atlanta,29.0,25.0,99.0,Daniel Suarez,Tootsies Orchid Lounge (Trackhouse Racing),Chevrolet,213.0,dvp,0.0,10.0,0.0
+2023,5,Atlanta,30.0,5.0,10.0,Aric Almirola,Smithfield (Stewart Haas Racing),Ford,208.0,crash,17.0,7.0,0.0
+2023,5,Atlanta,31.0,9.0,5.0,Kyle Larson,HendrickCars.com (Rick Hendrick),Chevrolet,208.0,crash,0.0,6.0,0.0
+2023,5,Atlanta,32.0,11.0,24.0,William Byron,Liberty University (Rick Hendrick),Chevrolet,192.0,crash,0.0,11.0,0.0
+2023,5,Atlanta,33.0,6.0,4.0,Kevin Harvick,Busch Light (Stewart Haas Racing),Ford,190.0,crash,1.0,4.0,0.0
+2023,5,Atlanta,34.0,33.0,21.0,Harrison Burton,Motorcraft/Quick Lane (Wood Brothers),Ford,190.0,dvp,0.0,3.0,0.0
+2023,5,Atlanta,35.0,7.0,17.0,Chris Buescher,Violet Defense (Jack Roush),Ford,189.0,crash,5.0,10.0,0.0
+2023,5,Atlanta,36.0,36.0,78.0,B.J. McLeod,B'laster (B.J. McLeod),Chevrolet,189.0,crash,0.0,1.0,0.0
+2023,6,Austin,1.0,2.0,45.0,Tyler Reddick,Monster Energy (23XI Racing),Toyota,75.0,running,41.0,50.0,6.0
+2023,6,Austin,2.0,9.0,8.0,Kyle Busch,Netspend (Richard Childress),Chevrolet,75.0,running,0.0,39.0,0.0
+2023,6,Austin,3.0,6.0,48.0,Alex Bowman,Ally (Rick Hendrick),Chevrolet,75.0,running,0.0,41.0,0.0
+2023,6,Austin,4.0,12.0,1.0,Ross Chastain,Worldwide Express (Trackhouse Racing),Chevrolet,75.0,running,0.0,39.0,0.0
+2023,6,Austin,5.0,1.0,24.0,William Byron,Liberty University (Rick Hendrick),Chevrolet,75.0,running,28.0,42.0,1.0
+2023,6,Austin,6.0,3.0,2.0,Austin Cindric,Discount Tire (Roger Penske),Ford,75.0,running,2.0,40.0,0.0
+2023,6,Austin,7.0,18.0,47.0,Ricky Stenhouse Jr,Kroger/Blue Buffalo (JTG-Daugherty Racing),Chevrolet,75.0,running,0.0,35.0,0.0
+2023,6,Austin,8.0,32.0,17.0,Chris Buescher,Fifth Third Bank (Jack Roush),Ford,75.0,running,1.0,35.0,0.0
+2023,6,Austin,9.0,17.0,54.0,Ty Gibbs,He Gets Us (Joe Gibbs),Toyota,75.0,running,0.0,28.0,0.0
+2023,6,Austin,10.0,36.0,38.0,Todd Gilliland,Ruedebusch (Bob Jenkins),Ford,75.0,running,0.0,27.0,0.0
+2023,6,Austin,11.0,27.0,7.0,Corey LaJoie,OpTic Gaming (Spire Motorsports),Chevrolet,75.0,running,0.0,26.0,0.0
+2023,6,Austin,12.0,20.0,34.0,Michael McDowell,Love's Travel Stops (Bob Jenkins),Ford,75.0,running,0.0,33.0,0.0
+2023,6,Austin,13.0,29.0,4.0,Kevin Harvick,Mobil 1 (Stewart Haas Racing),Ford,75.0,running,0.0,31.0,0.0
+2023,6,Austin,14.0,13.0,5.0,Kyle Larson,HendrickCars.com (Rick Hendrick),Chevrolet,75.0,running,0.0,27.0,0.0
+2023,6,Austin,15.0,19.0,14.0,Chase Briscoe,Mahindra Tractors (Stewart Haas Racing),Ford,75.0,running,0.0,24.0,0.0
+2023,6,Austin,16.0,21.0,11.0,Denny Hamlin,Interstate Batteries (Joe Gibbs),Toyota,75.0,running,0.0,21.0,0.0
+2023,6,Austin,17.0,25.0,19.0,Martin Truex Jr,Bass Pro Shops (Joe Gibbs),Toyota,75.0,running,0.0,20.0,0.0
+2023,6,Austin,18.0,24.0,15.0,Jenson Button,Mobil 1 (Rick Ware),Ford,75.0,running,0.0,19.0,0.0
+2023,6,Austin,19.0,23.0,31.0,Justin Haley,Celsius (Matthew Kaulig),Chevrolet,75.0,running,0.0,18.0,0.0
+2023,6,Austin,20.0,10.0,42.0,Noah Gragson,Black Rifle Coffee Company (Legacy Motor Club),Chevrolet,75.0,running,0.0,18.0,0.0
+2023,6,Austin,21.0,38.0,12.0,Ryan Blaney,Menards Knauf (Roger Penske),Ford,75.0,running,0.0,16.0,0.0
+2023,6,Austin,22.0,16.0,21.0,Harrison Burton,Motorcraft/Quick Lane (Wood Brothers),Ford,75.0,running,0.0,15.0,0.0
+2023,6,Austin,23.0,8.0,43.0,Erik Jones,Allegiant (Legacy Motor Club),Chevrolet,75.0,running,0.0,17.0,0.0
+2023,6,Austin,24.0,4.0,9.0,Jordan Taylor,UniFirst (Rick Hendrick),Chevrolet,75.0,running,0.0,16.0,0.0
+2023,6,Austin,25.0,37.0,51.0,Cody Ware,PublicSq. (Rick Ware),Ford,75.0,running,0.0,12.0,0.0
+2023,6,Austin,26.0,33.0,78.0,Josh Bilicki,Zeigler Auto Group (B.J. McLeod),Chevrolet,75.0,running,0.0,0.0,0.0
+2023,6,Austin,27.0,5.0,99.0,Daniel Suarez,Freeway Insurance (Trackhouse Racing),Chevrolet,75.0,running,1.0,15.0,0.0
+2023,6,Austin,28.0,15.0,22.0,Joey Logano,Shell Pennzoil (Roger Penske),Ford,75.0,running,1.0,9.0,0.0
+2023,6,Austin,29.0,22.0,91.0,Kimi Raikkonen,Onx Homes / iLOQ (Trackhouse Racing),Chevrolet,75.0,running,0.0,8.0,0.0
+2023,6,Austin,30.0,39.0,10.0,Aric Almirola,Smithfield (Stewart Haas Racing),Ford,74.0,running,0.0,7.0,0.0
+2023,6,Austin,31.0,14.0,20.0,Christopher Bell,DEWALT (Joe Gibbs),Toyota,73.0,crash,1.0,8.0,0.0
+2023,6,Austin,32.0,26.0,41.0,Ryan Preece,HaasTooling.com (Stewart Haas Racing),Ford,68.0,crash,0.0,6.0,0.0
+2023,6,Austin,33.0,28.0,3.0,Austin Dillon,Get Bioethanol (Richard Childress),Chevrolet,62.0,crash,0.0,13.0,0.0
+2023,6,Austin,34.0,7.0,16.0,A.J. Allmendinger,Farmsmart (Matthew Kaulig),Chevrolet,60.0,crash,0.0,11.0,0.0
+2023,6,Austin,35.0,30.0,6.0,Brad Keselowski,Wyndham Rewards (Jack Roush),Ford,56.0,driveshaft,0.0,2.0,0.0
+2023,6,Austin,36.0,35.0,50.0,Conor Daly,Bitnile.com (TMT Racing),Chevrolet,16.0,transmission,0.0,1.0,0.0
+2023,6,Austin,37.0,11.0,23.0,Bubba Wallace,MoneyLion (23XI Racing),Toyota,10.0,crash,0.0,1.0,0.0
+2023,6,Austin,38.0,31.0,84.0,Jimmie Johnson,Club Wyndham (Legacy Motor Club),Chevrolet,0.0,dvp,0.0,1.0,0.0
+2023,6,Austin,39.0,34.0,77.0,Ty Dillon,Ferris Commercial Mowers (Spire Motorsports),Chevrolet,0.0,crash,0.0,1.0,0.0
+2023,7,Richmond,1.0,9.0,5.0,Kyle Larson,HendrickCars.com (Rick Hendrick),Chevrolet,400.0,running,93.0,52.0,5.0
+2023,7,Richmond,2.0,30.0,9.0,Josh Berry,NAPA Auto Parts (Rick Hendrick),Chevrolet,400.0,running,10.0,0.0,0.0
+2023,7,Richmond,3.0,4.0,1.0,Ross Chastain,Jockey (Trackhouse Racing),Chevrolet,400.0,running,16.0,48.0,0.0
+2023,7,Richmond,4.0,21.0,20.0,Christopher Bell,Rheem (Joe Gibbs),Toyota,400.0,running,26.0,45.0,0.0
+2023,7,Richmond,5.0,10.0,4.0,Kevin Harvick,Gearwrench (Stewart Haas Racing),Ford,400.0,running,0.0,41.0,0.0
+2023,7,Richmond,6.0,15.0,34.0,Michael McDowell,Love's Travel Stops (Bob Jenkins),Ford,400.0,running,0.0,31.0,0.0
+2023,7,Richmond,7.0,18.0,22.0,Joey Logano,Shell Pennzoil (Roger Penske),Ford,400.0,running,0.0,36.0,0.0
+2023,7,Richmond,8.0,1.0,48.0,Alex Bowman,Ally (Rick Hendrick),Chevrolet,400.0,running,8.0,-23.0,-5.0
+2023,7,Richmond,9.0,14.0,54.0,Ty Gibbs,Monster Energy (Joe Gibbs),Toyota,400.0,running,0.0,29.0,0.0
+2023,7,Richmond,10.0,24.0,6.0,Brad Keselowski,Solomon Plumbing (Jack Roush),Ford,400.0,running,1.0,34.0,0.0
+2023,7,Richmond,11.0,12.0,19.0,Martin Truex Jr,Auto-Owners Insurance (Joe Gibbs),Toyota,400.0,running,56.0,33.0,0.0
+2023,7,Richmond,12.0,19.0,14.0,Chase Briscoe,Mahindra Tractors (Stewart Haas Racing),Ford,400.0,running,0.0,26.0,0.0
+2023,7,Richmond,13.0,32.0,10.0,Aric Almirola,Smithfield (Stewart Haas Racing),Ford,400.0,running,0.0,24.0,0.0
+2023,7,Richmond,14.0,2.0,8.0,Kyle Busch,3CHI (Richard Childress),Chevrolet,400.0,running,1.0,23.0,0.0
+2023,7,Richmond,15.0,13.0,38.0,Todd Gilliland,Quincy Compressor (Bob Jenkins),Ford,400.0,running,0.0,22.0,0.0
+2023,7,Richmond,16.0,5.0,45.0,Tyler Reddick,SiriusXM Radio (23XI Racing),Toyota,400.0,running,0.0,26.0,0.0
+2023,7,Richmond,17.0,37.0,13.0,Chandler Smith,"Quick Tie Products, Inc. (Matthew Kaulig)",Chevrolet,400.0,running,0.0,0.0,0.0
+2023,7,Richmond,18.0,33.0,41.0,Ryan Preece,United Rentals (Stewart Haas Racing),Ford,400.0,running,0.0,19.0,0.0
+2023,7,Richmond,19.0,26.0,21.0,Harrison Burton,Menards Dutch Boy (Wood Brothers),Ford,400.0,running,0.0,18.0,0.0
+2023,7,Richmond,20.0,11.0,11.0,Denny Hamlin,Shingrix (Joe Gibbs),Toyota,400.0,running,71.0,27.0,1.0
+2023,7,Richmond,21.0,16.0,7.0,Corey LaJoie,BlueGreen Vacations (Spire Motorsports),Chevrolet,400.0,running,0.0,16.0,0.0
+2023,7,Richmond,22.0,28.0,23.0,Bubba Wallace,Leidos (23XI Racing),Toyota,400.0,running,1.0,15.0,0.0
+2023,7,Richmond,23.0,20.0,99.0,Daniel Suarez,Quaker State (Trackhouse Racing),Chevrolet,400.0,running,0.0,14.0,0.0
+2023,7,Richmond,24.0,3.0,24.0,William Byron,RaptorTough.com (Rick Hendrick),Chevrolet,400.0,running,117.0,-29.0,-4.0
+2023,7,Richmond,25.0,27.0,3.0,Austin Dillon,BREZTRI (Richard Childress),Chevrolet,399.0,running,0.0,12.0,0.0
+2023,7,Richmond,26.0,17.0,12.0,Ryan Blaney,Menards Moen (Roger Penske),Ford,399.0,running,0.0,11.0,0.0
+2023,7,Richmond,27.0,25.0,16.0,A.J. Allmendinger,Action Industries (Matthew Kaulig),Chevrolet,399.0,running,0.0,10.0,0.0
+2023,7,Richmond,28.0,6.0,2.0,Austin Cindric,Discount Tire (Roger Penske),Ford,399.0,running,0.0,9.0,0.0
+2023,7,Richmond,29.0,29.0,31.0,Justin Haley,LeafFilter Gutter Protection (Matthew Kaulig),Chevrolet,399.0,running,0.0,8.0,0.0
+2023,7,Richmond,30.0,7.0,17.0,Chris Buescher,Castrol Edge (Jack Roush),Ford,398.0,running,0.0,7.0,0.0
+2023,7,Richmond,31.0,22.0,43.0,Erik Jones,U.S. Air Force (Legacy Motor Club),Chevrolet,398.0,running,0.0,6.0,0.0
+2023,7,Richmond,32.0,36.0,77.0,Ty Dillon,Nations Guard (Spire Motorsports),Chevrolet,398.0,running,0.0,5.0,0.0
+2023,7,Richmond,33.0,35.0,78.0,Anthony Alfredo,Dude Wipes (B.J. McLeod),Chevrolet,396.0,running,0.0,0.0,0.0
+2023,7,Richmond,34.0,31.0,51.0,Cody Ware,Biohaven/Jacob Co. (Rick Ware),Ford,395.0,running,0.0,3.0,0.0
+2023,7,Richmond,35.0,8.0,47.0,Ricky Stenhouse Jr,Kroger/Kraft Mac & Cheese (JTG-Daugherty Racing),Chevrolet,384.0,running,0.0,2.0,0.0
+2023,7,Richmond,36.0,34.0,15.0,J.J. Yeley,CW & Sons Infrastructure (Rick Ware),Ford,383.0,running,0.0,0.0,0.0
+2023,7,Richmond,37.0,23.0,42.0,Noah Gragson,Sunseeker Resort (Legacy Motor Club),Chevrolet,303.0,crash,0.0,1.0,0.0
+2023,8,Bristol (Dirt),1.0,4.0,20.0,Christopher Bell,DEWALT POWERSTACK (Joe Gibbs),Toyota,250.0,running,100.0,52.0,5.0
+2023,8,Bristol (Dirt),2.0,6.0,45.0,Tyler Reddick,SiriusXM Radio (23XI Racing),Toyota,250.0,running,69.0,48.0,1.0
+2023,8,Bristol (Dirt),3.0,2.0,3.0,Austin Dillon,BREZTRI (Richard Childress),Chevrolet,250.0,running,0.0,52.0,0.0
+2023,8,Bristol (Dirt),4.0,22.0,47.0,Ricky Stenhouse Jr,Kroger/ Irish Spring (JTG-Daugherty Racing),Chevrolet,250.0,running,0.0,33.0,0.0
+2023,8,Bristol (Dirt),5.0,14.0,14.0,Chase Briscoe,Magical Vacation Planner (Stewart Haas Racing),Ford,250.0,running,0.0,41.0,0.0
+2023,8,Bristol (Dirt),6.0,25.0,31.0,Justin Haley,Tide (Matthew Kaulig),Chevrolet,250.0,running,0.0,35.0,0.0
+2023,8,Bristol (Dirt),7.0,27.0,19.0,Martin Truex Jr,Auto-Owners Insurance (Joe Gibbs),Toyota,250.0,running,0.0,34.0,0.0
+2023,8,Bristol (Dirt),8.0,15.0,38.0,Todd Gilliland,Speedy Cash (Bob Jenkins),Ford,250.0,running,0.0,29.0,0.0
+2023,8,Bristol (Dirt),9.0,26.0,4.0,Kevin Harvick,Busch Light (Stewart Haas Racing),Ford,250.0,running,0.0,28.0,0.0
+2023,8,Bristol (Dirt),10.0,23.0,54.0,Ty Gibbs,Interstate Batteries (Joe Gibbs),Toyota,250.0,running,0.0,27.0,0.0
+2023,8,Bristol (Dirt),11.0,13.0,34.0,Michael McDowell,Love's Travel Stops (Bob Jenkins),Ford,250.0,running,0.0,26.0,0.0
+2023,8,Bristol (Dirt),12.0,11.0,23.0,Bubba Wallace,McDonald's/Dr Pepper (23XI Racing),Toyota,250.0,running,0.0,25.0,0.0
+2023,8,Bristol (Dirt),13.0,10.0,24.0,William Byron,RaptorTough.com (Rick Hendrick),Chevrolet,250.0,running,0.0,25.0,0.0
+2023,8,Bristol (Dirt),14.0,18.0,43.0,Erik Jones,Club Wyndham (Legacy Motor Club),Chevrolet,250.0,running,0.0,23.0,0.0
+2023,8,Bristol (Dirt),15.0,20.0,21.0,Harrison Burton,DEX Imaging (Wood Brothers),Ford,250.0,running,0.0,22.0,0.0
+2023,8,Bristol (Dirt),16.0,29.0,16.0,A.J. Allmendinger,Gain (Matthew Kaulig),Chevrolet,250.0,running,0.0,21.0,0.0
+2023,8,Bristol (Dirt),17.0,33.0,6.0,Brad Keselowski,King's Hawaiian (Jack Roush),Ford,250.0,running,0.0,20.0,0.0
+2023,8,Bristol (Dirt),18.0,28.0,17.0,Chris Buescher,Fastenal (Jack Roush),Ford,250.0,running,0.0,19.0,0.0
+2023,8,Bristol (Dirt),19.0,7.0,2.0,Austin Cindric,Discount Tire (Roger Penske),Ford,250.0,running,0.0,18.0,0.0
+2023,8,Bristol (Dirt),20.0,3.0,15.0,J.J. Yeley,PublicSq. (Rick Ware),Ford,250.0,running,0.0,0.0,0.0
+2023,8,Bristol (Dirt),21.0,32.0,77.0,Ty Dillon,Ferris Commercial Mowers (Spire Motorsports),Chevrolet,250.0,running,0.0,16.0,0.0
+2023,8,Bristol (Dirt),22.0,30.0,11.0,Denny Hamlin,FedEx Ground (Joe Gibbs),Toyota,250.0,running,0.0,15.0,0.0
+2023,8,Bristol (Dirt),23.0,9.0,12.0,Ryan Blaney,Menards Maytag (Roger Penske),Ford,250.0,running,0.0,23.0,0.0
+2023,8,Bristol (Dirt),24.0,8.0,41.0,Ryan Preece,United Rentals (Stewart Haas Racing),Ford,250.0,running,0.0,20.0,0.0
+2023,8,Bristol (Dirt),25.0,34.0,99.0,Daniel Suarez,Jockey (Trackhouse Racing),Chevrolet,250.0,running,0.0,12.0,0.0
+2023,8,Bristol (Dirt),26.0,37.0,78.0,B.J. McLeod,Gunk (B.J. McLeod),Chevrolet,250.0,running,0.0,11.0,0.0
+2023,8,Bristol (Dirt),27.0,31.0,9.0,Josh Berry,Hooters (Rick Hendrick),Chevrolet,250.0,running,0.0,0.0,0.0
+2023,8,Bristol (Dirt),28.0,16.0,1.0,Ross Chastain,AdventHealth (Trackhouse Racing),Chevrolet,249.0,running,0.0,9.0,0.0
+2023,8,Bristol (Dirt),29.0,17.0,48.0,Alex Bowman,Ally (Rick Hendrick),Chevrolet,248.0,running,0.0,8.0,0.0
+2023,8,Bristol (Dirt),30.0,35.0,7.0,Corey LaJoie,Nations Guard (Spire Motorsports),Chevrolet,247.0,running,0.0,7.0,0.0
+2023,8,Bristol (Dirt),31.0,19.0,10.0,Aric Almirola,Smithfield (Stewart Haas Racing),Ford,240.0,running,0.0,7.0,0.0
+2023,8,Bristol (Dirt),32.0,5.0,8.0,Kyle Busch,Cheddar's Scratch Kitchen (Richard Childress),Chevrolet,236.0,suspension,6.0,19.0,0.0
+2023,8,Bristol (Dirt),33.0,36.0,42.0,Noah Gragson,Sunseeker Resort (Legacy Motor Club),Chevrolet,205.0,running,0.0,4.0,0.0
+2023,8,Bristol (Dirt),34.0,24.0,51.0,Matt Crafton,Biohaven/Jacob Co. (Rick Ware),Ford,185.0,engine,0.0,0.0,0.0
+2023,8,Bristol (Dirt),35.0,1.0,5.0,Kyle Larson,HendrickCars.com (Rick Hendrick),Chevrolet,177.0,crash,75.0,20.0,1.0
+2023,8,Bristol (Dirt),36.0,21.0,13.0,Jonathan Davenport,Nutrien Ag Solutions (Matthew Kaulig),Chevrolet,176.0,crash,0.0,1.0,0.0
+2023,8,Bristol (Dirt),37.0,12.0,22.0,Joey Logano,Shell Pennzoil (Roger Penske),Ford,96.0,crash,0.0,1.0,0.0
+2023,9,Martinsville,1.0,19.0,5.0,Kyle Larson,HendrickCars.com (Rick Hendrick),Chevrolet,400.0,running,30.0,43.0,5.0
+2023,9,Martinsville,2.0,15.0,22.0,Joey Logano,Verizon 5G (Roger Penske),Ford,400.0,running,25.0,35.0,0.0
+2023,9,Martinsville,3.0,5.0,19.0,Martin Truex Jr,Bass Pro Shops (Joe Gibbs),Toyota,400.0,running,0.0,34.0,0.0
+2023,9,Martinsville,4.0,11.0,11.0,Denny Hamlin,SportClips Haircuts (Joe Gibbs),Toyota,400.0,running,36.0,44.0,0.0
+2023,9,Martinsville,5.0,4.0,14.0,Chase Briscoe,HighPoint.com (Stewart Haas Racing),Ford,400.0,running,109.0,47.0,0.0
+2023,9,Martinsville,6.0,3.0,10.0,Aric Almirola,Smithfield (Stewart Haas Racing),Ford,400.0,running,0.0,42.0,0.0
+2023,9,Martinsville,7.0,31.0,12.0,Ryan Blaney,Advance Auto Parts (Roger Penske),Ford,400.0,running,0.0,30.0,0.0
+2023,9,Martinsville,8.0,16.0,47.0,Ricky Stenhouse Jr,Kroger/Tree Top (JTG-Daugherty Racing),Chevrolet,400.0,running,0.0,29.0,0.0
+2023,9,Martinsville,9.0,9.0,23.0,Bubba Wallace,McDonald's (23XI Racing),Toyota,400.0,running,0.0,32.0,0.0
+2023,9,Martinsville,10.0,24.0,9.0,Chase Elliott,NAPA Auto Parts (Rick Hendrick),Chevrolet,400.0,running,0.0,27.0,0.0
+2023,9,Martinsville,11.0,23.0,48.0,Alex Bowman,Ally (Rick Hendrick),Chevrolet,400.0,running,0.0,26.0,0.0
+2023,9,Martinsville,12.0,18.0,3.0,Austin Dillon,Bass Pro Shops (Richard Childress),Chevrolet,400.0,running,0.0,-35.0,-5.0
+2023,9,Martinsville,13.0,34.0,1.0,Ross Chastain,Unishippers (Trackhouse Racing),Chevrolet,400.0,running,31.0,29.0,0.0
+2023,9,Martinsville,14.0,10.0,17.0,Chris Buescher,Nexletol (Jack Roush),Ford,400.0,running,0.0,23.0,0.0
+2023,9,Martinsville,15.0,1.0,41.0,Ryan Preece,HaasTooling.com (Stewart Haas Racing),Ford,400.0,running,135.0,32.0,1.0
+2023,9,Martinsville,16.0,22.0,20.0,Christopher Bell,Shingrix (Joe Gibbs),Toyota,400.0,running,0.0,21.0,0.0
+2023,9,Martinsville,17.0,2.0,99.0,Daniel Suarez,Worldwide Express (Trackhouse Racing),Chevrolet,400.0,running,7.0,30.0,0.0
+2023,9,Martinsville,18.0,12.0,54.0,Ty Gibbs,Monster Energy (Joe Gibbs),Toyota,400.0,running,0.0,19.0,0.0
+2023,9,Martinsville,19.0,20.0,34.0,Michael McDowell,LONG JOHN SILVER'S (Bob Jenkins),Ford,400.0,running,0.0,18.0,0.0
+2023,9,Martinsville,20.0,7.0,4.0,Kevin Harvick,Realtree / Hunt Brothers Pizza (Stewart Haas Racing),Ford,400.0,running,20.0,32.0,1.0
+2023,9,Martinsville,21.0,17.0,8.0,Kyle Busch,Mark III Employee Benefits (Richard Childress),Chevrolet,400.0,running,0.0,16.0,0.0
+2023,9,Martinsville,22.0,6.0,45.0,Tyler Reddick,The Beast Unleashed (23XI Racing),Toyota,400.0,running,0.0,30.0,0.0
+2023,9,Martinsville,23.0,8.0,24.0,William Byron,Liberty University (Rick Hendrick),Chevrolet,400.0,running,0.0,15.0,0.0
+2023,9,Martinsville,24.0,21.0,6.0,Brad Keselowski,Fastenal (Jack Roush),Ford,400.0,running,7.0,19.0,0.0
+2023,9,Martinsville,25.0,13.0,38.0,Todd Gilliland,Frontline Enterprises INC. (Bob Jenkins),Ford,399.0,running,0.0,16.0,0.0
+2023,9,Martinsville,26.0,27.0,7.0,Corey LaJoie,NEGU (Spire Motorsports),Chevrolet,399.0,running,0.0,11.0,0.0
+2023,9,Martinsville,27.0,14.0,16.0,A.J. Allmendinger,Action Industries (Matthew Kaulig),Chevrolet,399.0,running,0.0,10.0,0.0
+2023,9,Martinsville,28.0,26.0,31.0,Justin Haley,LeafFilter Gutter Protection (Matthew Kaulig),Chevrolet,398.0,running,0.0,9.0,0.0
+2023,9,Martinsville,29.0,32.0,21.0,Harrison Burton,Motorcraft/Quick Lane (Wood Brothers),Ford,398.0,running,0.0,8.0,0.0
+2023,9,Martinsville,30.0,29.0,42.0,Noah Gragson,Sunseeker Resort (Legacy Motor Club),Chevrolet,398.0,running,0.0,7.0,0.0
+2023,9,Martinsville,31.0,28.0,43.0,Erik Jones,Allegiant (Legacy Motor Club),Chevrolet,398.0,running,0.0,6.0,0.0
+2023,9,Martinsville,32.0,35.0,77.0,Ty Dillon,Nations Guard (Spire Motorsports),Chevrolet,397.0,running,0.0,5.0,0.0
+2023,9,Martinsville,33.0,25.0,2.0,Austin Cindric,Menards Libman (Roger Penske),Ford,397.0,running,0.0,4.0,0.0
+2023,9,Martinsville,34.0,33.0,51.0,Zane Smith,Biohaven/Jacob Co. (Rick Ware),Ford,395.0,running,0.0,0.0,0.0
+2023,9,Martinsville,35.0,30.0,78.0,Anthony Alfredo,Andy's Frozen Custard (B.J. McLeod),Chevrolet,390.0,running,0.0,0.0,0.0
+2023,9,Martinsville,36.0,36.0,15.0,J.J. Yeley,Isaacson Concrete & Excavating (Rick Ware),Ford,337.0,crash,0.0,0.0,0.0
+2023,10,Talladega,1.0,17.0,8.0,Kyle Busch,McLaren Custom Grills (Richard Childress),Chevrolet,196.0,running,3.0,40.0,5.0
+2023,10,Talladega,2.0,5.0,12.0,Ryan Blaney,Wurth (Roger Penske),Ford,196.0,running,47.0,35.0,0.0
+2023,10,Talladega,3.0,10.0,17.0,Chris Buescher,Fastenal (Jack Roush),Ford,196.0,running,0.0,34.0,0.0
+2023,10,Talladega,4.0,4.0,14.0,Chase Briscoe,Mahindra Tractors YOG (Stewart Haas Racing),Ford,196.0,running,1.0,33.0,0.0
+2023,10,Talladega,5.0,20.0,6.0,Brad Keselowski,Castrol Edge (Jack Roush),Ford,196.0,running,2.0,32.0,0.0
+2023,10,Talladega,6.0,24.0,43.0,Erik Jones,U.S. Air Force (Legacy Motor Club),Chevrolet,196.0,running,3.0,31.0,0.0
+2023,10,Talladega,7.0,18.0,24.0,William Byron,Liberty University (Rick Hendrick),Chevrolet,196.0,running,1.0,37.0,0.0
+2023,10,Talladega,8.0,6.0,20.0,Christopher Bell,Rheem (Joe Gibbs),Toyota,196.0,running,0.0,29.0,0.0
+2023,10,Talladega,9.0,22.0,99.0,Daniel Suarez,Tootsies Orchid Lounge (Trackhouse Racing),Chevrolet,196.0,running,5.0,29.0,0.0
+2023,10,Talladega,10.0,28.0,36.0,Todd Gilliland,gener8tor Skills (Bob Jenkins),Ford,196.0,running,0.0,27.0,0.0
+2023,10,Talladega,11.0,38.0,51.0,J.J. Yeley,Jacob Companies (Rick Ware),Ford,196.0,running,0.0,0.0,0.0
+2023,10,Talladega,12.0,29.0,9.0,Chase Elliott,NAPA Auto Parts (Rick Hendrick),Chevrolet,196.0,running,18.0,44.0,1.0
+2023,10,Talladega,13.0,27.0,48.0,Alex Bowman,Ally (Rick Hendrick),Chevrolet,196.0,running,8.0,33.0,0.0
+2023,10,Talladega,14.0,32.0,77.0,Ty Dillon,Nations Guard (Spire Motorsports),Chevrolet,196.0,running,0.0,23.0,0.0
+2023,10,Talladega,15.0,33.0,47.0,Ricky Stenhouse Jr,Kroger/Cheez-It (JTG-Daugherty Racing),Chevrolet,196.0,running,0.0,24.0,0.0
+2023,10,Talladega,16.0,13.0,45.0,Tyler Reddick,MoneyLion (23XI Racing),Toyota,196.0,running,0.0,21.0,0.0
+2023,10,Talladega,17.0,1.0,11.0,Denny Hamlin,FedEx Freight Direct (Joe Gibbs),Toyota,196.0,running,7.0,23.0,0.0
+2023,10,Talladega,18.0,37.0,78.0,B.J. McLeod,B'laster (B.J. McLeod),Chevrolet,196.0,running,1.0,19.0,0.0
+2023,10,Talladega,19.0,26.0,31.0,Justin Haley,LeafFilter Gutter Protection (Matthew Kaulig),Chevrolet,196.0,running,0.0,18.0,0.0
+2023,10,Talladega,20.0,36.0,15.0,Riley Herbst,Monster Energy/Mechanix Wear (Rick Ware),Ford,196.0,running,0.0,0.0,0.0
+2023,10,Talladega,21.0,11.0,4.0,Kevin Harvick,Mobil 1 (Stewart Haas Racing),Ford,196.0,running,11.0,24.0,0.0
+2023,10,Talladega,22.0,2.0,10.0,Aric Almirola,Smithfield (Stewart Haas Racing),Ford,196.0,running,11.0,25.0,1.0
+2023,10,Talladega,23.0,23.0,1.0,Ross Chastain,Moose Fraternity (Trackhouse Racing),Chevrolet,196.0,running,3.0,22.0,0.0
+2023,10,Talladega,24.0,31.0,62.0,Austin Hill,Realtree (Beard Motorsports),Chevrolet,196.0,running,0.0,0.0,0.0
+2023,10,Talladega,25.0,34.0,7.0,Corey LaJoie,Celsius (Spire Motorsports),Chevrolet,196.0,running,0.0,12.0,0.0
+2023,10,Talladega,26.0,15.0,2.0,Austin Cindric,Menards Duracell (Roger Penske),Ford,196.0,running,0.0,16.0,0.0
+2023,10,Talladega,27.0,7.0,19.0,Martin Truex Jr,Bass Pro Shops (Joe Gibbs),Toyota,196.0,running,19.0,15.0,0.0
+2023,10,Talladega,28.0,12.0,23.0,Bubba Wallace,Columbia Sportswear Company (23XI Racing),Toyota,195.0,crash,35.0,16.0,0.0
+2023,10,Talladega,29.0,19.0,16.0,A.J. Allmendinger,Farmsmart (Matthew Kaulig),Chevrolet,195.0,crash,0.0,8.0,0.0
+2023,10,Talladega,30.0,8.0,22.0,Joey Logano,Shell PennzoilAutotrader (Roger Penske),Ford,195.0,running,3.0,10.0,0.0
+2023,10,Talladega,31.0,3.0,54.0,Ty Gibbs,Monster Energy (Joe Gibbs),Toyota,194.0,fuel,4.0,6.0,0.0
+2023,10,Talladega,32.0,30.0,42.0,Noah Gragson,Wendyâ€™s Beef is in the Bag (Legacy Motor Club),Chevrolet,189.0,crash,1.0,10.0,0.0
+2023,10,Talladega,33.0,9.0,5.0,Kyle Larson,HendrickCars.com (Rick Hendrick),Chevrolet,189.0,crash,0.0,10.0,0.0
+2023,10,Talladega,34.0,16.0,41.0,Ryan Preece,Hunt Brothers Pizza (Stewart Haas Racing),Ford,189.0,crash,2.0,9.0,0.0
+2023,10,Talladega,35.0,21.0,34.0,Michael McDowell,Love's Travel Stops (Bob Jenkins),Ford,189.0,running,0.0,2.0,0.0
+2023,10,Talladega,36.0,25.0,21.0,Harrison Burton,Motorcraft/Quick Lane (Wood Brothers),Ford,183.0,crash,11.0,7.0,0.0
+2023,10,Talladega,37.0,35.0,38.0,Zane Smith,Wellcare (Bob Jenkins),Ford,141.0,crash,0.0,0.0,0.0
+2023,10,Talladega,38.0,14.0,3.0,Austin Dillon,Bass Pro Shops (Richard Childress),Chevrolet,141.0,crash,0.0,1.0,0.0
+2023,11,Dover,1.0,17.0,19.0,Martin Truex Jr,Bass Pro Shops (Joe Gibbs),Toyota,400.0,running,68.0,49.0,5.0
+2023,11,Dover,2.0,14.0,1.0,Ross Chastain,Jockey (Trackhouse Racing),Chevrolet,400.0,running,98.0,51.0,1.0
+2023,11,Dover,3.0,3.0,12.0,Ryan Blaney,Wabash (Roger Penske),Ford,400.0,running,0.0,50.0,0.0
+2023,11,Dover,4.0,8.0,24.0,William Byron,RaptorTough.com (Rick Hendrick),Chevrolet,400.0,running,193.0,52.0,1.0
+2023,11,Dover,5.0,13.0,11.0,Denny Hamlin,FedEx Office (Joe Gibbs),Toyota,400.0,running,4.0,47.0,0.0
+2023,11,Dover,6.0,2.0,20.0,Christopher Bell,Rheem (Joe Gibbs),Toyota,400.0,running,1.0,36.0,0.0
+2023,11,Dover,7.0,7.0,45.0,Tyler Reddick,Ronald McDonald House (23XI Racing),Toyota,400.0,running,0.0,33.0,0.0
+2023,11,Dover,8.0,4.0,6.0,Brad Keselowski,Wyndham Rewards (Jack Roush),Ford,400.0,running,8.0,36.0,0.0
+2023,11,Dover,9.0,5.0,17.0,Chris Buescher,Fastenal (Jack Roush),Ford,400.0,running,0.0,37.0,0.0
+2023,11,Dover,10.0,23.0,48.0,Josh Berry,Ally (Rick Hendrick),Chevrolet,400.0,running,3.0,0.0,0.0
+2023,11,Dover,11.0,10.0,9.0,Chase Elliott,NAPA Auto Parts (Rick Hendrick),Chevrolet,400.0,running,0.0,28.0,0.0
+2023,11,Dover,12.0,28.0,23.0,Bubba Wallace,McDonald's (23XI Racing),Toyota,400.0,running,0.0,25.0,0.0
+2023,11,Dover,13.0,24.0,54.0,Ty Gibbs,He Gets Us (Joe Gibbs),Toyota,399.0,running,0.0,29.0,0.0
+2023,11,Dover,14.0,27.0,7.0,Corey LaJoie,FOE (Spire Motorsports),Chevrolet,399.0,running,0.0,23.0,0.0
+2023,11,Dover,15.0,9.0,47.0,Ricky Stenhouse Jr,Kroger/Icy Hot Pro (JTG-Daugherty Racing),Chevrolet,399.0,running,0.0,23.0,0.0
+2023,11,Dover,16.0,11.0,43.0,Erik Jones,Allegiant (Legacy Motor Club),Chevrolet,399.0,running,0.0,21.0,0.0
+2023,11,Dover,17.0,30.0,41.0,Ryan Preece,Mohawk Northeast (Stewart Haas Racing),Ford,399.0,running,0.0,20.0,0.0
+2023,11,Dover,18.0,29.0,16.0,A.J. Allmendinger,Nutrien Ag Solutions (Matthew Kaulig),Chevrolet,399.0,running,0.0,19.0,0.0
+2023,11,Dover,19.0,12.0,4.0,Kevin Harvick,Hunt Brothers Pizza / Realtree (Stewart Haas Racing),Ford,399.0,running,0.0,21.0,0.0
+2023,11,Dover,20.0,31.0,21.0,Harrison Burton,DEX Imaging (Wood Brothers),Ford,398.0,running,0.0,17.0,0.0
+2023,11,Dover,21.0,1.0,8.0,Kyle Busch,Lenovo (Richard Childress),Chevrolet,397.0,running,25.0,16.0,0.0
+2023,11,Dover,22.0,32.0,34.0,Michael McDowell,A&W Root Beer Float (Bob Jenkins),Ford,397.0,running,0.0,15.0,0.0
+2023,11,Dover,23.0,25.0,31.0,Justin Haley,LeafFilter Gutter Protection (Matthew Kaulig),Chevrolet,397.0,running,0.0,14.0,0.0
+2023,11,Dover,24.0,19.0,10.0,Aric Almirola,Smithfield (Stewart Haas Racing),Ford,397.0,running,0.0,13.0,0.0
+2023,11,Dover,25.0,35.0,38.0,Todd Gilliland,Speedy Cash (Bob Jenkins),Ford,396.0,running,0.0,12.0,0.0
+2023,11,Dover,26.0,20.0,2.0,Austin Cindric,MenardsGreat Stuff (Roger Penske),Ford,396.0,running,0.0,11.0,0.0
+2023,11,Dover,27.0,36.0,3.0,Austin Dillon,Get Bioethanol (Richard Childress),Chevrolet,395.0,running,0.0,10.0,0.0
+2023,11,Dover,28.0,21.0,51.0,J.J. Yeley,Biohaven/Jacob Co. (Rick Ware),Ford,393.0,running,0.0,0.0,0.0
+2023,11,Dover,29.0,22.0,78.0,B.J. McLeod,CAMDEN MEDICAL CENTER (B.J. McLeod),Chevrolet,381.0,running,0.0,8.0,0.0
+2023,11,Dover,30.0,6.0,14.0,Chase Briscoe,Mahindra Tractors (Stewart Haas Racing),Ford,378.0,running,0.0,7.0,0.0
+2023,11,Dover,31.0,26.0,22.0,Joey Logano,Shell Pennzoil (Roger Penske),Ford,375.0,crash,0.0,6.0,0.0
+2023,11,Dover,32.0,18.0,5.0,Kyle Larson,HendrickCars.com (Rick Hendrick),Chevrolet,359.0,running,0.0,5.0,0.0
+2023,11,Dover,33.0,34.0,15.0,Brennan Poole,Millennium Jet Card (Rick Ware),Ford,79.0,crash,0.0,0.0,0.0
+2023,11,Dover,34.0,33.0,42.0,Noah Gragson,Sunseeker Resort (Legacy Motor Club),Chevrolet,43.0,dvp,0.0,3.0,0.0
+2023,11,Dover,35.0,15.0,99.0,Daniel Suarez,Pitbull / Freeway Insurance (Trackhouse Racing),Chevrolet,35.0,crash,0.0,2.0,0.0
+2023,11,Dover,36.0,16.0,77.0,Ty Dillon,Nations Guard (Spire Motorsports),Chevrolet,34.0,crash,0.0,1.0,0.0
+2023,12,Kansas,1.0,8.0,11.0,Denny Hamlin,FedEx Express (Joe Gibbs),Toyota,267.0,running,34.0,51.0,6.0
+2023,12,Kansas,2.0,2.0,5.0,Kyle Larson,HendrickCars.com (Rick Hendrick),Chevrolet,267.0,running,85.0,38.0,0.0
+2023,12,Kansas,3.0,1.0,24.0,William Byron,Liberty University (Rick Hendrick),Chevrolet,267.0,running,10.0,34.0,0.0
+2023,12,Kansas,4.0,17.0,23.0,Bubba Wallace,Dr Pepper Zero Sugar (23XI Racing),Toyota,267.0,running,9.0,37.0,0.0
+2023,12,Kansas,5.0,3.0,1.0,Ross Chastain,AdventHealth (Trackhouse Racing),Chevrolet,267.0,running,3.0,34.0,0.0
+2023,12,Kansas,6.0,6.0,22.0,Joey Logano,Shell Pennzoil (Roger Penske),Ford,267.0,running,8.0,41.0,1.0
+2023,12,Kansas,7.0,21.0,9.0,Chase Elliott,UniFirst (Rick Hendrick),Chevrolet,267.0,running,5.0,30.0,0.0
+2023,12,Kansas,8.0,4.0,19.0,Martin Truex Jr,Reser's Fine Foods (Joe Gibbs),Toyota,267.0,running,79.0,38.0,0.0
+2023,12,Kansas,9.0,5.0,45.0,Tyler Reddick,McDonald's (23XI Racing),Toyota,267.0,running,23.0,35.0,0.0
+2023,12,Kansas,10.0,11.0,3.0,Austin Dillon,BetMGM (Richard Childress),Chevrolet,267.0,running,0.0,31.0,0.0
+2023,12,Kansas,11.0,13.0,4.0,Kevin Harvick,Busch Light #ForTheFarmers (Stewart Haas Racing),Ford,267.0,running,0.0,26.0,0.0
+2023,12,Kansas,12.0,33.0,47.0,Ricky Stenhouse Jr,Dillons/Kraft Mac & Cheese (JTG-Daugherty Racing),Chevrolet,267.0,running,0.0,25.0,0.0
+2023,12,Kansas,13.0,18.0,10.0,Aric Almirola,Smithfield (Stewart Haas Racing),Ford,267.0,running,0.0,24.0,0.0
+2023,12,Kansas,14.0,27.0,16.0,A.J. Allmendinger,Action Industries (Matthew Kaulig),Chevrolet,267.0,running,0.0,29.0,0.0
+2023,12,Kansas,15.0,9.0,99.0,Daniel Suarez,Worldwide Express (Trackhouse Racing),Chevrolet,267.0,running,0.0,28.0,0.0
+2023,12,Kansas,16.0,10.0,12.0,Ryan Blaney,Menards Moen (Roger Penske),Ford,267.0,running,0.0,24.0,0.0
+2023,12,Kansas,17.0,14.0,17.0,Chris Buescher,Fastenal / Body Guard (Jack Roush),Ford,267.0,running,0.0,25.0,0.0
+2023,12,Kansas,18.0,30.0,31.0,Justin Haley,Celsius (Matthew Kaulig),Chevrolet,267.0,running,0.0,19.0,0.0
+2023,12,Kansas,19.0,20.0,6.0,Brad Keselowski,King's Hawaiian GoTG Vol 3 (Jack Roush),Ford,267.0,running,0.0,18.0,0.0
+2023,12,Kansas,20.0,24.0,7.0,Corey LaJoie,FOE (Spire Motorsports),Chevrolet,267.0,running,7.0,17.0,0.0
+2023,12,Kansas,21.0,19.0,43.0,Erik Jones,Allegiant (Legacy Motor Club),Chevrolet,267.0,running,0.0,23.0,0.0
+2023,12,Kansas,22.0,26.0,77.0,Ty Dillon,Ferris Commercial Mowers (Spire Motorsports),Chevrolet,267.0,running,0.0,18.0,0.0
+2023,12,Kansas,23.0,35.0,51.0,J.J. Yeley,Biohaven/Jacob Co. (Rick Ware),Ford,266.0,running,0.0,0.0,0.0
+2023,12,Kansas,24.0,32.0,38.0,Todd Gilliland,Speedy Cash (Bob Jenkins),Ford,266.0,running,0.0,13.0,0.0
+2023,12,Kansas,25.0,29.0,48.0,Josh Berry,Ally (Rick Hendrick),Chevrolet,266.0,running,0.0,0.0,0.0
+2023,12,Kansas,26.0,23.0,34.0,Michael McDowell,Love's Travel Stops (Bob Jenkins),Ford,266.0,running,1.0,20.0,0.0
+2023,12,Kansas,27.0,28.0,41.0,Ryan Preece,HaasTooling.com (Stewart Haas Racing),Ford,266.0,running,0.0,10.0,0.0
+2023,12,Kansas,28.0,34.0,15.0,Brennan Poole,go2mro.com/donate VDL Strong (Rick Ware),Ford,264.0,running,0.0,0.0,0.0
+2023,12,Kansas,29.0,22.0,42.0,Noah Gragson,Sunseeker Resort (Legacy Motor Club),Chevrolet,262.0,running,0.0,16.0,0.0
+2023,12,Kansas,30.0,25.0,21.0,Harrison Burton,Motorcraft/Quick Lane (Wood Brothers),Ford,261.0,running,0.0,7.0,0.0
+2023,12,Kansas,31.0,15.0,2.0,Austin Cindric,Freightliner (Roger Penske),Ford,260.0,running,0.0,6.0,0.0
+2023,12,Kansas,32.0,31.0,14.0,Chase Briscoe,Rush Truck Centers / Cummins (Stewart Haas Racing),Ford,260.0,running,0.0,5.0,0.0
+2023,12,Kansas,33.0,36.0,78.0,Josh Bilicki,Zeigler Auto Group (B.J. McLeod),Chevrolet,260.0,running,0.0,4.0,0.0
+2023,12,Kansas,34.0,7.0,54.0,Ty Gibbs,Monster Energy (Joe Gibbs),Toyota,176.0,crash,0.0,11.0,0.0
+2023,12,Kansas,35.0,16.0,8.0,Kyle Busch,Cheddar's Scratch Kitchen (Richard Childress),Chevrolet,162.0,crash,0.0,2.0,0.0
+2023,12,Kansas,36.0,12.0,20.0,Christopher Bell,SiriusXM (Joe Gibbs),Toyota,157.0,crash,3.0,6.0,0.0
+2023,13,Darlington,1.0,4.0,24.0,William Byron,AXALTA Throwback (Rick Hendrick),Chevrolet,295.0,running,7.0,56.0,5.0
+2023,13,Darlington,2.0,20.0,4.0,Kevin Harvick,SunnyD (Stewart Haas Racing),Ford,295.0,running,5.0,42.0,0.0
+2023,13,Darlington,3.0,21.0,9.0,Chase Elliott,LLumar Throwback (Rick Hendrick),Chevrolet,295.0,running,0.0,34.0,0.0
+2023,13,Darlington,4.0,10.0,6.0,Brad Keselowski,Castrol GTX (Jack Roush),Ford,295.0,running,0.0,44.0,0.0
+2023,13,Darlington,5.0,2.0,23.0,Bubba Wallace,Dr Pepper (23XI Racing),Toyota,295.0,running,3.0,40.0,0.0
+2023,13,Darlington,6.0,14.0,21.0,Harrison Burton,DEX Imaging (Wood Brothers),Ford,295.0,running,0.0,31.0,0.0
+2023,13,Darlington,7.0,12.0,8.0,Kyle Busch,Lucas Oil (Richard Childress),Chevrolet,295.0,running,0.0,45.0,0.0
+2023,13,Darlington,8.0,22.0,31.0,Justin Haley,LeafFilter Gutter Protection (Matthew Kaulig),Chevrolet,295.0,running,0.0,29.0,0.0
+2023,13,Darlington,9.0,11.0,12.0,Ryan Blaney,Menards Dutch Boy (Roger Penske),Ford,295.0,running,4.0,31.0,0.0
+2023,13,Darlington,10.0,27.0,17.0,Chris Buescher,Jack Roush,Ford,295.0,running,0.0,27.0,0.0
+2023,13,Darlington,11.0,24.0,38.0,Todd Gilliland,Serial1.com E-Bikes (Bob Jenkins),Ford,295.0,running,0.0,26.0,0.0
+2023,13,Darlington,12.0,8.0,11.0,Denny Hamlin,Federal Express (Joe Gibbs),Toyota,295.0,running,9.0,25.0,0.0
+2023,13,Darlington,13.0,3.0,47.0,Ricky Stenhouse Jr,Kroger/Country Crock (JTG-Daugherty Racing),Chevrolet,295.0,running,0.0,30.0,0.0
+2023,13,Darlington,14.0,16.0,20.0,Christopher Bell,DEWALT (Joe Gibbs),Toyota,295.0,running,0.0,29.0,0.0
+2023,13,Darlington,15.0,32.0,41.0,Ryan Preece,United Rentals (Stewart Haas Racing),Ford,295.0,running,0.0,22.0,0.0
+2023,13,Darlington,16.0,13.0,54.0,Ty Gibbs,Shriners Children's (Joe Gibbs),Toyota,295.0,running,0.0,21.0,0.0
+2023,13,Darlington,17.0,31.0,14.0,Chase Briscoe,Mahindra Tractors (Stewart Haas Racing),Ford,295.0,running,0.0,20.0,0.0
+2023,13,Darlington,18.0,15.0,22.0,Joey Logano,Shell Pennzoil (Roger Penske),Ford,295.0,running,0.0,19.0,0.0
+2023,13,Darlington,19.0,25.0,2.0,Austin Cindric,Freightliner (Roger Penske),Ford,295.0,running,0.0,18.0,0.0
+2023,13,Darlington,20.0,7.0,5.0,Kyle Larson,HendrickCars.com Throwback (Rick Hendrick),Chevrolet,295.0,running,29.0,25.0,0.0
+2023,13,Darlington,21.0,17.0,10.0,Aric Almirola,Smithfield (Stewart Haas Racing),Ford,295.0,running,0.0,16.0,0.0
+2023,13,Darlington,22.0,9.0,45.0,Tyler Reddick,Forward Together (23XI Racing),Toyota,295.0,running,0.0,7.0,0.0
+2023,13,Darlington,23.0,30.0,16.0,A.J. Allmendinger,BTS Tire & Wheel Distributors (Matthew Kaulig),Chevrolet,294.0,running,0.0,14.0,0.0
+2023,13,Darlington,24.0,34.0,7.0,Corey LaJoie,Nations Guard (Spire Motorsports),Chevrolet,293.0,running,0.0,13.0,0.0
+2023,13,Darlington,25.0,28.0,43.0,Erik Jones,Allegiant (Legacy Motor Club),Chevrolet,293.0,running,0.0,12.0,0.0
+2023,13,Darlington,26.0,29.0,42.0,Noah Gragson,Sunseeker Resorts (Legacy Motor Club),Chevrolet,293.0,running,0.0,11.0,0.0
+2023,13,Darlington,27.0,33.0,77.0,Ty Dillon,Honest Charley Speed Shop (Spire Motorsports),Chevrolet,293.0,running,0.0,10.0,0.0
+2023,13,Darlington,28.0,26.0,51.0,Ryan Newman,Biohaven/Jacob Co. (Rick Ware),Ford,291.0,running,0.0,9.0,0.0
+2023,13,Darlington,29.0,5.0,1.0,Ross Chastain,Worldwide Express / UPS (Trackhouse Racing),Chevrolet,287.0,crash,93.0,25.0,1.0
+2023,13,Darlington,30.0,23.0,48.0,Josh Berry,Ally Throwback (Rick Hendrick),Chevrolet,286.0,running,0.0,0.0,0.0
+2023,13,Darlington,31.0,1.0,19.0,Martin Truex Jr,Auto-Owners Insurance (Joe Gibbs),Toyota,280.0,crash,145.0,17.0,1.0
+2023,13,Darlington,32.0,35.0,78.0,B.J. McLeod,The Daily Down Force (B.J. McLeod),Chevrolet,226.0,steering,0.0,5.0,0.0
+2023,13,Darlington,33.0,19.0,34.0,Michael McDowell,StageFront.VIP (Bob Jenkins),Ford,200.0,crash,0.0,4.0,0.0
+2023,13,Darlington,34.0,6.0,99.0,Daniel Suarez,Quaker State (Trackhouse Racing),Chevrolet,199.0,crash,0.0,3.0,0.0
+2023,13,Darlington,35.0,18.0,3.0,Austin Dillon,Bass Pro Shops (Richard Childress),Chevrolet,196.0,crash,0.0,2.0,0.0
+2023,13,Darlington,36.0,36.0,15.0,Brennan Poole,Rick Ware,Ford,39.0,transmission,0.0,0.0,0.0
+2023,14,Charlotte,1.0,8.0,12.0,Ryan Blaney,BodyArmor Cherry Lime (Roger Penske),Ford,400.0,running,163.0,64.0,6.0
+2023,14,Charlotte,2.0,1.0,24.0,William Byron,Liberty University Patriotic (Rick Hendrick),Chevrolet,400.0,running,91.0,55.0,1.0
+2023,14,Charlotte,3.0,18.0,19.0,Martin Truex Jr,Bass Pro Shops (Joe Gibbs),Toyota,400.0,running,0.0,48.0,0.0
+2023,14,Charlotte,4.0,7.0,23.0,Bubba Wallace,Dr Pepper Strawberries & Cream (23XI Racing),Toyota,400.0,running,0.0,34.0,0.0
+2023,14,Charlotte,5.0,15.0,45.0,Tyler Reddick,Jordan Brand (23XI Racing),Toyota,400.0,running,28.0,48.0,0.0
+2023,14,Charlotte,6.0,5.0,8.0,Kyle Busch,Alsco (Richard Childress),Chevrolet,400.0,running,1.0,39.0,0.0
+2023,14,Charlotte,7.0,10.0,47.0,Ricky Stenhouse Jr,Kroger / Coca-Cola (JTG-Daugherty Racing),Chevrolet,400.0,running,4.0,33.0,0.0
+2023,14,Charlotte,8.0,11.0,17.0,Chris Buescher,Fastenal (Jack Roush),Ford,400.0,running,12.0,39.0,1.0
+2023,14,Charlotte,9.0,33.0,3.0,Austin Dillon,Bass Pro Shops (Richard Childress),Chevrolet,400.0,running,0.0,28.0,0.0
+2023,14,Charlotte,10.0,29.0,38.0,Zane Smith,Boot Barn (Bob Jenkins),Ford,400.0,running,3.0,0.0,0.0
+2023,14,Charlotte,11.0,2.0,4.0,Kevin Harvick,Mobil 1 (Stewart Haas Racing),Ford,400.0,running,19.0,38.0,0.0
+2023,14,Charlotte,12.0,31.0,48.0,Alex Bowman,Ally Patriotic (Rick Hendrick),Chevrolet,400.0,running,0.0,26.0,0.0
+2023,14,Charlotte,13.0,22.0,41.0,Ryan Preece,HaasTooling.com (Stewart Haas Racing),Ford,400.0,running,0.0,24.0,0.0
+2023,14,Charlotte,14.0,27.0,16.0,A.J. Allmendinger,Action Industries (Matthew Kaulig),Chevrolet,400.0,running,0.0,23.0,0.0
+2023,14,Charlotte,15.0,16.0,31.0,Justin Haley,LeafFilter Gutter Protection (Matthew Kaulig),Chevrolet,400.0,running,0.0,22.0,0.0
+2023,14,Charlotte,16.0,36.0,15.0,J.J. Yeley,Patriot Mobile (Rick Ware),Ford,400.0,running,0.0,0.0,0.0
+2023,14,Charlotte,17.0,25.0,7.0,Corey LaJoie,AeroVanti (Spire Motorsports),Chevrolet,400.0,running,0.0,20.0,0.0
+2023,14,Charlotte,18.0,13.0,21.0,Harrison Burton,DEX Imaging (Wood Brothers),Ford,400.0,running,0.0,19.0,0.0
+2023,14,Charlotte,19.0,3.0,6.0,Brad Keselowski,Castrol Edge (Jack Roush),Ford,400.0,running,0.0,29.0,0.0
+2023,14,Charlotte,20.0,20.0,14.0,Chase Briscoe,Mahindra Tractors (Stewart Haas Racing),Ford,400.0,running,0.0,-103.0,0.0
+2023,14,Charlotte,21.0,17.0,22.0,Joey Logano,Shell Pennzoil (Roger Penske),Ford,400.0,running,0.0,23.0,0.0
+2023,14,Charlotte,22.0,14.0,1.0,Ross Chastain,AdventHealth (Trackhouse Racing),Chevrolet,400.0,running,0.0,17.0,0.0
+2023,14,Charlotte,23.0,24.0,99.0,Daniel Suarez,Jockey (Trackhouse Racing),Chevrolet,400.0,running,0.0,14.0,0.0
+2023,14,Charlotte,24.0,9.0,20.0,Christopher Bell,Interstate Batteries (Joe Gibbs),Toyota,400.0,running,48.0,27.0,0.0
+2023,14,Charlotte,25.0,23.0,10.0,Aric Almirola,Smithfield (Stewart Haas Racing),Ford,400.0,running,0.0,12.0,0.0
+2023,14,Charlotte,26.0,19.0,54.0,Ty Gibbs,Monster Energy (Joe Gibbs),Toyota,398.0,running,0.0,21.0,0.0
+2023,14,Charlotte,27.0,32.0,77.0,Ty Dillon,Ferris Commercial Mowers (Spire Motorsports),Chevrolet,397.0,running,0.0,10.0,0.0
+2023,14,Charlotte,28.0,30.0,34.0,Michael McDowell,Chicago Pneumatic Compressors (Bob Jenkins),Ford,396.0,running,4.0,9.0,0.0
+2023,14,Charlotte,29.0,34.0,78.0,B.J. McLeod,B'laster (B.J. McLeod),Chevrolet,392.0,running,0.0,8.0,0.0
+2023,14,Charlotte,30.0,12.0,5.0,Kyle Larson,HendrickCars.com Patriotic (Rick Hendrick),Chevrolet,377.0,crash,1.0,14.0,0.0
+2023,14,Charlotte,31.0,21.0,2.0,Austin Cindric,Menards Duracell (Roger Penske),Ford,369.0,crash,0.0,6.0,0.0
+2023,14,Charlotte,32.0,26.0,43.0,Erik Jones,U.S. Air Force (Legacy Motor Club),Chevrolet,341.0,running,0.0,-55.0,0.0
+2023,14,Charlotte,33.0,35.0,51.0,Todd Gilliland,Ruedebusch Development & Construction (Rick Ware),Ford,265.0,crash,0.0,4.0,0.0
+2023,14,Charlotte,34.0,6.0,9.0,Chase Elliott,NAPA Patriotic (Rick Hendrick),Chevrolet,185.0,crash,6.0,3.0,0.0
+2023,14,Charlotte,35.0,4.0,11.0,Denny Hamlin,SportClips Haircuts (Joe Gibbs),Toyota,185.0,crash,20.0,7.0,0.0
+2023,14,Charlotte,36.0,28.0,42.0,Noah Gragson,Black Rifle Coffee Company (Legacy Motor Club),Chevrolet,117.0,engine,0.0,1.0,0.0
+2023,14,Charlotte,37.0,37.0,84.0,Jimmie Johnson,Club Wyndham (Legacy Motor Club),Chevrolet,115.0,crash,0.0,1.0,0.0
+2023,15,Gateway,1.0,1.0,8.0,Kyle Busch,3CHI (Richard Childress),Chevrolet,243.0,running,121.0,59.0,6.0
+2023,15,Gateway,2.0,3.0,11.0,Denny Hamlin,SportClips Haircuts (Joe Gibbs),Toyota,243.0,running,0.0,51.0,0.0
+2023,15,Gateway,3.0,6.0,22.0,Joey Logano,Shell Pennzoil (Roger Penske),Ford,243.0,running,0.0,44.0,0.0
+2023,15,Gateway,4.0,22.0,5.0,Kyle Larson,HendrickCars.com (Rick Hendrick),Chevrolet,243.0,running,5.0,34.0,0.0
+2023,15,Gateway,5.0,5.0,19.0,Martin Truex Jr,Auto-Owners Insurance (Joe Gibbs),Toyota,243.0,running,0.0,39.0,0.0
+2023,15,Gateway,6.0,2.0,12.0,Ryan Blaney,MenardsRichmond Water Heaters (Roger Penske),Ford,243.0,running,83.0,50.0,1.0
+2023,15,Gateway,7.0,13.0,99.0,Daniel Suarez,Freeway Insurance (Trackhouse Racing),Chevrolet,243.0,running,0.0,37.0,0.0
+2023,15,Gateway,8.0,7.0,24.0,William Byron,Axalta (Rick Hendrick),Chevrolet,243.0,running,30.0,40.0,0.0
+2023,15,Gateway,9.0,21.0,34.0,Michael McDowell,Fr8Auctions.com (Bob Jenkins),Ford,243.0,running,0.0,28.0,0.0
+2023,15,Gateway,10.0,4.0,4.0,Kevin Harvick,Busch Light (Stewart Haas Racing),Ford,243.0,running,0.0,35.0,0.0
+2023,15,Gateway,11.0,17.0,20.0,Christopher Bell,DeWalt Construction Technology (Joe Gibbs),Toyota,243.0,running,0.0,26.0,0.0
+2023,15,Gateway,12.0,27.0,17.0,Chris Buescher,Fastenal (Jack Roush),Ford,243.0,running,0.0,25.0,0.0
+2023,15,Gateway,13.0,10.0,2.0,Austin Cindric,Freightliner (Roger Penske),Ford,243.0,running,0.0,26.0,0.0
+2023,15,Gateway,14.0,11.0,16.0,A.J. Allmendinger,Farmsmart (Matthew Kaulig),Chevrolet,243.0,running,0.0,23.0,0.0
+2023,15,Gateway,15.0,28.0,38.0,Todd Gilliland,Serial 1 E-Bikes (Bob Jenkins),Ford,243.0,running,0.0,22.0,0.0
+2023,15,Gateway,16.0,23.0,31.0,Justin Haley,LeafFilter Gutter Protection (Matthew Kaulig),Chevrolet,243.0,running,0.0,21.0,0.0
+2023,15,Gateway,17.0,29.0,41.0,Ryan Preece,HaasTooling.com (Stewart Haas Racing),Ford,243.0,running,0.0,20.0,0.0
+2023,15,Gateway,18.0,31.0,43.0,Erik Jones,Bommarito.com (Legacy Motor Club),Chevrolet,243.0,running,0.0,19.0,0.0
+2023,15,Gateway,19.0,24.0,10.0,Aric Almirola,Smithfield (Stewart Haas Racing),Ford,243.0,running,0.0,18.0,0.0
+2023,15,Gateway,20.0,15.0,54.0,Ty Gibbs,Monster Energy (Joe Gibbs),Toyota,243.0,running,0.0,17.0,0.0
+2023,15,Gateway,21.0,30.0,9.0,Corey LaJoie,NAPA Auto Parts (Rick Hendrick),Chevrolet,243.0,running,0.0,16.0,0.0
+2023,15,Gateway,22.0,8.0,1.0,Ross Chastain,Moose Fraternity (Trackhouse Racing),Chevrolet,243.0,running,0.0,20.0,0.0
+2023,15,Gateway,23.0,14.0,21.0,Harrison Burton,Motorcraft/Quick Lane (Wood Brothers),Ford,243.0,running,0.0,14.0,0.0
+2023,15,Gateway,24.0,36.0,51.0,J.J. Yeley,Biohaven/Jacob Co. (Rick Ware),Ford,243.0,running,0.0,0.0,0.0
+2023,15,Gateway,25.0,33.0,77.0,Ty Dillon,Nations Guard (Spire Motorsports),Chevrolet,243.0,running,0.0,12.0,0.0
+2023,15,Gateway,26.0,18.0,48.0,Alex Bowman,Ally (Rick Hendrick),Chevrolet,243.0,running,0.0,11.0,0.0
+2023,15,Gateway,27.0,34.0,78.0,B.J. McLeod,Circle B Diecast (B.J. McLeod),Chevrolet,243.0,running,0.0,10.0,0.0
+2023,15,Gateway,28.0,19.0,6.0,Brad Keselowski,King's Hawaiian (Jack Roush),Ford,243.0,running,0.0,9.0,0.0
+2023,15,Gateway,29.0,35.0,15.0,Gray Gaulding,Panini America (Rick Ware),Ford,242.0,running,0.0,0.0,0.0
+2023,15,Gateway,30.0,20.0,23.0,Bubba Wallace,Leidos (23XI Racing),Toyota,236.0,crash,0.0,7.0,0.0
+2023,15,Gateway,31.0,16.0,3.0,Austin Dillon,Get Bioethanol (Richard Childress),Chevrolet,223.0,crash,0.0,6.0,0.0
+2023,15,Gateway,32.0,12.0,47.0,Ricky Stenhouse Jr,NOS Energy Drink (JTG-Daugherty Racing),Chevrolet,219.0,crash,0.0,10.0,0.0
+2023,15,Gateway,33.0,32.0,42.0,Noah Gragson,Sunseeker Resort (Legacy Motor Club),Chevrolet,197.0,crash,0.0,4.0,0.0
+2023,15,Gateway,34.0,25.0,14.0,Chase Briscoe,Ford Performance Racing School (Stewart Haas Racing),Ford,193.0,running,0.0,3.0,0.0
+2023,15,Gateway,35.0,9.0,45.0,Tyler Reddick,McDonald's (23XI Racing),Toyota,174.0,crash,4.0,2.0,0.0
+2023,15,Gateway,36.0,26.0,7.0,Carson Hocevar,Schluter Systems (Spire Motorsports),Chevrolet,91.0,crash,0.0,0.0,0.0
+2023,16,Sonoma,1.0,8.0,19.0,Martin Truex Jr,Bass Pro Shops (Joe Gibbs),Toyota,110.0,running,51.0,53.0,5.0
+2023,16,Sonoma,2.0,12.0,8.0,Kyle Busch,McLaren Custom Grills (Richard Childress),Chevrolet,110.0,running,17.0,45.0,1.0
+2023,16,Sonoma,3.0,17.0,22.0,Joey Logano,AutoTrader (Roger Penske),Ford,110.0,running,0.0,43.0,0.0
+2023,16,Sonoma,4.0,7.0,17.0,Chris Buescher,Fifth Third Bank (Jack Roush),Ford,110.0,running,0.0,37.0,0.0
+2023,16,Sonoma,5.0,10.0,9.0,Chase Elliott,NAPA Auto Parts (Rick Hendrick),Chevrolet,110.0,running,7.0,32.0,0.0
+2023,16,Sonoma,6.0,5.0,16.0,A.J. Allmendinger,Gabriel Glas (Matthew Kaulig),Chevrolet,110.0,running,0.0,38.0,0.0
+2023,16,Sonoma,7.0,3.0,34.0,Michael McDowell,Love's Travel Stops (Bob Jenkins),Ford,110.0,running,1.0,39.0,0.0
+2023,16,Sonoma,8.0,16.0,5.0,Kyle Larson,Valvoline (Rick Hendrick),Chevrolet,110.0,running,0.0,29.0,0.0
+2023,16,Sonoma,9.0,4.0,20.0,Christopher Bell,Rheem / Resideo (Joe Gibbs),Toyota,110.0,running,0.0,38.0,0.0
+2023,16,Sonoma,10.0,15.0,1.0,Ross Chastain,Kubota (Trackhouse Racing),Chevrolet,110.0,running,1.0,35.0,0.0
+2023,16,Sonoma,11.0,21.0,4.0,Kevin Harvick,Mobil 1 (Stewart Haas Racing),Ford,110.0,running,0.0,27.0,0.0
+2023,16,Sonoma,12.0,13.0,47.0,Ricky Stenhouse Jr,Kroger/Cottonelle (JTG-Daugherty Racing),Chevrolet,110.0,running,0.0,32.0,0.0
+2023,16,Sonoma,13.0,22.0,41.0,Ryan Preece,Autodesk (Stewart Haas Racing),Ford,110.0,running,0.0,24.0,0.0
+2023,16,Sonoma,14.0,26.0,24.0,William Byron,RaptorTough.com (Rick Hendrick),Chevrolet,110.0,running,0.0,30.0,0.0
+2023,16,Sonoma,15.0,14.0,48.0,Alex Bowman,Ally Pride (Rick Hendrick),Chevrolet,110.0,running,0.0,24.0,0.0
+2023,16,Sonoma,16.0,25.0,6.0,Brad Keselowski,King's Hawaiian (Jack Roush),Ford,110.0,running,0.0,21.0,0.0
+2023,16,Sonoma,17.0,18.0,23.0,Bubba Wallace,Door Dash (23XI Racing),Toyota,110.0,running,0.0,20.0,0.0
+2023,16,Sonoma,18.0,6.0,54.0,Ty Gibbs,Monster Energy (Joe Gibbs),Toyota,110.0,running,0.0,22.0,0.0
+2023,16,Sonoma,19.0,11.0,3.0,Austin Dillon,BREZTRI (Richard Childress),Chevrolet,110.0,running,0.0,23.0,0.0
+2023,16,Sonoma,20.0,19.0,7.0,Corey LaJoie,Schluter Systems (Spire Motorsports),Chevrolet,110.0,running,0.0,17.0,0.0
+2023,16,Sonoma,21.0,23.0,31.0,Justin Haley,Cirkul (Matthew Kaulig),Chevrolet,110.0,running,0.0,16.0,0.0
+2023,16,Sonoma,22.0,9.0,99.0,Daniel Suarez,Freeway Insurance (Trackhouse Racing),Chevrolet,110.0,running,0.0,15.0,0.0
+2023,16,Sonoma,23.0,27.0,77.0,Ty Dillon,Nations Guard (Spire Motorsports),Chevrolet,110.0,running,0.0,14.0,0.0
+2023,16,Sonoma,24.0,32.0,51.0,Todd Gilliland,Serial 1 E-Bikes (Rick Ware),Ford,110.0,running,0.0,13.0,0.0
+2023,16,Sonoma,25.0,34.0,2.0,Austin Cindric,America's Tire (Roger Penske),Ford,110.0,running,0.0,12.0,0.0
+2023,16,Sonoma,26.0,35.0,42.0,Grant Enfinger,Sunseeker Resort (Legacy Motor Club),Chevrolet,110.0,running,0.0,0.0,0.0
+2023,16,Sonoma,27.0,36.0,21.0,Harrison Burton,DEX Imaging (Wood Brothers),Ford,110.0,running,0.0,10.0,0.0
+2023,16,Sonoma,28.0,20.0,10.0,Aric Almirola,Smithfield (Stewart Haas Racing),Ford,110.0,running,0.0,9.0,0.0
+2023,16,Sonoma,29.0,24.0,14.0,Chase Briscoe,Ford Performance Racing School (Stewart Haas Racing),Ford,110.0,running,0.0,8.0,0.0
+2023,16,Sonoma,30.0,29.0,78.0,Josh Bilicki,Zeigler Auto Group (B.J. McLeod),Chevrolet,110.0,running,0.0,0.0,0.0
+2023,16,Sonoma,31.0,31.0,12.0,Ryan Blaney,Menards Moen (Roger Penske),Ford,110.0,running,0.0,6.0,0.0
+2023,16,Sonoma,32.0,28.0,43.0,Erik Jones,Allegiant (Legacy Motor Club),Chevrolet,109.0,running,0.0,5.0,0.0
+2023,16,Sonoma,33.0,2.0,45.0,Tyler Reddick,The Beast Unleashed (23XI Racing),Toyota,109.0,running,0.0,9.0,0.0
+2023,16,Sonoma,34.0,30.0,38.0,Zane Smith,Wellcare (Bob Jenkins),Ford,109.0,running,0.0,0.0,0.0
+2023,16,Sonoma,35.0,33.0,15.0,Andy Lally,Camping World (Rick Ware),Ford,109.0,running,0.0,2.0,0.0
+2023,16,Sonoma,36.0,1.0,11.0,Denny Hamlin,SportClips Haircuts (Joe Gibbs),Toyota,92.0,crash,33.0,11.0,1.0
+2023,17,Nashville,1.0,1.0,1.0,Ross Chastain,Worldwide Express (Trackhouse Racing),Chevrolet,300.0,running,99.0,57.0,5.0
+2023,17,Nashville,2.0,6.0,19.0,Martin Truex Jr,Bass Pro Shops (Joe Gibbs),Toyota,300.0,running,50.0,51.0,0.0
+2023,17,Nashville,3.0,8.0,11.0,Denny Hamlin,FedEx Ground (Joe Gibbs),Toyota,300.0,running,81.0,50.0,1.0
+2023,17,Nashville,4.0,14.0,9.0,Chase Elliott,NAPA Auto Parts (Rick Hendrick),Chevrolet,300.0,running,1.0,42.0,0.0
+2023,17,Nashville,5.0,7.0,5.0,Kyle Larson,HendrickCars.com (Rick Hendrick),Chevrolet,300.0,running,0.0,35.0,0.0
+2023,17,Nashville,6.0,5.0,24.0,William Byron,Liberty University (Rick Hendrick),Chevrolet,300.0,running,5.0,46.0,0.0
+2023,17,Nashville,7.0,22.0,20.0,Christopher Bell,DEWALT (Joe Gibbs),Toyota,300.0,running,3.0,38.0,0.0
+2023,17,Nashville,8.0,23.0,43.0,Erik Jones,Allegiant (Legacy Motor Club),Chevrolet,300.0,running,0.0,30.0,0.0
+2023,17,Nashville,9.0,11.0,8.0,Kyle Busch,Cheddar's Scratch Kitchen (Richard Childress),Chevrolet,300.0,running,12.0,32.0,0.0
+2023,17,Nashville,10.0,19.0,16.0,A.J. Allmendinger,Celsius (Matthew Kaulig),Chevrolet,300.0,running,0.0,31.0,0.0
+2023,17,Nashville,11.0,20.0,6.0,Brad Keselowski,Solomon Plumbing (Jack Roush),Ford,300.0,running,2.0,26.0,0.0
+2023,17,Nashville,12.0,10.0,99.0,Daniel Suarez,Tootsies Orchid Lounge (Trackhouse Racing),Chevrolet,300.0,running,1.0,25.0,0.0
+2023,17,Nashville,13.0,26.0,3.0,Austin Dillon,Huk Performance Fishing (Richard Childress),Chevrolet,300.0,running,0.0,24.0,0.0
+2023,17,Nashville,14.0,16.0,54.0,Ty Gibbs,Interstate Batteries (Joe Gibbs),Toyota,300.0,running,0.0,23.0,0.0
+2023,17,Nashville,15.0,9.0,23.0,Bubba Wallace,McDonald's (23XI Racing),Toyota,300.0,running,0.0,27.0,0.0
+2023,17,Nashville,16.0,25.0,41.0,Ryan Preece,Morton Buildings (Stewart Haas Racing),Ford,300.0,running,0.0,21.0,0.0
+2023,17,Nashville,17.0,15.0,48.0,Alex Bowman,Ally (Rick Hendrick),Chevrolet,300.0,running,9.0,20.0,0.0
+2023,17,Nashville,18.0,12.0,17.0,Chris Buescher,Fastenal (Jack Roush),Ford,300.0,running,0.0,19.0,0.0
+2023,17,Nashville,19.0,4.0,22.0,Joey Logano,Shell Pennzoil (Roger Penske),Ford,300.0,running,0.0,18.0,0.0
+2023,17,Nashville,20.0,36.0,7.0,Corey LaJoie,Garner Trucking (Spire Motorsports),Chevrolet,300.0,running,0.0,17.0,0.0
+2023,17,Nashville,21.0,31.0,21.0,Harrison Burton,DEX Imaging (Wood Brothers),Ford,300.0,running,0.0,16.0,0.0
+2023,17,Nashville,22.0,28.0,47.0,Ricky Stenhouse Jr,Kroger/Ball Park Buns (JTG-Daugherty Racing),Chevrolet,299.0,running,0.0,15.0,0.0
+2023,17,Nashville,23.0,3.0,31.0,Justin Haley,LeafFilter Gutter Protection (Matthew Kaulig),Chevrolet,299.0,running,0.0,14.0,0.0
+2023,17,Nashville,24.0,17.0,4.0,Kevin Harvick,Busch Light Peach (Stewart Haas Racing),Ford,299.0,running,0.0,15.0,0.0
+2023,17,Nashville,25.0,21.0,10.0,Aric Almirola,Smithfield (Stewart Haas Racing),Ford,299.0,running,0.0,12.0,0.0
+2023,17,Nashville,26.0,30.0,42.0,Noah Gragson,Black Rifle Coffee Company (Legacy Motor Club),Chevrolet,299.0,running,0.0,11.0,0.0
+2023,17,Nashville,27.0,24.0,2.0,Austin Cindric,Snap On (Roger Penske),Ford,299.0,running,0.0,10.0,0.0
+2023,17,Nashville,28.0,33.0,34.0,Michael McDowell,Love's / Fleetguard (Bob Jenkins),Ford,299.0,running,0.0,9.0,0.0
+2023,17,Nashville,29.0,29.0,51.0,J.J. Yeley,Patriot Mobile (Rick Ware),Ford,298.0,running,0.0,0.0,0.0
+2023,17,Nashville,30.0,2.0,45.0,Tyler Reddick,The Big 615/MoneyLion (23XI Racing),Toyota,298.0,running,33.0,17.0,1.0
+2023,17,Nashville,31.0,18.0,14.0,Chase Briscoe,Mahindra Tractors (Stewart Haas Racing),Ford,298.0,running,0.0,6.0,0.0
+2023,17,Nashville,32.0,34.0,77.0,Ty Dillon,Raze Tea (Spire Motorsports),Chevrolet,298.0,running,4.0,5.0,0.0
+2023,17,Nashville,33.0,32.0,15.0,Brennan Poole,Macc Door Systems (Rick Ware),Ford,297.0,running,0.0,0.0,0.0
+2023,17,Nashville,34.0,35.0,78.0,Josh Bilicki,Zeigler Auto Group (B.J. McLeod),Chevrolet,297.0,running,0.0,0.0,0.0
+2023,17,Nashville,35.0,27.0,38.0,Todd Gilliland,Serial 1 E-Bikes (Bob Jenkins),Ford,296.0,running,0.0,2.0,0.0
+2023,17,Nashville,36.0,13.0,12.0,Ryan Blaney,MenardsPennzoil (Roger Penske),Ford,146.0,crash,0.0,1.0,0.0
+2023,18,Chicago,1.0,3.0,91.0,Shane Van Gisbergen,Enhance Health (Trackhouse Racing),Chevrolet,78.0,running,9.0,55.0,5.0
+2023,18,Chicago,2.0,37.0,31.0,Justin Haley,Benesch Law (Matthew Kaulig),Chevrolet,78.0,running,23.0,35.0,0.0
+2023,18,Chicago,3.0,26.0,9.0,Chase Elliott,Hooters (Rick Hendrick),Chevrolet,78.0,running,0.0,34.0,0.0
+2023,18,Chicago,4.0,7.0,5.0,Kyle Larson,HendrickCars.com (Rick Hendrick),Chevrolet,78.0,running,0.0,46.0,0.0
+2023,18,Chicago,5.0,18.0,8.0,Kyle Busch,3CHI (Richard Childress),Chevrolet,78.0,running,0.0,32.0,0.0
+2023,18,Chicago,6.0,31.0,2.0,Austin Cindric,Discount Tire (Roger Penske),Ford,78.0,running,0.0,31.0,0.0
+2023,18,Chicago,7.0,6.0,34.0,Michael McDowell,Chicago Pneumatic Compressors (Bob Jenkins),Ford,78.0,running,0.0,42.0,0.0
+2023,18,Chicago,8.0,9.0,22.0,Joey Logano,Shell Pennzoil (Roger Penske),Ford,78.0,running,0.0,29.0,0.0
+2023,18,Chicago,9.0,12.0,54.0,Ty Gibbs,Interstate Batteries (Joe Gibbs),Toyota,78.0,running,1.0,35.0,0.0
+2023,18,Chicago,10.0,15.0,17.0,Chris Buescher,Fastenal (Jack Roush),Ford,78.0,running,0.0,27.0,0.0
+2023,18,Chicago,11.0,1.0,11.0,Denny Hamlin,Yahoo! (Joe Gibbs),Toyota,78.0,running,0.0,26.0,0.0
+2023,18,Chicago,12.0,24.0,10.0,Aric Almirola,Smithfield (Stewart Haas Racing),Ford,78.0,running,0.0,25.0,0.0
+2023,18,Chicago,13.0,22.0,24.0,William Byron,Valvoline (Rick Hendrick),Chevrolet,78.0,running,0.0,24.0,0.0
+2023,18,Chicago,14.0,19.0,7.0,Corey LaJoie,Celsius (Spire Motorsports),Chevrolet,78.0,running,0.0,23.0,0.0
+2023,18,Chicago,15.0,28.0,41.0,Ryan Preece,Operating Engineers (Stewart Haas Racing),Ford,78.0,running,0.0,22.0,0.0
+2023,18,Chicago,16.0,21.0,43.0,Erik Jones,DRAIVER (Legacy Motor Club),Chevrolet,78.0,running,0.0,21.0,0.0
+2023,18,Chicago,17.0,10.0,16.0,A.J. Allmendinger,Bath Plant by BCI Acrylics (Matthew Kaulig),Chevrolet,78.0,running,0.0,25.0,0.0
+2023,18,Chicago,18.0,4.0,20.0,Christopher Bell,CRAFTSMAN Racing for a Miracle (Joe Gibbs),Toyota,78.0,running,37.0,39.0,2.0
+2023,18,Chicago,19.0,25.0,38.0,Todd Gilliland,gener8tor Skills (Bob Jenkins),Ford,78.0,running,0.0,18.0,0.0
+2023,18,Chicago,20.0,16.0,14.0,Chase Briscoe,Mahindra Tractors (Stewart Haas Racing),Ford,78.0,running,0.0,18.0,0.0
+2023,18,Chicago,21.0,8.0,15.0,Jenson Button,Mobil 1 (Rick Ware),Ford,78.0,running,0.0,17.0,0.0
+2023,18,Chicago,22.0,34.0,1.0,Ross Chastain,AdventHealth (Trackhouse Racing),Chevrolet,78.0,running,0.0,15.0,0.0
+2023,18,Chicago,23.0,27.0,78.0,Josh Bilicki,Zeigler Auto Group (B.J. McLeod),Chevrolet,78.0,running,0.0,0.0,0.0
+2023,18,Chicago,24.0,20.0,6.0,Brad Keselowski,Elk Grove Village (Jack Roush),Ford,78.0,running,0.0,13.0,0.0
+2023,18,Chicago,25.0,23.0,42.0,Noah Gragson,Wendy's (Legacy Motor Club),Chevrolet,78.0,running,0.0,12.0,0.0
+2023,18,Chicago,26.0,30.0,51.0,Andy Lally,Camping World (Rick Ware),Ford,78.0,running,0.0,11.0,0.0
+2023,18,Chicago,27.0,5.0,99.0,Daniel Suarez,Worldwide Express (Trackhouse Racing),Chevrolet,78.0,running,0.0,19.0,0.0
+2023,18,Chicago,28.0,2.0,45.0,Tyler Reddick,Monster Energy (23XI Racing),Toyota,78.0,running,8.0,26.0,0.0
+2023,18,Chicago,29.0,35.0,4.0,Kevin Harvick,Gearwrench (Stewart Haas Racing),Ford,78.0,running,0.0,8.0,0.0
+2023,18,Chicago,30.0,32.0,21.0,Harrison Burton,Motorcraft/Quick Lane (Wood Brothers),Ford,78.0,running,0.0,7.0,0.0
+2023,18,Chicago,31.0,14.0,23.0,Bubba Wallace,McDonald's (23XI Racing),Toyota,78.0,running,0.0,6.0,0.0
+2023,18,Chicago,32.0,11.0,19.0,Martin Truex Jr,Bass Pro Shops (Joe Gibbs),Toyota,77.0,running,0.0,15.0,0.0
+2023,18,Chicago,33.0,17.0,12.0,Ryan Blaney,Menards Dutch Boy (Roger Penske),Ford,77.0,running,0.0,4.0,0.0
+2023,18,Chicago,34.0,36.0,47.0,Ricky Stenhouse Jr,Mariano's/SunnyD (JTG-Daugherty Racing),Chevrolet,77.0,running,0.0,3.0,0.0
+2023,18,Chicago,35.0,33.0,77.0,Ty Dillon,Chicago White Sox (Spire Motorsports),Chevrolet,67.0,suspension,0.0,2.0,0.0
+2023,18,Chicago,36.0,29.0,3.0,Austin Dillon,Get Bioethanol (Richard Childress),Chevrolet,62.0,crash,0.0,1.0,0.0
+2023,18,Chicago,37.0,13.0,48.0,Alex Bowman,Ally (Rick Hendrick),Chevrolet,40.0,crash,0.0,1.0,0.0
+2023,19,Atlanta,1.0,18.0,24.0,William Byron,Axalta (Rick Hendrick),Chevrolet,185.0,running,19.0,46.0,5.0
+2023,19,Atlanta,2.0,26.0,99.0,Daniel Suarez,Quaker State (Trackhouse Racing),Chevrolet,185.0,running,0.0,35.0,0.0
+2023,19,Atlanta,3.0,19.0,16.0,A.J. Allmendinger,Farmsmart (Matthew Kaulig),Chevrolet,185.0,running,6.0,40.0,0.0
+2023,19,Atlanta,4.0,20.0,34.0,Michael McDowell,Fr8Auctions.com (Bob Jenkins),Ford,185.0,running,0.0,39.0,0.0
+2023,19,Atlanta,5.0,22.0,8.0,Kyle Busch,Cheddar's Scratch Kitchen (Richard Childress),Chevrolet,185.0,running,0.0,32.0,0.0
+2023,19,Atlanta,6.0,11.0,6.0,Brad Keselowski,Castrol Edge (Jack Roush),Ford,185.0,running,19.0,41.0,1.0
+2023,19,Atlanta,7.0,24.0,15.0,J.J. Yeley,Patriot Mobile (Rick Ware),Ford,185.0,running,0.0,0.0,0.0
+2023,19,Atlanta,8.0,17.0,31.0,Justin Haley,LeafFilter Gutter Protection (Matthew Kaulig),Chevrolet,185.0,running,0.0,33.0,0.0
+2023,19,Atlanta,9.0,2.0,12.0,Ryan Blaney,Wurth (Roger Penske),Ford,185.0,running,20.0,47.0,1.0
+2023,19,Atlanta,10.0,29.0,47.0,Ricky Stenhouse Jr,Kroger/ Slim Jim (JTG-Daugherty Racing),Chevrolet,185.0,running,0.0,27.0,0.0
+2023,19,Atlanta,11.0,25.0,43.0,Erik Jones,Allegiant (Legacy Motor Club),Chevrolet,185.0,running,0.0,26.0,0.0
+2023,19,Atlanta,12.0,10.0,2.0,Austin Cindric,Menards Quaker State (Roger Penske),Ford,185.0,running,10.0,36.0,0.0
+2023,19,Atlanta,13.0,23.0,9.0,Chase Elliott,NAPA/Children's (Rick Hendrick),Chevrolet,185.0,running,0.0,24.0,0.0
+2023,19,Atlanta,14.0,14.0,11.0,Denny Hamlin,Coca-Cola (Joe Gibbs),Toyota,185.0,running,0.0,23.0,0.0
+2023,19,Atlanta,15.0,15.0,17.0,Chris Buescher,Fastenal (Jack Roush),Ford,185.0,running,39.0,30.0,0.0
+2023,19,Atlanta,16.0,9.0,38.0,Todd Gilliland,Georgia Peanuts (Bob Jenkins),Ford,185.0,running,0.0,21.0,0.0
+2023,19,Atlanta,17.0,4.0,22.0,Joey Logano,Shell Pennzoil (Roger Penske),Ford,185.0,running,11.0,27.0,0.0
+2023,19,Atlanta,18.0,1.0,10.0,Aric Almirola,Smithfield / IHOP (Stewart Haas Racing),Ford,185.0,running,46.0,20.0,0.0
+2023,19,Atlanta,19.0,27.0,77.0,Ty Dillon,Raze Energy Blue Shock (Spire Motorsports),Chevrolet,185.0,running,0.0,18.0,0.0
+2023,19,Atlanta,20.0,35.0,78.0,B.J. McLeod,Gunk (B.J. McLeod),Chevrolet,185.0,running,1.0,17.0,0.0
+2023,19,Atlanta,21.0,33.0,3.0,Austin Dillon,Dow Salutes Veterans (Richard Childress),Chevrolet,185.0,running,0.0,16.0,0.0
+2023,19,Atlanta,22.0,3.0,14.0,Chase Briscoe,Magical Vacation Planner (Stewart Haas Racing),Ford,185.0,running,0.0,15.0,0.0
+2023,19,Atlanta,23.0,34.0,20.0,Christopher Bell,Rheem (Joe Gibbs),Toyota,185.0,running,0.0,21.0,0.0
+2023,19,Atlanta,24.0,13.0,41.0,Ryan Preece,Sony Mobile ES (Stewart Haas Racing),Ford,185.0,running,0.0,14.0,0.0
+2023,19,Atlanta,25.0,37.0,23.0,Bubba Wallace,Leidos (23XI Racing),Toyota,185.0,running,5.0,17.0,0.0
+2023,19,Atlanta,26.0,36.0,48.0,Alex Bowman,Ally (Rick Hendrick),Chevrolet,185.0,running,0.0,11.0,0.0
+2023,19,Atlanta,27.0,12.0,45.0,Tyler Reddick,The Beast Unleashed (23XI Racing),Toyota,185.0,running,0.0,12.0,0.0
+2023,19,Atlanta,28.0,5.0,21.0,Harrison Burton,DEX Imaging (Wood Brothers),Ford,184.0,running,0.0,9.0,0.0
+2023,19,Atlanta,29.0,16.0,19.0,Martin Truex Jr,Auto-Owners Insurance (Joe Gibbs),Toyota,184.0,running,5.0,16.0,0.0
+2023,19,Atlanta,30.0,6.0,4.0,Kevin Harvick,Hunt Brothers Pizza (Stewart Haas Racing),Ford,181.0,running,0.0,7.0,0.0
+2023,19,Atlanta,31.0,28.0,7.0,Corey LaJoie,Gainbridge (Spire Motorsports),Chevrolet,179.0,running,0.0,6.0,0.0
+2023,19,Atlanta,32.0,21.0,51.0,Cole Custer,Jacob Companies (Rick Ware),Ford,178.0,running,0.0,0.0,0.0
+2023,19,Atlanta,33.0,31.0,42.0,Noah Gragson,Sunseeker Resort (Legacy Motor Club),Chevrolet,174.0,running,0.0,4.0,0.0
+2023,19,Atlanta,34.0,7.0,54.0,Ty Gibbs,He Gets Us (Joe Gibbs),Toyota,150.0,running,0.0,3.0,0.0
+2023,19,Atlanta,35.0,30.0,1.0,Ross Chastain,Worldwide Express (Trackhouse Racing),Chevrolet,124.0,dvp,0.0,2.0,0.0
+2023,19,Atlanta,36.0,8.0,5.0,Kyle Larson,HendrickCars.com (Rick Hendrick),Chevrolet,111.0,crash,4.0,10.0,0.0
+2023,19,Atlanta,37.0,32.0,62.0,Austin Hill,Bennett Transportation/Beard (Beard Motorsports),Chevrolet,92.0,dvp,0.0,0.0,0.0
+2023,20,Loudon,1.0,2.0,19.0,Martin Truex Jr,Reser's Fine Foods (Joe Gibbs),Toyota,301.0,running,254.0,60.0,7.0
+2023,20,Loudon,2.0,4.0,22.0,Joey Logano,Shell Pennzoil (Roger Penske),Ford,301.0,running,2.0,45.0,0.0
+2023,20,Loudon,3.0,15.0,5.0,Kyle Larson,Valvoline (Rick Hendrick),Chevrolet,301.0,running,6.0,43.0,0.0
+2023,20,Loudon,4.0,13.0,4.0,Kevin Harvick,Busch Light (Stewart Haas Racing),Ford,301.0,running,10.0,38.0,0.0
+2023,20,Loudon,5.0,9.0,6.0,Brad Keselowski,BuildSubmarines.com (Jack Roush),Ford,301.0,running,0.0,35.0,0.0
+2023,20,Loudon,6.0,6.0,45.0,Tyler Reddick,Draft Kings Network (23XI Racing),Toyota,301.0,running,0.0,41.0,0.0
+2023,20,Loudon,7.0,20.0,11.0,Denny Hamlin,Mavis Tires & Brakes (Joe Gibbs),Toyota,301.0,running,0.0,40.0,0.0
+2023,20,Loudon,8.0,8.0,23.0,Bubba Wallace,DraftKings (23XI Racing),Toyota,301.0,running,0.0,29.0,0.0
+2023,20,Loudon,9.0,11.0,3.0,Austin Dillon,Bass Pro Shops Club (Richard Childress),Chevrolet,301.0,running,12.0,28.0,0.0
+2023,20,Loudon,10.0,27.0,14.0,Chase Briscoe,Mobil 1 Gen G (Stewart Haas Racing),Ford,301.0,running,0.0,27.0,0.0
+2023,20,Loudon,11.0,30.0,43.0,Erik Jones,Allegiant (Legacy Motor Club),Chevrolet,301.0,running,0.0,26.0,0.0
+2023,20,Loudon,12.0,18.0,9.0,Chase Elliott,NAPA Auto Parts (Rick Hendrick),Chevrolet,301.0,running,0.0,25.0,0.0
+2023,20,Loudon,13.0,17.0,34.0,Michael McDowell,The Pete Store (Bob Jenkins),Ford,301.0,running,0.0,25.0,0.0
+2023,20,Loudon,14.0,25.0,48.0,Alex Bowman,Ally (Rick Hendrick),Chevrolet,301.0,running,0.0,27.0,0.0
+2023,20,Loudon,15.0,26.0,17.0,Chris Buescher,Fastenal (Jack Roush),Ford,301.0,running,0.0,22.0,0.0
+2023,20,Loudon,16.0,12.0,99.0,Daniel Suarez,SLAM! Foundation (Trackhouse Racing),Chevrolet,301.0,running,0.0,24.0,0.0
+2023,20,Loudon,17.0,19.0,31.0,Justin Haley,Campers Inn RV (Matthew Kaulig),Chevrolet,301.0,running,0.0,20.0,0.0
+2023,20,Loudon,18.0,16.0,47.0,Ricky Stenhouse Jr,Kroger/Drumstick (JTG-Daugherty Racing),Chevrolet,301.0,running,3.0,19.0,0.0
+2023,20,Loudon,19.0,14.0,16.0,A.J. Allmendinger,Nutrien Ag Solutions (Matthew Kaulig),Chevrolet,301.0,running,0.0,18.0,0.0
+2023,20,Loudon,20.0,28.0,21.0,Harrison Burton,Motorcraft/Quick Lane (Wood Brothers),Ford,301.0,running,0.0,17.0,0.0
+2023,20,Loudon,21.0,23.0,38.0,Todd Gilliland,A&W Root Beer Float (Bob Jenkins),Ford,301.0,running,0.0,16.0,0.0
+2023,20,Loudon,22.0,5.0,12.0,Ryan Blaney,Menards Sylvania (Roger Penske),Ford,301.0,running,0.0,28.0,0.0
+2023,20,Loudon,23.0,31.0,1.0,Ross Chastain,Kubota (Trackhouse Racing),Chevrolet,301.0,running,0.0,14.0,0.0
+2023,20,Loudon,24.0,7.0,24.0,William Byron,RaptorTough.com (Rick Hendrick),Chevrolet,301.0,running,9.0,22.0,0.0
+2023,20,Loudon,25.0,22.0,2.0,Austin Cindric,AutoTrader (Roger Penske),Ford,301.0,running,0.0,12.0,0.0
+2023,20,Loudon,26.0,35.0,77.0,Ty Dillon,Ferris Commercial Mowers (Spire Motorsports),Chevrolet,301.0,running,0.0,11.0,0.0
+2023,20,Loudon,27.0,36.0,54.0,Ty Gibbs,He Gets Us (Joe Gibbs),Toyota,301.0,running,0.0,10.0,0.0
+2023,20,Loudon,28.0,21.0,41.0,Ryan Preece,Mohawk Northeast (Stewart Haas Racing),Ford,300.0,running,0.0,9.0,0.0
+2023,20,Loudon,29.0,1.0,20.0,Christopher Bell,Rheem/ Watts (Joe Gibbs),Toyota,299.0,running,1.0,14.0,0.0
+2023,20,Loudon,30.0,33.0,15.0,Ryan Newman,Parts Plus (Rick Ware),Ford,299.0,running,0.0,7.0,0.0
+2023,20,Loudon,31.0,32.0,78.0,B.J. McLeod,Circle B Diecast (B.J. McLeod),Chevrolet,295.0,running,0.0,6.0,0.0
+2023,20,Loudon,32.0,29.0,42.0,Noah Gragson,Sunseeker Resort (Legacy Motor Club),Chevrolet,268.0,crash,0.0,5.0,0.0
+2023,20,Loudon,33.0,24.0,7.0,Corey LaJoie,Schluter Systems (Spire Motorsports),Chevrolet,176.0,running,0.0,4.0,0.0
+2023,20,Loudon,34.0,3.0,10.0,Aric Almirola,Smithfield (Stewart Haas Racing),Ford,168.0,crash,4.0,10.0,0.0
+2023,20,Loudon,35.0,34.0,51.0,Cole Custer,Biohaven/Jacob Co. (Rick Ware),Ford,130.0,crash,0.0,0.0,0.0
+2023,20,Loudon,36.0,10.0,8.0,Kyle Busch,Lenovo (Richard Childress),Chevrolet,71.0,crash,0.0,1.0,0.0
+2023,21,Pocono,1.0,8.0,11.0,Denny Hamlin,Mavis Tires & Brakes (Joe Gibbs),Toyota,160.0,running,9.0,55.0,5.0
+2023,21,Pocono,2.0,7.0,45.0,Tyler Reddick,Jordan Brand (23XI Racing),Toyota,160.0,running,15.0,47.0,0.0
+2023,21,Pocono,3.0,2.0,19.0,Martin Truex Jr,Interstate Batteries (Joe Gibbs),Toyota,160.0,running,20.0,44.0,0.0
+2023,21,Pocono,4.0,4.0,4.0,Kevin Harvick,Busch Light Peach (Stewart Haas Racing),Ford,160.0,running,0.0,33.0,0.0
+2023,21,Pocono,5.0,11.0,54.0,Ty Gibbs,He Gets Us (Joe Gibbs),Toyota,160.0,running,4.0,36.0,0.0
+2023,21,Pocono,6.0,5.0,20.0,Christopher Bell,Yahoo! (Joe Gibbs),Toyota,160.0,running,0.0,31.0,0.0
+2023,21,Pocono,7.0,22.0,47.0,Ricky Stenhouse Jr,Blue Buffalo (JTG-Daugherty Racing),Chevrolet,160.0,running,0.0,30.0,0.0
+2023,21,Pocono,8.0,26.0,21.0,Harrison Burton,DEX Imaging (Wood Brothers),Ford,160.0,running,0.0,29.0,0.0
+2023,21,Pocono,9.0,24.0,43.0,Erik Jones,U.S. Air Force (Legacy Motor Club),Chevrolet,160.0,running,0.0,29.0,0.0
+2023,21,Pocono,10.0,35.0,9.0,Chase Elliott,NAPA Auto Parts (Rick Hendrick),Chevrolet,160.0,running,0.0,27.0,0.0
+2023,21,Pocono,11.0,10.0,23.0,Bubba Wallace,Leidos (23XI Racing),Toyota,160.0,running,0.0,32.0,0.0
+2023,21,Pocono,12.0,27.0,10.0,Aric Almirola,Ford (Stewart Haas Racing),Ford,160.0,running,0.0,25.0,0.0
+2023,21,Pocono,13.0,21.0,1.0,Ross Chastain,Worldwide Express (Trackhouse Racing),Chevrolet,160.0,running,0.0,24.0,0.0
+2023,21,Pocono,14.0,1.0,24.0,William Byron,RaptorTough.com (Rick Hendrick),Chevrolet,160.0,running,60.0,31.0,0.0
+2023,21,Pocono,15.0,36.0,38.0,Todd Gilliland,Speedy Cash (Bob Jenkins),Ford,160.0,running,0.0,22.0,0.0
+2023,21,Pocono,16.0,13.0,6.0,Brad Keselowski,King's Hawaiian (Jack Roush),Ford,160.0,running,0.0,21.0,0.0
+2023,21,Pocono,17.0,16.0,16.0,A.J. Allmendinger,Action Industries (Matthew Kaulig),Chevrolet,160.0,running,0.0,26.0,0.0
+2023,21,Pocono,18.0,18.0,17.0,Chris Buescher,Wyndham Rewards (Jack Roush),Ford,160.0,running,0.0,21.0,0.0
+2023,21,Pocono,19.0,15.0,34.0,Michael McDowell,Benebone (Bob Jenkins),Ford,160.0,running,0.0,23.0,0.0
+2023,21,Pocono,20.0,3.0,5.0,Kyle Larson,HendrickCars.com (Rick Hendrick),Chevrolet,160.0,running,24.0,27.0,1.0
+2023,21,Pocono,21.0,25.0,8.0,Kyle Busch,Lenovo (Richard Childress),Chevrolet,160.0,running,0.0,16.0,0.0
+2023,21,Pocono,22.0,32.0,42.0,Noah Gragson,Sunseeker Resort (Legacy Motor Club),Chevrolet,160.0,running,0.0,15.0,0.0
+2023,21,Pocono,23.0,9.0,2.0,Austin Cindric,Menards Libman (Roger Penske),Ford,160.0,running,0.0,14.0,0.0
+2023,21,Pocono,24.0,20.0,48.0,Alex Bowman,Ally Best Friends (Rick Hendrick),Chevrolet,160.0,running,0.0,19.0,0.0
+2023,21,Pocono,25.0,31.0,51.0,Cole Custer,Jacob Companies (Rick Ware),Ford,160.0,running,0.0,0.0,0.0
+2023,21,Pocono,26.0,28.0,15.0,J.J. Yeley,Patriot Mobile (Rick Ware),Ford,160.0,running,0.0,0.0,0.0
+2023,21,Pocono,27.0,12.0,7.0,Corey LaJoie,TD Bank (Spire Motorsports),Chevrolet,160.0,running,5.0,10.0,0.0
+2023,21,Pocono,28.0,33.0,77.0,Ty Dillon,Gainbridge (Spire Motorsports),Chevrolet,160.0,running,0.0,18.0,0.0
+2023,21,Pocono,29.0,29.0,14.0,Chase Briscoe,HighPoint.com (Stewart Haas Racing),Ford,160.0,running,0.0,8.0,0.0
+2023,21,Pocono,30.0,14.0,12.0,Ryan Blaney,Advance Auto Parts (Roger Penske),Ford,160.0,running,2.0,10.0,0.0
+2023,21,Pocono,31.0,34.0,41.0,Ryan Preece,Mohawk Northeast (Stewart Haas Racing),Ford,159.0,running,0.0,6.0,0.0
+2023,21,Pocono,32.0,30.0,78.0,B.J. McLeod,B'laster (B.J. McLeod),Chevrolet,159.0,running,0.0,5.0,0.0
+2023,21,Pocono,33.0,19.0,31.0,Justin Haley,LeafFilter Gutter Protection (Matthew Kaulig),Chevrolet,153.0,crash,0.0,7.0,0.0
+2023,21,Pocono,34.0,23.0,3.0,Austin Dillon,BREZTRI (Richard Childress),Chevrolet,105.0,crash,0.0,3.0,0.0
+2023,21,Pocono,35.0,6.0,22.0,Joey Logano,Verizon Frontline (Roger Penske),Ford,48.0,dvp,21.0,12.0,1.0
+2023,21,Pocono,36.0,17.0,99.0,Daniel Suarez,Jockey (Trackhouse Racing),Chevrolet,37.0,crash,0.0,1.0,0.0
+2023,22,Richmond,1.0,26.0,17.0,Chris Buescher,Fastenal (Jack Roush),Ford,400.0,running,88.0,49.0,5.0
+2023,22,Richmond,2.0,3.0,11.0,Denny Hamlin,Mavis Tires & Brakes (Joe Gibbs),Toyota,400.0,running,20.0,49.0,0.0
+2023,22,Richmond,3.0,2.0,8.0,Kyle Busch,X World Wallet (Richard Childress),Chevrolet,400.0,running,0.0,39.0,0.0
+2023,22,Richmond,4.0,23.0,22.0,Joey Logano,Shell Pennzoil (Roger Penske),Ford,400.0,running,0.0,34.0,0.0
+2023,22,Richmond,5.0,11.0,41.0,Ryan Preece,United Rentals (Stewart Haas Racing),Ford,400.0,running,0.0,41.0,0.0
+2023,22,Richmond,6.0,13.0,6.0,Brad Keselowski,BuildSubmarines.com (Jack Roush),Ford,400.0,running,102.0,43.0,1.0
+2023,22,Richmond,7.0,10.0,19.0,Martin Truex Jr,Bass Pro Shops (Joe Gibbs),Toyota,400.0,running,18.0,33.0,0.0
+2023,22,Richmond,8.0,24.0,10.0,Aric Almirola,Smithfield (Stewart Haas Racing),Ford,400.0,running,0.0,32.0,0.0
+2023,22,Richmond,9.0,17.0,3.0,Austin Dillon,Bass Pro Shops Club (Richard Childress),Chevrolet,400.0,running,0.0,28.0,0.0
+2023,22,Richmond,10.0,8.0,4.0,Kevin Harvick,Rheem (Stewart Haas Racing),Ford,400.0,running,0.0,33.0,0.0
+2023,22,Richmond,11.0,20.0,14.0,Chase Briscoe,Rush Truck Centers (Stewart Haas Racing),Ford,400.0,running,0.0,26.0,0.0
+2023,22,Richmond,12.0,5.0,23.0,Bubba Wallace,McDonald's (23XI Racing),Toyota,400.0,running,80.0,41.0,0.0
+2023,22,Richmond,13.0,4.0,9.0,Chase Elliott,UniFirst (Rick Hendrick),Chevrolet,400.0,running,0.0,31.0,0.0
+2023,22,Richmond,14.0,25.0,12.0,Ryan Blaney,BodyArmor (Roger Penske),Ford,400.0,running,2.0,23.0,0.0
+2023,22,Richmond,15.0,7.0,54.0,Ty Gibbs,He Gets Us (Joe Gibbs),Toyota,400.0,running,0.0,25.0,0.0
+2023,22,Richmond,16.0,1.0,45.0,Tyler Reddick,Xfinity 10G Network (23XI Racing),Toyota,400.0,running,81.0,39.0,1.0
+2023,22,Richmond,17.0,9.0,47.0,Ricky Stenhouse Jr,Kleenex (JTG-Daugherty Racing),Chevrolet,400.0,running,0.0,20.0,0.0
+2023,22,Richmond,18.0,15.0,48.0,Alex Bowman,Ally (Rick Hendrick),Chevrolet,400.0,running,0.0,19.0,0.0
+2023,22,Richmond,19.0,14.0,5.0,Kyle Larson,HendrickCars.com (Rick Hendrick),Chevrolet,400.0,running,0.0,18.0,0.0
+2023,22,Richmond,20.0,29.0,20.0,Christopher Bell,Mac Tools (Joe Gibbs),Toyota,399.0,running,0.0,17.0,0.0
+2023,22,Richmond,21.0,6.0,24.0,William Byron,Liberty University (Rick Hendrick),Chevrolet,399.0,running,0.0,20.0,0.0
+2023,22,Richmond,22.0,18.0,34.0,Michael McDowell,StageFront.VIP (Bob Jenkins),Ford,399.0,running,9.0,15.0,0.0
+2023,22,Richmond,23.0,27.0,43.0,Erik Jones,Allegiant (Legacy Motor Club),Chevrolet,399.0,running,0.0,14.0,0.0
+2023,22,Richmond,24.0,19.0,1.0,Ross Chastain,Worldwide Express (Trackhouse Racing),Chevrolet,399.0,running,0.0,13.0,0.0
+2023,22,Richmond,25.0,16.0,38.0,Todd Gilliland,Speedy Cash (Bob Jenkins),Ford,399.0,running,0.0,12.0,0.0
+2023,22,Richmond,26.0,30.0,2.0,Austin Cindric,Menards Jack Links (Roger Penske),Ford,399.0,running,0.0,11.0,0.0
+2023,22,Richmond,27.0,36.0,16.0,A.J. Allmendinger,Action Industries (Matthew Kaulig),Chevrolet,399.0,running,0.0,10.0,0.0
+2023,22,Richmond,28.0,12.0,42.0,Noah Gragson,Sunseeker Resort (Legacy Motor Club),Chevrolet,398.0,running,0.0,9.0,0.0
+2023,22,Richmond,29.0,32.0,51.0,Ryan Newman,Parts Plus/Biohaven (Rick Ware),Ford,398.0,running,0.0,8.0,0.0
+2023,22,Richmond,30.0,28.0,31.0,Justin Haley,LeafFilter Gutter Protection (Matthew Kaulig),Chevrolet,398.0,running,0.0,7.0,0.0
+2023,22,Richmond,31.0,22.0,21.0,Harrison Burton,DEX Imaging (Wood Brothers),Ford,397.0,running,0.0,6.0,0.0
+2023,22,Richmond,32.0,31.0,7.0,Corey LaJoie,FOE (Spire Motorsports),Chevrolet,397.0,running,0.0,5.0,0.0
+2023,22,Richmond,33.0,33.0,99.0,Daniel Suarez,Jockey (Trackhouse Racing),Chevrolet,396.0,running,0.0,4.0,0.0
+2023,22,Richmond,34.0,34.0,77.0,Ty Dillon,Gainbridge (Spire Motorsports),Chevrolet,396.0,running,0.0,3.0,0.0
+2023,22,Richmond,35.0,35.0,15.0,J.J. Yeley,Patriot Mobile (Rick Ware),Ford,396.0,running,0.0,0.0,0.0
+2023,22,Richmond,36.0,21.0,78.0,B.J. McLeod,FREEDOMWORKSHERE.COM (B.J. McLeod),Chevrolet,395.0,running,0.0,1.0,0.0
+2023,23,Michigan,1.0,4.0,17.0,Chris Buescher,Castrol Edge (Jack Roush),Ford,200.0,running,52.0,41.0,5.0
+2023,23,Michigan,2.0,5.0,19.0,Martin Truex Jr,Auto-Owners Insurance (Joe Gibbs),Toyota,200.0,running,47.0,55.0,2.0
+2023,23,Michigan,3.0,13.0,11.0,Denny Hamlin,Mavis Tires & Brakes (Joe Gibbs),Toyota,200.0,running,1.0,37.0,0.0
+2023,23,Michigan,4.0,12.0,6.0,Brad Keselowski,Nexlizet (Jack Roush),Ford,200.0,running,15.0,48.0,0.0
+2023,23,Michigan,5.0,17.0,5.0,Kyle Larson,HendrickCars.com (Rick Hendrick),Chevrolet,200.0,running,2.0,43.0,0.0
+2023,23,Michigan,6.0,14.0,99.0,Daniel Suarez,Worldwide Express (Trackhouse Racing),Chevrolet,200.0,running,12.0,45.0,0.0
+2023,23,Michigan,7.0,2.0,1.0,Ross Chastain,Jockey (Trackhouse Racing),Chevrolet,200.0,running,16.0,30.0,0.0
+2023,23,Michigan,8.0,22.0,4.0,Kevin Harvick,Busch Light Peach (Stewart Haas Racing),Ford,200.0,running,0.0,29.0,0.0
+2023,23,Michigan,9.0,9.0,12.0,Ryan Blaney,Menards Knauf (Roger Penske),Ford,200.0,running,1.0,28.0,0.0
+2023,23,Michigan,10.0,25.0,43.0,Erik Jones,Allegiant (Legacy Motor Club),Chevrolet,200.0,running,0.0,29.0,0.0
+2023,23,Michigan,11.0,3.0,54.0,Ty Gibbs,Monster Energy (Joe Gibbs),Toyota,200.0,running,1.0,34.0,0.0
+2023,23,Michigan,12.0,20.0,2.0,Austin Cindric,Discount Tire (Roger Penske),Ford,200.0,running,0.0,27.0,0.0
+2023,23,Michigan,13.0,1.0,20.0,Christopher Bell,Rheem (Joe Gibbs),Toyota,200.0,running,1.0,24.0,0.0
+2023,23,Michigan,14.0,6.0,22.0,Joey Logano,Shell Pennzoil (Roger Penske),Ford,200.0,running,0.0,27.0,0.0
+2023,23,Michigan,15.0,31.0,7.0,Corey LaJoie,Garner Trucking (Spire Motorsports),Chevrolet,200.0,running,0.0,23.0,0.0
+2023,23,Michigan,16.0,18.0,10.0,Aric Almirola,Smithfield (Stewart Haas Racing),Ford,200.0,running,0.0,21.0,0.0
+2023,23,Michigan,17.0,29.0,21.0,Harrison Burton,Ford 20 Year Sr Master Techs (Wood Brothers),Ford,200.0,running,0.0,20.0,0.0
+2023,23,Michigan,18.0,11.0,23.0,Bubba Wallace,Door Dash (23XI Racing),Toyota,200.0,running,21.0,35.0,0.0
+2023,23,Michigan,19.0,15.0,3.0,Austin Dillon,Dow Mobility Science (Richard Childress),Chevrolet,200.0,running,2.0,18.0,0.0
+2023,23,Michigan,20.0,34.0,77.0,Ty Dillon,Ferris Commercial Mowers (Spire Motorsports),Chevrolet,200.0,running,2.0,17.0,0.0
+2023,23,Michigan,21.0,27.0,47.0,Ricky Stenhouse Jr,Kroger/ Minute Rice (JTG-Daugherty Racing),Chevrolet,200.0,running,0.0,16.0,0.0
+2023,23,Michigan,22.0,28.0,41.0,Ryan Preece,United Rentals (Stewart Haas Racing),Ford,199.0,running,0.0,15.0,0.0
+2023,23,Michigan,23.0,26.0,31.0,Justin Haley,LeafFilter Gutter Protection (Matthew Kaulig),Chevrolet,199.0,running,0.0,14.0,0.0
+2023,23,Michigan,24.0,23.0,34.0,Michael McDowell,Love's / MTS (Bob Jenkins),Ford,199.0,running,0.0,13.0,0.0
+2023,23,Michigan,25.0,33.0,51.0,Cole Custer,Biohaven/Jacob Co. (Rick Ware),Ford,199.0,running,0.0,0.0,0.0
+2023,23,Michigan,26.0,24.0,16.0,A.J. Allmendinger,Farmsmart (Matthew Kaulig),Chevrolet,199.0,running,0.0,14.0,0.0
+2023,23,Michigan,27.0,36.0,15.0,J.J. Yeley,Grill Blazers (Rick Ware),Ford,199.0,running,0.0,0.0,0.0
+2023,23,Michigan,28.0,30.0,62.0,Austin Hill,Bennett Transportation/Beard (Beard Motorsports),Chevrolet,198.0,running,0.0,0.0,0.0
+2023,23,Michigan,29.0,32.0,38.0,Todd Gilliland,Chicago Pneumatic Compressors (Bob Jenkins),Ford,197.0,running,0.0,8.0,0.0
+2023,23,Michigan,30.0,16.0,45.0,Tyler Reddick,Rocket League (23XI Racing),Toyota,197.0,running,7.0,7.0,0.0
+2023,23,Michigan,31.0,21.0,14.0,Chase Briscoe,Mahindra Tractors (Stewart Haas Racing),Ford,197.0,running,0.0,6.0,0.0
+2023,23,Michigan,32.0,37.0,78.0,Josh Bilicki,Zeigler Auto Group (B.J. McLeod),Chevrolet,196.0,running,1.0,0.0,0.0
+2023,23,Michigan,33.0,19.0,48.0,Alex Bowman,Ally x Detroit Pistons (Rick Hendrick),Chevrolet,134.0,steering,19.0,14.0,0.0
+2023,23,Michigan,34.0,35.0,42.0,Josh Berry,Sunseeker Resort (Legacy Motor Club),Chevrolet,50.0,crash,0.0,0.0,0.0
+2023,23,Michigan,35.0,7.0,24.0,William Byron,Liberty University (Rick Hendrick),Chevrolet,46.0,dvp,0.0,2.0,0.0
+2023,23,Michigan,36.0,10.0,9.0,Chase Elliott,NAPA Auto Parts (Rick Hendrick),Chevrolet,34.0,crash,0.0,1.0,0.0
+2023,23,Michigan,37.0,8.0,8.0,Kyle Busch,Kwik Trip | Kwik Star (Richard Childress),Chevrolet,14.0,crash,0.0,1.0,0.0
+2023,24,Indianapolis G.P.,1.0,4.0,34.0,Michael McDowell,Horizon Hobby (Bob Jenkins),Ford,82.0,running,54.0,59.0,6.0
+2023,24,Indianapolis G.P.,2.0,3.0,9.0,Chase Elliott,NAPA Auto Parts (Rick Hendrick),Chevrolet,82.0,running,1.0,49.0,0.0
+2023,24,Indianapolis G.P.,3.0,1.0,99.0,Daniel Suarez,Freeway.com (Trackhouse Racing),Chevrolet,82.0,running,6.0,51.0,0.0
+2023,24,Indianapolis G.P.,4.0,2.0,45.0,Tyler Reddick,SiriusXM Radio (23XI Racing),Toyota,82.0,running,0.0,44.0,0.0
+2023,24,Indianapolis G.P.,5.0,9.0,48.0,Alex Bowman,Ally (Rick Hendrick),Chevrolet,82.0,running,0.0,38.0,0.0
+2023,24,Indianapolis G.P.,6.0,13.0,14.0,Chase Briscoe,HighPoint.com (Stewart Haas Racing),Ford,82.0,running,0.0,33.0,0.0
+2023,24,Indianapolis G.P.,7.0,12.0,19.0,Martin Truex Jr,Auto-Owners Insurance (Joe Gibbs),Toyota,82.0,running,0.0,31.0,0.0
+2023,24,Indianapolis G.P.,8.0,6.0,5.0,Kyle Larson,HendrickCars.com (Rick Hendrick),Chevrolet,82.0,running,0.0,36.0,0.0
+2023,24,Indianapolis G.P.,9.0,7.0,20.0,Christopher Bell,Rheem / PSC Industries â€“ Johns Manville (Joe Gibbs),Toyota,82.0,running,11.0,32.0,0.0
+2023,24,Indianapolis G.P.,10.0,8.0,91.0,Shane Van Gisbergen,Enhance Health (Trackhouse Racing),Chevrolet,82.0,running,1.0,0.0,0.0
+2023,24,Indianapolis G.P.,11.0,17.0,17.0,Chris Buescher,Castrol Edge (Jack Roush),Ford,82.0,running,0.0,26.0,0.0
+2023,24,Indianapolis G.P.,12.0,10.0,54.0,Ty Gibbs,Monster Energy (Joe Gibbs),Toyota,82.0,running,0.0,25.0,0.0
+2023,24,Indianapolis G.P.,13.0,16.0,12.0,Ryan Blaney,Menards Atlas (Roger Penske),Ford,82.0,running,0.0,24.0,0.0
+2023,24,Indianapolis G.P.,14.0,39.0,24.0,William Byron,RaptorTough.com (Rick Hendrick),Chevrolet,82.0,running,0.0,23.0,0.0
+2023,24,Indianapolis G.P.,15.0,20.0,2.0,Austin Cindric,Discount Tire (Roger Penske),Ford,82.0,running,0.0,22.0,0.0
+2023,24,Indianapolis G.P.,16.0,27.0,3.0,Austin Dillon,Cowboy Channel (Richard Childress),Chevrolet,82.0,running,1.0,21.0,0.0
+2023,24,Indianapolis G.P.,17.0,21.0,1.0,Ross Chastain,Worldwide Express (Trackhouse Racing),Chevrolet,82.0,running,0.0,20.0,0.0
+2023,24,Indianapolis G.P.,18.0,19.0,23.0,Bubba Wallace,MoneyLion (23XI Racing),Toyota,82.0,running,0.0,19.0,0.0
+2023,24,Indianapolis G.P.,19.0,25.0,11.0,Denny Hamlin,Yahoo! (Joe Gibbs),Toyota,82.0,running,8.0,28.0,1.0
+2023,24,Indianapolis G.P.,20.0,22.0,6.0,Brad Keselowski,Socios.com (Jack Roush),Ford,82.0,running,0.0,24.0,0.0
+2023,24,Indianapolis G.P.,21.0,24.0,21.0,Harrison Burton,DEX Imaging (Wood Brothers),Ford,82.0,running,0.0,16.0,0.0
+2023,24,Indianapolis G.P.,22.0,11.0,33.0,Brodie Kostecki,Mobile X (Richard Childress),Chevrolet,82.0,running,0.0,15.0,0.0
+2023,24,Indianapolis G.P.,23.0,38.0,4.0,Kevin Harvick,Mobil 1 (Stewart Haas Racing),Ford,81.0,running,0.0,14.0,0.0
+2023,24,Indianapolis G.P.,24.0,37.0,42.0,Mike Rockenfeller,Sunseeker Resort (Legacy Motor Club),Chevrolet,81.0,running,0.0,13.0,0.0
+2023,24,Indianapolis G.P.,25.0,34.0,47.0,Ricky Stenhouse Jr,Kroger/Frosted Flakes (JTG-Daugherty Racing),Chevrolet,81.0,running,0.0,12.0,0.0
+2023,24,Indianapolis G.P.,26.0,26.0,16.0,A.J. Allmendinger,Dyna-Gro Seed (Matthew Kaulig),Chevrolet,81.0,running,0.0,11.0,0.0
+2023,24,Indianapolis G.P.,27.0,35.0,77.0,Ty Dillon,Raze Tea (Spire Motorsports),Chevrolet,81.0,running,0.0,10.0,0.0
+2023,24,Indianapolis G.P.,28.0,31.0,15.0,Jenson Button,Mobil 1 (Rick Ware),Ford,81.0,running,0.0,9.0,0.0
+2023,24,Indianapolis G.P.,29.0,14.0,7.0,Corey LaJoie,Gainbridge (Spire Motorsports),Chevrolet,81.0,running,0.0,8.0,0.0
+2023,24,Indianapolis G.P.,30.0,29.0,51.0,Andy Lally,Camping World (Rick Ware),Ford,81.0,running,0.0,7.0,0.0
+2023,24,Indianapolis G.P.,31.0,30.0,41.0,Ryan Preece,Purdue University (Stewart Haas Racing),Ford,81.0,running,0.0,6.0,0.0
+2023,24,Indianapolis G.P.,32.0,32.0,78.0,Josh Bilicki,Zeigler Auto Group (B.J. McLeod),Chevrolet,81.0,running,0.0,0.0,0.0
+2023,24,Indianapolis G.P.,33.0,28.0,67.0,Kamui Kobayashi,Toyota Genuine Parts (23XI Racing),Toyota,81.0,running,0.0,0.0,0.0
+2023,24,Indianapolis G.P.,34.0,18.0,22.0,Joey Logano,Shell Pennzoil (Roger Penske),Ford,81.0,running,0.0,3.0,0.0
+2023,24,Indianapolis G.P.,35.0,36.0,43.0,Erik Jones,Allegiant (Legacy Motor Club),Chevrolet,81.0,running,0.0,2.0,0.0
+2023,24,Indianapolis G.P.,36.0,5.0,8.0,Kyle Busch,3CHI (Richard Childress),Chevrolet,80.0,running,0.0,11.0,0.0
+2023,24,Indianapolis G.P.,37.0,23.0,38.0,Todd Gilliland,gener8tor Skills (Bob Jenkins),Ford,80.0,running,0.0,1.0,0.0
+2023,24,Indianapolis G.P.,38.0,15.0,31.0,Justin Haley,LeafFilter Gutter Protection (Matthew Kaulig),Chevrolet,80.0,running,0.0,1.0,0.0
+2023,24,Indianapolis G.P.,39.0,33.0,10.0,Aric Almirola,Ford (Stewart Haas Racing),Ford,79.0,running,0.0,1.0,0.0
+2023,25,Watkins Glen,1.0,2.0,24.0,William Byron,Valvoline (Rick Hendrick),Chevrolet,90.0,running,66.0,59.0,6.0
+2023,25,Watkins Glen,2.0,1.0,11.0,Denny Hamlin,Mavis Tires & Brakes (Joe Gibbs),Toyota,90.0,running,3.0,52.0,0.0
+2023,25,Watkins Glen,3.0,7.0,20.0,Christopher Bell,DEWALT Concrete Total Solutions (Joe Gibbs),Toyota,90.0,running,0.0,43.0,0.0
+2023,25,Watkins Glen,4.0,6.0,16.0,A.J. Allmendinger,Celsius (Matthew Kaulig),Chevrolet,90.0,running,2.0,45.0,0.0
+2023,25,Watkins Glen,5.0,4.0,54.0,Ty Gibbs,Monster Energy (Joe Gibbs),Toyota,90.0,running,0.0,47.0,0.0
+2023,25,Watkins Glen,6.0,19.0,19.0,Martin Truex Jr,Siemens (Joe Gibbs),Toyota,90.0,running,0.0,31.0,0.0
+2023,25,Watkins Glen,7.0,13.0,17.0,Chris Buescher,Fastenal (Jack Roush),Ford,90.0,running,0.0,30.0,0.0
+2023,25,Watkins Glen,8.0,8.0,45.0,Tyler Reddick,Toyota SmartPath (23XI Racing),Toyota,90.0,running,0.0,30.0,0.0
+2023,25,Watkins Glen,9.0,23.0,12.0,Ryan Blaney,MenardsRichmond Water Heaters (Roger Penske),Ford,90.0,running,0.0,28.0,0.0
+2023,25,Watkins Glen,10.0,11.0,22.0,Joey Logano,Shell Pennzoil (Roger Penske),Ford,90.0,running,0.0,27.0,0.0
+2023,25,Watkins Glen,11.0,25.0,38.0,Todd Gilliland,Serial1.com E-Bikes (Bob Jenkins),Ford,90.0,running,0.0,26.0,0.0
+2023,25,Watkins Glen,12.0,12.0,23.0,Bubba Wallace,McDonald's (23XI Racing),Toyota,90.0,running,0.0,30.0,0.0
+2023,25,Watkins Glen,13.0,28.0,47.0,Ricky Stenhouse Jr,Sugarlands / Eggo Brunch in a Jar Sippin' Cre (JTG-Daugherty Racing),Chevrolet,90.0,running,0.0,24.0,0.0
+2023,25,Watkins Glen,14.0,9.0,8.0,Kyle Busch,Mark III (Richard Childress),Chevrolet,90.0,running,2.0,28.0,0.0
+2023,25,Watkins Glen,15.0,24.0,6.0,Brad Keselowski,BuildSubmarines.com (Jack Roush),Ford,90.0,running,0.0,22.0,0.0
+2023,25,Watkins Glen,16.0,17.0,2.0,Austin Cindric,AutoTrader (Roger Penske),Ford,90.0,running,0.0,21.0,0.0
+2023,25,Watkins Glen,17.0,30.0,41.0,Ryan Preece,United Rentals (Stewart Haas Racing),Ford,90.0,running,0.0,20.0,0.0
+2023,25,Watkins Glen,18.0,22.0,1.0,Ross Chastain,Moose Fraternity (Trackhouse Racing),Chevrolet,90.0,running,0.0,19.0,0.0
+2023,25,Watkins Glen,19.0,21.0,42.0,Mike Rockenfeller,Sunseeker Resort (Legacy Motor Club),Chevrolet,90.0,running,0.0,18.0,0.0
+2023,25,Watkins Glen,20.0,10.0,7.0,Corey LaJoie,Gainbridge (Spire Motorsports),Chevrolet,90.0,running,0.0,17.0,0.0
+2023,25,Watkins Glen,21.0,33.0,4.0,Kevin Harvick,Busch Light (Stewart Haas Racing),Ford,90.0,running,0.0,16.0,0.0
+2023,25,Watkins Glen,22.0,14.0,99.0,Daniel Suarez,Freeway.com (Trackhouse Racing),Chevrolet,90.0,running,0.0,15.0,0.0
+2023,25,Watkins Glen,23.0,18.0,48.0,Alex Bowman,Ally (Rick Hendrick),Chevrolet,90.0,running,0.0,14.0,0.0
+2023,25,Watkins Glen,24.0,20.0,31.0,Justin Haley,LeafFilter Gutter Protection (Matthew Kaulig),Chevrolet,90.0,running,0.0,13.0,0.0
+2023,25,Watkins Glen,25.0,29.0,15.0,Andy Lally,Camping World (Rick Ware),Ford,90.0,running,0.0,12.0,0.0
+2023,25,Watkins Glen,26.0,5.0,5.0,Kyle Larson,HendrickCars.com (Rick Hendrick),Chevrolet,90.0,running,0.0,23.0,0.0
+2023,25,Watkins Glen,27.0,35.0,78.0,Josh Bilicki,Zeigler Auto Group (B.J. McLeod),Chevrolet,90.0,running,0.0,0.0,0.0
+2023,25,Watkins Glen,28.0,34.0,51.0,Cole Custer,Biohaven/Jacob Co. (Rick Ware),Ford,90.0,running,0.0,0.0,0.0
+2023,25,Watkins Glen,29.0,31.0,43.0,Erik Jones,Allegiant (Legacy Motor Club),Chevrolet,90.0,running,0.0,8.0,0.0
+2023,25,Watkins Glen,30.0,27.0,10.0,Aric Almirola,Go Bowling (Stewart Haas Racing),Ford,90.0,running,0.0,7.0,0.0
+2023,25,Watkins Glen,31.0,16.0,3.0,Austin Dillon,Okuma (Richard Childress),Chevrolet,90.0,running,0.0,7.0,0.0
+2023,25,Watkins Glen,32.0,15.0,9.0,Chase Elliott,NAPA Auto Parts (Rick Hendrick),Chevrolet,89.0,running,0.0,9.0,0.0
+2023,25,Watkins Glen,33.0,32.0,21.0,Harrison Burton,DEX Imaging (Wood Brothers),Ford,89.0,running,0.0,4.0,0.0
+2023,25,Watkins Glen,34.0,36.0,77.0,Ty Dillon,Ferris Commercial Mowers (Spire Motorsports),Chevrolet,89.0,running,0.0,3.0,0.0
+2023,25,Watkins Glen,35.0,26.0,14.0,Chase Briscoe,Mahindra Tractors (Stewart Haas Racing),Ford,83.0,running,0.0,2.0,0.0
+2023,25,Watkins Glen,36.0,3.0,34.0,Michael McDowell,Love's Travel Stops (Bob Jenkins),Ford,74.0,electrical,17.0,11.0,1.0
+2023,26,Daytona,1.0,11.0,17.0,Chris Buescher,Fifth Third Bank (Jack Roush),Ford,163.0,running,2.0,40.0,5.0
+2023,26,Daytona,2.0,12.0,6.0,Brad Keselowski,King's Hawaiian (Jack Roush),Ford,163.0,running,6.0,45.0,1.0
+2023,26,Daytona,3.0,2.0,10.0,Aric Almirola,Smithfield (Stewart Haas Racing),Ford,163.0,running,3.0,34.0,0.0
+2023,26,Daytona,4.0,23.0,9.0,Chase Elliott,Llumar (Rick Hendrick),Chevrolet,163.0,running,2.0,37.0,0.0
+2023,26,Daytona,5.0,14.0,22.0,Joey Logano,Shell Pennzoil (Roger Penske),Ford,163.0,running,9.0,39.0,0.0
+2023,26,Daytona,6.0,31.0,48.0,Alex Bowman,Ally Arena (Rick Hendrick),Chevrolet,163.0,running,0.0,38.0,0.0
+2023,26,Daytona,7.0,18.0,8.0,Kyle Busch,Cheddar's Scratch Kitchen (Richard Childress),Chevrolet,163.0,running,5.0,39.0,0.0
+2023,26,Daytona,8.0,27.0,24.0,William Byron,RaptorTough.com (Rick Hendrick),Chevrolet,163.0,running,1.0,35.0,0.0
+2023,26,Daytona,9.0,10.0,4.0,Kevin Harvick,Gearwrench (Stewart Haas Racing),Ford,163.0,running,14.0,36.0,0.0
+2023,26,Daytona,10.0,37.0,7.0,Corey LaJoie,NEGU (Spire Motorsports),Chevrolet,163.0,running,0.0,27.0,0.0
+2023,26,Daytona,11.0,30.0,77.0,Ty Dillon,Gainbridge (Spire Motorsports),Chevrolet,163.0,running,0.0,26.0,0.0
+2023,26,Daytona,12.0,4.0,23.0,Bubba Wallace,Columbia Sportswear Company (23XI Racing),Toyota,163.0,running,0.0,30.0,0.0
+2023,26,Daytona,13.0,39.0,34.0,Michael McDowell,Fr8Auctions (Bob Jenkins),Ford,163.0,running,0.0,24.0,0.0
+2023,26,Daytona,14.0,26.0,62.0,Austin Hill,United Rentals / Beard Oil (Beard Motorsports),Chevrolet,163.0,running,0.0,0.0,0.0
+2023,26,Daytona,15.0,36.0,13.0,Chandler Smith,"Quick Tie Products, Inc. (Matthew Kaulig)",Chevrolet,163.0,running,0.0,0.0,0.0
+2023,26,Daytona,16.0,15.0,20.0,Christopher Bell,Yahoo! (Joe Gibbs),Toyota,163.0,running,0.0,30.0,0.0
+2023,26,Daytona,17.0,25.0,1.0,Ross Chastain,Worldwide Express (Trackhouse Racing),Chevrolet,163.0,running,19.0,22.0,0.0
+2023,26,Daytona,18.0,24.0,43.0,Erik Jones,Allegiant (Legacy Motor Club),Chevrolet,163.0,running,0.0,19.0,0.0
+2023,26,Daytona,19.0,33.0,51.0,J.J. Yeley,Biohaven/Jacob Co. (Rick Ware),Ford,163.0,running,0.0,0.0,0.0
+2023,26,Daytona,20.0,22.0,99.0,Daniel Suarez,Freeway.com (Trackhouse Racing),Chevrolet,163.0,running,1.0,26.0,0.0
+2023,26,Daytona,21.0,28.0,31.0,Justin Haley,Celsius (Matthew Kaulig),Chevrolet,163.0,running,0.0,16.0,0.0
+2023,26,Daytona,22.0,29.0,42.0,Josh Berry,Sunseeker Resort (Legacy Motor Club),Chevrolet,163.0,running,0.0,0.0,0.0
+2023,26,Daytona,23.0,38.0,78.0,B.J. McLeod,B'laster (B.J. McLeod),Chevrolet,163.0,running,0.0,14.0,0.0
+2023,26,Daytona,24.0,13.0,19.0,Martin Truex Jr,Bass Pro Shops / Ducks Unlimited (Joe Gibbs),Toyota,163.0,running,4.0,23.0,1.0
+2023,26,Daytona,25.0,20.0,45.0,Tyler Reddick,The Beast Unleashed (23XI Racing),Toyota,163.0,running,0.0,17.0,0.0
+2023,26,Daytona,26.0,19.0,11.0,Denny Hamlin,FedEx Cares (Joe Gibbs),Toyota,162.0,running,12.0,14.0,0.0
+2023,26,Daytona,27.0,7.0,5.0,Kyle Larson,HendrickCars.com (Rick Hendrick),Chevrolet,161.0,running,0.0,10.0,0.0
+2023,26,Daytona,28.0,3.0,21.0,Harrison Burton,DEX Imaging (Wood Brothers),Ford,160.0,running,5.0,9.0,0.0
+2023,26,Daytona,29.0,17.0,16.0,A.J. Allmendinger,Action Industries (Matthew Kaulig),Chevrolet,160.0,running,8.0,8.0,0.0
+2023,26,Daytona,30.0,1.0,14.0,Chase Briscoe,Magical Vacation Planner (Stewart Haas Racing),Ford,156.0,crash,67.0,9.0,0.0
+2023,26,Daytona,31.0,9.0,41.0,Ryan Preece,RaceChoice.com (Stewart Haas Racing),Ford,155.0,crash,0.0,6.0,0.0
+2023,26,Daytona,32.0,35.0,38.0,Todd Gilliland,Boot Barn (Bob Jenkins),Ford,131.0,overheating,0.0,5.0,0.0
+2023,26,Daytona,33.0,21.0,3.0,Austin Dillon,BREZTRI (Richard Childress),Chevrolet,102.0,crash,0.0,7.0,0.0
+2023,26,Daytona,34.0,32.0,47.0,Ricky Stenhouse Jr,Boost by Kroger/Entenmann's (JTG-Daugherty Racing),Chevrolet,96.0,crash,1.0,3.0,0.0
+2023,26,Daytona,35.0,5.0,54.0,Ty Gibbs,Monster Energy (Joe Gibbs),Toyota,94.0,crash,0.0,9.0,0.0
+2023,26,Daytona,36.0,8.0,12.0,Ryan Blaney,Advance Auto Parts (Roger Penske),Ford,94.0,crash,4.0,1.0,0.0
+2023,26,Daytona,37.0,16.0,2.0,Austin Cindric,MenardsCardell Cabinetry (Roger Penske),Ford,94.0,crash,0.0,5.0,0.0
+2023,26,Daytona,38.0,6.0,36.0,Riley Herbst,Monster Energy Zero Sugar (Bob Jenkins),Ford,94.0,crash,0.0,0.0,0.0
+2023,26,Daytona,39.0,34.0,15.0,Brennan Poole,Finance Pro Plus (Rick Ware),Ford,93.0,crash,0.0,0.0,0.0
+2023,27,Darlington,1.0,18.0,5.0,Kyle Larson,HendrickCars.com (Rick Hendrick),Chevrolet,367.0,running,55.0,57.0,5.0
+2023,27,Darlington,2.0,3.0,45.0,Tyler Reddick,Jordan Brand (23XI Racing),Toyota,367.0,running,90.0,51.0,0.0
+2023,27,Darlington,3.0,8.0,17.0,Chris Buescher,BuildSubmarines.com (Jack Roush),Ford,367.0,running,0.0,36.0,0.0
+2023,27,Darlington,4.0,23.0,24.0,William Byron,Liberty University (Rick Hendrick),Chevrolet,367.0,running,0.0,39.0,0.0
+2023,27,Darlington,5.0,27.0,1.0,Ross Chastain,Unishippers (Trackhouse Racing),Chevrolet,367.0,running,0.0,32.0,0.0
+2023,27,Darlington,6.0,5.0,6.0,Brad Keselowski,Solomon Plumbing (Jack Roush),Ford,367.0,running,0.0,38.0,0.0
+2023,27,Darlington,7.0,19.0,23.0,Bubba Wallace,McDonald's (23XI Racing),Toyota,367.0,running,0.0,30.0,0.0
+2023,27,Darlington,8.0,13.0,9.0,Chase Elliott,NAPA Auto Parts (Rick Hendrick),Chevrolet,367.0,running,0.0,33.0,0.0
+2023,27,Darlington,9.0,4.0,12.0,Ryan Blaney,MenardsRichmond Water Heaters (Roger Penske),Ford,367.0,running,0.0,38.0,0.0
+2023,27,Darlington,10.0,20.0,43.0,Erik Jones,Allegiant (Legacy Motor Club),Chevrolet,367.0,running,0.0,35.0,0.0
+2023,27,Darlington,11.0,11.0,8.0,Kyle Busch,McLaren Custom Grills (Richard Childress),Chevrolet,367.0,running,0.0,31.0,0.0
+2023,27,Darlington,12.0,6.0,22.0,Joey Logano,Shell Pennzoil (Roger Penske),Ford,367.0,running,0.0,25.0,0.0
+2023,27,Darlington,13.0,16.0,16.0,A.J. Allmendinger,Action Industries (Matthew Kaulig),Chevrolet,367.0,running,0.0,24.0,0.0
+2023,27,Darlington,14.0,10.0,10.0,Aric Almirola,Smithfield (Stewart Haas Racing),Ford,367.0,running,0.0,24.0,0.0
+2023,27,Darlington,15.0,12.0,14.0,Chase Briscoe,HighPoint.com Lady in Black (Stewart Haas Racing),Ford,367.0,running,0.0,22.0,0.0
+2023,27,Darlington,16.0,25.0,47.0,Ricky Stenhouse Jr,Boost by Kroger/Irish Spring (JTG-Daugherty Racing),Chevrolet,367.0,running,0.0,22.0,0.0
+2023,27,Darlington,17.0,15.0,42.0,Carson Hocevar,Sunseeker Resort (Legacy Motor Club),Chevrolet,367.0,running,0.0,0.0,0.0
+2023,27,Darlington,18.0,31.0,19.0,Martin Truex Jr,Bass Pro Shops (Joe Gibbs),Toyota,367.0,running,0.0,19.0,0.0
+2023,27,Darlington,19.0,7.0,4.0,Kevin Harvick,Mobil 1 Take 5 (Stewart Haas Racing),Ford,367.0,running,1.0,25.0,0.0
+2023,27,Darlington,20.0,28.0,3.0,Austin Dillon,Morgan & Morgan (Richard Childress),Chevrolet,367.0,running,0.0,20.0,0.0
+2023,27,Darlington,21.0,17.0,54.0,Ty Gibbs,Monster Energy (Joe Gibbs),Toyota,367.0,running,0.0,16.0,0.0
+2023,27,Darlington,22.0,22.0,7.0,Corey LaJoie,Gainbridge (Spire Motorsports),Chevrolet,367.0,running,3.0,15.0,0.0
+2023,27,Darlington,23.0,1.0,20.0,Christopher Bell,Yahoo! (Joe Gibbs),Toyota,366.0,running,40.0,17.0,0.0
+2023,27,Darlington,24.0,29.0,31.0,Justin Haley,LeafFilter Gutter Protection (Matthew Kaulig),Chevrolet,366.0,running,0.0,13.0,0.0
+2023,27,Darlington,25.0,2.0,11.0,Denny Hamlin,SportClips Haircuts (Joe Gibbs),Toyota,366.0,running,177.0,32.0,2.0
+2023,27,Darlington,26.0,30.0,38.0,Todd Gilliland,Quincy Compressor (Bob Jenkins),Ford,366.0,running,0.0,11.0,0.0
+2023,27,Darlington,27.0,35.0,51.0,Ryan Newman,Parts Plus/Biohaven (Rick Ware),Ford,365.0,running,0.0,10.0,0.0
+2023,27,Darlington,28.0,34.0,41.0,Ryan Preece,HaasTooling.com (Stewart Haas Racing),Ford,364.0,running,0.0,9.0,0.0
+2023,27,Darlington,29.0,26.0,77.0,Ty Dillon,Raze Energy Blue Shock (Spire Motorsports),Chevrolet,364.0,running,0.0,8.0,0.0
+2023,27,Darlington,30.0,33.0,15.0,J.J. Yeley,Ollie's Bargain Outlet (Rick Ware),Ford,362.0,running,1.0,0.0,0.0
+2023,27,Darlington,31.0,14.0,2.0,Austin Cindric,Discount Tire (Roger Penske),Ford,361.0,running,0.0,6.0,0.0
+2023,27,Darlington,32.0,9.0,34.0,Michael McDowell,StageFront.VIP (Bob Jenkins),Ford,329.0,crash,0.0,5.0,0.0
+2023,27,Darlington,33.0,24.0,48.0,Alex Bowman,Ally (Rick Hendrick),Chevrolet,322.0,crash,0.0,4.0,0.0
+2023,27,Darlington,34.0,21.0,99.0,Daniel Suarez,Freeway.com (Trackhouse Racing),Chevrolet,320.0,crash,0.0,3.0,0.0
+2023,27,Darlington,35.0,32.0,21.0,Harrison Burton,Motorcraft/Quick Lane (Wood Brothers),Ford,318.0,crash,0.0,2.0,0.0
+2023,27,Darlington,36.0,36.0,78.0,B.J. McLeod,Affliction (B.J. McLeod),Chevrolet,210.0,engine,0.0,1.0,0.0
+2023,28,Kansas,1.0,5.0,45.0,Tyler Reddick,MoneyLion (23XI Racing),Toyota,268.0,running,2.0,51.0,5.0
+2023,28,Kansas,2.0,14.0,11.0,Denny Hamlin,Yahoo! (Joe Gibbs),Toyota,268.0,running,63.0,48.0,0.0
+2023,28,Kansas,3.0,19.0,43.0,Erik Jones,Allegiant (Legacy Motor Club),Chevrolet,268.0,running,0.0,39.0,0.0
+2023,28,Kansas,4.0,2.0,5.0,Kyle Larson,HendrickCars.com (Rick Hendrick),Chevrolet,268.0,running,99.0,43.0,1.0
+2023,28,Kansas,5.0,11.0,22.0,Joey Logano,Shell Pennzoil (Roger Penske),Ford,268.0,running,0.0,35.0,0.0
+2023,28,Kansas,6.0,4.0,9.0,Chase Elliott,NAPA Auto Parts (Rick Hendrick),Chevrolet,268.0,running,47.0,41.0,0.0
+2023,28,Kansas,7.0,35.0,8.0,Kyle Busch,Casey's General Store (Richard Childress),Chevrolet,268.0,running,0.0,30.0,0.0
+2023,28,Kansas,8.0,1.0,20.0,Christopher Bell,DEWALT Perform & Protect (Joe Gibbs),Toyota,268.0,running,15.0,38.0,0.0
+2023,28,Kansas,9.0,12.0,6.0,Brad Keselowski,BuildSubmarines.com (Jack Roush),Ford,268.0,running,23.0,41.0,1.0
+2023,28,Kansas,10.0,23.0,48.0,Alex Bowman,Ally (Rick Hendrick),Chevrolet,268.0,running,0.0,27.0,0.0
+2023,28,Kansas,11.0,20.0,4.0,Kevin Harvick,SunnyD (Stewart Haas Racing),Ford,268.0,running,0.0,34.0,0.0
+2023,28,Kansas,12.0,17.0,12.0,Ryan Blaney,Wabash (Roger Penske),Ford,268.0,running,0.0,35.0,0.0
+2023,28,Kansas,13.0,6.0,1.0,Ross Chastain,Kubota (Trackhouse Racing),Chevrolet,268.0,running,0.0,31.0,0.0
+2023,28,Kansas,14.0,36.0,54.0,Ty Gibbs,Monster Energy (Joe Gibbs),Toyota,268.0,running,0.0,23.0,0.0
+2023,28,Kansas,15.0,9.0,24.0,William Byron,RaptorTough.com (Rick Hendrick),Chevrolet,268.0,running,0.0,22.0,0.0
+2023,28,Kansas,16.0,15.0,99.0,Daniel Suarez,Freeway.com (Trackhouse Racing),Chevrolet,268.0,running,12.0,21.0,0.0
+2023,28,Kansas,17.0,25.0,10.0,Aric Almirola,Smithfield (Stewart Haas Racing),Ford,268.0,running,3.0,20.0,0.0
+2023,28,Kansas,18.0,28.0,41.0,Ryan Preece,United Rentals (Stewart Haas Racing),Ford,268.0,running,0.0,19.0,0.0
+2023,28,Kansas,19.0,26.0,14.0,Chase Briscoe,Mahindra Tractors (Stewart Haas Racing),Ford,268.0,running,0.0,18.0,0.0
+2023,28,Kansas,20.0,21.0,42.0,Carson Hocevar,Sunseeker Resorts (Legacy Motor Club),Chevrolet,268.0,running,0.0,0.0,0.0
+2023,28,Kansas,21.0,30.0,31.0,Justin Haley,Celsius (Matthew Kaulig),Chevrolet,268.0,running,0.0,16.0,0.0
+2023,28,Kansas,22.0,24.0,7.0,Corey LaJoie,Gainbridge (Spire Motorsports),Chevrolet,268.0,running,0.0,15.0,0.0
+2023,28,Kansas,23.0,16.0,47.0,Ricky Stenhouse Jr,Dillons/NOS Energy Drink (JTG-Daugherty Racing),Chevrolet,268.0,running,0.0,14.0,0.0
+2023,28,Kansas,24.0,27.0,51.0,Cole Custer,Biohaven/Jacob Co. (Rick Ware),Ford,268.0,running,0.0,0.0,0.0
+2023,28,Kansas,25.0,32.0,38.0,Todd Gilliland,Boot Barn (Bob Jenkins),Ford,267.0,running,0.0,12.0,0.0
+2023,28,Kansas,26.0,7.0,34.0,Michael McDowell,Fr8Auctions.com (Bob Jenkins),Ford,267.0,running,0.0,11.0,0.0
+2023,28,Kansas,27.0,13.0,17.0,Chris Buescher,Fastenal (Jack Roush),Ford,267.0,running,0.0,12.0,0.0
+2023,28,Kansas,28.0,33.0,77.0,Ty Dillon,Raze Tea (Spire Motorsports),Chevrolet,267.0,running,0.0,9.0,0.0
+2023,28,Kansas,29.0,34.0,78.0,Sheldon Creed,Whelen (B.J. McLeod),Chevrolet,266.0,running,0.0,0.0,0.0
+2023,28,Kansas,30.0,22.0,16.0,A.J. Allmendinger,Nutrien Ag Solutions (Matthew Kaulig),Chevrolet,266.0,running,0.0,7.0,0.0
+2023,28,Kansas,31.0,18.0,2.0,Austin Cindric,MenardsRichmond Water Heaters (Roger Penske),Ford,266.0,running,0.0,6.0,0.0
+2023,28,Kansas,32.0,10.0,23.0,Bubba Wallace,Columbia Sportswear Company (23XI Racing),Toyota,264.0,running,3.0,14.0,0.0
+2023,28,Kansas,33.0,8.0,3.0,Austin Dillon,Bass Pro Shops (Richard Childress),Chevrolet,259.0,running,0.0,4.0,0.0
+2023,28,Kansas,34.0,31.0,15.0,J.J. Yeley,Jungle Law (Rick Ware),Ford,212.0,dvp,1.0,0.0,0.0
+2023,28,Kansas,35.0,29.0,21.0,Harrison Burton,Menards MasterForce (Wood Brothers),Ford,175.0,dvp,0.0,2.0,0.0
+2023,28,Kansas,36.0,3.0,19.0,Martin Truex Jr,Bass Pro Shops (Joe Gibbs),Toyota,3.0,crash,0.0,1.0,0.0
+2023,29,Bristol,1.0,2.0,11.0,Denny Hamlin,FedEx Freight Direct (Joe Gibbs),Toyota,500.0,running,142.0,47.0,5.0
+2023,29,Bristol,2.0,36.0,5.0,Kyle Larson,Valvoline / HendrickCars.com (Rick Hendrick),Chevrolet,500.0,running,20.0,46.0,0.0
+2023,29,Bristol,3.0,1.0,20.0,Christopher Bell,Reser's Fine Foods (Joe Gibbs),Toyota,500.0,running,187.0,54.0,2.0
+2023,29,Bristol,4.0,20.0,17.0,Chris Buescher,BuildSubmarines.com (Jack Roush),Ford,500.0,running,1.0,37.0,0.0
+2023,29,Bristol,5.0,8.0,54.0,Ty Gibbs,Monster Energy (Joe Gibbs),Toyota,500.0,running,102.0,42.0,0.0
+2023,29,Bristol,6.0,4.0,34.0,Michael McDowell,Love's / Delo (Bob Jenkins),Ford,500.0,running,0.0,36.0,0.0
+2023,29,Bristol,7.0,7.0,9.0,Chase Elliott,NAPA Gold Filters (Rick Hendrick),Chevrolet,500.0,running,0.0,31.0,0.0
+2023,29,Bristol,8.0,6.0,6.0,Brad Keselowski,Castrol Edge (Jack Roush),Ford,500.0,running,0.0,33.0,0.0
+2023,29,Bristol,9.0,3.0,24.0,William Byron,Relay Payments (Rick Hendrick),Chevrolet,500.0,running,0.0,38.0,0.0
+2023,29,Bristol,10.0,25.0,47.0,Ricky Stenhouse Jr,Scott Brand (JTG-Daugherty Racing),Chevrolet,500.0,running,0.0,27.0,0.0
+2023,29,Bristol,11.0,16.0,42.0,Carson Hocevar,Sunseeker Resort (Legacy Motor Club),Chevrolet,499.0,running,0.0,0.0,0.0
+2023,29,Bristol,12.0,17.0,41.0,Ryan Preece,Operating Engineers (Stewart Haas Racing),Ford,499.0,running,0.0,27.0,0.0
+2023,29,Bristol,13.0,13.0,48.0,Alex Bowman,Ally (Rick Hendrick),Chevrolet,499.0,running,0.0,24.0,0.0
+2023,29,Bristol,14.0,9.0,23.0,Bubba Wallace,Columbia Sportswear Company (23XI Racing),Toyota,499.0,running,0.0,31.0,0.0
+2023,29,Bristol,15.0,12.0,45.0,Tyler Reddick,Jordan Brand (23XI Racing),Toyota,499.0,running,0.0,28.0,0.0
+2023,29,Bristol,16.0,30.0,38.0,Todd Gilliland,Speedy Cash (Bob Jenkins),Ford,499.0,running,0.0,21.0,0.0
+2023,29,Bristol,17.0,18.0,3.0,Austin Dillon,Bass Pro Shops (Richard Childress),Chevrolet,499.0,running,0.0,20.0,0.0
+2023,29,Bristol,18.0,26.0,10.0,Aric Almirola,Smithfield / IHOP (Stewart Haas Racing),Ford,499.0,running,0.0,19.0,0.0
+2023,29,Bristol,19.0,5.0,19.0,Martin Truex Jr,Bass Pro Shops (Joe Gibbs),Toyota,498.0,running,0.0,20.0,0.0
+2023,29,Bristol,20.0,15.0,8.0,Kyle Busch,Cheddar's / ALSCO Uniforms (Richard Childress),Chevrolet,498.0,running,0.0,17.0,0.0
+2023,29,Bristol,21.0,24.0,99.0,Daniel Suarez,Aerial Recovery (Trackhouse Racing),Chevrolet,498.0,running,0.0,16.0,0.0
+2023,29,Bristol,22.0,11.0,12.0,Ryan Blaney,Advance Auto Parts (Roger Penske),Ford,498.0,running,0.0,15.0,0.0
+2023,29,Bristol,23.0,23.0,1.0,Ross Chastain,Worldwide Express (Trackhouse Racing),Chevrolet,498.0,running,0.0,19.0,0.0
+2023,29,Bristol,24.0,31.0,43.0,Erik Jones,U.S. Air Force (Legacy Motor Club),Chevrolet,497.0,running,0.0,13.0,0.0
+2023,29,Bristol,25.0,10.0,7.0,Corey LaJoie,NEGU (Spire Motorsports),Chevrolet,497.0,running,48.0,21.0,0.0
+2023,29,Bristol,26.0,35.0,15.0,J.J. Yeley,Steakhouse Elite Burgers (Rick Ware),Ford,495.0,running,0.0,0.0,0.0
+2023,29,Bristol,27.0,14.0,14.0,Chase Briscoe,Rush Truck Centers / Cummins (Stewart Haas Racing),Ford,495.0,running,0.0,10.0,0.0
+2023,29,Bristol,28.0,32.0,21.0,Harrison Burton,Motorcraft/Quick Lane (Wood Brothers),Ford,495.0,running,0.0,9.0,0.0
+2023,29,Bristol,29.0,21.0,4.0,Kevin Harvick,Gearwrench (Stewart Haas Racing),Ford,495.0,running,0.0,8.0,0.0
+2023,29,Bristol,30.0,22.0,16.0,A.J. Allmendinger,Barger Precast (Matthew Kaulig),Chevrolet,491.0,running,0.0,7.0,0.0
+2023,29,Bristol,31.0,34.0,78.0,B.J. McLeod,FREEDOMWORKSHERE.COM (B.J. McLeod),Chevrolet,490.0,running,0.0,0.0,0.0
+2023,29,Bristol,32.0,29.0,2.0,Austin Cindric,Menards Monster (Roger Penske),Ford,488.0,running,0.0,5.0,0.0
+2023,29,Bristol,33.0,33.0,77.0,Ty Dillon,Gainbridge (Spire Motorsports),Chevrolet,263.0,crash,0.0,4.0,0.0
+2023,29,Bristol,34.0,28.0,22.0,Joey Logano,Shell Pennzoil (Roger Penske),Ford,262.0,crash,0.0,3.0,0.0
+2023,29,Bristol,35.0,19.0,31.0,Justin Haley,Mountain Dew (Matthew Kaulig),Chevrolet,261.0,crash,0.0,2.0,0.0
+2023,29,Bristol,36.0,27.0,51.0,Ryan Newman,Biohaven/Jacob Co. (Rick Ware),Ford,260.0,crash,0.0,1.0,0.0
+2023,30,Fort Worth,1.0,18.0,24.0,William Byron,Liberty University (Rick Hendrick),Chevrolet,267.0,running,6.0,47.0,5.0
+2023,30,Fort Worth,2.0,5.0,1.0,Ross Chastain,Worldwide Express (Trackhouse Racing),Chevrolet,267.0,running,1.0,38.0,0.0
+2023,30,Fort Worth,3.0,1.0,23.0,Bubba Wallace,McDonald's (23XI Racing),Toyota,267.0,running,111.0,37.0,0.0
+2023,30,Fort Worth,4.0,9.0,20.0,Christopher Bell,Interstate Batteries (Joe Gibbs),Toyota,267.0,running,0.0,41.0,0.0
+2023,30,Fort Worth,5.0,10.0,11.0,Denny Hamlin,FedEx (Joe Gibbs),Toyota,267.0,running,0.0,42.0,0.0
+2023,30,Fort Worth,6.0,22.0,4.0,Kevin Harvick,Hunt Brothers Pizza (Stewart Haas Racing),Ford,267.0,running,0.0,31.0,0.0
+2023,30,Fort Worth,7.0,3.0,6.0,Brad Keselowski,BuildSubmarines.com (Jack Roush),Ford,267.0,running,0.0,34.0,0.0
+2023,30,Fort Worth,8.0,8.0,99.0,Daniel Suarez,Kubota (Trackhouse Racing),Chevrolet,267.0,running,0.0,30.0,0.0
+2023,30,Fort Worth,9.0,24.0,47.0,Ricky Stenhouse Jr,Kroger / NOS Energy Drink (JTG-Daugherty Racing),Chevrolet,267.0,running,0.0,28.0,0.0
+2023,30,Fort Worth,10.0,31.0,14.0,Chase Briscoe,Rush Truck Centers / Cummins (Stewart Haas Racing),Ford,267.0,running,0.0,30.0,0.0
+2023,30,Fort Worth,11.0,29.0,9.0,Chase Elliott,Kelley Blue Book (Rick Hendrick),Chevrolet,267.0,running,1.0,36.0,0.0
+2023,30,Fort Worth,12.0,14.0,48.0,Alex Bowman,Ally (Rick Hendrick),Chevrolet,267.0,running,1.0,25.0,0.0
+2023,30,Fort Worth,13.0,28.0,31.0,Justin Haley,LeafFilter Gutter Protection (Matthew Kaulig),Chevrolet,267.0,running,0.0,24.0,0.0
+2023,30,Fort Worth,14.0,2.0,17.0,Chris Buescher,Fastenal (Jack Roush),Ford,267.0,running,2.0,38.0,0.0
+2023,30,Fort Worth,15.0,17.0,34.0,Michael McDowell,Love's / Delo (Bob Jenkins),Ford,267.0,running,0.0,28.0,0.0
+2023,30,Fort Worth,16.0,19.0,42.0,Carson Hocevar,Sunseeker Resorts (Legacy Motor Club),Chevrolet,267.0,running,0.0,0.0,0.0
+2023,30,Fort Worth,17.0,16.0,19.0,Martin Truex Jr,Bass Pro Shops (Joe Gibbs),Toyota,267.0,running,0.0,20.0,0.0
+2023,30,Fort Worth,18.0,21.0,10.0,Aric Almirola,Smithfield (Stewart Haas Racing),Ford,267.0,running,0.0,19.0,0.0
+2023,30,Fort Worth,19.0,26.0,77.0,Ty Dillon,Shelton Companies (Spire Motorsports),Chevrolet,267.0,running,3.0,18.0,0.0
+2023,30,Fort Worth,20.0,30.0,21.0,Harrison Burton,DEX Imaging (Wood Brothers),Ford,267.0,running,0.0,17.0,0.0
+2023,30,Fort Worth,21.0,20.0,22.0,Joey Logano,AAA Insurance (Roger Penske),Ford,267.0,running,0.0,16.0,0.0
+2023,30,Fort Worth,22.0,34.0,78.0,B.J. McLeod,Gunk (B.J. McLeod),Chevrolet,267.0,running,0.0,0.0,0.0
+2023,30,Fort Worth,23.0,25.0,41.0,Ryan Preece,Autodesk (Stewart Haas Racing),Ford,267.0,running,0.0,14.0,0.0
+2023,30,Fort Worth,24.0,33.0,38.0,Zane Smith,Ambetter Health (Bob Jenkins),Ford,267.0,running,0.0,0.0,0.0
+2023,30,Fort Worth,25.0,15.0,45.0,Tyler Reddick,Jordan Brand (23XI Racing),Toyota,267.0,running,36.0,22.0,1.0
+2023,30,Fort Worth,26.0,27.0,7.0,Corey LaJoie,Gainbridge (Spire Motorsports),Chevrolet,262.0,running,0.0,11.0,0.0
+2023,30,Fort Worth,27.0,32.0,2.0,Austin Cindric,Discount Tire (Roger Penske),Ford,261.0,crash,1.0,10.0,0.0
+2023,30,Fort Worth,28.0,23.0,12.0,Ryan Blaney,Menards Dutch Boy (Roger Penske),Ford,258.0,crash,0.0,20.0,0.0
+2023,30,Fort Worth,29.0,6.0,16.0,A.J. Allmendinger,Action Industries (Matthew Kaulig),Chevrolet,255.0,crash,1.0,8.0,0.0
+2023,30,Fort Worth,30.0,12.0,43.0,Erik Jones,vseverybody.com (Legacy Motor Club),Chevrolet,255.0,crash,3.0,16.0,0.0
+2023,30,Fort Worth,31.0,11.0,5.0,Kyle Larson,Valvoline (Rick Hendrick),Chevrolet,248.0,dvp,99.0,16.0,1.0
+2023,30,Fort Worth,32.0,35.0,15.0,J.J. Yeley,Patriot Mobile/Folds of Honor (Rick Ware),Ford,241.0,crash,2.0,0.0,0.0
+2023,30,Fort Worth,33.0,4.0,54.0,Ty Gibbs,Interstate Batteries (Joe Gibbs),Toyota,77.0,crash,0.0,4.0,0.0
+2023,30,Fort Worth,34.0,7.0,8.0,Kyle Busch,3CHI (Richard Childress),Chevrolet,73.0,dvp,0.0,3.0,0.0
+2023,30,Fort Worth,35.0,36.0,51.0,Todd Gilliland,Biohaven/Jacob Co. (Rick Ware),Ford,52.0,crash,0.0,2.0,0.0
+2023,30,Fort Worth,36.0,13.0,3.0,Austin Dillon,Bass Pro Shops (Richard Childress),Chevrolet,40.0,crash,0.0,1.0,0.0
+2023,31,Talladega,1.0,10.0,12.0,Ryan Blaney,MenardsPennzoil (Roger Penske),Ford,188.0,running,8.0,50.0,6.0
+2023,31,Talladega,2.0,8.0,24.0,William Byron,Axalta (Rick Hendrick),Chevrolet,188.0,running,12.0,53.0,0.0
+2023,31,Talladega,3.0,12.0,11.0,Denny Hamlin,Mavis Tires & Brakes (Joe Gibbs),Toyota,188.0,running,3.0,34.0,0.0
+2023,31,Talladega,4.0,36.0,7.0,Corey LaJoie,Gainbridge (Spire Motorsports),Chevrolet,188.0,running,0.0,34.0,0.0
+2023,31,Talladega,5.0,7.0,2.0,Austin Cindric,Discount Tire (Roger Penske),Ford,188.0,running,15.0,37.0,0.0
+2023,31,Talladega,6.0,30.0,31.0,Justin Haley,"Morris-Shea Bridge Co., Inc. (Matthew Kaulig)",Chevrolet,188.0,running,1.0,35.0,0.0
+2023,31,Talladega,7.0,23.0,9.0,Chase Elliott,Llumar (Rick Hendrick),Chevrolet,188.0,running,8.0,43.0,0.0
+2023,31,Talladega,8.0,19.0,41.0,Ryan Preece,Wonder Bread (Stewart Haas Racing),Ford,188.0,running,8.0,31.0,0.0
+2023,31,Talladega,9.0,6.0,36.0,Riley Herbst,Beast Unleashed White Haze (Bob Jenkins),Ford,188.0,running,10.0,0.0,0.0
+2023,31,Talladega,10.0,28.0,99.0,Daniel Suarez,Tootsies Orchid Lounge (Trackhouse Racing),Chevrolet,188.0,running,0.0,32.0,0.0
+2023,31,Talladega,11.0,34.0,13.0,Chandler Smith,"Quick Tie Products, Inc. (Matthew Kaulig)",Chevrolet,188.0,running,0.0,0.0,0.0
+2023,31,Talladega,12.0,17.0,38.0,Todd Gilliland,Georgia Peanuts (Bob Jenkins),Ford,188.0,running,0.0,25.0,0.0
+2023,31,Talladega,13.0,3.0,14.0,Chase Briscoe,Old Spice (Stewart Haas Racing),Ford,188.0,running,0.0,27.0,0.0
+2023,31,Talladega,14.0,15.0,20.0,Christopher Bell,DEWALT Electrical Solutions (Joe Gibbs),Toyota,188.0,running,2.0,23.0,0.0
+2023,31,Talladega,15.0,4.0,5.0,Kyle Larson,Valvoline / HendrickCars.com (Rick Hendrick),Chevrolet,188.0,running,1.0,34.0,0.0
+2023,31,Talladega,16.0,13.0,45.0,Tyler Reddick,McDonald's (23XI Racing),Toyota,188.0,running,2.0,22.0,0.0
+2023,31,Talladega,17.0,1.0,10.0,Aric Almirola,Smithfield (Stewart Haas Racing),Ford,188.0,running,7.0,20.0,0.0
+2023,31,Talladega,18.0,16.0,19.0,Martin Truex Jr,Bass Pro Shops (Joe Gibbs),Toyota,188.0,running,0.0,19.0,0.0
+2023,31,Talladega,19.0,24.0,17.0,Chris Buescher,BuildSubmarines.com (Jack Roush),Ford,188.0,running,3.0,18.0,0.0
+2023,31,Talladega,20.0,31.0,16.0,A.J. Allmendinger,Action Industries (Matthew Kaulig),Chevrolet,188.0,running,0.0,17.0,0.0
+2023,31,Talladega,21.0,18.0,34.0,Michael McDowell,Love's Travel Stops (Bob Jenkins),Ford,188.0,running,5.0,16.0,0.0
+2023,31,Talladega,22.0,35.0,47.0,Ricky Stenhouse Jr,Sara Lee Artesano Bakery Bread (JTG-Daugherty Racing),Chevrolet,188.0,running,14.0,15.0,0.0
+2023,31,Talladega,23.0,9.0,23.0,Bubba Wallace,Leidos (23XI Racing),Toyota,188.0,running,3.0,14.0,0.0
+2023,31,Talladega,24.0,2.0,22.0,Joey Logano,Shell Pennzoil (Roger Penske),Ford,188.0,running,48.0,24.0,0.0
+2023,31,Talladega,25.0,25.0,8.0,Kyle Busch,X World Wallet (Richard Childress),Chevrolet,188.0,running,2.0,12.0,0.0
+2023,31,Talladega,26.0,26.0,43.0,Erik Jones,Allegiant (Legacy Motor Club),Chevrolet,188.0,running,4.0,11.0,0.0
+2023,31,Talladega,27.0,33.0,77.0,Ty Dillon,Ferris Commercial Mowers (Spire Motorsports),Chevrolet,188.0,running,2.0,12.0,0.0
+2023,31,Talladega,28.0,20.0,48.0,Alex Bowman,Ally (Rick Hendrick),Chevrolet,188.0,running,13.0,15.0,0.0
+2023,31,Talladega,29.0,37.0,78.0,B.J. McLeod,Gunk (B.J. McLeod),Chevrolet,187.0,running,0.0,0.0,0.0
+2023,31,Talladega,30.0,29.0,15.0,Brennan Poole,Finance Pro Plus (Rick Ware),Ford,186.0,running,0.0,0.0,0.0
+2023,31,Talladega,31.0,21.0,21.0,Harrison Burton,DEX Imaging (Wood Brothers),Ford,175.0,suspension,0.0,6.0,0.0
+2023,31,Talladega,32.0,5.0,6.0,Brad Keselowski,Solomon Plumbing (Jack Roush),Ford,161.0,crash,5.0,15.0,1.0
+2023,31,Talladega,33.0,14.0,3.0,Austin Dillon,Bass Pro Shops (Richard Childress),Chevrolet,161.0,crash,1.0,11.0,0.0
+2023,31,Talladega,34.0,22.0,54.0,Ty Gibbs,Monster Energy (Joe Gibbs),Toyota,161.0,crash,0.0,3.0,0.0
+2023,31,Talladega,35.0,38.0,42.0,Carson Hocevar,Sunseeker Resorts (Legacy Motor Club),Chevrolet,161.0,crash,0.0,0.0,0.0
+2023,31,Talladega,36.0,27.0,51.0,J.J. Yeley,Biohaven/Jacob Co. (Rick Ware),Ford,83.0,fuel pump,0.0,0.0,0.0
+2023,31,Talladega,37.0,32.0,1.0,Ross Chastain,Worldwide Express (Trackhouse Racing),Chevrolet,59.0,crash,0.0,1.0,0.0
+2023,31,Talladega,38.0,11.0,4.0,Kevin Harvick,Busch Light Camo (Stewart Haas Racing),Ford,188.0,running,11.0,1.0,0.0
+2023,32,Charlotte (Road),1.0,6.0,16.0,A.J. Allmendinger,Celsius (Matthew Kaulig),Chevrolet,109.0,running,46.0,41.0,5.0
+2023,32,Charlotte (Road),2.0,14.0,24.0,William Byron,HP (Rick Hendrick),Chevrolet,109.0,running,0.0,35.0,0.0
+2023,32,Charlotte (Road),3.0,5.0,8.0,Kyle Busch,Lenovo (Richard Childress),Chevrolet,109.0,running,6.0,38.0,0.0
+2023,32,Charlotte (Road),4.0,10.0,54.0,Ty Gibbs,Interstate Batteries All Battery Center (Joe Gibbs),Toyota,109.0,running,0.0,35.0,0.0
+2023,32,Charlotte (Road),5.0,7.0,22.0,Joey Logano,Shell Pennzoil (Roger Penske),Ford,109.0,running,0.0,32.0,0.0
+2023,32,Charlotte (Road),6.0,1.0,45.0,Tyler Reddick,Jordan Brand (23XI Racing),Toyota,109.0,running,27.0,48.0,1.0
+2023,32,Charlotte (Road),7.0,20.0,17.0,Chris Buescher,Fifth Third Bank (Jack Roush),Ford,109.0,running,0.0,30.0,0.0
+2023,32,Charlotte (Road),8.0,16.0,48.0,Alex Bowman,Ally (Rick Hendrick),Chevrolet,109.0,running,0.0,29.0,0.0
+2023,32,Charlotte (Road),9.0,8.0,9.0,Chase Elliott,NAPA Auto Parts (Rick Hendrick),Chevrolet,109.0,running,15.0,42.0,1.0
+2023,32,Charlotte (Road),10.0,12.0,1.0,Ross Chastain,Worldwide Express (Trackhouse Racing),Chevrolet,109.0,running,0.0,40.0,0.0
+2023,32,Charlotte (Road),11.0,18.0,41.0,Ryan Preece,Autodesk/HaasTooling.com (Stewart Haas Racing),Ford,109.0,running,0.0,26.0,0.0
+2023,32,Charlotte (Road),12.0,17.0,12.0,Ryan Blaney,Discount Tire (Roger Penske),Ford,109.0,running,6.0,25.0,0.0
+2023,32,Charlotte (Road),13.0,36.0,5.0,Kyle Larson,Valvoline / HendrickCars.com (Rick Hendrick),Chevrolet,109.0,running,0.0,30.0,0.0
+2023,32,Charlotte (Road),14.0,15.0,3.0,Austin Dillon,Huk Performance Fishing (Richard Childress),Chevrolet,109.0,running,0.0,23.0,0.0
+2023,32,Charlotte (Road),15.0,2.0,20.0,Christopher Bell,DEWALT Plumbing Solutions (Joe Gibbs),Toyota,109.0,running,9.0,37.0,0.0
+2023,32,Charlotte (Road),16.0,4.0,23.0,Bubba Wallace,Leidos (23XI Racing),Toyota,109.0,running,0.0,34.0,0.0
+2023,32,Charlotte (Road),17.0,24.0,7.0,Corey LaJoie,Gainbridge (Spire Motorsports),Chevrolet,109.0,running,0.0,20.0,0.0
+2023,32,Charlotte (Road),18.0,19.0,6.0,Brad Keselowski,Castrol Edge (Jack Roush),Ford,109.0,running,0.0,19.0,0.0
+2023,32,Charlotte (Road),19.0,22.0,4.0,Kevin Harvick,Rheem - Chasing a Cure (Stewart Haas Racing),Ford,109.0,running,0.0,18.0,0.0
+2023,32,Charlotte (Road),20.0,11.0,19.0,Martin Truex Jr,Bass Pro Shops (Joe Gibbs),Toyota,109.0,running,0.0,27.0,0.0
+2023,32,Charlotte (Road),21.0,21.0,10.0,Aric Almirola,IHOP (Stewart Haas Racing),Ford,109.0,running,0.0,16.0,0.0
+2023,32,Charlotte (Road),22.0,25.0,31.0,Justin Haley,LeafFilter Gutter Protection (Matthew Kaulig),Chevrolet,109.0,running,0.0,15.0,0.0
+2023,32,Charlotte (Road),23.0,32.0,51.0,Todd Gilliland,Ruedebusch Development & Construction (Rick Ware),Ford,109.0,running,0.0,14.0,0.0
+2023,32,Charlotte (Road),24.0,31.0,21.0,Harrison Burton,Motorcraft/Quick Lane (Wood Brothers),Ford,109.0,running,0.0,13.0,0.0
+2023,32,Charlotte (Road),25.0,29.0,2.0,Austin Cindric,MenardsCardell Cabinetry (Roger Penske),Ford,109.0,running,0.0,12.0,0.0
+2023,32,Charlotte (Road),26.0,28.0,78.0,Josh Bilicki,Zeigler Auto Group (B.J. McLeod),Chevrolet,109.0,running,0.0,0.0,0.0
+2023,32,Charlotte (Road),27.0,33.0,62.0,Austin Hill,United Rentals / Beard Oil (Beard Motorsports),Chevrolet,109.0,running,0.0,0.0,0.0
+2023,32,Charlotte (Road),28.0,30.0,14.0,Chase Briscoe,Ford Performance Racing School (Stewart Haas Racing),Ford,109.0,running,0.0,9.0,0.0
+2023,32,Charlotte (Road),29.0,26.0,42.0,Mike Rockenfeller,Sunseeker Resorts (Legacy Motor Club),Chevrolet,109.0,running,0.0,8.0,0.0
+2023,32,Charlotte (Road),30.0,34.0,38.0,Zane Smith,Ambetter Health (Bob Jenkins),Ford,109.0,running,0.0,0.0,0.0
+2023,32,Charlotte (Road),31.0,37.0,77.0,Ty Dillon,Bon Secours (Spire Motorsports),Chevrolet,109.0,running,0.0,6.0,0.0
+2023,32,Charlotte (Road),32.0,13.0,34.0,Michael McDowell,Love's Travel Stops (Bob Jenkins),Ford,109.0,running,0.0,7.0,0.0
+2023,32,Charlotte (Road),33.0,3.0,99.0,Daniel Suarez,Aguas Frescas (Trackhouse Racing),Chevrolet,109.0,running,0.0,9.0,0.0
+2023,32,Charlotte (Road),34.0,27.0,47.0,Ricky Stenhouse Jr,Harris Teeter/Totino's (JTG-Daugherty Racing),Chevrolet,96.0,electrical,0.0,3.0,0.0
+2023,32,Charlotte (Road),35.0,35.0,15.0,Andy Lally,Camping World (Rick Ware),Ford,84.0,crash,0.0,0.0,0.0
+2023,32,Charlotte (Road),36.0,23.0,43.0,Erik Jones,Allegiant (Legacy Motor Club),Chevrolet,79.0,crash,0.0,1.0,0.0
+2023,32,Charlotte (Road),37.0,9.0,11.0,Denny Hamlin,Mavis Tires & Brakes (Joe Gibbs),Toyota,76.0,dvp,0.0,9.0,0.0
+2023,33,Las Vegas,1.0,2.0,5.0,Kyle Larson,HendrickCars.com (Rick Hendrick),Chevrolet,267.0,running,133.0,60.0,7.0
+2023,33,Las Vegas,2.0,1.0,20.0,Christopher Bell,Rheem / Smurfit Kappa (Joe Gibbs),Toyota,267.0,running,61.0,52.0,0.0
+2023,33,Las Vegas,3.0,6.0,8.0,Kyle Busch,Morgan & Morgan (Richard Childress),Chevrolet,267.0,running,0.0,41.0,0.0
+2023,33,Las Vegas,4.0,21.0,6.0,Brad Keselowski,BuildSubmarines.com (Jack Roush),Ford,267.0,running,38.0,47.0,0.0
+2023,33,Las Vegas,5.0,10.0,1.0,Ross Chastain,Worldwide Express (Trackhouse Racing),Chevrolet,267.0,running,0.0,41.0,0.0
+2023,33,Las Vegas,6.0,12.0,12.0,Ryan Blaney,Menards Tarkett (Roger Penske),Ford,267.0,running,0.0,39.0,0.0
+2023,33,Las Vegas,7.0,3.0,24.0,William Byron,Relay Payments (Rick Hendrick),Chevrolet,267.0,running,1.0,36.0,0.0
+2023,33,Las Vegas,8.0,8.0,45.0,Tyler Reddick,Jordan Brand (23XI Racing),Toyota,267.0,running,0.0,38.0,0.0
+2023,33,Las Vegas,9.0,4.0,19.0,Martin Truex Jr,Bass Pro Shops (Joe Gibbs),Toyota,267.0,running,9.0,34.0,0.0
+2023,33,Las Vegas,10.0,15.0,11.0,Denny Hamlin,Mavis Tires & Brakes (Joe Gibbs),Toyota,267.0,running,23.0,38.0,0.0
+2023,33,Las Vegas,11.0,5.0,17.0,Chris Buescher,Travel Centers of America (Jack Roush),Ford,267.0,running,0.0,26.0,0.0
+2023,33,Las Vegas,12.0,9.0,22.0,Joey Logano,Pennzoil (Roger Penske),Ford,267.0,running,0.0,25.0,0.0
+2023,33,Las Vegas,13.0,7.0,23.0,Bubba Wallace,Door Dash (23XI Racing),Toyota,267.0,running,0.0,25.0,0.0
+2023,33,Las Vegas,14.0,13.0,10.0,Aric Almirola,IHOP (Stewart Haas Racing),Ford,267.0,running,0.0,23.0,0.0
+2023,33,Las Vegas,15.0,36.0,99.0,Daniel Suarez,Tootsies Orchid Lounge (Trackhouse Racing),Chevrolet,267.0,running,0.0,22.0,0.0
+2023,33,Las Vegas,16.0,24.0,4.0,Kevin Harvick,Mobil 1 (Stewart Haas Racing),Ford,267.0,running,0.0,23.0,0.0
+2023,33,Las Vegas,17.0,18.0,34.0,Michael McDowell,Love's Travel Stops (Bob Jenkins),Ford,267.0,running,0.0,20.0,0.0
+2023,33,Las Vegas,18.0,16.0,3.0,Austin Dillon,BetMGM (Richard Childress),Chevrolet,267.0,running,0.0,19.0,0.0
+2023,33,Las Vegas,19.0,28.0,7.0,Corey LaJoie,NEGU (Spire Motorsports),Chevrolet,267.0,running,0.0,18.0,0.0
+2023,33,Las Vegas,20.0,33.0,21.0,Harrison Burton,DEX Imaging (Wood Brothers),Ford,267.0,running,0.0,17.0,0.0
+2023,33,Las Vegas,21.0,22.0,16.0,A.J. Allmendinger,Nutrien Ag Solutions (Matthew Kaulig),Chevrolet,267.0,running,0.0,16.0,0.0
+2023,33,Las Vegas,22.0,20.0,31.0,Justin Haley,LeafFilter Gutter Protection (Matthew Kaulig),Chevrolet,267.0,running,0.0,15.0,0.0
+2023,33,Las Vegas,23.0,19.0,2.0,Austin Cindric,AutoTrader (Roger Penske),Ford,267.0,running,0.0,14.0,0.0
+2023,33,Las Vegas,24.0,27.0,77.0,Ty Dillon,Gainbridge (Spire Motorsports),Chevrolet,267.0,running,0.0,13.0,0.0
+2023,33,Las Vegas,25.0,30.0,47.0,Ricky Stenhouse Jr,Smith's/Drumstick (JTG-Daugherty Racing),Chevrolet,267.0,running,0.0,12.0,0.0
+2023,33,Las Vegas,26.0,32.0,41.0,Ryan Preece,HaasTooling.com (Stewart Haas Racing),Ford,267.0,running,0.0,11.0,0.0
+2023,33,Las Vegas,27.0,29.0,38.0,Todd Gilliland,Frontline Enterprises INC. (Bob Jenkins),Ford,266.0,running,0.0,10.0,0.0
+2023,33,Las Vegas,28.0,23.0,43.0,Erik Jones,Allegiant (Legacy Motor Club),Chevrolet,266.0,running,0.0,9.0,0.0
+2023,33,Las Vegas,29.0,26.0,51.0,J.J. Yeley,ConectUS (Rick Ware),Ford,266.0,running,2.0,0.0,0.0
+2023,33,Las Vegas,30.0,34.0,15.0,Brennan Poole,Macc Door Systems (Rick Ware),Ford,266.0,running,0.0,0.0,0.0
+2023,33,Las Vegas,31.0,31.0,78.0,B.J. McLeod,BretBaier.com (B.J. McLeod),Chevrolet,266.0,running,0.0,0.0,0.0
+2023,33,Las Vegas,32.0,35.0,9.0,Chase Elliott,Llumar (Rick Hendrick),Chevrolet,266.0,running,0.0,5.0,0.0
+2023,33,Las Vegas,33.0,17.0,14.0,Chase Briscoe,CODE 3 ASSOCIATES (Stewart Haas Racing),Ford,263.0,running,0.0,4.0,0.0
+2023,33,Las Vegas,34.0,11.0,54.0,Ty Gibbs,Monster Energy (Joe Gibbs),Toyota,259.0,running,0.0,3.0,0.0
+2023,33,Las Vegas,35.0,14.0,48.0,Alex Bowman,Ally (Rick Hendrick),Chevrolet,144.0,crash,0.0,2.0,0.0
+2023,33,Las Vegas,36.0,25.0,42.0,Carson Hocevar,Sunseeker Resorts (Legacy Motor Club),Chevrolet,110.0,crash,0.0,0.0,0.0
+2023,34,Homestead,1.0,13.0,20.0,Christopher Bell,Rheem/ Watts (Joe Gibbs),Toyota,267.0,running,26.0,42.0,5.0
+2023,34,Homestead,2.0,10.0,12.0,Ryan Blaney,Menards Duracell (Roger Penske),Ford,267.0,running,53.0,53.0,1.0
+2023,34,Homestead,3.0,3.0,45.0,Tyler Reddick,McDonald's (23XI Racing),Toyota,267.0,running,1.0,42.0,0.0
+2023,34,Homestead,4.0,7.0,24.0,William Byron,Liberty University (Rick Hendrick),Chevrolet,267.0,running,25.0,49.0,0.0
+2023,34,Homestead,5.0,25.0,16.0,A.J. Allmendinger,Campers Inn RV (Matthew Kaulig),Chevrolet,267.0,running,0.0,32.0,0.0
+2023,34,Homestead,6.0,2.0,23.0,Bubba Wallace,McDonald's (23XI Racing),Toyota,267.0,running,9.0,31.0,0.0
+2023,34,Homestead,7.0,9.0,54.0,Ty Gibbs,Monster Energy (Joe Gibbs),Toyota,267.0,running,0.0,34.0,0.0
+2023,34,Homestead,8.0,36.0,22.0,Joey Logano,Shell Pennzoil (Roger Penske),Ford,267.0,running,0.0,30.0,0.0
+2023,34,Homestead,9.0,30.0,10.0,Aric Almirola,Smithfield (Stewart Haas Racing),Ford,267.0,running,0.0,28.0,0.0
+2023,34,Homestead,10.0,6.0,3.0,Austin Dillon,Bass Pro Shops (Richard Childress),Chevrolet,267.0,running,0.0,32.0,0.0
+2023,34,Homestead,11.0,22.0,4.0,Kevin Harvick,Budweiser (Stewart Haas Racing),Ford,267.0,running,0.0,26.0,0.0
+2023,34,Homestead,12.0,26.0,2.0,Austin Cindric,Freightliner (Roger Penske),Ford,267.0,running,0.0,25.0,0.0
+2023,34,Homestead,13.0,29.0,41.0,Ryan Preece,United Rentals (Stewart Haas Racing),Ford,267.0,running,0.0,24.0,0.0
+2023,34,Homestead,14.0,19.0,43.0,Erik Jones,Allegiant (Legacy Motor Club),Chevrolet,267.0,running,0.0,23.0,0.0
+2023,34,Homestead,15.0,16.0,9.0,Chase Elliott,Hooters (Rick Hendrick),Chevrolet,267.0,running,0.0,22.0,0.0
+2023,34,Homestead,16.0,14.0,99.0,Daniel Suarez,Freeway.com (Trackhouse Racing),Chevrolet,267.0,running,0.0,21.0,0.0
+2023,34,Homestead,17.0,21.0,14.0,Chase Briscoe,Magical Vacation Planner (Stewart Haas Racing),Ford,267.0,running,0.0,20.0,0.0
+2023,34,Homestead,18.0,18.0,8.0,Kyle Busch,3CHI (Richard Childress),Chevrolet,267.0,running,0.0,19.0,0.0
+2023,34,Homestead,19.0,12.0,48.0,Alex Bowman,Ally Koker's Garage (Rick Hendrick),Chevrolet,267.0,running,0.0,18.0,0.0
+2023,34,Homestead,20.0,20.0,7.0,Corey LaJoie,Gainbridge (Spire Motorsports),Chevrolet,267.0,running,0.0,17.0,0.0
+2023,34,Homestead,21.0,17.0,17.0,Chris Buescher,Fastenal (Jack Roush),Ford,267.0,running,0.0,16.0,0.0
+2023,34,Homestead,22.0,15.0,34.0,Michael McDowell,Love's / Fleetguard (Bob Jenkins),Ford,267.0,running,0.0,15.0,0.0
+2023,34,Homestead,23.0,27.0,31.0,Justin Haley,LeafFilter Gutter Protection (Matthew Kaulig),Chevrolet,267.0,running,0.0,14.0,0.0
+2023,34,Homestead,24.0,33.0,77.0,Ty Dillon,Raze Shot Focus (Spire Motorsports),Chevrolet,266.0,running,0.0,13.0,0.0
+2023,34,Homestead,25.0,32.0,38.0,Todd Gilliland,Serial1.com E-Bikes (Bob Jenkins),Ford,266.0,running,0.0,12.0,0.0
+2023,34,Homestead,26.0,34.0,51.0,Ryan Newman,Jacob Companies (Rick Ware),Ford,265.0,running,0.0,0.0,0.0
+2023,34,Homestead,27.0,23.0,47.0,Ricky Stenhouse Jr,Boost by Kroger/Vitaminwater (JTG-Daugherty Racing),Chevrolet,263.0,running,0.0,10.0,0.0
+2023,34,Homestead,28.0,4.0,6.0,Brad Keselowski,BuildSubmarines.com (Jack Roush),Ford,262.0,running,16.0,24.0,0.0
+2023,34,Homestead,29.0,1.0,19.0,Martin Truex Jr,Bass Pro Shops (Joe Gibbs),Toyota,237.0,engine,10.0,19.0,0.0
+2023,34,Homestead,30.0,11.0,11.0,Denny Hamlin,SportClips Haircuts (Joe Gibbs),Toyota,236.0,crash,31.0,19.0,0.0
+2023,34,Homestead,31.0,8.0,1.0,Ross Chastain,Kubota (Trackhouse Racing),Chevrolet,221.0,crash,0.0,6.0,0.0
+2023,34,Homestead,32.0,24.0,42.0,John H. Nemechek,Sunseeker Resorts (Legacy Motor Club),Chevrolet,218.0,crash,0.0,0.0,0.0
+2023,34,Homestead,33.0,31.0,15.0,J.J. Yeley,Rick Ware,Ford,218.0,crash,0.0,0.0,0.0
+2023,34,Homestead,34.0,5.0,5.0,Kyle Larson,HendrickCars.com (Rick Hendrick),Chevrolet,214.0,crash,96.0,21.0,1.0
+2023,34,Homestead,35.0,35.0,78.0,Josh Bilicki,Zeigler Auto Group (B.J. McLeod),Chevrolet,201.0,crash,0.0,0.0,0.0
+2023,34,Homestead,36.0,28.0,21.0,Harrison Burton,DEX Imaging (Wood Brothers),Ford,165.0,overheating,0.0,1.0,0.0
+2023,35,Martinsville,1.0,11.0,12.0,Ryan Blaney,Discount Tire (Roger Penske),Ford,500.0,running,145.0,59.0,6.0
+2023,35,Martinsville,2.0,12.0,10.0,Aric Almirola,Smithfield (Stewart Haas Racing),Ford,500.0,running,66.0,35.0,0.0
+2023,35,Martinsville,3.0,4.0,11.0,Denny Hamlin,FedEx (Joe Gibbs),Toyota,500.0,running,156.0,53.0,1.0
+2023,35,Martinsville,4.0,3.0,14.0,Chase Briscoe,Mahindra Tractors (Stewart Haas Racing),Ford,500.0,running,0.0,48.0,0.0
+2023,35,Martinsville,5.0,15.0,22.0,Joey Logano,Shell Pennzoil (Roger Penske),Ford,500.0,running,0.0,41.0,0.0
+2023,35,Martinsville,6.0,5.0,5.0,Kyle Larson,HendrickCars.com (Rick Hendrick),Chevrolet,500.0,running,0.0,31.0,0.0
+2023,35,Martinsville,7.0,7.0,20.0,Christopher Bell,Interstate Batteries (Joe Gibbs),Toyota,500.0,running,0.0,36.0,0.0
+2023,35,Martinsville,8.0,18.0,17.0,Chris Buescher,Nexletol (Jack Roush),Ford,500.0,running,0.0,29.0,0.0
+2023,35,Martinsville,9.0,21.0,2.0,Austin Cindric,MenardsRichmond Water Heaters (Roger Penske),Ford,500.0,running,0.0,28.0,0.0
+2023,35,Martinsville,10.0,17.0,38.0,Todd Gilliland,Quincy Compressor (Bob Jenkins),Ford,500.0,running,0.0,30.0,0.0
+2023,35,Martinsville,11.0,6.0,23.0,Bubba Wallace,XFINITY (23XI Racing),Toyota,500.0,running,0.0,26.0,0.0
+2023,35,Martinsville,12.0,1.0,19.0,Martin Truex Jr,Auto-Owners Insurance (Joe Gibbs),Toyota,500.0,running,47.0,33.0,0.0
+2023,35,Martinsville,13.0,16.0,24.0,William Byron,PODS (Rick Hendrick),Chevrolet,499.0,running,0.0,24.0,0.0
+2023,35,Martinsville,14.0,13.0,1.0,Ross Chastain,Moose Fraternity (Trackhouse Racing),Chevrolet,499.0,running,0.0,23.0,0.0
+2023,35,Martinsville,15.0,28.0,21.0,Harrison Burton,Motorcraft/Quick Lane (Wood Brothers),Ford,499.0,running,0.0,22.0,0.0
+2023,35,Martinsville,16.0,8.0,4.0,Kevin Harvick,Hunt Brothers Pizza (Stewart Haas Racing),Ford,499.0,running,0.0,24.0,0.0
+2023,35,Martinsville,17.0,14.0,9.0,Chase Elliott,NAPA Auto Parts (Rick Hendrick),Chevrolet,499.0,running,83.0,20.0,0.0
+2023,35,Martinsville,18.0,2.0,54.0,Ty Gibbs,Monster Energy (Joe Gibbs),Toyota,499.0,running,0.0,28.0,0.0
+2023,35,Martinsville,19.0,20.0,47.0,Ricky Stenhouse Jr,Kroger/Reese's (JTG-Daugherty Racing),Chevrolet,499.0,running,0.0,18.0,0.0
+2023,35,Martinsville,20.0,9.0,41.0,Ryan Preece,United Rentals (Stewart Haas Racing),Ford,499.0,running,0.0,24.0,0.0
+2023,35,Martinsville,21.0,29.0,43.0,Erik Jones,TBD (Legacy Motor Club),Chevrolet,499.0,running,0.0,16.0,0.0
+2023,35,Martinsville,22.0,30.0,7.0,Corey LaJoie,Gainbridge (Spire Motorsports),Chevrolet,499.0,running,3.0,15.0,0.0
+2023,35,Martinsville,23.0,26.0,3.0,Austin Dillon,Bass Pro Shops (Richard Childress),Chevrolet,499.0,running,0.0,14.0,0.0
+2023,35,Martinsville,24.0,34.0,77.0,Ty Dillon,Ferris Commercial Mowers (Spire Motorsports),Chevrolet,499.0,running,0.0,13.0,0.0
+2023,35,Martinsville,25.0,23.0,34.0,Michael McDowell,StageFront.VIP (Bob Jenkins),Ford,499.0,running,0.0,12.0,0.0
+2023,35,Martinsville,26.0,19.0,45.0,Tyler Reddick,The Beast Unleashed (23XI Racing),Toyota,498.0,running,0.0,11.0,0.0
+2023,35,Martinsville,27.0,31.0,8.0,Kyle Busch,BetMGM (Richard Childress),Chevrolet,498.0,running,0.0,10.0,0.0
+2023,35,Martinsville,28.0,25.0,16.0,A.J. Allmendinger,Action Industries (Matthew Kaulig),Chevrolet,498.0,running,0.0,9.0,0.0
+2023,35,Martinsville,29.0,33.0,51.0,Ryan Newman,Biohaven/Jacob Co. (Rick Ware),Ford,497.0,running,0.0,0.0,0.0
+2023,35,Martinsville,30.0,24.0,31.0,Justin Haley,LeafFilter Gutter Protection (Matthew Kaulig),Chevrolet,497.0,running,0.0,7.0,0.0
+2023,35,Martinsville,31.0,32.0,42.0,Carson Hocevar,Sunseeker Resorts (Legacy Motor Club),Chevrolet,496.0,running,0.0,0.0,0.0
+2023,35,Martinsville,32.0,22.0,48.0,Alex Bowman,Ally (Rick Hendrick),Chevrolet,496.0,running,0.0,5.0,0.0
+2023,35,Martinsville,33.0,10.0,6.0,Brad Keselowski,King's Hawaiian (Jack Roush),Ford,306.0,running,0.0,16.0,0.0
+2023,35,Martinsville,34.0,27.0,99.0,Daniel Suarez,Jockey Outdoors By Luke Bryan (Trackhouse Racing),Chevrolet,274.0,dvp,0.0,3.0,0.0
+2023,35,Martinsville,35.0,35.0,15.0,J.J. Yeley,Rick Ware,Ford,271.0,crash,0.0,0.0,0.0
+2023,35,Martinsville,36.0,36.0,78.0,B.J. McLeod,Falk'd Up Garage (B.J. McLeod),Chevrolet,147.0,overheating,0.0,0.0,0.0
+2023,36,Phoenix,1.0,8.0,1.0,Ross Chastain,Worldwide Express (Trackhouse Racing),Chevrolet,312.0,running,157.0,57.0,5.0
+2023,36,Phoenix,2.0,15.0,12.0,Ryan Blaney,Menards Dutch Boy (Roger Penske),Ford,312.0,running,2.0,35.0,0.0
+2023,36,Phoenix,3.0,4.0,5.0,Kyle Larson,HendrickCars.com (Rick Hendrick),Chevrolet,312.0,running,0.0,34.0,0.0
+2023,36,Phoenix,4.0,1.0,24.0,William Byron,Axalta (Rick Hendrick),Chevrolet,312.0,running,95.0,33.0,1.0
+2023,36,Phoenix,5.0,9.0,17.0,Chris Buescher,Fastenal (Jack Roush),Ford,312.0,running,18.0,47.0,1.0
+2023,36,Phoenix,6.0,2.0,19.0,Martin Truex Jr,Bass Pro Shops (Joe Gibbs),Toyota,312.0,running,1.0,41.0,0.0
+2023,36,Phoenix,7.0,3.0,4.0,Kevin Harvick,Busch Light Harvick (Stewart Haas Racing),Ford,312.0,running,23.0,47.0,0.0
+2023,36,Phoenix,8.0,6.0,11.0,Denny Hamlin,FedEx (Joe Gibbs),Toyota,312.0,running,14.0,29.0,0.0
+2023,36,Phoenix,9.0,19.0,34.0,Michael McDowell,Love's / Delo (Bob Jenkins),Ford,312.0,running,0.0,28.0,0.0
+2023,36,Phoenix,10.0,5.0,23.0,Bubba Wallace,Columbia Sportswear Company (23XI Racing),Toyota,312.0,running,0.0,37.0,0.0
+2023,36,Phoenix,11.0,16.0,99.0,Daniel Suarez,Tootsies Orchid Lounge (Trackhouse Racing),Chevrolet,312.0,running,0.0,26.0,0.0
+2023,36,Phoenix,12.0,21.0,3.0,Austin Dillon,Get Bioethanol (Richard Childress),Chevrolet,312.0,running,0.0,25.0,0.0
+2023,36,Phoenix,13.0,28.0,10.0,Aric Almirola,Smithfield (Stewart Haas Racing),Ford,312.0,running,0.0,24.0,0.0
+2023,36,Phoenix,14.0,12.0,41.0,Ryan Preece,United Rentals (Stewart Haas Racing),Ford,312.0,running,0.0,23.0,0.0
+2023,36,Phoenix,15.0,31.0,6.0,Brad Keselowski,Castrol Edge (Jack Roush),Ford,312.0,running,0.0,24.0,0.0
+2023,36,Phoenix,16.0,20.0,9.0,Chase Elliott,NAPA Auto Parts (Rick Hendrick),Chevrolet,312.0,running,0.0,21.0,0.0
+2023,36,Phoenix,17.0,23.0,48.0,Alex Bowman,Ally (Rick Hendrick),Chevrolet,312.0,running,0.0,20.0,0.0
+2023,36,Phoenix,18.0,17.0,22.0,Joey Logano,Shell Pennzoil (Roger Penske),Ford,312.0,running,0.0,19.0,0.0
+2023,36,Phoenix,19.0,22.0,42.0,Carson Hocevar,Sunseeker Resorts (Legacy Motor Club),Chevrolet,312.0,running,0.0,0.0,0.0
+2023,36,Phoenix,20.0,7.0,43.0,Erik Jones,Allegiant Allways Rewards (Legacy Motor Club),Chevrolet,312.0,running,0.0,21.0,0.0
+2023,36,Phoenix,21.0,11.0,54.0,Ty Gibbs,Monster Energy (Joe Gibbs),Toyota,312.0,running,0.0,16.0,0.0
+2023,36,Phoenix,22.0,10.0,45.0,Tyler Reddick,TOYOTA (23XI Racing),Toyota,312.0,running,0.0,15.0,0.0
+2023,36,Phoenix,23.0,24.0,47.0,Ricky Stenhouse Jr,Fry's/Cheez-It (JTG-Daugherty Racing),Chevrolet,312.0,running,0.0,14.0,0.0
+2023,36,Phoenix,24.0,26.0,14.0,Chase Briscoe,Mahindra Tractors (Stewart Haas Racing),Ford,312.0,running,2.0,13.0,0.0
+2023,36,Phoenix,25.0,18.0,8.0,Kyle Busch,3CHI (Richard Childress),Chevrolet,311.0,running,0.0,12.0,0.0
+2023,36,Phoenix,26.0,25.0,21.0,Harrison Burton,Motorcraft/Quick Lane (Wood Brothers),Ford,311.0,running,0.0,11.0,0.0
+2023,36,Phoenix,27.0,34.0,15.0,J.J. Yeley,Total PointPatriot Mobile (Rick Ware),Ford,311.0,running,0.0,0.0,0.0
+2023,36,Phoenix,28.0,33.0,77.0,Ty Dillon,Gainbridge (Spire Motorsports),Chevrolet,310.0,running,0.0,9.0,0.0
+2023,36,Phoenix,29.0,35.0,31.0,Justin Haley,Campers Inn RV (Matthew Kaulig),Chevrolet,310.0,running,0.0,8.0,0.0
+2023,36,Phoenix,30.0,14.0,38.0,Todd Gilliland,Boot Barn (Bob Jenkins),Ford,309.0,running,0.0,7.0,0.0
+2023,36,Phoenix,31.0,29.0,7.0,Corey LaJoie,NEGU (Spire Motorsports),Chevrolet,308.0,running,0.0,6.0,0.0
+2023,36,Phoenix,32.0,32.0,16.0,A.J. Allmendinger,Action Industries (Matthew Kaulig),Chevrolet,308.0,running,0.0,5.0,0.0
+2023,36,Phoenix,33.0,36.0,78.0,B.J. McLeod,Pala Casino (B.J. McLeod),Chevrolet,306.0,running,0.0,0.0,0.0
+2023,36,Phoenix,34.0,30.0,51.0,Ryan Newman,Serial 1 E-Bikes (Rick Ware),Ford,305.0,running,0.0,0.0,0.0
+2023,36,Phoenix,35.0,27.0,2.0,Austin Cindric,Discount Tire (Roger Penske),Ford,301.0,running,0.0,2.0,0.0
+2023,36,Phoenix,36.0,13.0,20.0,Christopher Bell,Rheem - DEWALT (Joe Gibbs),Toyota,108.0,crash,0.0,1.0,0.0

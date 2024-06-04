@@ -1,0 +1,578 @@
+Season,Race,Track,Pos,St,#,Driver,Sponsor / Owner,Car,Laps,Money,Status,Led
+1950,1,Daytona Beach,1.0,3.0,21.0,Harold Kite,Roberts Auto Service (Harold Kite),'49 Lincoln,48.0,1500.0,running,38.0
+1950,1,Daytona Beach,2.0,34.0,22.0,Red Byron,Parks Novelty (Raymond Parks),'50 Oldsmobile,48.0,1000.0,running,10.0
+1950,1,Daytona Beach,3.0,14.0,59.0,Lloyd Moore,Julian Buesink,'49 Lincoln,48.0,600.0,running,0.0
+1950,1,Daytona Beach,4.0,8.0,88.0,Al Gross,Hans Winter,'50 Oldsmobile,48.0,550.0,running,0.0
+1950,1,Daytona Beach,5.0,2.0,35.0,J.C. Van Landingham,J.C. Van Landingham,'50 Buick,48.0,450.0,running,0.0
+1950,1,Daytona Beach,6.0,4.0,90.0,Tim Flock,Daytona Motors (Buddy Elliott),'48 Cadillac,48.0,350.0,running,0.0
+1950,1,Daytona Beach,7.0,21.0,7.0,Bob Flock,Bob Flock Garage (Frank Christian),'49 Oldsmobile,47.0,250.0,running,0.0
+1950,1,Daytona Beach,8.0,26.0,4.0,Otis Martin,Raymond Lewis,'49 Plymouth,47.0,175.0,running,0.0
+1950,1,Daytona Beach,9.0,9.0,70.0,Buck Baker,Buck Baker,'49 Ford,47.0,175.0,running,0.0
+1950,1,Daytona Beach,10.0,15.0,47.0,Fonty Flock,Ed Lawrence,'47 Buick,46.0,150.0,running,0.0
+1950,1,Daytona Beach,11.0,10.0,41.0,Curtis Turner,Paul Roberts,'49 Lincoln,46.0,50.0,–,0.0
+1950,1,Daytona Beach,12.0,18.0,10.0,Jim Rathmann,Jim Rathmann,'49 Lincoln,46.0,50.0,–,0.0
+1950,1,Daytona Beach,13.0,22.0,80.0,Roscoe Thompson,Charles Venable,'49 Lincoln,45.0,50.0,–,0.0
+1950,1,Daytona Beach,14.0,37.0,5.0,Cotton Owens,Cotton Owens,'49 Plymouth,45.0,50.0,–,0.0
+1950,1,Daytona Beach,15.0,25.0,55.0,June Cleveland,D.G. Hall,'48 Buick,45.0,50.0,wheel,0.0
+1950,1,Daytona Beach,16.0,28.0,42.0,Lee Petty,Petty Special (Petty Enterprises),'49 Plymouth,45.0,50.0,–,0.0
+1950,1,Daytona Beach,17.0,30.0,89.0,Al Keller,W.O. Taylor,'49 Ford,44.0,50.0,–,0.0
+1950,1,Daytona Beach,18.0,11.0,9.0,Frank Luptow,Frank Luptow,'49 Lincoln,43.0,50.0,–,0.0
+1950,1,Daytona Beach,19.0,41.0,61.0,Will Albright,Will Albright,'46 Pontiac,43.0,50.0,–,0.0
+1950,1,Daytona Beach,20.0,23.0,18.0,Jack White,Brooks Motors (Brooks Motors),'49 Lincoln,41.0,50.0,–,0.0
+1950,1,Daytona Beach,21.0,6.0,32.0,Alton Haddock,J.L. McDonald,'49 Lincoln,41.0,25.0,–,0.0
+1950,1,Daytona Beach,22.0,29.0,56.0,Joe Jernigan,Lambert's Auto (Joe Jernigan),'49 Ford,41.0,25.0,–,0.0
+1950,1,Daytona Beach,23.0,24.0,72.0,Lee Schmidt,Lee Schmidt,'47 Buick,40.0,25.0,–,0.0
+1950,1,Daytona Beach,24.0,17.0,37.0,Russ Lee,Chester Alford,'49 Hudson,38.0,25.0,–,0.0
+1950,1,Daytona Beach,25.0,27.0,48.0,Larry Shurter,Larry Shurter,'49 Ford,37.0,25.0,–,0.0
+1950,1,Daytona Beach,26.0,5.0,91.0,Tommy Thompson,San Juan Motors (Tommy Thompson),'49 Chrysler,34.0,25.0,crash,0.0
+1950,1,Daytona Beach,27.0,12.0,25.0,Jack Smith,Bishop Brothers,'50 Oldsmobile,31.0,25.0,–,0.0
+1950,1,Daytona Beach,28.0,16.0,12.0,Billy Carden,Bishop Brothers,'49 Oldsmobile,30.0,25.0,–,0.0
+1950,1,Daytona Beach,29.0,20.0,60.0,Bill Rexford,Julian Buesink,'49 Oldsmobile,26.0,25.0,–,0.0
+1950,1,Daytona Beach,30.0,19.0,50.0,Gober Sosebee,Ted Chester,'49 Oldsmobile,21.0,25.0,engine,0.0
+1950,1,Daytona Beach,31.0,38.0,17.0,Bob Apperson,Bob Apperson,'47 Ford,14.0,25.0,–,0.0
+1950,1,Daytona Beach,32.0,33.0,6.0,Marshall Teague,Paul Cox,'49 Lincoln,10.0,25.0,did not finish,0.0
+1950,1,Daytona Beach,33.0,32.0,11.0,Fireball Roberts,Jim Davis,'48 Hudson,8.0,25.0,–,0.0
+1950,1,Daytona Beach,34.0,35.0,2.0,Bill Blair,Sam Rice,'49 Cadillac,7.0,25.0,–,0.0
+1950,1,Daytona Beach,35.0,1.0,3.0,Joe Littlejohn,Joe Littlejohn,'50 Oldsmobile,7.0,25.0,–,0.0
+1950,1,Daytona Beach,36.0,39.0,24.0,Dick Clothier,Dick Clothier,'47 Pontiac,5.0,25.0,–,0.0
+1950,1,Daytona Beach,37.0,7.0,44.0,Frank Mundy,Daytona Motors (Buddy Elliott),'49 Cadillac,5.0,25.0,–,0.0
+1950,1,Daytona Beach,38.0,36.0,77.0,Slick Smith,Davis Brothers,'47 Hudson,4.0,25.0,–,0.0
+1950,1,Daytona Beach,39.0,13.0,66.0,Herschel Buchanan,Herschel Buchanan,'47 Nash,3.0,25.0,–,0.0
+1950,1,Daytona Beach,40.0,31.0,67.0,Joe Harrison,Joe Harrison,'49 Ford,3.0,25.0,–,0.0
+1950,1,Daytona Beach,41.0,40.0,94.0,Louise Smith,Smith Auto Parts (Louise Smith),'49 Ford,0.0,,crash,0.0
+1950,2,Charlotte,1.0,5.0,21.0,Tim Flock,Edmunds Motors (Harold Kite),'49 Lincoln,200.0,1500.0,running,153.0
+1950,2,Charlotte,2.0,2.0,7.0,Bob Flock,Bob Flock Garage (Frank Christian),'49 Oldsmobile,200.0,750.0,running,5.0
+1950,2,Charlotte,3.0,12.0,19.0,Clyde Minter,Bridge Street Motors (Clyde Minter),'50 Mercury,197.0,500.0,running,0.0
+1950,2,Charlotte,4.0,1.0,22.0,Red Byron,Parks Novelty (Raymond Parks),'50 Oldsmobile,196.0,300.0,running,42.0
+1950,2,Charlotte,5.0,14.0,,Bill Snowden,Bill Snowden,'49 Buick,194.0,200.0,running,0.0
+1950,2,Charlotte,6.0,18.0,49.0,Glenn Dunaway,Glenn Dunaway,'49 Plymouth,191.0,175.0,running,0.0
+1950,2,Charlotte,7.0,16.0,,Jack White,Moyer Co. (Dailey Moyer),'49 Mercury,190.0,150.0,–,0.0
+1950,2,Charlotte,8.0,25.0,10.0,Fred Johnson,Fred Johnson,'49 Ford,189.0,125.0,–,0.0
+1950,2,Charlotte,9.0,17.0,92.0,Herb Thomas,Herb Thomas,'47 Ford,172.0,100.0,–,0.0
+1950,2,Charlotte,10.0,24.0,,Hughie Dunn,–,'49 Oldsmobile,172.0,75.0,–,0.0
+1950,2,Charlotte,11.0,6.0,,Frank Mundy,–,'49 Oldsmobile,170.0,50.0,–,0.0
+1950,2,Charlotte,12.0,21.0,17.0,Bob Apperson,Bob Apperson,'49 Ford,168.0,50.0,–,0.0
+1950,2,Charlotte,13.0,8.0,20.0,Bill Rexford,Julian Buesink,'50 Oldsmobile,152.0,50.0,–,0.0
+1950,2,Charlotte,14.0,15.0,14.0,Lloyd Moore,Julian Buesink,'49 Lincoln,131.0,50.0,–,0.0
+1950,2,Charlotte,15.0,9.0,41.0,Curtis Turner,Eanes Motor Co. (John Eanes),'50 Oldsmobile,106.0,50.0,–,0.0
+1950,2,Charlotte,16.0,10.0,30.0,Cotton Owens,Cotton Owens,'50 Ford,86.0,,–,0.0
+1950,2,Charlotte,17.0,7.0,55.0,June Cleveland,D.G. Hall,'48 Buick,85.0,,crash,0.0
+1950,2,Charlotte,18.0,20.0,42.0,Lee Petty,Petty Special (Petty Enterprises),'49 Plymouth,84.0,,–,0.0
+1950,2,Charlotte,19.0,3.0,2.0,Bill Blair,Sam Rice,'49 Cadillac,60.0,,–,0.0
+1950,2,Charlotte,20.0,22.0,6.0,Bill Harrison,R.B. McIntosh,'49 Lincoln,38.0,,–,0.0
+1950,2,Charlotte,21.0,13.0,47.0,Fonty Flock,Ed Lawrence,'47 Buick,30.0,,–,0.0
+1950,2,Charlotte,22.0,4.0,87.0,Buck Baker,Buck Baker,'50 Ford,27.0,,–,0.0
+1950,2,Charlotte,23.0,19.0,79.0,Jim Paschal,Al Wheatley,'49 Ford,26.0,,–,0.0
+1950,2,Charlotte,24.0,11.0,5.0,Ray Erickson,Ed Hastings,'48 Mercury,23.0,,crash,0.0
+1950,2,Charlotte,25.0,23.0,28.0,Buddy Helms,Buddy Helms,'47 Hudson,0.0,,–,0.0
+1950,3,Langhorne,1.0,–,41,Curtis Turner,Eanes Motor Co. (John Eanes),'50 Oldsmobile,150.0,1500.0,running,59.0
+1950,3,Langhorne,2.0,–,59,Lloyd Moore,Julian Buesink,'49 Lincoln,149.0,1000.0,running,0.0
+1950,3,Langhorne,3.0,–,27,Jimmy Florian,Euclid Motor Co. (Jimmy Florian),'50 Ford,144.0,700.0,running,0.0
+1950,3,Langhorne,4.0,1,21,Tim Flock,Edmunds Motors (Harold Kite),'49 Lincoln,139.0,500.0,spindle,37.0
+1950,3,Langhorne,5.0,–,42,Lee Petty,Petty Special (Petty Enterprises),'49 Plymouth,139.0,300.0,rear end,0.0
+1950,3,Langhorne,6.0,–,90,Frank Mundy,Red Star Garage (Buddy Elliott),'49 Lincoln,135.0,200.0,overheating,0.0
+1950,3,Langhorne,7.0,–,66,Pappy Hough,Pappy Hough,'50 Ford,133.0,175.0,running,0.0
+1950,3,Langhorne,8.0,–,293,Bob Dickson,–,'49 Lincoln,132.0,150.0,running,0.0
+1950,3,Langhorne,9.0,–,8,Dick Linder,–,'48 Pontiac,132.0,125.0,overheating,0.0
+1950,3,Langhorne,10.0,–,89,Pepper Cunningham,Pepper Cunningham,'49 Ford,130.0,100.0,overheating,0.0
+1950,3,Langhorne,11.0,–,11,Bob Apperson,Bob Apperson,'49 Oldsmobile,128.0,75.0,overheating,0.0
+1950,3,Langhorne,12.0,–,4,Baldy Wilson,–,'50 Ford,127.0,75.0,running,0.0
+1950,3,Langhorne,13.0,–,56,Joe Jernigan,Lambert's Auto Parts (Joe Jernigan),'49 Ford,125.0,75.0,overheating,0.0
+1950,3,Langhorne,14.0,–,55,Russell Bennett,–,'49 Kaiser,123.0,50.0,engine,0.0
+1950,3,Langhorne,15.0,–,51,Fireball Roberts,–,'50 Ford,121.0,50.0,overheating,0.0
+1950,3,Langhorne,16.0,2,9,Len Brown,Len Brown,'49 Oldsmobile,119.0,100.0,hose,0.0
+1950,3,Langhorne,17.0,4,25,Kenneth Wagner,Moyer Co. (Dailey Moyer),'49 Lincoln,119.0,50.0,engine,0.0
+1950,3,Langhorne,18.0,–,N-5,Ray Erickson,Ed Hastings,'48 Mercury,114.0,50.0,overheating,31.0
+1950,3,Langhorne,19.0,–,2,Bill Blair,Sam Rice,'49 Cadillac,112.0,50.0,steering,5.0
+1950,3,Langhorne,20.0,3,47,Paul Parks,–,'49 Cadillac,95.0,50.0,engine,0.0
+1950,3,Langhorne,21.0,–,94,Louise Smith,Smith Auto Parts (Louise Smith),'47 Ford,84.0,25.0,engine,0.0
+1950,3,Langhorne,22.0,5,60,Bill Rexford,Julian Buesink,'50 Oldsmobile,84.0,25.0,engine,18.0
+1950,3,Langhorne,23.0,–,92,Herb Thomas,Herb Thomas,'47 Ford,71.0,25.0,engine,0.0
+1950,3,Langhorne,24.0,–,24,Lyle Scott,–,'49 Lincoln,65.0,25.0,crash,0.0
+1950,3,Langhorne,25.0,–,18,Jack White,–,'49 Mercury,62.0,25.0,running,0.0
+1950,3,Langhorne,26.0,–,10,Fred Johnson,Fred Johnson,'48 Ford,55.0,,overheating,0.0
+1950,3,Langhorne,27.0,–,73,Al Tibbetts,–,'49 Hudson,48.0,,hose,0.0
+1950,3,Langhorne,28.0,–,7,Charles Muscatell,–,'47 Mercury,26.0,,overheating,0.0
+1950,4,Martinsville,1.0,2,41.0,Curtis Turner,Eanes Motor Co. (John Eanes),'50 Oldsmobile,150.0,1000.0,running,140.0
+1950,4,Martinsville,2.0,–,79.0,Jim Paschal,Al Wheatley,'47 Ford,148.0,750.0,running,0.0
+1950,4,Martinsville,3.0,–,42.0,Lee Petty,Petty Special (Petty Enterprises),'49 Plymouth,144.0,500.0,running,0.0
+1950,4,Martinsville,4.0,–,49.0,Glenn Dunaway,Glenn Dunaway,'49 Plymouth,144.0,300.0,running,0.0
+1950,4,Martinsville,5.0,–,19.0,Clyde Minter,Clyde Minter,'50 Mercury,143.0,200.0,running,0.0
+1950,4,Martinsville,6.0,–,31.0,Bill Long,–,'49 Lincoln,141.0,175.0,running,0.0
+1950,4,Martinsville,7.0,–,91.0,Donald Thomas,Herb Thomas,'47 Ford,141.0,150.0,running,0.0
+1950,4,Martinsville,8.0,1,87.0,Buck Baker,Police Special (Buck Baker),'50 Ford,139.0,125.0,running,10.0
+1950,4,Martinsville,9.0,–,60.0,Bill Rexford,Julian Buesink,'50 Oldsmobile,138.0,100.0,running,0.0
+1950,4,Martinsville,10.0,–,59.0,Lloyd Moore,Police Special (Julian Buesink),'50 Ford,137.0,75.0,running,0.0
+1950,4,Martinsville,11.0,–,2.0,Bill Blair,Sam Rice,'50 Mercury,135.0,50.0,running,0.0
+1950,4,Martinsville,12.0,–,7.0,Bob Collins,–,'50 Pontiac,133.0,50.0,wheel,0.0
+1950,4,Martinsville,13.0,–,212.0,Frank Boylan,–,'50 Ford,132.0,50.0,running,0.0
+1950,4,Martinsville,14.0,–,92.0,Herb Thomas,Herb Thomas,'49 Ford,131.0,50.0,spindle,0.0
+1950,4,Martinsville,15.0,–,98.0,Lyle Scott,–,'49 Lincoln,130.0,50.0,running,0.0
+1950,4,Martinsville,16.0,–,293.0,Bob Dickson,–,'49 Lincoln,129.0,,running,0.0
+1950,4,Martinsville,17.0,–,14.0,Bill Greever,–,'49 Mercury,128.0,,running,0.0
+1950,4,Martinsville,18.0,–,94.0,Al Gross,–,'50 Oldsmobile,125.0,,running,0.0
+1950,4,Martinsville,19.0,–,72.0,Macon Powers,–,'46 Plymouth,125.0,,running,0.0
+1950,4,Martinsville,20.0,–,90.0,Tim Flock,Red Star Garage (Buddy Elliott),'49 Lincoln,97.0,,rear end,0.0
+1950,4,Martinsville,21.0,–,25.0,Bob Smith,–,'49 Ford,88.0,,engine,0.0
+1950,4,Martinsville,22.0,–,18.0,Jack White,–,'49 Mercury,65.0,,engine,0.0
+1950,4,Martinsville,23.0,–,21.0,Ruel Smith,–,'50 Pontiac,47.0,,wheel,0.0
+1950,4,Martinsville,24.0,–,28.0,Buddy Helms,Buddy Helms,'47 Hudson,36.0,,engine,0.0
+1950,4,Martinsville,25.0,–,11.0,Bob Apperson,Bob Apperson,'49 Oldsmobile,14.0,,engine,0.0
+1950,5,Canfield,1.0,–,60.0,Bill Rexford,Julian Buesink,'50 Oldsmobile,200.0,1400.0,running,80.0
+1950,5,Canfield,2.0,–,49.0,Glenn Dunaway,Glenn Dunaway,'49 Plymouth,198.0,750.0,running,0.0
+1950,5,Canfield,3.0,–,59.0,Lloyd Moore,Julian Buesink,'50 Ford,198.0,500.0,running,0.0
+1950,5,Canfield,4.0,–,42.0,Lee Petty,Petty Enterprises,'49 Plymouth,195.0,400.0,running,0.0
+1950,5,Canfield,5.0,–,22.0,Bill Blair,Sam Rice,'50 Mercury,195.0,300.0,running,0.0
+1950,5,Canfield,6.0,1,27.0,Jimmy Florian,Jimmy Florian,Ford,193.0,200.0,–,0.0
+1950,5,Canfield,7.0,–,48.0,Dick Burns,–,Mercury,190.0,150.0,–,0.0
+1950,5,Canfield,8.0,–,89.0,Bobby Courtwright,–,Ford,189.0,125.0,–,0.0
+1950,5,Canfield,9.0,–,90.0,Tim Flock,Red Star Garage (Buddy Elliott),'49 Lincoln,189.0,100.0,–,0.0
+1950,5,Canfield,10.0,–,293.0,Bob Dickson,–,Lincoln,187.0,75.0,–,0.0
+1950,5,Canfield,11.0,–,11.0,Art Gill,–,Ford,182.0,50.0,–,0.0
+1950,5,Canfield,12.0,–,9.0,Len Brown,Len Brown,Oldsmobile,171.0,50.0,–,0.0
+1950,5,Canfield,13.0,–,8.0,Dick Linder,LaBelle Motors,'49 Kaiser,161.0,50.0,–,0.0
+1950,5,Canfield,14.0,–,23.0,Mike Klapak,Mike Klapak,Ford,158.0,50.0,–,0.0
+1950,5,Canfield,15.0,–,18.0,Chuck Mahoney,Brooks Motors,Mercury,151.0,50.0,–,0.0
+1950,5,Canfield,16.0,–,5.0,Bob Wilson,–,Nash,150.0,,crash,0.0
+1950,5,Canfield,17.0,–,80.0,Hugh Darragh,–,Ford,142.0,,–,0.0
+1950,5,Canfield,18.0,–,30.0,Elmer Wilson,–,Lincoln,137.0,,rear end,0.0
+1950,5,Canfield,19.0,3,41.0,Curtis Turner,Eanes Motor Co. (John Eanes),'50 Oldsmobile,133.0,100.0,engine,120.0
+1950,5,Canfield,20.0,–,100.0,Ace Shearer,–,Ford,129.0,,–,0.0
+1950,5,Canfield,21.0,–,32.0,Al Weber,–,Ford,119.0,,–,0.0
+1950,5,Canfield,22.0,–,28.0,Lew Fattman,–,Chevrolet,105.0,,–,0.0
+1950,5,Canfield,23.0,–,15.0,Milford Schell,–,Ford,104.0,,–,0.0
+1950,5,Canfield,24.0,2,1.0,Frank Canale,–,Oldsmobile,74.0,,overheating,0.0
+1950,5,Canfield,25.0,–,55.0,Carl Wilkerson,–,Dodge,72.0,,–,0.0
+1950,5,Canfield,26.0,–,21.0,Frank Boylan,–,Ford,64.0,,–,0.0
+1950,5,Canfield,27.0,–,2.0,Bob Greer,–,Oldsmobile,56.0,,–,0.0
+1950,5,Canfield,28.0,–,99.0,Al Gross,–,'50 Oldsmobile,9.0,,crash,0.0
+1950,5,Canfield,29.0,–,12.0,Joe Merola,"Joe Nagel, Jr. Motor Sales (Red Harris)",'48 Tucker,0.0,,axle,0.0
+1950,6,Vernon,1.0,–,2.0,Bill Blair,Sam Rice,'50 Mercury,200,1000.0,running,176.0
+1950,6,Vernon,2.0,–,59.0,Lloyd Moore,Julian Buesink,'50 Ford,–,750.0,running,6.0
+1950,6,Vernon,3.0,1,77.0,Chuck Mahoney,Brooks Motors,'50 Mercury,–,500.0,running,18.0
+1950,6,Vernon,4.0,–,18.0,Dick Burns,–,'50 Mercury,–,400.0,running,0.0
+1950,6,Vernon,5.0,–,42.0,Lee Petty,Petty Special (Petty Enterprises),'49 Plymouth,–,300.0,running,0.0
+1950,6,Vernon,6.0,–,60.0,Bill Rexford,Julian Buesink,'49 Oldsmobile,–,200.0,–,0.0
+1950,6,Vernon,7.0,–,9.0,Art Lamey,–,'49 Plymouth,–,150.0,–,0.0
+1950,6,Vernon,8.0,–,27.0,Jimmy Florian,Jimmy Florian,'50 Ford,–,125.0,–,0.0
+1950,6,Vernon,9.0,–,25.0,Dick Linder,Don Rogala,'50 Oldsmobile,–,100.0,–,0.0
+1950,6,Vernon,10.0,–,24.0,Dick Clothier,Dick Clothier,'50 Plymouth,–,75.0,–,0.0
+1950,6,Vernon,11.0,–,81.0,Pappy Hough,Pappy Hough,'50 Plymouth,–,50.0,–,0.0
+1950,6,Vernon,12.0,–,11.0,Art Gill,–,'47 Ford,–,50.0,–,0.0
+1950,6,Vernon,13.0,–,54.0,Ken Warmington,–,'49 Ford,–,50.0,–,0.0
+1950,6,Vernon,14.0,–,88.0,Harry Sents,–,'47 Ford,–,50.0,–,0.0
+1950,6,Vernon,15.0,–,13.0,Bill Bonner,–,'49 Dodge,–,50.0,–,0.0
+1950,6,Vernon,16.0,–,80.0,Hugh Darragh,–,'49 Ford,–,,–,0.0
+1950,6,Vernon,17.0,–,66.0,Gene Austin,–,'50 Oldsmobile,–,,–,0.0
+1950,6,Vernon,18.0,–,89.0,Neil Cole,–,'49 Ford,–,,–,0.0
+1950,6,Vernon,19.0,–,35.0,Art Hammond,–,'47 Packard,–,,–,0.0
+1950,6,Vernon,20.0,–,91.0,Herb Thomas,Herb Thomas,'50 Plymouth,–,,–,0.0
+1950,6,Vernon,21.0,–,49.0,Glenn Dunaway,Glenn Dunaway,'49 Plymouth,–,,–,0.0
+1950,6,Vernon,22.0,–,72.0,Ann Chester,–,'47 Plymouth,76,,engine,0.0
+1950,6,Vernon,23.0,–,58.0,Harland Holmes,–,'49 Ford,–,,–,0.0
+1950,7,Dayton,1.0,–,27.0,Jimmy Florian,Euclid Motor Co. (Jimmy Florian),'50 Ford,200,1000.0,running,40.0
+1950,7,Dayton,2.0,1,25.0,Dick Linder,Don Rogala,'50 Oldsmobile,200,750.0,running,35.0
+1950,7,Dayton,3.0,–,33.0,Buck Barr,–,'50 Ford,–,500.0,running,0.0
+1950,7,Dayton,4.0,–,41.0,Curtis Turner,Eanes Motor Co. (John Eanes),'50 Oldsmobile,–,400.0,running,115.0
+1950,7,Dayton,5.0,–,9.0,Art Lamey,–,'49 Plymouth,–,300.0,running,0.0
+1950,7,Dayton,6.0,–,12.0,Herschel Buchanan,Herschel Buchanan,'48 Nash,–,200.0,running,0.0
+1950,7,Dayton,7.0,–,,Duane Carter,–,'46 Ford,–,150.0,–,0.0
+1950,7,Dayton,8.0,–,42.0,Lee Petty,Petty Special (Petty Enterprises),'49 Plymouth,–,125.0,–,0.0
+1950,7,Dayton,9.0,–,77.0,Chuck Mahoney,Brooks Motors,'50 Mercury,–,100.0,–,0.0
+1950,7,Dayton,10.0,–,8.0,Bill Rexford,Julian Buesink,'50 Mercury,–,75.0,–,0.0
+1950,7,Dayton,11.0,–,60.0,George Hartley,Julian Buesink,'50 Mercury,–,50.0,–,0.0
+1950,7,Dayton,12.0,–,24.0,Dick Clothier,Dick Clothier,'49 Plymouth,–,50.0,–,0.0
+1950,7,Dayton,13.0,–,5.0,Ralph Dyer,–,'48 Nash,–,50.0,–,0.0
+1950,7,Dayton,14.0,–,,F.L. Denney,–,'50 Ford,–,50.0,–,0.0
+1950,7,Dayton,15.0,–,,Mike Klapak,Mike Klapak,'48 Nash,–,50.0,–,0.0
+1950,7,Dayton,16.0,–,2.0,Bill Blair,Sam Rice,'50 Mercury,–,,–,0.0
+1950,7,Dayton,17.0,–,,Herb Craig,–,'47 Nash,–,,–,0.0
+1950,7,Dayton,18.0,–,,Nix Beard,–,'47 Ford,–,,–,0.0
+1950,7,Dayton,19.0,–,,Ralph Lyden,–,'49 Hudson,–,,–,0.0
+1950,7,Dayton,20.0,–,,Bob Scott,–,'46 Ford,–,,–,0.0
+1950,7,Dayton,21.0,–,4.0,Gayle Warren,Earl Blevins,'49 Oldsmobile,–,,–,10.0
+1950,7,Dayton,22.0,–,,Ann Slaasted,–,'49 Lincoln,–,,–,0.0
+1950,7,Dayton,23.0,–,59.0,Lloyd Moore,Julian Buesink,'50 Ford,–,,–,0.0
+1950,7,Dayton,24.0,–,,Bill McGee,–,'50 Nash,–,,–,0.0
+1950,7,Dayton,25.0,–,37.0,Frank Mundy,Nash Motor Co. (Nash Motor Co.),'50 Nash,–,,–,0.0
+1950,8,Rochester,1.0,1,41.0,Curtis Turner,Eanes Motor Co. (John Eanes),'50 Oldsmobile,200.0,1000.0,running,200.0
+1950,8,Rochester,2.0,–,2.0,Bill Blair,Sam Rice,'50 Mercury,197.0,750.0,running,0.0
+1950,8,Rochester,3.0,–,42.0,Lee Petty,Petty Enterprises,'50 Plymouth,197.0,500.0,running,0.0
+1950,8,Rochester,4.0,–,27.0,Jimmy Florian,Euclid Motor Co. (Jimmy Florian),'50 Ford,192.0,400.0,running,0.0
+1950,8,Rochester,5.0,–,80.0,Bill Rexford,Julian Buesink,'50 Oldsmobile,192.0,300.0,running,0.0
+1950,8,Rochester,6.0,–,24.0,Dick Clothier,Dick Clothier,'49 Plymouth,189.0,200.0,running,0.0
+1950,8,Rochester,7.0,–,59.0,Lloyd Moore,Julian Buesink,'50 Lincoln,185.0,150.0,running,0.0
+1950,8,Rochester,8.0,–,98.0,Lyle Scott,–,'49 Lincoln,185.0,125.0,running,0.0
+1950,8,Rochester,9.0,–,,Dick Jerrett,–,'49 Oldsmobile,184.0,100.0,running,0.0
+1950,8,Rochester,10.0,–,25.0,Dick Linder,Don Rogala,'50 Oldsmobile,182.0,75.0,running,0.0
+1950,8,Rochester,11.0,–,,Don White,–,'50 Ford,182.0,50.0,running,0.0
+1950,8,Rochester,12.0,–,293.0,Bob Dickson,–,'49 Lincoln,179.0,50.0,running,0.0
+1950,8,Rochester,13.0,–,11.0,Art Gill,–,'46 Ford,178.0,50.0,running,0.0
+1950,8,Rochester,14.0,–,4.0,Gayle Warren,Earl Blevins,'49 Oldsmobile,177.0,50.0,running,0.0
+1950,8,Rochester,15.0,–,58.0,Harland Holmes,–,'49 Ford,177.0,50.0,running,0.0
+1950,8,Rochester,16.0,–,54.0,Ken Warmington,–,'49 Ford,177.0,,running,0.0
+1950,8,Rochester,17.0,–,77.0,Chuck Mahoney,Brooks Motors,'50 Mercury,173.0,,running,0.0
+1950,8,Rochester,18.0,–,66.0,Pappy Hough,Pappy Hough,'50 Ford,163.0,,wheel,0.0
+1950,8,Rochester,19.0,–,,Kurt Voss,–,'49 Ford,158.0,,overheating,0.0
+1950,8,Rochester,20.0,–,,Harry Sents,–,'48 Ford,145.0,,overheating,0.0
+1950,8,Rochester,21.0,–,92.0,Herb Thomas,Herb Thomas,'50 Plymouth,145.0,,hub,0.0
+1950,8,Rochester,22.0,–,18.0,Dick Burns,–,'49 Mercury,133.0,,crash,0.0
+1950,8,Rochester,23.0,–,,Irv Leitch,–,'50 Plymouth,113.0,,wheel,0.0
+1950,8,Rochester,24.0,–,,Ed Hamanard,–,'47 Packard,68.0,,crash,0.0
+1950,8,Rochester,25.0,–,6.0,Lee Hough,Pappy Hough,'50 Ford,60.0,,overheating,0.0
+1950,8,Rochester,26.0,–,12.0,Joe Merola,"Joe Nagel, Jr. Motor Sales (Red Harris)",'48 Tucker,0.0,,ball joint,0.0
+1950,9,Charlotte,1.0,1,41.0,Curtis Turner,Eanes Motor Co. (John Eanes),'50 Oldsmobile,200,1500.0,running,200.0
+1950,9,Charlotte,2.0,–,77.0,Chuck Mahoney,Brooks Motors,'50 Mercury,–,750.0,running,0.0
+1950,9,Charlotte,3.0,–,92.0,Herb Thomas,Herb Thomas,'50 Plymouth,–,500.0,running,0.0
+1950,9,Charlotte,4.0,–,,Jimmie Lewallen,–,'50 Mercury,–,400.0,running,0.0
+1950,9,Charlotte,5.0,–,18.0,Dick Burns,–,'50 Oldsmobile,–,300.0,running,0.0
+1950,9,Charlotte,6.0,–,60.0,George Hartley,Julian Buesink,'50 Ford,–,200.0,–,0.0
+1950,9,Charlotte,7.0,–,9.0,Donald Thomas,Herb Thomas,'47 Ford,–,150.0,–,0.0
+1950,9,Charlotte,8.0,–,,Frank Mundy,–,'50 Oldsmobile,–,125.0,–,0.0
+1950,9,Charlotte,9.0,–,90.0,Tim Flock,Red Star Garage (Buddy Elliott),'49 Lincoln,–,100.0,–,0.0
+1950,9,Charlotte,10.0,–,37.0,Bill Snowden,Nash Motor Co. (Nash Motor Co.),'50 Nash,–,75.0,–,0.0
+1950,9,Charlotte,11.0,–,42.0,Lee Petty,Petty Special (Petty Enterprises),'49 Plymouth,–,50.0,wheel,0.0
+1950,9,Charlotte,12.0,–,49.0,Glenn Dunaway,Glenn Dunaway,'49 Plymouth,–,50.0,wheel,0.0
+1950,9,Charlotte,13.0,–,11.0,Bob Apperson,Bob Apperson,'49 Oldsmobile,–,50.0,–,0.0
+1950,9,Charlotte,14.0,–,87.0,Buck Baker,–,'50 Chevrolet,–,50.0,–,0.0
+1950,9,Charlotte,15.0,–,,Paul Smith,–,'48 Ford,–,50.0,–,0.0
+1950,9,Charlotte,16.0,–,2.0,Bill Blair,Sam Rice,'49 Cadillac,–,,spindle,0.0
+1950,9,Charlotte,17.0,–,50.0,Bill Joslin,Bill Joslin,'49 Ford,–,,–,0.0
+1950,9,Charlotte,18.0,–,24.0,Dick Clothier,Dick Clothier,'50 Pontiac,–,,–,0.0
+1950,9,Charlotte,19.0,–,80.0,Bill Rexford,Julian Buesink,'50 Oldsmobile,125,,engine,0.0
+1950,9,Charlotte,20.0,–,79.0,Jim Paschal,Al Wheatley,'49 Ford,–,,–,0.0
+1950,9,Charlotte,21.0,–,59.0,Lloyd Moore,Julian Buesink,'50 Oldsmobile,–,,engine,0.0
+1950,9,Charlotte,22.0,–,25.0,Dick Linder,Don Rogala,'50 Oldsmobile,–,,–,0.0
+1950,9,Charlotte,23.0,–,19.0,Clyde Minter,Clyde Minter,'50 Mercury,–,,–,0.0
+1950,9,Charlotte,24.0,–,,Lyle Scott,–,'49 Lincoln,–,,–,0.0
+1950,9,Charlotte,25.0,–,28.0,Buddy Helms,Buddy Helms,'47 Hudson,–,,–,0.0
+1950,9,Charlotte,26.0,–,4.0,Gayle Warren,Earl Blevins,'49 Oldsmobile,–,,–,0.0
+1950,10,Hillsboro,1.0,15,71.0,Fireball Roberts,Sam Rice,'49 Oldsmobile,100,1125.0,running,43.0
+1950,10,Hillsboro,2.0,2,41.0,Curtis Turner,Eanes Motor Co. (John Eanes),'50 Oldsmobile,100,750.0,running,45.0
+1950,10,Hillsboro,3.0,1,25.0,Dick Linder,Don Rogala,'50 Oldsmobile,–,500.0,running,0.0
+1950,10,Hillsboro,4.0,–,80.0,Bill Rexford,Julian Buesink,'50 Oldsmobile,–,400.0,running,0.0
+1950,10,Hillsboro,5.0,–,19.0,Clyde Minter,Clyde Minter,'50 Mercury,–,300.0,running,0.0
+1950,10,Hillsboro,6.0,–,,Gene Austin,–,'50 Oldsmobile,–,200.0,–,0.0
+1950,10,Hillsboro,7.0,–,42.0,Lee Petty,Petty Special (Petty Enterprises),'49 Plymouth,–,150.0,–,0.0
+1950,10,Hillsboro,8.0,–,92.0,Herb Thomas,Herb Thomas,'50 Plymouth,–,125.0,–,0.0
+1950,10,Hillsboro,9.0,–,77.0,Chuck Mahoney,Brooks Motors,'50 Mercury,–,100.0,–,0.0
+1950,10,Hillsboro,10.0,–,90.0,Johnny Mantz,Red Star Garage (Buddy Elliott),'49 Lincoln,–,75.0,–,0.0
+1950,10,Hillsboro,11.0,–,60.0,George Hartley,Julian Buesink,'50 Ford,–,50.0,–,0.0
+1950,10,Hillsboro,12.0,–,47.0,Pee Wee Martin,Ed Lawrence,'47 Buick,–,50.0,–,12.0
+1950,10,Hillsboro,13.0,–,37.0,Bill Snowden,Nash Motor Co. (Nash Motor Co.),'50 Nash,–,50.0,–,0.0
+1950,10,Hillsboro,14.0,–,,Lyle Scott,–,'49 Lincoln,–,50.0,–,0.0
+1950,10,Hillsboro,15.0,–,,Don White,–,'49 Ford,–,50.0,–,0.0
+1950,10,Hillsboro,16.0,–,,Pap White,–,'50 Mercury,–,,–,0.0
+1950,10,Hillsboro,17.0,–,6.0,Marshall Teague,Paul Cox,'49 Lincoln,–,,–,0.0
+1950,10,Hillsboro,18.0,–,50.0,Bill Joslin,Bill Joslin,'49 Ford,–,,–,0.0
+1950,10,Hillsboro,19.0,–,27.0,Jimmy Florian,Euclid Motor Co. (Jimmy Florian),'50 Ford,–,,–,0.0
+1950,10,Hillsboro,20.0,–,4.0,Gayle Warren,Earl Blevins,'49 Oldsmobile,–,,–,0.0
+1950,10,Hillsboro,21.0,–,0.0,Jimmie Lewallen,Sam Rice,'50 Oldsmobile,–,,–,0.0
+1950,10,Hillsboro,22.0,–,18.0,Dick Burns,–,'50 Oldsmobile,–,,–,0.0
+1950,10,Hillsboro,23.0,–,10.0,Ray Duhigg,Ray Duhigg,'50 Plymouth,–,,–,0.0
+1950,10,Hillsboro,24.0,–,49.0,Glenn Dunaway,Glenn Dunaway,'49 Oldsmobile,–,,–,0.0
+1950,10,Hillsboro,25.0,–,11.0,Bob Apperson,Bob Apperson,'49 Oldsmobile,–,,–,0.0
+1950,10,Hillsboro,26.0,–,31.0,Sterling Long,Gate City Truck Stop (Sterling Long),'49 Hudson,–,,crash,0.0
+1950,10,Hillsboro,27.0,–,2.0,Bill Blair,Sam Rice,'49 Oldsmobile,–,,–,0.0
+1950,11,Dayton,1.0,2,25.0,Dick Linder,Don Rogala,'50 Oldsmobile,195,1000.0,running,146.0
+1950,11,Dayton,2.0,–,,Red Harvey,–,'49 Oldsmobile,–,750.0,running,1.0
+1950,11,Dayton,3.0,–,92.0,Herb Thomas,Herb Thomas,'50 Plymouth,–,500.0,running,0.0
+1950,11,Dayton,4.0,–,42.0,Lee Petty,Petty Special (Petty Enterprises),'49 Plymouth,–,400.0,running,0.0
+1950,11,Dayton,5.0,–,,Art Lamey,–,'49 Plymouth,–,300.0,running,0.0
+1950,11,Dayton,6.0,–,,Paul Parks,–,'49 Cadillac,–,200.0,–,0.0
+1950,11,Dayton,7.0,–,,Jack Kabat,–,–,–,150.0,–,0.0
+1950,11,Dayton,8.0,–,59.0,Lloyd Moore,Julian Buesink,'50 Ford,–,125.0,–,0.0
+1950,11,Dayton,9.0,–,12.0,Joe Nagle,Joe Nagle,'50 Mercury,–,100.0,–,0.0
+1950,11,Dayton,10.0,–,,Paul Smith,–,'48 Ford,–,75.0,–,0.0
+1950,11,Dayton,11.0,–,,Tommy Thompson,Tommy Thompson,–,–,50.0,crash,0.0
+1950,11,Dayton,12.0,–,90.0,Johnny Mantz,Red Star Garage (Buddy Elliott),'49 Lincoln,–,50.0,crash,0.0
+1950,11,Dayton,13.0,–,,Carl Renner,–,–,–,50.0,–,0.0
+1950,11,Dayton,14.0,–,80.0,Bill Rexford,Julian Buesink,'50 Oldsmobile,–,50.0,–,0.0
+1950,11,Dayton,15.0,–,,Ed Jackson,–,–,–,50.0,–,0.0
+1950,11,Dayton,16.0,–,,Jack Russell,–,–,–,,–,0.0
+1950,11,Dayton,17.0,–,1.0,Jim Wesley,–,'50 Ford,–,,–,0.0
+1950,11,Dayton,18.0,–,18.0,Dick Burns,–,'50 Oldsmobile,–,,–,0.0
+1950,11,Dayton,19.0,–,94.0,Louise Smith,Leslie Motor Co. (Louise Smith),'50 Nash,–,,–,0.0
+1950,11,Dayton,20.0,–,60.0,George Hartley,Julian Buesink,'50 Mercury,–,,–,0.0
+1950,11,Dayton,21.0,–,69.0,Joe Merola,–,'50 Ford,–,,crash,0.0
+1950,11,Dayton,22.0,–,27.0,Jimmy Florian,Euclid Motor Co. (Jimmy Florian),'50 Ford,–,,–,0.0
+1950,11,Dayton,23.0,1,41.0,Curtis Turner,Eanes Motor Co. (John Eanes),'50 Oldsmobile,–,,–,48.0
+1950,11,Dayton,24.0,–,10.0,Ray Duhigg,Ray Duhigg,'50 Plymouth,–,,–,0.0
+1950,11,Dayton,25.0,–,23.0,Mike Klapak,Mike Klapak,'49 Ford,–,,–,0.0
+1950,11,Dayton,26.0,–,78.0,Bob Moore,Bob Moore,'50 Oldsmobile,–,,–,0.0
+1950,11,Dayton,27.0,–,77.0,Chuck Mahoney,Brooks Motors,'50 Mercury,–,,–,0.0
+1950,11,Dayton,28.0,–,44.5,Gayle Warren,Earl Blevins,'49 Oldsmobile,–,,crash,0.0
+1950,12,Hamburg,1.0,1,25.0,Dick Linder,Don Rogala,'50 Oldsmobile,200,1500.0,running,117.0
+1950,12,Hamburg,2.0,3,11.0,Fireball Roberts,Sam Rice,'49 Oldsmobile,200,750.0,running,9.0
+1950,12,Hamburg,3.0,2,41.0,Curtis Turner,Eanes Motor Co. (John Eanes),'50 Oldsmobile,199,500.0,running,74.0
+1950,12,Hamburg,4.0,–,59.0,Lloyd Moore,Julian Buesink,'50 Lincoln,–,400.0,running,0.0
+1950,12,Hamburg,5.0,–,,Jack White,Moyer Co. (Dailey Moyer),'50 Mercury,–,300.0,running,0.0
+1950,12,Hamburg,6.0,–,80.0,Bill Rexford,Julian Buesink,'50 Oldsmobile,–,200.0,–,0.0
+1950,12,Hamburg,7.0,–,,Frank Mundy,–,'50 Oldsmobile,–,150.0,–,0.0
+1950,12,Hamburg,8.0,–,93.0,Ted Chamberlain,Ted Chamberlain,'50 Plymouth,–,125.0,–,0.0
+1950,12,Hamburg,9.0,–,66.0,Pappy Hough,Pappy Hough,'50 Ford,–,100.0,–,0.0
+1950,12,Hamburg,10.0,–,,Bill Blair,Sam Rice,'50 Mercury,–,75.0,–,0.0
+1950,12,Hamburg,11.0,–,,Frankie Schneider,–,–,–,50.0,–,0.0
+1950,12,Hamburg,12.0,–,,John Borden,–,'50 Ford,–,50.0,–,0.0
+1950,12,Hamburg,13.0,–,,Dick Jerrett,–,'49 Oldsmobile,–,50.0,–,0.0
+1950,12,Hamburg,14.0,–,71.0,Sara Christian,Frank Christian,'50 Ford,–,50.0,–,0.0
+1950,12,Hamburg,15.0,–,58.0,Harland Holmes,–,'49 Ford,–,50.0,–,0.0
+1950,12,Hamburg,16.0,–,77.0,Chuck Mahoney,Brooks Motors,'50 Mercury,–,,–,0.0
+1950,12,Hamburg,17.0,–,,F. Weichman,–,–,–,,–,0.0
+1950,12,Hamburg,18.0,–,,Red Ryder,–,'49 Oldsmobile,–,,–,0.0
+1950,12,Hamburg,19.0,–,,Lyle Scott,–,'49 Lincoln,–,,–,0.0
+1950,12,Hamburg,20.0,–,,Morris Lamb,–,–,–,,–,0.0
+1950,12,Hamburg,21.0,–,72.0,Ann Chester,–,'47 Plymouth,92,,crash,0.0
+1950,12,Hamburg,22.0,–,94.0,Louise Smith,Leslie Motor Co. (Louise Smith),'50 Nash,–,,crash,0.0
+1950,12,Hamburg,23.0,–,54.0,Ken Warmington,–,'49 Ford,–,,crash,0.0
+1950,12,Hamburg,24.0,–,9.0,Art Lamey,–,'49 Plymouth,–,,–,0.0
+1950,12,Hamburg,25.0,–,48.0,Gayle Warren,Earl Blevins,'49 Oldsmobile,–,,–,0.0
+1950,12,Hamburg,26.0,–,27.0,Jimmy Florian,Euclid Motor Co. (Jimmy Florian),'50 Ford,–,,–,0.0
+1950,12,Hamburg,27.0,–,42.0,Lee Petty,Petty Special (Petty Enterprises),'49 Plymouth,–,,–,0.0
+1950,12,Hamburg,28.0,–,6.0,Lee Hough,Pappy Hough,'50 Ford,–,,–,0.0
+1950,12,Hamburg,29.0,–,60.0,George Hartley,Julian Buesink,'50 Ford,–,,–,0.0
+1950,12,Hamburg,30.0,–,18.0,Dick Burns,–,'49 Mercury,–,,–,0.0
+1950,12,Hamburg,31.0,–,293.0,Bob Dickson,–,'49 Lincoln,–,,–,0.0
+1950,12,Hamburg,32.0,–,15.0,Paul Parks,–,'50 Plymouth,–,,–,0.0
+1950,12,Hamburg,33.0,–,,Hugh Darragh,–,'49 Ford,–,,–,0.0
+1950,13,Darlington,1.0,43.0,98.0,Johnny Mantz,Hubert Westmoreland,'50 Plymouth,400.0,10510.0,running,351.0
+1950,13,Darlington,2.0,67.0,82.0,Fireball Roberts,Sam Rice,'50 Oldsmobile,391.0,3500.0,running,0.0
+1950,13,Darlington,3.0,7.0,22.0,Red Byron,Parks Novelty (Raymond Parks),'50 Cadillac,390.0,2000.0,running,0.0
+1950,13,Darlington,4.0,23.0,59.0,Bill Rexford,Julian Buesink,'50 Oldsmobile,385.0,1500.0,running,0.0
+1950,13,Darlington,5.0,15.0,77.0,Chuck Mahoney,Brooks Motors,'50 Mercury,381.0,1000.0,running,0.0
+1950,13,Darlington,6.0,35.0,42.0,Lee Petty,Petty Special (Petty Enterprises),'49 Plymouth,380.0,800.0,running,0.0
+1950,13,Darlington,7.0,38.0,71.0,Cotton Owens,F.J. Bland,'50 Plymouth,380.0,930.0,running,23.0
+1950,13,Darlington,8.0,64.0,2.0,Bill Blair,Sam Rice,'49 Cadillac,375.0,600.0,running,0.0
+1950,13,Darlington,9.0,44.0,52.0,Hershel McGriff,City of Roses (Hershel McGriff),'50 Oldsmobile,374.0,500.0,running,0.0
+1950,13,Darlington,10.0,26.0,61.0,George Hartley,Julian Buesink,'50 Oldsmobile,371.0,450.0,running,0.0
+1950,13,Darlington,11.0,16.0,9.0,Tim Flock,Buddy Elliott,'50 Oldsmobile,370.0,400.0,running,0.0
+1950,13,Darlington,12.0,57.0,44.0,Johnny Grubb,Johnny Grubb,'50 Plymouth,368.0,350.0,running,0.0
+1950,13,Darlington,13.0,62.0,26.0,Dick Linder,Don Rogala,'50 Oldsmobile,367.0,300.0,running,0.0
+1950,13,Darlington,14.0,68.0,89.0,John DuBoise,John DuBoise,'50 Ford,367.0,250.0,running,0.0
+1950,13,Darlington,15.0,72.0,72.0,Weldon Adams,Harold Mays,'49 Plymouth,367.0,225.0,running,0.0
+1950,13,Darlington,16.0,32.0,99.0,Barney Smith,Barney Smith,'50 Oldsmobile,366.0,275.0,running,0.0
+1950,13,Darlington,17.0,3.0,51.0,Gober Sosebee,Cherokee Garage (Gober Sosebee),'50 Oldsmobile,364.0,290.0,running,4.0
+1950,13,Darlington,18.0,52.0,39.0,Elmer Wilson,Elmer Wilson,'49 Plymouth,360.0,100.0,running,0.0
+1950,13,Darlington,19.0,21.0,4.0,Joe Eubanks,Joe Eubanks,'50 Mercury,359.0,,running,0.0
+1950,13,Darlington,20.0,19.0,43.0,Shorty York,B.S. Beeson,'50 Buick,358.0,,running,0.0
+1950,13,Darlington,21.0,51.0,64.0,Walt Crawford,South's Garden Spot / Carolina Motors (Walt Crawford),'50 Buick,358.0,,running,0.0
+1950,13,Darlington,22.0,33.0,,Murrace Walker,Murrace Walker,'50 Oldsmobile,358.0,,running,0.0
+1950,13,Darlington,23.0,48.0,,Gene Comstock,Gene Comstock,'50 Oldsmobile,355.0,,–,0.0
+1950,13,Darlington,24.0,27.0,17.0,Jack White,Dailey Moyer,'50 Ford,354.0,,–,0.0
+1950,13,Darlington,25.0,71.0,65.0,Byron Beatty,Byron Beatty,'50 Ford,351.0,,–,0.0
+1950,13,Darlington,26.0,53.0,,Bill Widenhouse,Bill Widenhouse,'49 Plymouth,350.0,,–,0.0
+1950,13,Darlington,27.0,4.0,7.0,Bob Flock,Bob Flock Garage (Frank Christian),'50 Oldsmobile,348.0,,running,0.0
+1950,13,Darlington,28.0,10.0,47.0,Fonty Flock,Frank Christian,'50 Oldsmobile,346.0,,–,0.0
+1950,13,Darlington,29.0,13.0,19.0,Jack Smith,R & W Auto Service,'50 Oldsmobile,345.0,,crash,0.0
+1950,13,Darlington,30.0,30.0,34.0,Pee Wee Martin,Eanes Motor Co. / Firestone Tires (John Eanes),'50 Oldsmobile,344.0,100.0,overheating,0.0
+1950,13,Darlington,31.0,5.0,5.0,Lee Morgan,Lee Morgan,'49 Oldsmobile,342.0,,running,0.0
+1950,13,Darlington,32.0,8.0,,Hub McBride,Hub McBride,'50 Mercury,341.0,,–,0.0
+1950,13,Darlington,33.0,11.0,,Slick Smith,–,'50 Oldsmobile,340.0,,–,0.0
+1950,13,Darlington,34.0,12.0,45.0,Ted Chamberlain,Ted Chamberlain,'50 Plymouth,338.0,,running,0.0
+1950,13,Darlington,35.0,6.0,66.0,Virgil Livengood,Virgil Livengood,'50 Oldsmobile,338.0,,running,0.0
+1950,13,Darlington,36.0,9.0,,Billy Carden,–,'50 Ford,338.0,,running,0.0
+1950,13,Darlington,37.0,14.0,37.0,Bill Snowden,Nash Motor Co. (Nash Motor Co.),'50 Nash,338.0,,running,0.0
+1950,13,Darlington,38.0,22.0,21.0,Harold Kite,Edmunds Motors (Harold Kite),'49 Lincoln,334.0,,–,0.0
+1950,13,Darlington,39.0,25.0,49.0,Glenn Dunaway,Glenn Dunaway,'50 Lincoln,333.0,,–,0.0
+1950,13,Darlington,40.0,2.0,25.0,Jimmy Thompson,Leland Colvin,'50 Lincoln,332.0,125.0,engine,0.0
+1950,13,Darlington,41.0,65.0,27.0,Jimmy Florian,Euclid Motor Co. (Jimmy Florian),'50 Ford,331.0,,spindle,0.0
+1950,13,Darlington,42.0,20.0,35.0,Bob Smith,Central Chevrolet Corp.,'50 Oldsmobile,331.0,,running,0.0
+1950,13,Darlington,43.0,24.0,0.0,Jimmie Lewallen,Sam Rice,'50 Oldsmobile,330.0,,–,0.0
+1950,13,Darlington,44.0,75.0,,Jesse James Taylor,Jesse James Taylor,'50 Mercury,329.0,,–,0.0
+1950,13,Darlington,45.0,29.0,,Bub King,T.L. King,'50 Mercury,329.0,,–,0.0
+1950,13,Darlington,46.0,36.0,24.0,Gene Darragh,–,'50 Hudson,323.0,,–,0.0
+1950,13,Darlington,47.0,39.0,,Roy Bentley,Roy Bentley,'50 Studebaker,319.0,,–,0.0
+1950,13,Darlington,48.0,42.0,,J.E. Hardie,–,'50 Studebaker,317.0,,–,0.0
+1950,13,Darlington,49.0,34.0,,Jerry Kempf,–,'50 Lincoln,315.0,,–,0.0
+1950,13,Darlington,50.0,46.0,36.0,Bill Osborne,–,'50 Mercury,311.0,100.0,–,0.0
+1950,13,Darlington,51.0,37.0,,Carson Dyer,Carson Dyer,'50 Lincoln,310.0,,–,0.0
+1950,13,Darlington,52.0,60.0,33.0,Wally Campbell,Wally Marks,'50 Oldsmobile,309.0,100.0,–,0.0
+1950,13,Darlington,53.0,40.0,79.0,Jim Paschal,Julian Buesink,'50 Ford,307.0,,–,0.0
+1950,13,Darlington,54.0,45.0,18.0,Charles Tidwell,–,'49 Oldsmobile,300.0,100.0,–,0.0
+1950,13,Darlington,55.0,41.0,,Ruel Smith,–,'50 Pontiac,289.0,,–,0.0
+1950,13,Darlington,56.0,47.0,,Al Keller,W.O. Taylor,'50 Oldsmobile,284.0,,–,0.0
+1950,13,Darlington,57.0,50.0,,Dick Soper,–,'50 Kaiser,282.0,,–,0.0
+1950,13,Darlington,58.0,54.0,,Pete Keller,–,'50 Studebaker,281.0,,–,0.0
+1950,13,Darlington,59.0,56.0,,P.E. Godfrey,–,'49 Lincoln,278.0,,–,0.0
+1950,13,Darlington,60.0,1.0,41.0,Curtis Turner,Eanes Motor Co. (John Eanes),'50 Oldsmobile,275.0,320.0,crash,22.0
+1950,13,Darlington,61.0,49.0,,Bob Apperson,Bob Apperson,'49 Oldsmobile,249.0,,–,0.0
+1950,13,Darlington,62.0,55.0,,Tommy Thompson,Tommy Thompson,'50 Hudson,238.0,,–,0.0
+1950,13,Darlington,63.0,61.0,6.0,Marshall Teague,Paul Cox,'50 Lincoln,230.0,,–,0.0
+1950,13,Darlington,64.0,70.0,14.0,Tex Keene,Tex Keene,'50 Plymouth,229.0,,crash,0.0
+1950,13,Darlington,65.0,31.0,38.0,Clyde Minter,Clyde Minter,'50 Lincoln,219.0,100.0,–,0.0
+1950,13,Darlington,66.0,74.0,,Rollin Smith,–,'50 Hudson,208.0,,–,0.0
+1950,13,Darlington,67.0,17.0,86.0,Bill Henson,–,'49 Oldsmobile,200.0,100.0,–,0.0
+1950,13,Darlington,68.0,50.0,48.0,Gayle Warren,Earl Blevins,'49 Oldsmobile,188.0,100.0,–,0.0
+1950,13,Darlington,69.0,28.0,87.0,Buck Baker,Griffin Motors / Darlington Intl. Raceway (Bob Griffin),'49 Oldsmobile,176.0,,crash,0.0
+1950,13,Darlington,70.0,58.0,46.0,Kenneth Wagner,Moyer Co. (Dailey Moyer),'49 Lincoln,155.0,100.0,–,0.0
+1950,13,Darlington,71.0,18.0,62.0,Lloyd Moore,Julian Buesink,'50 Lincoln,112.0,100.0,–,0.0
+1950,13,Darlington,72.0,73.0,48.0,Alton Haddock,Alton Haddock,'50 Ford,98.0,100.0,–,0.0
+1950,13,Darlington,73.0,69.0,54.0,Jack Yardley,Saverance Motors,'50 Ford,89.0,,–,0.0
+1950,13,Darlington,74.0,66.0,,Jack Carr,–,'50 Mercury,52.0,,engine,0.0
+1950,13,Darlington,75.0,63.0,,Roscoe Thompson,Charles Venable,'49 Oldsmobile,24.0,,overheating,0.0
+1950,14,Langhorne,1.0,–,47.0,Fonty Flock,Frank Christian,'50 Oldsmobile,200,1500.0,running,132.0
+1950,14,Langhorne,2.0,–,2.0,Bill Blair,Sam Rice,'49 Oldsmobile,200,1000.0,running,37.0
+1950,14,Langhorne,3.0,4,82.0,Fireball Roberts,Sam Rice,'50 Oldsmobile,–,700.0,running,0.0
+1950,14,Langhorne,4.0,–,42.0,Lee Petty,Petty Enterprises,'49 Plymouth,–,400.0,running,0.0
+1950,14,Langhorne,5.0,–,,Neil Cole,–,'49 Ford,–,300.0,running,0.0
+1950,14,Langhorne,6.0,–,88.0,Pepper Cunningham,Pepper Cunningham,'49 Cadillac,–,200.0,–,0.0
+1950,14,Langhorne,7.0,38,87.0,Buck Baker,Griffin Motors (Bob Griffin),'50 Oldsmobile,–,175.0,–,0.0
+1950,14,Langhorne,8.0,–,60.0,Bill Rexford,Julian Buesink,'50 Oldsmobile,–,150.0,–,0.0
+1950,14,Langhorne,9.0,–,44.0,Johnny Grubb,Johnny Grubb,'50 Plymouth,–,125.0,–,0.0
+1950,14,Langhorne,10.0,–,46.0,Kenneth Wagner,Moyer Co. (Dailey Moyer),'49 Lincoln,–,100.0,engine,0.0
+1950,14,Langhorne,11.0,–,61.0,George Hartley,Julian Buesink,'50 Oldsmobile,–,75.0,–,0.0
+1950,14,Langhorne,12.0,–,16.0,Paul Parks,–,'50 Plymouth,–,75.0,–,0.0
+1950,14,Langhorne,13.0,–,92.0,Herb Thomas,Herb Thomas,'50 Plymouth,–,75.0,–,0.0
+1950,14,Langhorne,14.0,–,69.0,Tommy Coates,Johnny Sabatini,'47 Ford,–,50.0,crash,0.0
+1950,14,Langhorne,15.0,–,,Elmer Wilson,–,'50 Oldsmobile,–,50.0,–,0.0
+1950,14,Langhorne,16.0,–,59.0,Lloyd Moore,Julian Buesink,'50 Lincoln,–,50.0,–,0.0
+1950,14,Langhorne,17.0,–,,Fred Dagavar,–,'49 Ford,–,50.0,–,0.0
+1950,14,Langhorne,18.0,–,70.0,Lewis Hawkins,–,'50 Plymouth,–,50.0,–,0.0
+1950,14,Langhorne,19.0,2,9.0,Tim Flock,Buddy Elliott,'50 Oldsmobile,–,100.0,–,0.0
+1950,14,Langhorne,20.0,–,,Russell Bennett,LaBelle Motors,'50 Kaiser,–,50.0,–,0.0
+1950,14,Langhorne,21.0,1,18.0,Wally Campbell,Wally Marks,'50 Oldsmobile,–,75.0,crash,0.0
+1950,14,Langhorne,22.0,–,12.0,John Schelesky,Joe Nagle,'50 Mercury,–,25.0,crash,0.0
+1950,14,Langhorne,23.0,–,,Bob Read,–,–,–,25.0,overheating,0.0
+1950,14,Langhorne,24.0,3,41.0,Curtis Turner,Eanes Motor Co. (John Eanes),'50 Oldsmobile,–,25.0,–,31.0
+1950,14,Langhorne,25.0,–,,Len Brown,Len Brown,'49 Oldsmobile,–,25.0,–,0.0
+1950,14,Langhorne,26.0,–,,Charles Tidwell,–,'49 Oldsmobile,–,,–,0.0
+1950,14,Langhorne,27.0,–,20.0,Ray Duhigg,Ray Duhigg,'50 Plymouth,–,,–,0.0
+1950,14,Langhorne,28.0,–,66.0,Pappy Hough,Pappy Hough,'50 Ford,–,,–,0.0
+1950,14,Langhorne,29.0,–,,Bob Moore,Bob Moore,'49 Oldsmobile,–,,–,0.0
+1950,14,Langhorne,30.0,–,25.0,Dick Linder,Don Rogala,'50 Oldsmobile,–,,–,0.0
+1950,14,Langhorne,31.0,–,77.0,Chuck Mahoney,Brooks Motors,'50 Mercury,–,,–,0.0
+1950,14,Langhorne,32.0,–,44.0,Frank Mundy,–,'50 Oldsmobile,–,,–,0.0
+1950,14,Langhorne,33.0,–,53.0,George Masker,–,'50 Kaiser,–,,–,0.0
+1950,14,Langhorne,34.0,–,48.0,Eddie Adams,–,'46 Ford,–,,–,0.0
+1950,14,Langhorne,35.0,–,89.0,Al Keller,–,'50 Ford,–,,–,0.0
+1950,14,Langhorne,36.0,–,293.0,Bob Dickson,–,'49 Ford,–,,–,0.0
+1950,14,Langhorne,37.0,–,26.0,Buster Williams,–,'49 Lincoln,–,,–,0.0
+1950,14,Langhorne,38.0,5,4.0,Don Cecchini,Don Cecchini,Nash,–,,–,0.0
+1950,14,Langhorne,39.0,–,50.0,Buck McCardell,–,'49 Lincoln,–,,–,0.0
+1950,14,Langhorne,40.0,–,,Mike Klapak,Mike Klapak,'50 Ford,–,,–,0.0
+1950,14,Langhorne,41.0,–,52.0,Bob Burkhart,–,'48 Kaiser,–,,–,0.0
+1950,14,Langhorne,42.0,–,78.0,Richard Cummings,–,'49 Lincoln,–,,–,0.0
+1950,14,Langhorne,43.0,–,,Dick Hallock,–,–,–,,–,0.0
+1950,14,Langhorne,44.0,–,23.0,Ken Marriott,Ken Marriott,'49 Lincoln,–,,–,0.0
+1950,14,Langhorne,45.0,–,8.0,Roland Stone,–,'50 Ford,–,,–,0.0
+1950,14,Langhorne,46.0,–,6.0,Bill Harrison,R.B. McIntosh,'49 Mercury,0,,did not start,0.0
+1950,14,Langhorne,47.0,–,97.0,John Meekins,–,'49 Mercury,0,,did not start,0.0
+1950,14,Langhorne,48.0,–,,Dick Burns,–,'50 Mercury,0,,did not start,0.0
+1950,15,North Wilkesboro,1.0,11,98.0,Leon Sales,Southern 500 Winner (Hubert Westmoreland),'50 Plymouth,200,1000.0,running,8.0
+1950,15,North Wilkesboro,2.0,13,,Jack Smith,Bishop Brothers,'50 Plymouth,–,750.0,running,55.0
+1950,15,North Wilkesboro,3.0,–,78.0,Ewell Weddle,Ewell Weddle,'49 Lincoln,–,500.0,running,0.0
+1950,15,North Wilkesboro,4.0,5,92.0,Herb Thomas,Herb Thomas,'50 Plymouth,–,400.0,running,0.0
+1950,15,North Wilkesboro,5.0,14,44.0,Gayle Warren,Earl Blevins,'50 Plymouth,–,300.0,running,0.0
+1950,15,North Wilkesboro,6.0,16,52.0,Weldon Adams,Weldon Adams,'50 Plymouth,–,200.0,–,0.0
+1950,15,North Wilkesboro,7.0,15,,Jimmy Thompson,Leland Colvin,'50 Plymouth,–,150.0,–,0.0
+1950,15,North Wilkesboro,8.0,6,,Jerry Wimbish,Jerry Wimbish,'50 Oldsmobile,–,125.0,–,0.0
+1950,15,North Wilkesboro,9.0,7,7.0,Bob Flock,Bob Flock Garage (Frank Christian),'50 Oldsmobile,–,100.0,–,0.0
+1950,15,North Wilkesboro,10.0,–,94.0,Herbert Burns,–,'49 Lincoln,–,75.0,–,0.0
+1950,15,North Wilkesboro,11.0,–,2.0,Bill Blair,Sam Rice,'50 Oldsmobile,–,50.0,–,0.0
+1950,15,North Wilkesboro,12.0,–,21.0,Harold Kite,Harold Kite,'50 Mercury,–,50.0,–,0.0
+1950,15,North Wilkesboro,13.0,8,12.0,Billy Carden,Bishop Brothers,'50 Oldsmobile,–,50.0,–,0.0
+1950,15,North Wilkesboro,14.0,9,87.0,Buck Baker,Griffin Motors (Bob Griffin),'50 Oldsmobile,–,50.0,–,0.0
+1950,15,North Wilkesboro,15.0,10,38.0,Clyde Minter,B.F. Goodrich (Clyde Minter),'47 Buick,–,50.0,wheel,0.0
+1950,15,North Wilkesboro,16.0,1,82.0,Fireball Roberts,Sam Rice,'49 Oldsmobile,–,50.0,engine,0.0
+1950,15,North Wilkesboro,17.0,–,15.0,Paul Parks,–,'50 Plymouth,–,,–,0.0
+1950,15,North Wilkesboro,18.0,3,47.0,Fonty Flock,Frank Christian,'50 Oldsmobile,–,,engine,104.0
+1950,15,North Wilkesboro,19.0,2,22.0,Red Byron,Parks Novelty (Raymond Parks),'50 Cadillac,–,,spindle,33.0
+1950,15,North Wilkesboro,20.0,17,37.0,Slick Smith,Nash Motor Co. (Nash Motor Co.),'50 Nash,–,,crash,0.0
+1950,15,North Wilkesboro,21.0,–,,Dick Shuebruk,–,'49 Lincoln,–,,–,0.0
+1950,15,North Wilkesboro,22.0,4,41.0,Curtis Turner,Eanes Motor Co. (John Eanes),'50 Oldsmobile,–,,–,0.0
+1950,15,North Wilkesboro,23.0,–,58.0,Jim V. Cook,Walter Motor Co.,'50 Mercury,–,,engine,0.0
+1950,15,North Wilkesboro,24.0,12,75.0,Tim Flock,Frank Christian,'50 Oldsmobile,–,,–,0.0
+1950,15,North Wilkesboro,25.0,–,,Jack Carr,–,'50 Oldsmobile,–,,–,0.0
+1950,15,North Wilkesboro,26.0,18,14.0,Tex Keene,Tex Keene,'50 Plymouth,–,,–,0.0
+1950,16,Vernon,1.0,1,25.0,Dick Linder,Don Rogala,'50 Oldsmobile,200,1000.0,running,159.0
+1950,16,Vernon,2.0,–,38.0,Ted Swaim,Hubert Westmoreland,'50 Plymouth,200,750.0,running,0.0
+1950,16,Vernon,3.0,–,59.0,Lloyd Moore,Julian Buesink,'50 Mercury,198,500.0,running,0.0
+1950,16,Vernon,4.0,–,9.0,Tim Flock,Buddy Elliott,'50 Oldsmobile,198,400.0,running,0.0
+1950,16,Vernon,5.0,–,,Jack Reynolds,–,'50 Plymouth,–,300.0,running,0.0
+1950,16,Vernon,6.0,–,60.0,Bill Rexford,Julian Buesink,'50 Oldsmobile,–,200.0,running,0.0
+1950,16,Vernon,7.0,–,42.0,Lee Petty,Bardahl (Petty Enterprises),'49 Plymouth,–,150.0,running,0.0
+1950,16,Vernon,8.0,–,,Jimmy Thompson,Leland Colvin,'50 Plymouth,–,125.0,running,0.0
+1950,16,Vernon,9.0,–,77.0,Chuck Mahoney,Brooks Motors,'50 Mercury,–,100.0,engine,0.0
+1950,16,Vernon,10.0,–,,Dick Jerrett,–,'49 Oldsmobile,–,75.0,running,0.0
+1950,16,Vernon,11.0,–,92.0,Herb Thomas,Herb Thomas,'50 Plymouth,–,50.0,crash,41.0
+1950,16,Vernon,12.0,–,,Robert Sprague,–,–,–,50.0,–,0.0
+1950,16,Vernon,13.0,–,,Frank Keller,–,Ford,–,50.0,crash,0.0
+1950,16,Vernon,14.0,–,99.0,Jim Delaney,–,'50 Plymouth,–,50.0,–,0.0
+1950,16,Vernon,15.0,–,15.0,Paul Parks,–,'50 Plymouth,–,50.0,running,0.0
+1950,16,Vernon,16.0,–,,John Borden,–,'50 Ford,–,,–,0.0
+1950,16,Vernon,17.0,–,93.0,Ted Chamberlain,Ted Chamberlain,'50 Plymouth,–,,–,0.0
+1950,16,Vernon,18.0,–,105.0,Ann Bunselmeyer,Ann Bunselmeyer,'49 Packard,–,,running,0.0
+1950,16,Vernon,19.0,–,,Bill Burton,–,'50 Ford,166,,crash,0.0
+1950,16,Vernon,20.0,–,,Paul Smith,–,–,–,,–,0.0
+1950,16,Vernon,21.0,–,,Speedy Thompson,Bruce Thompson,'50 Plymouth,–,,–,0.0
+1950,16,Vernon,22.0,–,,Frank Mundy,Nash Motor Co. (Nash Motor Co.),'50 Nash,–,,–,0.0
+1950,16,Vernon,23.0,–,,Paul Pettit,–,Ford,–,,–,0.0
+1950,16,Vernon,24.0,–,,John DuBoise,John DuBoise,Ford,–,,–,0.0
+1950,16,Vernon,25.0,–,,Augie Walackas,–,Chevrolet,–,,–,0.0
+1950,16,Vernon,26.0,–,,Dick Eagan,Dick Eagan,Ford,–,,–,0.0
+1950,16,Vernon,27.0,–,17.0,Jack White,Dailey Moyer,'50 Ford,–,,–,0.0
+1950,16,Vernon,28.0,–,,George Bagnell,–,Mercury,–,,–,0.0
+1950,16,Vernon,29.0,–,,Felix Wilkes,Felix Wilkes,Hudson,42,,crash,0.0
+1950,17,Martinsville,1.0,19,92.0,Herb Thomas,Herb Thomas,'50 Plymouth,200.0,1000.0,running,135.0
+1950,17,Martinsville,2.0,–,42.0,Lee Petty,Bardahl (Petty Enterprises),'49 Plymouth,199.0,750.0,running,0.0
+1950,17,Martinsville,3.0,–,87.0,Buck Baker,Darlington International Speedway (Bob Griffin),Oldsmobile,198.0,500.0,running,0.0
+1950,17,Martinsville,4.0,1,7.0,Fonty Flock,Bob Flock Garage (Frank Christian),'50 Oldsmobile,197.0,400.0,running,9.0
+1950,17,Martinsville,5.0,–,52.0,Weldon Adams,Weldon Adams,'50 Plymouth,193.0,300.0,running,0.0
+1950,17,Martinsville,6.0,5,11.0,Fireball Roberts,Sam Rice,'49 Oldsmobile,192.0,200.0,running,0.0
+1950,17,Martinsville,7.0,–,8.0,Jack Holloway,–,'50 Mercury,192.0,150.0,–,0.0
+1950,17,Martinsville,8.0,–,25.0,Jimmy Thompson,Leland Colvin,'50 Plymouth,190.0,125.0,–,0.0
+1950,17,Martinsville,9.0,–,30.0,Jim Paschal,Chaney Motors (Ralph Chaney),'50 Henry J,188.0,100.0,–,0.0
+1950,17,Martinsville,10.0,–,93.0,Ted Chamberlain,Ted Chamberlain,'50 Plymouth,183.0,75.0,–,0.0
+1950,17,Martinsville,11.0,–,44.0,Johnny Grubb,Johnny Grubb,'50 Oldsmobile,162.0,50.0,–,0.0
+1950,17,Martinsville,12.0,2,9.0,Tim Flock,Buddy Elliott,'50 Oldsmobile,162.0,50.0,wheel,0.0
+1950,17,Martinsville,13.0,–,78.0,Ewell Weddle,Ewell Weddle,'49 Lincoln,158.0,50.0,–,0.0
+1950,17,Martinsville,14.0,–,38.0,Clyde Minter,B.F. Goodrich (Clyde Minter),'47 Buick,106.0,50.0,–,0.0
+1950,17,Martinsville,15.0,–,17.0,John Manning,–,'49 Ford,95.0,50.0,–,0.0
+1950,17,Martinsville,16.0,–,2.0,Bill Blair,Sam Rice,'50 Oldsmobile,69.0,,–,0.0
+1950,17,Martinsville,17.0,3,41.0,Curtis Turner,Eanes Motor Co. (John Eanes),'50 Oldsmobile,66.0,,engine,56.0
+1950,17,Martinsville,18.0,–,4.0,Gayle Warren,Earl Blevins,'50 Plymouth,64.0,,–,0.0
+1950,17,Martinsville,19.0,–,,Runt Harris,Junie Donlavey,'49 Oldsmobile,41.0,,–,0.0
+1950,17,Martinsville,20.0,–,37.0,Slick Smith,Nash Motor Co. (Nash Motor Co.),'50 Nash,31.0,,overheating,0.0
+1950,17,Martinsville,21.0,–,98.0,Leon Sales,Southern 500 Winner / N. Wilkesboro Winner (Hubert Westmoreland),'50 Plymouth,27.0,,crash,0.0
+1950,18,Winchester,1.0,5,59.0,Lloyd Moore,Julian Buesink,'50 Mercury,200,1000.0,running,51.0
+1950,18,Winchester,2.0,3,101.0,Bucky Sager,Bucky Sager,'49 Plymouth,–,750.0,running,146.0
+1950,18,Winchester,3.0,6,61.0,Bill Rexford,Julian Buesink,'49 Ford,–,500.0,running,0.0
+1950,18,Winchester,4.0,–,,Chuck James,–,'46 Ford,–,400.0,running,0.0
+1950,18,Winchester,5.0,7,10.0,Ray Duhigg,Ray Duhigg,'50 Plymouth,–,300.0,running,0.0
+1950,18,Winchester,6.0,–,,Carl Renner,–,–,–,200.0,–,0.0
+1950,18,Winchester,7.0,12,27.0,Jimmy Florian,Euclid Motor Co. (Jimmy Florian),'50 Ford,–,150.0,–,0.0
+1950,18,Winchester,8.0,–,,Chuck Garrett,–,–,–,125.0,–,0.0
+1950,18,Winchester,9.0,–,,Bud Boone,–,–,–,100.0,–,0.0
+1950,18,Winchester,10.0,–,8.0,Buck Barr,–,'50 Ford,–,75.0,–,0.0
+1950,18,Winchester,11.0,–,39.0,Elmer Wilson,Elmer Wilson,'49 Plymouth,–,50.0,–,0.0
+1950,18,Winchester,12.0,–,,Leo Caldwell,–,–,–,50.0,–,0.0
+1950,18,Winchester,13.0,1,25.0,Dick Linder,Don Rogala,'50 Oldsmobile,–,50.0,–,3.0
+1950,19,Hillsboro,1.0,15.0,42.0,Lee Petty,Bardahl (Petty Enterprises),'49 Plymouth,175,1500.0,running,43.0
+1950,19,Hillsboro,2.0,5.0,87.0,Buck Baker,Griffin Motors,'50 Oldsmobile,–,1000.0,running,0.0
+1950,19,Hillsboro,3.0,18.0,72.0,Weldon Adams,Harold Mays,'50 Plymouth,–,500.0,running,0.0
+1950,19,Hillsboro,4.0,9.0,98.0,Tim Flock,Southern 500 Winner (Hubert Westmoreland),'50 Plymouth,–,400.0,running,0.0
+1950,19,Hillsboro,5.0,6.0,41.5,Bill Blair,Bill Blair,'50 Oldsmobile,–,300.0,running,0.0
+1950,19,Hillsboro,6.0,13.0,44.0,Gayle Warren,Earl Blevins,'50 Plymouth,–,200.0,–,0.0
+1950,19,Hillsboro,7.0,20.0,10.0,Ray Duhigg,Ray Duhigg,'49 Plymouth,–,150.0,–,0.0
+1950,19,Hillsboro,8.0,12.0,99.0,Jim Delaney,–,'50 Plymouth,–,125.0,–,0.0
+1950,19,Hillsboro,9.0,11.0,18.0,Herbert Burns,–,'49 Lincoln,–,100.0,–,0.0
+1950,19,Hillsboro,10.0,14.0,8.0,Jack Holloway,–,'50 Mercury,–,75.0,–,0.0
+1950,19,Hillsboro,11.0,19.0,61.0,George Hartley,Julian Buesink,'50 Mercury,–,50.0,–,0.0
+1950,19,Hillsboro,12.0,7.0,47.0,Johnny Grubb,Johnny Grubb,'50 Oldsmobile,–,50.0,–,0.0
+1950,19,Hillsboro,13.0,4.0,21.0,Tommy Melvin,–,'50 Oldsmobile,–,50.0,–,0.0
+1950,19,Hillsboro,14.0,21.0,78.0,Ewell Weddle,Esso Service (Ewell Weddle),'49 Lincoln,–,50.0,–,0.0
+1950,19,Hillsboro,15.0,24.0,93.0,Ted Chamberlain,Ted Chamberlain,'50 Plymouth,–,50.0,–,0.0
+1950,19,Hillsboro,16.0,16.0,26.0,Slick Smith,–,'50 Plymouth,–,,–,0.0
+1950,19,Hillsboro,17.0,8.0,59.0,Lloyd Moore,Julian Buesink,'50 Oldsmobile,–,,–,0.0
+1950,19,Hillsboro,18.0,10.0,92.0,Herb Thomas,Herb Thomas,'50 Plymouth,–,,–,0.0
+1950,19,Hillsboro,19.0,25.0,94.0,Louise Smith,Leslie Motor Co. (Louise Smith),'50 Nash,–,,–,0.0
+1950,19,Hillsboro,20.0,1.0,7.0,Fonty Flock,Bob Flock Garage (Frank Christian),'50 Oldsmobile,132,,mount,124.0
+1950,19,Hillsboro,21.0,2.0,11.0,Fireball Roberts,Sam Rice,'49 Oldsmobile,126,75.0,engine,8.0
+1950,19,Hillsboro,22.0,22.0,3.0,Jimmy Ayers,Jimmy Ayers,'50 Plymouth,–,,crash,0.0
+1950,19,Hillsboro,23.0,23.0,25.0,Coleman Grant,–,'49 Lincoln,–,,–,0.0
+1950,19,Hillsboro,24.0,17.0,53.0,Jack Reynolds,–,'50 Plymouth,–,,–,0.0
+1950,19,Hillsboro,25.0,3.0,38.0,Clyde Minter,Green Leaf Cafe / B.F. Goodrich (Clyde Minter),'47 Buick,–,,–,0.0
+1950,19,Hillsboro,26.0,29.0,62.0,Bill Rexford,Julian Buesink,'50 Oldsmobile,24,,engine,0.0
+1950,19,Hillsboro,27.0,27.0,101.0,Bucky Sager,Bucky Sager,'50 Plymouth,–,,–,0.0
+1950,19,Hillsboro,28.0,26.0,2.0,Jim Paschal,Hubert Westmoreland,'50 Oldsmobile,4,,brakes,0.0
+1950,19,Hillsboro,29.0,28.0,41.0,Curtis Turner,Eanes Motor Co. (John Eanes),'50 Oldsmobile,1,,engine,0.0

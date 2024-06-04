@@ -1,0 +1,1326 @@
+Season,Race,Track,Pos,St,#,Driver,Sponsor / Owner,Car,Laps,Money,Status,Led
+1951,1,Daytona Beach,1.0,6,6,Marshall Teague,Fabulous Hudson Hornet (Marshall Teague),'51 Hudson,39,1500.0,running,12.0
+1951,1,Daytona Beach,2.0,1,91,Tim Flock,Esquire Motors (Sam Knox),'50 Lincoln,39,1000.0,running,27.0
+1951,1,Daytona Beach,3.0,3,14,Fonty Flock,Red Devil (Frank Christian),'50 Oldsmobile,39,600.0,running,0.0
+1951,1,Daytona Beach,4.0,14,41.5,Bill Blair,Bill Blair,'49 Oldsmobile,–,550.0,running,0.0
+1951,1,Daytona Beach,5.0,7,87,Buck Baker,Griffin Motors (Bob Griffin),'50 Oldsmobile,–,450.0,running,0.0
+1951,1,Daytona Beach,6.0,9,55,Les Snow,Les Snow,'49 Lincoln,–,350.0,–,0.0
+1951,1,Daytona Beach,7.0,22,41,Curtis Turner,Nash Motor Co. (Nash Motor Co.),'51 Nash,–,250.0,–,0.0
+1951,1,Daytona Beach,8.0,30,16,Bill Snowden,Police Special (Bill Snowden),'50 Ford,–,200.0,–,0.0
+1951,1,Daytona Beach,9.0,16,98,Johnny Mantz,Don Willis Motors (Johnny Mantz),'51 Nash,–,175.0,–,0.0
+1951,1,Daytona Beach,10.0,8,59,Lloyd Moore,Julian Buesink,'51 Lincoln,–,150.0,–,0.0
+1951,1,Daytona Beach,11.0,13,1,Red Byron,Wally Marks,'50 Oldsmobile,–,50.0,–,0.0
+1951,1,Daytona Beach,12.0,21,83,Tommy Thompson,San Juan Motors (Tommy Thompson),'47 Chrysler,–,50.0,–,0.0
+1951,1,Daytona Beach,13.0,12,61,Bill Rexford,Julian Buesink,'50 Oldsmobile,–,50.0,–,0.0
+1951,1,Daytona Beach,14.0,–,68,Barney Smith,Barney Smith,'50 Plymouth,–,50.0,–,0.0
+1951,1,Daytona Beach,15.0,15,60,Don Eggert,Julian Buesink,'49 Ford,–,50.0,–,0.0
+1951,1,Daytona Beach,16.0,27,92,Herb Thomas,Herb Thomas,'50 Plymouth,–,50.0,–,0.0
+1951,1,Daytona Beach,17.0,19,25,Speedy Thompson,Leland Colvin,'50 Oldsmobile,–,50.0,–,0.0
+1951,1,Daytona Beach,18.0,–,77,Dick Linder,John Marcum,'51 Studebaker,–,50.0,–,0.0
+1951,1,Daytona Beach,19.0,28,144X,Len Fanelli,Len Fanelli,'50 Plymouth,–,50.0,–,0.0
+1951,1,Daytona Beach,20.0,32,86,Eddie Sheeler,–,'51 Hudson,–,50.0,–,0.0
+1951,1,Daytona Beach,21.0,–,138,Clyde Minter,B.F. Goodrich (Clyde Minter),'47 Buick,–,25.0,–,0.0
+1951,1,Daytona Beach,22.0,34,72,Weldon Adams,Harold Mays,'50 Plymouth,–,25.0,–,0.0
+1951,1,Daytona Beach,23.0,20,3,Rocky DiNatale,Chick DiNatale,'50 Oldsmobile,–,25.0,–,0.0
+1951,1,Daytona Beach,24.0,–,8,Billy Carden,Wheatley Motors (Al Wheatley),'49 Lincoln,–,25.0,–,0.0
+1951,1,Daytona Beach,25.0,33,101,Bucky Sager,Bucky Sager,'49 Plymouth,–,25.0,–,0.0
+1951,1,Daytona Beach,26.0,39,13,Elmer Wilson,Elmer Wilson,'50 Mercury,–,25.0,–,0.0
+1951,1,Daytona Beach,27.0,26,33,Fred Thompson,–,'51 Mercury,–,25.0,–,0.0
+1951,1,Daytona Beach,28.0,–,188,Don Oldenberg,Don Oldenberg,'50 Packard,–,25.0,–,0.0
+1951,1,Daytona Beach,29.0,38,2-B,Jack Smith,Hubert Westmoreland,'50 Plymouth,–,25.0,–,0.0
+1951,1,Daytona Beach,30.0,41,94,Buck Clardy,Louise Smith,'50 Nash,–,25.0,–,0.0
+1951,1,Daytona Beach,31.0,40,42,Lee Petty,Petty Special (Petty Enterprises),'49 Plymouth,–,25.0,–,0.0
+1951,1,Daytona Beach,32.0,44,81-A,Pappy Hough,Pappy Hough,'50 Ford,–,25.0,–,0.0
+1951,1,Daytona Beach,33.0,–,110,Jim Fiebelkorn,Jim Fiebelkorn,'49 Mercury,–,25.0,–,0.0
+1951,1,Daytona Beach,34.0,11,31,Carson Dyer,Carson Dyer,'50 Oldsmobile,–,25.0,spun,0.0
+1951,1,Daytona Beach,35.0,–,139,Ray Thompson,–,'51 Kaiser,–,25.0,–,0.0
+1951,1,Daytona Beach,36.0,31,94-A,Joe Rogers,–,'50 Oldsmobile,–,25.0,–,0.0
+1951,1,Daytona Beach,37.0,42,73,Ed Rooney,Ed Rooney,'47 Ford,–,25.0,–,0.0
+1951,1,Daytona Beach,38.0,17,32,Alton Haddock,Alton Haddock,'51 Lincoln,–,25.0,–,0.0
+1951,1,Daytona Beach,39.0,5,81,Ben Lalomia,–,'50 Oldsmobile,–,25.0,–,0.0
+1951,1,Daytona Beach,40.0,35,34,Tip R. Key,Tip R. Key,'51 Kaiser,–,25.0,–,0.0
+1951,1,Daytona Beach,41.0,29,25-A,Jimmy Thompson,Leland Colvin,'50 Lincoln,–,,–,0.0
+1951,1,Daytona Beach,42.0,–,23,Mike Klapak,Perry Smith,'51 Studebaker,–,,–,0.0
+1951,1,Daytona Beach,43.0,43,46,Gordon Harvey,J.P. Robertson,'51 Henry J,–,,–,0.0
+1951,1,Daytona Beach,44.0,4,9,Ed Samples,Sam Knox,'49 Lincoln,–,,–,0.0
+1951,1,Daytona Beach,45.0,–,85,Fireball Roberts,–,'50 Plymouth,–,,crash,0.0
+1951,1,Daytona Beach,46.0,25,56,Joe Jernigan,Lambert's Auto (Joe Jernigan),'49 Ford,–,,crash,0.0
+1951,1,Daytona Beach,47.0,–,28,Bill Holland,Nash Motor Co.,'51 Nash,–,,camshaft,0.0
+1951,1,Daytona Beach,48.0,36,67,Earl Coleman,Earl Coleman,'50 Pontiac,–,,–,0.0
+1951,1,Daytona Beach,49.0,37,111,Herschel Buchanan,Herschel Buchanan,'48 Nash,–,,–,0.0
+1951,1,Daytona Beach,50.0,18,70,Dawson Lechlider,Dawson Lechlider,'50 Oldsmobile,–,,–,0.0
+1951,1,Daytona Beach,51.0,23,57,Felix Wilkes,Felix Wilkes,'49 Hudson,–,,–,0.0
+1951,1,Daytona Beach,52.0,2,50,Gober Sosebee,Cherokee Garage (Gober Sosebee),'50 Oldsmobile,–,,engine,0.0
+1951,1,Daytona Beach,53.0,10,88,Frank Luptow,Rocket (Joe Winter),'50 Oldsmobile,–,,–,0.0
+1951,1,Daytona Beach,54.0,24,18,Eddie Anderson,Nash of Blue Island (Eddie Anderson),'51 Nash,–,,–,0.0
+1951,1,Daytona Beach,55.0,–,10,Ray Duhigg,Ray Duhigg,'50 Plymouth,–,,wheel,0.0
+1951,2,Charlotte,1.0,7.0,41.0,Curtis Turner,Nash Motor Co. (Nash Motor Co.),'51 Nash,150.0,1000.0,running,104.0
+1951,2,Charlotte,2.0,21.0,42.0,Lee Petty,Petty Special (Petty Enterprises),'49 Plymouth,150.0,700.0,running,0.0
+1951,2,Charlotte,3.0,4.0,6.0,Marshall Teague,Fabulous Hudson Hornet (Marshall Teague),'51 Hudson,148.0,450.0,running,0.0
+1951,2,Charlotte,4.0,10.0,92.0,Herb Thomas,Herb Thomas,'50 Plymouth,145.0,350.0,running,0.0
+1951,2,Charlotte,5.0,8.0,88.0,Frank Luptow,Rocket (Joe Winter),'50 Oldsmobile,143.0,200.0,running,0.0
+1951,2,Charlotte,6.0,20.0,72.0,Weldon Adams,Harold Mays,'50 Plymouth,142.0,150.0,–,0.0
+1951,2,Charlotte,7.0,26.0,77.0,Ewell Weddle,Al Wheatley,'49 Lincoln,142.0,125.0,–,0.0
+1951,2,Charlotte,8.0,11.0,11.0,Fireball Roberts,Sam Rice,'50 Oldsmobile,139.0,100.0,–,0.0
+1951,2,Charlotte,9.0,19.0,19.0,Joe Merola,Joe Merola,'51 Oldsmobile,137.0,75.0,–,0.0
+1951,2,Charlotte,10.0,33.0,10.0,Jim Fiebelkorn,Jim Fiebelkorn,'49 Mercury,136.0,50.0,–,0.0
+1951,2,Charlotte,11.0,25.0,0.0,Jimmie Lewallen,Buddy Teasley,'49 Lincoln,135.0,25.0,–,0.0
+1951,2,Charlotte,12.0,22.0,26.0,Bill Harrison,Bill Harrison,'49 Plymouth,133.0,25.0,–,0.0
+1951,2,Charlotte,13.0,36.0,97.0,Buddy Helms,Buddy Helms,'46 Hudson,132.0,25.0,–,0.0
+1951,2,Charlotte,14.0,9.0,98.0,Bill Holland,Southern 500 Winner (Hubert Westmoreland),'50 Plymouth,131.0,25.0,crash,0.0
+1951,2,Charlotte,15.0,12.0,89.0,John DuBoise,John DuBoise,'51 Plymouth,127.0,25.0,–,0.0
+1951,2,Charlotte,16.0,27.0,28.0,Slick Smith,–,'51 Plymouth,123.0,25.0,–,0.0
+1951,2,Charlotte,17.0,31.0,5.0,Ray Erickson,Ed Hastings,'49 Mercury,120.0,25.0,–,0.0
+1951,2,Charlotte,18.0,3.0,41.5,Bill Blair,Bill Blair,'50 Oldsmobile,117.0,25.0,wheel,0.0
+1951,2,Charlotte,19.0,28.0,55.0,Bub King,T.L. King,'49 Ford,98.0,25.0,–,0.0
+1951,2,Charlotte,20.0,1.0,14.0,Fonty Flock,Red Devil / Northside Body Shop (Frank Christian),'50 Oldsmobile,97.0,25.0,overheating,46.0
+1951,2,Charlotte,21.0,13.0,8.0,Bill Rexford,Julian Buesink,'49 Mercury,96.0,25.0,–,0.0
+1951,2,Charlotte,22.0,30.0,64.0,Ken Klutzz,–,'47 Ford,95.0,25.0,–,0.0
+1951,2,Charlotte,23.0,32.0,79.0,Ray Pruitt,Ray Pruitt,'50 Dodge,93.0,25.0,–,0.0
+1951,2,Charlotte,24.0,24.0,70.0,Lee Schneider,–,'51 Kaiser,64.0,25.0,–,0.0
+1951,2,Charlotte,25.0,23.0,38.0,Clyde Minter,Clyde Minter,'50 Chevrolet,59.0,25.0,–,0.0
+1951,2,Charlotte,26.0,29.0,15.0,James Ward,–,'50 Packard,55.0,25.0,–,0.0
+1951,2,Charlotte,27.0,16.0,12.0,Guy Waller,–,'50 Oldsmobile,52.0,25.0,–,0.0
+1951,2,Charlotte,28.0,18.0,60.0,Walt Sprague,Julian Buesink,'50 Mercury,46.0,25.0,–,0.0
+1951,2,Charlotte,29.0,34.0,39.0,John Barker,Chaney Motors (Ralph Chaney),'51 Henry J,40.0,25.0,–,0.0
+1951,2,Charlotte,30.0,15.0,25.0,Speedy Thompson,Leland Colvin,'50 Plymouth,39.0,25.0,–,0.0
+1951,2,Charlotte,31.0,17.0,80.0,Jim Paschal,Julian Buesink,'50 Oldsmobile,39.0,10.0,–,0.0
+1951,2,Charlotte,32.0,35.0,76.0,Lloyd Dennis,B-HAM (Lloyd Dennis),'51 Oldsmobile,39.0,10.0,crash,0.0
+1951,2,Charlotte,33.0,2.0,91.0,Tim Flock,Black Phantom (Ted Chester),'51 Oldsmobile,33.0,10.0,–,0.0
+1951,2,Charlotte,34.0,6.0,23.0,Frank Mundy,Perry Smith,'51 Studebaker,33.0,10.0,–,0.0
+1951,2,Charlotte,35.0,14.0,59.0,Lloyd Moore,Buesink Police Special (Julian Buesink),'49 Ford,22.0,10.0,–,0.0
+1951,2,Charlotte,36.0,38.0,57.0,Felix Wilkes,Felix Wilkes,'49 Hudson,18.0,10.0,–,0.0
+1951,2,Charlotte,37.0,5.0,9.0,Ed Samples,Sam Knox,'49 Lincoln,15.0,10.0,–,0.0
+1951,2,Charlotte,38.0,40.0,18.0,Eddie Anderson,Nash of Blue Island (Eddie Anderson),'51 Nash,8.0,10.0,–,0.0
+1951,2,Charlotte,39.0,39.0,110.0,Earl Moss,J.B. Watkins,'50 Ford,3.0,10.0,–,0.0
+1951,2,Charlotte,40.0,37.0,16.0,Cliff Woodson,–,'50 Oldsmobile,0.0,10.0,crash,0.0
+1951,3,Mobile,1.0,2.0,91.0,Tim Flock,Black Phantom (Ted Chester),'51 Oldsmobile,150,1000.0,running,148.0
+1951,3,Mobile,2.0,4.0,14.0,Fonty Flock,Red Devil (Frank Christian),'50 Oldsmobile,150,700.0,running,2.0
+1951,3,Mobile,3.0,19.0,92.0,Herb Thomas,Herb Thomas,'50 Plymouth,–,450.0,running,0.0
+1951,3,Mobile,4.0,16.0,9.0,Bill Osborne,–,'50 Oldsmobile,148,350.0,running,0.0
+1951,3,Mobile,5.0,21.0,93.0,Donald Thomas,Herb Thomas,'50 Plymouth,–,200.0,running,0.0
+1951,3,Mobile,6.0,6.0,19.0,Lamar Crabtree,–,'49 Ford,–,150.0,–,0.0
+1951,3,Mobile,7.0,15.0,42.0,Lee Petty,Petty Special (Petty Enterprises),'50 Plymouth,–,125.0,–,0.0
+1951,3,Mobile,8.0,20.0,7.0,Bob Flock,Ted Chester,'51 Plymouth,–,100.0,–,0.0
+1951,3,Mobile,9.0,7.0,8.0,Sonny Black,Sonny Black,'48 Ford,–,75.0,–,0.0
+1951,3,Mobile,10.0,24.0,3.0,Jimmy Ayers,Jimmy Ayers,'50 Plymouth,–,50.0,–,0.0
+1951,3,Mobile,11.0,17.0,88.0,Frank Luptow,Rocket (Joe Winter),'50 Oldsmobile,–,25.0,–,0.0
+1951,3,Mobile,12.0,3.0,0.0,James Ellis,–,'50 Mercury,–,25.0,–,0.0
+1951,3,Mobile,13.0,13.0,23.0,Bill Rexford,Perry Smith,'51 Studebaker,–,25.0,–,0.0
+1951,3,Mobile,14.0,14.0,30.0,Doug Wimpy,Chaney Motors (Ralph Chaney),'51 Henry J,–,25.0,–,0.0
+1951,3,Mobile,15.0,10.0,10.0,Willard Brooks,–,'49 Ford,–,25.0,–,0.0
+1951,3,Mobile,16.0,5.0,47.0,Ruel Smith,–,'51 Henry J,–,25.0,–,0.0
+1951,3,Mobile,17.0,9.0,41.0,Curtis Turner,Nash Motor Co. (Nash Motor Co.),'51 Nash,–,25.0,gas tank,0.0
+1951,3,Mobile,18.0,12.0,1.0,O.A. Dean,Julian Buesink,'49 Ford,–,25.0,–,0.0
+1951,3,Mobile,19.0,22.0,11.0,Fireball Roberts,Sam Rice,'50 Oldsmobile,–,25.0,–,0.0
+1951,3,Mobile,20.0,23.0,80.0,Gene Tapia,–,'48 Ford,–,25.0,–,0.0
+1951,3,Mobile,21.0,18.0,72.0,Weldon Adams,Harold Mays,'50 Plymouth,–,25.0,–,0.0
+1951,3,Mobile,22.0,8.0,45.0,Eddie Anderson,Nash of Blue Island (Eddie Anderson),'51 Nash,–,25.0,front end,0.0
+1951,3,Mobile,23.0,1.0,31.0,Red Harrelson,–,'47 Ford,–,25.0,–,0.0
+1951,3,Mobile,24.0,11.0,77.0,Bud Erb,–,'49 Plymouth,–,25.0,–,0.0
+1951,4,Gardena,1.0,2.0,6,Marshall Teague,Fabulous Hudson Hornet (Marshall Teague),'51 Hudson,200,1000.0,running,200.0
+1951,4,Gardena,2.0,6.0,98,Johnny Mantz,Johnny Mantz,'51 Nash,200,700.0,running,0.0
+1951,4,Gardena,3.0,8.0,2,George Seeger,Esquire Motors (Bill Cramer),'50 Plymouth,199,450.0,running,0.0
+1951,4,Gardena,4.0,10.0,16,Fred Steinbroner,Bob Carpenter,'48 Ford,–,350.0,running,0.0
+1951,4,Gardena,5.0,13.0,1,Erick Erickson,Advance Electric (Erick Erickson),'48 Pontiac,–,200.0,running,0.0
+1951,4,Gardena,6.0,3.0,9,Dick Meyer,Grant Sniffen,'50 Mercury,–,150.0,–,0.0
+1951,4,Gardena,7.0,5.0,12,Dick Rathmann,Warren Fraser,'50 Ford,–,125.0,–,0.0
+1951,4,Gardena,8.0,12.0,39,Danny Letner,Bert Letner,'50 Plymouth,–,100.0,–,0.0
+1951,4,Gardena,9.0,15.0,8,Leo Breithaupt,Dan Breithaupt,'48 Ford,–,75.0,–,0.0
+1951,4,Gardena,10.0,11.0,22,Lloyd Dane,Lloyd Dane,'49 Ford,–,50.0,–,0.0
+1951,4,Gardena,11.0,17.0,X,Frank Mundy,U-Drive-It Rental (Perry Smith),'50 Chevrolet,–,25.0,running,0.0
+1951,4,Gardena,12.0,19.0,17,Al Jacobs,Al Jacobs,'50 Ford,–,25.0,–,0.0
+1951,4,Gardena,13.0,16.0,28,Dudley Froy,Dudley Froy,'49 Plymouth,–,25.0,–,0.0
+1951,4,Gardena,14.0,18.0,19,Les Bomar,V-Gap Spark Plugs (Les Bomar),'49 Pontiac,–,25.0,–,0.0
+1951,4,Gardena,15.0,20.0,3,Stan Noble,Stan Noble,'51 Mercury,–,25.0,–,0.0
+1951,4,Gardena,16.0,14.0,7,Chuck Meekins,Speedway Auto Parts (Chuck Meekins),'49 Plymouth,–,25.0,–,0.0
+1951,4,Gardena,17.0,9.0,69,Fred Bince,Cliff Caldwell,'48 Ford,–,25.0,crash,0.0
+1951,4,Gardena,18.0,1.0,54,Andy Pierce,Upshaw's Garage (Andy Pierce),'48 Buick,–,25.0,crash,0.0
+1951,4,Gardena,19.0,4.0,4,Danny Weinberg,Coast Grain (Danny Weinberg),'48 Hudson,–,25.0,crash,0.0
+1951,4,Gardena,20.0,7.0,88,Woody Brown,Joe Mangini,'50 Oldsmobile,14,25.0,–,0.0
+1951,5,Hillsboro,1.0,1.0,14.0,Fonty Flock,Red Devil (Frank Christian),'50 Oldsmobile,95,1250.0,running,95.0
+1951,5,Hillsboro,2.0,7.0,23.0,Frank Mundy,Perry Smith,'51 Studebaker,95,800.0,running,0.0
+1951,5,Hillsboro,3.0,2.0,41.5,Bill Blair,Bill Blair,'50 Oldsmobile,–,600.0,running,0.0
+1951,5,Hillsboro,4.0,3.0,91.0,Tim Flock,Black Phantom (Ted Chester),'51 Oldsmobile,–,500.0,running,0.0
+1951,5,Hillsboro,5.0,5.0,52.0,Neil Cole,John Golabek,'50 Oldsmobile,–,300.0,running,0.0
+1951,5,Hillsboro,6.0,17.0,110.0,Earl Moss,Police Special (J.B. Watkins),'50 Ford,–,200.0,–,0.0
+1951,5,Hillsboro,7.0,9.0,92.0,Herb Thomas,Sanford Motors (Herb Thomas),'50 Plymouth,–,150.0,–,0.0
+1951,5,Hillsboro,8.0,13.0,71.0,Jim Paschal,Sam Rice,'49 Oldsmobile,–,125.0,–,0.0
+1951,5,Hillsboro,9.0,20.0,42.0,Lee Petty,Petty Special (Petty Enterprises),'49 Plymouth,–,100.0,–,0.0
+1951,5,Hillsboro,10.0,15.0,55.0,Glenn Dunaway,Glenn Dunaway,'50 Plymouth,–,100.0,–,0.0
+1951,5,Hillsboro,11.0,18.0,2.0,Ewell Weddle,Ewell Weddle,'50 Ford,–,25.0,–,0.0
+1951,5,Hillsboro,12.0,22.0,50.0,Bill Joslin,Bill Joslin,'49 Lincoln,–,25.0,–,0.0
+1951,5,Hillsboro,13.0,29.0,72.0,Weldon Adams,Harold Mays,'50 Plymouth,–,25.0,–,0.0
+1951,5,Hillsboro,14.0,4.0,11.0,Fireball Roberts,Sam Rice,'50 Oldsmobile,–,25.0,wheel,0.0
+1951,5,Hillsboro,15.0,31.0,66.0,Red Ryder,Pappy Hough,'49 Ford,–,25.0,–,0.0
+1951,5,Hillsboro,16.0,26.0,144.0,Johnny Grubb,Johnny Grubb,'50 Plymouth,–,25.0,–,0.0
+1951,5,Hillsboro,17.0,33.0,37.0,Coleman Lawrence,Mitchell Motor Co. (Coleman Lawrence),'50 Ford,–,25.0,–,0.0
+1951,5,Hillsboro,18.0,24.0,10.0,Jim Fiebelkorn,Jim Fiebelkorn,'49 Mercury,–,25.0,–,0.0
+1951,5,Hillsboro,19.0,19.0,60.0,Bill Rexford,Julian Buesink,'50 Mercury,–,25.0,wheels,0.0
+1951,5,Hillsboro,20.0,12.0,59.0,Lloyd Moore,Buesink Police Special (Julian Buesink),'49 Ford,–,25.0,overheating,0.0
+1951,5,Hillsboro,21.0,14.0,4.0,Joe Jernigan,Lambert's Auto (Joe Jernigan),'49 Ford,–,25.0,–,0.0
+1951,5,Hillsboro,22.0,30.0,19.0,Bill Schade,Bill Schade,'51 Oldsmobile,–,25.0,–,0.0
+1951,5,Hillsboro,23.0,28.0,90.0,Shorty York,Russ Loh,'50 Plymouth,–,25.0,–,0.0
+1951,5,Hillsboro,24.0,27.0,26.0,Jimmy Thompson,Leland Colvin,'50 Plymouth,–,25.0,–,0.0
+1951,5,Hillsboro,25.0,10.0,1.0,Walt Sprague,Police Special (J.B. Watkins),'49 Ford,–,25.0,overheating,0.0
+1951,5,Hillsboro,26.0,6.0,62.0,Pepper Cunningham,Pepper Cunningham,'51 Hudson,–,25.0,wheel,0.0
+1951,5,Hillsboro,27.0,21.0,41.0,Curtis Turner,Nash Motor Co. (Nash Motor Co.),'51 Nash,–,25.0,overheating,0.0
+1951,5,Hillsboro,28.0,23.0,45.0,Eddie Anderson,Nash of Blue Island (Eddie Anderson),'51 Nash,–,25.0,overheating,0.0
+1951,5,Hillsboro,29.0,25.0,15.0,Ben Dixon,Wesley McBell,'50 Lincoln,–,25.0,–,0.0
+1951,5,Hillsboro,30.0,11.0,9.0,Frank Luptow,Rocket (Joe Winter),'50 Oldsmobile,18,25.0,wheel,0.0
+1951,5,Hillsboro,31.0,16.0,98.0,Bill Holland,Southern 500 Winner (Hubert Westmoreland),'50 Plymouth,13,10.0,valve,0.0
+1951,5,Hillsboro,32.0,8.0,5.0,Ray Erickson,Ed Hastings,'49 Mercury,0,20.0,–,0.0
+1951,5,Hillsboro,33.0,32.0,79.0,Ray Pruitt,Ray Pruitt,'50 Dodge,0,10.0,–,0.0
+1951,6,Phoenix,1.0,–,6.0,Marshall Teague,Fabulous Hudson Hornet (Marshall Teague),'51 Hudson,150,1275.0,running,128.0
+1951,6,Phoenix,2.0,–,11.0,Erick Erickson,Advance Electric (Erick Erickson),'48 Pontiac,150,800.0,running,0.0
+1951,6,Phoenix,3.0,–,91.0,Tim Flock,Black Phantom (Ted Chester),'51 Oldsmobile,149,600.0,running,0.0
+1951,6,Phoenix,4.0,1,14.0,Fonty Flock,Red Devil (Frank Christian),'50 Oldsmobile,–,500.0,running,22.0
+1951,6,Phoenix,5.0,–,9.0,Dick Meyer,Grant Sniffen,'50 Mercury,–,300.0,running,0.0
+1951,6,Phoenix,6.0,11,4.0,Danny Weinberg,Coast Grain (Danny Weinberg),'51 Hudson,–,200.0,running,0.0
+1951,6,Phoenix,7.0,–,62.0,Ed Camrud,Douglas Ezell,'49 Mercury,–,150.0,running,0.0
+1951,6,Phoenix,8.0,–,18.0,Bill Holland,Brazee Used Cars,'51 Pontiac,–,125.0,running,0.0
+1951,6,Phoenix,9.0,–,12.0,George Seeger,Esquire Motors (Leland Colvin),'50 Ford,–,100.0,running,0.0
+1951,6,Phoenix,10.0,–,2.0,Bill Stammer,Charles Roscoe,'49 Plymouth,–,100.0,running,0.0
+1951,6,Phoenix,11.0,–,16.0,Fred Steinbroner,Bob Carpenter,'48 Ford,–,25.0,–,0.0
+1951,6,Phoenix,12.0,–,22.0,Lloyd Dane,Lloyd Dane,'49 Ford,–,25.0,–,0.0
+1951,6,Phoenix,13.0,–,28.0,Dudley Froy,Dudley Froy,'49 Plymouth,–,25.0,–,0.0
+1951,6,Phoenix,14.0,–,19.0,Hal Cole,Stephens Motors,'51 Plymouth,–,25.0,–,0.0
+1951,6,Phoenix,15.0,–,75.0,Bill Flatcher,Vaughn Motors Yuma,'51 Mercury,–,25.0,–,0.0
+1951,6,Phoenix,16.0,–,72.0,Bill Stickler,J & M Garage,'48 Hudson,–,25.0,–,0.0
+1951,6,Phoenix,17.0,12,69.0,Fred Bince,Cliff Caldwell,'48 Ford,–,25.0,running,0.0
+1951,6,Phoenix,18.0,–,23.0,Frank Oviado,–,'49 Ford,–,25.0,–,0.0
+1951,6,Phoenix,19.0,–,65.0,Pat Wade,P.V. McDonald,'47 Frazer,–,25.0,–,0.0
+1951,6,Phoenix,20.0,–,99.0,Al King,Golding Goodyear Tire,'49 Ford,71,25.0,crash,0.0
+1951,6,Phoenix,21.0,–,33.0,Lou Figaro,Jack Gaynor,'51 Hudson,–,25.0,wheel,0.0
+1951,6,Phoenix,22.0,–,92.0,Herb Thomas,Sanford Motors (Herb Thomas),'50 Plymouth,–,25.0,–,0.0
+1951,6,Phoenix,23.0,–,41.5,Bill Blair,Bill Blair,'50 Oldsmobile,–,25.0,–,0.0
+1951,6,Phoenix,24.0,–,77.0,Ernie Dietzman,Perkins Motors,'48 Hudson,–,25.0,–,0.0
+1951,6,Phoenix,25.0,–,26.0,Leland Colvin,Leland Colvin,'50 Plymouth,–,25.0,–,0.0
+1951,6,Phoenix,26.0,–,42.0,Lee Petty,Petty Special (Petty Enterprises),'50 Plymouth,–,25.0,–,0.0
+1951,6,Phoenix,27.0,–,3.0,Stan Noble,Stan Noble,'51 Mercury,–,25.0,–,0.0
+1951,6,Phoenix,28.0,–,120.0,Dick Rathmann,Walt Chapman,'50 Ford,–,25.0,–,0.0
+1951,6,Phoenix,29.0,–,98.0,Johnny Mantz,Johnny Mantz,'51 Nash,–,25.0,–,0.0
+1951,6,Phoenix,30.0,–,25.0,Bill Cheesbourg,–,'49 Lincoln,–,25.0,crash,0.0
+1951,6,Phoenix,31.0,–,10.0,Chuck Meekins,Speedway Auto Parts (Smith & Jones),'49 Plymouth,2,25.0,crash,0.0
+1951,6,Phoenix,32.0,–,1.0,Walt Sprague,Police Special (J.B. Watkins),'49 Ford,–,,–,0.0
+1951,6,Phoenix,33.0,–,54.0,Andy Pierce,Upshaw's Garage (Andy Pierce),'48 Buick,–,,–,0.0
+1951,7,North Wilkesboro,1.0,1.0,14,Fonty Flock,Red Devil (Frank Christian),'50 Oldsmobile,150,1000.0,running,150.0
+1951,7,North Wilkesboro,2.0,5.0,91,Tim Flock,Black Phantom (Ted Chester),'51 Oldsmobile,–,700.0,running,0.0
+1951,7,North Wilkesboro,3.0,17.0,42,Lee Petty,Petty Special (Petty Enterprises),'49 Plymouth,–,450.0,running,0.0
+1951,7,North Wilkesboro,4.0,10.0,98,Bill Holland,Hubert Westmoreland,'50 Plymouth,–,350.0,running,0.0
+1951,7,North Wilkesboro,5.0,13.0,93,Donald Thomas,Herb Thomas,'50 Plymouth,–,200.0,running,0.0
+1951,7,North Wilkesboro,6.0,29.0,59,Lloyd Moore,Julian Buesink,'49 Ford,–,150.0,–,0.0
+1951,7,North Wilkesboro,7.0,20.0,60,Jimmie Lewallen,Julian Buesink,'49 Ford,–,125.0,–,0.0
+1951,7,North Wilkesboro,8.0,15.0,155,Glenn Dunaway,Glenn Dunaway,'50 Plymouth,–,100.0,–,0.0
+1951,7,North Wilkesboro,9.0,34.0,5,Dale Williams,Ed Hastings,'49 Mercury,–,75.0,–,0.0
+1951,7,North Wilkesboro,10.0,32.0,83,Jimmy Ayers,Jimmy Ayers,'50 Plymouth,–,50.0,–,0.0
+1951,7,North Wilkesboro,11.0,19.0,10,Jim Fiebelkorn,Jim Fiebelkorn,'49 Mercury,–,25.0,–,0.0
+1951,7,North Wilkesboro,12.0,37.0,69,Dawson Lechlider,Dawson Lechlider,'50 Oldsmobile,–,25.0,–,0.0
+1951,7,North Wilkesboro,13.0,12.0,92,Herb Thomas,Herb Thomas,'50 Plymouth,–,25.0,crash,0.0
+1951,7,North Wilkesboro,14.0,22.0,50,Bill Rexford,Julian Buesink,'50 Mercury,–,25.0,–,0.0
+1951,7,North Wilkesboro,15.0,28.0,4,Ed Massey,–,'50 Plymouth,–,25.0,–,0.0
+1951,7,North Wilkesboro,16.0,27.0,19,Bill Schade,Bill Schade,'51 Oldsmobile,–,25.0,–,0.0
+1951,7,North Wilkesboro,17.0,38.0,87,Jack Holloway,Jack Holloway,'50 Plymouth,–,25.0,–,0.0
+1951,7,North Wilkesboro,18.0,33.0,26,Leland Colvin,Leland Colvin,'50 Plymouth,–,25.0,–,0.0
+1951,7,North Wilkesboro,19.0,24.0,74,Paul Stanley,–,'49 Oldsmobile,–,25.0,–,0.0
+1951,7,North Wilkesboro,20.0,36.0,37,Coleman Lawrence,Coleman Lawrence,'50 Ford,–,25.0,–,0.0
+1951,7,North Wilkesboro,21.0,30.0,55,Bub King,Bub King,'50 Plymouth,–,25.0,crash,0.0
+1951,7,North Wilkesboro,22.0,14.0,90,Shorty York,Russ Loh,'50 Plymouth,–,25.0,crash,0.0
+1951,7,North Wilkesboro,23.0,6.0,62,Pepper Cunningham,Pepper Cunningham,'51 Hudson,–,25.0,–,0.0
+1951,7,North Wilkesboro,24.0,9.0,41.5,Bill Blair,Bill Blair,'50 Oldsmobile,–,25.0,engine,0.0
+1951,7,North Wilkesboro,25.0,25.0,39,John Barker,Chaney Motors (Ralph Chaney),'51 Henry J,–,25.0,–,0.0
+1951,7,North Wilkesboro,26.0,21.0,16,Bill Snowden,Bill Snowden,'48 Ford,–,25.0,–,0.0
+1951,7,North Wilkesboro,27.0,7.0,41,Curtis Turner,Eanes Motor Co. (John Eanes),'50 Oldsmobile,65,25.0,wheel,0.0
+1951,7,North Wilkesboro,28.0,2.0,23,Frank Mundy,Perry Smith,'51 Studebaker,–,25.0,shocks,0.0
+1951,7,North Wilkesboro,29.0,16.0,110,Earl Moss,Police Special (J.B. Watkins),'50 Ford,–,25.0,–,0.0
+1951,7,North Wilkesboro,30.0,26.0,78,Claude Joyce,Ewell Weddle,'49 Lincoln,–,25.0,–,0.0
+1951,7,North Wilkesboro,31.0,23.0,72,Weldon Adams,Harold Mays,'50 Plymouth,–,10.0,–,0.0
+1951,7,North Wilkesboro,32.0,11.0,25,Dick Linder,Don Rogala,'50 Oldsmobile,–,10.0,–,0.0
+1951,7,North Wilkesboro,33.0,35.0,J-6,Bob Walters,Lloyd Dennis,'51 Henry J,–,10.0,–,0.0
+1951,7,North Wilkesboro,34.0,18.0,2,Ewell Weddle,–,'51 Hudson,–,10.0,–,0.0
+1951,7,North Wilkesboro,35.0,31.0,71,Ben Dixon,Wesley McBell,'49 Lincoln,–,10.0,–,0.0
+1951,7,North Wilkesboro,36.0,4.0,33,Lou Figaro,Jack Gaynor,'47 Hudson,–,10.0,–,0.0
+1951,7,North Wilkesboro,37.0,8.0,38,Clyde Minter,B.F. Goodrich (Clyde Minter),'47 Buick,–,10.0,–,0.0
+1951,7,North Wilkesboro,38.0,3.0,11,Fireball Roberts,Sam Rice,'50 Oldsmobile,3,10.0,fuel line,0.0
+1951,8,Martinsville,1.0,7.0,41,Curtis Turner,Eanes Motor Co. (John Eanes),'50 Oldsmobile,200,1000.0,running,81.0
+1951,8,Martinsville,2.0,6.0,23,Frank Mundy,Perry Smith,'51 Studebaker,–,700.0,running,0.0
+1951,8,Martinsville,3.0,1.0,91,Tim Flock,General Auto Sales (Ted Chester),'51 Oldsmobile,–,450.0,running,10.0
+1951,8,Martinsville,4.0,28.0,92,Herb Thomas,Herb Thomas,'50 Plymouth,–,350.0,running,0.0
+1951,8,Martinsville,5.0,2.0,14,Fonty Flock,Red Devil (Frank Christian),'50 Oldsmobile,–,200.0,spindle,26.0
+1951,8,Martinsville,6.0,15.0,42,Lee Petty,Petty Special (Petty Enterprises),'49 Plymouth,–,150.0,–,0.0
+1951,8,Martinsville,7.0,24.0,1,Walt Sprague,Police Special (J.B. Watkins),'49 Ford,–,125.0,–,0.0
+1951,8,Martinsville,8.0,8.0,2,Bill Blair,Bill Blair,'50 Oldsmobile,–,100.0,–,0.0
+1951,8,Martinsville,9.0,31.0,26,Leland Colvin,Leland Colvin,'50 Plymouth,–,75.0,–,0.0
+1951,8,Martinsville,10.0,21.0,7,Bob Flock,Ted Chester,'51 Plymouth,187,50.0,crash,0.0
+1951,8,Martinsville,11.0,30.0,90,Jack Holloway,Jack Holloway,'50 Plymouth,–,25.0,–,0.0
+1951,8,Martinsville,12.0,32.0,39,John Barker,Chaney Motors (Ralph Chaney),'51 Henry J,–,25.0,–,0.0
+1951,8,Martinsville,13.0,23.0,53,Clyde Minter,Lee Coonis,'50 Ford,–,25.0,–,0.0
+1951,8,Martinsville,14.0,14.0,55,Bub King,Bub King,'50 Plymouth,–,25.0,–,0.0
+1951,8,Martinsville,15.0,22.0,155,Glenn Dunaway,Glenn Dunaway,'50 Plymouth,–,25.0,–,0.0
+1951,8,Martinsville,16.0,35.0,5,Bill Rexford,Julian Buesink,'49 Mercury,–,25.0,–,0.0
+1951,8,Martinsville,17.0,33.0,37,Coleman Lawrence,Coleman Lawrence,'50 Ford,–,25.0,–,0.0
+1951,8,Martinsville,18.0,20.0,74,Paul Stanley,–,'49 Oldsmobile,–,25.0,–,0.0
+1951,8,Martinsville,19.0,3.0,62,Pepper Cunningham,Pepper Cunningham,'51 Hudson,–,25.0,–,0.0
+1951,8,Martinsville,20.0,10.0,33,Lou Figaro,Jack Gaynor,'47 Hudson,–,25.0,–,0.0
+1951,8,Martinsville,21.0,19.0,59,Lloyd Moore,Julian Buesink,'49 Ford,–,25.0,–,0.0
+1951,8,Martinsville,22.0,34.0,J-6,Bob Walters,Lloyd Dennis,'51 Henry J,–,25.0,–,0.0
+1951,8,Martinsville,23.0,4.0,6,Marshall Teague,Fabulous Hudson Hornet (Marshall Teague),'51 Hudson,125,25.0,crash,83.0
+1951,8,Martinsville,24.0,27.0,12,Erick Erickson,Packer (Erick Erickson),'47 Pontiac,–,25.0,–,0.0
+1951,8,Martinsville,25.0,18.0,38,Bill Lawrence,B.F. Goodrich (Clyde Minter),'47 Buick,–,25.0,–,0.0
+1951,8,Martinsville,26.0,17.0,69,Dawson Lechlider,Dawson Lechlider,'50 Oldsmobile,–,25.0,–,0.0
+1951,8,Martinsville,27.0,16.0,110,Earl Moss,Police Special (J.B. Watkins),'50 Ford,110,25.0,crash,0.0
+1951,8,Martinsville,28.0,25.0,50,Bill Joslin,Bill Joslin,'49 Mercury,108,25.0,crash,0.0
+1951,8,Martinsville,29.0,26.0,8,Bill Holluck,Wheatley Motors (Al Wheatley),'49 Mercury,–,25.0,–,0.0
+1951,8,Martinsville,30.0,12.0,98,Bill Holland,Hubert Westmoreland,'50 Plymouth,–,25.0,–,0.0
+1951,8,Martinsville,31.0,13.0,60,Jim Paschal,Julian Buesink,'50 Ford,–,10.0,–,0.0
+1951,8,Martinsville,32.0,5.0,11,Fireball Roberts,Sam Rice,'50 Oldsmobile,–,10.0,–,0.0
+1951,8,Martinsville,33.0,11.0,10,Jim Fiebelkorn,Jim Fiebelkorn,'49 Mercury,56,10.0,crash,0.0
+1951,8,Martinsville,34.0,9.0,2,Ewell Weddle,–,'48 Ford,–,10.0,–,0.0
+1951,8,Martinsville,35.0,29.0,93,Donald Thomas,Herb Thomas,'50 Plymouth,–,10.0,–,0.0
+1951,9,Canfield,1.0,4,6.0,Marshall Teague,Fabulous Hudson Hornet (Marshall Teague),'51 Hudson,200,1000.0,running,–
+1951,9,Canfield,2.0,2,91.0,Tim Flock,Black Phantom (Ted Chester),'51 Oldsmobile,197,700.0,running,–
+1951,9,Canfield,3.0,5,14.0,Fonty Flock,Red Devil (Frank Christian),'50 Oldsmobile,–,450.0,running,–
+1951,9,Canfield,4.0,–,92.0,Herb Thomas,Herb Thomas,'50 Plymouth,–,350.0,running,–
+1951,9,Canfield,5.0,–,42.0,Lee Petty,Petty Special (Petty Enterprises),'49 Plymouth,–,200.0,running,–
+1951,9,Canfield,6.0,9,7.0,Bob Flock,Ted Chester,'51 Plymouth,–,150.0,–,–
+1951,9,Canfield,7.0,6,23.0,Frank Mundy,W. Perry Smith Motors (Perry Smith),'51 Studebaker,–,125.0,–,–
+1951,9,Canfield,8.0,–,77.0,Mike Klapak,John Marcum,'51 Nash,–,100.0,crash,–
+1951,9,Canfield,9.0,–,120.0,Dick Rathmann,Walt Chapman,'51 Hudson,–,75.0,–,–
+1951,9,Canfield,10.0,10,65.0,Don Eggert,Julian Buesink,'50 Ford,–,50.0,crash,–
+1951,9,Canfield,11.0,–,,Nook Walters,–,'50 Mercury,–,25.0,–,–
+1951,9,Canfield,12.0,–,10.0,Jim Fiebelkorn,Jim Fiebelkorn,'49 Mercury,–,25.0,–,–
+1951,9,Canfield,13.0,–,,Bill Cheesbourg,–,'49 Lincoln,–,25.0,–,–
+1951,9,Canfield,14.0,–,,Owen Jones,–,'49 Ford,–,25.0,–,–
+1951,9,Canfield,15.0,–,17.0,Jim Romine,–,'51 Henry J,–,25.0,–,–
+1951,9,Canfield,16.0,3,26.0,Jim Delaney,Bob Osiecki,'48 Ford,–,25.0,–,–
+1951,9,Canfield,17.0,–,,Walt Hartman,–,'50 Plymouth,–,25.0,–,–
+1951,9,Canfield,18.0,–,33.0,Lou Figaro,Jack Gaynor,'47 Hudson,–,25.0,–,–
+1951,9,Canfield,19.0,–,,Ray Erickson,–,'50 Oldsmobile,–,25.0,–,–
+1951,9,Canfield,20.0,–,,Eddie Lenz,–,'47 Ford,–,25.0,–,–
+1951,9,Canfield,21.0,1,60.0,Bill Rexford,Julian Buesink,'51 Oldsmobile,115,25.0,crash,–
+1951,9,Canfield,22.0,–,,Mike Little,–,'51 Chrysler,–,25.0,–,–
+1951,9,Canfield,23.0,–,,Leo Caldwell,–,'50 Plymouth,–,25.0,–,–
+1951,9,Canfield,24.0,–,,Bob Matson,–,'51 Studebaker,–,25.0,–,–
+1951,9,Canfield,25.0,–,777.0,Jimmy Longo,Jimmy Longo,'51 Hudson,–,25.0,–,–
+1951,9,Canfield,26.0,–,25.0,Dick Linder,Don Rogala,'50 Oldsmobile,–,25.0,–,–
+1951,9,Canfield,27.0,–,,Dick Stone,–,'50 Ford,–,25.0,–,–
+1951,9,Canfield,28.0,–,,Jack Goodwin,Frank Carlini,'51 Studebaker,–,25.0,–,–
+1951,9,Canfield,29.0,–,12.0,Erick Erickson,Packer (Erick Erickson),'47 Pontiac,–,25.0,–,–
+1951,9,Canfield,30.0,–,,Jimmy Florian,Don Rogala,'50 Oldsmobile,–,25.0,–,–
+1951,9,Canfield,31.0,–,,Mike Ernest,–,'50 Oldsmobile,–,10.0,–,–
+1951,9,Canfield,32.0,–,62.0,Pepper Cunningham,Pepper Cunningham,'51 Hudson,–,10.0,–,–
+1951,9,Canfield,33.0,–,,Bob Greer,Bob Greer,'50 Plymouth,–,10.0,–,–
+1951,9,Canfield,34.0,–,,Jack Fleming,–,'50 Ford,–,10.0,–,–
+1951,9,Canfield,35.0,–,1.0,Walt Sprague,Police Special (J.B. Watkins),'49 Ford,–,10.0,–,–
+1951,9,Canfield,36.0,–,,Bob Jeffries,–,'51 Ford,–,10.0,–,–
+1951,9,Canfield,37.0,–,,Bob Shaw,–,'51 Kaiser,–,10.0,–,–
+1951,9,Canfield,38.0,8,59.0,Lloyd Moore,Julian Buesink,'49 Oldsmobile,–,10.0,–,–
+1951,10,Columbus,1.0,2,91.0,Tim Flock,General Auto Sales (Ted Chester),'51 Oldsmobile,200,1000.0,running,–
+1951,10,Columbus,2.0,1,51.0,Gober Sosebee,West Peach Motors (Sam Knox),'50 Cadillac,–,700.0,running,–
+1951,10,Columbus,3.0,–,92.0,Herb Thomas,Sanford Motors (Herb Thomas),'50 Plymouth,–,450.0,running,–
+1951,10,Columbus,4.0,–,60.0,Jim Paschal,Wheatley Motors (Julian Buesink),'50 Ford,–,350.0,running,–
+1951,10,Columbus,5.0,–,42.0,Lee Petty,Petty Special (Petty Enterprises),'49 Plymouth,–,200.0,running,–
+1951,10,Columbus,6.0,4,22.0,Red Byron,Dantone Racing Stable (B.J. Dantone),'51 Ford,–,150.0,–,–
+1951,10,Columbus,7.0,–,93.0,Donald Thomas,Herb Thomas,'50 Plymouth,–,125.0,–,–
+1951,10,Columbus,8.0,–,23.0,Frank Mundy,Perry Smith,'51 Studebaker,–,100.0,–,–
+1951,10,Columbus,9.0,–,83.0,Jimmy Ayers,Jimmy Ayers,'50 Plymouth,–,75.0,–,–
+1951,10,Columbus,10.0,–,4.0,Ed Massey,–,'50 Plymouth,–,50.0,–,–
+1951,10,Columbus,11.0,–,,Carson Dyer,Carson Dyer,'51 Ford,–,25.0,–,–
+1951,10,Columbus,12.0,–,28.0,Slick Smith,–,'51 Plymouth,–,25.0,–,–
+1951,10,Columbus,13.0,–,41.0,Gayle Warren,Blevins Motor Co. (Earl Blevins),'51 Studebaker,–,25.0,–,–
+1951,10,Columbus,14.0,–,,Weldon Adams,Harold Mays,'50 Plymouth,–,25.0,–,–
+1951,10,Columbus,15.0,–,2.0,Bill Blair,Bill Blair,'50 Oldsmobile,–,25.0,–,–
+1951,10,Columbus,16.0,–,26.0,Leland Colvin,Leland Colvin,'50 Plymouth,–,25.0,–,–
+1951,10,Columbus,17.0,–,,C.H. Dingler,C.H. Dingler,'49 Plymouth,–,25.0,–,–
+1951,10,Columbus,18.0,–,97.0,Bud Erb,Erb's Painting,'50 Mercury,–,25.0,–,–
+1951,10,Columbus,19.0,–,,Pug Blalock,–,'50 Mercury,–,25.0,–,–
+1951,10,Columbus,20.0,–,50.0,Bill Joslin,Bill Joslin,'50 Mercury,–,25.0,–,–
+1951,10,Columbus,21.0,–,,John Barker,Leo Sigman,'51 Studebaker,–,25.0,–,–
+1951,10,Columbus,22.0,–,,Walt Hartman,–,'51 Plymouth,–,25.0,–,–
+1951,10,Columbus,23.0,–,72.0,Wade Fields,Harold Mays,'50 Plymouth,–,25.0,–,–
+1951,10,Columbus,24.0,23,11.0,Fireball Roberts,Sam Rice,'50 Oldsmobile,96,25.0,crash,–
+1951,10,Columbus,25.0,6,14.0,Fonty Flock,Red Devil (Frank Christian),'50 Oldsmobile,96,25.0,crash,–
+1951,10,Columbus,26.0,–,,Lou Figaro,–,'51 Oldsmobile,–,25.0,–,–
+1951,10,Columbus,27.0,–,,Tommy Wells,–,'51 Henry J,81,25.0,crash,–
+1951,10,Columbus,28.0,–,87.0,Buck Baker,Buck Baker,'50 Plymouth,–,25.0,–,–
+1951,10,Columbus,29.0,–,7.0,Bob Flock,Ted Chester,'50 Lincoln,–,25.0,–,–
+1951,10,Columbus,30.0,–,,Leo Sigman,Leo Sigman,'51 Henry J,–,25.0,–,–
+1951,10,Columbus,31.0,3,6.0,Marshall Teague,Fabulous Hudson Hornet (Marshall Teague),'51 Hudson,11,10.0,injury,–
+1951,11,Columbia,1.0,1,23,Frank Mundy,Perry Smith,'51 Studebaker,200,1000.0,running,167.0
+1951,11,Columbia,2.0,–,98,Bill Blair,Hubert Westmoreland,'50 Plymouth,199,700.0,running,0.0
+1951,11,Columbia,3.0,8,6,Marshall Teague,Fabulous Hudson Hornet (Marshall Teague),'51 Hudson,–,450.0,running,0.0
+1951,11,Columbia,4.0,–,92,Herb Thomas,Herb Thomas,'50 Plymouth,–,350.0,running,0.0
+1951,11,Columbia,5.0,–,87,Buck Baker,Buck Baker,'50 Plymouth,–,200.0,running,0.0
+1951,11,Columbia,6.0,–,60,Jim Paschal,Julian Buesink,'50 Ford,–,150.0,running,33.0
+1951,11,Columbia,7.0,4,91,Tim Flock,Black Phantom (Ted Chester),'50 Oldsmobile,–,125.0,running,0.0
+1951,11,Columbia,8.0,5,16,Bill Snowden,Bill Snowden,'50 Ford,–,100.0,running,0.0
+1951,11,Columbia,9.0,9,72,Weldon Adams,Harold Mays,'50 Plymouth,–,75.0,running,0.0
+1951,11,Columbia,10.0,–,,Jimmy Ayers,–,'50 Plymouth,–,50.0,running,0.0
+1951,11,Columbia,11.0,–,50,Bill Joslin,Bill Joslin,'50 Mercury,–,25.0,–,0.0
+1951,11,Columbia,12.0,12,14,Fonty Flock,Red Devil (Frank Christian),'50 Oldsmobile,–,25.0,–,0.0
+1951,11,Columbia,13.0,–,7,Bob Flock,Ted Chester,'50 Plymouth,–,25.0,–,0.0
+1951,11,Columbia,14.0,6,,Lou Figaro,–,'51 Oldsmobile,–,25.0,–,0.0
+1951,11,Columbia,15.0,–,22,Gober Sosebee,West Peach Motors (Sam Knox),'50 Cadillac,–,25.0,–,0.0
+1951,11,Columbia,16.0,–,,Paul Pettit,–,'50 Plymouth,–,25.0,–,0.0
+1951,11,Columbia,17.0,–,,Charles Gillman,–,'51 Hudson,–,25.0,–,0.0
+1951,11,Columbia,18.0,11,,Jack McClure,–,'51 Henry J,–,25.0,–,0.0
+1951,11,Columbia,19.0,–,,Jimmy Ingram,–,'51 Henry J,–,25.0,–,0.0
+1951,11,Columbia,20.0,–,42,Lee Petty,Petty Special (Petty Enterprises),'50 Plymouth,–,25.0,–,0.0
+1951,11,Columbia,21.0,–,4,Ed Massey,–,'50 Plymouth,–,25.0,–,0.0
+1951,11,Columbia,22.0,7,10,Ted Swaim,Julian Buesink,'51 Ford,–,25.0,crash,0.0
+1951,11,Columbia,23.0,–,,Tommy Wells,–,'51 Henry J,–,25.0,–,0.0
+1951,11,Columbia,24.0,–,,Walt Hartman,–,'50 Plymouth,–,25.0,–,0.0
+1951,11,Columbia,25.0,–,56,C.H. Dingler,C.H. Dingler,'50 Plymouth,–,25.0,–,0.0
+1951,11,Columbia,26.0,–,93,Donald Thomas,Herb Thomas,'50 Plymouth,–,25.0,–,0.0
+1951,11,Columbia,27.0,–,J-6,Bob Walters,Lloyd Dennis,'51 Henry J,–,25.0,–,0.0
+1951,11,Columbia,28.0,–,55,June Cleveland,D.G. Hall,'48 Buick,–,25.0,crash,0.0
+1951,11,Columbia,29.0,–,,Leo Sigman,Leo Sigman,'51 Henry J,–,25.0,–,0.0
+1951,11,Columbia,30.0,–,83,Red Byron,Dantone Racing Stable (B.J. Dantone),'51 Ford,–,25.0,crash,0.0
+1951,11,Columbia,31.0,3,120,Dick Rathmann,Walt Chapman,'51 Hudson,–,10.0,–,0.0
+1951,11,Columbia,32.0,–,,John Barker,Leo Sigman,'51 Studebaker,–,10.0,–,0.0
+1951,11,Columbia,33.0,2,82,Joe Eubanks,Oates Motor Co. (Phil Oates),'50 Oldsmobile,–,10.0,–,0.0
+1951,11,Columbia,34.0,10,26,Leland Colvin,Leland Colvin,'50 Plymouth,–,10.0,–,0.0
+1951,12,Dayton,1.0,6,41.0,Curtis Turner,Eanes Motor Co. (John Eanes),'51 Oldsmobile,200,1000.0,running,177.0
+1951,12,Dayton,2.0,2,120.0,Dick Rathmann,Walt Chapman,'51 Hudson,200,700.0,running,0.0
+1951,12,Dayton,3.0,1,91.0,Tim Flock,Black Phantom / General Auto Sales (Ted Chester),'51 Oldsmobile,–,450.0,running,23.0
+1951,12,Dayton,4.0,4,14.0,Fonty Flock,Red Devil / Northside Body Shop (Frank Christian),'51 Oldsmobile,–,350.0,running,0.0
+1951,12,Dayton,5.0,10,59.0,Lloyd Moore,Julian Buesink,'51 Ford,–,200.0,running,0.0
+1951,12,Dayton,6.0,–,6.0,Marshall Teague,Fabulous Hudson Hornet (Marshall Teague),'51 Hudson,–,150.0,running,0.0
+1951,12,Dayton,7.0,–,1.0,Walt Sprague,Julian Buesink,'51 Oldsmobile,–,125.0,wheel,0.0
+1951,12,Dayton,8.0,–,55.0,Bub King,Bub King,'51 Plymouth,–,100.0,–,0.0
+1951,12,Dayton,9.0,–,60.0,Don Eggert,Julian Buesink,'50 Ford,–,75.0,–,0.0
+1951,12,Dayton,10.0,–,51.0,Red Harvey,–,'50 Oldsmobile,–,50.0,hub,0.0
+1951,12,Dayton,11.0,–,72.0,Wade Fields,Wade Fields,'50 Ford,–,25.0,–,0.0
+1951,12,Dayton,12.0,–,42.0,Lee Petty,Petty Special (Petty Enterprises),'50 Plymouth,–,25.0,–,0.0
+1951,12,Dayton,13.0,–,37.0,Gene Comstock,Gene Comstock,'50 Oldsmobile,–,25.0,–,0.0
+1951,12,Dayton,14.0,–,54.0,Don Bailey,Don Bailey,'50 Oldsmobile,–,25.0,–,0.0
+1951,12,Dayton,15.0,–,,V.E. Miller,–,'50 Ford,–,25.0,–,0.0
+1951,12,Dayton,16.0,–,22.0,Bob Green,–,'50 Oldsmobile,–,25.0,–,0.0
+1951,12,Dayton,17.0,–,10.0,Jim Fiebelkorn,Jim Fiebelkorn,'51 Mercury,–,25.0,–,0.0
+1951,12,Dayton,18.0,–,,Jack White,–,'50 Ford,–,25.0,–,0.0
+1951,12,Dayton,19.0,–,,Dick Stone,–,'50 Ford,–,25.0,–,0.0
+1951,12,Dayton,20.0,–,27.0,Jimmy Florian,Euclid Motor Co. (Jimmy Florian),'50 Ford,–,25.0,–,0.0
+1951,12,Dayton,21.0,3,33.0,Wally Campbell,Wally Marks,'50 Oldsmobile,–,25.0,–,0.0
+1951,12,Dayton,22.0,5,21.0,Lou Figaro,Jack Gaynor,'51 Hudson,–,25.0,–,0.0
+1951,12,Dayton,23.0,–,23.0,Frank Mundy,Perry Smith,'51 Studebaker,–,25.0,–,0.0
+1951,12,Dayton,24.0,–,92.0,Herb Thomas,Herb Thomas,'50 Plymouth,–,25.0,–,0.0
+1951,12,Dayton,25.0,–,98.0,Ray Duhigg,Southern 500 (Ray Duhigg),'51 Plymouth,–,25.0,–,0.0
+1951,12,Dayton,26.0,28,35.0,Mike Klapak,Mike Klapak,'51 Nash,–,25.0,–,0.0
+1951,12,Dayton,27.0,–,17.0,Bob Greer,Bob Greer,'51 Plymouth,–,25.0,–,0.0
+1951,12,Dayton,28.0,29,22.0,Oda Greene,Harold Lucas,'51 Hudson,–,25.0,–,0.0
+1951,12,Dayton,29.0,–,135.0,Bill Majot,Jim White,'50 Chevrolet,–,25.0,–,0.0
+1951,12,Dayton,30.0,–,58.0,Bob Shaw,–,'51 Kaiser,–,25.0,–,0.0
+1951,12,Dayton,31.0,–,16.0,Bill Snowden,Bill Snowden,'50 Ford,–,,–,0.0
+1951,12,Dayton,32.0,–,3.0,Jimmy Ayers,Jimmy Ayers,'50 Plymouth,–,,–,0.0
+1951,12,Dayton,33.0,–,67.0,Bob Jeffries,–,'51 Ford,–,,–,0.0
+1951,12,Dayton,34.0,–,171.0,Jim Romine,–,'51 Henry J,12,,crash,0.0
+1951,12,Dayton,35.0,–,777.0,Jimmy Longo,Jimmy Longo,'51 Hudson,–,,–,0.0
+1951,12,Dayton,36.0,–,36.0,Jack Goodwin,Frank Carlini,'51 Studebaker,1,,crash,0.0
+1951,12,Dayton,37.0,–,62.0,Pepper Cunningham,Pepper Cunningham,'51 Hudson,1,,crash,0.0
+1951,12,Dayton,38.0,–,,Eddie Lenz,–,'47 Ford,0,,did not start,0.0
+1951,12,Dayton,39.0,–,5.0,Mike Ernest,–,'50 Oldsmobile,0,,did not start,0.0
+1951,13,Gardena,1.0,1.0,33,Lou Figaro,Jack Gaynor,'51 Hudson,200,1000.0,running,200.0
+1951,13,Gardena,2.0,9.0,7,Chuck Meekins,Speedway Auto Sales (Chuck Meekins),'50 Plymouth,200,700.0,running,0.0
+1951,13,Gardena,3.0,8.0,22,Lloyd Dane,Lloyd Dane,'50 Ford,–,450.0,running,0.0
+1951,13,Gardena,4.0,12.0,11,Fred Bince,Advance Electric (Cliff Caldwell),'50 Pontiac,–,450.0,running,0.0
+1951,13,Gardena,5.0,22.0,16,Fred Steinbroner,Bob Carpenter,'48 Ford,–,200.0,running,0.0
+1951,13,Gardena,6.0,3.0,1,Erick Erickson,Advance Electric (Erick Erickson),'50 Pontiac,–,150.0,running,0.0
+1951,13,Gardena,7.0,14.0,14,Hal Cole,–,'50 Mercury,–,125.0,running,0.0
+1951,13,Gardena,8.0,7.0,98,Freddie Farmer,Johnny Mantz,'51 Nash,–,100.0,running,0.0
+1951,13,Gardena,9.0,16.0,18,Bill Stammer,Charles Roscoe,'49 Plymouth,–,75.0,running,0.0
+1951,13,Gardena,10.0,18.0,27,Jim Byrd,El Paso Special,'49 Buick,–,50.0,running,0.0
+1951,13,Gardena,11.0,11.0,4,Hershel McGriff,Hershel McGriff,Oldsmobile,–,25.0,running,0.0
+1951,13,Gardena,12.0,17.0,72,Bill Stickler,J & M Garage,'48 Hudson,–,25.0,running,0.0
+1951,13,Gardena,13.0,5.0,9,Dick Meyer,Grant Sniffen,'51 Hudson,–,25.0,running,0.0
+1951,13,Gardena,14.0,4.0,6,Ray Chase,Oster-Barry (Bill Sheldon),'51 Hudson,–,25.0,running,0.0
+1951,13,Gardena,15.0,10.0,,Bob Carpenter,Bob Carpenter,'50 Ford,–,25.0,running,0.0
+1951,13,Gardena,16.0,19.0,19,Les Bomar,V-Gap Spark Plugs (Les Bomar),'49 Plymouth,–,25.0,running,0.0
+1951,13,Gardena,17.0,13.0,10,Allen Heath,Smith & Jones (Allen Heath),'50 Ford,–,25.0,engine,0.0
+1951,13,Gardena,18.0,6.0,12,Danny Weinberg,Warren Fraser,'50 Ford,–,25.0,overheating,0.0
+1951,13,Gardena,19.0,21.0,3,Stan Noble,Stan Noble,'51 Henry J,–,25.0,–,0.0
+1951,13,Gardena,20.0,15.0,17,Al Jacobs,Al Jacobs,'50 Ford,–,25.0,–,0.0
+1951,13,Gardena,21.0,20.0,,Jess Anderson,–,Dodge,–,25.0,–,0.0
+1951,13,Gardena,22.0,2.0,2jr,George Seeger,Tony Sampo,'51 Studebaker,11,25.0,axle,0.0
+1951,14,Grand Rapids,1.0,3,6,Marshall Teague,Fabulous Hudson Hornet (Marshall Teague),'51 Hudson,200,1000.0,running,178.0
+1951,14,Grand Rapids,2.0,–,120,Dick Rathmann,Walt Chapman,'51 Hudson,–,700.0,running,0.0
+1951,14,Grand Rapids,3.0,2,14,Fonty Flock,Red Devil (Frank Christian),'50 Oldsmobile,–,450.0,running,0.0
+1951,14,Grand Rapids,4.0,1,91,Tim Flock,Black Phantom (Ted Chester),'51 Oldsmobile,–,350.0,running,22.0
+1951,14,Grand Rapids,5.0,8,59,Lloyd Moore,Julian Buesink,'51 Ford,–,200.0,running,0.0
+1951,14,Grand Rapids,6.0,6,42,Lee Petty,Petty Special (Petty Enterprises),'50 Plymouth,–,150.0,–,0.0
+1951,14,Grand Rapids,7.0,4,23,Frank Mundy,Perry Smith Motors (Perry Smith),'51 Studebaker,–,125.0,–,0.0
+1951,14,Grand Rapids,8.0,–,27,Jimmy Florian,Euclid Motor Co. (Jimmy Florian),'50 Ford,–,100.0,–,0.0
+1951,14,Grand Rapids,9.0,–,100,Quinton Daniels,–,'50 Ford,–,75.0,–,0.0
+1951,14,Grand Rapids,10.0,5,T-3,Tommy Lane,–,'51 Buick,–,50.0,–,0.0
+1951,14,Grand Rapids,11.0,–,92,Herb Thomas,Sanford Motors (Herb Thomas),'51 Plymouth,–,25.0,–,0.0
+1951,14,Grand Rapids,12.0,–,93,Donald Thomas,Herb Thomas,'50 Plymouth,–,25.0,–,0.0
+1951,14,Grand Rapids,13.0,–,25,Dick Linder,Don Rogala,'50 Oldsmobile,–,25.0,–,0.0
+1951,14,Grand Rapids,14.0,–,33,Wally Campbell,Wally Marks,'50 Oldsmobile,–,25.0,–,0.0
+1951,14,Grand Rapids,15.0,–,54,Don Bailey,Don Bailey,'50 Oldsmobile,–,25.0,–,0.0
+1951,14,Grand Rapids,16.0,–,10,Jim Fiebelkorn,Jim Fiebelkorn,'50 Mercury,–,25.0,–,0.0
+1951,14,Grand Rapids,17.0,–,55,Bub King,Bub King,'51 Plymouth,–,25.0,–,0.0
+1951,14,Grand Rapids,18.0,–,98,Ray Duhigg,Southern 500 (Ray Duhigg),'50 Plymouth,–,25.0,crash,0.0
+1951,14,Grand Rapids,19.0,–,72,Wade Fields,Harold Mays,'51 Plymouth,–,25.0,–,0.0
+1951,14,Grand Rapids,20.0,–,37,Gene Comstock,Gene Comstock,'50 Oldsmobile,–,25.0,–,0.0
+1951,14,Grand Rapids,21.0,–,60,Don Eggert,Julian Buesink,'50 Ford,–,25.0,–,0.0
+1951,14,Grand Rapids,22.0,–,17,Bob Greer,Bob Greer,'50 Plymouth,–,25.0,crash,0.0
+1951,14,Grand Rapids,23.0,–,4,Ed Massey,–,'50 Plymouth,–,25.0,crash,0.0
+1951,14,Grand Rapids,24.0,10,35,Mike Klapak,Mike Klapak,'51 Nash,–,25.0,–,0.0
+1951,14,Grand Rapids,25.0,–,1,Walt Sprague,Julian Buesink,'50 Oldsmobile,–,,–,0.0
+1951,14,Grand Rapids,26.0,–,51,Hank Russ,–,'51 Studebaker,–,,–,0.0
+1951,14,Grand Rapids,27.0,–,30,Walt Flanders,–,'51 Studebaker,–,,–,0.0
+1951,14,Grand Rapids,28.0,–,5,Mike Ernest,–,'50 Oldsmobile,–,,–,0.0
+1951,14,Grand Rapids,29.0,–,21,Lou Figaro,Gaisher Tire Co. (Jack Gaynor),'51 Hudson,–,,–,0.0
+1951,15,Bainbridge,1.0,1,14.0,Fonty Flock,Red Devil (Frank Christian),'50 Oldsmobile,100,1000.0,running,100.0
+1951,15,Bainbridge,2.0,–,120.0,Dick Rathmann,Walt Chapman,'51 Hudson,–,700.0,running,0.0
+1951,15,Bainbridge,3.0,–,23.0,Frank Mundy,Perry Smith,'51 Studebaker,–,450.0,running,0.0
+1951,15,Bainbridge,4.0,–,27.0,Jimmy Florian,Euclid Motor Co. (Jimmy Florian),'51 Ford,–,350.0,–,0.0
+1951,15,Bainbridge,5.0,–,22.0,Oda Greene,Harold Lucas,'51 Hudson,–,200.0,running,0.0
+1951,15,Bainbridge,6.0,–,42.0,Lee Petty,Petty Special (Petty Enterprises),'50 Plymouth,–,150.0,–,0.0
+1951,15,Bainbridge,7.0,–,10.0,Jim Fiebelkorn,Jim Fiebelkorn,'51 Mercury,–,125.0,–,0.0
+1951,15,Bainbridge,8.0,–,,Norm McCarthy,–,'51 Plymouth,–,100.0,running,0.0
+1951,15,Bainbridge,9.0,–,,Lyle Scott,–,'50 Lincoln,–,75.0,–,0.0
+1951,15,Bainbridge,10.0,–,,Jim Romine,–,'50 Ford,–,50.0,–,0.0
+1951,15,Bainbridge,11.0,–,59.0,Lloyd Moore,Julian Buesink,'50 Ford,–,25.0,–,0.0
+1951,15,Bainbridge,12.0,–,92.0,Herb Thomas,Sanford Motors (Herb Thomas),'51 Plymouth,–,25.0,–,0.0
+1951,15,Bainbridge,13.0,–,,Ray Duhigg,Ray Duhigg,'50 Plymouth,–,25.0,–,0.0
+1951,15,Bainbridge,14.0,–,,Quinton Daniels,–,'50 Ford,–,25.0,–,0.0
+1951,15,Bainbridge,15.0,–,,Dick Bailey,–,'50 Ford,–,25.0,–,0.0
+1951,15,Bainbridge,16.0,–,,Dick Stone,–,'51 Ford,–,25.0,–,0.0
+1951,15,Bainbridge,17.0,–,,Joe Carver,–,–,–,25.0,–,0.0
+1951,15,Bainbridge,18.0,–,,Jerry Carver,–,–,–,25.0,–,0.0
+1951,15,Bainbridge,19.0,–,25.0,Dick Linder,Don Rogala,'50 Oldsmobile,–,25.0,–,0.0
+1951,15,Bainbridge,20.0,–,91.0,Tim Flock,Black Phantom (Ted Chester),'51 Oldsmobile,–,25.0,–,0.0
+1951,15,Bainbridge,21.0,–,,Bub King,Bub King,'51 Plymouth,–,25.0,–,0.0
+1951,15,Bainbridge,22.0,–,,Dan Daniels,Don Rogala,'50 Oldsmobile,–,25.0,–,0.0
+1951,15,Bainbridge,23.0,–,54.0,Don Bailey,–,'50 Oldsmobile,–,25.0,–,0.0
+1951,15,Bainbridge,24.0,–,1.0,Don Eggert,Julian Buesink,'50 Ford,–,25.0,–,0.0
+1951,15,Bainbridge,25.0,–,33.0,Wally Campbell,Wally Marks,'50 Oldsmobile,–,25.0,–,0.0
+1951,15,Bainbridge,26.0,–,,Mike Klapak,–,–,–,25.0,–,0.0
+1951,15,Bainbridge,27.0,–,,Bob Moore,Bob Moore,'50 Oldsmobile,–,25.0,–,0.0
+1951,15,Bainbridge,28.0,–,,Jack Kabat,–,–,–,25.0,–,0.0
+1951,15,Bainbridge,29.0,–,72.0,Wade Fields,Harold Mays,'50 Plymouth,–,25.0,–,0.0
+1951,15,Bainbridge,30.0,–,,Gene Comstock,Gene Comstock,'50 Oldsmobile,–,25.0,–,0.0
+1951,15,Bainbridge,31.0,–,6.0,Marshall Teague,Fabulous Hudson Hornet (Marshall Teague),'51 Hudson,41,10.0,–,0.0
+1951,15,Bainbridge,32.0,–,,Bob Greer,Bob Greer,'50 Oldsmobile,–,10.0,–,0.0
+1951,15,Bainbridge,33.0,–,,Elmer Wilson,Elmer Wilson,'48 Buick,–,10.0,–,0.0
+1951,15,Bainbridge,34.0,–,135.0,Bill Majot,Jim White,'50 Chevrolet,–,10.0,–,0.0
+1951,16,Pittsburgh,1.0,–,41.5,Herb Thomas,Hubert Westmoreland,'51 Oldsmobile,200,1000.0,running,179.0
+1951,16,Pittsburgh,2.0,–,10.0,Jim Fiebelkorn,Jim Fiebelkorn,'51 Mercury,199,700.0,running,0.0
+1951,16,Pittsburgh,3.0,–,,Augie Walackas,–,'51 Mercury,–,450.0,running,0.0
+1951,16,Pittsburgh,4.0,–,,Bud Farrell,–,'51 Plymouth,–,350.0,running,0.0
+1951,16,Pittsburgh,5.0,–,,Tom Jerris,William Gundaker,'51 Buick,–,200.0,running,0.0
+1951,16,Pittsburgh,6.0,–,,Jack Flynn,–,–,–,150.0,–,0.0
+1951,16,Pittsburgh,7.0,–,,Bob Dietrich,–,–,–,125.0,–,0.0
+1951,16,Pittsburgh,8.0,–,,Dick Moffitt,–,–,–,100.0,–,0.0
+1951,16,Pittsburgh,9.0,–,,Harry Scott,–,–,–,75.0,–,0.0
+1951,16,Pittsburgh,10.0,–,,Charles Gillman,–,'51 Hudson,–,50.0,–,0.0
+1951,16,Pittsburgh,11.0,–,,Jerry Carver,–,–,–,25.0,–,0.0
+1951,16,Pittsburgh,12.0,–,,Nelson Applegate,–,–,–,25.0,–,0.0
+1951,16,Pittsburgh,13.0,–,,Ted Chamberlain,Ted Chamberlain,'50 Plymouth,–,25.0,–,0.0
+1951,16,Pittsburgh,14.0,–,,Whitey Worton,–,–,–,25.0,–,0.0
+1951,16,Pittsburgh,15.0,–,,Jack White,–,–,–,25.0,–,0.0
+1951,16,Pittsburgh,16.0,–,,Charles Kleber,–,–,–,25.0,–,0.0
+1951,16,Pittsburgh,17.0,–,,Gus Linder,–,–,–,25.0,–,0.0
+1951,16,Pittsburgh,18.0,–,19.0,Joe Merola,Joe Merola,'51 Oldsmobile,–,25.0,–,0.0
+1951,16,Pittsburgh,19.0,–,59.0,Lloyd Moore,Julian Buesink,'51 Ford,–,25.0,–,0.0
+1951,16,Pittsburgh,20.0,–,121.0,John McGinley,Walt Chapman,'51 Hudson,–,25.0,–,0.0
+1951,16,Pittsburgh,21.0,–,42.0,Lee Petty,Petty Special (Petty Enterprises),'51 Plymouth,–,25.0,–,0.0
+1951,16,Pittsburgh,22.0,–,100.0,Quinton Daniels,–,'50 Ford,–,25.0,–,0.0
+1951,16,Pittsburgh,23.0,–,,Art Knoll,–,–,–,25.0,–,0.0
+1951,16,Pittsburgh,24.0,–,,Jim Romine,–,'50 Ford,–,25.0,–,0.0
+1951,16,Pittsburgh,25.0,–,102.0,Ray Duhigg,Ray Duhigg,'50 Plymouth,–,25.0,–,0.0
+1951,16,Pittsburgh,26.0,–,,Dan Daniels,Don Rogala,'50 Oldsmobile,–,25.0,–,0.0
+1951,16,Pittsburgh,27.0,–,,Tommy Lane,–,–,–,25.0,–,0.0
+1951,16,Pittsburgh,28.0,–,,Bub King,Bub King,'51 Plymouth,–,25.0,–,0.0
+1951,16,Pittsburgh,29.0,–,,Sam Thompson,–,–,52,25.0,crash,0.0
+1951,16,Pittsburgh,30.0,–,23.0,Frank Mundy,Perry Smith,'51 Studebaker,–,25.0,–,0.0
+1951,16,Pittsburgh,31.0,–,120.0,Dick Rathmann,Walt Chapman,'51 Hudson,–,10.0,–,0.0
+1951,16,Pittsburgh,32.0,–,,Norm McCarthy,–,'51 Plymouth,–,10.0,–,0.0
+1951,16,Pittsburgh,33.0,–,81.0,Pappy Hough,Pappy Hough,'50 Ford,–,10.0,–,0.0
+1951,16,Pittsburgh,34.0,–,,Paul Pettit,–,–,–,10.0,–,0.0
+1951,16,Pittsburgh,35.0,–,,Nick Garin,–,–,–,10.0,–,0.0
+1951,16,Pittsburgh,36.0,1,14.0,Fonty Flock,Red Devil (Frank Christian),'50 Oldsmobile,21,10.0,crash,21.0
+1951,16,Pittsburgh,37.0,–,91.0,Tim Flock,Black Phantom (Ted Chester),'51 Oldsmobile,21,10.0,crash,0.0
+1951,16,Pittsburgh,38.0,3,33.0,Wally Campbell,Wally Marks,'50 Oldsmobile,21,10.0,crash,0.0
+1951,16,Pittsburgh,39.0,2,25.0,Dick Linder,Don Rogala,'50 Oldsmobile,21,10.0,crash,0.0
+1951,16,Pittsburgh,40.0,–,0.0,Ralph Liguori,–,'50 Ford,20,10.0,crash,0.0
+1951,16,Pittsburgh,41.0,–,,Dick Bailey,–,–,–,,–,0.0
+1951,16,Pittsburgh,42.0,–,,Mike Klapak,–,–,–,,–,0.0
+1951,17,Weaverville,1.0,1,14.0,Fonty Flock,Red Devil (Frank Christian),'51 Oldsmobile,200,1000.0,running,–
+1951,17,Weaverville,2.0,–,51.0,Gober Sosebee,Cherokee Garage (Gober Sosebee),'50 Oldsmobile,–,700.0,running,–
+1951,17,Weaverville,3.0,–,92.0,Herb Thomas,Sanford Motors (Herb Thomas),'50 Plymouth,–,450.0,running,–
+1951,17,Weaverville,4.0,–,23.0,Frank Mundy,Perry Smith,'51 Studebaker,–,350.0,running,–
+1951,17,Weaverville,5.0,–,,Speedy Thompson,–,'51 Studebaker,–,200.0,running,–
+1951,17,Weaverville,6.0,–,,Bub King,Bub King,'51 Plymouth,–,150.0,–,–
+1951,17,Weaverville,7.0,–,217.0,Bill Miller,B.J. Dantone,'51 Ford,–,125.0,–,–
+1951,17,Weaverville,8.0,–,,Billy Myers,–,'51 Ford,–,100.0,–,–
+1951,17,Weaverville,9.0,–,16.0,Bill Snowden,Bill Snowden,'51 Oldsmobile,–,75.0,–,–
+1951,17,Weaverville,10.0,–,7.0,Bob Flock,Gray Ghost (Ted Chester),'51 Oldsmobile,–,50.0,–,–
+1951,17,Weaverville,11.0,–,91.0,Tim Flock,Black Phantom (Ted Chester),'51 Oldsmobile,–,25.0,–,–
+1951,17,Weaverville,12.0,–,,Barney Smith,Barney Smith,'50 Plymouth,–,25.0,–,–
+1951,17,Weaverville,13.0,–,98.0,Jack Smith,–,'50 Plymouth,–,25.0,–,–
+1951,17,Weaverville,14.0,–,133.0,Bobby Booth,Stanley Moore,'50 Oldsmobile,–,25.0,–,–
+1951,17,Weaverville,15.0,–,60.0,Jim Paschal,Julian Buesink,'50 Ford,–,25.0,–,–
+1951,17,Weaverville,16.0,–,,Bobby Myers,–,'49 Ford,–,25.0,–,–
+1951,17,Weaverville,17.0,–,80.0,Sonny Black,Sonny Black,'50 Plymouth,–,25.0,–,–
+1951,17,Weaverville,18.0,–,72.0,Weldon Adams,Harold Mays,'50 Plymouth,–,25.0,–,–
+1951,17,Weaverville,19.0,–,82.0,Joe Eubanks,Oates Motor Co. (Phil Oates),'50 Oldsmobile,–,25.0,–,–
+1951,17,Weaverville,20.0,–,2.0,Ewell Weddle,Ewell Weddle,'50 Ford,–,25.0,–,–
+1951,17,Weaverville,21.0,–,,Leon Harrell,–,'50 Ford,–,25.0,–,–
+1951,17,Weaverville,22.0,–,,Paul Austin,–,'50 Ford,–,25.0,–,–
+1951,17,Weaverville,23.0,–,4.0,Gayle Warren,Blevins Motor Co. (Earl Blevins),'51 Studebaker,–,25.0,–,–
+1951,17,Weaverville,24.0,–,,Charles Moore,–,'49 Kaiser,–,25.0,–,–
+1951,17,Weaverville,25.0,–,42.0,Lee Petty,Petty Special (Petty Enterprises),'51 Plymouth,–,25.0,–,–
+1951,17,Weaverville,26.0,22,12.0,Billy Carden,Sam Knox,'50 Oldsmobile,–,25.0,–,–
+1951,17,Weaverville,27.0,–,172.0,Wade Fields,Harold Mays,'50 Plymouth,–,25.0,–,–
+1951,17,Weaverville,28.0,–,10.0,Jim Fiebelkorn,Jim Fiebelkorn,'51 Mercury,–,25.0,–,–
+1951,17,Weaverville,29.0,–,6.0,Marshall Teague,Fabulous Hudson Hornet (Marshall Teague),'51 Hudson,–,25.0,–,–
+1951,17,Weaverville,30.0,–,59.0,Lloyd Moore,Julian Buesink,'50 Ford,–,25.0,–,–
+1951,18,Rochester,1.0,–,42.0,Lee Petty,Petty Special (Petty Enterprises),'51 Plymouth,200,1000.0,running,99.0
+1951,18,Rochester,2.0,–,,Charles Gattilia,–,'51 Ford,–,700.0,running,0.0
+1951,18,Rochester,3.0,–,,Ronnie Kohler,–,'51 Plymouth,–,450.0,running,0.0
+1951,18,Rochester,4.0,–,54.0,Don Bailey,–,'51 Studebaker,–,350.0,running,0.0
+1951,18,Rochester,5.0,–,81.0,Pappy Hough,Pappy Hough,'51 Ford,–,200.0,running,0.0
+1951,18,Rochester,6.0,–,60.0,Bill Rexford,Julian Buesink,'51 Oldsmobile,–,150.0,–,0.0
+1951,18,Rochester,7.0,–,,Chuck Stimus,–,–,–,125.0,–,0.0
+1951,18,Rochester,8.0,–,93.0,Ted Chamberlain,Ted Chamberlain,'50 Plymouth,–,100.0,–,0.0
+1951,18,Rochester,9.0,–,,Ernie Yorton,–,–,–,75.0,–,0.0
+1951,18,Rochester,10.0,–,25.0,Dick Linder,Don Rogala,'50 Oldsmobile,–,50.0,–,0.0
+1951,18,Rochester,11.0,–,1.0,Walt Sprague,Julian Buesink,'50 Ford,–,25.0,–,0.0
+1951,18,Rochester,12.0,–,,Quinton Daniels,–,'50 Ford,–,25.0,–,0.0
+1951,18,Rochester,13.0,–,,James Shields,–,–,–,25.0,–,0.0
+1951,18,Rochester,14.0,1,14.0,Fonty Flock,Red Devil (Frank Christian),'50 Oldsmobile,101,25.0,sway bar,101.0
+1951,18,Rochester,15.0,–,92.0,Herb Thomas,Sanford Motors (Herb Thomas),'51 Plymouth,–,25.0,crash,0.0
+1951,18,Rochester,16.0,–,59.0,Lloyd Moore,Julian Buesink,'51 Ford,–,25.0,crash,0.0
+1951,18,Rochester,17.0,–,10.0,Jim Fiebelkorn,Jim Fiebelkorn,'51 Mercury,–,25.0,crash,0.0
+1951,18,Rochester,18.0,–,94.0,Dick Moffitt,–,'50 Oldsmobile,–,25.0,–,0.0
+1951,18,Rochester,19.0,–,,Fran Jischke,–,–,–,25.0,crash,0.0
+1951,18,Rochester,20.0,–,,Jack Flynn,–,–,–,25.0,–,0.0
+1951,18,Rochester,21.0,–,,Ed Benedict,–,–,–,25.0,–,0.0
+1951,18,Rochester,22.0,–,,Fred Faber,–,–,–,25.0,crash,0.0
+1951,18,Rochester,23.0,–,23.0,Frank Mundy,Perry Smith,'51 Studebaker,–,25.0,–,0.0
+1951,18,Rochester,24.0,–,21.0,Jim Delaney,Bob Osiecki,'51 Mercury,200,,disqualified,0.0
+1951,19,Altamont,1.0,1,14.0,Fonty Flock,Red Devil (Frank Christian),'51 Oldsmobile,200,1000.0,running,200.0
+1951,19,Altamont,2.0,2,92.0,Herb Thomas,Herb Thomas,'51 Plymouth,–,700.0,running,0.0
+1951,19,Altamont,3.0,3,42.0,Lee Petty,Petty Special (Petty Enterprises),'51 Plymouth,–,450.0,running,0.0
+1951,19,Altamont,4.0,–,23.0,Perry Smith,Perry Smith,'51 Studebaker,–,350.0,running,0.0
+1951,19,Altamont,5.0,–,227.0,Jerry Morese,–,'51 Ford,–,200.0,running,0.0
+1951,19,Altamont,6.0,8,81.0,Pappy Hough,Pappy Hough,'51 Ford,–,150.0,–,0.0
+1951,19,Altamont,7.0,–,,Dick Moffitt,–,–,–,125.0,–,0.0
+1951,19,Altamont,8.0,–,,Wimpy Ervin,–,–,–,100.0,–,0.0
+1951,19,Altamont,9.0,–,,Jim Little,–,–,–,75.0,–,0.0
+1951,19,Altamont,10.0,5,25.0,Dick Linder,Don Rogala,'50 Oldsmobile,–,50.0,–,0.0
+1951,19,Altamont,11.0,–,,Hully Bunn,–,–,–,25.0,–,0.0
+1951,19,Altamont,12.0,7,,Ronnie Kohler,–,'50 Plymouth,–,25.0,–,0.0
+1951,19,Altamont,13.0,–,54.0,Don Bailey,–,'51 Ford,–,25.0,–,0.0
+1951,19,Altamont,14.0,–,,Ed Benedict,Ken Swihart,'51 Hudson,–,25.0,–,0.0
+1951,19,Altamont,15.0,–,,Tommie Elliott,–,–,–,25.0,–,0.0
+1951,19,Altamont,16.0,–,,Victor Brunzell,–,–,160,25.0,crash,0.0
+1951,19,Altamont,17.0,–,,Rod Therrian,–,–,–,25.0,–,0.0
+1951,19,Altamont,18.0,–,67.0,Jim Reed,Jim Reed,'51 Ford,–,25.0,–,0.0
+1951,19,Altamont,19.0,6,100.0,Quinton Daniels,–,'50 Ford,–,25.0,–,0.0
+1951,19,Altamont,20.0,4,59.0,Lloyd Moore,Julian Buesink,'51 Ford,–,25.0,mechanical,0.0
+1951,20,Detroit,1.0,5.0,40,Tommy Thompson,Tommy Thompson,'51 Chrysler,250.0,5000.0,running,58.0
+1951,20,Detroit,2.0,13.0,82,Joe Eubanks,Oates Motor Co. (Phil Oates),'50 Oldsmobile,250.0,2000.0,running,7.0
+1951,20,Detroit,3.0,15.0,98,Johnny Mantz,Johnny Mantz,'51 Nash,244.0,1000.0,running,0.0
+1951,20,Detroit,4.0,25.0,83,Red Byron,Dantone Racing Stable (B.J. Dantone),'50 Ford,241.0,600.0,running,0.0
+1951,20,Detroit,5.0,38.0,43,Paul Newkirk,Paul Newkirk,'51 Nash,241.0,500.0,running,0.0
+1951,20,Detroit,6.0,47.0,34,Jack Goodwin,Bill Caltrider,'51 Plymouth,239.0,400.0,running,0.0
+1951,20,Detroit,7.0,22.0,59,Lloyd Moore,Julian Buesink,'51 Oldsmobile,239.0,300.0,running,0.0
+1951,20,Detroit,8.0,20.0,50,Ewell Weddle,Wheatley Motors (Al Wheatley),'50 Ford,236.0,200.0,running,0.0
+1951,20,Detroit,9.0,30.0,41,Curtis Turner,Eanes Motor Co. (John Eanes),'51 Oldsmobile,233.0,100.0,overheating,92.0
+1951,20,Detroit,10.0,45.0,1-X,Erick Erickson,Packer / Advanced Electric (Erick Erickson),'51 Pontiac,233.0,100.0,running,0.0
+1951,20,Detroit,11.0,56.0,135,Bill Majot,Jim White,'50 Chevrolet,233.0,50.0,running,0.0
+1951,20,Detroit,12.0,52.0,10,Jim Fiebelkorn,Jim Fiebelkorn,'51 Mercury,233.0,50.0,running,0.0
+1951,20,Detroit,13.0,44.0,42,Lee Petty,Hodges for Dodges (Petty Enterprises),'51 Plymouth,233.0,50.0,running,0.0
+1951,20,Detroit,14.0,14.0,33,Lou Figaro,Jack Gaynor,'51 Hudson,231.0,50.0,running,0.0
+1951,20,Detroit,15.0,32.0,142,Bob Myers,St. Mary's (Hank Salat),'51 Packard,230.0,50.0,–,0.0
+1951,20,Detroit,16.0,55.0,60,Jim Paschal,Wheatley Motors (Julian Buesink),'50 Ford,228.0,25.0,–,0.0
+1951,20,Detroit,17.0,2.0,91,Tim Flock,Black Phantom (Ted Chester),'51 Oldsmobile,228.0,125.0,–,0.0
+1951,20,Detroit,18.0,54.0,67,Bob Jeffries,Dave Kennedy,'51 Lincoln,225.0,25.0,–,0.0
+1951,20,Detroit,19.0,43.0,120,John McGinley,Walt Chapman,'51 Hudson,224.0,25.0,–,0.0
+1951,20,Detroit,20.0,8.0,7,Bob Flock,Gray Ghost (Ted Chester),'51 Oldsmobile,223.0,25.0,–,0.0
+1951,20,Detroit,21.0,35.0,151,Les Snow,Les Snow,'50 Oldsmobile,222.0,25.0,–,0.0
+1951,20,Detroit,22.0,33.0,38,Iggy Katona,Custom Car Expts. (Iggy Katona),'51 Ford,222.0,25.0,–,0.0
+1951,20,Detroit,23.0,39.0,88,Dell Pearson,Sheldon Motors (Dell Pearson),'51 Oldsmobile,216.0,25.0,–,0.0
+1951,20,Detroit,24.0,41.0,85,Bob Prince,Bob Prince,'50 Hudson,199.0,25.0,–,0.0
+1951,20,Detroit,25.0,34.0,2,Bobby Myers,Ewell Weddle,'51 Hudson,199.0,25.0,–,0.0
+1951,20,Detroit,26.0,37.0,22,Oda Greene,Harold Lucas,'51 Hudson,173.0,25.0,–,0.0
+1951,20,Detroit,27.0,48.0,48,John Barker,Leo Sigman,'51 Studebaker,173.0,25.0,–,0.0
+1951,20,Detroit,28.0,46.0,102,Ray Duhigg,Ray Duhigg,'51 Oldsmobile,167.0,25.0,crash,0.0
+1951,20,Detroit,29.0,53.0,65,Jack White,George Hartley,'50 Oldsmobile,158.0,25.0,crash,0.0
+1951,20,Detroit,30.0,27.0,36,Danny Letner,Bert Letner,'51 Hudson,153.0,25.0,overheating,0.0
+1951,20,Detroit,31.0,51.0,140,Walt Flanders,Floyd Rice,'51 Ford,145.0,10.0,crash,0.0
+1951,20,Detroit,32.0,10.0,12,Billy Carden,Sam Knox,'50 Oldsmobile,142.0,10.0,–,0.0
+1951,20,Detroit,33.0,1.0,6,Marshall Teague,Fabulous Hudson Hornet (Marshall Teague),'51 Hudson,136.0,10.0,overheating,1.0
+1951,20,Detroit,34.0,17.0,18,George Seeger,George's Motors (George Seeger),'51 Studebaker,133.0,10.0,–,0.0
+1951,20,Detroit,35.0,4.0,14,Fonty Flock,Red Devil (Frank Christian),'51 Oldsmobile,130.0,10.0,crash,85.0
+1951,20,Detroit,36.0,12.0,75,Bob Greer,Connell Cadillac (Bob Greer),'50 Oldsmobile,126.0,,crash,0.0
+1951,20,Detroit,37.0,49.0,44,Jack Smith,Dantone Racing Stable (B.J. Dantone),'51 Plymouth,123.0,,crash,0.0
+1951,20,Detroit,38.0,42.0,198,Billy Myers,Hubert Westmoreland,'51 Plymouth,123.0,,crash,0.0
+1951,20,Detroit,39.0,11.0,777,Tom Suligoy,Tom Suligoy,'51 Packard,115.0,,crash,0.0
+1951,20,Detroit,40.0,58.0,750,Al Miller,Sam Clark,'51 Henry J,115.0,,–,0.0
+1951,20,Detroit,41.0,29.0,1,Walt Sprague,Julian Buesink,'50 Oldsmobile,113.0,,–,0.0
+1951,20,Detroit,42.0,3.0,51,Gober Sosebee,West Peach Motors (Sam Knox),'50 Cadillac,104.0,,tie rod,7.0
+1951,20,Detroit,43.0,18.0,133,Bobby Booth,Stanley Moore,'50 Oldsmobile,103.0,,–,0.0
+1951,20,Detroit,44.0,31.0,32,Tommy Melvin,Clarence Burbank,'50 Oldsmobile,92.0,,crash,0.0
+1951,20,Detroit,45.0,16.0,8,Bud Riley,Joe Beccue,'51 Hudson,89.0,,crash,0.0
+1951,20,Detroit,46.0,23.0,28,Ray Chase,Oster-Barry (Bill Sheldon),'51 Hudson,89.0,,overheating,0.0
+1951,20,Detroit,47.0,24.0,41.5,Bill Blair,Bill Blair,'50 Oldsmobile,88.0,,–,0.0
+1951,20,Detroit,48.0,40.0,175,Bill Holland,Connell Cadillac (Cal Connell),'51 Cadillac,80.0,,crash,0.0
+1951,20,Detroit,49.0,57.0,30,Elmer Wilson,Elmer Wilson,'50 Buick,80.0,,crash,0.0
+1951,20,Detroit,50.0,21.0,23,Frank Mundy,Perry Smith,'51 Studebaker,80.0,,crash,0.0
+1951,20,Detroit,51.0,50.0,9,Freddie Farmer,Tom's Grill (Freddie Farmer),'51 Nash,77.0,,–,0.0
+1951,20,Detroit,52.0,9.0,90,Jim Rathmann,Jim Rathmann,'50 Packard,76.0,,–,0.0
+1951,20,Detroit,53.0,26.0,118,Ed Benedict,Ken Swihart,'51 Hudson,75.0,,overheating,0.0
+1951,20,Detroit,54.0,28.0,11,Hershel McGriff,Superior (Hershel McGriff),'51 Oldsmobile,73.0,,crash,0.0
+1951,20,Detroit,55.0,59.0,21,Dick Rathmann,Walt Chapman,'51 Hudson,31.0,,overheating,0.0
+1951,20,Detroit,56.0,36.0,70,Johnny Wohlfiel,Copper Heat Ind. (Johnny Wohlfiel),'51 Nash,27.0,,–,0.0
+1951,20,Detroit,57.0,6.0,92,Herb Thomas,Fabulous Hudson Hornet (Herb Thomas),'51 Hudson,26.0,,overheating,0.0
+1951,20,Detroit,58.0,7.0,31,Jesse James Taylor,Jesse James Taylor,'51 Hudson,14.0,,overheating,0.0
+1951,20,Detroit,59.0,19.0,188,Pat Flaherty,Charlie Padovich,'51 Oldsmobile,13.0,,–,0.0
+1951,21,Toledo,1.0,4,91.0,Tim Flock,Black Phantom / General Auto Sales (Ted Chester),'51 Oldsmobile,200,1000.0,running,67.0
+1951,21,Toledo,2.0,–,88.0,Dell Pearson,Dell Pearson,'51 Plymouth,–,700.0,running,0.0
+1951,21,Toledo,3.0,–,22.0,Oda Greene,Harold Lucas,'51 Hudson,–,450.0,running,0.0
+1951,21,Toledo,4.0,–,33.0,Lou Figaro,Jack Gaynor,'51 Hudson,–,350.0,running,0.0
+1951,21,Toledo,5.0,–,92.0,Herb Thomas,Herb Thomas,'51 Plymouth,–,200.0,running,0.0
+1951,21,Toledo,6.0,8,40.0,Tommy Thompson,Tommy Thompson,'51 Chrysler,–,150.0,–,0.0
+1951,21,Toledo,7.0,2,31.0,Jesse James Taylor,Jesse James Taylor,'51 Hudson,–,125.0,–,3.0
+1951,21,Toledo,8.0,–,18.0,George Seeger,George's Motors (Warren Fraser),'51 Studebaker,–,100.0,–,0.0
+1951,21,Toledo,9.0,–,27.0,Jimmy Florian,Euclid Motor Co. (Jimmy Florian),'50 Ford,–,75.0,–,0.0
+1951,21,Toledo,10.0,–,3.0,Jimmy Ayers,Jimmy Ayers,'50 Plymouth,–,50.0,–,0.0
+1951,21,Toledo,11.0,–,60.0,Don Eggert,Don Eggert,'51 Plymouth,–,25.0,–,0.0
+1951,21,Toledo,12.0,–,10.0,Jim Fiebelkorn,Jim Fiebelkorn,'51 Mercury,–,25.0,–,0.0
+1951,21,Toledo,13.0,–,,Herb Gott,–,Plymouth,–,25.0,–,0.0
+1951,21,Toledo,14.0,–,54.0,Don Bailey,–,'50 Ford,151,25.0,crash,0.0
+1951,21,Toledo,15.0,–,120.0,John McGinley,Walt Chapman,'51 Hudson,–,25.0,–,0.0
+1951,21,Toledo,16.0,–,66.0,Bud Riley,Northeast Motors (Joe Beccue),'51 Hudson,149,25.0,crash,0.0
+1951,21,Toledo,17.0,–,94.0,Dick Moffitt,–,'50 Oldsmobile,142,25.0,wheel,0.0
+1951,21,Toledo,18.0,1,14.0,Fonty Flock,Red Devil (Frank Christian),'51 Oldsmobile,133,25.0,–,130.0
+1951,21,Toledo,19.0,–,188.0,Owen Jones,–,'50 Ford,–,25.0,crash,0.0
+1951,21,Toledo,20.0,–,38.0,Iggy Katona,Jolley Cartage (Iggy Katona),'51 Oldsmobile,–,25.0,crash,0.0
+1951,21,Toledo,21.0,–,1.0,Walt Sprague,Julian Buesink,'51 Oldsmobile,–,25.0,–,0.0
+1951,21,Toledo,22.0,–,25.0,Dick Linder,Don Rogala,'50 Oldsmobile,–,25.0,–,0.0
+1951,21,Toledo,23.0,–,,Paul Parks,–,–,–,25.0,–,0.0
+1951,21,Toledo,24.0,–,59.0,Lloyd Moore,Julian Buesink,'51 Ford,–,25.0,–,0.0
+1951,21,Toledo,25.0,–,121.0,Dick Rathmann,Walt Chapman,'51 Hudson,–,25.0,–,0.0
+1951,21,Toledo,26.0,–,,Bob James,–,–,55,25.0,wheel,0.0
+1951,21,Toledo,27.0,–,82.0,Joe Eubanks,Oates Motor Co. (Phil Oates),'50 Oldsmobile,–,25.0,–,0.0
+1951,21,Toledo,28.0,–,102.0,Ray Duhigg,Ray Duhigg,'51 Plymouth,46,25.0,wheel,0.0
+1951,21,Toledo,29.0,–,42.0,Lee Petty,Petty Special (Petty Enterprises),'51 Plymouth,–,25.0,–,0.0
+1951,21,Toledo,30.0,–,,Norm McCarthy,–,–,–,25.0,–,0.0
+1951,21,Toledo,31.0,–,28.0,Ray Chase,Oster-Barry (Bill Sheldon),'51 Hudson,28,10.0,wheel,0.0
+1951,21,Toledo,32.0,–,,Bob Moore,–,'51 Oldsmobile,–,10.0,–,0.0
+1951,21,Toledo,33.0,–,23.0,Frank Mundy,Perry Smith,'51 Studebaker,–,10.0,–,0.0
+1951,22,Morristown,1.0,1,91.0,Tim Flock,Black Phantom (Ted Chester),'51 Oldsmobile,200,1000.0,running,114.0
+1951,22,Morristown,2.0,–,42.0,Lee Petty,Petty Special (Petty Enterprises),'51 Plymouth,–,700.0,running,0.0
+1951,22,Morristown,3.0,–,,Ronnie Kohler,–,'51 Plymouth,–,450.0,running,0.0
+1951,22,Morristown,4.0,–,,John DuBoise,John DuBoise,'50 Plymouth,–,350.0,running,0.0
+1951,22,Morristown,5.0,–,21.0,Jim Delaney,Bob Osiecki,'50 Ford,–,200.0,running,0.0
+1951,22,Morristown,6.0,–,421.0,Jack Reynolds,Wiss Brothers,'50 Plymouth,–,150.0,–,0.0
+1951,22,Morristown,7.0,–,22.0,Oda Greene,Harold Lucas,'51 Hudson,–,125.0,–,0.0
+1951,22,Morristown,8.0,–,,Dick Eagan,Dick Eagan,'50 Plymouth,–,100.0,–,0.0
+1951,22,Morristown,9.0,–,77.0,Chuck Mahoney,–,'51 Henry J,–,75.0,–,0.0
+1951,22,Morristown,10.0,–,,Augie Walackas,–,'51 Oldsmobile,–,50.0,–,0.0
+1951,22,Morristown,11.0,–,227.0,Jerry Morese,–,'51 Ford,–,25.0,–,0.0
+1951,22,Morristown,12.0,–,,Tommie Elliott,–,'51 Henry J,–,25.0,–,0.0
+1951,22,Morristown,13.0,–,,Wimpy Ervin,–,'51 Henry J,–,25.0,–,0.0
+1951,22,Morristown,14.0,–,54.0,Don Bailey,–,'51 Studebaker,–,25.0,–,0.0
+1951,22,Morristown,15.0,–,,Charles Gattilia,–,'51 Ford,–,25.0,–,0.0
+1951,22,Morristown,16.0,–,,Jim Hart,–,'51 Kaiser,–,25.0,–,0.0
+1951,22,Morristown,17.0,–,,Lou Volk,–,'51 Henry J,–,25.0,–,0.0
+1951,22,Morristown,18.0,–,,Joe Bellinato,–,'50 Mercury,–,25.0,–,0.0
+1951,22,Morristown,19.0,–,,Paul Pettit,–,'50 Plymouth,–,25.0,–,0.0
+1951,22,Morristown,20.0,–,,Richard Hancock,–,'50 Mercury,–,25.0,–,0.0
+1951,22,Morristown,21.0,–,70.0,Bud Farrell,William Gundaker,'51 Plymouth,–,25.0,–,0.0
+1951,22,Morristown,22.0,–,1.0,Bill Rexford,Julian Buesink,'51 Oldsmobile,–,25.0,mechanical,0.0
+1951,22,Morristown,23.0,–,23.0,Frank Mundy,Perry Smith,'51 Studebaker,–,25.0,mechanical,0.0
+1951,22,Morristown,24.0,–,66.0,Pappy Hough,Pappy Hough,'51 Ford,–,25.0,–,0.0
+1951,22,Morristown,25.0,–,52.0,Neil Cole,John Golabek,'50 Oldsmobile,–,25.0,–,0.0
+1951,22,Morristown,26.0,–,82.0,Joe Eubanks,Oates Motor Co. (Phil Oates),'51 Hudson,–,25.0,–,0.0
+1951,22,Morristown,27.0,–,,Reino Tulonen,Reino Tulonen,'51 Henry J,–,25.0,–,0.0
+1951,22,Morristown,28.0,–,59.0,Lloyd Moore,Julian Buesink,'51 Ford,–,25.0,–,0.0
+1951,22,Morristown,29.0,–,92.0,Herb Thomas,Herb Thomas,'51 Plymouth,–,25.0,mechanical,0.0
+1951,22,Morristown,30.0,2,14.0,Fonty Flock,Red Devil (Frank Christian),'51 Oldsmobile,94,25.0,crash,86.0
+1951,22,Morristown,31.0,–,,Nick Nicolette,–,–,–,10.0,–,0.0
+1951,22,Morristown,32.0,–,,Carson Dyer,–,–,–,10.0,–,0.0
+1951,22,Morristown,33.0,–,120.0,Dick Rathmann,Walt Chapman,'51 Hudson,–,10.0,–,0.0
+1951,22,Morristown,34.0,–,,Nelson Applegate,–,–,–,10.0,–,0.0
+1951,22,Morristown,35.0,–,33.0,Wally Campbell,Wally Marks,'51 Oldsmobile,–,10.0,mechanical,0.0
+1951,22,Morristown,36.0,–,,Tommy Coates,–,–,–,10.0,–,0.0
+1951,22,Morristown,37.0,–,,Frankie Schneider,–,–,–,10.0,–,0.0
+1951,22,Morristown,38.0,–,,Harold Strapp,–,–,–,10.0,–,0.0
+1951,22,Morristown,39.0,–,,Jim Metzler,–,–,–,10.0,–,0.0
+1951,22,Morristown,40.0,–,,Bob Read,–,–,–,10.0,–,0.0
+1951,22,Morristown,41.0,–,,Jack White,–,–,–,10.0,–,0.0
+1951,22,Morristown,42.0,–,,Tony Correnti,–,–,–,10.0,–,0.0
+1951,22,Morristown,43.0,–,,Don Rudolph,–,–,–,10.0,–,0.0
+1951,22,Morristown,44.0,–,,Len Brown,Len Brown,–,–,10.0,–,0.0
+1951,23,Air Base,1.0,6,7,Bob Flock,Gray Ghost (Ted Chester),'51 Oldsmobile,200,1000.0,running,194.0
+1951,23,Air Base,2.0,–,91,Tim Flock,Black Phantom (Ted Chester),'51 Oldsmobile,–,700.0,running,0.0
+1951,23,Air Base,3.0,–,87,Buck Baker,Buck Baker,'51 Plymouth,–,450.0,running,0.0
+1951,23,Air Base,4.0,–,14,Fonty Flock,Red Devil (Frank Christian),'51 Oldsmobile,–,350.0,running,0.0
+1951,23,Air Base,5.0,–,1-X,Erick Erickson,Packer (Erick Erickson),'51 Pontiac,–,200.0,running,0.0
+1951,23,Air Base,6.0,–,92,Herb Thomas,Herb Thomas,'51 Plymouth,–,150.0,–,0.0
+1951,23,Air Base,7.0,–,42,Lee Petty,Petty Special (Petty Enterprises),'51 Plymouth,–,125.0,–,0.0
+1951,23,Air Base,8.0,1,31,Jesse James Taylor,Jesse James Taylor,'51 Hudson,–,100.0,–,6.0
+1951,23,Air Base,9.0,–,120,Dick Rathmann,Walt Chapman,'51 Hudson,–,75.0,–,0.0
+1951,23,Air Base,10.0,–,17,Buddy Shuman,R.H. Yandell,'51 Ford,–,50.0,–,0.0
+1951,23,Air Base,11.0,–,16,Bill Snowden,Bill Snowden,'51 Ford,–,25.0,–,0.0
+1951,23,Air Base,12.0,–,93,Donald Thomas,Herb Thomas,'51 Plymouth,–,25.0,–,0.0
+1951,23,Air Base,13.0,–,23,Frank Mundy,Perry Smith,'51 Studebaker,–,25.0,–,0.0
+1951,23,Air Base,14.0,–,21,Jim Delaney,Bob Osiecki,'51 Ford,–,25.0,–,0.0
+1951,23,Air Base,15.0,–,41,Curtis Turner,Eanes Motor Co. (John Eanes),'51 Oldsmobile,–,25.0,–,0.0
+1951,24,Darlington,1.0,2.0,92.0,Herb Thomas,Fabulous Hudson Hornet (Herb Thomas),'51 Hudson,400.0,8800.0,running,311.0
+1951,24,Darlington,2.0,3.0,31.0,Jesse James Taylor,Jesse James Taylor,'51 Hudson,399.0,2800.0,running,6.0
+1951,24,Darlington,3.0,19.0,17.0,Buddy Shuman,R.H. Yandell,'51 Ford,391.0,1500.0,running,0.0
+1951,24,Darlington,4.0,5.0,77.0,Hershel McGriff,Hershel McGriff,'51 Oldsmobile,390.0,1210.0,running,1.0
+1951,24,Darlington,5.0,7.0,11.0,Fireball Roberts,Saverance Motors (Ed Saverance),'51 Ford,387.0,910.0,running,0.0
+1951,24,Darlington,6.0,38.0,1.0,Harold Kite,Julian Buesink,'51 Oldsmobile,384.0,800.0,running,0.0
+1951,24,Darlington,7.0,27.0,46.0,Leon Sales,Hubert Westmoreland,'51 Oldsmobile,384.0,700.0,running,0.0
+1951,24,Darlington,8.0,4.0,14.0,Fonty Flock,Red Devil (Frank Christian),'51 Oldsmobile,383.0,600.0,running,0.0
+1951,24,Darlington,9.0,6.0,16.0,Bill Snowden,Bill Snowden,'51 Ford,383.0,500.0,running,0.0
+1951,24,Darlington,10.0,55.0,24.0,Pap White,Julian Petty,'51 Plymouth,383.0,400.0,running,0.0
+1951,24,Darlington,11.0,45.0,91.0,Tim Flock,Black Phantom (Ted Chester),'51 Oldsmobile,379.0,350.0,running,0.0
+1951,24,Darlington,12.0,16.0,12.0,Slick Smith,Frank Christian,'50 Oldsmobile,379.0,240.0,running,0.0
+1951,24,Darlington,13.0,52.0,34.0,Jack Goodwin,Bill Caltrider,'51 Plymouth,378.0,300.0,running,0.0
+1951,24,Darlington,14.0,12.0,8.0,Billy Carden,West Peachtree Motors (Sam Knox),'51 Cadillac,377.0,300.0,running,0.0
+1951,24,Darlington,15.0,24.0,42.0,Lee Petty,Petty Special (Petty Enterprises),'51 Plymouth,373.0,250.0,running,0.0
+1951,24,Darlington,16.0,51.0,51.0,Gober Sosebee,Cherokee Garage (Gober Sosebee),'51 Oldsmobile,373.0,250.0,running,0.0
+1951,24,Darlington,17.0,44.0,70.0,Bud Farrell,William Gundaker,'51 Plymouth,373.0,200.0,running,0.0
+1951,24,Darlington,18.0,23.0,99.0,Billy Myers,Hubert Westmoreland,'51 Plymouth,373.0,200.0,running,0.0
+1951,24,Darlington,19.0,80.0,64.0,Bill Widenhouse,Bill Widenhouse,'51 Plymouth,371.0,150.0,running,0.0
+1951,24,Darlington,20.0,39.0,18.0,George Seeger,Tony Sampo,'51 Studebaker,371.0,150.0,running,0.0
+1951,24,Darlington,21.0,11.0,4.0,Gayle Warren,Blevins Motor Co. (Earl Blevins),'51 Studebaker,370.0,100.0,crash,0.0
+1951,24,Darlington,22.0,30.0,95.0,Freddie Farmer,Tom's Grill (Freddie Farmer),'51 Nash,370.0,100.0,running,0.0
+1951,24,Darlington,23.0,82.0,71.0,Cotton Owens,F.J. Bland,'51 Plymouth,370.0,100.0,running,0.0
+1951,24,Darlington,24.0,60.0,56.0,Ed Benedict,Ken Swihart,'51 Hudson,370.0,100.0,running,0.0
+1951,24,Darlington,25.0,54.0,83.0,Red Byron,Dantone Racing Stable (B.J. Dantone),'51 Ford,368.0,100.0,crash,0.0
+1951,24,Darlington,26.0,29.0,66.0,Bud Riley,Northeast Motors (Joe Beccue),'51 Hudson,368.0,50.0,running,0.0
+1951,24,Darlington,27.0,10.0,7.0,Bob Flock,Gray Ghost (Ted Chester),'51 Oldsmobile,368.0,50.0,–,0.0
+1951,24,Darlington,28.0,62.0,30.0,Jimmie Lewallen,Hubert Hamilton,'51 Plymouth,367.0,50.0,–,0.0
+1951,24,Darlington,29.0,63.0,61.0,Tommy Melvin,Clarence Burbank,'51 Oldsmobile,367.0,50.0,–,0.0
+1951,24,Darlington,30.0,31.0,86.0,Earl Moss,J.B. Watkins,'51 Studebaker,366.0,50.0,–,0.0
+1951,24,Darlington,31.0,25.0,50.0,Ewell Weddle,Al Wheatley,'51 Ford,365.0,50.0,–,0.0
+1951,24,Darlington,32.0,48.0,90.0,Shorty York,Russ Loh,'51 Nash,363.0,50.0,–,0.0
+1951,24,Darlington,33.0,47.0,6.0,Marshall Teague,Fabulous Hudson Hornet (Marshall Teague),'51 Hudson,361.0,500.0,crash,39.0
+1951,24,Darlington,34.0,43.0,78.0,Johnny Yountz,Hubert Westmoreland,'51 Plymouth,361.0,50.0,crash,0.0
+1951,24,Darlington,35.0,49.0,10.0,Ted Swaim,Hight-Riley Motors,'51 Ford,360.0,50.0,–,0.0
+1951,24,Darlington,36.0,50.0,67.0,Jim Fiebelkorn,Jim Fiebelkorn,'51 Lincoln,360.0,50.0,–,0.0
+1951,24,Darlington,37.0,21.0,37.0,Gene Comstock,Gene Comstock,'50 Oldsmobile,357.0,50.0,–,0.0
+1951,24,Darlington,38.0,65.0,74.0,Oliver Dial,Preston Jones,'51 Chevrolet,355.0,50.0,–,0.0
+1951,24,Darlington,39.0,22.0,60.0,Jim Paschal,Wheatley Motors (Al Wheatley),'50 Ford,353.0,50.0,–,0.0
+1951,24,Darlington,40.0,79.0,32.0,Reino Tulonen,Reino Tulonen,'51 Henry J,353.0,50.0,–,0.0
+1951,24,Darlington,41.0,61.0,94.0,Ted Chamberlain,Dell Pearson,'51 Plymouth,340.0,50.0,–,0.0
+1951,24,Darlington,42.0,73.0,96.0,J.E. Hardie,J.E. Hardie,'51 Ford,339.0,50.0,–,0.0
+1951,24,Darlington,43.0,41.0,93.0,Donald Thomas,Herb Thomas,'51 Plymouth,337.0,50.0,–,0.0
+1951,24,Darlington,44.0,75.0,9.0,Iggy Katona,Iggy Katona,'51 Chrysler,337.0,50.0,–,0.0
+1951,24,Darlington,45.0,70.0,20.0,Joe Merola,Joe Merola,'51 Oldsmobile,335.0,50.0,–,0.0
+1951,24,Darlington,46.0,76.0,33.0,Dave Anderson,Bill Caltrider,'51 Kaiser,335.0,50.0,crash,0.0
+1951,24,Darlington,47.0,57.0,49.0,Bob Pronger,Bob Pronger,'50 Oldsmobile,332.0,50.0,–,0.0
+1951,24,Darlington,48.0,17.0,57.0,Jack Smith,Wally Marks,'51 Oldsmobile,323.0,50.0,–,0.0
+1951,24,Darlington,49.0,78.0,43.0,Billy Tibbert,Billy Tibbert,'51 Dodge,318.0,50.0,–,0.0
+1951,24,Darlington,50.0,69.0,75.0,Jimmy Warden,Cain-Bowman,'51 Hudson,314.0,50.0,–,0.0
+1951,24,Darlington,51.0,58.0,5.0,Gene Darragh,Griffin Motors (Bob Griffin),'50 Oldsmobile,309.0,50.0,–,0.0
+1951,24,Darlington,52.0,53.0,27.0,Gwyn Staley,The Wilkes Boys,'51 Ford,303.0,50.0,–,0.0
+1951,24,Darlington,53.0,72.0,21.0,Jim Delaney,Bob Osiecki,'51 Ford,294.0,50.0,–,0.0
+1951,24,Darlington,54.0,33.0,15.0,Erick Erickson,Advance Electric / Packer (Erick Erickson),'51 Pontiac,281.0,50.0,–,0.0
+1951,24,Darlington,55.0,68.0,2.0,Bill Blair,Bill Blair,'51 Ford,275.0,50.0,–,0.0
+1951,24,Darlington,56.0,14.0,87.0,Buck Baker,Troy Motor Co. (Buck Baker),'51 Ford,275.0,50.0,–,0.0
+1951,24,Darlington,57.0,26.0,41.0,Curtis Turner,Eanes Motor Co. (John Eanes),'51 Oldsmobile,272.0,480.0,engine,43.0
+1951,24,Darlington,58.0,40.0,72.0,Wade Fields,James Hinnant,'51 Plymouth,268.0,50.0,–,0.0
+1951,24,Darlington,59.0,15.0,22.0,Lloyd Dane,Lloyd Dane,'51 Ford,263.0,50.0,–,0.0
+1951,24,Darlington,60.0,64.0,48.0,John Barker,Leo Sigman,'51 Studebaker,258.0,50.0,–,0.0
+1951,24,Darlington,61.0,77.0,44.0,Buck Baity,Buck Baity,'50 Buick,248.0,,–,0.0
+1951,24,Darlington,62.0,8.0,28.0,Ray Chase,Bill Sheldon,'50 Oldsmobile,237.0,,–,0.0
+1951,24,Darlington,63.0,18.0,25.0,Jimmy Thompson,Bowie Motor Company (Leland Colvin),'51 Ford,236.0,,–,0.0
+1951,24,Darlington,64.0,67.0,3.0,Jimmy Ayers,Jimmy Ayers,'50 Plymouth,225.0,,–,0.0
+1951,24,Darlington,65.0,9.0,38.0,Frank Gise,B.R. Waller,'51 Studebaker,215.0,,wheel,0.0
+1951,24,Darlington,66.0,32.0,97.0,Sandy Lynch,Sandy Lynch,'51 Ford,215.0,,–,0.0
+1951,24,Darlington,67.0,28.0,80.0,Bob Johnson,I.D. Stenstrom,'51 Studebaker,214.0,,–,0.0
+1951,24,Darlington,68.0,66.0,89.0,Herb Trimble,Herb Trimble,'51 Oldsmobile,198.0,,–,0.0
+1951,24,Darlington,69.0,37.0,55.0,Bub King,Bub King,'50 Plymouth,149.0,,–,0.0
+1951,24,Darlington,70.0,74.0,40.0,Tommy Thompson,A.W. Miller,'51 Nash,148.0,,rf hub,0.0
+1951,24,Darlington,71.0,34.0,52.0,Bill Rexford,George Hartley,'50 Oldsmobile,143.0,,–,0.0
+1951,24,Darlington,72.0,81.0,58.0,Fred Moore,Walt Jarrod,'51 Mercury,112.0,,–,0.0
+1951,24,Darlington,73.0,46.0,26.0,Weldon Adams,Leland Colvin,'51 Plymouth,104.0,,–,0.0
+1951,24,Darlington,74.0,36.0,47.0,Murrace Walker,Murrace Walker,'51 Studebaker,104.0,,–,0.0
+1951,24,Darlington,75.0,71.0,82.0,Joe Eubanks,Oates Motor Co. (Phil Oates),'51 Oldsmobile,92.0,,–,0.0
+1951,24,Darlington,76.0,35.0,98.0,Johnny Mantz,Johnny Mantz,'51 Nash,88.0,,valve,0.0
+1951,24,Darlington,77.0,56.0,39.0,Rudy Hires,Rudy Hires,'51 Ford,82.0,,–,0.0
+1951,24,Darlington,78.0,59.0,35.0,Sonny Black,Sonny Black,'51 Plymouth,73.0,,–,0.0
+1951,24,Darlington,79.0,13.0,59.0,Lloyd Moore,Julian Buesink,'51 Ford,61.0,,–,0.0
+1951,24,Darlington,80.0,42.0,19.0,Lee Connell,Lee Connell,'51 Pontiac,58.0,,crash,0.0
+1951,24,Darlington,81.0,20.0,73.0,Bobby Booth,Stanley Moore,'50 Oldsmobile,53.0,,–,0.0
+1951,24,Darlington,82.0,1.0,23.0,Frank Mundy,Perry Smith,'51 Studebaker,12.0,,oil pressure,0.0
+1951,25,Columbia,1.0,1,91.0,Tim Flock,Black Phantom (Ted Chester),'51 Oldsmobile,200,1000.0,running,128.0
+1951,25,Columbia,2.0,4,11.0,Fireball Roberts,Ed Saverance,'51 Ford,200,700.0,running,0.0
+1951,25,Columbia,3.0,–,0.0,Jimmie Lewallen,Hubert Hamilton,'51 Plymouth,–,450.0,running,0.0
+1951,25,Columbia,4.0,2,7.0,Bob Flock,Gray Ghost (Ted Chester),'51 Oldsmobile,–,350.0,running,72.0
+1951,25,Columbia,5.0,–,87.0,Buck Baker,Griffin Motors (Bob Griffin),'51 Oldsmobile,–,200.0,running,0.0
+1951,25,Columbia,6.0,–,93.0,Donald Thomas,Herb Thomas,'51 Plymouth,–,150.0,–,0.0
+1951,25,Columbia,7.0,12,71.0,Cotton Owens,F.J. Bland,'51 Plymouth,–,125.0,–,0.0
+1951,25,Columbia,8.0,14,70.0,Bud Farrell,William Gundaker,'50 Plymouth,–,100.0,–,0.0
+1951,25,Columbia,9.0,10,16.0,Bill Snowden,Bill Snowden,'51 Ford,199,75.0,running,0.0
+1951,25,Columbia,10.0,8,14.0,Fonty Flock,Red Devil (Frank Christian),'51 Oldsmobile,–,50.0,–,0.0
+1951,25,Columbia,11.0,16,68.0,Dell Pearson,Dell Pearson,'50 Plymouth,–,25.0,–,0.0
+1951,25,Columbia,12.0,9,28.0,Ray Chase,Bill Sheldon,'50 Oldsmobile,–,25.0,–,0.0
+1951,25,Columbia,13.0,–,83.0,Bill Miller,B.J. Dantone,'51 Ford,–,25.0,–,0.0
+1951,25,Columbia,14.0,–,,Johnny Thompson,–,'50 Oldsmobile,–,25.0,–,0.0
+1951,25,Columbia,15.0,–,,Jesse White,–,'51 Studebaker,–,25.0,–,0.0
+1951,25,Columbia,16.0,6,26.0,Weldon Adams,Leland Colvin,'50 Plymouth,–,25.0,–,0.0
+1951,25,Columbia,17.0,3,23.0,Frank Mundy,Perry Smith,'51 Studebaker,104,25.0,no tires,0.0
+1951,25,Columbia,18.0,–,42.0,Lee Petty,Petty Special (Petty Enterprises),'51 Plymouth,–,25.0,–,0.0
+1951,25,Columbia,19.0,–,55.0,Marshall Weatherly,Blythe Motors (Buddy Helms),'51 Nash,–,25.0,–,0.0
+1951,25,Columbia,20.0,–,92.0,Herb Thomas,Fabulous Hudson Hornet (Herb Thomas),'51 Hudson,97,25.0,crash,0.0
+1951,25,Columbia,21.0,5,31.0,Jesse James Taylor,Jesse James Taylor,'51 Hudson,–,25.0,–,0.0
+1951,25,Columbia,22.0,–,,Tommy Wells,–,'51 Henry J,–,25.0,–,0.0
+1951,25,Columbia,23.0,7,18.0,George Seeger,George's Motors (George Seeger),'51 Studebaker,–,25.0,–,0.0
+1951,25,Columbia,24.0,11,15.0,Erick Erickson,Packer (Erick Erickson),'51 Pontiac,–,25.0,–,0.0
+1951,25,Columbia,25.0,13,64.0,Bill Widenhouse,Bill Widenhouse,'51 Plymouth,–,25.0,–,0.0
+1951,25,Columbia,26.0,15,99.0,Leonard Tippett,Leonard Tippett,'51 Hudson,–,25.0,–,0.0
+1951,25,Columbia,27.0,–,82.0,Joe Eubanks,Oates Motor Co. (Phil Oates),'50 Oldsmobile,–,25.0,–,0.0
+1951,25,Columbia,28.0,–,,Jack McClure,–,'51 Henry J,–,25.0,–,0.0
+1951,25,Columbia,29.0,–,1.0,Harold Kite,Julian Buesink,'51 Oldsmobile,–,25.0,–,0.0
+1951,26,Macon,1.0,6,92.0,Herb Thomas,Herb Thomas,'51 Plymouth,200,1000.0,running,94.0
+1951,26,Macon,2.0,–,51.0,Gober Sosebee,Cherokee Garage (Gober Sosebee),'51 Oldsmobile,198,700.0,running,0.0
+1951,26,Macon,3.0,–,60.0,Jim Paschal,Julian Buesink,'50 Ford,–,450.0,running,0.0
+1951,26,Macon,4.0,3,14.0,Fonty Flock,Red Devil (Frank Christian),'51 Oldsmobile,–,350.0,running,0.0
+1951,26,Macon,5.0,–,93.0,Donald Thomas,Herb Thomas,'51 Plymouth,–,200.0,running,0.0
+1951,26,Macon,6.0,–,71.0,Cotton Owens,F.J. Bland,'51 Plymouth,–,150.0,–,0.0
+1951,26,Macon,7.0,9,38.0,Frank Gise,B.R. Waller,'51 Studebaker,–,125.0,–,0.0
+1951,26,Macon,8.0,4,8.0,Billy Carden,Sam Knox,'50 Cadillac,–,100.0,–,0.0
+1951,26,Macon,9.0,–,,Bill Miller,B.J. Dantone,'51 Ford,–,75.0,–,0.0
+1951,26,Macon,10.0,11,,Augie Walackas,–,'50 Oldsmobile,–,50.0,–,0.0
+1951,26,Macon,11.0,10,3.0,Jimmy Ayers,Jimmy Ayers,'51 Plymouth,–,25.0,–,0.0
+1951,26,Macon,12.0,–,,C.H. Dingler,C.H. Dingler,'50 Plymouth,–,25.0,–,0.0
+1951,26,Macon,13.0,–,82.0,Joe Eubanks,Oates Motor Co. (Phil Oates),'50 Oldsmobile,–,25.0,–,0.0
+1951,26,Macon,14.0,7,,Roscoe Thompson,–,'50 Oldsmobile,–,25.0,crash,0.0
+1951,26,Macon,15.0,5,31.0,Jesse James Taylor,Jesse James Taylor,'51 Hudson,106,25.0,overheating,95.0
+1951,26,Macon,16.0,–,97.0,Sandy Lynch,Sandy Lynch,'51 Plymouth,–,25.0,–,0.0
+1951,26,Macon,17.0,–,,Gene Tapia,–,–,–,25.0,–,0.0
+1951,26,Macon,18.0,1,7.0,Bob Flock,Gray Ghost (Ted Chester),'51 Oldsmobile,–,25.0,–,11.0
+1951,26,Macon,19.0,–,55.0,Marshall Weatherly,Blythe Motors (Buddy Helms),'51 Nash,–,25.0,–,0.0
+1951,26,Macon,20.0,8,,Johnny Thompson,–,'50 Oldsmobile,–,25.0,crash,0.0
+1951,26,Macon,21.0,–,42.0,Lee Petty,Petty Special (Petty Enterprises),'51 Plymouth,–,25.0,–,0.0
+1951,26,Macon,22.0,2,91.0,Tim Flock,Black Phantom (Ted Chester),'51 Oldsmobile,–,25.0,–,0.0
+1951,27,Langhorne,1.0,3,92.0,Herb Thomas,Fabulous Hudson Hornet (Herb Thomas),'51 Hudson,150,1275.0,running,5.0
+1951,27,Langhorne,2.0,1,14.0,Fonty Flock,Red Devil (Frank Christian),'51 Oldsmobile,150,800.0,running,130.0
+1951,27,Langhorne,3.0,–,21.0,Dick Rathmann,Walt Chapman,'51 Hudson,–,600.0,running,0.0
+1951,27,Langhorne,4.0,–,120.0,John McGinley,Walt Chapman,'51 Hudson,–,500.0,running,0.0
+1951,27,Langhorne,5.0,6,91.0,Tim Flock,Black Phantom (Ted Chester),'51 Oldsmobile,–,300.0,running,15.0
+1951,27,Langhorne,6.0,2,6.0,Marshall Teague,Fabulous Hudson Hornet (Marshall Teague),'51 Hudson,–,200.0,running,0.0
+1951,27,Langhorne,7.0,–,67.0,Jim Fiebelkorn,Jim Fiebelkorn,'51 Lincoln,–,150.0,running,0.0
+1951,27,Langhorne,8.0,–,66.0,Bud Riley,Northeast Motors (Joe Beccue),'51 Hudson,–,125.0,running,0.0
+1951,27,Langhorne,9.0,–,42.0,Lee Petty,Petty Special (Petty Enterprises),'51 Plymouth,–,100.0,running,0.0
+1951,27,Langhorne,10.0,–,2.0,Bill Blair,Hubert Westmoreland,'51 Ford,–,100.0,running,0.0
+1951,27,Langhorne,11.0,4,9.0,Iggy Katona,Iggy Katona,'51 Chrysler,–,25.0,–,0.0
+1951,27,Langhorne,12.0,–,70.0,Bud Farrell,William Gundaker,'51 Plymouth,–,25.0,–,0.0
+1951,27,Langhorne,13.0,–,,Nelson Applegate,–,'51 Hudson,–,25.0,–,0.0
+1951,27,Langhorne,14.0,–,421.0,Jack Reynolds,Wiss Brothers,'51 Plymouth,–,25.0,–,0.0
+1951,27,Langhorne,15.0,–,31.0,Jesse James Taylor,Jesse James Taylor,'51 Hudson,–,25.0,–,0.0
+1951,27,Langhorne,16.0,–,,George Clark,–,'50 Oldsmobile,–,25.0,–,0.0
+1951,27,Langhorne,17.0,–,99.0,Leonard Tippett,Leonard Tippett,'51 Hudson,–,25.0,–,0.0
+1951,27,Langhorne,18.0,–,66.0,Pappy Hough,Pappy Hough,'51 Ford,–,25.0,–,0.0
+1951,27,Langhorne,19.0,–,,Bill Miller,–,'51 Studebaker,–,25.0,–,0.0
+1951,27,Langhorne,20.0,–,55.0,Marshall Weatherly,Blythe Motors (Buddy Helms),'51 Nash,–,25.0,–,0.0
+1951,27,Langhorne,21.0,–,,Don Black,–,'50 Ford,–,25.0,crash,0.0
+1951,27,Langhorne,22.0,–,,Dick Eagan,Dick Eagan,'50 Plymouth,–,25.0,–,0.0
+1951,27,Langhorne,23.0,–,,Charles Gattilia,–,'51 Ford,–,25.0,–,0.0
+1951,27,Langhorne,24.0,–,86.0,Eddie Sheeler,–,'51 Hudson,–,25.0,–,0.0
+1951,27,Langhorne,25.0,–,,Sammy Packard,–,'49 Ford,–,25.0,–,0.0
+1951,27,Langhorne,26.0,–,,Rusty Rushton,–,'50 Ford,–,25.0,–,0.0
+1951,27,Langhorne,27.0,–,,Jim Ross,–,'49 Ford,–,25.0,–,0.0
+1951,27,Langhorne,28.0,–,,John DuBoise,–,'50 Plymouth,84,25.0,crash,0.0
+1951,27,Langhorne,29.0,–,,Bill Remaly,–,'49 Ford,80,25.0,crash,0.0
+1951,27,Langhorne,30.0,5,7.0,Bob Flock,Gray Ghost (Ted Chester),'51 Oldsmobile,–,25.0,–,0.0
+1951,27,Langhorne,31.0,–,,Augie Walackas,–,'51 Oldsmobile,–,25.0,–,0.0
+1951,27,Langhorne,32.0,–,,Sam DiRusso,–,'49 Ford,–,25.0,–,0.0
+1951,27,Langhorne,33.0,–,,Eddie LaRue,–,'50 Ford,–,25.0,–,0.0
+1951,27,Langhorne,34.0,–,,Reino Tulonen,Reino Tulonen,'51 Henry J,–,25.0,–,0.0
+1951,27,Langhorne,35.0,–,,Frank Holzhauer,–,'50 Plymouth,–,25.0,crash,0.0
+1951,27,Langhorne,36.0,–,,Dawson Lechlider,Dawson Lechlider,'51 Henry J,49,25.0,crash,0.0
+1951,28,Charlotte,1.0,–,92,Herb Thomas,Fabulous Hudson Hornet (Herb Thomas),'51 Hudson,200,1000.0,running,105.0
+1951,28,Charlotte,2.0,–,90,Shorty York,Russ Loh,'50 Plymouth,–,700.0,running,0.0
+1951,28,Charlotte,3.0,–,93,Donald Thomas,Herb Thomas,'50 Plymouth,–,450.0,running,0.0
+1951,28,Charlotte,4.0,–,2,Bill Blair,Bill Blair,'51 Ford,–,350.0,running,0.0
+1951,28,Charlotte,5.0,–,0,Jimmie Lewallen,Hubert Hamilton,'51 Plymouth,–,200.0,running,0.0
+1951,28,Charlotte,6.0,–,17,Buddy Shuman,R.H. Yandell,'51 Ford,–,150.0,–,0.0
+1951,28,Charlotte,7.0,1,8,Billy Carden,Sam Knox,'50 Oldsmobile,–,125.0,–,58.0
+1951,28,Charlotte,8.0,–,88,Dell Pearson,Dell Pearson,'51 Plymouth,–,100.0,–,0.0
+1951,28,Charlotte,9.0,–,60,Jim Paschal,Julian Buesink,'50 Ford,–,75.0,–,0.0
+1951,28,Charlotte,10.0,–,53,Clyde Minter,–,'50 Ford,–,50.0,–,0.0
+1951,28,Charlotte,11.0,–,91,Tim Flock,Black Phantom (Ted Chester),'51 Oldsmobile,151,25.0,axle,0.0
+1951,28,Charlotte,12.0,–,,J.C. White,–,'51 Studebaker,–,25.0,–,0.0
+1951,28,Charlotte,13.0,–,87,Buck Baker,Griffin Motors (Bob Griffin),'50 Oldsmobile,–,25.0,–,0.0
+1951,28,Charlotte,14.0,–,82,Joe Eubanks,Oates Motor Co. (Phil Oates),'50 Oldsmobile,–,25.0,–,0.0
+1951,28,Charlotte,15.0,–,71,Cotton Owens,F.J. Bland,'51 Plymouth,–,25.0,crash,0.0
+1951,28,Charlotte,16.0,–,7,Bob Flock,Gray Ghost (Ted Chester),'51 Oldsmobile,95,25.0,mechanical,37.0
+1951,28,Charlotte,17.0,–,217,Bill Miller,B.J. Dantone,'51 Ford,–,25.0,crash,0.0
+1951,28,Charlotte,18.0,–,22,Billy Myers,R.G. Shelton,'51 Hudson,–,25.0,–,0.0
+1951,28,Charlotte,19.0,–,41,Curtis Turner,Eanes Motor Co. (John Eanes),'51 Oldsmobile,–,25.0,sway bar,0.0
+1951,28,Charlotte,20.0,–,55,Marshall Weatherly,Blythe Motors (Buddy Helms),'51 Nash,–,25.0,–,0.0
+1951,28,Charlotte,21.0,–,31,Jesse James Taylor,Jesse James Taylor,'51 Hudson,–,25.0,–,0.0
+1951,28,Charlotte,22.0,–,,Otis Martin,–,'50 Buick,–,25.0,–,0.0
+1951,28,Charlotte,23.0,–,,Bill LaGrance,–,'48 Ford,–,25.0,–,0.0
+1951,28,Charlotte,24.0,–,64,Bill Widenhouse,Bill Widenhouse,'51 Plymouth,–,25.0,–,0.0
+1951,28,Charlotte,25.0,–,26,Weldon Adams,Leland Colvin,'50 Plymouth,–,25.0,–,0.0
+1951,28,Charlotte,26.0,–,23,Frank Mundy,Perry Smith,'51 Studebaker,–,25.0,–,0.0
+1951,28,Charlotte,27.0,–,64-X,Ken Klutzz,–,'49 Ford,–,,–,0.0
+1951,28,Charlotte,28.0,–,79,Ray Pruitt,–,'50 Dodge,–,,–,0.0
+1951,28,Charlotte,29.0,–,12,Guy Waller,–,Oldsmobile,–,,–,0.0
+1951,28,Charlotte,30.0,–,110,Eddie Anderson,–,Nash,–,,–,0.0
+1951,29,Dayton,1.0,1,14.0,Fonty Flock,Red Devil (Frank Christian),'51 Oldsmobile,200,1000.0,running,200.0
+1951,29,Dayton,2.0,9,52.0,Neil Cole,John Golabek,'50 Oldsmobile,199,700.0,running,0.0
+1951,29,Dayton,3.0,2,59.0,Lloyd Moore,Julian Buesink,'51 Ford,–,450.0,running,0.0
+1951,29,Dayton,4.0,12,42.0,Lee Petty,Petty Special (Petty Enterprises),'51 Plymouth,–,350.0,running,0.0
+1951,29,Dayton,5.0,10,66.0,Bud Riley,Northeast Motors (Joe Beccue),'51 Hudson,–,200.0,running,0.0
+1951,29,Dayton,6.0,19,,Ronnie Kohler,–,'49 Plymouth,–,150.0,–,0.0
+1951,29,Dayton,7.0,–,,Jimmy Florian,Don Rogala,'50 Oldsmobile,–,125.0,–,0.0
+1951,29,Dayton,8.0,28,54.0,Don Bailey,–,'50 Oldsmobile,–,100.0,–,0.0
+1951,29,Dayton,9.0,–,89.0,Herb Trimble,Herb Trimble,'51 Oldsmobile,–,75.0,–,0.0
+1951,29,Dayton,10.0,–,,Bill Braun,–,–,–,50.0,–,0.0
+1951,29,Dayton,11.0,–,56.0,Ed Benedict,Ken Swihart,'51 Hudson,–,25.0,–,0.0
+1951,29,Dayton,12.0,–,40.0,Tommy Thompson,Tommy Thompson,'51 Chrysler,–,25.0,–,0.0
+1951,29,Dayton,13.0,–,,Jim Mayes,–,–,–,25.0,–,0.0
+1951,29,Dayton,14.0,–,,Jerry Groh,–,–,–,25.0,–,0.0
+1951,29,Dayton,15.0,–,,Art Plas,–,–,–,25.0,–,0.0
+1951,29,Dayton,16.0,–,67.0,Jim Reed,Jim Reed,'50 Ford,–,25.0,–,0.0
+1951,29,Dayton,17.0,–,9.0,Iggy Katona,Iggy Katona,'51 Chrysler,–,25.0,–,0.0
+1951,29,Dayton,18.0,–,21.0,Jim Delaney,Bob Osiecki,'48 Ford,–,25.0,crash,0.0
+1951,29,Dayton,19.0,–,,Quinton Daniels,–,'50 Ford,–,25.0,–,0.0
+1951,29,Dayton,20.0,–,81.0,Pappy Hough,Pappy Hough,'51 Ford,–,25.0,–,0.0
+1951,29,Dayton,21.0,–,,Tommy Stenger,–,–,–,25.0,–,0.0
+1951,29,Dayton,22.0,–,22.0,Oda Greene,Harold Lucas,'52 Hudson,–,25.0,–,0.0
+1951,29,Dayton,23.0,–,,Harold Lucas,Harold Lucas,–,–,25.0,–,0.0
+1951,29,Dayton,24.0,–,,Hank Russ,–,–,–,25.0,–,0.0
+1951,29,Dayton,25.0,–,121.0,Dick Rathmann,Walt Chapman,'51 Hudson,–,25.0,–,0.0
+1951,29,Dayton,26.0,–,128.0,Charles Gattilia,–,'51 Ford,–,25.0,crash,0.0
+1951,29,Dayton,27.0,–,,Bob White,–,–,–,25.0,–,0.0
+1951,29,Dayton,28.0,–,67.0,Jim Fiebelkorn,Jim Fiebelkorn,'51 Lincoln,–,25.0,–,0.0
+1951,29,Dayton,29.0,–,36.0,Frank Carlini,Frank Carlini,Studebaker,–,25.0,crash,0.0
+1951,29,Dayton,30.0,–,120.0,John McGinley,Walt Chapman,'51 Hudson,–,25.0,crash,0.0
+1951,29,Dayton,31.0,–,60.0,Don Eggert,Don Eggert,'50 Plymouth,–,10.0,–,0.0
+1951,30,Wilson,1.0,1,14.0,Fonty Flock,Red Devil (Frank Christian),'51 Oldsmobile,200,1000.0,running,–
+1951,30,Wilson,2.0,–,7.0,Bob Flock,Gray Ghost (Ted Chester),'51 Oldsmobile,–,700.0,running,–
+1951,30,Wilson,3.0,–,0.0,Jimmie Lewallen,Hubert Hamilton,'51 Plymouth,–,450.0,running,–
+1951,30,Wilson,4.0,–,60.0,Jim Paschal,Julian Buesink,'50 Ford,–,350.0,running,–
+1951,30,Wilson,5.0,2,16.0,Bill Snowden,Bill Snowden,'51 Ford,–,200.0,running,–
+1951,30,Wilson,6.0,–,87.0,Buck Baker,Buck Baker,'51 Plymouth,–,150.0,–,–
+1951,30,Wilson,7.0,–,,Cal Johnson,–,'51 Henry J,–,125.0,–,–
+1951,30,Wilson,8.0,–,99.0,Leonard Tippett,Leonard Tippett,'51 Plymouth,–,100.0,–,–
+1951,30,Wilson,9.0,–,,Bill Champion,Bill Champion,'50 Chevrolet,–,75.0,–,–
+1951,30,Wilson,10.0,–,93.0,Donald Thomas,Herb Thomas,'51 Plymouth,–,50.0,–,–
+1951,30,Wilson,11.0,–,2.0,Bill Blair,Bill Blair,'51 Ford,–,25.0,–,–
+1951,30,Wilson,12.0,–,,Ray Throckmorton,–,'51 Henry J,–,25.0,–,–
+1951,30,Wilson,13.0,–,,Oliver Dial,Preston Jones,'50 Ford,–,25.0,–,–
+1951,30,Wilson,14.0,–,92.0,Herb Thomas,Fabulous Hudson Hornet (Herb Thomas),'51 Hudson,–,25.0,–,–
+1951,30,Wilson,15.0,–,,Maudis Brissette,–,'51 Henry J,–,25.0,–,–
+1951,30,Wilson,16.0,–,90.0,Jack Holloway,Jack Holloway,'50 Plymouth,–,25.0,–,–
+1951,30,Wilson,17.0,–,88.0,Dell Pearson,Dell Pearson,'51 Plymouth,–,25.0,–,–
+1951,31,Hillsboro,1.0,1,92.0,Herb Thomas,Fabulous Hudson Hornet (Herb Thomas),'51 Hudson,150.0,1000.0,running,65.0
+1951,31,Hillsboro,2.0,–,99.0,Leonard Tippett,Leonard Tippett,'51 Hudson,149.0,700.0,running,0.0
+1951,31,Hillsboro,3.0,–,82.0,Joe Eubanks,Oates Motor Co. (Phil Oates),'50 Oldsmobile,148.0,450.0,running,0.0
+1951,31,Hillsboro,4.0,–,60.0,Jim Paschal,Julian Buesink,'50 Ford,147.0,350.0,running,0.0
+1951,31,Hillsboro,5.0,–,42.0,Lee Petty,Petty Special (Petty Enterprises),'51 Plymouth,147.0,200.0,running,0.0
+1951,31,Hillsboro,6.0,–,93.0,Donald Thomas,Herb Thomas,'51 Plymouth,142.0,150.0,–,0.0
+1951,31,Hillsboro,7.0,–,,Furman Lancaster,–,'50 Lincoln,140.0,125.0,–,0.0
+1951,31,Hillsboro,8.0,–,,Alton Haddock,–,'50 Ford,136.0,100.0,–,0.0
+1951,31,Hillsboro,9.0,–,2.0,Bill Blair,Bill Blair,'51 Ford,136.0,75.0,–,0.0
+1951,31,Hillsboro,10.0,–,37.0,Coleman Lawrence,Coleman Lawrence,'50 Ford,130.0,50.0,–,0.0
+1951,31,Hillsboro,11.0,–,,J.C. White,–,'51 Studebaker,128.0,25.0,–,0.0
+1951,31,Hillsboro,12.0,–,22.0,Billy Myers,R.G. Shelton,'51 Hudson,113.0,25.0,hub,0.0
+1951,31,Hillsboro,13.0,–,24.0,Jimmie Lewallen,Julian Petty,'51 Plymouth,111.0,25.0,engine,0.0
+1951,31,Hillsboro,14.0,–,88.0,Dell Pearson,Dell Pearson,'51 Plymouth,94.0,25.0,–,0.0
+1951,31,Hillsboro,15.0,2,14.0,Fonty Flock,Red Devil (Frank Christian),'51 Oldsmobile,88.0,25.0,engine,85.0
+1951,31,Hillsboro,16.0,–,,Bob Walters,–,'51 Plymouth,79.0,25.0,–,0.0
+1951,31,Hillsboro,17.0,–,,Leon Sales,–,'51 Nash,68.0,25.0,–,0.0
+1951,31,Hillsboro,18.0,–,,Roscoe Thompson,–,'51 Ford,64.0,25.0,–,0.0
+1951,31,Hillsboro,19.0,–,87.0,Buck Baker,Buck Baker,'50 Plymouth,63.0,25.0,–,0.0
+1951,31,Hillsboro,20.0,–,,Jerry Wimbish,Jerry Wimbish,'50 Oldsmobile,51.0,25.0,–,0.0
+1951,31,Hillsboro,21.0,–,51.0,Gober Sosebee,Cherokee Garage (Gober Sosebee),'50 Oldsmobile,42.0,25.0,–,0.0
+1951,31,Hillsboro,22.0,–,,Slick Smith,–,'51 Studebaker,27.0,25.0,–,0.0
+1951,31,Hillsboro,23.0,–,,Clyde Minter,–,'50 Plymouth,22.0,25.0,–,0.0
+1951,31,Hillsboro,24.0,–,,Curtis Hunt,–,'51 Hudson,15.0,25.0,–,0.0
+1951,32,Thompson,1.0,1.0,52.0,Neil Cole,John Golabek,'50 Oldsmobile,200,1000.0,running,45.0
+1951,32,Thompson,2.0,4.0,67.0,Jim Reed,Jim Reed,'51 Ford,199,700.0,running,58.0
+1951,32,Thompson,3.0,11.0,,Dick Eagan,Dick Eagan,'50 Plymouth,–,450.0,running,0.0
+1951,32,Thompson,4.0,16.0,8.0,Billy Carden,Sam Knox,'50 Oldsmobile,–,350.0,running,0.0
+1951,32,Thompson,5.0,6.0,32.0,Reino Tulonen,Reino Tulonen,'51 Henry J,–,200.0,running,0.0
+1951,32,Thompson,6.0,22.0,81.0,Pappy Hough,Pappy Hough,'51 Ford,–,150.0,–,0.0
+1951,32,Thompson,7.0,15.0,91.0,Tim Flock,Black Phantom (Ted Chester),'51 Oldsmobile,–,125.0,–,0.0
+1951,32,Thompson,8.0,8.0,,Joe Sommers,–,'50 Ford,–,100.0,–,0.0
+1951,32,Thompson,9.0,21.0,,Bill Cintia,–,'50 Ford,–,75.0,–,0.0
+1951,32,Thompson,10.0,34.0,21.0,Jim Delaney,Bob Osiecki,'51 Plymouth,–,50.0,–,0.0
+1951,32,Thompson,11.0,28.0,128.0,Charles Gattilia,Colonial Motors (Charles Gattalia),'51 Studebaker,–,25.0,–,0.0
+1951,32,Thompson,12.0,18.0,54.0,Don Bailey,–,'51 Studebaker,–,25.0,–,0.0
+1951,32,Thompson,13.0,31.0,,George Cavanna,–,'50 Oldsmobile,–,25.0,–,0.0
+1951,32,Thompson,14.0,12.0,4.0,Steve Dabb,–,'50 Ford,–,25.0,–,0.0
+1951,32,Thompson,15.0,36.0,,Billy Tibbert,Billy Tibbert,'50 Ford,–,25.0,–,0.0
+1951,32,Thompson,16.0,38.0,59.0,Lloyd Moore,Julian Buesink,'51 Ford,–,25.0,–,0.0
+1951,32,Thompson,17.0,19.0,,Jim Ross,–,'51 Ford,–,25.0,–,0.0
+1951,32,Thompson,18.0,13.0,98.0,Lyle Scott,–,'51 Chrysler,–,25.0,running,0.0
+1951,32,Thompson,19.0,7.0,55.0,Rusty Rushton,–,'50 Oldsmobile,–,25.0,tires,0.0
+1951,32,Thompson,20.0,24.0,,Roy Forsythe,–,'50 Plymouth,–,25.0,–,0.0
+1951,32,Thompson,21.0,2.0,23.0,Frank Mundy,Perry Smith,'51 Studebaker,–,25.0,–,13.0
+1951,32,Thompson,22.0,3.0,,Jerry Russo,–,–,–,,–,0.0
+1951,32,Thompson,23.0,5.0,,Ray Hill,–,Kaiser,–,,brakes,0.0
+1951,32,Thompson,24.0,9.0,,Junior Pooler,–,–,–,,–,0.0
+1951,32,Thompson,25.0,10.0,,Sammy Packard,–,'49 Ford,–,,–,0.0
+1951,32,Thompson,26.0,14.0,92.0,Herb Thomas,Fabulous Hudson Hornet (Herb Thomas),'51 Hudson,97,25.0,crash,84.0
+1951,32,Thompson,27.0,17.0,60.0,Julian Buesink,Julian Buesink,'50 Ford,–,,–,0.0
+1951,32,Thompson,28.0,20.0,,Paul Pettit,–,–,–,,–,0.0
+1951,32,Thompson,29.0,23.0,,Ronnie Kohler,–,–,–,,–,0.0
+1951,32,Thompson,30.0,25.0,,Dave Humphrey,–,–,–,,–,0.0
+1951,32,Thompson,31.0,26.0,,Dave Reiley,–,–,–,,–,0.0
+1951,32,Thompson,32.0,27.0,,Tom Gifford,–,–,–,,–,0.0
+1951,32,Thompson,33.0,29.0,,Jim Miller,–,–,–,,–,0.0
+1951,32,Thompson,34.0,30.0,,Ray Janelle,–,–,–,,–,0.0
+1951,32,Thompson,35.0,32.0,,Dick Richter,–,–,–,,–,0.0
+1951,32,Thompson,36.0,33.0,,Joe Skovron,–,–,–,,crash,0.0
+1951,32,Thompson,37.0,35.0,,Frank Travers,–,–,–,,–,0.0
+1951,32,Thompson,38.0,37.0,,Wimpy Ervin,–,–,–,,–,0.0
+1951,33,Shippenville,1.0,1,91.0,Tim Flock,Black Phantom (Ted Chester),'51 Oldsmobile,200,1000.0,running,200.0
+1951,33,Shippenville,2.0,–,120.0,John McGinley,Walt Chapman,'51 Hudson,199,700.0,running,0.0
+1951,33,Shippenville,3.0,2,8.0,Billy Carden,Sam Knox,'50 Oldsmobile,199,450.0,running,0.0
+1951,33,Shippenville,4.0,–,,Jimmy Florian,Don Rogala,'50 Oldsmobile,–,350.0,running,0.0
+1951,33,Shippenville,5.0,–,59.0,Lloyd Moore,Julian Buesink,'51 Ford,–,200.0,running,0.0
+1951,33,Shippenville,6.0,–,,Hap Jones,–,–,–,150.0,–,0.0
+1951,33,Shippenville,7.0,–,56.0,Ed Benedict,Ken Swihart,'51 Hudson,–,125.0,–,0.0
+1951,33,Shippenville,8.0,–,,Bob Dietrich,–,–,–,100.0,–,0.0
+1951,33,Shippenville,9.0,–,,Russ Hepler,–,–,–,75.0,–,0.0
+1951,33,Shippenville,10.0,–,,Dick Stone,–,–,–,50.0,–,0.0
+1951,33,Shippenville,11.0,–,,Bill Lillenthal,–,–,–,25.0,–,0.0
+1951,33,Shippenville,12.0,–,,Wimpy Ervin,–,–,–,25.0,–,0.0
+1951,33,Shippenville,13.0,–,128.0,Charles Gattilia,Colonial Motors (Charles Gattalia),'51 Studebaker,–,25.0,–,0.0
+1951,33,Shippenville,14.0,–,52.0,Bill Rexford,George Hartley,'50 Oldsmobile,–,25.0,–,0.0
+1951,33,Shippenville,15.0,–,54.0,Don Bailey,–,'51 Studebaker,–,25.0,–,0.0
+1951,33,Shippenville,16.0,–,,Jerry Groh,–,–,–,25.0,–,0.0
+1951,33,Shippenville,17.0,–,20.0,Joe Merola,Joe Merola,'50 Oldsmobile,–,25.0,–,0.0
+1951,33,Shippenville,18.0,–,,Nook Walters,–,'51 Plymouth,–,25.0,–,0.0
+1951,33,Shippenville,19.0,–,100.0,Quinton Daniels,–,'50 Ford,–,25.0,–,0.0
+1951,33,Shippenville,20.0,–,,Irv Leitch,–,'50 Plymouth,2,25.0,crash,0.0
+1951,34,Martinsville,1.0,3.0,7.0,Frank Mundy,Gray Ghost (Ted Chester),'51 Oldsmobile,200,1000.0,running,114.0
+1951,34,Martinsville,2.0,12.0,42.0,Lee Petty,Petty Special (Petty Enterprises),'51 Plymouth,–,700.0,running,0.0
+1951,34,Martinsville,3.0,4.0,22.0,Billy Myers,R.G. Shelton,'51 Hudson,–,450.0,running,23.0
+1951,34,Martinsville,4.0,2.0,16.0,Bill Snowden,Bill Snowden,'51 Ford,–,350.0,running,0.0
+1951,34,Martinsville,5.0,15.0,0.0,Jimmie Lewallen,Hubert Hamilton,'51 Plymouth,–,200.0,running,0.0
+1951,34,Martinsville,6.0,18.0,81.0,Pappy Hough,Pappy Hough,'51 Ford,–,150.0,–,0.0
+1951,34,Martinsville,7.0,20.0,37.0,Coleman Lawrence,Coleman Lawrence,'50 Ford,–,125.0,–,0.0
+1951,34,Martinsville,8.0,14.0,98.0,Leon Sales,Hubert Westmoreland,'50 Plymouth,–,100.0,–,0.0
+1951,34,Martinsville,9.0,16.0,88.0,Dell Pearson,Dell Pearson,'51 Plymouth,–,75.0,–,0.0
+1951,34,Martinsville,10.0,19.0,70.0,Cal Johnson,–,'51 Henry J,–,50.0,–,0.0
+1951,34,Martinsville,11.0,7.0,99.0,Leonard Tippett,Leonard Tippett,'51 Hudson,86,25.0,driveshaft,19.0
+1951,34,Martinsville,12.0,13.0,2.0,Bill Blair,Bill Blair,'51 Ford,–,25.0,–,0.0
+1951,34,Martinsville,13.0,17.0,93.0,Donald Thomas,Herb Thomas,'50 Plymouth,–,25.0,–,0.0
+1951,34,Martinsville,14.0,6.0,41.0,Curtis Turner,Eanes Motor Co. (John Eanes),'51 Oldsmobile,44,25.0,tie rod,16.0
+1951,34,Martinsville,15.0,8.0,67.0,Jim Reed,Jim Reed,'50 Lincoln,–,25.0,–,0.0
+1951,34,Martinsville,16.0,10.0,4.0,Otis Martin,Otis Martin,'48 Buick,–,25.0,–,0.0
+1951,34,Martinsville,17.0,5.0,52.0,Neil Cole,John Golabek,'50 Oldsmobile,–,25.0,–,0.0
+1951,34,Martinsville,18.0,1.0,92.0,Herb Thomas,Fabulous Hudson Hornet (Herb Thomas),'51 Hudson,28,25.0,crash,28.0
+1951,34,Martinsville,19.0,11.0,60.0,Jim Paschal,Julian Buesink,'50 Ford,–,25.0,–,0.0
+1951,34,Martinsville,20.0,23.0,5.0,Coleman Grant,–,'51 Nash,–,25.0,–,0.0
+1951,34,Martinsville,21.0,21.0,6.0,Bob Walters,–,'51 Plymouth,–,25.0,–,0.0
+1951,34,Martinsville,22.0,9.0,55.0,J.C. White,–,'51 Studebaker,–,25.0,–,0.0
+1951,34,Martinsville,23.0,22.0,9.0,Jack Wade,–,'51 Oldsmobile,–,25.0,–,0.0
+1951,35,Oakland,1.0,4,18,Marvin Burke,Bob Phillippi,'50 Mercury,250,1875.0,running,156.0
+1951,35,Oakland,2.0,–,84,Robert Caswell,Lou Mangini,'50 Plymouth,247,1250.0,running,24.0
+1951,35,Oakland,3.0,–,88,Woody Brown,Joe Mangini,'50 Oldsmobile,–,900.0,running,0.0
+1951,35,Oakland,4.0,–,55,Sam Hawks,Marvin Panch,'50 Plymouth,–,600.0,running,0.0
+1951,35,Oakland,5.0,–,9,Dick Meyer,Grant Sniffen,'50 Mercury,–,450.0,running,0.0
+1951,35,Oakland,6.0,–,56,Marvin Panch,Marvin Panch,'50 Mercury,–,350.0,running,0.0
+1951,35,Oakland,7.0,–,33,Lou Figaro,Jack Gaynor,'51 Hudson,–,200.0,running,39.0
+1951,35,Oakland,8.0,–,48,Bill Norton,Larry Bettinger,'50 Mercury,–,150.0,running,0.0
+1951,35,Oakland,9.0,–,41,John Soares,Harry Schilling,'50 Mercury,–,125.0,running,1.0
+1951,35,Oakland,10.0,–,38,Walt Davis,Walt Davis,'50 Plymouth,–,100.0,running,0.0
+1951,35,Oakland,11.0,–,14,Fonty Flock,Red Devil (Frank Christian),'51 Oldsmobile,–,75.0,–,0.0
+1951,35,Oakland,12.0,–,7,Fred Bince,Speedway Auto Sales (Chuck Meekins),'51 Hudson,–,50.0,–,0.0
+1951,35,Oakland,13.0,–,16,Fred Steinbroner,Bob Carpenter,'50 Ford,–,25.0,–,0.0
+1951,35,Oakland,14.0,–,6,Bill Ledbetter,Bill Ledbetter,'50 Ford,–,25.0,–,0.0
+1951,35,Oakland,15.0,–,22,Lloyd Dane,Lloyd Dane,'51 Ford,202,25.0,crash,0.0
+1951,35,Oakland,16.0,–,19,Les Bomar,V-Gap Spark Plugs (Les Bomar),'49 Pontiac,–,25.0,–,0.0
+1951,35,Oakland,17.0,–,,Hal Cole,–,'51 Plymouth,–,25.0,–,0.0
+1951,35,Oakland,18.0,–,35,Fuzzy Anderson,Bert Letner,'51 Hudson,–,25.0,–,0.0
+1951,35,Oakland,19.0,–,2,Danny Weinberg,Tony Sampo,'51 Studebaker,–,25.0,–,0.0
+1951,35,Oakland,20.0,1,120,Dick Rathmann,Walt Chapman,'51 Hudson,–,25.0,–,30.0
+1951,35,Oakland,21.0,–,66,Bud Riley,Northeast Motors (Joe Beccue),'51 Hudson,–,25.0,–,0.0
+1951,35,Oakland,22.0,–,25,Erick Erickson,Advance Electric (Erick Erickson),'48 Pontiac,–,25.0,–,0.0
+1951,35,Oakland,23.0,–,27,Jim Byrd,El Paso Special,'49 Buick,159,25.0,crash,0.0
+1951,35,Oakland,24.0,–,,Pug Blalock,Pug Blalock,'51 Henry J,–,25.0,–,0.0
+1951,35,Oakland,25.0,–,,Claude Wallington,–,'50 Plymouth,–,25.0,–,0.0
+1951,35,Oakland,26.0,–,3,Allen Heath,Allen Heath,'50 Plymouth,–,25.0,–,0.0
+1951,35,Oakland,27.0,–,36,Danny Letner,Bert Letner,'51 Hudson,–,25.0,–,0.0
+1951,35,Oakland,28.0,–,95,Freddie Farmer,Freddie Farmer,'51 Nash,–,25.0,crash,0.0
+1951,35,Oakland,29.0,–,31,Lloyd Porter,Stan Noble,'51 Henry J,–,25.0,–,0.0
+1951,35,Oakland,30.0,–,,Bill Amberg,Bill Amberg,Engl. Austin,94,25.0,crash,0.0
+1951,35,Oakland,31.0,–,77,Hershel McGriff,Hershel McGriff,'51 Oldsmobile,–,25.0,mechanical,0.0
+1951,35,Oakland,32.0,–,2jr,George Seeger,George Seeger,'51 Studebaker,–,25.0,crash,0.0
+1951,35,Oakland,33.0,–,54,Andy Pierce,–,'49 Plymouth,–,25.0,crash,0.0
+1951,35,Oakland,34.0,–,17,Al Jacobs,Al Jacobs,'50 Ford,–,25.0,mechanical,0.0
+1951,35,Oakland,35.0,–,72,Bill Stickler,J & M Garage,'48 Hudson,–,25.0,mechanical,0.0
+1951,36,North Wilkesboro,1.0,4.0,7.0,Fonty Flock,Gray Ghost (Ted Chester),'51 Oldsmobile,200,1000.0,running,118.0
+1951,36,North Wilkesboro,2.0,12.0,42.0,Lee Petty,Petty Special (Petty Enterprises),'51 Plymouth,–,700.0,running,0.0
+1951,36,North Wilkesboro,3.0,3.0,82.0,Joe Eubanks,Oates Motor Co. (Phil Oates),'50 Oldsmobile,–,450.0,running,0.0
+1951,36,North Wilkesboro,4.0,5.0,91.0,Tim Flock,Black Phantom (Ted Chester),'51 Oldsmobile,–,350.0,running,0.0
+1951,36,North Wilkesboro,5.0,25.0,71.0,Cotton Owens,Cotton Owens,'51 Studebaker,–,200.0,running,0.0
+1951,36,North Wilkesboro,6.0,8.0,16.0,Bill Snowden,Bill Snowden,'51 Ford,–,150.0,–,0.0
+1951,36,North Wilkesboro,7.0,14.0,0.0,Jimmie Lewallen,Hubert Hamilton,'51 Plymouth,–,125.0,–,0.0
+1951,36,North Wilkesboro,8.0,11.0,17.0,Buddy Shuman,R.H. Yandell,'51 Ford,–,100.0,–,0.0
+1951,36,North Wilkesboro,9.0,9.0,,Jerry Wimbish,Jerry Wimbish,'51 Oldsmobile,–,75.0,–,0.0
+1951,36,North Wilkesboro,10.0,2.0,77.0,Bob Flock,Ted Chester,'51 Hudson,–,50.0,–,0.0
+1951,36,North Wilkesboro,11.0,21.0,98.0,Leon Sales,Hubert Westmoreland,'50 Plymouth,–,25.0,–,0.0
+1951,36,North Wilkesboro,12.0,23.0,88.0,Dell Pearson,Dell Pearson,'51 Plymouth,–,25.0,–,0.0
+1951,36,North Wilkesboro,13.0,13.0,93.0,Donald Thomas,Herb Thomas,'50 Plymouth,161,25.0,tie rod,0.0
+1951,36,North Wilkesboro,14.0,16.0,60.0,Jim Paschal,Julian Buesink,'50 Ford,–,25.0,–,0.0
+1951,36,North Wilkesboro,15.0,17.0,64.0,Bill Widenhouse,Bill Widenhouse,'50 Plymouth,–,25.0,–,0.0
+1951,36,North Wilkesboro,16.0,24.0,37.0,Coleman Lawrence,Coleman Lawrence,'51 Ford,–,25.0,–,0.0
+1951,36,North Wilkesboro,17.0,19.0,,Glenn Dunaway,Glenn Dunaway,'51 Nash,–,25.0,–,0.0
+1951,36,North Wilkesboro,18.0,6.0,22.0,Billy Myers,R.G. Shelton,'51 Hudson,–,25.0,–,0.0
+1951,36,North Wilkesboro,19.0,26.0,9.0,Jack Wade,–,'51 Oldsmobile,–,25.0,crash,0.0
+1951,36,North Wilkesboro,20.0,7.0,99.0,Leonard Tippett,Leonard Tippett,'51 Hudson,124,25.0,crash,0.0
+1951,36,North Wilkesboro,21.0,1.0,92.0,Herb Thomas,Fabulous Hudson Hornet (Herb Thomas),'51 Hudson,82,25.0,radiator,82.0
+1951,36,North Wilkesboro,22.0,22.0,90.0,Shorty York,Russ Loh,'50 Plymouth,–,25.0,–,0.0
+1951,36,North Wilkesboro,23.0,20.0,28.0,Bob Walters,–,'51 Plymouth,72,25.0,crash,0.0
+1951,36,North Wilkesboro,24.0,10.0,2.0,Bill Blair,Bill Blair,'51 Ford,–,25.0,–,0.0
+1951,36,North Wilkesboro,25.0,15.0,27.0,Gwyn Staley,The Wilkes Boys,'50 Ford,–,25.0,–,0.0
+1951,36,North Wilkesboro,26.0,18.0,55.0,J.C. White,–,'51 Studebaker,–,25.0,–,0.0
+1951,37,Hanford,1.0,–,2.0,Danny Weinberg,Tony Sampo,'51 Studebaker,200,1700.0,running,126.0
+1951,37,Hanford,2.0,–,56.0,Marvin Panch,Marvin Panch,'51 Ford,–,700.0,running,0.0
+1951,37,Hanford,3.0,–,48.0,Bill Norton,Larry Bettinger,'50 Mercury,–,450.0,running,0.0
+1951,37,Hanford,4.0,–,22.0,Lloyd Dane,Lloyd Dane,'50 Ford,–,350.0,running,0.0
+1951,37,Hanford,5.0,–,88.0,Woody Brown,Joe Mangini,'50 Oldsmobile,–,200.0,running,0.0
+1951,37,Hanford,6.0,–,,Claude Wallington,–,'50 Plymouth,–,150.0,–,0.0
+1951,37,Hanford,7.0,33,7.0,Fred Bince,Speedway Auto Sales (Fred Bince),'49 Plymouth,–,125.0,–,0.0
+1951,37,Hanford,8.0,–,10.0,Fred Russell,Smith & Jones,'50 Ford,–,100.0,–,0.0
+1951,37,Hanford,9.0,–,,Pug Blalock,Pug Blalock,'51 Henry J,–,75.0,–,0.0
+1951,37,Hanford,10.0,–,16.0,Fred Steinbroner,Bob Carpenter,'50 Ford,–,50.0,–,0.0
+1951,37,Hanford,11.0,–,98.0,George Seeger,Johnny Mantz,'51 Nash,–,25.0,–,0.0
+1951,37,Hanford,12.0,–,17.0,Al Jacobs,Al Jacobs,'50 Ford,–,25.0,–,0.0
+1951,37,Hanford,13.0,–,33.0,Lou Figaro,Jack Gaynor,'51 Hudson,–,25.0,–,0.0
+1951,37,Hanford,14.0,–,6.0,Ray Chase,Oster-Barry (Bill Sheldon),'51 Hudson,–,25.0,–,0.0
+1951,37,Hanford,15.0,–,18.0,Bill Stammer,Charles Roscoe,'49 Plymouth,–,25.0,–,0.0
+1951,37,Hanford,16.0,–,25.0,Erick Erickson,Advance Electric (Erick Erickson),'51 Kaiser,–,25.0,–,0.0
+1951,37,Hanford,17.0,–,27.0,Jim Byrd,El Paso Special,'49 Buick,–,25.0,–,0.0
+1951,37,Hanford,18.0,–,19.0,Les Bomar,V-Gap Spark Plugs (Les Bomar),'49 Pontiac,–,25.0,–,0.0
+1951,37,Hanford,19.0,–,9.0,Dick Meyer,Grant Sniffen,'50 Mercury,–,25.0,–,0.0
+1951,37,Hanford,20.0,–,84.0,Robert Caswell,Lou Mangini,'50 Plymouth,–,25.0,–,0.0
+1951,37,Hanford,21.0,–,55.0,Sam Hawks,Marvin Panch,'50 Plymouth,–,25.0,–,0.0
+1951,37,Hanford,22.0,–,66.0,Bud Riley,Northeast Motors (Joe Beccue),'51 Hudson,–,25.0,–,0.0
+1951,37,Hanford,23.0,–,11.0,Chuck Meekins,Speedway Auto Sales (Chuck Meekins),'51 Plymouth,–,25.0,–,0.0
+1951,37,Hanford,24.0,2,14.0,Fonty Flock,Red Devil (Frank Christian),'51 Oldsmobile,–,25.0,–,40.0
+1951,37,Hanford,25.0,–,39.0,Danny Letner,Bert Letner,'51 Hudson,–,25.0,–,0.0
+1951,37,Hanford,26.0,–,6.0,Bill Ledbetter,Bill Ledbetter,'50 Ford,–,25.0,–,0.0
+1951,37,Hanford,27.0,–,35.0,Fuzzy Anderson,Bert Letner,'51 Oldsmobile,–,25.0,–,0.0
+1951,37,Hanford,28.0,1,92.0,Herb Thomas,Teaugemobile,'51 Hudson,–,25.0,crash,34.0
+1951,37,Hanford,29.0,–,31.0,Lloyd Porter,Stan Noble,'51 Henry J,–,25.0,–,0.0
+1951,37,Hanford,30.0,–,3.0,Allen Heath,Allen Heath,'50 Plymouth,–,25.0,–,0.0
+1951,37,Hanford,31.0,–,,John Soares,–,'50 Oldsmobile,–,25.0,–,0.0
+1951,37,Hanford,32.0,–,54.0,Andy Pierce,Upshaw's Garage,'50 Oldsmobile,–,25.0,–,0.0
+1951,37,Hanford,33.0,–,77.0,Hershel McGriff,–,'51 Oldsmobile,–,,–,0.0
+1951,37,Hanford,34.0,–,,Hal Cole,–,'51 Plymouth,–,,–,0.0
+1951,38,Jacksonville,1.0,1,6.0,Herb Thomas,Fabulous Hudson Hornet (Marshall Teague),'51 Hudson,200,1000.0,running,199.0
+1951,38,Jacksonville,2.0,10,44.0,Jack Smith,Jack Smith,'51 Hudson,–,700.0,running,1.0
+1951,38,Jacksonville,3.0,4,14.0,Fonty Flock,Red Devil (Frank Christian),'51 Oldsmobile,–,450.0,running,0.0
+1951,38,Jacksonville,4.0,6,16.0,Bill Snowden,Bill Snowden,'51 Ford,–,350.0,running,0.0
+1951,38,Jacksonville,5.0,2,23.0,Frank Mundy,Perry Smith,'51 Studebaker,–,200.0,running,0.0
+1951,38,Jacksonville,6.0,–,,Tommy Moon,Tommy Moon,'51 Henry J,–,150.0,–,0.0
+1951,38,Jacksonville,7.0,–,42.0,Lee Petty,Petty Special (Petty Enterprises),'51 Plymouth,–,125.0,–,0.0
+1951,38,Jacksonville,8.0,–,0.0,Jimmie Lewallen,Hubert Hamilton,'51 Plymouth,–,100.0,–,0.0
+1951,38,Jacksonville,9.0,–,17.0,Buddy Shuman,R.H. Yandell,'51 Plymouth,–,75.0,–,0.0
+1951,38,Jacksonville,10.0,3,8.0,Billy Carden,Sam Knox,'50 Oldsmobile,–,50.0,–,0.0
+1951,38,Jacksonville,11.0,–,5.0,Eddie Anderson,Harold Nelson,'51 Nash,–,25.0,–,0.0
+1951,38,Jacksonville,12.0,–,31.0,Jesse James Taylor,Jesse James Taylor,'51 Hudson,–,25.0,–,0.0
+1951,38,Jacksonville,13.0,9,91.0,Tim Flock,Black Phantom (Ted Chester),'51 Oldsmobile,–,25.0,–,0.0
+1951,38,Jacksonville,14.0,–,87.0,Buck Baker,Buck Baker,'51 Plymouth,–,25.0,–,0.0
+1951,38,Jacksonville,15.0,8,99.0,Leonard Tippett,Leonard Tippett,'51 Hudson,–,25.0,–,0.0
+1951,38,Jacksonville,16.0,13,59.0,Lloyd Moore,Julian Buesink,'51 Ford,–,25.0,–,0.0
+1951,38,Jacksonville,17.0,–,22.0,Billy Myers,R.G. Shelton,'51 Hudson,–,25.0,–,0.0
+1951,38,Jacksonville,18.0,–,60.0,Jim Paschal,Julian Buesink,'50 Ford,–,25.0,–,0.0
+1951,38,Jacksonville,19.0,–,,Joe Eubanks,Oates Motor Co. (Phil Oates),'51 Hudson,–,25.0,–,0.0
+1951,38,Jacksonville,20.0,7,2.0,Bill Blair,Bill Blair,'51 Oldsmobile,–,25.0,–,0.0
+1951,38,Jacksonville,21.0,5,93.0,Donald Thomas,Herb Thomas,'51 Hudson,–,25.0,–,0.0
+1951,38,Jacksonville,22.0,–,,Jimmy Florian,Euclid Motor Co. (Jimmy Florian),'51 Ford,–,25.0,–,0.0
+1951,39,Atlanta,1.0,4,91,Tim Flock,Ted Chester,'51 Hudson,100,1000.0,running,87.0
+1951,39,Atlanta,2.0,3,7,Bob Flock,Gray Ghost (Ted Chester),'51 Oldsmobile,–,700.0,running,12.0
+1951,39,Atlanta,3.0,5,44X,Jack Smith,Jack Smith,'51 Hudson,–,450.0,running,0.0
+1951,39,Atlanta,4.0,1,23,Frank Mundy,Perry Smith,'51 Studebaker,–,350.0,running,1.0
+1951,39,Atlanta,5.0,8,51,Gober Sosebee,Cherokee Garage (Gober Sosebee),'51 Oldsmobile,–,200.0,running,0.0
+1951,39,Atlanta,6.0,–,,Ed Samples,Ed Samples,'50 Oldsmobile,–,150.0,–,0.0
+1951,39,Atlanta,7.0,–,59,Lloyd Moore,Julian Buesink,'51 Ford,–,125.0,–,0.0
+1951,39,Atlanta,8.0,–,17,Buddy Shuman,R.H. Yandell,'51 Ford,–,100.0,–,0.0
+1951,39,Atlanta,9.0,–,,Red Duvall,–,'51 Packard,–,75.0,–,0.0
+1951,39,Atlanta,10.0,–,,Don Oldenberg,Don Oldenberg,'50 Packard,–,50.0,–,0.0
+1951,39,Atlanta,11.0,–,24,Jimmie Lewallen,J.O. Goode,'51 Plymouth,–,25.0,–,0.0
+1951,39,Atlanta,12.0,–,42,Lee Petty,Petty Special (Petty Enterprises),'51 Plymouth,–,25.0,–,0.0
+1951,39,Atlanta,13.0,–,,Neil Roberts,–,'51 Oldsmobile,–,25.0,–,0.0
+1951,39,Atlanta,14.0,–,,Glenn Dunaway,Glenn Dunaway,'50 Plymouth,–,25.0,–,0.0
+1951,39,Atlanta,15.0,–,16,Bill Snowden,Bill Snowden,'51 Ford,–,25.0,–,0.0
+1951,39,Atlanta,16.0,–,8,Billy Carden,Frank Christian,'50 Oldsmobile,–,25.0,–,0.0
+1951,39,Atlanta,17.0,–,27,Jimmy Florian,Euclid Motor Co. (Jimmy Florian),'51 Ford,–,25.0,–,0.0
+1951,39,Atlanta,18.0,–,,Dan Rush,–,'50 Plymouth,–,25.0,–,0.0
+1951,39,Atlanta,19.0,2,6,Herb Thomas,Fabulous Hudson Hornet (Marshall Teague),'51 Hudson,–,25.0,spindle,0.0
+1951,39,Atlanta,20.0,–,25,Dick Linder,Don Rogala,'50 Oldsmobile,–,25.0,–,0.0
+1951,39,Atlanta,21.0,–,,Cal Fisher,–,Ford,–,25.0,–,0.0
+1951,39,Atlanta,22.0,–,31,Jesse James Taylor,Jesse James Taylor,'51 Hudson,76,25.0,crash,0.0
+1951,39,Atlanta,23.0,–,99,Leonard Tippett,Leonard Tippett,'51 Hudson,–,25.0,crash,0.0
+1951,39,Atlanta,24.0,–,,Roscoe Thompson,–,'51 Studebaker,–,25.0,–,0.0
+1951,39,Atlanta,25.0,–,2,Bill Blair,Bill Blair,'51 Oldsmobile,–,25.0,–,0.0
+1951,39,Atlanta,26.0,–,,Pete Page,–,Oldsmobile,–,25.0,crash,0.0
+1951,39,Atlanta,27.0,31,55,Jim Paschal,Wheatley Motors (Al Wheatley),'50 Cadillac,–,25.0,–,0.0
+1951,39,Atlanta,28.0,–,87,Buck Baker,Buck Baker,'51 Ford,–,25.0,–,0.0
+1951,39,Atlanta,29.0,–,,Bob Reuther,Truthful Kelley,Oldsmobile,–,25.0,–,0.0
+1951,39,Atlanta,30.0,–,93,Donald Thomas,Herb Thomas,Ford,–,25.0,–,0.0
+1951,39,Atlanta,31.0,–,30,Tommy Moon,Chaney Motors (Ralph Chaney),'51 Henry J,–,25.0,–,0.0
+1951,40,Gardena,1.0,10.0,48.0,Bill Norton,Larry Bettinger,'50 Mercury,200,1000.0,running,19.0
+1951,40,Gardena,2.0,3.0,9.0,Dick Meyer,Grant Sniffen,'50 Mercury,–,700.0,running,82.0
+1951,40,Gardena,3.0,20.0,25.0,Erick Erickson,Packer (Erick Erickson),'51 Pontiac,–,450.0,running,0.0
+1951,40,Gardena,4.0,4.0,33.0,Lou Figaro,Jack Gaynor,'51 Hudson,–,350.0,running,0.0
+1951,40,Gardena,5.0,2.0,2.0,Danny Weinberg,Tony Sampo,'51 Studebaker,–,200.0,running,0.0
+1951,40,Gardena,6.0,7.0,6.0,Bill Ledbetter,Bill Ledbetter,'50 Ford,–,150.0,–,0.0
+1951,40,Gardena,7.0,22.0,77.0,Burt Jackson,Hershel McGriff,'51 Oldsmobile,–,125.0,–,0.0
+1951,40,Gardena,8.0,8.0,98.0,Johnny Mantz,Johnny Mantz,'51 Nash,–,100.0,–,28.0
+1951,40,Gardena,9.0,9.0,39.0,Danny Letner,Bert Letner,'51 Hudson,–,75.0,–,0.0
+1951,40,Gardena,10.0,29.0,38.0,Walt Davis,Walt Davis,'50 Plymouth,–,50.0,–,0.0
+1951,40,Gardena,11.0,1.0,14.0,Fonty Flock,Red Devil (Frank Christian),'51 Oldsmobile,–,25.0,did not finish,71.0
+1951,40,Gardena,12.0,5.0,99.0,Ben Gregory,Cos Cancilla,'50 Oldsmobile,–,25.0,–,0.0
+1951,40,Gardena,13.0,6.0,35.0,Fuzzy Anderson,Bert Letner,'51 Hudson,–,25.0,–,0.0
+1951,40,Gardena,14.0,11.0,76.0,Don McLeish,Lloyd Dennis,'50 Ford,–,25.0,–,0.0
+1951,40,Gardena,15.0,12.0,27.0,George Seeger,George Hicks,'51 Hudson,–,25.0,–,0.0
+1951,40,Gardena,16.0,13.0,56.0,Marvin Panch,Marvin Panch,'50 Mercury,–,25.0,–,0.0
+1951,40,Gardena,17.0,14.0,66.0,Bud Riley,Northeast Motors (Joe Beccue),'51 Hudson,–,25.0,–,0.0
+1951,40,Gardena,18.0,15.0,10.0,Tommy Melvin,Smith & Jones,'50 Ford,–,25.0,crash,0.0
+1951,40,Gardena,19.0,16.0,84.0,Robert Caswell,Lou Mangini,'50 Plymouth,–,25.0,crash,0.0
+1951,40,Gardena,20.0,17.0,95.0,Freddie Farmer,Freddie Farmer,'51 Nash,–,25.0,brakes,0.0
+1951,40,Gardena,21.0,18.0,12.0,Bill Stammer,Bill Stammer,'51 Plymouth,–,25.0,–,0.0
+1951,40,Gardena,22.0,19.0,7.0,Fred Bince,Speedway Auto Sales (Cliff Caldwell),'49 Plymouth,98,25.0,–,0.0
+1951,40,Gardena,23.0,21.0,54.0,Andy Pierce,Harley Briggs,'49 Plymouth,–,25.0,–,0.0
+1951,40,Gardena,24.0,23.0,97.0,Jack Gaynor,Jack Gaynor,'51 Hudson,–,25.0,lf wheel,0.0
+1951,40,Gardena,25.0,24.0,3.0,Allen Heath,Allen Heath,'50 Plymouth,–,25.0,overheating,0.0
+1951,40,Gardena,26.0,25.0,55.0,Sam Hawks,Marvin Panch,'50 Plymouth,–,25.0,–,0.0
+1951,40,Gardena,27.0,26.0,11.0,Chuck Meekins,Speedway Auto Sales (Chuck Meekins),'51 Plymouth,–,25.0,–,0.0
+1951,40,Gardena,28.0,27.0,31.0,Lloyd Porter,Stan Noble,'51 Henry J,–,25.0,–,0.0
+1951,40,Gardena,29.0,28.0,16.0,Fred Steinbroner,Bob Carpenter,'50 Ford,–,25.0,–,0.0
+1951,40,Gardena,30.0,30.0,22.0,Lloyd Dane,Lloyd Dane,'51 Ford,0,25.0,did not start,0.0
+1951,40,Gardena,31.0,31.0,17.0,John Soares,–,'50 Oldsmobile,0,25.0,did not start,0.0
+1951,41,Mobile,1.0,1,23.0,Frank Mundy,Perry Smith,'51 Studebaker,150,1000.0,running,150.0
+1951,41,Mobile,2.0,–,91.0,Tim Flock,Mobile Motor Co. (Ted Chester),'51 Hudson,–,750.0,running,0.0
+1951,41,Mobile,3.0,–,87.0,Red Duvall,Hammond Motors (Don Oldenberg),'51 Packard,–,450.0,running,0.0
+1951,41,Mobile,4.0,–,14.0,Fonty Flock,Augusta Speed Shop (Frank Christian),'51 Oldsmobile,–,350.0,running,0.0
+1951,41,Mobile,5.0,–,142.0,Don Oldenberg,Hammond Motors (Don Oldenberg),'51 Packard,–,200.0,running,0.0
+1951,41,Mobile,6.0,–,20.0,Buddy Shuman,National Speed Sport News (R.H. Yandell),'51 Ford,–,150.0,–,0.0
+1951,41,Mobile,7.0,–,51.0,Gober Sosebee,Cherokee Garage (Gober Sosebee),'51 Oldsmobile,–,125.0,–,0.0
+1951,41,Mobile,8.0,–,9.0,Ed Samples,Samples Express (Ed Samples),'50 Oldsmobile,–,100.0,–,0.0
+1951,41,Mobile,9.0,–,24.0,Jimmie Lewallen,Indian Motorcycle (J.O. Goode),'51 Plymouth,–,75.0,–,0.0
+1951,41,Mobile,10.0,–,80.0,Sonny Black,Mobile's Own (Sonny Black),'51 Plymouth,–,50.0,–,0.0
+1951,41,Mobile,11.0,–,,Harold Mays,–,–,–,25.0,–,0.0
+1951,41,Mobile,12.0,–,83.0,Bill Miller,B.J. Dantone,'51 Ford,–,25.0,–,0.0
+1951,41,Mobile,13.0,–,,Bud Erb,–,–,–,25.0,–,0.0
+1951,41,Mobile,14.0,–,,Hank Lee,–,–,–,25.0,crash,0.0
+1951,41,Mobile,15.0,–,,Ted Tedrow,–,–,–,25.0,crash,0.0
+1951,41,Mobile,16.0,–,42.0,Lee Petty,Petty Special (Petty Enterprises),'51 Plymouth,–,25.0,–,0.0
+1951,41,Mobile,17.0,–,,Gene Tapia,–,–,–,25.0,–,0.0
+1951,41,Mobile,18.0,–,,Louis Luther,–,–,–,25.0,–,0.0
+1951,41,Mobile,19.0,–,12.0,Billy Carden,Sam Knox,'50 Oldsmobile,–,25.0,–,0.0
+1951,41,Mobile,20.0,3,7.0,Bob Flock,Gray Ghost (Ted Chester),'51 Oldsmobile,–,25.0,crash,0.0
+1951,41,Mobile,21.0,2,99.0,Herb Thomas,Leonard Tippett,'51 Hudson,40,25.0,rear end,0.0
+1951,41,Mobile,22.0,–,44.0,Jack Smith,Jack Smith,'51 Hudson,34,25.0,suspension,0.0

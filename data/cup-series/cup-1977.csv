@@ -1,0 +1,1063 @@
+Season,Race,Track,Pos,St,#,Driver,Sponsor / Owner,Car,Laps,Money,Status,Led,Pts
+1977,1,Riverside,1.0,2.0,21.0,David Pearson,Purolator (Wood Brothers),Mercury,119.0,15400.0,running,17.0,180.0
+1977,1,Riverside,2.0,1.0,11.0,Cale Yarborough,Holly Farms (Junior Johnson),Chevrolet,119.0,16220.0,running,102.0,180.0
+1977,1,Riverside,3.0,9.0,43.0,Richard Petty,STP (Petty Enterprises),Dodge,118.0,11095.0,running,0.0,165.0
+1977,1,Riverside,4.0,5.0,2.0,Dave Marcis,CAM 2 (Roger Penske),Chevrolet,116.0,8645.0,running,0.0,160.0
+1977,1,Riverside,5.0,7.0,67.0,Sonny Easley,Haddick's Towing / San Fernando Valley Lumber (Jerry Lankford),Ford,115.0,6290.0,running,0.0,155.0
+1977,1,Riverside,6.0,10.0,3.0,Richard Childress,Kansas Jack / McDonald's (Richard Childress),Chevrolet,114.0,4890.0,running,0.0,150.0
+1977,1,Riverside,7.0,28.0,69.0,Hershel McGriff,Bridal Veil Lumber (Hershel McGriff),Chevrolet,114.0,2690.0,running,0.0,146.0
+1977,1,Riverside,8.0,23.0,76.0,Hugh Pearson,Buzby (Hugh Pearson),Chevrolet,114.0,2490.0,running,0.0,142.0
+1977,1,Riverside,9.0,3.0,88.0,Darrell Waltrip,Gatorade (DiGard Racing),Chevrolet,114.0,5540.0,running,0.0,138.0
+1977,1,Riverside,10.0,12.0,9.0,Eddie Bradshaw,C & M Racing (Chester Papienski),Chevrolet,114.0,2190.0,running,0.0,134.0
+1977,1,Riverside,11.0,24.0,24.0,Cecil Gordon,Cecil Gordon,Chevrolet,114.0,3720.0,running,0.0,130.0
+1977,1,Riverside,12.0,6.0,15.0,Buddy Baker,Norris Industries (Bud Moore),Ford,113.0,5040.0,running,0.0,127.0
+1977,1,Riverside,13.0,27.0,1.0,Chuck Bown,Lake's Drywall (Gerald Craker),Chevrolet,112.0,3760.0,running,0.0,124.0
+1977,1,Riverside,14.0,14.0,48.0,James Hylton,Hylton Engineering (James Hylton),Chevrolet,112.0,3100.0,running,0.0,121.0
+1977,1,Riverside,15.0,17.0,40.0,D.K. Ulrich,Red Fox Lounge (J.R. DeLotto),Chevrolet,110.0,2880.0,running,0.0,118.0
+1977,1,Riverside,16.0,15.0,5.0,Jim Thirkettle,Allied Box & Crate (Jim Thirkettle),Chevrolet,107.0,1440.0,running,0.0,115.0
+1977,1,Riverside,17.0,22.0,71.0,Neil Bonnett,1st National City Travelers Checks (Nord Krauskopf),Dodge,107.0,4590.0,running,0.0,112.0
+1977,1,Riverside,18.0,18.0,36.0,Bobby Wawak,Gwinn-Wawak (John Gwinn),Chevrolet,105.0,2570.0,running,0.0,109.0
+1977,1,Riverside,19.0,20.0,73.0,Bill Schmitt,Old Milwaukee (Bill Schmitt),Chevrolet,102.0,1910.0,running,0.0,106.0
+1977,1,Riverside,20.0,11.0,44.0,Gary Johnson,Noble Auto Parts (Al Clark),Chevrolet,96.0,1745.0,running,0.0,103.0
+1977,1,Riverside,21.0,26.0,72.0,Benny Parsons,1st National City Travelers Checks (L.G. DeWitt),Chevrolet,95.0,4370.0,transmission,0.0,100.0
+1977,1,Riverside,22.0,16.0,29.0,Roy Smith,Mercury Marine (Dick Midgley),Chevrolet,95.0,1495.0,clutch,0.0,97.0
+1977,1,Riverside,23.0,13.0,93.0,Norm Palmer,Peaches Records (Norm Palmer),Dodge,92.0,1260.0,running,0.0,94.0
+1977,1,Riverside,24.0,30.0,32.0,Gary Matthews,Midland Motor Homes (Dave Hill),Plymouth,91.0,1225.0,running,0.0,91.0
+1977,1,Riverside,25.0,21.0,79.0,Frank Warren,Native Tan / KPRO Radio (Frank Warren),Dodge,69.0,1665.0,rear end,0.0,88.0
+1977,1,Riverside,26.0,29.0,37.0,Chuck Wahl,Excel Trailer (DuWayne Wahl),Chevrolet,68.0,1095.0,running,0.0,85.0
+1977,1,Riverside,27.0,25.0,8.0,Ed Negre,"10,000 RPM Speed Equipment (Ed Negre)",Dodge,59.0,1445.0,engine,0.0,82.0
+1977,1,Riverside,28.0,33.0,55.0,Bill Baker,R.W. Scott Construction (Bill Baker),Chevrolet,54.0,895.0,clutch,0.0,79.0
+1977,1,Riverside,29.0,34.0,70.0,J.D. McDuffie,McDuffie Racing (J.D. McDuffie),Chevrolet,25.0,1345.0,engine,0.0,76.0
+1977,1,Riverside,30.0,31.0,13.0,Don Puskarich,Cravens Performance Automotive (Matt Puskarich),Chevrolet,16.0,795.0,engine,0.0,73.0
+1977,1,Riverside,31.0,19.0,26.0,Carl Joiner,Marquardt Racing (Carl Joiner),Chevrolet,10.0,740.0,transmission,0.0,70.0
+1977,1,Riverside,32.0,32.0,19.0,Henley Gray,Belden Asphalt (Henley Gray),Chevrolet,9.0,1190.0,oil pump,0.0,67.0
+1977,1,Riverside,33.0,35.0,33.0,Glenn Francis,Auto Alarms (Trent Francis),Chevrolet,9.0,640.0,oil leak,0.0,64.0
+1977,1,Riverside,34.0,4.0,50.0,Jimmy Insolo,Stock Car Products (Michael Brockman),Chevrolet,4.0,590.0,engine,0.0,61.0
+1977,1,Riverside,35.0,8.0,12.0,Bobby Allison,1st National City Travelers Checks (Bobby Allison),Matador,3.0,540.0,engine,0.0,58.0
+1977,2,Daytona,1.0,4.0,11.0,Cale Yarborough,Holly Farms (Junior Johnson),Chevrolet,200.0,63700.0,running,137.0,185.0
+1977,2,Daytona,2.0,6.0,72.0,Benny Parsons,1st National City Travelers Checks (L.G. DeWitt),Chevrolet,200.0,38825.0,running,16.0,175.0
+1977,2,Daytona,3.0,8.0,15.0,Buddy Baker,Norris Industries (Bud Moore),Ford,199.0,28075.0,running,16.0,170.0
+1977,2,Daytona,4.0,13.0,14.0,Coo Coo Marlin,Cunningham-Kelley (H.B. Cunningham),Chevrolet,198.0,17825.0,running,0.0,160.0
+1977,2,Daytona,5.0,15.0,90.0,Dick Brooks,Truxmore (Junie Donlavey),Ford,198.0,18100.0,running,0.0,155.0
+1977,2,Daytona,6.0,2.0,51.0,A.J. Foyt,Gilmore-Foyt (A.J. Foyt),Chevrolet,197.0,13800.0,running,13.0,
+1977,2,Daytona,7.0,10.0,88.0,Darrell Waltrip,Gatorade (DiGard Racing),Chevrolet,193.0,15745.0,running,4.0,151.0
+1977,2,Daytona,8.0,23.0,52.0,Jimmy Means,Posey's Auto Parts (Bill Gray),Chevrolet,192.0,10985.0,running,0.0,142.0
+1977,2,Daytona,9.0,30.0,19.0,Bob Burcham,Belden Asphalt (Henley Gray),Chevrolet,191.0,12475.0,running,0.0,138.0
+1977,2,Daytona,10.0,37.0,48.0,James Hylton,Southern Bankers (James Hylton),Chevrolet,189.0,11090.0,running,0.0,134.0
+1977,2,Daytona,11.0,33.0,79.0,Frank Warren,Native Tan (Frank Warren),Dodge,188.0,8920.0,running,1.0,135.0
+1977,2,Daytona,12.0,39.0,68.0,Janet Guthrie,Kelly Girl (Lynda Ferreri),Chevrolet,188.0,7390.0,running,0.0,127.0
+1977,2,Daytona,13.0,24.0,70.0,J.D. McDuffie,Sanford Auto Supply (J.D. McDuffie),Chevrolet,184.0,8115.0,engine,0.0,124.0
+1977,2,Daytona,14.0,42.0,40.0,D.K. Ulrich,J.R. DeLotto,Chevrolet,168.0,7210.0,running,0.0,121.0
+1977,2,Daytona,15.0,7.0,12.0,Bobby Allison,1st National City Travelers Checks (Bobby Allison),Matador,167.0,6560.0,engine,0.0,118.0
+1977,2,Daytona,16.0,35.0,30.0,Tighe Scott,Fram (Walter Ballard),Chevrolet,166.0,6285.0,engine,0.0,115.0
+1977,2,Daytona,17.0,41.0,24.0,Cecil Gordon,Burger King (Cecil Gordon),Chevrolet,164.0,5615.0,running,0.0,112.0
+1977,2,Daytona,18.0,34.0,81.0,Terry Ryan,Valvoline (Bill Monaghan),Chevrolet,159.0,3885.0,engine,0.0,109.0
+1977,2,Daytona,19.0,29.0,3.0,Walter Ballard,Scotty's Fashions (Walter Ballard),Chevrolet,153.0,3700.0,engine,0.0,106.0
+1977,2,Daytona,20.0,19.0,31.0,Jim Vandiver,Triple Elkhorn Mining (Harry Ranier),Dodge,137.0,3520.0,running,0.0,103.0
+1977,2,Daytona,21.0,5.0,21.0,David Pearson,Purolator (Wood Brothers),Mercury,135.0,5440.0,engine,2.0,105.0
+1977,2,Daytona,22.0,21.0,22.0,Ricky Rudd,Al Rudd Auto Parts (Al Rudd),Chevrolet,135.0,2935.0,rear end,0.0,97.0
+1977,2,Daytona,23.0,32.0,3.0,Richard Childress,Kansas Jack / L.C. Newton Trucking (Richard Childress),Chevrolet,127.0,3290.0,running,0.0,94.0
+1977,2,Daytona,24.0,25.0,4.0,Salt Walther,Gater Trailer (Salt Walther),Chevrolet,114.0,2725.0,crash,0.0,
+1977,2,Daytona,25.0,18.0,47.0,Bruce Hill,Bruce Hill,Chevrolet,113.0,2750.0,engine,0.0,88.0
+1977,2,Daytona,26.0,3.0,43.0,Richard Petty,STP (Petty Enterprises),Dodge,111.0,9550.0,engine,4.0,90.0
+1977,2,Daytona,27.0,12.0,60.0,Ramo Stott,Large Coal Company (Lou Viglione),Chevrolet,107.0,2450.0,crash,0.0,82.0
+1977,2,Daytona,28.0,9.0,2.0,Dave Marcis,CAM 2 (Roger Penske),Mercury,103.0,6150.0,running,1.0,84.0
+1977,2,Daytona,29.0,22.0,8.0,Ed Negre,"10,000 RPM Speed Equipment (Ed Negre)",Dodge,101.0,3175.0,engine,0.0,76.0
+1977,2,Daytona,30.0,1.0,1.0,Donnie Allison,Hawaiian Tropic (Hoss Ellington),Chevrolet,88.0,7575.0,crash,6.0,78.0
+1977,2,Daytona,31.0,36.0,27.0,Sam Sommers,M.C. Anderson,Chevrolet,87.0,1350.0,water pump,0.0,70.0
+1977,2,Daytona,32.0,31.0,83.0,Ron Hutcherson,Smithville Farms (Norris Reed),Chevrolet,85.0,4525.0,transmission,0.0,67.0
+1977,2,Daytona,33.0,20.0,26.0,Jimmy Lee Capps,Hearne Produce (David Lee Sellers),Chevrolet,77.0,2175.0,rear end,0.0,64.0
+1977,2,Daytona,34.0,14.0,41.0,Grant Adcox,Adcox-Kirby (Herb Adcox),Chevrolet,73.0,2325.0,engine,0.0,61.0
+1977,2,Daytona,35.0,26.0,95.0,Jim Hurtubise,Moran Electric (Junior Miller),Chevrolet,69.0,2050.0,oil cooler,0.0,58.0
+1977,2,Daytona,36.0,27.0,92.0,Skip Manning,1st National City Travelers Checks (Billy Hagan),Chevrolet,65.0,2615.0,engine,0.0,55.0
+1977,2,Daytona,37.0,11.0,71.0,Neil Bonnett,1st National City Travelers Checks (Nord Krauskopf),Dodge,65.0,5525.0,engine,0.0,52.0
+1977,2,Daytona,38.0,38.0,67.0,Buddy Arrington,Sub-Tropic (Buddy Arrington),Dodge,51.0,1780.0,engine,0.0,49.0
+1977,2,Daytona,39.0,28.0,29.0,Roy Smith,Mercury Marine (Dick Midgley),Chevrolet,45.0,2020.0,engine,0.0,46.0
+1977,2,Daytona,40.0,16.0,87.0,Elliott Forbes-Robinson,Rossmeyer (Ferrel Harris),Dodge,44.0,2025.0,engine,0.0,43.0
+1977,2,Daytona,41.0,40.0,77.0,Johnny Rutherford,t. edwards Happy Legs (Johnny Ray),Chevrolet,29.0,1725.0,vibration,0.0,
+1977,2,Daytona,42.0,17.0,32.0,Bobby Wawak,Encyclopedia Britannica (John Gwinn),Chevrolet,3.0,2400.0,fire,0.0,37.0
+1977,3,Richmond,1.0,7.0,11.0,Cale Yarborough,Holly Farms (Junior Johnson),Chevrolet,245.0,12100.0,running,161.0,185.0
+1977,3,Richmond,2.0,4.0,88.0,Darrell Waltrip,Gatorade (DiGard Racing),Chevrolet,245.0,7775.0,running,0.0,170.0
+1977,3,Richmond,3.0,3.0,72.0,Benny Parsons,1st National City Travelers Checks (L.G. DeWitt),Chevrolet,245.0,6325.0,running,24.0,170.0
+1977,3,Richmond,4.0,8.0,2.0,Dave Marcis,CAM 2 (Roger Penske),Chevrolet,244.0,4700.0,running,14.0,165.0
+1977,3,Richmond,5.0,6.0,12.0,Bobby Allison,1st National City Travelers Checks (Bobby Allison),Matador,244.0,2000.0,running,29.0,160.0
+1977,3,Richmond,6.0,2.0,43.0,Richard Petty,STP (Petty Enterprises),Dodge,243.0,3750.0,running,0.0,150.0
+1977,3,Richmond,7.0,1.0,71.0,Neil Bonnett,Direct Connection (Nord Krauskopf),Dodge,243.0,4000.0,running,8.0,151.0
+1977,3,Richmond,8.0,12.0,48.0,James Hylton,Sadler (James Hylton),Chevrolet,242.0,2540.0,running,0.0,142.0
+1977,3,Richmond,9.0,5.0,15.0,Buddy Baker,Norris Industries (Bud Moore),Ford,242.0,3325.0,running,1.0,143.0
+1977,3,Richmond,10.0,9.0,3.0,Richard Childress,Kansas Jack (Richard Childress),Chevrolet,241.0,2250.0,running,8.0,139.0
+1977,3,Richmond,11.0,22.0,30.0,Tighe Scott,Scotty's Fashions (Walter Ballard),Chevrolet,240.0,1980.0,running,0.0,130.0
+1977,3,Richmond,12.0,13.0,68.0,Janet Guthrie,Kelly Girl (Lynda Ferreri),Chevrolet,238.0,1875.0,running,0.0,127.0
+1977,3,Richmond,13.0,21.0,24.0,Cecil Gordon,Burger King (Cecil Gordon),Chevrolet,238.0,1820.0,running,0.0,124.0
+1977,3,Richmond,14.0,17.0,25.0,Terry Bivins,T.T. Colley (Don Robertson),Chevrolet,237.0,1700.0,running,0.0,121.0
+1977,3,Richmond,15.0,24.0,8.0,Ed Negre,"10,000 RPM Speed Equipment (Ed Negre)",Dodge,236.0,1590.0,running,0.0,118.0
+1977,3,Richmond,16.0,10.0,70.0,J.D. McDuffie,J.D. McDuffie,Chevrolet,234.0,1480.0,running,0.0,115.0
+1977,3,Richmond,17.0,20.0,95.0,Junior Miller,Stamey's Bar-B-Q (Junior Miller),Chevrolet,234.0,600.0,running,0.0,112.0
+1977,3,Richmond,18.0,15.0,92.0,Skip Manning,1st National City Travelers Checks (Billy Hagan),Chevrolet,233.0,2270.0,running,0.0,109.0
+1977,3,Richmond,19.0,23.0,19.0,Henley Gray,Belden Asphalt (Henley Gray),Chevrolet,230.0,1110.0,running,0.0,106.0
+1977,3,Richmond,20.0,25.0,64.0,Elmo Langley,Sunny King (Elmo Langley),Ford,227.0,975.0,running,0.0,103.0
+1977,3,Richmond,21.0,29.0,44.0,Robin Schildknecht,Manning Enterprises (Robin Schildknecht),Chevrolet,227.0,500.0,running,0.0,
+1977,3,Richmond,22.0,27.0,45.0,Walter Ballard,Booher Farms (Baxter Price),Chevrolet,225.0,475.0,running,0.0,97.0
+1977,3,Richmond,23.0,28.0,20.0,Rick Newsom,Rick Newsom,Ford,202.0,450.0,running,0.0,94.0
+1977,3,Richmond,24.0,19.0,67.0,Buddy Arrington,Hickory Garage (Buddy Arrington),Dodge,200.0,685.0,running,0.0,91.0
+1977,3,Richmond,25.0,30.0,33.0,Earl Brooks,Smith Auto Parts (Hiram Handy),Chevrolet,198.0,425.0,running,0.0,88.0
+1977,3,Richmond,26.0,18.0,22.0,Ricky Rudd,Al Rudd Auto Parts (Al Rudd),Ford,187.0,400.0,rear end,0.0,85.0
+1977,3,Richmond,27.0,11.0,90.0,Dick Brooks,Truxmore (Junie Donlavey),Ford,140.0,685.0,crash,0.0,82.0
+1977,3,Richmond,28.0,14.0,40.0,D.K. Ulrich,Pizza Inn (J.R. DeLotto),Chevrolet,84.0,600.0,overheating,0.0,79.0
+1977,3,Richmond,29.0,16.0,52.0,Jimmy Means,Means Racing (Bill Gray),Chevrolet,64.0,350.0,engine,0.0,76.0
+1977,3,Richmond,30.0,26.0,79.0,Frank Warren,Native Tan (Frank Warren),Dodge,46.0,550.0,crash,0.0,73.0
+1977,4,Rockingham,1.0,2.0,43.0,Richard Petty,STP (Petty Enterprises),Dodge,492.0,18594.0,running,281.0,185.0
+1977,4,Rockingham,2.0,5.0,88.0,Darrell Waltrip,Gatorade (DiGard Racing),Chevrolet,492.0,14170.0,running,3.0,175.0
+1977,4,Rockingham,3.0,1.0,1.0,Donnie Allison,Hawaiian Tropic (Hoss Ellington),Chevrolet,491.0,8520.0,running,92.0,170.0
+1977,4,Rockingham,4.0,7.0,15.0,Buddy Baker,Norris Industries (Bud Moore),Ford,491.0,7770.0,running,2.0,165.0
+1977,4,Rockingham,5.0,14.0,71.0,Neil Bonnett,Direct Connection (Nord Krauskopf),Dodge,488.0,7070.0,running,7.0,160.0
+1977,4,Rockingham,6.0,6.0,11.0,Cale Yarborough,Holly Farms (Junior Johnson),Chevrolet,488.0,7870.0,running,34.0,155.0
+1977,4,Rockingham,7.0,11.0,27.0,Sam Sommers,M.C. Anderson,Chevrolet,483.0,3770.0,running,0.0,146.0
+1977,4,Rockingham,8.0,16.0,92.0,Skip Manning,1st National City Travelers Checks (Billy Hagan),Chevrolet,483.0,4895.0,running,0.0,142.0
+1977,4,Rockingham,9.0,17.0,48.0,James Hylton,Hylton Engineering (James Hylton),Chevrolet,478.0,4420.0,running,0.0,138.0
+1977,4,Rockingham,10.0,15.0,24.0,Cecil Gordon,Cecil Gordon,Chevrolet,471.0,3900.0,running,0.0,134.0
+1977,4,Rockingham,11.0,34.0,4.0,Gary Myers,Gary Myers,Chevrolet,464.0,1970.0,running,0.0,130.0
+1977,4,Rockingham,12.0,3.0,72.0,Benny Parsons,1st National City Travelers Checks (L.G. DeWitt),Chevrolet,460.0,5070.0,running,49.0,132.0
+1977,4,Rockingham,13.0,28.0,8.0,Ed Negre,Ed Negre,Dodge,460.0,3120.0,running,0.0,124.0
+1977,4,Rockingham,14.0,27.0,67.0,Buddy Arrington,Buddy Arrington,Dodge,458.0,2930.0,running,0.0,121.0
+1977,4,Rockingham,15.0,21.0,70.0,J.D. McDuffie,J.D. McDuffie,Chevrolet,446.0,2710.0,running,0.0,118.0
+1977,4,Rockingham,16.0,26.0,19.0,Henley Gray,Belden Asphalt (Henley Gray),Chevrolet,436.0,2500.0,running,0.0,115.0
+1977,4,Rockingham,17.0,22.0,3.0,Richard Childress,Kansas Jack (Richard Childress),Chevrolet,436.0,2290.0,running,0.0,112.0
+1977,4,Rockingham,18.0,33.0,26.0,Jimmy Lee Capps,Sellers Automotive (David Lee Sellers),Chevrolet,434.0,1070.0,running,0.0,109.0
+1977,4,Rockingham,19.0,19.0,22.0,Ricky Rudd,Al Rudd Auto Parts (Al Rudd),Chevrolet,396.0,970.0,engine,0.0,106.0
+1977,4,Rockingham,20.0,25.0,29.0,Elliott Forbes-Robinson,Cal-Tex (Dick Midgley),Dodge,388.0,900.0,engine,0.0,103.0
+1977,4,Rockingham,21.0,32.0,64.0,Tommy Gale,Sunny King (Elmo Langley),Ford,388.0,1780.0,running,0.0,100.0
+1977,4,Rockingham,22.0,12.0,90.0,Dick Brooks,Truxmore (Junie Donlavey),Ford,346.0,1600.0,engine,7.0,102.0
+1977,4,Rockingham,23.0,23.0,40.0,D.K. Ulrich,J.R. DeLotto,Chevrolet,312.0,1365.0,engine,0.0,94.0
+1977,4,Rockingham,24.0,8.0,2.0,Dave Marcis,CAM 2 (Roger Penske),Chevrolet,260.0,3900.0,crash,5.0,96.0
+1977,4,Rockingham,25.0,35.0,33.0,Earl Brooks,Handy's Transmission (Hiram Handy),Chevrolet,232.0,675.0,crash,0.0,88.0
+1977,4,Rockingham,26.0,24.0,25.0,Terry Bivins,Don Robertson,Chevrolet,168.0,1280.0,engine,0.0,85.0
+1977,4,Rockingham,27.0,9.0,12.0,Bobby Allison,1st National City Travelers Checks (Bobby Allison),Matador,160.0,625.0,oil leak,0.0,82.0
+1977,4,Rockingham,28.0,20.0,52.0,Jimmy Means,Bill Gray,Chevrolet,151.0,600.0,engine,0.0,79.0
+1977,4,Rockingham,29.0,29.0,61.0,Joe Mihalic,Joe Mihalic,Chevrolet,147.0,575.0,engine,0.0,76.0
+1977,4,Rockingham,30.0,18.0,9.0,Bill Elliott,Dahlonega Ford Sales (George Elliott),Ford,137.0,575.0,clutch,0.0,73.0
+1977,4,Rockingham,31.0,36.0,45.0,Junior Miller,Price Racing (Junior Miller),Chevrolet,137.0,545.0,clutch,0.0,70.0
+1977,4,Rockingham,32.0,4.0,21.0,David Pearson,Purolator (Wood Brothers),Mercury,133.0,1040.0,crash,12.0,72.0
+1977,4,Rockingham,33.0,30.0,30.0,Tighe Scott,Scotty's Fashions (Walter Ballard),Chevrolet,107.0,1155.0,oil pump,0.0,64.0
+1977,4,Rockingham,34.0,10.0,54.0,Lennie Pond,Ronnie Elder,Chevrolet,52.0,530.0,engine,0.0,
+1977,4,Rockingham,35.0,31.0,79.0,Frank Warren,Native Tan (Frank Warren),Dodge,32.0,1125.0,engine,0.0,58.0
+1977,4,Rockingham,36.0,13.0,47.0,Bruce Hill,Bruce Hill,Chevrolet,21.0,520.0,engine,0.0,55.0
+1977,5,Atlanta,1.0,1.0,43.0,Richard Petty,STP (Petty Enterprises),Dodge,328.0,22550.0,running,112.0,180.0
+1977,5,Atlanta,2.0,3.0,21.0,David Pearson,Purolator (Wood Brothers),Mercury,328.0,12850.0,running,80.0,175.0
+1977,5,Atlanta,3.0,5.0,11.0,Cale Yarborough,Holly Farms (Junior Johnson),Chevrolet,327.0,13025.0,running,136.0,175.0
+1977,5,Atlanta,4.0,2.0,1.0,Donnie Allison,Hawaiian Tropic (Hoss Ellington),Chevrolet,327.0,6000.0,running,0.0,160.0
+1977,5,Atlanta,5.0,7.0,15.0,Buddy Baker,Norris Industries (Bud Moore),Ford,326.0,7650.0,running,0.0,155.0
+1977,5,Atlanta,6.0,11.0,2.0,Dave Marcis,CAM 2 (Roger Penske),Chevrolet,326.0,6800.0,running,0.0,150.0
+1977,5,Atlanta,7.0,6.0,88.0,Darrell Waltrip,Gatorade (DiGard Racing),Chevrolet,325.0,6500.0,running,0.0,146.0
+1977,5,Atlanta,8.0,15.0,14.0,Coo Coo Marlin,Cunningham-Kelley (H.B. Cunningham),Chevrolet,322.0,2900.0,running,0.0,142.0
+1977,5,Atlanta,9.0,14.0,54.0,Lennie Pond,Historic Virginia (Ronnie Elder),Chevrolet,321.0,5150.0,running,0.0,138.0
+1977,5,Atlanta,10.0,19.0,47.0,Bruce Hill,Bruce Hill,Chevrolet,320.0,2650.0,running,0.0,134.0
+1977,5,Atlanta,11.0,26.0,67.0,Buddy Arrington,Sub-Tropic (Buddy Arrington),Dodge,319.0,4630.0,running,0.0,130.0
+1977,5,Atlanta,12.0,9.0,71.0,Neil Bonnett,Rebel 500 (Nord Krauskopf),Dodge,318.0,5405.0,running,0.0,127.0
+1977,5,Atlanta,13.0,10.0,27.0,Sam Sommers,M.C. Anderson,Chevrolet,317.0,3130.0,running,0.0,124.0
+1977,5,Atlanta,14.0,32.0,84.0,Jody Ridley,Makar Enterprises (Jim Makar),Mercury,316.0,2080.0,running,0.0,121.0
+1977,5,Atlanta,15.0,12.0,60.0,Ramo Stott,Lou Viglione,Chevrolet,315.0,1880.0,running,0.0,118.0
+1977,5,Atlanta,16.0,41.0,24.0,Cecil Gordon,Transmissions Unlimited (Cecil Gordon),Chevrolet,308.0,2785.0,running,0.0,115.0
+1977,5,Atlanta,17.0,30.0,91.0,Harold Miller,Bartow Paving (Harold Miller),Chevrolet,305.0,1630.0,running,0.0,112.0
+1977,5,Atlanta,18.0,27.0,26.0,Jimmy Lee Capps,Hearne Produce (David Lee Sellers),Chevrolet,304.0,1555.0,running,0.0,109.0
+1977,5,Atlanta,19.0,13.0,3.0,Richard Childress,Kansas Jack (Richard Childress),Chevrolet,303.0,3400.0,engine,0.0,106.0
+1977,5,Atlanta,20.0,39.0,52.0,Jimmy Means,Means Racing (Bill Gray),Chevrolet,295.0,1405.0,running,0.0,103.0
+1977,5,Atlanta,21.0,31.0,49.0,G.C. Spencer,Lady & Son Auction (G.C. Spencer),Dodge,293.0,1230.0,rear end,0.0,100.0
+1977,5,Atlanta,22.0,24.0,64.0,Tommy Gale,Sunny King (Elmo Langley),Ford,288.0,2920.0,running,0.0,97.0
+1977,5,Atlanta,23.0,22.0,90.0,Dick Brooks,Truxmore (Junie Donlavey),Ford,277.0,2755.0,clutch,0.0,94.0
+1977,5,Atlanta,24.0,33.0,25.0,Terry Bivins,Thomas Racing (Don Robertson),Chevrolet,259.0,2575.0,engine,0.0,91.0
+1977,5,Atlanta,25.0,42.0,30.0,Tighe Scott,Scotty's Fashions (Walter Ballard),Chevrolet,248.0,2220.0,piston,0.0,88.0
+1977,5,Atlanta,26.0,8.0,72.0,Benny Parsons,1st National City Travelers Checks (L.G. DeWitt),Chevrolet,239.0,4155.0,engine,0.0,85.0
+1977,5,Atlanta,27.0,37.0,79.0,Frank Warren,Native Tan (Frank Warren),Dodge,237.0,1920.0,engine,0.0,82.0
+1977,5,Atlanta,28.0,17.0,92.0,Skip Manning,1st National City Travelers Checks (Billy Hagan),Chevrolet,233.0,1840.0,transmission,0.0,79.0
+1977,5,Atlanta,29.0,29.0,40.0,D.K. Ulrich,Howard Johnson's (J.R. DeLotto),Chevrolet,230.0,1410.0,overheating,0.0,76.0
+1977,5,Atlanta,30.0,34.0,68.0,Janet Guthrie,Kelly Girl (Lynda Ferreri),Chevrolet,215.0,750.0,engine,0.0,73.0
+1977,5,Atlanta,31.0,21.0,70.0,J.D. McDuffie,J.D. McDuffie,Chevrolet,208.0,1335.0,engine,0.0,70.0
+1977,5,Atlanta,32.0,18.0,9.0,Bill Elliott,Dahlonega Ford Sales (George Elliott),Ford,198.0,765.0,engine,0.0,67.0
+1977,5,Atlanta,33.0,36.0,19.0,Henley Gray,Belden Asphalt (Henley Gray),Chevrolet,180.0,1270.0,engine,0.0,64.0
+1977,5,Atlanta,34.0,4.0,51.0,A.J. Foyt,Gilmore (A.J. Foyt),Chevrolet,157.0,785.0,quit,0.0,
+1977,5,Atlanta,35.0,35.0,80.0,Phil Finney,Phil Finney,Chevrolet,148.0,645.0,engine,0.0,58.0
+1977,5,Atlanta,36.0,20.0,29.0,Elliott Forbes-Robinson,Cal-Tex (Dick Midgley),Dodge,139.0,650.0,engine,0.0,55.0
+1977,5,Atlanta,37.0,28.0,7.0,Dean Dalton,Dean Dalton,Chevrolet,133.0,565.0,engine,0.0,52.0
+1977,5,Atlanta,38.0,25.0,48.0,James Hylton,Hylton Engineering (James Hylton),Chevrolet,121.0,1180.0,engine,0.0,49.0
+1977,5,Atlanta,39.0,40.0,16.0,Ed Negre,Reliable Plumbing (David Sisco),Chevrolet,77.0,1040.0,engine,0.0,46.0
+1977,5,Atlanta,40.0,23.0,77.0,Johnny Rutherford,t. edwards (Johnny Ray),Chevrolet,50.0,560.0,engine,0.0,
+1977,5,Atlanta,41.0,16.0,12.0,Bobby Allison,1st National City Travelers Checks (Bobby Allison),Matador,41.0,785.0,engine,0.0,40.0
+1977,5,Atlanta,42.0,38.0,35.0,Jim Hurtubise,Avanti CB (Morris Davis),Ford,0.0,535.0,ignition,0.0,37.0
+1977,6,North Wilkesboro,1.0,2.0,11.0,Cale Yarborough,Holly Farms (Junior Johnson),Chevrolet,400.0,14600.0,running,320.0,185.0
+1977,6,North Wilkesboro,2.0,7.0,43.0,Richard Petty,STP (Petty Enterprises),Dodge,400.0,8025.0,running,25.0,175.0
+1977,6,North Wilkesboro,3.0,4.0,72.0,Benny Parsons,1st National City Travelers Checks (L.G. DeWitt),Chevrolet,400.0,6175.0,running,13.0,170.0
+1977,6,North Wilkesboro,4.0,5.0,15.0,Buddy Baker,Norris Industries (Bud Moore),Ford,399.0,4400.0,running,0.0,160.0
+1977,6,North Wilkesboro,5.0,6.0,12.0,Bobby Allison,1st National City Travelers Checks (Bobby Allison),Matador,398.0,2125.0,running,4.0,160.0
+1977,6,North Wilkesboro,6.0,10.0,90.0,Dick Brooks,Truxmore (Junie Donlavey),Ford,397.0,2450.0,running,0.0,150.0
+1977,6,North Wilkesboro,7.0,3.0,88.0,Darrell Waltrip,Gatorade (DiGard Racing),Chevrolet,394.0,3175.0,running,0.0,146.0
+1977,6,North Wilkesboro,8.0,8.0,3.0,Richard Childress,Kansas Jack (Richard Childress),Chevrolet,394.0,2075.0,running,12.0,147.0
+1977,6,North Wilkesboro,9.0,9.0,48.0,James Hylton,Hylton Engineering (James Hylton),Chevrolet,388.0,1880.0,running,0.0,138.0
+1977,6,North Wilkesboro,10.0,18.0,67.0,Buddy Arrington,Buddy Arrington,Dodge,387.0,1720.0,running,0.0,134.0
+1977,6,North Wilkesboro,11.0,23.0,4.0,Gary Myers,Spencer's Baby Wear (Gary Myers),Chevrolet,382.0,675.0,running,0.0,130.0
+1977,6,North Wilkesboro,12.0,16.0,19.0,Dave Marcis,Belden Asphalt (Henley Gray),Chevrolet,382.0,1600.0,running,0.0,127.0
+1977,6,North Wilkesboro,13.0,13.0,24.0,Cecil Gordon,Cecil Gordon,Chevrolet,380.0,1515.0,running,0.0,124.0
+1977,6,North Wilkesboro,14.0,20.0,64.0,Henley Gray,Sunny King (Elmo Langley),Ford,376.0,1480.0,running,0.0,121.0
+1977,6,North Wilkesboro,15.0,24.0,44.0,Robin Schildknecht,Manning Enterprises (Robin Schildknecht),Chevrolet,354.0,1075.0,running,0.0,118.0
+1977,6,North Wilkesboro,16.0,19.0,79.0,Frank Warren,Native Tan (Frank Warren),Dodge,353.0,1220.0,running,0.0,115.0
+1977,6,North Wilkesboro,17.0,28.0,25.0,Terry Bivins,Don Robertson,Chevrolet,345.0,1085.0,running,0.0,112.0
+1977,6,North Wilkesboro,18.0,29.0,95.0,Junior Miller,Miller Roofing (Junior Miller),Chevrolet,343.0,500.0,running,0.0,109.0
+1977,6,North Wilkesboro,19.0,21.0,16.0,David Sisco,David Sisco,Chevrolet,328.0,975.0,oil pump,0.0,106.0
+1977,6,North Wilkesboro,20.0,11.0,40.0,D.K. Ulrich,Transit Damaged Freight (J.R. DeLotto),Chevrolet,325.0,700.0,running,0.0,103.0
+1977,6,North Wilkesboro,21.0,1.0,71.0,Neil Bonnett,Rebel 500 (Nord Krauskopf),Dodge,305.0,3725.0,crash,26.0,105.0
+1977,6,North Wilkesboro,22.0,14.0,70.0,J.D. McDuffie,J.D. McDuffie,Chevrolet,275.0,700.0,engine,0.0,97.0
+1977,6,North Wilkesboro,23.0,22.0,30.0,Tighe Scott,Scotty's Fashions (Walter Ballard),Chevrolet,267.0,680.0,crash,0.0,94.0
+1977,6,North Wilkesboro,24.0,17.0,23.0,Larry LaMay,Larry LaMay,Chevrolet,252.0,360.0,running,0.0,91.0
+1977,6,North Wilkesboro,25.0,25.0,45.0,Earl Brooks,Baxter Price,Chevrolet,131.0,400.0,driveshaft,0.0,88.0
+1977,6,North Wilkesboro,26.0,12.0,92.0,Skip Manning,1st National City Travelers Checks (Billy Hagan),Chevrolet,122.0,640.0,engine,0.0,85.0
+1977,6,North Wilkesboro,27.0,27.0,52.0,Jimmy Means,Means Racing (Bill Gray),Chevrolet,118.0,380.0,engine,0.0,82.0
+1977,6,North Wilkesboro,28.0,15.0,8.0,Ed Negre,Ed Negre,Dodge,87.0,570.0,engine,0.0,79.0
+1977,6,North Wilkesboro,29.0,26.0,20.0,Rick Newsom,Gillespie Painting (Rick Newsom),Ford,2.0,360.0,oil leak,0.0,76.0
+1977,7,Darlington,1.0,4.0,88.0,Darrell Waltrip,Gatorade (DiGard Racing),Chevrolet,367.0,19270.0,running,26.0,180.0
+1977,7,Darlington,2.0,3.0,1.0,Donnie Allison,Hawaiian Tropic (Hoss Ellington),Chevrolet,367.0,11875.0,running,26.0,175.0
+1977,7,Darlington,3.0,7.0,43.0,Richard Petty,STP (Petty Enterprises),Dodge,367.0,11600.0,running,105.0,170.0
+1977,7,Darlington,4.0,1.0,21.0,David Pearson,Purolator (Wood Brothers),Mercury,367.0,6600.0,running,201.0,170.0
+1977,7,Darlington,5.0,6.0,72.0,Benny Parsons,1st National City Travelers Checks (L.G. DeWitt),Chevrolet,365.0,7720.0,running,4.0,160.0
+1977,7,Darlington,6.0,10.0,2.0,Dave Marcis,CAM 2 (Roger Penske),Chevrolet,365.0,6920.0,running,0.0,150.0
+1977,7,Darlington,7.0,5.0,15.0,Buddy Baker,Norris Industries (Bud Moore),Ford,363.0,6520.0,running,0.0,146.0
+1977,7,Darlington,8.0,13.0,49.0,G.C. Spencer,Lady & Son Auction (G.C. Spencer),Dodge,352.0,3245.0,running,0.0,142.0
+1977,7,Darlington,9.0,8.0,90.0,Dick Brooks,Truxmore (Junie Donlavey),Ford,351.0,5170.0,crash,0.0,138.0
+1977,7,Darlington,10.0,15.0,47.0,Bruce Hill,Bruce Hill,Chevrolet,350.0,2745.0,running,0.0,134.0
+1977,7,Darlington,11.0,18.0,75.0,Butch Hartman,Butch Hartman,Chevrolet,347.0,2520.0,running,0.0,130.0
+1977,7,Darlington,12.0,17.0,24.0,Cecil Gordon,Cecil Gordon,Chevrolet,346.0,4320.0,running,0.0,127.0
+1977,7,Darlington,13.0,11.0,27.0,Sam Sommers,M.C. Anderson,Chevrolet,346.0,3170.0,running,0.0,124.0
+1977,7,Darlington,14.0,24.0,67.0,Buddy Arrington,Buddy Arrington,Dodge,341.0,3800.0,running,0.0,121.0
+1977,7,Darlington,15.0,36.0,4.0,Gary Myers,Spencer's Baby Wear (Gary Myers),Chevrolet,336.0,1970.0,running,0.0,118.0
+1977,7,Darlington,16.0,2.0,11.0,Cale Yarborough,Holly Farms (Junior Johnson),Chevrolet,330.0,6650.0,running,0.0,115.0
+1977,7,Darlington,17.0,26.0,3.0,Richard Childress,Kansas Jack (Richard Childress),Chevrolet,313.0,3290.0,engine,0.0,112.0
+1977,7,Darlington,18.0,30.0,25.0,Ferrel Harris,Don Robertson,Chevrolet,310.0,3080.0,running,0.0,109.0
+1977,7,Darlington,19.0,22.0,70.0,J.D. McDuffie,J.D. McDuffie,Chevrolet,305.0,2860.0,crash,0.0,106.0
+1977,7,Darlington,20.0,19.0,52.0,Jimmy Means,Means Racing (Bill Gray),Chevrolet,303.0,1420.0,running,0.0,103.0
+1977,7,Darlington,21.0,21.0,64.0,Tommy Gale,Sunny King (Elmo Langley),Ford,277.0,2605.0,running,0.0,100.0
+1977,7,Darlington,22.0,27.0,22.0,Ricky Rudd,Al Rudd Auto Parts (Al Rudd),Chevrolet,259.0,1300.0,engine,0.0,97.0
+1977,7,Darlington,23.0,23.0,92.0,Skip Manning,1st National City Travelers Checks (Billy Hagan),Chevrolet,250.0,2295.0,engine,0.0,94.0
+1977,7,Darlington,24.0,16.0,8.0,Ed Negre,Ed Negre,Dodge,243.0,2085.0,engine,0.0,91.0
+1977,7,Darlington,25.0,32.0,61.0,Joe Mihalic,Joe Mihalic,Chevrolet,234.0,1065.0,engine,0.0,88.0
+1977,7,Darlington,26.0,35.0,45.0,Tighe Scott,Baxter Price,Chevrolet,198.0,845.0,engine,0.0,85.0
+1977,7,Darlington,27.0,34.0,79.0,Frank Warren,Native Tan (Frank Warren),Dodge,194.0,1675.0,engine,0.0,82.0
+1977,7,Darlington,28.0,33.0,19.0,Henley Gray,Belden Asphalt (Henley Gray),Chevrolet,184.0,1455.0,rear end,0.0,79.0
+1977,7,Darlington,29.0,9.0,12.0,Bobby Allison,1st National City Travelers Checks (Bobby Allison),Matador,161.0,810.0,battery,3.0,81.0
+1977,7,Darlington,30.0,25.0,69.0,Terry Bivins,Jayhawk Sports (Mike Kempton),Chevrolet,154.0,880.0,engine,0.0,73.0
+1977,7,Darlington,31.0,14.0,54.0,Lennie Pond,Elder-Ranier (Ronnie Elder),Chevrolet,134.0,1480.0,oil leak,2.0,75.0
+1977,7,Darlington,32.0,28.0,48.0,James Hylton,Hylton Engineering (James Hylton),Chevrolet,123.0,1415.0,engine,0.0,67.0
+1977,7,Darlington,33.0,12.0,71.0,Neil Bonnett,U.S. Army (Nord Krauskopf),Dodge,83.0,3990.0,engine,0.0,64.0
+1977,7,Darlington,34.0,20.0,40.0,D.K. Ulrich,Transit Damaged Freight (J.R. DeLotto),Chevrolet,62.0,1385.0,engine,0.0,61.0
+1977,7,Darlington,35.0,29.0,7.0,Dean Dalton,Dean Dalton,Chevrolet,25.0,780.0,engine,0.0,58.0
+1977,7,Darlington,36.0,31.0,1.0,Earle Canavan,Earle Canavan,Dodge,8.0,775.0,engine,0.0,55.0
+1977,8,Bristol,1.0,1.0,11.0,Cale Yarborough,Holly Farms (Junior Johnson),Chevrolet,500.0,23300.0,running,495.0,185.0
+1977,8,Bristol,2.0,7.0,90.0,Dick Brooks,Truxmore (Junie Donlavey),Ford,493.0,7750.0,running,0.0,170.0
+1977,8,Bristol,3.0,3.0,43.0,Richard Petty,STP (Petty Enterprises),Dodge,491.0,6100.0,running,0.0,165.0
+1977,8,Bristol,4.0,6.0,71.0,Neil Bonnett,Auto Race Tracks (Nord Krauskopf),Dodge,490.0,4200.0,running,0.0,160.0
+1977,8,Bristol,5.0,4.0,72.0,Benny Parsons,1st National City Travelers Checks (L.G. DeWitt),Chevrolet,488.0,3950.0,running,2.0,160.0
+1977,8,Bristol,6.0,2.0,12.0,Bobby Allison,1st National City Travelers Checks (Bobby Allison),Matador,487.0,1700.0,running,0.0,150.0
+1977,8,Bristol,7.0,15.0,48.0,James Hylton,Hylton Engineering (James Hylton),Chevrolet,479.0,2400.0,running,0.0,146.0
+1977,8,Bristol,8.0,10.0,3.0,Richard Childress,Kansas Jack (Richard Childress),Chevrolet,479.0,2080.0,running,0.0,142.0
+1977,8,Bristol,9.0,27.0,52.0,Jimmy Means,Means Racing (Bill Gray),Chevrolet,470.0,900.0,running,0.0,138.0
+1977,8,Bristol,10.0,14.0,22.0,Ricky Rudd,Al Rudd Auto Parts (Al Rudd),Chevrolet,465.0,1900.0,running,0.0,134.0
+1977,8,Bristol,11.0,21.0,68.0,Janet Guthrie,Kelly Girl (Lynda Ferreri),Chevrolet,457.0,750.0,running,0.0,130.0
+1977,8,Bristol,12.0,13.0,92.0,Skip Manning,1st National City Travelers Checks (Billy Hagan),Chevrolet,448.0,1770.0,running,0.0,127.0
+1977,8,Bristol,13.0,20.0,79.0,Frank Warren,Native Tan (Frank Warren),Dodge,445.0,1620.0,running,0.0,124.0
+1977,8,Bristol,14.0,30.0,67.0,Buddy Arrington,Buddy Arrington,Dodge,439.0,1540.0,running,0.0,121.0
+1977,8,Bristol,15.0,24.0,27.0,Sam Sommers,M.C. Anderson,Chevrolet,437.0,640.0,running,0.0,118.0
+1977,8,Bristol,16.0,28.0,64.0,Elmo Langley,Sunny King (Elmo Langley),Ford,435.0,1420.0,running,0.0,115.0
+1977,8,Bristol,17.0,16.0,24.0,Cecil Gordon,Cecil Gordon,Chevrolet,434.0,1240.0,running,0.0,112.0
+1977,8,Bristol,18.0,11.0,25.0,Ferrel Harris,Don Robertson,Chevrolet,434.0,1410.0,running,0.0,109.0
+1977,8,Bristol,19.0,8.0,88.0,Darrell Waltrip,Gatorade (DiGard Racing),Chevrolet,421.0,2730.0,running,1.0,111.0
+1977,8,Bristol,20.0,12.0,70.0,J.D. McDuffie,J.D. McDuffie,Chevrolet,420.0,1160.0,fatigue,0.0,103.0
+1977,8,Bristol,21.0,5.0,2.0,Dave Marcis,Shoney's Big Boy (Dave Marcis),Chevrolet,412.0,2790.0,running,2.0,105.0
+1977,8,Bristol,22.0,26.0,16.0,David Sisco,David Sisco,Chevrolet,411.0,720.0,running,0.0,97.0
+1977,8,Bristol,23.0,17.0,19.0,Henley Gray,Belden Asphalt (Henley Gray),Chevrolet,390.0,700.0,running,0.0,94.0
+1977,8,Bristol,24.0,22.0,95.0,Junior Miller,Miller Roofing (Junior Miller),Chevrolet,309.0,440.0,engine,0.0,91.0
+1977,8,Bristol,25.0,23.0,8.0,Ed Negre,Ed Negre,Dodge,198.0,670.0,engine,0.0,88.0
+1977,8,Bristol,26.0,25.0,40.0,D.K. Ulrich,J.R. DeLotto,Chevrolet,168.0,650.0,brakes,0.0,85.0
+1977,8,Bristol,27.0,19.0,20.0,Rick Newsom,Gillespie Painting (Rick Newsom),Ford,119.0,380.0,water pump,0.0,82.0
+1977,8,Bristol,28.0,18.0,30.0,Tighe Scott,Scotty's Fashions (Walter Ballard),Chevrolet,95.0,620.0,crash,0.0,79.0
+1977,8,Bristol,29.0,9.0,15.0,Buddy Baker,Norris Industries (Bud Moore),Ford,37.0,2560.0,overheating,0.0,76.0
+1977,8,Bristol,30.0,29.0,45.0,Larry LaMay,Baxter Price,Chevrolet,36.0,350.0,driveshaft,0.0,73.0
+1977,9,Martinsville,1.0,5.0,11.0,Cale Yarborough,Holly Farms (Junior Johnson),Chevrolet,384.0,21600.0,running,243.0,185.0
+1977,9,Martinsville,2.0,4.0,72.0,Benny Parsons,1st National City Travelers Checks (L.G. DeWitt),Chevrolet,384.0,12200.0,running,83.0,175.0
+1977,9,Martinsville,3.0,10.0,43.0,Richard Petty,STP (Petty Enterprises),Dodge,381.0,7750.0,running,1.0,170.0
+1977,9,Martinsville,4.0,8.0,54.0,Lennie Pond,Ronnie Elder,Chevrolet,381.0,5700.0,running,0.0,160.0
+1977,9,Martinsville,5.0,7.0,21.0,David Pearson,Purolator (Wood Brothers),Mercury,380.0,2900.0,running,0.0,155.0
+1977,9,Martinsville,6.0,13.0,90.0,Dick Brooks,Truxmore (Junie Donlavey),Ford,379.0,3850.0,running,0.0,150.0
+1977,9,Martinsville,7.0,12.0,47.0,Bruce Hill,Bruce Hill,Chevrolet,370.0,1650.0,running,0.0,146.0
+1977,9,Martinsville,8.0,23.0,52.0,Jimmy Means,Means Racing (Bill Gray),Chevrolet,369.0,1550.0,running,0.0,142.0
+1977,9,Martinsville,9.0,20.0,70.0,J.D. McDuffie,J.D. McDuffie,Chevrolet,369.0,2930.0,running,0.0,138.0
+1977,9,Martinsville,10.0,19.0,3.0,Richard Childress,Kansas Jack (Richard Childress),Chevrolet,369.0,2620.0,running,0.0,134.0
+1977,9,Martinsville,11.0,15.0,81.0,Terry Bivins,Valvoline (Bill Monaghan),Chevrolet,366.0,1150.0,running,0.0,130.0
+1977,9,Martinsville,12.0,1.0,71.0,Neil Bonnett,Auto Race Tracks (Nord Krauskopf),Dodge,366.0,4150.0,running,6.0,132.0
+1977,9,Martinsville,13.0,26.0,24.0,Cecil Gordon,Cecil Gordon,Chevrolet,366.0,2050.0,running,0.0,124.0
+1977,9,Martinsville,14.0,27.0,30.0,Tighe Scott,Scotty's Fashions (Walter Ballard),Chevrolet,365.0,1890.0,running,0.0,121.0
+1977,9,Martinsville,15.0,21.0,40.0,D.K. Ulrich,J.R. DeLotto,Chevrolet,363.0,1730.0,running,0.0,118.0
+1977,9,Martinsville,16.0,29.0,25.0,Ferrel Harris,Don Robertson,Chevrolet,356.0,1570.0,running,0.0,115.0
+1977,9,Martinsville,17.0,16.0,48.0,James Hylton,Hylton Engineering (James Hylton),Chevrolet,346.0,1435.0,running,0.0,112.0
+1977,9,Martinsville,18.0,22.0,19.0,Henley Gray,Belden Asphalt (Henley Gray),Chevrolet,344.0,1250.0,running,0.0,109.0
+1977,9,Martinsville,19.0,6.0,12.0,Bobby Allison,1st National City Travelers Checks (Bobby Allison),Matador,344.0,675.0,running,0.0,106.0
+1977,9,Martinsville,20.0,9.0,2.0,Dave Marcis,Shoney's Big Boy (Dave Marcis),Chevrolet,343.0,2850.0,running,0.0,103.0
+1977,9,Martinsville,21.0,2.0,88.0,Darrell Waltrip,Gatorade (DiGard Racing),Chevrolet,322.0,3340.0,brakes,51.0,105.0
+1977,9,Martinsville,22.0,17.0,63.0,Jimmy Hensley,Lonesome Pine Raceway (Billy Moyer),Chevrolet,321.0,630.0,running,0.0,97.0
+1977,9,Martinsville,23.0,28.0,64.0,Tommy Gale,Sunny King (Elmo Langley),Ford,299.0,870.0,running,0.0,94.0
+1977,9,Martinsville,24.0,11.0,15.0,Buddy Baker,Norris Industries (Bud Moore),Ford,258.0,2810.0,clutch,0.0,91.0
+1977,9,Martinsville,25.0,18.0,8.0,Ed Negre,Ed Negre,Dodge,240.0,850.0,engine,0.0,88.0
+1977,9,Martinsville,26.0,3.0,1.0,Donnie Allison,Hawaiian Tropic (Hoss Ellington),Chevrolet,226.0,590.0,brakes,0.0,85.0
+1977,9,Martinsville,27.0,14.0,92.0,Skip Manning,1st National City Travelers Checks (Billy Hagan),Chevrolet,182.0,830.0,rear end,0.0,82.0
+1977,9,Martinsville,28.0,25.0,27.0,Sam Sommers,M.C. Anderson,Chevrolet,177.0,1570.0,engine,0.0,79.0
+1977,9,Martinsville,29.0,24.0,4.0,Gary Myers,Spencer's Baby Wear (Gary Myers),Chevrolet,112.0,560.0,transmission,0.0,76.0
+1977,9,Martinsville,30.0,30.0,36.0,Bobby Wawak,Gwinn-Wawak (John Gwinn),Chevrolet,94.0,800.0,rear end,0.0,73.0
+1977,10,Talladega,1.0,11.0,88.0,Darrell Waltrip,Gatorade (DiGard Racing),Chevrolet,188.0,26875.0,running,18.0,180.0
+1977,10,Talladega,2.0,5.0,11.0,Cale Yarborough,Holly Farms (Junior Johnson),Chevrolet,188.0,23310.0,running,29.0,175.0
+1977,10,Talladega,3.0,2.0,72.0,Benny Parsons,1st National City Travelers Checks (L.G. DeWitt),Chevrolet,188.0,16500.0,running,16.0,170.0
+1977,10,Talladega,4.0,4.0,1.0,Donnie Allison,Hawaiian Tropic (Hoss Ellington),Chevrolet,188.0,12100.0,running,71.0,170.0
+1977,10,Talladega,5.0,6.0,2.0,Dave Marcis,CAM 2 (Roger Penske),Mercury,188.0,10250.0,running,3.0,160.0
+1977,10,Talladega,6.0,8.0,36.0,Ron Hutcherson,Encyclopedia Britannica (John Gwinn),Chevrolet,187.0,8450.0,running,0.0,150.0
+1977,10,Talladega,7.0,19.0,90.0,Dick Brooks,Truxmore (Junie Donlavey),Ford,187.0,7875.0,running,0.0,146.0
+1977,10,Talladega,8.0,17.0,14.0,Coo Coo Marlin,Cunningham-Kelley (H.B. Cunningham),Chevrolet,186.0,5100.0,running,0.0,142.0
+1977,10,Talladega,9.0,32.0,80.0,Terry Bivins,Valvoline (Bill Monaghan),Chevrolet,183.0,4550.0,running,0.0,138.0
+1977,10,Talladega,10.0,3.0,27.0,Sam Sommers,M.C. Anderson,Chevrolet,183.0,5300.0,running,0.0,134.0
+1977,10,Talladega,11.0,33.0,60.0,Ramo Stott,Lou Viglione,Chevrolet,182.0,3725.0,running,0.0,130.0
+1977,10,Talladega,12.0,35.0,5.0,Peter Knab,Bearfinder (Charles Dean),Chevrolet,180.0,2875.0,running,0.0,
+1977,10,Talladega,13.0,21.0,79.0,Frank Warren,Native Tan (Frank Warren),Dodge,178.0,5330.0,running,0.0,124.0
+1977,10,Talladega,14.0,37.0,25.0,Ferrel Harris,Don Robertson,Chevrolet,176.0,5020.0,running,0.0,121.0
+1977,10,Talladega,15.0,29.0,64.0,Tommy Gale,Sunny King (Elmo Langley),Ford,174.0,4710.0,running,0.0,118.0
+1977,10,Talladega,16.0,14.0,24.0,Cecil Gordon,Transmissions Unlimited (Cecil Gordon),Chevrolet,173.0,4390.0,running,0.0,115.0
+1977,10,Talladega,17.0,24.0,30.0,Tighe Scott,Scotty's Fashions (Walter Ballard),Chevrolet,173.0,4130.0,running,0.0,112.0
+1977,10,Talladega,18.0,34.0,48.0,James Hylton,Hylton Engineering (James Hylton),Chevrolet,171.0,3770.0,running,0.0,109.0
+1977,10,Talladega,19.0,23.0,67.0,Buddy Arrington,Sub-Tropic (Buddy Arrington),Dodge,165.0,3460.0,running,0.0,106.0
+1977,10,Talladega,20.0,7.0,43.0,Richard Petty,STP (Petty Enterprises),Dodge,153.0,6350.0,engine,19.0,108.0
+1977,10,Talladega,21.0,15.0,3.0,Richard Childress,Kansas Jack (Richard Childress),Chevrolet,149.0,3100.0,running,0.0,100.0
+1977,10,Talladega,22.0,10.0,21.0,David Pearson,Purolator (Wood Brothers),Mercury,143.0,3150.0,engine,9.0,102.0
+1977,10,Talladega,23.0,18.0,92.0,Skip Manning,1st National City Travelers Checks (Billy Hagan),Chevrolet,131.0,3790.0,engine,0.0,94.0
+1977,10,Talladega,24.0,26.0,18.0,Joe Frasson,Excuse Lounge (Joe Frasson),Chevrolet,126.0,2050.0,crash,0.0,91.0
+1977,10,Talladega,25.0,22.0,75.0,Butch Hartman,Butch Hartman,Chevrolet,122.0,2000.0,engine,0.0,88.0
+1977,10,Talladega,26.0,16.0,70.0,J.D. McDuffie,J.D. McDuffie,Chevrolet,117.0,2515.0,engine,1.0,90.0
+1977,10,Talladega,27.0,12.0,47.0,Bruce Hill,t. edwards (Bruce Hill),Chevrolet,116.0,1935.0,clutch,4.0,87.0
+1977,10,Talladega,28.0,36.0,22.0,Ricky Rudd,Al Rudd Auto Parts (Al Rudd),Chevrolet,110.0,1585.0,engine,0.0,79.0
+1977,10,Talladega,29.0,9.0,71.0,Neil Bonnett,Auto Race Tracks (Nord Krauskopf),Dodge,105.0,4735.0,engine,0.0,76.0
+1977,10,Talladega,30.0,25.0,16.0,David Sisco,David Sisco,Chevrolet,99.0,2105.0,engine,0.0,73.0
+1977,10,Talladega,31.0,41.0,40.0,D.K. Ulrich,J.R. DeLotto,Chevrolet,98.0,2035.0,engine,0.0,70.0
+1977,10,Talladega,32.0,13.0,68.0,Janet Guthrie,Kelly Girl (Lynda Ferreri),Chevrolet,97.0,985.0,engine,0.0,
+1977,10,Talladega,33.0,20.0,15.0,Buddy Baker,Norris Industries (Bud Moore),Ford,90.0,5485.0,clutch,15.0,69.0
+1977,10,Talladega,34.0,27.0,52.0,Jimmy Means,Means Racing (Bill Gray),Chevrolet,90.0,1355.0,oil pump,0.0,61.0
+1977,10,Talladega,35.0,30.0,81.0,Terry Ryan,Valvoline (Bill Monaghan),Chevrolet,84.0,1330.0,engine,0.0,58.0
+1977,10,Talladega,36.0,38.0,78.0,Dick Skillen,Goffco (Tom Goff),Chevrolet,38.0,1305.0,engine,0.0,55.0
+1977,10,Talladega,37.0,31.0,41.0,Grant Adcox,Adcox-Kirby (Herb Adcox),Chevrolet,35.0,1380.0,engine,0.0,52.0
+1977,10,Talladega,38.0,1.0,51.0,A.J. Foyt,Gilmore (A.J. Foyt),Chevrolet,18.0,2355.0,engine,3.0,
+1977,10,Talladega,39.0,40.0,49.0,Henley Gray,Lady & Son Auction (G.C. Spencer),Dodge,15.0,1230.0,engine,0.0,46.0
+1977,10,Talladega,40.0,28.0,12.0,Bobby Allison,1st National City Travelers Checks (Bobby Allison),Matador,11.0,1205.0,engine,0.0,43.0
+1977,10,Talladega,41.0,39.0,8.0,Ed Negre,Ed Negre,Dodge,0.0,1705.0,engine,0.0,40.0
+1977,11,Nashville,1.0,2.0,72.0,Benny Parsons,1st National City Travelers Checks (L.G. DeWitt),Chevrolet,420.0,9565.0,running,143.0,180.0
+1977,11,Nashville,2.0,3.0,11.0,Cale Yarborough,Holly Farms (Junior Johnson),Chevrolet,420.0,7965.0,running,275.0,180.0
+1977,11,Nashville,3.0,1.0,88.0,Darrell Waltrip,Gatorade (DiGard Racing),Chevrolet,418.0,5215.0,running,2.0,170.0
+1977,11,Nashville,4.0,6.0,2.0,Dave Marcis,CAM 2 (Roger Penske),Chevrolet,417.0,3565.0,running,0.0,160.0
+1977,11,Nashville,5.0,4.0,43.0,Richard Petty,STP (Petty Enterprises),Dodge,416.0,3465.0,running,0.0,155.0
+1977,11,Nashville,6.0,7.0,15.0,Buddy Baker,Norris Industries (Bud Moore),Ford,416.0,3365.0,running,0.0,150.0
+1977,11,Nashville,7.0,5.0,12.0,Bobby Allison,1st National City Travelers Checks (Bobby Allison),Matador,414.0,2115.0,running,0.0,146.0
+1977,11,Nashville,8.0,15.0,14.0,Coo Coo Marlin,Cunningham-Kelley (H.B. Cunningham),Chevrolet,405.0,965.0,running,0.0,
+1977,11,Nashville,9.0,8.0,52.0,Jimmy Means,Means Racing (Bill Gray),Chevrolet,402.0,1865.0,running,0.0,138.0
+1977,11,Nashville,10.0,12.0,22.0,Ricky Rudd,Al Rudd Auto Parts (Al Rudd),Chevrolet,401.0,1815.0,running,0.0,134.0
+1977,11,Nashville,11.0,19.0,48.0,James Hylton,Hylton Engineering (James Hylton),Chevrolet,398.0,1745.0,running,0.0,130.0
+1977,11,Nashville,12.0,23.0,4.0,Gary Myers,Spencer's Baby Wear (Gary Myers),Chevrolet,396.0,615.0,running,0.0,
+1977,11,Nashville,13.0,17.0,24.0,Cecil Gordon,Cecil Gordon,Chevrolet,394.0,1610.0,running,0.0,124.0
+1977,11,Nashville,14.0,16.0,40.0,D.K. Ulrich,J.R. DeLotto,Chevrolet,392.0,1515.0,running,0.0,121.0
+1977,11,Nashville,15.0,14.0,67.0,Buddy Arrington,Buddy Arrington,Dodge,385.0,1405.0,running,0.0,118.0
+1977,11,Nashville,16.0,28.0,20.0,Rick Newsom,Gillespie Painting (Rick Newsom),Ford,376.0,495.0,running,0.0,115.0
+1977,11,Nashville,17.0,27.0,33.0,Earl Brooks,Handy's Transmission (Hiram Handy),Chevrolet,370.0,445.0,running,0.0,112.0
+1977,11,Nashville,18.0,30.0,98.0,Ralph Jones,Ralph Jones,Ford,369.0,400.0,running,0.0,109.0
+1977,11,Nashville,19.0,18.0,16.0,David Sisco,David Sisco,Chevrolet,368.0,1190.0,running,0.0,106.0
+1977,11,Nashville,20.0,20.0,25.0,Ferrel Harris,Don Robertson,Chevrolet,359.0,1020.0,running,0.0,103.0
+1977,11,Nashville,21.0,9.0,92.0,Skip Manning,1st National City Travelers Checks (Billy Hagan),Chevrolet,313.0,1905.0,rear end,0.0,100.0
+1977,11,Nashville,22.0,22.0,64.0,Dick Brooks,Sunny King (Elmo Langley),Ford,269.0,785.0,ignition,0.0,97.0
+1977,11,Nashville,23.0,25.0,45.0,Elmo Langley,Baxter Price,Chevrolet,182.0,325.0,engine,0.0,94.0
+1977,11,Nashville,24.0,11.0,70.0,J.D. McDuffie,J.D. McDuffie,Chevrolet,176.0,565.0,engine,0.0,91.0
+1977,11,Nashville,25.0,26.0,19.0,Henley Gray,Belden Asphalt (Henley Gray),Chevrolet,154.0,555.0,overheating,0.0,88.0
+1977,11,Nashville,26.0,10.0,3.0,Richard Childress,Kansas Jack (Richard Childress),Chevrolet,133.0,545.0,engine,0.0,85.0
+1977,11,Nashville,27.0,13.0,81.0,Terry Ryan,Valvoline (Bill Monaghan),Chevrolet,86.0,285.0,engine,0.0,82.0
+1977,11,Nashville,28.0,29.0,39.0,Paul Dean Holt,Lloyd McBee,Ford,47.0,275.0,overheating,0.0,79.0
+1977,11,Nashville,29.0,24.0,79.0,Frank Warren,Native Tan (Frank Warren),Dodge,30.0,515.0,engine,0.0,76.0
+1977,11,Nashville,30.0,21.0,7.0,Dean Dalton,Dean Dalton,Chevrolet,19.0,255.0,engine,0.0,73.0
+1977,12,Dover,1.0,6.0,11.0,Cale Yarborough,Holly Farms (Junior Johnson),Chevrolet,500.0,17175.0,running,141.0,180.0
+1977,12,Dover,2.0,4.0,21.0,David Pearson,Purolator (Wood Brothers),Mercury,500.0,9600.0,running,297.0,180.0
+1977,12,Dover,3.0,1.0,43.0,Richard Petty,STP (Petty Enterprises),Dodge,499.0,9830.0,running,51.0,170.0
+1977,12,Dover,4.0,3.0,88.0,Darrell Waltrip,Gatorade (DiGard Racing),Chevrolet,496.0,7870.0,running,1.0,165.0
+1977,12,Dover,5.0,8.0,90.0,Dick Brooks,Truxmore (Junie Donlavey),Ford,496.0,5250.0,running,0.0,155.0
+1977,12,Dover,6.0,2.0,72.0,Benny Parsons,1st National City Travelers Checks (L.G. DeWitt),Chevrolet,495.0,6590.0,running,10.0,155.0
+1977,12,Dover,7.0,11.0,54.0,Lennie Pond,Ronnie Elder,Chevrolet,494.0,4000.0,running,0.0,146.0
+1977,12,Dover,8.0,5.0,12.0,Bobby Allison,1st National City Travelers Checks (Bobby Allison),Matador,493.0,3280.0,running,0.0,142.0
+1977,12,Dover,9.0,7.0,15.0,Buddy Baker,Norris Industries (Bud Moore),Ford,490.0,5620.0,running,0.0,138.0
+1977,12,Dover,10.0,10.0,84.0,Morgan Shepherd,Ridge Plumbing (Jim Makar),Mercury,486.0,1700.0,running,0.0,134.0
+1977,12,Dover,11.0,24.0,67.0,Buddy Arrington,Hickory Garage (Buddy Arrington),Dodge,482.0,3120.0,running,0.0,130.0
+1977,12,Dover,12.0,25.0,24.0,Cecil Gordon,Transmissions Unlimited (Cecil Gordon),Chevrolet,480.0,2960.0,running,0.0,127.0
+1977,12,Dover,13.0,12.0,70.0,J.D. McDuffie,J.D. McDuffie,Chevrolet,480.0,2865.0,running,0.0,124.0
+1977,12,Dover,14.0,15.0,30.0,Tighe Scott,Scotty's Fashions (Walter Ballard),Chevrolet,479.0,2805.0,running,0.0,121.0
+1977,12,Dover,15.0,26.0,8.0,Ed Negre,Ed Negre,Dodge,475.0,2395.0,running,0.0,118.0
+1977,12,Dover,16.0,21.0,57.0,Dick May,McClure Motors (Alfred McClure),Ford,473.0,1200.0,running,0.0,115.0
+1977,12,Dover,17.0,9.0,92.0,Skip Manning,1st National City Travelers Checks (Billy Hagan),Chevrolet,469.0,3135.0,running,0.0,112.0
+1977,12,Dover,18.0,23.0,64.0,Tommy Gale,Sunny King (Elmo Langley),Ford,454.0,1900.0,running,0.0,109.0
+1977,12,Dover,19.0,33.0,25.0,Ferrel Harris,Don Robertson,Chevrolet,449.0,1640.0,running,0.0,106.0
+1977,12,Dover,20.0,18.0,40.0,D.K. Ulrich,Lafayette Radio (J.R. DeLotto),Chevrolet,407.0,1530.0,running,0.0,103.0
+1977,12,Dover,21.0,19.0,3.0,Richard Childress,Kansas Jack (Richard Childress),Chevrolet,389.0,1420.0,water pump,0.0,100.0
+1977,12,Dover,22.0,30.0,4.0,Gary Myers,Hicks Pharmacy (Gary Myers),Chevrolet,371.0,775.0,steering,0.0,97.0
+1977,12,Dover,23.0,28.0,1.0,Earle Canavan,Earle Canavan,Dodge,313.0,725.0,transmission,0.0,94.0
+1977,12,Dover,24.0,32.0,45.0,Baxter Price,Tire King (Baxter Price),Chevrolet,303.0,1200.0,overheating,0.0,91.0
+1977,12,Dover,25.0,34.0,33.0,Earl Brooks,Smith Auto Parts (Hiram Handy),Chevrolet,274.0,675.0,engine,0.0,88.0
+1977,12,Dover,26.0,22.0,79.0,Frank Warren,Native Tan (Frank Warren),Dodge,247.0,1250.0,engine,0.0,85.0
+1977,12,Dover,27.0,20.0,22.0,Ricky Rudd,Al Rudd Auto Parts (Al Rudd),Chevrolet,190.0,1125.0,oil pump,0.0,82.0
+1977,12,Dover,28.0,29.0,20.0,Rick Newsom,Gillespie Painting (Rick Newsom),Ford,176.0,600.0,engine,0.0,79.0
+1977,12,Dover,29.0,14.0,52.0,Jimmy Means,Means Racing (Bill Gray),Chevrolet,139.0,650.0,engine,0.0,76.0
+1977,12,Dover,30.0,16.0,16.0,David Sisco,Bel Air Datsun (David Sisco),Chevrolet,126.0,1050.0,oil pump,0.0,73.0
+1977,12,Dover,31.0,36.0,95.0,Elmo Langley,Miller Roofing (Junior Miller),Chevrolet,119.0,540.0,engine,0.0,70.0
+1977,12,Dover,32.0,31.0,19.0,Henley Gray,Belden Asphalt (Henley Gray),Chevrolet,97.0,1030.0,suspension,0.0,67.0
+1977,12,Dover,33.0,13.0,48.0,James Hylton,Hylton Engineering (James Hylton),Chevrolet,82.0,1020.0,engine,0.0,64.0
+1977,12,Dover,34.0,27.0,7.0,Dean Dalton,Dean Dalton,Chevrolet,40.0,510.0,clutch,0.0,61.0
+1977,12,Dover,35.0,17.0,47.0,Bruce Hill,t. edwards (Bruce Hill),Chevrolet,34.0,500.0,engine,0.0,58.0
+1977,12,Dover,36.0,35.0,10.0,Raymond Williams,Bill Champion,Ford,0.0,490.0,engine,0.0,55.0
+1977,13,Charlotte,1.0,2.0,43.0,Richard Petty,STP (Petty Enterprises),Dodge,400.0,69550.0,running,311.0,185.0
+1977,13,Charlotte,2.0,1.0,21.0,David Pearson,Purolator (Wood Brothers),Mercury,400.0,38535.0,running,64.0,175.0
+1977,13,Charlotte,3.0,7.0,72.0,Benny Parsons,1st National City Travelers Checks (L.G. DeWitt),Chevrolet,398.0,16735.0,running,11.0,170.0
+1977,13,Charlotte,4.0,15.0,54.0,Lennie Pond,Ronnie Elder,Chevrolet,397.0,12850.0,running,1.0,
+1977,13,Charlotte,5.0,6.0,15.0,Buddy Baker,Norris Industries (Bud Moore),Ford,397.0,12240.0,running,0.0,155.0
+1977,13,Charlotte,6.0,4.0,88.0,Darrell Waltrip,Gatorade (DiGard Racing),Chevrolet,396.0,10600.0,running,0.0,150.0
+1977,13,Charlotte,7.0,14.0,71.0,Neil Bonnett,Auto Race Tracks (Nord Krauskopf),Dodge,394.0,6060.0,running,0.0,146.0
+1977,13,Charlotte,8.0,20.0,90.0,Dick Brooks,Truxmore (Junie Donlavey),Ford,392.0,7260.0,running,0.0,142.0
+1977,13,Charlotte,9.0,8.0,27.0,Sam Sommers,M.C. Anderson,Chevrolet,392.0,6310.0,running,0.0,138.0
+1977,13,Charlotte,10.0,9.0,92.0,Skip Manning,1st National City Travelers Checks (Billy Hagan),Chevrolet,391.0,6915.0,running,0.0,134.0
+1977,13,Charlotte,11.0,10.0,36.0,Ron Hutcherson,Encyclopedia Britannica (John Gwinn),Chevrolet,389.0,5405.0,running,0.0,
+1977,13,Charlotte,12.0,13.0,14.0,Coo Coo Marlin,Cunningham-Kelley (H.B. Cunningham),Chevrolet,387.0,3885.0,running,1.0,132.0
+1977,13,Charlotte,13.0,19.0,84.0,Morgan Shepherd,Makar Enterprises (Jim Makar),Mercury,387.0,3485.0,running,0.0,124.0
+1977,13,Charlotte,14.0,22.0,3.0,Richard Childress,Kansas Jack (Richard Childress),Chevrolet,386.0,4945.0,running,0.0,121.0
+1977,13,Charlotte,15.0,21.0,9.0,Bill Elliott,Dahlonega Ford Sales (George Elliott),Ford,385.0,3185.0,running,0.0,118.0
+1977,13,Charlotte,16.0,39.0,30.0,Tighe Scott,Northwest Auto Auction (Walter Ballard),Chevrolet,384.0,4625.0,running,0.0,115.0
+1977,13,Charlotte,17.0,18.0,22.0,Ricky Rudd,Hi-Tech (Al Rudd),Chevrolet,384.0,2960.0,running,2.0,117.0
+1977,13,Charlotte,18.0,31.0,67.0,Buddy Arrington,Sub-Tropic (Buddy Arrington),Dodge,382.0,4240.0,running,0.0,109.0
+1977,13,Charlotte,19.0,33.0,52.0,Jimmy Means,Posey's Auto Parts (Bill Gray),Chevrolet,382.0,3480.0,running,0.0,106.0
+1977,13,Charlotte,20.0,12.0,49.0,G.C. Spencer,Lady & Son Auction (G.C. Spencer),Dodge,373.0,2560.0,running,0.0,103.0
+1977,13,Charlotte,21.0,34.0,57.0,Dick May,McClure Motors (Alfred McClure),Ford,372.0,2310.0,running,0.0,100.0
+1977,13,Charlotte,22.0,38.0,24.0,Cecil Gordon,Transmissions Unlimited (Cecil Gordon),Chevrolet,360.0,3295.0,running,0.0,97.0
+1977,13,Charlotte,23.0,27.0,75.0,Butch Hartman,Hartman Autocar (Butch Hartman),Chevrolet,352.0,2160.0,running,0.0,94.0
+1977,13,Charlotte,24.0,3.0,11.0,Cale Yarborough,Holly Farms (Junior Johnson),Chevrolet,350.0,7360.0,running,0.0,91.0
+1977,13,Charlotte,25.0,29.0,70.0,J.D. McDuffie,J.D. McDuffie,Chevrolet,347.0,2910.0,running,0.0,88.0
+1977,13,Charlotte,26.0,28.0,79.0,Frank Warren,Native Tan (Frank Warren),Dodge,336.0,2300.0,running,0.0,85.0
+1977,13,Charlotte,27.0,35.0,91.0,Harold Miller,Bartow Paving (Harold Miller),Chevrolet,333.0,1585.0,clutch,0.0,82.0
+1977,13,Charlotte,28.0,17.0,48.0,James Hylton,WKIT (James Hylton),Chevrolet,300.0,2240.0,engine,0.0,79.0
+1977,13,Charlotte,29.0,26.0,81.0,Terry Ryan,Valvoline (Bill Monaghan),Chevrolet,271.0,1510.0,axle,0.0,76.0
+1977,13,Charlotte,30.0,23.0,6.0,Harry Gant,Sherrill Enterprises (Sherrill Green),Chevrolet,266.0,1460.0,engine,0.0,73.0
+1977,13,Charlotte,31.0,24.0,47.0,Bruce Hill,t. edwards (Bruce Hill),Chevrolet,257.0,1360.0,running,0.0,70.0
+1977,13,Charlotte,32.0,40.0,16.0,David Sisco,Reliable Plumbing (David Sisco),Chevrolet,240.0,1955.0,engine,0.0,67.0
+1977,13,Charlotte,33.0,5.0,1.0,Donnie Allison,Hawaiian Tropic (Hoss Ellington),Chevrolet,219.0,4085.0,engine,8.0,69.0
+1977,13,Charlotte,34.0,30.0,40.0,D.K. Ulrich,Transit Damaged Freight (J.R. DeLotto),Chevrolet,186.0,1885.0,oil pump,0.0,61.0
+1977,13,Charlotte,35.0,32.0,8.0,Ed Negre,Marshal's Used Cars (Ed Negre),Dodge,185.0,1735.0,engine,0.0,58.0
+1977,13,Charlotte,36.0,16.0,2.0,Dave Marcis,CAM 2 (Roger Penske),Mercury,168.0,1850.0,engine,2.0,60.0
+1977,13,Charlotte,37.0,37.0,64.0,Tommy Gale,Sunny King (Elmo Langley),Ford,87.0,1700.0,engine,0.0,52.0
+1977,13,Charlotte,38.0,36.0,19.0,Henley Gray,Belden Asphalt (Henley Gray),Chevrolet,64.0,1675.0,crash,0.0,49.0
+1977,13,Charlotte,39.0,11.0,12.0,Bobby Allison,1st National City Travelers Checks (Bobby Allison),Matador,63.0,1175.0,engine,0.0,46.0
+1977,13,Charlotte,40.0,25.0,60.0,Ramo Stott,Lou Viglione,Chevrolet,3.0,1125.0,oil pressure,0.0,43.0
+1977,14,Riverside,1.0,1.0,43.0,Richard Petty,STP (Petty Enterprises),Dodge,95.0,18255.0,running,71.0,185.0
+1977,14,Riverside,2.0,3.0,21.0,David Pearson,Purolator (Wood Brothers),Mercury,95.0,10400.0,running,2.0,175.0
+1977,14,Riverside,3.0,6.0,11.0,Cale Yarborough,Holly Farms (Junior Johnson),Chevrolet,95.0,10475.0,running,1.0,170.0
+1977,14,Riverside,4.0,18.0,51.0,Jimmy Insolo,Jimmy Insolo,Ford,93.0,3900.0,running,0.0,
+1977,14,Riverside,5.0,7.0,15.0,Buddy Baker,Norris Industries (Bud Moore),Ford,93.0,6400.0,running,0.0,155.0
+1977,14,Riverside,6.0,17.0,93.0,Norm Palmer,Herborn Alignment (Norm Palmer),Dodge,92.0,2500.0,running,0.0,150.0
+1977,14,Riverside,7.0,21.0,68.0,Sonny Easley,Sonny Easley,Ford,92.0,2000.0,running,0.0,146.0
+1977,14,Riverside,8.0,8.0,3.0,Richard Childress,Kansas Jack (Richard Childress),Chevrolet,92.0,4150.0,running,0.0,142.0
+1977,14,Riverside,9.0,19.0,24.0,Cecil Gordon,Cecil Gordon,Chevrolet,91.0,3800.0,running,0.0,138.0
+1977,14,Riverside,10.0,15.0,92.0,Skip Manning,1st National City Travelers Checks (Billy Hagan),Chevrolet,91.0,4430.0,running,0.0,134.0
+1977,14,Riverside,11.0,16.0,40.0,D.K. Ulrich,Red Fox Lounge (J.R. DeLotto),Chevrolet,91.0,3210.0,running,0.0,130.0
+1977,14,Riverside,12.0,30.0,64.0,Dick Brooks,Sunny King (Elmo Langley),Ford,89.0,2960.0,running,0.0,127.0
+1977,14,Riverside,13.0,29.0,18.0,John Dineen,George Stark,Ford,89.0,1400.0,running,0.0,124.0
+1977,14,Riverside,14.0,23.0,48.0,James Hylton,Hylton Engineering (James Hylton),Chevrolet,88.0,2640.0,running,0.0,121.0
+1977,14,Riverside,15.0,12.0,79.0,Frank Warren,Native Tan (Frank Warren),Dodge,88.0,2405.0,running,0.0,118.0
+1977,14,Riverside,16.0,27.0,55.0,Bill Baker,Golden West Lumber (Bill Baker),Chevrolet,88.0,1645.0,running,0.0,
+1977,14,Riverside,17.0,5.0,12.0,Bobby Allison,1st National City Travelers Checks (Bobby Allison),Matador,88.0,1510.0,running,0.0,112.0
+1977,14,Riverside,18.0,28.0,37.0,Chuck Wahl,Excel Trailer (DuWayne Wahl),Chevrolet,87.0,1325.0,running,0.0,109.0
+1977,14,Riverside,19.0,31.0,67.0,Buddy Arrington,Buddy Arrington,Dodge,84.0,1590.0,running,0.0,106.0
+1977,14,Riverside,20.0,35.0,41.0,Ernie Stierly,Allied Plating (Ernie Stierly),Chevrolet,83.0,1055.0,running,0.0,103.0
+1977,14,Riverside,21.0,33.0,17.0,Harry Goularte,U.S. Army (Donald Dean),Chevrolet,81.0,900.0,running,0.0,100.0
+1977,14,Riverside,22.0,26.0,2.0,Richard White,Lindsay Auto Parts (Mike White),Chevrolet,76.0,995.0,running,0.0,97.0
+1977,14,Riverside,23.0,13.0,29.0,Roy Smith,Mercury Marine (Dick Midgley),Chevrolet,65.0,1850.0,oil leak,0.0,94.0
+1977,14,Riverside,24.0,10.0,5.0,Jim Thirkettle,Autocessories (Jim Thirkettle),Chevrolet,47.0,825.0,oil pump,0.0,91.0
+1977,14,Riverside,25.0,9.0,1.0,Chuck Bown,Lake's Drywall (Gerald Craker),Chevrolet,42.0,1800.0,engine,0.0,88.0
+1977,14,Riverside,26.0,2.0,88.0,Darrell Waltrip,Gatorade (DiGard Racing),Chevrolet,40.0,3975.0,transmission,21.0,90.0
+1977,14,Riverside,27.0,4.0,72.0,Benny Parsons,1st National City Travelers Checks (L.G. DeWitt),Chevrolet,35.0,3950.0,engine,0.0,82.0
+1977,14,Riverside,28.0,34.0,13.0,Don Puskarich,Cravens Performance Automotive (Matt Puskarich),Chevrolet,35.0,725.0,engine,0.0,79.0
+1977,14,Riverside,29.0,11.0,44.0,Gary Johnson,Al Clark,Chevrolet,30.0,700.0,engine,0.0,76.0
+1977,14,Riverside,30.0,14.0,73.0,Bill Schmitt,Bill Schmitt,Chevrolet,27.0,675.0,suspension,0.0,73.0
+1977,14,Riverside,31.0,24.0,82.0,Sumner McKnight,Action Engineering (Sumner McKnight),Chevrolet,15.0,650.0,engine,0.0,70.0
+1977,14,Riverside,32.0,25.0,32.0,Ray Elder,Midland Motor Homes (Dave Hill),Plymouth,14.0,625.0,engine,0.0,67.0
+1977,14,Riverside,33.0,20.0,70.0,J.D. McDuffie,J.D. McDuffie,Chevrolet,9.0,1100.0,oil pump,0.0,64.0
+1977,14,Riverside,34.0,22.0,4.0,Hershel McGriff,Hershel McGriff,Chevrolet,6.0,550.0,engine,0.0,61.0
+1977,14,Riverside,35.0,32.0,98.0,Don Noel,Noel's Welding Shop (Johnny Kieper),Chevrolet,0.0,500.0,transmission,0.0,58.0
+1977,15,Michigan,1.0,4.0,11.0,Cale Yarborough,Holly Farms (Junior Johnson),Chevrolet,200.0,20625.0,running,106.0,185.0
+1977,15,Michigan,2.0,3.0,43.0,Richard Petty,STP (Petty Enterprises),Dodge,200.0,14425.0,running,5.0,175.0
+1977,15,Michigan,3.0,2.0,72.0,Benny Parsons,1st National City Travelers Checks (L.G. DeWitt),Chevrolet,200.0,10700.0,running,8.0,170.0
+1977,15,Michigan,4.0,6.0,2.0,Dave Marcis,CAM 2 (Roger Penske),Chevrolet,199.0,4750.0,running,65.0,165.0
+1977,15,Michigan,5.0,1.0,21.0,David Pearson,Purolator (Wood Brothers),Mercury,199.0,4550.0,running,4.0,160.0
+1977,15,Michigan,6.0,7.0,15.0,Buddy Baker,Norris Industries (Bud Moore),Ford,199.0,5750.0,running,0.0,150.0
+1977,15,Michigan,7.0,10.0,90.0,Dick Brooks,Truxmore (Junie Donlavey),Ford,197.0,4700.0,running,0.0,146.0
+1977,15,Michigan,8.0,9.0,27.0,Sam Sommers,M.C. Anderson,Chevrolet,197.0,3150.0,running,0.0,142.0
+1977,15,Michigan,9.0,17.0,75.0,Butch Hartman,Hartman Autocar (Butch Hartman),Chevrolet,196.0,2050.0,running,0.0,138.0
+1977,15,Michigan,10.0,16.0,12.0,Bobby Allison,1st National City Travelers Checks (Bobby Allison),Matador,195.0,3800.0,running,0.0,134.0
+1977,15,Michigan,11.0,26.0,48.0,James Hylton,Hylton Engineering (James Hylton),Chevrolet,195.0,3880.0,running,0.0,130.0
+1977,15,Michigan,12.0,24.0,3.0,Bill Seifert,Spirit of Public Enter. (Richard Childress),Chevrolet,194.0,1750.0,running,0.0,127.0
+1977,15,Michigan,13.0,33.0,42.0,Marty Robbins,Robbins Racing (Marty Robbins),Dodge,193.0,1500.0,running,0.0,124.0
+1977,15,Michigan,14.0,25.0,52.0,Jimmy Means,Means Racing (Bill Gray),Chevrolet,193.0,2845.0,running,0.0,121.0
+1977,15,Michigan,15.0,14.0,9.0,Bill Elliott,Dahlonega Ford Sales (George Elliott),Ford,192.0,1330.0,running,0.0,118.0
+1977,15,Michigan,16.0,28.0,40.0,D.K. Ulrich,J.R. DeLotto,Chevrolet,192.0,3060.0,running,0.0,115.0
+1977,15,Michigan,17.0,19.0,81.0,Terry Ryan,Valvoline (Bill Monaghan),Chevrolet,191.0,1225.0,running,0.0,112.0
+1977,15,Michigan,18.0,34.0,74.0,Bobby Wawak,Clear-Lam (Bobby Wawak),Chevrolet,191.0,1200.0,running,0.0,
+1977,15,Michigan,19.0,35.0,67.0,Buddy Arrington,Buddy Arrington,Dodge,189.0,2865.0,running,0.0,106.0
+1977,15,Michigan,20.0,27.0,70.0,J.D. McDuffie,J.D. McDuffie,Chevrolet,189.0,2680.0,running,0.0,103.0
+1977,15,Michigan,21.0,21.0,24.0,Cecil Gordon,Transmissions Unlimited (Cecil Gordon),Chevrolet,189.0,2395.0,running,0.0,100.0
+1977,15,Michigan,22.0,32.0,19.0,Henley Gray,Belden Asphalt (Henley Gray),Chevrolet,186.0,2160.0,running,0.0,97.0
+1977,15,Michigan,23.0,22.0,64.0,Tommy Gale,Sunny King (Elmo Langley),Ford,182.0,1975.0,running,0.0,94.0
+1977,15,Michigan,24.0,8.0,1.0,Donnie Allison,Hawaiian Tropic (Hoss Ellington),Chevrolet,176.0,1050.0,engine,3.0,96.0
+1977,15,Michigan,25.0,20.0,16.0,David Sisco,David Sisco,Chevrolet,174.0,1665.0,running,0.0,88.0
+1977,15,Michigan,26.0,12.0,68.0,Janet Guthrie,Kelly Girl (Lynda Ferreri),Chevrolet,170.0,1000.0,running,0.0,85.0
+1977,15,Michigan,27.0,11.0,92.0,Skip Manning,1st National City Travelers Checks (Billy Hagan),Chevrolet,159.0,2605.0,engine,0.0,82.0
+1977,15,Michigan,28.0,13.0,22.0,Ricky Rudd,Al Rudd Auto Parts (Al Rudd),Chevrolet,131.0,950.0,engine,8.0,84.0
+1977,15,Michigan,29.0,36.0,91.0,Roland Wlodyka,Rod Osterlund,Chevrolet,127.0,935.0,transmission,0.0,
+1977,15,Michigan,30.0,18.0,79.0,Frank Warren,Native Tan (Frank Warren),Dodge,112.0,1535.0,engine,0.0,73.0
+1977,15,Michigan,31.0,29.0,30.0,Tighe Scott,Scotty's Fashions (Walter Ballard),Chevrolet,100.0,1500.0,engine,0.0,70.0
+1977,15,Michigan,32.0,15.0,47.0,Bruce Hill,t. edwards (Bruce Hill),Chevrolet,92.0,890.0,driveshaft,0.0,67.0
+1977,15,Michigan,33.0,31.0,0.0,John Kennedy,Avanti CB (John Kennedy),Ford,66.0,880.0,engine,0.0,64.0
+1977,15,Michigan,34.0,23.0,3.0,Richard Childress,Kansas Jack (Richard Childress),Chevrolet,59.0,1320.0,engine,0.0,61.0
+1977,15,Michigan,35.0,5.0,88.0,Darrell Waltrip,Gatorade (DiGard Racing),Chevrolet,49.0,4010.0,engine,1.0,63.0
+1977,15,Michigan,36.0,30.0,25.0,Ferrel Harris,Don Robertson,Chevrolet,9.0,1300.0,engine,0.0,55.0
+1977,16,Daytona,1.0,5.0,43.0,Richard Petty,STP (Petty Enterprises),Dodge,160.0,23075.0,running,95.0,185.0
+1977,16,Daytona,2.0,12.0,88.0,Darrell Waltrip,Gatorade (DiGard Racing),Chevrolet,160.0,16350.0,running,21.0,175.0
+1977,16,Daytona,3.0,3.0,72.0,Benny Parsons,1st National City Travelers Checks (L.G. DeWitt),Chevrolet,160.0,12300.0,running,1.0,170.0
+1977,16,Daytona,4.0,14.0,21.0,David Pearson,Purolator (Wood Brothers),Mercury,160.0,6900.0,running,0.0,160.0
+1977,16,Daytona,5.0,6.0,51.0,A.J. Foyt,Gilmore (A.J. Foyt),Chevrolet,160.0,4700.0,running,4.0,
+1977,16,Daytona,6.0,8.0,1.0,Donnie Allison,Hawaiian Tropic (Hoss Ellington),Chevrolet,160.0,4570.0,running,12.0,155.0
+1977,16,Daytona,7.0,32.0,15.0,Buddy Baker,Norris Industries (Bud Moore),Ford,160.0,6670.0,running,0.0,146.0
+1977,16,Daytona,8.0,1.0,5.0,Neil Bonnett,Pocahontas Group (Jim Stacy),Dodge,158.0,4020.0,running,1.0,147.0
+1977,16,Daytona,9.0,30.0,90.0,Dick Brooks,Truxmore (Junie Donlavey),Ford,157.0,5220.0,running,0.0,138.0
+1977,16,Daytona,10.0,7.0,27.0,Sam Sommers,M.C. Anderson,Chevrolet,156.0,3570.0,running,0.0,134.0
+1977,16,Daytona,11.0,26.0,24.0,Cecil Gordon,Burger King (Cecil Gordon),Chevrolet,154.0,4820.0,running,0.0,130.0
+1977,16,Daytona,12.0,10.0,81.0,Terry Ryan,Valvoline (Bill Monaghan),Chevrolet,154.0,2370.0,running,0.0,127.0
+1977,16,Daytona,13.0,25.0,14.0,Coo Coo Marlin,Cunningham-Kelley (H.B. Cunningham),Chevrolet,154.0,2270.0,running,0.0,124.0
+1977,16,Daytona,14.0,34.0,49.0,G.C. Spencer,Lady & Son Auction (G.C. Spencer),Dodge,154.0,2195.0,running,0.0,121.0
+1977,16,Daytona,15.0,38.0,6.0,Jim Hurtubise,Moran Electric (Ray Emerson),Chevrolet,154.0,2065.0,running,0.0,118.0
+1977,16,Daytona,16.0,21.0,92.0,Skip Manning,1st National City Travelers Checks (Billy Hagan),Chevrolet,153.0,5195.0,running,0.0,115.0
+1977,16,Daytona,17.0,9.0,12.0,Bobby Allison,1st National City Travelers Checks (Bobby Allison),Matador,152.0,3935.0,running,13.0,117.0
+1977,16,Daytona,18.0,15.0,75.0,Butch Hartman,Hartman Autocar (Butch Hartman),Chevrolet,152.0,1765.0,running,0.0,109.0
+1977,16,Daytona,19.0,27.0,3.0,Richard Childress,Black Gold Oil (Richard Childress),Chevrolet,151.0,3475.0,running,0.0,106.0
+1977,16,Daytona,20.0,23.0,52.0,Jimmy Means,Marianne II (Bill Gray),Chevrolet,151.0,2805.0,running,0.0,103.0
+1977,16,Daytona,21.0,35.0,79.0,Frank Warren,Native Tan (Frank Warren),Dodge,149.0,2845.0,running,0.0,100.0
+1977,16,Daytona,22.0,28.0,67.0,Buddy Arrington,Pagoda Motel (Buddy Arrington),Dodge,148.0,2535.0,running,0.0,97.0
+1977,16,Daytona,23.0,2.0,11.0,Cale Yarborough,Holly Farms (Junior Johnson),Chevrolet,146.0,2350.0,running,13.0,99.0
+1977,16,Daytona,24.0,22.0,70.0,J.D. McDuffie,J.D. McDuffie,Chevrolet,143.0,2350.0,engine,0.0,91.0
+1977,16,Daytona,25.0,40.0,45.0,Baxter Price,Baxter Price,Chevrolet,142.0,1165.0,running,0.0,88.0
+1977,16,Daytona,26.0,18.0,41.0,Grant Adcox,Adcox-Kirby (Herb Adcox),Chevrolet,134.0,1140.0,running,0.0,85.0
+1977,16,Daytona,27.0,13.0,30.0,Tighe Scott,Scotty's Fashions (Walter Ballard),Chevrolet,123.0,2015.0,engine,0.0,82.0
+1977,16,Daytona,28.0,33.0,91.0,Harold Miller,Bartow Paving (Harold Miller),Chevrolet,118.0,1140.0,running,0.0,79.0
+1977,16,Daytona,29.0,4.0,36.0,Ron Hutcherson,Encyclopedia Britannica (John Gwinn),Chevrolet,117.0,1805.0,engine,0.0,
+1977,16,Daytona,30.0,11.0,47.0,Bruce Hill,t. edwards (Bruce Hill),Chevrolet,111.0,1040.0,engine,0.0,73.0
+1977,16,Daytona,31.0,29.0,5.0,Lella Lombardi,Bearfinder (Charles Dean),Chevrolet,103.0,785.0,rear end,0.0,
+1977,16,Daytona,32.0,19.0,60.0,Ramo Stott,Lou Viglione,Chevrolet,81.0,990.0,engine,0.0,67.0
+1977,16,Daytona,33.0,16.0,54.0,Lennie Pond,U.S. Army (Ronnie Elder),Chevrolet,57.0,1595.0,steering,0.0,64.0
+1977,16,Daytona,34.0,39.0,16.0,David Sisco,Bath World (David Sisco),Chevrolet,56.0,1560.0,engine,0.0,61.0
+1977,16,Daytona,35.0,31.0,9.0,Bill Elliott,Dahlonega Ford Sales (George Elliott),Ford,46.0,915.0,overheating,0.0,58.0
+1977,16,Daytona,36.0,17.0,22.0,Ricky Rudd,Al Rudd Auto Parts (Al Rudd),Chevrolet,45.0,910.0,transmission,0.0,55.0
+1977,16,Daytona,37.0,37.0,93.0,Christine Beckers,t. edwards-Genre (Junie Donlavey),Ford,33.0,695.0,brakes,0.0,
+1977,16,Daytona,38.0,36.0,64.0,Tommy Gale,Sunny King Ford & Honda (Elmo Langley),Ford,33.0,1500.0,engine,0.0,49.0
+1977,16,Daytona,39.0,24.0,48.0,James Hylton,Kansas Jack (James Hylton),Chevrolet,24.0,1470.0,rear end,0.0,46.0
+1977,16,Daytona,40.0,20.0,68.0,Janet Guthrie,Kelly Girl (Lynda Ferreri),Chevrolet,11.0,890.0,engine,0.0,43.0
+1977,16,Daytona,41.0,41.0,40.0,D.K. Ulrich,Hair Shack (J.R. DeLotto),Chevrolet,4.0,1390.0,engine,0.0,40.0
+1977,17,Nashville,1.0,6.0,88.0,Darrell Waltrip,Gatorade (DiGard Racing),Chevrolet,420.0,9415.0,running,300.0,185.0
+1977,17,Nashville,2.0,5.0,12.0,Bobby Allison,1st National City Travelers Checks (Bobby Allison),Matador,419.0,5540.0,running,31.0,175.0
+1977,17,Nashville,3.0,7.0,43.0,Richard Petty,STP (Petty Enterprises),Dodge,418.0,4965.0,running,10.0,170.0
+1977,17,Nashville,4.0,3.0,11.0,Cale Yarborough,Holly Farms (Junior Johnson),Chevrolet,417.0,4965.0,running,9.0,165.0
+1977,17,Nashville,5.0,9.0,90.0,Dick Brooks,Truxmore (Junie Donlavey),Ford,416.0,2515.0,running,0.0,155.0
+1977,17,Nashville,6.0,8.0,15.0,Buddy Baker,Norris Industries (Bud Moore),Ford,413.0,3365.0,running,0.0,150.0
+1977,17,Nashville,7.0,13.0,92.0,Skip Manning,1st National City Travelers Checks (Billy Hagan),Chevrolet,410.0,2145.0,running,0.0,146.0
+1977,17,Nashville,8.0,14.0,70.0,J.D. McDuffie,J.D. McDuffie,Chevrolet,408.0,1985.0,running,0.0,142.0
+1977,17,Nashville,9.0,18.0,67.0,Buddy Arrington,Buddy Arrington,Dodge,406.0,1815.0,running,0.0,138.0
+1977,17,Nashville,10.0,17.0,22.0,Ricky Rudd,Al Rudd Auto Parts (Al Rudd),Chevrolet,404.0,1565.0,running,0.0,134.0
+1977,17,Nashville,11.0,22.0,14.0,Coo Coo Marlin,Cunningham-Kelley (H.B. Cunningham),Chevrolet,401.0,665.0,running,0.0,
+1977,17,Nashville,12.0,21.0,79.0,Frank Warren,Native Tan (Frank Warren),Dodge,401.0,1505.0,running,0.0,127.0
+1977,17,Nashville,13.0,23.0,30.0,Tighe Scott,Scotty's Fashions (Walter Ballard),Chevrolet,397.0,1420.0,running,0.0,124.0
+1977,17,Nashville,14.0,20.0,40.0,D.K. Ulrich,J.R. DeLotto,Chevrolet,396.0,1260.0,running,0.0,121.0
+1977,17,Nashville,15.0,15.0,68.0,Janet Guthrie,Kelly Girl (Lynda Ferreri),Chevrolet,394.0,1265.0,running,0.0,118.0
+1977,17,Nashville,16.0,24.0,45.0,Baxter Price,Baxter Price,Chevrolet,391.0,745.0,running,0.0,115.0
+1977,17,Nashville,17.0,27.0,19.0,Henley Gray,Belden Asphalt (Henley Gray),Chevrolet,384.0,1005.0,running,0.0,112.0
+1977,17,Nashville,18.0,1.0,72.0,Benny Parsons,1st National City Travelers Checks (L.G. DeWitt),Chevrolet,381.0,2850.0,engine,32.0,114.0
+1977,17,Nashville,19.0,12.0,48.0,James Hylton,Hylton Engineering (James Hylton),Chevrolet,374.0,810.0,running,0.0,106.0
+1977,17,Nashville,20.0,28.0,24.0,Cecil Gordon,Cecil Gordon,Chevrolet,360.0,600.0,running,0.0,103.0
+1977,17,Nashville,21.0,2.0,5.0,Neil Bonnett,Pocahontas Group (Jim Stacy),Dodge,187.0,770.0,engine,38.0,105.0
+1977,17,Nashville,22.0,26.0,16.0,David Sisco,David Sisco,Chevrolet,146.0,585.0,engine,0.0,97.0
+1977,17,Nashville,23.0,29.0,98.0,Ralph Jones,Ralph Jones,Ford,137.0,575.0,brakes,0.0,94.0
+1977,17,Nashville,24.0,11.0,27.0,Sam Sommers,M.C. Anderson,Chevrolet,128.0,565.0,rear end,0.0,91.0
+1977,17,Nashville,25.0,19.0,41.0,Grant Adcox,Adcox-Kirby (Herb Adcox),Chevrolet,122.0,555.0,engine,0.0,
+1977,17,Nashville,26.0,25.0,4.0,Gary Myers,Hicks Pharmacy (Gary Myers),Chevrolet,37.0,545.0,rear end,0.0,85.0
+1977,17,Nashville,27.0,4.0,3.0,Richard Childress,Kansas Jack (Richard Childress),Chevrolet,30.0,635.0,crash,0.0,82.0
+1977,17,Nashville,28.0,16.0,64.0,Elmo Langley,Sunny King Ford & Honda (Elmo Langley),Ford,18.0,525.0,engine,0.0,79.0
+1977,17,Nashville,29.0,10.0,52.0,Jimmy Means,Means Racing (Bill Gray),Chevrolet,15.0,515.0,ignition,0.0,76.0
+1977,17,Nashville,30.0,30.0,69.0,Mike Kempton,Jayhawk Sports (Mike Kempton),Chevrolet,12.0,505.0,overheating,0.0,73.0
+1977,18,Pocono,1.0,4.0,72.0,Benny Parsons,1st National City Travelers Checks (L.G. DeWitt),Chevrolet,200.0,15475.0,running,118.0,185.0
+1977,18,Pocono,2.0,5.0,43.0,Richard Petty,STP (Petty Enterprises),Dodge,200.0,12200.0,running,9.0,175.0
+1977,18,Pocono,3.0,1.0,88.0,Darrell Waltrip,Gatorade (DiGard Racing),Chevrolet,200.0,9825.0,running,38.0,170.0
+1977,18,Pocono,4.0,2.0,12.0,Bobby Allison,1st National City Travelers Checks (Bobby Allison),Matador,200.0,6150.0,running,11.0,165.0
+1977,18,Pocono,5.0,9.0,90.0,Dick Brooks,Truxmore (Junie Donlavey),Ford,198.0,5200.0,out of gas,0.0,155.0
+1977,18,Pocono,6.0,6.0,11.0,Cale Yarborough,Holly Farms (Junior Johnson),Chevrolet,198.0,7400.0,running,1.0,155.0
+1977,18,Pocono,7.0,12.0,22.0,Ricky Rudd,Al Rudd Auto Parts (Al Rudd),Chevrolet,198.0,3300.0,running,0.0,146.0
+1977,18,Pocono,8.0,11.0,92.0,Skip Manning,1st National City Travelers Checks (Billy Hagan),Chevrolet,197.0,4730.0,running,0.0,142.0
+1977,18,Pocono,9.0,21.0,75.0,Butch Hartman,Hartman Autocar (Butch Hartman),Chevrolet,197.0,1900.0,running,0.0,138.0
+1977,18,Pocono,10.0,15.0,48.0,James Hylton,Hylton Engineering (James Hylton),Chevrolet,194.0,3320.0,running,0.0,134.0
+1977,18,Pocono,11.0,10.0,68.0,Janet Guthrie,Kelly Girl (Lynda Ferreri),Chevrolet,194.0,1600.0,running,0.0,130.0
+1977,18,Pocono,12.0,18.0,84.0,Kenny Brightbill,Makar Enterprises (Jim Makar),Mercury,194.0,1500.0,running,0.0,127.0
+1977,18,Pocono,13.0,25.0,30.0,Tighe Scott,Scotty's Fashions (Walter Ballard),Chevrolet,192.0,2860.0,running,0.0,124.0
+1977,18,Pocono,14.0,23.0,70.0,J.D. McDuffie,J.D. McDuffie,Chevrolet,192.0,2640.0,running,0.0,121.0
+1977,18,Pocono,15.0,20.0,67.0,Buddy Arrington,Buddy Arrington,Plymouth,191.0,2430.0,running,0.0,118.0
+1977,18,Pocono,16.0,24.0,8.0,Ed Negre,Ed Negre,Dodge,191.0,2220.0,running,0.0,115.0
+1977,18,Pocono,17.0,14.0,3.0,Richard Childress,Kansas Jack (Richard Childress),Chevrolet,189.0,1990.0,running,0.0,112.0
+1977,18,Pocono,18.0,34.0,61.0,Joe Mihalic,Joe Mihalic,Chevrolet,189.0,955.0,running,0.0,109.0
+1977,18,Pocono,19.0,17.0,79.0,Frank Warren,Native Tan (Frank Warren),Dodge,187.0,1780.0,running,0.0,106.0
+1977,18,Pocono,20.0,22.0,52.0,Jimmy Means,Means Racing (Bill Gray),Chevrolet,187.0,1045.0,running,0.0,103.0
+1977,18,Pocono,21.0,13.0,24.0,Cecil Gordon,Cecil Gordon,Chevrolet,184.0,1510.0,running,0.0,100.0
+1977,18,Pocono,22.0,28.0,45.0,Baxter Price,Baxter Price,Chevrolet,184.0,855.0,running,0.0,97.0
+1977,18,Pocono,23.0,32.0,34.0,Nestor Peles,Steve Peles,Chevrolet,176.0,830.0,running,0.0,
+1977,18,Pocono,24.0,19.0,57.0,Dick May,McClure Motors (Alfred McClure),Ford,160.0,805.0,ignition,0.0,91.0
+1977,18,Pocono,25.0,26.0,64.0,Tommy Gale,Sunny King Ford & Honda (Elmo Langley),Ford,160.0,1400.0,running,0.0,88.0
+1977,18,Pocono,26.0,31.0,63.0,Jocko Maggiacomo,Jocko's Racing (Jocko Maggiacomo),Matador,150.0,755.0,steering,0.0,85.0
+1977,18,Pocono,27.0,7.0,15.0,Buddy Baker,Norris Industries (Bud Moore),Ford,123.0,3930.0,crash,0.0,82.0
+1977,18,Pocono,28.0,3.0,21.0,David Pearson,Purolator (Wood Brothers),Mercury,111.0,1205.0,suspension,23.0,84.0
+1977,18,Pocono,29.0,33.0,85.0,Greg Heller,Heller Triangle Spring (Greg Heller),Ford,110.0,680.0,clutch,0.0,76.0
+1977,18,Pocono,30.0,35.0,4.0,Gary Myers,Hicks Pharmacy (Gary Myers),Chevrolet,105.0,655.0,engine,0.0,73.0
+1977,18,Pocono,31.0,29.0,98.0,Roland Wlodyka,Rod Osterlund,Chevrolet,97.0,630.0,crash,0.0,
+1977,18,Pocono,32.0,8.0,27.0,Sam Sommers,M.C. Anderson,Chevrolet,50.0,605.0,engine,0.0,67.0
+1977,18,Pocono,33.0,30.0,25.0,Ronnie Thomas,Don Robertson,Chevrolet,46.0,1180.0,crash,0.0,64.0
+1977,18,Pocono,34.0,16.0,40.0,D.K. Ulrich,J.R. DeLotto,Chevrolet,32.0,1050.0,engine,0.0,61.0
+1977,18,Pocono,35.0,27.0,1.0,Earle Canavan,Earle Canavan,Dodge,13.0,540.0,engine,0.0,58.0
+1977,19,Talladega,1.0,2.0,1.0,Donnie Allison,Hawaiian Tropic (Hoss Ellington),Chevrolet,188.0,26375.0,running,92.0,185.0
+1977,19,Talladega,2.0,4.0,11.0,Cale Yarborough,Holly Farms (Junior Johnson),Chevrolet,188.0,18300.0,running,2.0,175.0
+1977,19,Talladega,3.0,6.0,92.0,Skip Manning,1st National City Travelers Checks (Billy Hagan),Chevrolet,188.0,14700.0,running,13.0,170.0
+1977,19,Talladega,4.0,13.0,22.0,Ricky Rudd,Kockums (Al Rudd),Chevrolet,186.0,8000.0,running,0.0,160.0
+1977,19,Talladega,5.0,25.0,54.0,Lennie Pond,U.S. Army (Ronnie Elder),Chevrolet,186.0,8050.0,running,0.0,155.0
+1977,19,Talladega,6.0,23.0,15.0,Buddy Baker,Norris Industries (Bud Moore),Ford,186.0,8681.0,running,13.0,155.0
+1977,19,Talladega,7.0,18.0,12.0,Bobby Allison,1st National City Travelers Checks (Bobby Allison),Matador,185.0,5350.0,running,0.0,146.0
+1977,19,Talladega,8.0,22.0,70.0,J.D. McDuffie,Bailey Excavating (J.D. McDuffie),Chevrolet,183.0,5390.0,running,0.0,142.0
+1977,19,Talladega,9.0,17.0,48.0,James Hylton,WSM-TV (James Hylton),Chevrolet,182.0,4930.0,running,0.0,138.0
+1977,19,Talladega,10.0,14.0,79.0,Frank Warren,Native Tan (Frank Warren),Dodge,181.0,4710.0,running,0.0,134.0
+1977,19,Talladega,11.0,11.0,43.0,Richard Petty,STP (Petty Enterprises),Dodge,180.0,6120.0,running,1.0,135.0
+1977,19,Talladega,12.0,19.0,67.0,Buddy Arrington,Mistec Transmission (Buddy Arrington),Dodge,177.0,4250.0,running,0.0,127.0
+1977,19,Talladega,13.0,35.0,91.0,Harold Miller,T & E Clothes (Harold Miller),Chevrolet,175.0,2620.0,running,0.0,124.0
+1977,19,Talladega,14.0,34.0,64.0,Tommy Gale,Sunny King Ford & Honda (Elmo Langley),Ford,171.0,3790.0,running,0.0,121.0
+1977,19,Talladega,15.0,31.0,41.0,Grant Adcox,Krystal (Herb Adcox),Chevrolet,151.0,2415.0,electrical,0.0,118.0
+1977,19,Talladega,16.0,29.0,24.0,Cecil Gordon,Cecil Gordon,Chevrolet,150.0,3375.0,running,0.0,115.0
+1977,19,Talladega,17.0,26.0,25.0,Dick May,Asheville Savings Bank (Don Robertson),Chevrolet,148.0,3165.0,engine,0.0,112.0
+1977,19,Talladega,18.0,24.0,40.0,D.K. Ulrich,J.R. DeLotto,Chevrolet,144.0,2880.0,running,0.0,109.0
+1977,19,Talladega,19.0,40.0,7.0,Steve Moore,Norris Price,Chevrolet,139.0,2165.0,engine,0.0,
+1977,19,Talladega,20.0,5.0,3.0,Richard Childress,Kansas Jack (Richard Childress),Chevrolet,118.0,2795.0,engine,3.0,108.0
+1977,19,Talladega,21.0,12.0,51.0,Johnny Rutherford,Gilmore (A.J. Foyt),Chevrolet,114.0,1865.0,fatigue,0.0,
+1977,19,Talladega,22.0,7.0,88.0,Darrell Waltrip,Gatorade (DiGard Racing),Chevrolet,106.0,5515.0,engine,9.0,102.0
+1977,19,Talladega,23.0,20.0,9.0,Bill Elliott,Dahlonega Ford Sales (George Elliott),Mercury,103.0,1765.0,wheel,0.0,94.0
+1977,19,Talladega,24.0,1.0,72.0,Benny Parsons,1st National City Travelers Checks (L.G. DeWitt),Chevrolet,92.0,8515.0,engine,51.0,96.0
+1977,19,Talladega,25.0,16.0,5.0,Neil Bonnett,Jim Stacy,Dodge,91.0,1665.0,engine,0.0,88.0
+1977,19,Talladega,26.0,3.0,27.0,Sam Sommers,M.C. Anderson,Chevrolet,90.0,3015.0,engine,4.0,90.0
+1977,19,Talladega,27.0,15.0,30.0,Tighe Scott,Scotty's Fashions (Walter Ballard),Chevrolet,89.0,2185.0,engine,0.0,82.0
+1977,19,Talladega,28.0,38.0,16.0,David Sisco,David Sisco,Chevrolet,82.0,2115.0,engine,0.0,79.0
+1977,19,Talladega,29.0,27.0,75.0,Butch Hartman,Hartman Autocar (Butch Hartman),Chevrolet,69.0,1465.0,engine,0.0,76.0
+1977,19,Talladega,30.0,39.0,23.0,Jim Raptis,Opal's Truck Stop (Opal Voight),Chevrolet,67.0,1070.0,engine,0.0,
+1977,19,Talladega,31.0,30.0,49.0,G.C. Spencer,Lady & Son Auction (G.C. Spencer),Dodge,58.0,1265.0,transmission,0.0,70.0
+1977,19,Talladega,32.0,37.0,61.0,Joe Mihalic,Perfect Alignment (Joe Mihalic),Chevrolet,43.0,1240.0,engine,0.0,67.0
+1977,19,Talladega,33.0,33.0,5.0,Peter Knab,Bearfinder (Charles Dean),Chevrolet,41.0,1215.0,engine,0.0,64.0
+1977,19,Talladega,34.0,9.0,68.0,Janet Guthrie,Kelly Girl (Lynda Ferreri),Chevrolet,39.0,1190.0,engine,0.0,61.0
+1977,19,Talladega,35.0,8.0,47.0,Bruce Hill,t. edwards (Bruce Hill),Chevrolet,38.0,1165.0,water pump,0.0,58.0
+1977,19,Talladega,36.0,36.0,98.0,Jimmy Means,Rod Osterlund,Chevrolet,38.0,875.0,engine,0.0,55.0
+1977,19,Talladega,37.0,21.0,21.0,David Pearson,Purolator (Wood Brothers),Mercury,37.0,1915.0,overheating,0.0,52.0
+1977,19,Talladega,38.0,28.0,42.0,Marty Robbins,Robbins Racing (Marty Robbins),Dodge,36.0,1090.0,transmission,0.0,49.0
+1977,19,Talladega,39.0,32.0,90.0,Dick Brooks,Truxmore (Junie Donlavey),Ford,34.0,1565.0,engine,0.0,46.0
+1977,19,Talladega,40.0,10.0,14.0,Coo Coo Marlin,Cunningham-Kelley (H.B. Cunningham),Chevrolet,1.0,965.0,driveshaft,0.0,43.0
+1977,20,Michigan,1.0,3.0,88.0,Darrell Waltrip,Gatorade (DiGard Racing),Chevrolet,200.0,16820.0,running,51.0,180.0
+1977,20,Michigan,2.0,1.0,21.0,David Pearson,Purolator (Wood Brothers),Mercury,200.0,10300.0,running,4.0,175.0
+1977,20,Michigan,3.0,4.0,72.0,Benny Parsons,1st National City Travelers Checks (L.G. DeWitt),Chevrolet,200.0,9350.0,running,22.0,170.0
+1977,20,Michigan,4.0,7.0,27.0,Sam Sommers,M.C. Anderson,Chevrolet,200.0,4900.0,running,1.0,165.0
+1977,20,Michigan,5.0,2.0,11.0,Cale Yarborough,Holly Farms (Junior Johnson),Chevrolet,200.0,8100.0,running,120.0,165.0
+1977,20,Michigan,6.0,13.0,90.0,Dick Brooks,Truxmore (Junie Donlavey),Ford,200.0,4750.0,running,0.0,150.0
+1977,20,Michigan,7.0,10.0,22.0,Ricky Rudd,Al Rudd Auto Parts (Al Rudd),Chevrolet,199.0,2000.0,running,0.0,146.0
+1977,20,Michigan,8.0,6.0,43.0,Richard Petty,STP (Petty Enterprises),Dodge,198.0,5100.0,running,2.0,147.0
+1977,20,Michigan,9.0,12.0,81.0,Terry Ryan,Valvoline (Bill Monaghan),Chevrolet,197.0,1800.0,running,0.0,138.0
+1977,20,Michigan,10.0,15.0,68.0,Janet Guthrie,Kelly Girl (Lynda Ferreri),Chevrolet,196.0,1700.0,running,0.0,134.0
+1977,20,Michigan,11.0,27.0,30.0,Tighe Scott,Scotty's Fashions (Walter Ballard),Chevrolet,196.0,3950.0,running,0.0,130.0
+1977,20,Michigan,12.0,9.0,92.0,Skip Manning,1st National City Travelers Checks (Billy Hagan),Chevrolet,196.0,4530.0,running,0.0,127.0
+1977,20,Michigan,13.0,11.0,47.0,Bruce Hill,Bruce Hill,Chevrolet,196.0,1250.0,running,0.0,
+1977,20,Michigan,14.0,14.0,67.0,Buddy Arrington,Mistec Transmission (Buddy Arrington),Dodge,195.0,3095.0,running,0.0,121.0
+1977,20,Michigan,15.0,32.0,74.0,Bobby Wawak,Bobby Wawak,Chevrolet,195.0,1080.0,running,0.0,
+1977,20,Michigan,16.0,24.0,48.0,James Hylton,Hylton Engineering (James Hylton),Chevrolet,192.0,2810.0,running,0.0,115.0
+1977,20,Michigan,17.0,31.0,52.0,Jimmy Means,WIXC (Bill Gray),Chevrolet,192.0,2165.0,running,0.0,112.0
+1977,20,Michigan,18.0,26.0,40.0,D.K. Ulrich,J.R. DeLotto,Chevrolet,189.0,2480.0,running,0.0,109.0
+1977,20,Michigan,19.0,23.0,24.0,Cecil Gordon,Transmissions Unlimited (Cecil Gordon),Chevrolet,189.0,2195.0,running,0.0,106.0
+1977,20,Michigan,20.0,20.0,70.0,J.D. McDuffie,Bailey Excavating (J.D. McDuffie),Chevrolet,186.0,1960.0,running,0.0,103.0
+1977,20,Michigan,21.0,29.0,25.0,Dean Dalton,Don Robertson,Chevrolet,179.0,1775.0,running,0.0,100.0
+1977,20,Michigan,22.0,8.0,2.0,Dave Marcis,CAM 2 (Roger Penske),Chevrolet,154.0,1350.0,running,0.0,
+1977,20,Michigan,23.0,25.0,79.0,Frank Warren,Native Tan (Frank Warren),Dodge,141.0,1465.0,engine,0.0,94.0
+1977,20,Michigan,24.0,28.0,61.0,Joe Mihalic,Joe Mihalic,Chevrolet,134.0,800.0,wheel,0.0,91.0
+1977,20,Michigan,25.0,16.0,75.0,Butch Hartman,Hartman Autocar (Butch Hartman),Chevrolet,125.0,775.0,engine,0.0,88.0
+1977,20,Michigan,26.0,17.0,12.0,Bobby Allison,1st National City Travelers Checks (Bobby Allison),Matador,117.0,880.0,engine,0.0,85.0
+1977,20,Michigan,27.0,35.0,63.0,Jocko Maggiacomo,1st National City Travelers Checks (Jocko Maggiacomo),Matador,114.0,725.0,engine,0.0,
+1977,20,Michigan,28.0,33.0,91.0,Harold Miller,Bartow Paving (Harold Miller),Chevrolet,85.0,700.0,driveshaft,0.0,
+1977,20,Michigan,29.0,18.0,9.0,Bill Elliott,Dahlonega Ford Sales (George Elliott),Mercury,76.0,685.0,engine,0.0,
+1977,20,Michigan,30.0,5.0,15.0,Buddy Baker,Norris Industries (Bud Moore),Ford,68.0,3865.0,engine,0.0,73.0
+1977,20,Michigan,31.0,19.0,8.0,Ed Negre,Ed Negre,Dodge,61.0,1270.0,engine,0.0,70.0
+1977,20,Michigan,32.0,30.0,64.0,Tommy Gale,Sunny King Ford & Honda (Elmo Langley),Ford,53.0,1240.0,running,0.0,67.0
+1977,20,Michigan,33.0,21.0,3.0,Richard Childress,Kansas Jack (Richard Childress),Chevrolet,41.0,1130.0,engine,0.0,64.0
+1977,20,Michigan,34.0,36.0,45.0,Baxter Price,Baxter Price,Chevrolet,5.0,620.0,engine,0.0,61.0
+1977,20,Michigan,35.0,22.0,42.0,Elmo Langley,Marty Robbins,Dodge,1.0,610.0,engine,0.0,58.0
+1977,20,Michigan,36.0,34.0,1.0,Earle Canavan,Benihana (Earle Canavan),Dodge,1.0,600.0,engine,0.0,
+1977,21,Bristol,1.0,1.0,11.0,Cale Yarborough,Holly Farms (Junior Johnson),Chevrolet,400.0,12100.0,running,299.0,185.0
+1977,21,Bristol,2.0,4.0,88.0,Darrell Waltrip,Gatorade (DiGard Racing),Chevrolet,400.0,7200.0,running,19.0,175.0
+1977,21,Bristol,3.0,3.0,72.0,Benny Parsons,1st National City Travelers Checks (L.G. DeWitt),Chevrolet,399.0,5670.0,running,62.0,170.0
+1977,21,Bristol,4.0,5.0,90.0,Dick Brooks,Truxmore (Junie Donlavey),Ford,396.0,3400.0,running,0.0,160.0
+1977,21,Bristol,5.0,15.0,30.0,Tighe Scott,Scotty's Fashions (Walter Ballard),Chevrolet,389.0,2900.0,running,0.0,155.0
+1977,21,Bristol,6.0,9.0,68.0,Janet Guthrie,Kelly Girl (Lynda Ferreri),Chevrolet,387.0,2200.0,running,0.0,150.0
+1977,21,Bristol,7.0,14.0,92.0,Skip Manning,1st National City Travelers Checks (Billy Hagan),Chevrolet,385.0,3180.0,running,0.0,146.0
+1977,21,Bristol,8.0,17.0,3.0,Richard Childress,Kansas Jack (Richard Childress),Chevrolet,384.0,2020.0,running,0.0,142.0
+1977,21,Bristol,9.0,18.0,48.0,James Hylton,Eddie's Auto Parts (James Hylton),Chevrolet,383.0,1900.0,running,0.0,138.0
+1977,21,Bristol,10.0,19.0,67.0,Buddy Arrington,Mistec Transmission (Buddy Arrington),Dodge,382.0,1740.0,running,0.0,134.0
+1977,21,Bristol,11.0,16.0,40.0,D.K. Ulrich,J.R. DeLotto,Chevrolet,381.0,1680.0,running,0.0,130.0
+1977,21,Bristol,12.0,23.0,8.0,Ed Negre,Ed Negre,Dodge,378.0,1470.0,running,0.0,127.0
+1977,21,Bristol,13.0,25.0,79.0,Frank Warren,Native Tan (Frank Warren),Dodge,361.0,1260.0,running,0.0,124.0
+1977,21,Bristol,14.0,26.0,25.0,Ferrel Harris,Don Robertson,Chevrolet,324.0,1125.0,running,0.0,121.0
+1977,21,Bristol,15.0,8.0,15.0,Buddy Baker,Norris Industries (Bud Moore),Ford,252.0,2850.0,engine,2.0,123.0
+1977,21,Bristol,16.0,11.0,22.0,Ricky Rudd,Al Rudd Auto Parts (Al Rudd),Chevrolet,220.0,590.0,running,0.0,115.0
+1977,21,Bristol,17.0,10.0,5.0,Neil Bonnett,Jim Stacy Racing Team (Jim Stacy),Dodge,219.0,570.0,ignition,17.0,117.0
+1977,21,Bristol,18.0,12.0,70.0,J.D. McDuffie,Bailey Excavating (J.D. McDuffie),Chevrolet,215.0,990.0,engine,0.0,109.0
+1977,21,Bristol,19.0,21.0,98.0,Ralph Jones,Ralph Jones,Ford,186.0,520.0,rear end,0.0,106.0
+1977,21,Bristol,20.0,6.0,27.0,Sam Sommers,M.C. Anderson,Chevrolet,144.0,500.0,engine,0.0,103.0
+1977,21,Bristol,21.0,24.0,46.0,Travis Tiller,Little B Coal (Travis Tiller),Dodge,139.0,465.0,overheating,0.0,100.0
+1977,21,Bristol,22.0,2.0,43.0,Richard Petty,STP (Petty Enterprises),Dodge,118.0,2855.0,crash,1.0,102.0
+1977,21,Bristol,23.0,20.0,64.0,Dean Dalton,Sunny King Ford & Honda (Elmo Langley),Ford,113.0,695.0,crash,0.0,94.0
+1977,21,Bristol,24.0,29.0,19.0,Dick May,Clear-Lam (Henley Gray),Chevrolet,58.0,685.0,engine,0.0,91.0
+1977,21,Bristol,25.0,28.0,33.0,Earl Brooks,Handy's Transmission (Hiram Handy),Chevrolet,55.0,425.0,engine,0.0,88.0
+1977,21,Bristol,26.0,27.0,45.0,Baxter Price,Baxter Price,Chevrolet,32.0,400.0,oil leak,0.0,85.0
+1977,21,Bristol,27.0,13.0,52.0,Jimmy Means,Bill Gray,Chevrolet,25.0,480.0,crash,0.0,82.0
+1977,21,Bristol,28.0,7.0,12.0,Bobby Allison,1st National City Travelers Checks (Bobby Allison),Matador,15.0,370.0,clutch,0.0,79.0
+1977,21,Bristol,29.0,22.0,24.0,Cecil Gordon,Transmissions Unlimited (Cecil Gordon),Chevrolet,2.0,610.0,engine,0.0,76.0
+1977,22,Darlington,1.0,5.0,21.0,David Pearson,Purolator (Wood Brothers),Mercury,367.0,24550.0,running,60.0,180.0
+1977,22,Darlington,2.0,7.0,1.0,Donnie Allison,Hawaiian Tropic (Hoss Ellington),Chevrolet,367.0,14285.0,running,109.0,175.0
+1977,22,Darlington,3.0,3.0,15.0,Buddy Baker,Norris Industries (Bud Moore),Ford,367.0,12710.0,running,0.0,165.0
+1977,22,Darlington,4.0,6.0,43.0,Richard Petty,STP (Petty Enterprises),Dodge,365.0,10360.0,running,1.0,165.0
+1977,22,Darlington,5.0,4.0,11.0,Cale Yarborough,Holly Farms (Junior Johnson),Chevrolet,362.0,12435.0,running,70.0,160.0
+1977,22,Darlington,6.0,1.0,88.0,Darrell Waltrip,Gatorade (DiGard Racing),Chevrolet,360.0,12575.0,running,123.0,160.0
+1977,22,Darlington,7.0,18.0,22.0,Ricky Rudd,Al Rudd Auto Parts (Al Rudd),Chevrolet,360.0,7400.0,running,0.0,146.0
+1977,22,Darlington,8.0,12.0,3.0,Richard Childress,Kansas Jack (Richard Childress),Chevrolet,360.0,6400.0,running,0.0,142.0
+1977,22,Darlington,9.0,28.0,47.0,Bruce Hill,t. edwards (Bruce Hill),Chevrolet,357.0,3550.0,running,0.0,
+1977,22,Darlington,10.0,16.0,52.0,Bill Elliott,George Elliott,Ford,355.0,4930.0,running,0.0,134.0
+1977,22,Darlington,11.0,25.0,8.0,Ed Negre,G & M Used Cars (Ed Negre),Dodge,352.0,5020.0,running,0.0,130.0
+1977,22,Darlington,12.0,19.0,70.0,J.D. McDuffie,Bailey Excavating (J.D. McDuffie),Chevrolet,350.0,4810.0,running,0.0,127.0
+1977,22,Darlington,13.0,22.0,48.0,James Hylton,Jerry's Truck Stop (James Hylton),Chevrolet,348.0,4590.0,running,0.0,124.0
+1977,22,Darlington,14.0,31.0,67.0,Buddy Arrington,Mistec Transmission (Buddy Arrington),Dodge,344.0,4330.0,running,0.0,121.0
+1977,22,Darlington,15.0,30.0,4.0,Gary Myers,Myers Roofing (Gary Myers),Chevrolet,343.0,2700.0,running,0.0,118.0
+1977,22,Darlington,16.0,26.0,68.0,Janet Guthrie,Kelly Girl (Lynda Ferreri),Chevrolet,339.0,2700.0,running,0.0,115.0
+1977,22,Darlington,17.0,38.0,79.0,Frank Warren,Native Tan (Frank Warren),Dodge,338.0,3770.0,running,0.0,112.0
+1977,22,Darlington,18.0,11.0,64.0,Tommy Gale,Sunny King Ford & Honda (Elmo Langley),Ford,335.0,3410.0,running,0.0,109.0
+1977,22,Darlington,19.0,34.0,24.0,Cecil Gordon,Transmissions Unlimited (Cecil Gordon),Chevrolet,333.0,3100.0,running,0.0,106.0
+1977,22,Darlington,20.0,40.0,69.0,Mike Kempton,Jayhawk Sports (Mike Kempton),Chevrolet,324.0,2050.0,running,0.0,103.0
+1977,22,Darlington,21.0,36.0,45.0,Baxter Price,Baxter Price,Chevrolet,321.0,1900.0,running,0.0,100.0
+1977,22,Darlington,22.0,35.0,19.0,Bobby Wawak,Clear-Lam (Henley Gray),Chevrolet,319.0,2465.0,running,0.0,97.0
+1977,22,Darlington,23.0,21.0,1.0,Earle Canavan,Earle Canavan,Dodge,311.0,1750.0,running,0.0,94.0
+1977,22,Darlington,24.0,29.0,91.0,Terry Bivins,T & E Clothes (Harold Miller),Chevrolet,290.0,1700.0,engine,0.0,91.0
+1977,22,Darlington,25.0,2.0,72.0,Benny Parsons,1st National City Travelers Checks (L.G. DeWitt),Chevrolet,289.0,5425.0,engine,2.0,93.0
+1977,22,Darlington,26.0,10.0,14.0,Coo Coo Marlin,Cunningham-Kelley (H.B. Cunningham),Chevrolet,287.0,1500.0,engine,0.0,
+1977,22,Darlington,27.0,23.0,40.0,D.K. Ulrich,J.R. DeLotto,Chevrolet,257.0,2105.0,running,0.0,82.0
+1977,22,Darlington,28.0,9.0,54.0,Lennie Pond,Carolina Construction (Ronnie Elder),Chevrolet,250.0,2120.0,crash,2.0,84.0
+1977,22,Darlington,29.0,17.0,27.0,Sam Sommers,U.S. Army (M.C. Anderson),Chevrolet,219.0,1425.0,crash,0.0,76.0
+1977,22,Darlington,30.0,39.0,8.0,Ralph Jones,Ralph Jones,Ford,179.0,1900.0,crash,0.0,73.0
+1977,22,Darlington,31.0,32.0,10.0,Dick May,R.T.'s Lounge (Bill Champion),Ford,169.0,1400.0,engine,0.0,70.0
+1977,22,Darlington,32.0,33.0,30.0,Tighe Scott,Scotty's Fashions (Walter Ballard),Chevrolet,148.0,1950.0,suspension,0.0,67.0
+1977,22,Darlington,33.0,37.0,25.0,Ferrel Harris,Red Robinson Used Cars (Don Robertson),Chevrolet,100.0,1825.0,engine,0.0,64.0
+1977,22,Darlington,34.0,15.0,90.0,Dick Brooks,Truxmore (Junie Donlavey),Ford,68.0,1900.0,crash,0.0,61.0
+1977,22,Darlington,35.0,20.0,75.0,Butch Hartman,Hartman Autocar (Butch Hartman),Chevrolet,61.0,1275.0,crash,0.0,58.0
+1977,22,Darlington,36.0,27.0,98.0,Roland Wlodyka,Rod Osterlund,Chevrolet,57.0,1310.0,suspension,0.0,55.0
+1977,22,Darlington,37.0,13.0,49.0,G.C. Spencer,Lady & Son Auction (G.C. Spencer),Dodge,26.0,1425.0,crash,0.0,52.0
+1977,22,Darlington,38.0,14.0,92.0,Skip Manning,1st National City Travelers Checks (Billy Hagan),Chevrolet,23.0,2850.0,crash,0.0,49.0
+1977,22,Darlington,39.0,8.0,12.0,Bobby Allison,1st National City Travelers Checks (Bobby Allison),Matador,21.0,1160.0,engine,0.0,46.0
+1977,22,Darlington,40.0,24.0,61.0,Joe Mihalic,Joe Mihalic,Chevrolet,12.0,1140.0,engine,0.0,43.0
+1977,23,Richmond,1.0,2.0,5.0,Neil Bonnett,Jim Stacy Racing Team (Jim Stacy),Dodge,400.0,8700.0,running,250.0,185.0
+1977,23,Richmond,2.0,3.0,43.0,Richard Petty,STP (Petty Enterprises),Dodge,400.0,7775.0,running,1.0,175.0
+1977,23,Richmond,3.0,1.0,72.0,Benny Parsons,1st National City Travelers Checks (L.G. DeWitt),Chevrolet,400.0,6800.0,running,127.0,170.0
+1977,23,Richmond,4.0,9.0,11.0,Cale Yarborough,Holly Farms (Junior Johnson),Chevrolet,400.0,5950.0,running,17.0,165.0
+1977,23,Richmond,5.0,12.0,54.0,Lennie Pond,Ronnie Elder,Chevrolet,400.0,3340.0,running,0.0,155.0
+1977,23,Richmond,6.0,5.0,12.0,Bobby Allison,1st National City Travelers Checks (Bobby Allison),Matador,397.0,2525.0,running,1.0,155.0
+1977,23,Richmond,7.0,6.0,88.0,Darrell Waltrip,Gatorade (DiGard Racing),Chevrolet,396.0,3500.0,crash,0.0,146.0
+1977,23,Richmond,8.0,4.0,90.0,Dick Brooks,Truxmore (Junie Donlavey),Ford,393.0,2305.0,running,0.0,142.0
+1977,23,Richmond,9.0,7.0,48.0,James Hylton,Executive Motor Hotel (James Hylton),Chevrolet,387.0,2120.0,running,0.0,138.0
+1977,23,Richmond,10.0,28.0,52.0,Jimmy Means,Means Racing (Bill Gray),Chevrolet,386.0,1700.0,running,0.0,134.0
+1977,23,Richmond,11.0,15.0,22.0,Ricky Rudd,Al Rudd Auto Parts (Al Rudd),Chevrolet,384.0,2540.0,running,0.0,130.0
+1977,23,Richmond,12.0,14.0,68.0,Janet Guthrie,Kelly Girl (Lynda Ferreri),Chevrolet,383.0,850.0,running,0.0,127.0
+1977,23,Richmond,13.0,10.0,70.0,J.D. McDuffie,Bailey Excavating (J.D. McDuffie),Chevrolet,379.0,1630.0,running,0.0,124.0
+1977,23,Richmond,14.0,20.0,40.0,D.K. Ulrich,J.R. DeLotto,Chevrolet,378.0,1420.0,running,0.0,121.0
+1977,23,Richmond,15.0,19.0,92.0,Skip Manning,1st National City Travelers Checks (Billy Hagan),Chevrolet,377.0,2285.0,crash,0.0,118.0
+1977,23,Richmond,16.0,17.0,8.0,Ed Negre,Ed Negre,Dodge,376.0,1100.0,crash,0.0,115.0
+1977,23,Richmond,17.0,25.0,24.0,Cecil Gordon,Cecil Gordon,Chevrolet,374.0,850.0,running,0.0,112.0
+1977,23,Richmond,18.0,18.0,30.0,Tighe Scott,Scotty's Fashions (Walter Ballard),Chevrolet,373.0,850.0,engine,0.0,109.0
+1977,23,Richmond,19.0,26.0,19.0,Dick May,Belden Asphalt (Henley Gray),Chevrolet,373.0,800.0,running,0.0,106.0
+1977,23,Richmond,20.0,24.0,79.0,Frank Warren,Native Tan (Frank Warren),Dodge,369.0,775.0,crash,0.0,103.0
+1977,23,Richmond,21.0,22.0,45.0,Baxter Price,Baxter Price,Chevrolet,362.0,500.0,crash,0.0,100.0
+1977,23,Richmond,22.0,27.0,25.0,Ferrel Harris,Don Robertson,Chevrolet,348.0,725.0,running,0.0,97.0
+1977,23,Richmond,23.0,13.0,98.0,Marv Acton,Rod Osterlund,Chevrolet,343.0,475.0,running,0.0,94.0
+1977,23,Richmond,24.0,16.0,64.0,Tommy Gale,Sunny King Ford & Honda (Elmo Langley),Ford,315.0,685.0,rear end,0.0,91.0
+1977,23,Richmond,25.0,21.0,67.0,Buddy Arrington,Buddy Arrington,Dodge,280.0,675.0,engine,0.0,88.0
+1977,23,Richmond,26.0,11.0,3.0,Richard Childress,Kansas Jack (Richard Childress),Chevrolet,212.0,710.0,overheating,4.0,90.0
+1977,23,Richmond,27.0,8.0,15.0,Buddy Baker,Norris Industries (Bud Moore),Ford,187.0,2575.0,overheating,0.0,82.0
+1977,23,Richmond,28.0,23.0,6.0,Rick Newsom,Rick Newsom,Chevrolet,112.0,350.0,oil leak,0.0,
+1977,24,Dover,1.0,7.0,72.0,Benny Parsons,1st National City Travelers Checks (L.G. DeWitt),Chevrolet,500.0,15675.0,running,267.0,185.0
+1977,24,Dover,2.0,6.0,21.0,David Pearson,Purolator (Wood Brothers),Mercury,500.0,9600.0,running,0.0,170.0
+1977,24,Dover,3.0,2.0,11.0,Cale Yarborough,Holly Farms (Junior Johnson),Chevrolet,499.0,10925.0,running,10.0,170.0
+1977,24,Dover,4.0,4.0,1.0,Donnie Allison,Hawaiian Tropic (Hoss Ellington),Chevrolet,498.0,3900.0,running,203.0,
+1977,24,Dover,5.0,9.0,88.0,Darrell Waltrip,Gatorade (DiGard Racing),Chevrolet,497.0,6400.0,running,0.0,155.0
+1977,24,Dover,6.0,3.0,15.0,Buddy Baker,Norris Industries (Bud Moore),Ford,495.0,5500.0,running,0.0,150.0
+1977,24,Dover,7.0,5.0,3.0,Richard Childress,Kansas Jack (Richard Childress),Chevrolet,493.0,4250.0,running,0.0,146.0
+1977,24,Dover,8.0,10.0,90.0,Dick Brooks,Truxmore (Junie Donlavey),Ford,492.0,3900.0,running,0.0,142.0
+1977,24,Dover,9.0,11.0,12.0,Bobby Allison,1st National City Travelers Checks (Bobby Allison),Matador,489.0,3130.0,running,0.0,138.0
+1977,24,Dover,10.0,20.0,27.0,Sam Sommers,M.C. Anderson,Chevrolet,483.0,2700.0,running,0.0,134.0
+1977,24,Dover,11.0,15.0,68.0,Janet Guthrie,Kelly Girl (Lynda Ferreri),Chevrolet,483.0,1600.0,running,0.0,130.0
+1977,24,Dover,12.0,13.0,70.0,J.D. McDuffie,J.D. McDuffie,Chevrolet,482.0,3020.0,running,0.0,127.0
+1977,24,Dover,13.0,37.0,67.0,Buddy Arrington,Mistec Transmission (Buddy Arrington),Dodge,482.0,2885.0,running,0.0,124.0
+1977,24,Dover,14.0,16.0,52.0,Jimmy Means,Means Racing (Bill Gray),Chevrolet,477.0,2190.0,dnf,0.0,121.0
+1977,24,Dover,15.0,21.0,8.0,Ed Negre,Ed Negre,Dodge,474.0,2505.0,running,0.0,118.0
+1977,24,Dover,16.0,18.0,48.0,James Hylton,Hylton Engineering (James Hylton),Chevrolet,471.0,2320.0,running,0.0,115.0
+1977,24,Dover,17.0,1.0,5.0,Neil Bonnett,Jim Stacy,Dodge,469.0,1625.0,water pump,20.0,
+1977,24,Dover,18.0,30.0,61.0,Joe Mihalic,Joe Mihalic,Chevrolet,451.0,1050.0,running,0.0,109.0
+1977,24,Dover,19.0,26.0,92.0,Skip Manning,1st National City Travelers Checks (Billy Hagan),Chevrolet,422.0,3010.0,running,0.0,106.0
+1977,24,Dover,20.0,24.0,19.0,Dick May,Belden Asphalt (Henley Gray),Chevrolet,414.0,1750.0,running,0.0,103.0
+1977,24,Dover,21.0,33.0,24.0,Cecil Gordon,Transmissions Unlimited (Cecil Gordon),Chevrolet,402.0,1440.0,engine,0.0,100.0
+1977,24,Dover,22.0,27.0,79.0,Frank Warren,Native Tan (Frank Warren),Dodge,372.0,1405.0,running,0.0,97.0
+1977,24,Dover,23.0,8.0,43.0,Richard Petty,STP (Petty Enterprises),Dodge,301.0,3925.0,engine,0.0,94.0
+1977,24,Dover,24.0,22.0,30.0,Tighe Scott,Scotty's Fashions (Walter Ballard),Chevrolet,288.0,1320.0,engine,0.0,91.0
+1977,24,Dover,25.0,28.0,25.0,Ronnie Thomas,Don Robertson,Chevrolet,271.0,1275.0,running,0.0,88.0
+1977,24,Dover,26.0,31.0,64.0,Tommy Gale,Sunny King Ford & Honda (Elmo Langley),Ford,270.0,1150.0,engine,0.0,85.0
+1977,24,Dover,27.0,34.0,6.0,Rick Newsom,Rick Newsom,Chevrolet,253.0,625.0,overheating,0.0,
+1977,24,Dover,28.0,35.0,63.0,Jocko Maggiacomo,1st National City Travelers Checks (Jocko Maggiacomo),Matador,203.0,600.0,water pump,0.0,79.0
+1977,24,Dover,29.0,32.0,7.0,Dean Dalton,Dean Dalton,Dodge,200.0,575.0,steering,0.0,76.0
+1977,24,Dover,30.0,14.0,54.0,Lennie Pond,Ronnie Elder,Chevrolet,190.0,1050.0,sway bar,0.0,
+1977,24,Dover,31.0,23.0,40.0,D.K. Ulrich,Lafayette Radio (J.R. DeLotto),Chevrolet,179.0,1040.0,clutch,0.0,70.0
+1977,24,Dover,32.0,12.0,22.0,Ricky Rudd,Al Rudd Auto Parts (Al Rudd),Chevrolet,178.0,530.0,engine,0.0,67.0
+1977,24,Dover,33.0,19.0,3.0,Bill Seifert,Public Enterprises (Richard Childress),Chevrolet,152.0,520.0,engine,0.0,64.0
+1977,24,Dover,34.0,36.0,4.0,Gary Myers,Hicks Pharmacy (Gary Myers),Chevrolet,102.0,510.0,steering,0.0,61.0
+1977,24,Dover,35.0,39.0,34.0,Nestor Peles,Steve Peles,Chevrolet,33.0,500.0,steering,0.0,58.0
+1977,24,Dover,36.0,40.0,7.0,Steve Stolarek,Norris Price (Norris Price),Chevrolet,21.0,490.0,wheel,0.0,55.0
+1977,24,Dover,37.0,38.0,45.0,Baxter Price,Tire King (Baxter Price),Chevrolet,17.0,480.0,radiator,0.0,52.0
+1977,24,Dover,38.0,25.0,98.0,Marv Acton,Rod Osterlund,Chevrolet,16.0,470.0,crash,0.0,
+1977,24,Dover,39.0,29.0,0.0,Jim Hurtubise,Avanti CB (John Kennedy),Ford,12.0,460.0,crash,0.0,46.0
+1977,24,Dover,40.0,17.0,84.0,Kenny Brightbill,Makar Enterprises (Jim Makar),Mercury,12.0,450.0,crash,0.0,43.0
+1977,25,Martinsville,1.0,3.0,11.0,Cale Yarborough,Holly Farms (Junior Johnson),Chevrolet,500.0,23700.0,running,352.0,185.0
+1977,25,Martinsville,2.0,6.0,72.0,Benny Parsons,1st National City Travelers Checks (L.G. DeWitt),Chevrolet,500.0,11850.0,running,73.0,175.0
+1977,25,Martinsville,3.0,10.0,21.0,David Pearson,Purolator (Wood Brothers),Mercury,500.0,5700.0,running,35.0,170.0
+1977,25,Martinsville,4.0,4.0,43.0,Richard Petty,STP (Petty Enterprises),Dodge,499.0,5850.0,running,0.0,160.0
+1977,25,Martinsville,5.0,15.0,27.0,Sam Sommers,M.C. Anderson,Chevrolet,491.0,3550.0,running,0.0,155.0
+1977,25,Martinsville,6.0,8.0,63.0,Jimmy Hensley,Jimmy Hensley,Chevrolet,491.0,2050.0,running,0.0,150.0
+1977,25,Martinsville,7.0,19.0,67.0,Buddy Arrington,Mistec Transmission (Buddy Arrington),Dodge,487.0,3500.0,running,0.0,146.0
+1977,25,Martinsville,8.0,24.0,48.0,James Hylton,Hylton Engineering (James Hylton),Chevrolet,483.0,3150.0,running,0.0,142.0
+1977,25,Martinsville,9.0,21.0,52.0,Jimmy Means,Means Racing (Bill Gray),Chevrolet,482.0,2580.0,running,0.0,138.0
+1977,25,Martinsville,10.0,2.0,88.0,Darrell Waltrip,Gatorade (DiGard Racing),Chevrolet,472.0,4000.0,rear end,36.0,139.0
+1977,25,Martinsville,11.0,17.0,79.0,Frank Warren,Native Tan (Frank Warren),Dodge,466.0,2270.0,running,0.0,130.0
+1977,25,Martinsville,12.0,23.0,40.0,D.K. Ulrich,J.R. DeLotto,Chevrolet,457.0,2100.0,running,0.0,127.0
+1977,25,Martinsville,13.0,11.0,92.0,Skip Manning,1st National City Travelers Checks (Billy Hagan),Chevrolet,423.0,2940.0,running,0.0,124.0
+1977,25,Martinsville,14.0,28.0,19.0,Dick May,Belden Asphalt (Henley Gray),Chevrolet,420.0,1780.0,running,0.0,121.0
+1977,25,Martinsville,15.0,18.0,3.0,Richard Childress,Kansas Jack (Richard Childress),Chevrolet,420.0,1620.0,running,0.0,118.0
+1977,25,Martinsville,16.0,20.0,64.0,Elmo Langley,Sunny King Ford & Honda (Elmo Langley),Ford,413.0,1460.0,running,0.0,115.0
+1977,25,Martinsville,17.0,12.0,70.0,J.D. McDuffie,J.D. McDuffie,Chevrolet,400.0,1275.0,running,0.0,112.0
+1977,25,Martinsville,18.0,25.0,24.0,Cecil Gordon,Transmissions Unlimited (Cecil Gordon),Chevrolet,392.0,950.0,running,0.0,109.0
+1977,25,Martinsville,19.0,26.0,25.0,Ronnie Thomas,Don Robertson,Chevrolet,373.0,925.0,engine,0.0,106.0
+1977,25,Martinsville,20.0,27.0,30.0,Tighe Scott,Scotty's Fashions (Walter Ballard),Chevrolet,360.0,900.0,engine,0.0,103.0
+1977,25,Martinsville,21.0,9.0,15.0,Buddy Baker,Norris Industries (Bud Moore),Ford,336.0,2840.0,rear end,0.0,100.0
+1977,25,Martinsville,22.0,1.0,5.0,Neil Bonnett,Jim Stacy,Dodge,304.0,2580.0,rear end,0.0,97.0
+1977,25,Martinsville,23.0,5.0,12.0,Bobby Allison,1st National City Travelers Checks (Bobby Allison),Matador,216.0,620.0,rear end,4.0,99.0
+1977,25,Martinsville,24.0,22.0,8.0,Ed Negre,Ed Negre,Dodge,103.0,860.0,oil pump,0.0,91.0
+1977,25,Martinsville,25.0,13.0,54.0,Lennie Pond,Lennie Pond Fan Club (Ronnie Elder),Chevrolet,95.0,850.0,brakes,0.0,88.0
+1977,25,Martinsville,26.0,16.0,90.0,Dick Brooks,Truxmore (Junie Donlavey),Ford,95.0,840.0,rear end,0.0,85.0
+1977,25,Martinsville,27.0,14.0,22.0,Ricky Rudd,Al Rudd Auto Parts (Al Rudd),Chevrolet,84.0,580.0,rear end,0.0,82.0
+1977,25,Martinsville,28.0,7.0,1.0,Donnie Allison,Hawaiian Tropic (Hoss Ellington),Chevrolet,42.0,570.0,brakes,0.0,
+1977,25,Martinsville,29.0,30.0,46.0,Travis Tiller,Little B Coal (Travis Tiller),Dodge,8.0,560.0,radiator,0.0,76.0
+1977,25,Martinsville,30.0,29.0,45.0,Baxter Price,Baxter Price,Chevrolet,4.0,550.0,oil leak,0.0,73.0
+1977,26,North Wilkesboro,1.0,3.0,88.0,Darrell Waltrip,Gatorade (DiGard Racing),Chevrolet,400.0,12500.0,running,189.0,180.0
+1977,26,North Wilkesboro,2.0,5.0,11.0,Cale Yarborough,Holly Farms (Junior Johnson),Chevrolet,400.0,8775.0,running,1.0,175.0
+1977,26,North Wilkesboro,3.0,2.0,5.0,Neil Bonnett,Jim Stacy,Dodge,399.0,5700.0,running,0.0,165.0
+1977,26,North Wilkesboro,4.0,6.0,12.0,Bobby Allison,1st National City Travelers Checks (Bobby Allison),Matador,397.0,3225.0,running,0.0,160.0
+1977,26,North Wilkesboro,5.0,4.0,72.0,Benny Parsons,1st National City Travelers Checks (L.G. DeWitt),Chevrolet,396.0,3875.0,running,11.0,160.0
+1977,26,North Wilkesboro,6.0,9.0,3.0,Richard Childress,Kansas Jack (Richard Childress),Chevrolet,388.0,2400.0,running,0.0,150.0
+1977,26,North Wilkesboro,7.0,14.0,22.0,Ricky Rudd,Al Rudd Auto Parts (Al Rudd),Chevrolet,388.0,2730.0,running,0.0,146.0
+1977,26,North Wilkesboro,8.0,7.0,90.0,Dick Brooks,Truxmore (Junie Donlavey),Ford,387.0,1895.0,running,0.0,142.0
+1977,26,North Wilkesboro,9.0,8.0,15.0,Buddy Baker,Norris Industries (Bud Moore),Ford,387.0,2975.0,running,0.0,138.0
+1977,26,North Wilkesboro,10.0,10.0,67.0,Buddy Arrington,Mistec Transmission (Buddy Arrington),Dodge,384.0,1650.0,running,0.0,134.0
+1977,26,North Wilkesboro,11.0,16.0,52.0,Jimmy Means,Means Racing (Bill Gray),Chevrolet,383.0,1365.0,running,0.0,130.0
+1977,26,North Wilkesboro,12.0,13.0,48.0,James Hylton,Hylton Engineering (James Hylton),Chevrolet,382.0,1480.0,running,0.0,127.0
+1977,26,North Wilkesboro,13.0,20.0,92.0,Skip Manning,Sunny King Ford & Honda (Billy Hagan),Chevrolet,377.0,2345.0,running,0.0,124.0
+1977,26,North Wilkesboro,14.0,21.0,98.0,Sam Sommers,Rod Osterlund,Chevrolet,377.0,650.0,running,0.0,121.0
+1977,26,North Wilkesboro,15.0,17.0,24.0,Cecil Gordon,Transmissions Unlimited (Cecil Gordon),Chevrolet,377.0,1185.0,running,0.0,118.0
+1977,26,North Wilkesboro,16.0,12.0,30.0,Walter Ballard,Scotty's Fashions (Walter Ballard),Chevrolet,374.0,1000.0,running,0.0,115.0
+1977,26,North Wilkesboro,17.0,18.0,8.0,Ed Negre,Ed Negre,Dodge,373.0,825.0,running,0.0,112.0
+1977,26,North Wilkesboro,18.0,25.0,45.0,Baxter Price,County Line Food Store (Baxter Price),Chevrolet,368.0,550.0,running,0.0,109.0
+1977,26,North Wilkesboro,19.0,22.0,17.0,Roger Hamby,Hamby-Ellis (Roger Hamby),Chevrolet,367.0,525.0,running,0.0,
+1977,26,North Wilkesboro,20.0,23.0,19.0,Dick May,Belden Asphalt (Henley Gray),Chevrolet,363.0,750.0,running,0.0,103.0
+1977,26,North Wilkesboro,21.0,15.0,79.0,Frank Warren,Native Tan (Frank Warren),Dodge,322.0,675.0,running,0.0,100.0
+1977,26,North Wilkesboro,22.0,19.0,40.0,D.K. Ulrich,J.R. DeLotto,Chevrolet,290.0,700.0,engine,0.0,97.0
+1977,26,North Wilkesboro,23.0,11.0,70.0,J.D. McDuffie,J.D. McDuffie,Chevrolet,286.0,680.0,rear end,0.0,94.0
+1977,26,North Wilkesboro,24.0,1.0,43.0,Richard Petty,STP (Petty Enterprises),Dodge,240.0,4560.0,crash,199.0,101.0
+1977,26,North Wilkesboro,25.0,24.0,25.0,Ferrel Harris,Don Robertson,Chevrolet,114.0,650.0,overheating,0.0,88.0
+1977,26,North Wilkesboro,26.0,26.0,95.0,Junior Miller,Miller Roofing (Junior Miller),Chevrolet,5.0,390.0,quit,0.0,85.0
+1977,27,Charlotte,1.0,8.0,72.0,Benny Parsons,1st National City Travelers Checks (L.G. DeWitt),Chevrolet,334.0,41075.0,running,250.0,185.0
+1977,27,Charlotte,2.0,2.0,11.0,Cale Yarborough,Holly Farms (Junior Johnson),Chevrolet,333.0,25900.0,running,26.0,175.0
+1977,27,Charlotte,3.0,1.0,21.0,David Pearson,Purolator (Wood Brothers),Mercury,333.0,22500.0,running,2.0,170.0
+1977,27,Charlotte,4.0,4.0,15.0,Buddy Baker,Norris Industries (Bud Moore),Ford,333.0,12100.0,running,3.0,165.0
+1977,27,Charlotte,5.0,6.0,88.0,Darrell Waltrip,Gatorade (DiGard Racing),Chevrolet,333.0,10250.0,running,3.0,160.0
+1977,27,Charlotte,6.0,13.0,90.0,Dick Brooks,Truxmore (Junie Donlavey),Ford,332.0,8225.0,running,0.0,150.0
+1977,27,Charlotte,7.0,9.0,51.0,A.J. Foyt,Gilmore (A.J. Foyt),Chevrolet,329.0,5175.0,running,0.0,
+1977,27,Charlotte,8.0,7.0,5.0,Neil Bonnett,Jim Stacy,Dodge,329.0,7350.0,running,0.0,142.0
+1977,27,Charlotte,9.0,27.0,68.0,Janet Guthrie,Kelly Girl (Lynda Ferreri),Chevrolet,326.0,5125.0,running,0.0,138.0
+1977,27,Charlotte,10.0,20.0,9.0,Bill Elliott,Dahlonega Ford Sales (George Elliott),Mercury,326.0,3975.0,running,0.0,134.0
+1977,27,Charlotte,11.0,16.0,36.0,Ron Hutcherson,Encyclopedia Britannica (John Gwinn),Chevrolet,326.0,6025.0,running,0.0,
+1977,27,Charlotte,12.0,25.0,14.0,Coo Coo Marlin,Cunningham-Kelley (H.B. Cunningham),Chevrolet,325.0,3575.0,running,0.0,127.0
+1977,27,Charlotte,13.0,35.0,57.0,Dick May,McClure Motors (Alfred McClure),Chevrolet,324.0,3475.0,running,0.0,124.0
+1977,27,Charlotte,14.0,33.0,48.0,James Hylton,Hylton Engineering (James Hylton),Chevrolet,324.0,5405.0,running,0.0,121.0
+1977,27,Charlotte,15.0,29.0,70.0,J.D. McDuffie,J.D. McDuffie,Chevrolet,323.0,5145.0,running,0.0,118.0
+1977,27,Charlotte,16.0,22.0,3.0,Richard Childress,Kansas Jack (Richard Childress),Chevrolet,321.0,4960.0,running,0.0,115.0
+1977,27,Charlotte,17.0,30.0,67.0,Buddy Arrington,Mistec Transmission (Buddy Arrington),Dodge,318.0,4765.0,running,0.0,112.0
+1977,27,Charlotte,18.0,17.0,49.0,G.C. Spencer,Lady & Son Auction (G.C. Spencer),Dodge,301.0,2975.0,running,0.0,109.0
+1977,27,Charlotte,19.0,18.0,40.0,D.K. Ulrich,Transit Damaged Freight (J.R. DeLotto),Chevrolet,292.0,4405.0,running,0.0,106.0
+1977,27,Charlotte,20.0,34.0,5.0,Peter Knab,Bearfinder (Charles Dean),Chevrolet,286.0,2775.0,running,0.0,103.0
+1977,27,Charlotte,21.0,28.0,64.0,Tommy Gale,Sunny King Ford & Honda (Elmo Langley),Ford,286.0,2895.0,running,0.0,100.0
+1977,27,Charlotte,22.0,24.0,8.0,Ed Negre,Ed Negre,Dodge,242.0,2535.0,running,0.0,97.0
+1977,27,Charlotte,23.0,14.0,2.0,Dave Marcis,CAM 2 (Roger Penske),Chevrolet,237.0,1875.0,engine,0.0,
+1977,27,Charlotte,24.0,21.0,22.0,Ricky Rudd,NAPA (Al Rudd),Chevrolet,232.0,1750.0,running,0.0,91.0
+1977,27,Charlotte,25.0,41.0,30.0,Tighe Scott,Scotty's Fashions (Walter Ballard),Chevrolet,222.0,1840.0,ignition,0.0,88.0
+1977,27,Charlotte,26.0,15.0,12.0,Bobby Allison,1st National City Travelers Checks (Bobby Allison),Matador,195.0,1305.0,engine,0.0,85.0
+1977,27,Charlotte,27.0,12.0,6.0,Tom Sneva,Jim Stacy,Dodge,194.0,1150.0,clutch,0.0,
+1977,27,Charlotte,28.0,39.0,52.0,Jimmy Means,Means Racing (Bill Gray),Chevrolet,173.0,1245.0,engine,0.0,79.0
+1977,27,Charlotte,29.0,31.0,99.0,Dick Trickle,Joe Frasson,Chevrolet,141.0,1100.0,crash,0.0,76.0
+1977,27,Charlotte,30.0,19.0,54.0,Lennie Pond,Ronnie Elder,Chevrolet,131.0,1675.0,engine,0.0,73.0
+1977,27,Charlotte,31.0,37.0,75.0,Butch Hartman,Hartman Autocar (Butch Hartman),Chevrolet,120.0,965.0,engine,0.0,70.0
+1977,27,Charlotte,32.0,5.0,43.0,Richard Petty,STP (Petty Enterprises),Dodge,107.0,4415.0,suspension,25.0,72.0
+1977,27,Charlotte,33.0,23.0,79.0,Frank Warren,Native Tan (Frank Warren),Dodge,101.0,1425.0,engine,0.0,64.0
+1977,27,Charlotte,34.0,11.0,27.0,Sam Sommers,M.C. Anderson,Chevrolet,97.0,910.0,engine,0.0,61.0
+1977,27,Charlotte,35.0,10.0,92.0,Skip Manning,1st National City Travelers Checks (Billy Hagan),Chevrolet,66.0,2395.0,engine,0.0,58.0
+1977,27,Charlotte,36.0,3.0,1.0,Donnie Allison,Hawaiian Tropic (Hoss Ellington),Chevrolet,27.0,5655.0,engine,25.0,60.0
+1977,27,Charlotte,37.0,40.0,24.0,Cecil Gordon,Transmissions Unlimited (Cecil Gordon),Chevrolet,26.0,1365.0,rear end,0.0,52.0
+1977,27,Charlotte,38.0,36.0,19.0,Dale Earnhardt,Belden Asphalt / Holiday Campers (Henley Gray),Chevrolet,25.0,1375.0,rear end,0.0,49.0
+1977,27,Charlotte,39.0,38.0,98.0,Roland Wlodyka,Rod Osterlund,Chevrolet,24.0,835.0,engine,0.0,46.0
+1977,27,Charlotte,40.0,32.0,23.0,Jim Raptis,Opal's Truck Stop (Opal Voight),Chevrolet,17.0,820.0,engine,0.0,43.0
+1977,27,Charlotte,41.0,26.0,47.0,Bruce Hill,Bruce Hill,Chevrolet,15.0,820.0,engine,0.0,40.0
+1977,28,Rockingham,1.0,1.0,1.0,Donnie Allison,Hawaiian Tropic (Hoss Ellington),Chevrolet,492.0,17135.0,running,374.0,185.0
+1977,28,Rockingham,2.0,5.0,43.0,Richard Petty,STP (Petty Enterprises),Dodge,492.0,14350.0,running,5.0,175.0
+1977,28,Rockingham,3.0,4.0,88.0,Darrell Waltrip,Gatorade (DiGard Racing),Chevrolet,492.0,10800.0,running,8.0,170.0
+1977,28,Rockingham,4.0,2.0,11.0,Cale Yarborough,Holly Farms (Junior Johnson),Chevrolet,490.0,9550.0,running,81.0,165.0
+1977,28,Rockingham,5.0,6.0,90.0,Dick Brooks,Truxmore (Junie Donlavey),Ford,489.0,6250.0,running,0.0,155.0
+1977,28,Rockingham,6.0,17.0,12.0,Bobby Allison,1st National City Travelers Checks (Bobby Allison),Matador,488.0,4850.0,running,0.0,150.0
+1977,28,Rockingham,7.0,3.0,72.0,Benny Parsons,1st National City Travelers Checks (L.G. DeWitt),Chevrolet,482.0,6200.0,running,0.0,146.0
+1977,28,Rockingham,8.0,10.0,92.0,Skip Manning,1st National City Travelers Checks (Billy Hagan),Chevrolet,478.0,5430.0,running,0.0,142.0
+1977,28,Rockingham,9.0,14.0,68.0,Janet Guthrie,Kelly Girl (Lynda Ferreri),Chevrolet,476.0,3500.0,running,0.0,138.0
+1977,28,Rockingham,10.0,20.0,70.0,J.D. McDuffie,J.D. McDuffie,Chevrolet,473.0,3820.0,running,0.0,134.0
+1977,28,Rockingham,11.0,24.0,74.0,Bobby Wawak,Bobby Wawak,Chevrolet,471.0,2100.0,running,0.0,130.0
+1977,28,Rockingham,12.0,22.0,67.0,Buddy Arrington,Mistec Transmission (Buddy Arrington),Plymouth,471.0,3360.0,running,0.0,127.0
+1977,28,Rockingham,13.0,19.0,48.0,James Hylton,Hylton Engineering (James Hylton),Chevrolet,464.0,3070.0,running,0.0,124.0
+1977,28,Rockingham,14.0,27.0,19.0,Dick May,Belden Asphalt (Henley Gray),Chevrolet,456.0,2830.0,running,0.0,121.0
+1977,28,Rockingham,15.0,29.0,64.0,Tommy Gale,Sunny King Ford & Honda (Elmo Langley),Ford,441.0,2620.0,running,0.0,118.0
+1977,28,Rockingham,16.0,35.0,45.0,Baxter Price,County Line Food Store (Baxter Price),Chevrolet,437.0,1900.0,running,0.0,115.0
+1977,28,Rockingham,17.0,11.0,27.0,Sam Sommers,M.C. Anderson,Chevrolet,425.0,1300.0,running,0.0,112.0
+1977,28,Rockingham,18.0,32.0,3.0,Richard Childress,Kansas Jack (Richard Childress),Chevrolet,423.0,2210.0,running,0.0,109.0
+1977,28,Rockingham,19.0,36.0,10.0,Dean Dalton,R.T.'s Lounge (Bill Champion),Ford,391.0,1100.0,engine,0.0,106.0
+1977,28,Rockingham,20.0,25.0,4.0,Randy Myers,Gary Myers,Chevrolet,377.0,1000.0,crash,0.0,
+1977,28,Rockingham,21.0,23.0,61.0,Joe Mihalic,Joe Mihalic,Chevrolet,340.0,825.0,engine,0.0,100.0
+1977,28,Rockingham,22.0,30.0,52.0,Jimmy Means,Means Racing (Bill Gray),Chevrolet,326.0,1150.0,engine,0.0,97.0
+1977,28,Rockingham,23.0,21.0,24.0,Cecil Gordon,Transmissions Unlimited (Cecil Gordon),Chevrolet,319.0,1415.0,engine,0.0,94.0
+1977,28,Rockingham,24.0,31.0,8.0,Ed Negre,Ed Negre,Dodge,276.0,1380.0,engine,0.0,91.0
+1977,28,Rockingham,25.0,16.0,22.0,Ricky Rudd,Al Rudd Auto Parts (Al Rudd),Chevrolet,234.0,920.0,engine,0.0,88.0
+1977,28,Rockingham,26.0,13.0,47.0,Bruce Hill,Bruce Hill,Chevrolet,230.0,700.0,engine,0.0,85.0
+1977,28,Rockingham,27.0,7.0,21.0,David Pearson,Purolator (Wood Brothers),Mercury,220.0,1175.0,engine,0.0,82.0
+1977,28,Rockingham,28.0,8.0,5.0,Neil Bonnett,Jim Stacy,Dodge,216.0,3330.0,engine,24.0,84.0
+1977,28,Rockingham,29.0,9.0,15.0,Buddy Baker,Norris Industries (Bud Moore),Ford,197.0,3820.0,crash,0.0,76.0
+1977,28,Rockingham,30.0,28.0,25.0,Ronnie Thomas,Don Robertson,Chevrolet,131.0,1210.0,rear end,0.0,73.0
+1977,28,Rockingham,31.0,18.0,98.0,Dave Marcis,Rod Osterlund,Chevrolet,128.0,625.0,engine,0.0,70.0
+1977,28,Rockingham,32.0,33.0,46.0,Travis Tiller,Little B Coal (Travis Tiller),Chevrolet,103.0,590.0,engine,0.0,67.0
+1977,28,Rockingham,33.0,15.0,40.0,D.K. Ulrich,J.R. DeLotto,Chevrolet,95.0,1080.0,engine,0.0,64.0
+1977,28,Rockingham,34.0,34.0,30.0,Tighe Scott,Scotty's Fashions (Walter Ballard),Chevrolet,77.0,1070.0,crash,0.0,61.0
+1977,28,Rockingham,35.0,26.0,79.0,Frank Warren,Native Tan (Frank Warren),Dodge,68.0,1060.0,engine,0.0,58.0
+1977,28,Rockingham,36.0,12.0,54.0,Lennie Pond,Ronnie Elder,Chevrolet,66.0,1050.0,engine,0.0,55.0
+1977,29,Atlanta,1.0,8.0,88.0,Darrell Waltrip,Gatorade (DiGard Racing),Chevrolet,268.0,20425.0,running,15.0,180.0
+1977,29,Atlanta,2.0,5.0,21.0,David Pearson,Purolator (Wood Brothers),Mercury,268.0,11500.0,running,45.0,175.0
+1977,29,Atlanta,3.0,4.0,72.0,Benny Parsons,1st National City Travelers Checks (L.G. DeWitt),Chevrolet,268.0,11250.0,running,0.0,165.0
+1977,29,Atlanta,4.0,6.0,1.0,Donnie Allison,Hawaiian Tropic (Hoss Ellington),Chevrolet,268.0,18250.0,running,142.0,170.0
+1977,29,Atlanta,5.0,9.0,11.0,Cale Yarborough,Holly Farms (Junior Johnson),Chevrolet,268.0,9450.0,running,33.0,160.0
+1977,29,Atlanta,6.0,2.0,43.0,Richard Petty,STP (Petty Enterprises),Dodge,268.0,7600.0,running,10.0,155.0
+1977,29,Atlanta,7.0,7.0,15.0,Buddy Baker,Norris Industries (Bud Moore),Ford,267.0,7125.0,running,0.0,146.0
+1977,29,Atlanta,8.0,11.0,22.0,Ricky Rudd,NAPA (Al Rudd),Chevrolet,266.0,6150.0,running,0.0,142.0
+1977,29,Atlanta,9.0,15.0,12.0,Bobby Allison,1st National City Travelers Checks (Bobby Allison),Matador,266.0,4575.0,running,0.0,138.0
+1977,29,Atlanta,10.0,23.0,14.0,Coo Coo Marlin,Cunningham-Kelley (H.B. Cunningham),Chevrolet,264.0,2800.0,running,0.0,134.0
+1977,29,Atlanta,11.0,14.0,9.0,Bill Elliott,Dahlonega Ford Sales (George Elliott),Mercury,264.0,1950.0,running,0.0,130.0
+1977,29,Atlanta,12.0,20.0,75.0,Butch Hartman,Hartman Autocar (Butch Hartman),Chevrolet,264.0,1740.0,running,0.0,127.0
+1977,29,Atlanta,13.0,17.0,92.0,Skip Manning,1st National City Travelers Checks (Billy Hagan),Chevrolet,264.0,4360.0,running,0.0,124.0
+1977,29,Atlanta,14.0,33.0,31.0,Billy McGinnis,National Pride (Billie Harvey),Chevrolet,264.0,1570.0,crash,0.0,
+1977,29,Atlanta,15.0,25.0,47.0,Bruce Hill,Bruce Hill,Chevrolet,263.0,1510.0,running,0.0,118.0
+1977,29,Atlanta,16.0,19.0,68.0,Janet Guthrie,Kelly Girl (Lynda Ferreri),Chevrolet,263.0,1375.0,running,0.0,115.0
+1977,29,Atlanta,17.0,12.0,67.0,Buddy Arrington,Mistec Transmission (Buddy Arrington),Dodge,263.0,2845.0,running,0.0,112.0
+1977,29,Atlanta,18.0,26.0,40.0,D.K. Ulrich,Howard Johnson's (J.R. DeLotto),Chevrolet,263.0,2735.0,running,0.0,109.0
+1977,29,Atlanta,19.0,36.0,30.0,Tighe Scott,Scotty's Fashions (Walter Ballard),Chevrolet,263.0,2565.0,running,0.0,106.0
+1977,29,Atlanta,20.0,38.0,24.0,Cecil Gordon,Transmissions Unlimited (Cecil Gordon),Chevrolet,262.0,2405.0,running,0.0,103.0
+1977,29,Atlanta,21.0,32.0,3.0,Richard Childress,Kansas Jack (Richard Childress),Chevrolet,262.0,2080.0,running,0.0,100.0
+1977,29,Atlanta,22.0,24.0,41.0,Grant Adcox,Krystal (Herb Adcox),Chevrolet,261.0,935.0,running,0.0,97.0
+1977,29,Atlanta,23.0,22.0,79.0,Frank Warren,Native Tan (Frank Warren),Dodge,260.0,1920.0,running,0.0,94.0
+1977,29,Atlanta,24.0,39.0,39.0,Blackie Wangerin,Blackie Wangerin,Mercury,260.0,885.0,running,0.0,
+1977,29,Atlanta,25.0,34.0,49.0,G.C. Spencer,Lady & Son Auction (G.C. Spencer),Dodge,260.0,860.0,running,0.0,88.0
+1977,29,Atlanta,26.0,29.0,48.0,James Hylton,Hylton Engineering (James Hylton),Chevrolet,258.0,1695.0,running,0.0,85.0
+1977,29,Atlanta,27.0,18.0,70.0,J.D. McDuffie,Communication (J.D. McDuffie),Chevrolet,258.0,1475.0,running,0.0,82.0
+1977,29,Atlanta,28.0,1.0,27.0,Sam Sommers,M.C. Anderson Racing (M.C. Anderson),Chevrolet,257.0,1825.0,running,23.0,84.0
+1977,29,Atlanta,29.0,40.0,74.0,Bobby Wawak,Clear-Lam (Bobby Wawak),Chevrolet,255.0,815.0,running,0.0,76.0
+1977,29,Atlanta,30.0,30.0,91.0,Harold Miller,Sutherland Auto Parts (Harold Miller),Chevrolet,251.0,805.0,running,0.0,73.0
+1977,29,Atlanta,31.0,31.0,17.0,Roger Hamby,Hamby-Ellis (Roger Hamby),Chevrolet,247.0,1750.0,running,0.0,
+1977,29,Atlanta,32.0,28.0,98.0,Dick May,Osterlund Enterprises (Rod Osterlund),Chevrolet,247.0,740.0,running,0.0,67.0
+1977,29,Atlanta,33.0,13.0,84.0,Morgan Shepherd,Makar Enterprises (Jim Makar),Mercury,241.0,1730.0,running,0.0,64.0
+1977,29,Atlanta,34.0,35.0,19.0,Bob Burcham,Belden Asphalt (Henley Gray),Chevrolet,217.0,1350.0,engine,0.0,61.0
+1977,29,Atlanta,35.0,27.0,8.0,Ed Negre,Ed Negre,Dodge,185.0,1330.0,quit,0.0,58.0
+1977,29,Atlanta,36.0,16.0,81.0,Dave Marcis,WAM Racing (Bill Monaghan),Chevrolet,148.0,700.0,steering,0.0,55.0
+1977,29,Atlanta,37.0,10.0,90.0,Dick Brooks,Truxmore (Junie Donlavey),Ford,124.0,1280.0,engine,0.0,52.0
+1977,29,Atlanta,38.0,3.0,5.0,Neil Bonnett,Jim Stacy (Jim Stacy),Dodge,57.0,3360.0,crash,0.0,49.0
+1977,29,Atlanta,39.0,21.0,23.0,Jim Raptis,Opal's Truck Stop (Opal Voight),Chevrolet,32.0,640.0,engine,0.0,46.0
+1977,29,Atlanta,40.0,37.0,52.0,Jimmy Means,Bell Brothers Auto Parts (Bill Gray),Chevrolet,7.0,620.0,ignition,0.0,43.0
+1977,30,Ontario,1.0,2.0,5.0,Neil Bonnett,Jim Stacy (Jim Stacy),Dodge,200.0,22510.0,running,96.0,185.0
+1977,30,Ontario,2.0,1.0,43.0,Richard Petty,STP (Petty Enterprises),Dodge,200.0,17535.0,running,59.0,175.0
+1977,30,Ontario,3.0,5.0,11.0,Cale Yarborough,Holly Farms (Junior Johnson),Chevrolet,200.0,14285.0,running,4.0,170.0
+1977,30,Ontario,4.0,13.0,15.0,Buddy Baker,Norris Industries (Bud Moore),Ford,200.0,9385.0,running,0.0,160.0
+1977,30,Ontario,5.0,4.0,21.0,David Pearson,Purolator (Wood Brothers),Mercury,199.0,5285.0,running,11.0,160.0
+1977,30,Ontario,6.0,10.0,90.0,Dick Brooks,Truxmore (Junie Donlavey),Ford,199.0,6135.0,running,1.0,155.0
+1977,30,Ontario,7.0,14.0,12.0,Bobby Allison,1st National City Travelers Checks (Bobby Allison),Matador,198.0,5085.0,running,6.0,151.0
+1977,30,Ontario,8.0,16.0,22.0,Ricky Rudd,Al Rudd Auto Parts (Al Rudd),Chevrolet,197.0,5515.0,running,3.0,147.0
+1977,30,Ontario,9.0,17.0,48.0,James Hylton,Hylton Engineering (James Hylton),Chevrolet,197.0,4505.0,running,3.0,143.0
+1977,30,Ontario,10.0,28.0,3.0,Richard Childress,Kansas Jack (Richard Childress),Chevrolet,197.0,4145.0,running,0.0,134.0
+1977,30,Ontario,11.0,3.0,51.0,A.J. Foyt,Gilmore (A.J. Foyt),Chevrolet,197.0,2385.0,running,0.0,
+1977,30,Ontario,12.0,8.0,72.0,Benny Parsons,1st National City Travelers Checks (L.G. DeWitt),Chevrolet,197.0,5410.0,running,4.0,132.0
+1977,30,Ontario,13.0,33.0,25.0,Joe Ruttman,Pearson Realtors (Robert Switzer),Ford,196.0,2035.0,running,0.0,124.0
+1977,30,Ontario,14.0,11.0,2.0,Dave Marcis,Rod Osterlund,Chevrolet,196.0,1885.0,running,0.0,121.0
+1977,30,Ontario,15.0,36.0,98.0,Roland Wlodyka,Rod Osterlund,Chevrolet,196.0,1810.0,running,0.0,118.0
+1977,30,Ontario,16.0,27.0,79.0,Frank Warren,Native Tan (Frank Warren),Dodge,195.0,3065.0,running,0.0,115.0
+1977,30,Ontario,17.0,21.0,30.0,Tighe Scott,Scotty's Fashions (Walter Ballard),Chevrolet,195.0,2880.0,running,0.0,112.0
+1977,30,Ontario,18.0,34.0,95.0,Harry Jefferson,George Jefferson,Ford,195.0,1600.0,running,0.0,109.0
+1977,30,Ontario,19.0,23.0,67.0,Buddy Arrington,Mistec Transmission (Buddy Arrington),Ford,191.0,2670.0,running,0.0,106.0
+1977,30,Ontario,20.0,26.0,70.0,J.D. McDuffie,J.D. McDuffie,Chevrolet,190.0,2510.0,running,0.0,103.0
+1977,30,Ontario,21.0,20.0,40.0,D.K. Ulrich,Pacific Coast (J.R. DeLotto),Chevrolet,190.0,2300.0,running,0.0,100.0
+1977,30,Ontario,22.0,30.0,64.0,Tommy Gale,Sunny King Ford & Honda (Elmo Langley),Ford,189.0,2040.0,running,0.0,97.0
+1977,30,Ontario,23.0,31.0,97.0,Bill Osborne,Bill Osborne,Chevrolet,188.0,1350.0,running,0.0,
+1977,30,Ontario,24.0,15.0,68.0,Janet Guthrie,Kelly Girl (Lynda Ferreri),Chevrolet,175.0,1300.0,running,5.0,96.0
+1977,30,Ontario,25.0,29.0,20.0,Richard White,Lindsay Auto Parts (Mike White),Chevrolet,175.0,1380.0,running,0.0,88.0
+1977,30,Ontario,26.0,22.0,6.0,Sonny Easley,San Fernando Valley Lumber (Sonny Easley),Ford,153.0,1200.0,engine,0.0,85.0
+1977,30,Ontario,27.0,24.0,8.0,Ed Negre,Ed Negre,Dodge,151.0,1770.0,fire,0.0,82.0
+1977,30,Ontario,28.0,41.0,81.0,John Borneman,Borneman Plastering (Arthur Godfrey),Chevrolet,150.0,1200.0,engine,0.0,79.0
+1977,30,Ontario,29.0,6.0,88.0,Darrell Waltrip,Gatorade (DiGard Racing),Chevrolet,137.0,4250.0,engine,8.0,81.0
+1977,30,Ontario,30.0,42.0,52.0,Don Graham,Herbert Performance (Bob Lehman),Chevrolet,118.0,1000.0,engine,0.0,73.0
+1977,30,Ontario,31.0,40.0,3.0,Ron McGee,M.C. Productions (Steve Temme),Chevrolet,103.0,950.0,running,0.0,70.0
+1977,30,Ontario,32.0,39.0,24.0,Cecil Gordon,Transmissions Unlimited (Cecil Gordon),Chevrolet,101.0,1400.0,engine,0.0,67.0
+1977,30,Ontario,33.0,32.0,39.0,Vince Giamformaggio,Cal-French Bread (Sam Arakalian),Chevrolet,93.0,850.0,fire,0.0,64.0
+1977,30,Ontario,34.0,25.0,93.0,Norm Palmer,Herborn Alignment (Norm Palmer),Dodge,55.0,800.0,running,0.0,61.0
+1977,30,Ontario,35.0,35.0,41.0,Ernie Stierly,Allied Plating (Ernie Stierly),Chevrolet,54.0,750.0,drive line,0.0,58.0
+1977,30,Ontario,36.0,19.0,9.0,Johnny Kieper,Wholesale Truck Parts (Johnny Kieper),Chevrolet,50.0,740.0,engine,0.0,55.0
+1977,30,Ontario,37.0,37.0,9.0,Eddie Bradshaw,C & M Racing (Chester Papienski),Chevrolet,38.0,730.0,engine,0.0,52.0
+1977,30,Ontario,38.0,12.0,27.0,Sam Sommers,M.C. Anderson,Chevrolet,28.0,720.0,engine,0.0,49.0
+1977,30,Ontario,39.0,18.0,1.0,Chuck Bown,Lake's Drywall (Gerald Craker),Chevrolet,26.0,1710.0,crash,0.0,46.0
+1977,30,Ontario,40.0,38.0,74.0,Roger McCluskey,Black Gold Oil,Chevrolet,20.0,700.0,engine,0.0,
+1977,30,Ontario,41.0,9.0,73.0,Bill Schmitt,Old Milwaukee (Bill Schmitt),Chevrolet,15.0,700.0,engine,0.0,40.0
+1977,30,Ontario,42.0,7.0,1.0,Donnie Allison,Hawaiian Tropic (Hoss Ellington),Chevrolet,9.0,3400.0,electrical,0.0,37.0

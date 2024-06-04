@@ -1,0 +1,1437 @@
+Season,Race,Track,Pos,St,#,Driver,Sponsor / Owner,Car,Laps,Status,Led,Pts
+2016,1,Daytona,1.0,11.0,11.0,Denny Hamlin,FedEx Express (Joe Gibbs),Toyota,200.0,running,95.0,45.0
+2016,1,Daytona,2.0,28.0,78.0,Martin Truex Jr,Bass Pro Shops / Tracker Boats (Barney Visser),Toyota,200.0,running,2.0,40.0
+2016,1,Daytona,3.0,4.0,18.0,Kyle Busch,M&M's 75th Anniversary (Joe Gibbs),Toyota,200.0,running,19.0,39.0
+2016,1,Daytona,4.0,9.0,4.0,Kevin Harvick,Jimmy John's (Stewart Haas Racing),Chevrolet,200.0,running,0.0,37.0
+2016,1,Daytona,5.0,10.0,19.0,Carl Edwards,Arris (Joe Gibbs),Toyota,200.0,running,0.0,36.0
+2016,1,Daytona,6.0,5.0,22.0,Joey Logano,Shell / Pennzoil (Roger Penske),Ford,200.0,running,0.0,35.0
+2016,1,Daytona,7.0,14.0,42.0,Kyle Larson,Target / Cottonelle (Chip Ganassi),Chevrolet,200.0,running,0.0,34.0
+2016,1,Daytona,8.0,27.0,7.0,Regan Smith,"Golden Corral / Nikko (Tommy Baldwin, Jr.)",Chevrolet,200.0,running,0.0,33.0
+2016,1,Daytona,9.0,21.0,3.0,Austin Dillon,Dow (Richard Childress),Chevrolet,200.0,running,1.0,33.0
+2016,1,Daytona,10.0,8.0,41.0,Kurt Busch,Haas Automation / Monster Energy (Stewart Haas Racing),Chevrolet,200.0,running,0.0,31.0
+2016,1,Daytona,11.0,38.0,31.0,Ryan Newman,Caterpillar (Richard Childress),Chevrolet,200.0,running,1.0,31.0
+2016,1,Daytona,12.0,34.0,43.0,Aric Almirola,Smithfield (Richard Petty Motorsports),Ford,200.0,running,0.0,29.0
+2016,1,Daytona,13.0,13.0,5.0,Kasey Kahne,Farmers Insurance (Rick Hendrick),Chevrolet,200.0,running,0.0,28.0
+2016,1,Daytona,14.0,2.0,20.0,Matt Kenseth,Dollar General (Joe Gibbs),Toyota,200.0,running,40.0,28.0
+2016,1,Daytona,15.0,39.0,59.0,Michael McDowell,Thrivent Financial / K-LOVE (Leavine Family Racing),Chevrolet,200.0,running,0.0,26.0
+2016,1,Daytona,16.0,26.0,48.0,Jimmie Johnson,Lowe's (Rick Hendrick),Chevrolet,200.0,running,18.0,26.0
+2016,1,Daytona,17.0,6.0,1.0,Jamie McMurray,McDonald's / Cessna (Chip Ganassi),Chevrolet,200.0,running,0.0,24.0
+2016,1,Daytona,18.0,37.0,27.0,Paul Menard,Peak Antifreeze / Menards (Richard Childress),Chevrolet,200.0,running,0.0,23.0
+2016,1,Daytona,19.0,7.0,21.0,Ryan Blaney,Motorcraft / Quick Lane Tire & Auto Center (Wood Brothers),Ford,200.0,running,0.0,22.0
+2016,1,Daytona,20.0,25.0,2.0,Brad Keselowski,Miller Lite (Roger Penske),Ford,200.0,running,1.0,22.0
+2016,1,Daytona,21.0,30.0,47.0,A.J. Allmendinger,Kroger / Scott Products / Kingsford (JTG-Daugherty Racing),Chevrolet,200.0,running,0.0,20.0
+2016,1,Daytona,22.0,19.0,17.0,Ricky Stenhouse Jr,Lenox Industrial Tools / Fastenal (Jack Roush),Ford,200.0,running,0.0,19.0
+2016,1,Daytona,23.0,24.0,38.0,Landon Cassill,Florida Lottery (Bob Jenkins),Ford,200.0,running,0.0,18.0
+2016,1,Daytona,24.0,35.0,44.0,Brian Scott,Albertson's / Shore Lodge / Ritz Triscuit (Richard Petty Motorsports),Ford,200.0,running,1.0,18.0
+2016,1,Daytona,25.0,12.0,95.0,Ty Dillon,Cheerios / Kroger (Leavine Family Racing),Chevrolet,200.0,running,0.0,0.0
+2016,1,Daytona,26.0,18.0,14.0,Brian Vickers,Bass Pro Shops / Mobil 1 (Stewart Haas Racing),Chevrolet,200.0,running,0.0,15.0
+2016,1,Daytona,27.0,22.0,46.0,Michael Annett,"Pilot / Flying J (Harry Scott, Jr.)",Chevrolet,200.0,running,1.0,15.0
+2016,1,Daytona,28.0,23.0,6.0,Trevor Bayne,AdvoCare (Jack Roush),Ford,200.0,running,0.0,13.0
+2016,1,Daytona,29.0,29.0,23.0,David Ragan,Dr. Pepper (BK Racing),Toyota,200.0,running,1.0,13.0
+2016,1,Daytona,30.0,36.0,83.0,Michael Waltrip,Maxwell House (BK Racing),Toyota,200.0,running,1.0,12.0
+2016,1,Daytona,31.0,33.0,32.0,Bobby Labonte,C&J Energy Services (Archie St. Hilaire),Ford,200.0,running,1.0,11.0
+2016,1,Daytona,32.0,32.0,13.0,Casey Mears,GEICO (Germain Racing),Chevrolet,199.0,running,0.0,9.0
+2016,1,Daytona,33.0,31.0,15.0,Clint Bowyer,"5-hour Energy (Harry Scott, Jr.)",Chevrolet,199.0,running,0.0,8.0
+2016,1,Daytona,34.0,15.0,16.0,Greg Biffle,KFC Nashville Hot Chicken (Jack Roush),Ford,198.0,running,0.0,7.0
+2016,1,Daytona,35.0,16.0,10.0,Danica Patrick,Nature's Bakery (Stewart Haas Racing),Chevrolet,184.0,crash,0.0,6.0
+2016,1,Daytona,36.0,3.0,88.0,"Dale Earnhardt, Jr.",Nationwide Insurance (Rick Hendrick),Chevrolet,169.0,crash,15.0,6.0
+2016,1,Daytona,37.0,1.0,24.0,Chase Elliott,NAPA Auto Parts (Rick Hendrick),Chevrolet,160.0,running,3.0,5.0
+2016,1,Daytona,38.0,40.0,26.0,"Robert Richardson, Jr.",Stalk It (BK Racing),Toyota,135.0,engine,0.0,3.0
+2016,1,Daytona,39.0,17.0,34.0,Chris Buescher,Love's Travel Stops (Bob Jenkins),Ford,91.0,crash,0.0,2.0
+2016,1,Daytona,40.0,20.0,93.0,Matt DiBenedetto,Dustless Blasting (BK Racing),Toyota,91.0,crash,0.0,1.0
+2016,2,Atlanta,1.0,19.0,48.0,Jimmie Johnson,Lowe's (Rick Hendrick),Chevrolet,330.0,running,52.0,44.0
+2016,2,Atlanta,2.0,16.0,88.0,"Dale Earnhardt, Jr.",Nationwide Insurance (Rick Hendrick),Chevrolet,330.0,running,0.0,39.0
+2016,2,Atlanta,3.0,39.0,18.0,Kyle Busch,M&M's 75th Anniversary (Joe Gibbs),Toyota,330.0,running,2.0,39.0
+2016,2,Atlanta,4.0,1.0,41.0,Kurt Busch,Monster Energy / Haas Automation (Stewart Haas Racing),Chevrolet,330.0,running,62.0,38.0
+2016,2,Atlanta,5.0,7.0,19.0,Carl Edwards,Arris (Joe Gibbs),Toyota,330.0,running,1.0,37.0
+2016,2,Atlanta,6.0,6.0,4.0,Kevin Harvick,Jimmy John's (Stewart Haas Racing),Chevrolet,330.0,running,131.0,37.0
+2016,2,Atlanta,7.0,9.0,78.0,Martin Truex Jr,Furniture Row / Denver Mattress (Barney Visser),Toyota,330.0,running,34.0,20.0
+2016,2,Atlanta,8.0,24.0,24.0,Chase Elliott,NAPA Auto Parts (Rick Hendrick),Chevrolet,330.0,running,0.0,33.0
+2016,2,Atlanta,9.0,17.0,2.0,Brad Keselowski,Autotrader.com (Roger Penske),Ford,330.0,running,0.0,32.0
+2016,2,Atlanta,10.0,5.0,17.0,Ricky Stenhouse Jr,Ford EcoBoost (Jack Roush),Ford,330.0,running,0.0,31.0
+2016,2,Atlanta,11.0,8.0,3.0,Austin Dillon,Dow (Richard Childress),Chevrolet,330.0,running,0.0,20.0
+2016,2,Atlanta,12.0,26.0,22.0,Joey Logano,Shell / Pennzoil (Roger Penske),Ford,330.0,running,0.0,29.0
+2016,2,Atlanta,13.0,14.0,16.0,Greg Biffle,Roush Performance Parts (Jack Roush),Ford,329.0,running,0.0,28.0
+2016,2,Atlanta,14.0,15.0,13.0,Casey Mears,GEICO (Germain Racing),Chevrolet,329.0,running,0.0,27.0
+2016,2,Atlanta,15.0,27.0,43.0,Aric Almirola,Smithfield (Richard Petty Motorsports),Ford,328.0,running,0.0,26.0
+2016,2,Atlanta,16.0,12.0,11.0,Denny Hamlin,FedEx Ground (Joe Gibbs),Toyota,328.0,running,0.0,25.0
+2016,2,Atlanta,17.0,18.0,14.0,Ty Dillon,Bass Pro Shops / Tracker Boats (Stewart Haas Racing),Chevrolet,328.0,running,0.0,0.0
+2016,2,Atlanta,18.0,21.0,27.0,Paul Menard,Valvoline / Menards (Richard Childress),Chevrolet,328.0,running,0.0,13.0
+2016,2,Atlanta,19.0,13.0,20.0,Matt Kenseth,Dollar General (Joe Gibbs),Toyota,328.0,running,47.0,23.0
+2016,2,Atlanta,20.0,25.0,10.0,Danica Patrick,Aspen Dental (Stewart Haas Racing),Chevrolet,328.0,running,0.0,21.0
+2016,2,Atlanta,21.0,2.0,1.0,Jamie McMurray,McDonald's (Chip Ganassi),Chevrolet,328.0,running,0.0,20.0
+2016,2,Atlanta,22.0,3.0,6.0,Trevor Bayne,AdvoCare (Jack Roush),Ford,328.0,running,0.0,19.0
+2016,2,Atlanta,23.0,11.0,5.0,Kasey Kahne,Panasonic Toughbook (Rick Hendrick),Chevrolet,328.0,running,0.0,18.0
+2016,2,Atlanta,24.0,4.0,31.0,Ryan Newman,Caterpillar (Richard Childress),Chevrolet,328.0,running,0.0,7.0
+2016,2,Atlanta,25.0,23.0,21.0,Ryan Blaney,Motorcraft / Quick Lane Tire & Auto Center (Wood Brothers),Ford,328.0,running,0.0,16.0
+2016,2,Atlanta,26.0,20.0,42.0,Kyle Larson,Target / Cottonelle (Chip Ganassi),Chevrolet,327.0,running,0.0,15.0
+2016,2,Atlanta,27.0,22.0,47.0,A.J. Allmendinger,Kroger / Scott Products / Clorox (JTG-Daugherty Racing),Chevrolet,326.0,running,0.0,4.0
+2016,2,Atlanta,28.0,31.0,34.0,Chris Buescher,"CSX ""Play it Safe"" (Bob Jenkins)",Ford,326.0,running,0.0,13.0
+2016,2,Atlanta,29.0,35.0,83.0,Matt DiBenedetto,Sewanee: The University of the South (BK Racing),Toyota,326.0,running,0.0,12.0
+2016,2,Atlanta,30.0,34.0,46.0,Michael Annett,"Pilot / Flying J (Harry Scott, Jr.)",Chevrolet,325.0,running,0.0,11.0
+2016,2,Atlanta,31.0,10.0,44.0,Brian Scott,Twisted Tea (Richard Petty Motorsports),Ford,324.0,running,0.0,10.0
+2016,2,Atlanta,32.0,33.0,23.0,David Ragan,Dr. Pepper (BK Racing),Toyota,323.0,running,0.0,9.0
+2016,2,Atlanta,33.0,32.0,95.0,Michael McDowell,Thrivent Financial (Leavine Family Racing),Chevrolet,323.0,running,0.0,-2.0
+2016,2,Atlanta,34.0,30.0,7.0,Regan Smith,"Nikko RC / Toy State (Tommy Baldwin, Jr.)",Chevrolet,323.0,running,0.0,7.0
+2016,2,Atlanta,35.0,28.0,15.0,Clint Bowyer,"Aaron's (Harry Scott, Jr.)",Chevrolet,322.0,running,0.0,6.0
+2016,2,Atlanta,36.0,29.0,38.0,Landon Cassill,FR8 Auctions (Bob Jenkins),Ford,321.0,running,0.0,5.0
+2016,2,Atlanta,37.0,36.0,98.0,Cole Whitt,Tweaker Energy Shot / RaceTrac (Jay Robinson),Chevrolet,318.0,running,1.0,5.0
+2016,2,Atlanta,38.0,38.0,32.0,Jeffrey Earnhardt,Can-Am / Kappa (Archie St. Hilaire),Ford,313.0,running,0.0,3.0
+2016,2,Atlanta,39.0,37.0,30.0,Josh Wise,Key Realty Group (Curtis Key),Chevrolet,312.0,running,0.0,2.0
+2016,3,Las Vegas,1.0,4.0,2.0,Brad Keselowski,Miller Lite (Roger Penske),Ford,267.0,running,24.0,44.0
+2016,3,Las Vegas,2.0,2.0,22.0,Joey Logano,Shell / Pennzoil (Roger Penske),Ford,267.0,running,74.0,40.0
+2016,3,Las Vegas,3.0,11.0,48.0,Jimmie Johnson,Lowe's / Kobalt Tools (Rick Hendrick),Chevrolet,267.0,running,76.0,40.0
+2016,3,Las Vegas,4.0,23.0,18.0,Kyle Busch,M&M's 75th Anniversary (Joe Gibbs),Toyota,267.0,running,38.0,38.0
+2016,3,Las Vegas,5.0,5.0,3.0,Austin Dillon,Dow Energy & Water / Intellifresh (Richard Childress),Chevrolet,267.0,running,2.0,37.0
+2016,3,Las Vegas,6.0,14.0,21.0,Ryan Blaney,Motorcraft / Quick Lane Tire & Auto Center (Wood Brothers),Ford,267.0,running,0.0,35.0
+2016,3,Las Vegas,7.0,6.0,4.0,Kevin Harvick,Jimmy John's (Stewart Haas Racing),Chevrolet,267.0,running,1.0,35.0
+2016,3,Las Vegas,8.0,20.0,88.0,"Dale Earnhardt, Jr.",Nationwide Insurance (Rick Hendrick),Chevrolet,267.0,running,0.0,33.0
+2016,3,Las Vegas,9.0,1.0,41.0,Kurt Busch,Monster Energy / Haas Automation (Stewart Haas Racing),Chevrolet,267.0,running,31.0,33.0
+2016,3,Las Vegas,10.0,8.0,5.0,Kasey Kahne,Farmers Insurance (Rick Hendrick),Chevrolet,267.0,running,0.0,31.0
+2016,3,Las Vegas,11.0,10.0,78.0,Martin Truex Jr,Furniture Row / Denver Mattress (Barney Visser),Toyota,267.0,running,0.0,30.0
+2016,3,Las Vegas,12.0,16.0,17.0,Ricky Stenhouse Jr,Armstrong Industries Hand Tools / Fastenal (Jack Roush),Ford,267.0,running,0.0,29.0
+2016,3,Las Vegas,13.0,21.0,31.0,Ryan Newman,Caterpillar (Richard Childress),Chevrolet,267.0,running,0.0,28.0
+2016,3,Las Vegas,14.0,12.0,47.0,A.J. Allmendinger,Smith's / Kingsford / Bush's Beans (JTG-Daugherty Racing),Chevrolet,267.0,running,0.0,27.0
+2016,3,Las Vegas,15.0,15.0,27.0,Paul Menard,Dutch Boy / Menards (Richard Childress),Chevrolet,267.0,running,0.0,26.0
+2016,3,Las Vegas,16.0,29.0,1.0,Jamie McMurray,Cessna / Beechcraft (Chip Ganassi),Chevrolet,267.0,running,0.0,25.0
+2016,3,Las Vegas,17.0,28.0,6.0,Trevor Bayne,AdvoCare (Jack Roush),Ford,267.0,running,0.0,24.0
+2016,3,Las Vegas,18.0,24.0,19.0,Carl Edwards,Arris (Joe Gibbs),Toyota,267.0,running,0.0,23.0
+2016,3,Las Vegas,19.0,9.0,11.0,Denny Hamlin,FedEx Office (Joe Gibbs),Toyota,267.0,running,10.0,23.0
+2016,3,Las Vegas,20.0,26.0,16.0,Greg Biffle,Cheez-It (Jack Roush),Ford,267.0,running,0.0,21.0
+2016,3,Las Vegas,21.0,18.0,10.0,Danica Patrick,Nature's Bakery (Stewart Haas Racing),Chevrolet,267.0,running,0.0,20.0
+2016,3,Las Vegas,22.0,35.0,15.0,Clint Bowyer,"5-hour Energy (Harry Scott, Jr.)",Chevrolet,267.0,running,0.0,19.0
+2016,3,Las Vegas,23.0,22.0,13.0,Casey Mears,GEICO (Germain Racing),Chevrolet,267.0,running,0.0,18.0
+2016,3,Las Vegas,24.0,7.0,43.0,Aric Almirola,Smithfield (Richard Petty Motorsports),Ford,266.0,running,0.0,17.0
+2016,3,Las Vegas,25.0,33.0,7.0,Regan Smith,"Road Rippers Street Beatz (Tommy Baldwin, Jr.)",Chevrolet,266.0,running,1.0,17.0
+2016,3,Las Vegas,26.0,25.0,34.0,Chris Buescher,Love's Travel Stops (Bob Jenkins),Ford,266.0,running,0.0,15.0
+2016,3,Las Vegas,27.0,32.0,44.0,Brian Scott,Albertson's / Whitetail Club / Kraft Singles (Richard Petty Motorsports),Ford,266.0,running,0.0,14.0
+2016,3,Las Vegas,28.0,27.0,38.0,Landon Cassill,MDS Transport (Bob Jenkins),Ford,266.0,running,0.0,13.0
+2016,3,Las Vegas,29.0,30.0,95.0,Michael McDowell,WRL General Contractors / Monte Carlo (Leavine Family Racing),Chevrolet,266.0,running,0.0,12.0
+2016,3,Las Vegas,30.0,37.0,46.0,Michael Annett,"Pilot / Flying J (Harry Scott, Jr.)",Chevrolet,265.0,running,0.0,11.0
+2016,3,Las Vegas,31.0,34.0,83.0,Matt DiBenedetto,Cosmo Motors (BK Racing),Toyota,263.0,running,0.0,10.0
+2016,3,Las Vegas,32.0,31.0,23.0,David Ragan,Dr. Pepper (BK Racing),Toyota,262.0,running,0.0,9.0
+2016,3,Las Vegas,33.0,38.0,32.0,Jeffrey Earnhardt,Can-Am / Kappa (Archie St. Hilaire),Ford,262.0,running,0.0,8.0
+2016,3,Las Vegas,34.0,17.0,42.0,Kyle Larson,Target / Cottonelle (Chip Ganassi),Chevrolet,262.0,running,0.0,7.0
+2016,3,Las Vegas,35.0,39.0,30.0,Josh Wise,Key Realty Group (Curtis Key),Chevrolet,259.0,running,0.0,6.0
+2016,3,Las Vegas,36.0,19.0,14.0,Brian Vickers,Mobil 1 (Stewart Haas Racing),Chevrolet,257.0,running,0.0,5.0
+2016,3,Las Vegas,37.0,3.0,20.0,Matt Kenseth,"DeWalt ""Made in the U.S.A."" (Joe Gibbs)",Toyota,224.0,crash,10.0,5.0
+2016,3,Las Vegas,38.0,13.0,24.0,Chase Elliott,NAPA Auto Parts (Rick Hendrick),Chevrolet,224.0,crash,0.0,3.0
+2016,3,Las Vegas,39.0,36.0,98.0,Cole Whitt,Speed Stick (Jay Robinson),Chevrolet,115.0,vibration,0.0,2.0
+2016,4,Phoenix,1.0,18.0,4.0,Kevin Harvick,Jimmy John's (Stewart Haas Racing),Chevrolet,313.0,running,139.0,45.0
+2016,4,Phoenix,2.0,2.0,19.0,Carl Edwards,Stanley Tools (Joe Gibbs),Toyota,313.0,running,65.0,40.0
+2016,4,Phoenix,3.0,3.0,11.0,Denny Hamlin,FedEx Freight (Joe Gibbs),Toyota,313.0,running,0.0,38.0
+2016,4,Phoenix,4.0,1.0,18.0,Kyle Busch,Skittles (Joe Gibbs),Toyota,313.0,running,75.0,38.0
+2016,4,Phoenix,5.0,26.0,88.0,"Dale Earnhardt, Jr.",Axalta (Rick Hendrick),Chevrolet,313.0,running,34.0,37.0
+2016,4,Phoenix,6.0,4.0,41.0,Kurt Busch,Monster Energy / Haas Automation (Stewart Haas Racing),Chevrolet,313.0,running,0.0,35.0
+2016,4,Phoenix,7.0,6.0,20.0,Matt Kenseth,Dollar General (Joe Gibbs),Toyota,313.0,running,0.0,34.0
+2016,4,Phoenix,8.0,17.0,24.0,Chase Elliott,NAPA Auto Parts (Rick Hendrick),Chevrolet,313.0,running,0.0,33.0
+2016,4,Phoenix,9.0,15.0,3.0,Austin Dillon,Dow (Richard Childress),Chevrolet,313.0,running,0.0,32.0
+2016,4,Phoenix,10.0,12.0,21.0,Ryan Blaney,Motorcraft / Quick Lane Tire & Auto Center (Wood Brothers),Ford,313.0,running,0.0,31.0
+2016,4,Phoenix,11.0,5.0,48.0,Jimmie Johnson,Lowe's Pro Services (Rick Hendrick),Chevrolet,313.0,running,0.0,30.0
+2016,4,Phoenix,12.0,7.0,42.0,Kyle Larson,Target / Cottonelle (Chip Ganassi),Chevrolet,313.0,running,0.0,29.0
+2016,4,Phoenix,13.0,14.0,43.0,Aric Almirola,Smithfield (Richard Petty Motorsports),Ford,313.0,running,0.0,28.0
+2016,4,Phoenix,14.0,8.0,78.0,Martin Truex Jr,Bass Pro Shops / Tracker Boats (Barney Visser),Toyota,313.0,running,0.0,27.0
+2016,4,Phoenix,15.0,28.0,14.0,Ty Dillon,Bass Pro Shops / Tracker Boats (Stewart Haas Racing),Chevrolet,313.0,running,0.0,0.0
+2016,4,Phoenix,16.0,11.0,1.0,Jamie McMurray,McDonald's (Chip Ganassi),Chevrolet,313.0,running,0.0,25.0
+2016,4,Phoenix,17.0,22.0,47.0,A.J. Allmendinger,Fry's / Scott Products / Bush's Beans (JTG-Daugherty Racing),Chevrolet,313.0,running,0.0,24.0
+2016,4,Phoenix,18.0,9.0,22.0,Joey Logano,Shell / Pennzoil (Roger Penske),Ford,312.0,running,0.0,23.0
+2016,4,Phoenix,19.0,36.0,10.0,Danica Patrick,Nature's Bakery (Stewart Haas Racing),Chevrolet,312.0,running,0.0,22.0
+2016,4,Phoenix,20.0,23.0,83.0,Matt DiBenedetto,Schluter Systems (BK Racing),Toyota,312.0,running,0.0,21.0
+2016,4,Phoenix,21.0,13.0,16.0,Greg Biffle,Cheez-It (Jack Roush),Ford,312.0,running,0.0,20.0
+2016,4,Phoenix,22.0,24.0,5.0,Kasey Kahne,Great Clips (Rick Hendrick),Chevrolet,312.0,running,0.0,19.0
+2016,4,Phoenix,23.0,21.0,6.0,Trevor Bayne,AdvoCare (Jack Roush),Ford,311.0,running,0.0,18.0
+2016,4,Phoenix,24.0,29.0,23.0,David Ragan,Dr. Pepper (BK Racing),Toyota,309.0,running,0.0,17.0
+2016,4,Phoenix,25.0,27.0,38.0,Landon Cassill,Snap Fitness (Bob Jenkins),Ford,308.0,running,0.0,16.0
+2016,4,Phoenix,26.0,33.0,95.0,Michael McDowell,Thrivent Financial (Leavine Family Racing),Chevrolet,308.0,running,0.0,15.0
+2016,4,Phoenix,27.0,30.0,44.0,Brian Scott,Albertson's / Whitetail Club / Ritz Triscuit (Richard Petty Motorsports),Ford,308.0,running,0.0,14.0
+2016,4,Phoenix,28.0,31.0,7.0,Regan Smith,"Advanced Patient Care (Tommy Baldwin, Jr.)",Chevrolet,308.0,running,0.0,13.0
+2016,4,Phoenix,29.0,19.0,2.0,Brad Keselowski,Alliance Truck Parts (Roger Penske),Ford,307.0,running,0.0,12.0
+2016,4,Phoenix,30.0,32.0,34.0,Chris Buescher,Dockside Logistics (Bob Jenkins),Ford,307.0,running,0.0,11.0
+2016,4,Phoenix,31.0,35.0,15.0,Clint Bowyer,"5-hour Energy (Harry Scott, Jr.)",Chevrolet,307.0,running,0.0,10.0
+2016,4,Phoenix,32.0,39.0,32.0,Joey Gase,LifeCell / JT Concrete / Iowa Donor Network (Archie St. Hilaire),Ford,305.0,running,0.0,0.0
+2016,4,Phoenix,33.0,38.0,46.0,Michael Annett,"Pilot / Flying J (Harry Scott, Jr.)",Chevrolet,303.0,running,0.0,8.0
+2016,4,Phoenix,34.0,37.0,30.0,Josh Wise,Key Realty Group (Curtis Key),Chevrolet,303.0,running,0.0,7.0
+2016,4,Phoenix,35.0,25.0,13.0,Casey Mears,GEICO (Germain Racing),Chevrolet,268.0,running,0.0,6.0
+2016,4,Phoenix,36.0,34.0,98.0,Cole Whitt,Rinnai Tankless Water Heaters (Jay Robinson),Chevrolet,236.0,overheating,0.0,5.0
+2016,4,Phoenix,37.0,10.0,17.0,Ricky Stenhouse Jr,Lenox Industrial Tools / Fastenal (Jack Roush),Ford,161.0,crash,0.0,4.0
+2016,4,Phoenix,38.0,16.0,27.0,Paul Menard,Richmond / Menards (Richard Childress),Chevrolet,104.0,crash,0.0,3.0
+2016,4,Phoenix,39.0,20.0,31.0,Ryan Newman,Grainger (Richard Childress),Chevrolet,51.0,crash,0.0,2.0
+2016,5,Fontana,1.0,19.0,48.0,Jimmie Johnson,Lowe's / Superman (Rick Hendrick),Chevrolet,205.0,running,25.0,44.0
+2016,5,Fontana,2.0,2.0,4.0,Kevin Harvick,Jimmy John's (Stewart Haas Racing),Chevrolet,205.0,running,142.0,41.0
+2016,5,Fontana,3.0,3.0,11.0,Denny Hamlin,Sport Clips (Joe Gibbs),Toyota,205.0,running,2.0,39.0
+2016,5,Fontana,4.0,9.0,22.0,Joey Logano,AAA Southern California (Roger Penske),Ford,205.0,running,3.0,38.0
+2016,5,Fontana,5.0,18.0,17.0,Ricky Stenhouse Jr,Kimberly-Clark Professional / Fastenal (Jack Roush),Ford,205.0,running,0.0,36.0
+2016,5,Fontana,6.0,8.0,24.0,Chase Elliott,NAPA Auto Parts (Rick Hendrick),Chevrolet,205.0,running,1.0,36.0
+2016,5,Fontana,7.0,5.0,19.0,Carl Edwards,Subway (Joe Gibbs),Toyota,205.0,running,9.0,35.0
+2016,5,Fontana,8.0,11.0,47.0,A.J. Allmendinger,Food4Less / Scott Products / Bush's Best (JTG-Daugherty Racing),Chevrolet,205.0,running,0.0,33.0
+2016,5,Fontana,9.0,15.0,2.0,Brad Keselowski,Wurth (Roger Penske),Ford,205.0,running,0.0,32.0
+2016,5,Fontana,10.0,10.0,1.0,Jamie McMurray,McDonald's (Chip Ganassi),Chevrolet,205.0,running,0.0,31.0
+2016,5,Fontana,11.0,27.0,88.0,"Dale Earnhardt, Jr.",Nationwide Insurance / Batman (Rick Hendrick),Chevrolet,205.0,running,0.0,30.0
+2016,5,Fontana,12.0,21.0,44.0,Brian Scott,Vons / WhiteTail Club / Ritz Triscuit (Richard Petty Motorsports),Ford,205.0,running,0.0,29.0
+2016,5,Fontana,13.0,24.0,14.0,Brian Vickers,Janssen / Arnie's Army / Bass Pro Shops (Stewart Haas Racing),Chevrolet,205.0,running,0.0,28.0
+2016,5,Fontana,14.0,4.0,31.0,Ryan Newman,Caterpillar (Richard Childress),Chevrolet,205.0,running,0.0,27.0
+2016,5,Fontana,15.0,13.0,27.0,Paul Menard,FVP / Menards (Richard Childress),Chevrolet,205.0,running,0.0,26.0
+2016,5,Fontana,16.0,34.0,38.0,Landon Cassill,MDS Transport (Bob Jenkins),Ford,205.0,running,0.0,25.0
+2016,5,Fontana,17.0,23.0,13.0,Casey Mears,GEICO (Germain Racing),Chevrolet,205.0,running,0.0,24.0
+2016,5,Fontana,18.0,29.0,15.0,Clint Bowyer,"Visine (Harry Scott, Jr.)",Chevrolet,205.0,running,0.0,23.0
+2016,5,Fontana,19.0,20.0,20.0,Matt Kenseth,"DeWalt ""Made in the U.S.A."" (Joe Gibbs)",Toyota,205.0,running,2.0,23.0
+2016,5,Fontana,20.0,7.0,6.0,Trevor Bayne,AdvoCare (Jack Roush),Ford,205.0,running,0.0,21.0
+2016,5,Fontana,21.0,25.0,43.0,Aric Almirola,Smithfield (Richard Petty Motorsports),Ford,205.0,running,0.0,20.0
+2016,5,Fontana,22.0,35.0,23.0,David Ragan,Dr. Pepper (BK Racing),Toyota,205.0,running,0.0,19.0
+2016,5,Fontana,23.0,28.0,7.0,Regan Smith,"AIPAC (Tommy Baldwin, Jr.)",Chevrolet,205.0,running,0.0,18.0
+2016,5,Fontana,24.0,1.0,3.0,Austin Dillon,American Ethanol E15 (Richard Childress),Chevrolet,205.0,running,0.0,17.0
+2016,5,Fontana,25.0,6.0,18.0,Kyle Busch,M&M's 75th Anniversary (Joe Gibbs),Toyota,205.0,running,0.0,16.0
+2016,5,Fontana,26.0,36.0,98.0,Cole Whitt,Rinnai Tankless Water Heaters (Jay Robinson),Chevrolet,205.0,running,0.0,15.0
+2016,5,Fontana,27.0,33.0,83.0,Matt DiBenedetto,Cosmo Motors (BK Racing),Toyota,205.0,running,0.0,14.0
+2016,5,Fontana,28.0,12.0,5.0,Kasey Kahne,Farmers Insurance (Rick Hendrick),Chevrolet,205.0,running,0.0,13.0
+2016,5,Fontana,29.0,38.0,46.0,Michael Annett,"Pilot / Flying J (Harry Scott, Jr.)",Chevrolet,205.0,running,0.0,12.0
+2016,5,Fontana,30.0,26.0,41.0,Kurt Busch,Haas Automation / Monster Energy (Stewart Haas Racing),Chevrolet,205.0,running,0.0,11.0
+2016,5,Fontana,31.0,30.0,95.0,Michael McDowell,WRL General Contractors (Leavine Family Racing),Chevrolet,205.0,running,0.0,10.0
+2016,5,Fontana,32.0,17.0,78.0,Martin Truex Jr,Furniture Row / Denver Mattress (Barney Visser),Toyota,204.0,running,21.0,10.0
+2016,5,Fontana,33.0,16.0,34.0,Chris Buescher,Love's Travel Stops (Bob Jenkins),Ford,204.0,running,0.0,8.0
+2016,5,Fontana,34.0,39.0,32.0,Jeffrey Earnhardt,Can-Am / Kappa (Archie St. Hilaire),Ford,200.0,running,0.0,7.0
+2016,5,Fontana,35.0,14.0,21.0,Ryan Blaney,Motorcraft / Quick Lane Tire & Auto Center (Wood Brothers),Ford,195.0,crash,0.0,6.0
+2016,5,Fontana,36.0,37.0,30.0,Josh Wise,SBC Contractors / Support Our Troops (Curtis Key),Chevrolet,195.0,running,0.0,5.0
+2016,5,Fontana,37.0,22.0,16.0,Greg Biffle,Ford EcoBoost (Jack Roush),Ford,146.0,engine,0.0,4.0
+2016,5,Fontana,38.0,31.0,10.0,Danica Patrick,TaxAct (Stewart Haas Racing),Chevrolet,120.0,crash,0.0,3.0
+2016,5,Fontana,39.0,32.0,42.0,Kyle Larson,Target / Cottonelle (Chip Ganassi),Chevrolet,46.0,crash,0.0,2.0
+2016,6,Martinsville,1.0,7.0,18.0,Kyle Busch,M&M's 75th Anniversary (Joe Gibbs),Toyota,500.0,running,352.0,45.0
+2016,6,Martinsville,2.0,6.0,47.0,A.J. Allmendinger,Kroger / Butterfinger / Coffee Mate (JTG-Daugherty Racing),Chevrolet,500.0,running,0.0,39.0
+2016,6,Martinsville,3.0,17.0,42.0,Kyle Larson,Target / Cottonelle (Chip Ganassi),Chevrolet,500.0,running,0.0,38.0
+2016,6,Martinsville,4.0,29.0,3.0,Austin Dillon,Dow (Richard Childress),Chevrolet,500.0,running,0.0,37.0
+2016,6,Martinsville,5.0,11.0,2.0,Brad Keselowski,Miller Lite (Roger Penske),Ford,500.0,running,0.0,36.0
+2016,6,Martinsville,6.0,25.0,19.0,Carl Edwards,Arris (Joe Gibbs),Toyota,500.0,running,0.0,35.0
+2016,6,Martinsville,7.0,3.0,14.0,Brian Vickers,Janssen / Arnie's Army Charitable Foundation (Stewart Haas Racing),Chevrolet,500.0,running,0.0,34.0
+2016,6,Martinsville,8.0,4.0,27.0,Paul Menard,Libman / Menards (Richard Childress),Chevrolet,500.0,running,10.0,34.0
+2016,6,Martinsville,9.0,24.0,48.0,Jimmie Johnson,Lowe's (Rick Hendrick),Chevrolet,500.0,running,0.0,32.0
+2016,6,Martinsville,10.0,5.0,31.0,Ryan Newman,Grainger (Richard Childress),Chevrolet,500.0,running,0.0,31.0
+2016,6,Martinsville,11.0,1.0,22.0,Joey Logano,Shell / Pennzoil (Roger Penske),Ford,500.0,running,21.0,31.0
+2016,6,Martinsville,12.0,14.0,16.0,Greg Biffle,Roush Performance Parts (Jack Roush),Ford,500.0,running,0.0,29.0
+2016,6,Martinsville,13.0,23.0,41.0,Kurt Busch,Haas Automation / Monster Energy (Stewart Haas Racing),Chevrolet,500.0,running,0.0,28.0
+2016,6,Martinsville,14.0,21.0,88.0,"Dale Earnhardt, Jr.",Nationwide Insurance (Rick Hendrick),Chevrolet,500.0,running,0.0,27.0
+2016,6,Martinsville,15.0,9.0,20.0,Matt Kenseth,Dollar General (Joe Gibbs),Toyota,500.0,running,45.0,27.0
+2016,6,Martinsville,16.0,28.0,10.0,Danica Patrick,TaxAct (Stewart Haas Racing),Chevrolet,500.0,running,0.0,25.0
+2016,6,Martinsville,17.0,19.0,4.0,Kevin Harvick,Jimmy John's (Stewart Haas Racing),Chevrolet,500.0,running,72.0,25.0
+2016,6,Martinsville,18.0,16.0,78.0,Martin Truex Jr,Furniture Row / Denver Mattress (Barney Visser),Toyota,500.0,running,0.0,23.0
+2016,6,Martinsville,19.0,12.0,21.0,Ryan Blaney,Motorcraft / Quick Lane Tire & Auto Center (Wood Brothers),Ford,500.0,running,0.0,22.0
+2016,6,Martinsville,20.0,10.0,24.0,Chase Elliott,3M (Rick Hendrick),Chevrolet,499.0,running,0.0,21.0
+2016,6,Martinsville,21.0,22.0,23.0,David Ragan,Dr. Pepper (BK Racing),Toyota,499.0,running,0.0,20.0
+2016,6,Martinsville,22.0,2.0,5.0,Kasey Kahne,Great Clips (Rick Hendrick),Chevrolet,499.0,running,0.0,19.0
+2016,6,Martinsville,23.0,15.0,1.0,Jamie McMurray,Bad Boy Off Road / Beechcraft (Chip Ganassi),Chevrolet,499.0,running,0.0,18.0
+2016,6,Martinsville,24.0,27.0,95.0,Michael McDowell,K-LOVE Radio (Leavine Family Racing),Chevrolet,498.0,running,0.0,17.0
+2016,6,Martinsville,25.0,30.0,15.0,Clint Bowyer,"5-hour Energy (Harry Scott, Jr.)",Chevrolet,497.0,running,0.0,16.0
+2016,6,Martinsville,26.0,26.0,44.0,Brian Scott,Goody's Mixed Fruit Blast (Richard Petty Motorsports),Ford,496.0,running,0.0,15.0
+2016,6,Martinsville,27.0,32.0,6.0,Trevor Bayne,AdvoCare (Jack Roush),Ford,496.0,running,0.0,14.0
+2016,6,Martinsville,28.0,33.0,38.0,Landon Cassill,MDS Transport (Bob Jenkins),Ford,495.0,running,0.0,13.0
+2016,6,Martinsville,29.0,35.0,83.0,Matt DiBenedetto,Cosmo Motors (BK Racing),Toyota,495.0,running,0.0,12.0
+2016,6,Martinsville,30.0,31.0,98.0,Cole Whitt,RTIC Coolers (Jay Robinson),Chevrolet,495.0,running,0.0,11.0
+2016,6,Martinsville,31.0,18.0,13.0,Casey Mears,GEICO (Germain Racing),Chevrolet,494.0,running,0.0,10.0
+2016,6,Martinsville,32.0,13.0,17.0,Ricky Stenhouse Jr,Milwaukee / Fastenal (Jack Roush),Ford,494.0,running,0.0,9.0
+2016,6,Martinsville,33.0,36.0,34.0,Chris Buescher,"CSX ""Play it Safe"" (Bob Jenkins)",Ford,491.0,running,0.0,8.0
+2016,6,Martinsville,34.0,34.0,7.0,Regan Smith,"Advanced Patient Care (Tommy Baldwin, Jr.)",Chevrolet,491.0,running,0.0,7.0
+2016,6,Martinsville,35.0,38.0,46.0,Michael Annett,"Pilot / Flying J (Harry Scott, Jr.)",Chevrolet,490.0,running,0.0,6.0
+2016,6,Martinsville,36.0,37.0,32.0,Joey Gase,Donate Life Virginia / AlloSource (Archie St. Hilaire),Ford,490.0,running,0.0,0.0
+2016,6,Martinsville,37.0,40.0,55.0,Reed Sorenson,Premium Motorsports (Jay Robinson),Chevrolet,490.0,running,0.0,4.0
+2016,6,Martinsville,38.0,39.0,30.0,Josh Wise,The Motorsports Group (Curtis Key),Chevrolet,326.0,engine,0.0,3.0
+2016,6,Martinsville,39.0,8.0,11.0,Denny Hamlin,FedEx Express (Joe Gibbs),Toyota,221.0,crash,0.0,2.0
+2016,6,Martinsville,40.0,20.0,43.0,Aric Almirola,STP (Richard Petty Motorsports),Ford,206.0,engine,0.0,1.0
+2016,7,Fort Worth,1.0,15.0,18.0,Kyle Busch,Interstate Batteries (Joe Gibbs),Toyota,334.0,running,34.0,44.0
+2016,7,Fort Worth,2.0,16.0,88.0,"Dale Earnhardt, Jr.",Nationwide Insurance (Rick Hendrick),Chevrolet,334.0,running,0.0,39.0
+2016,7,Fort Worth,3.0,2.0,22.0,Joey Logano,Shell / Pennzoil (Roger Penske),Ford,334.0,running,0.0,38.0
+2016,7,Fort Worth,4.0,11.0,48.0,Jimmie Johnson,Lowe's (Rick Hendrick),Chevrolet,334.0,running,0.0,37.0
+2016,7,Fort Worth,5.0,4.0,24.0,Chase Elliott,NAPA Auto Parts (Rick Hendrick),Chevrolet,334.0,running,1.0,37.0
+2016,7,Fort Worth,6.0,3.0,78.0,Martin Truex Jr,Bass Pro Shops / Tracker Boats (Barney Visser),Toyota,334.0,running,141.0,37.0
+2016,7,Fort Worth,7.0,1.0,19.0,Carl Edwards,Stanley Tools (Joe Gibbs),Toyota,334.0,running,124.0,35.0
+2016,7,Fort Worth,8.0,17.0,5.0,Kasey Kahne,Quicken Loans (Rick Hendrick),Chevrolet,334.0,running,0.0,33.0
+2016,7,Fort Worth,9.0,21.0,41.0,Kurt Busch,Monster Energy / Haas Automation (Stewart Haas Racing),Chevrolet,334.0,running,0.0,32.0
+2016,7,Fort Worth,10.0,22.0,4.0,Kevin Harvick,Jimmy John's (Stewart Haas Racing),Chevrolet,334.0,running,1.0,32.0
+2016,7,Fort Worth,11.0,9.0,20.0,Matt Kenseth,Dollar General (Joe Gibbs),Toyota,334.0,running,20.0,31.0
+2016,7,Fort Worth,12.0,6.0,11.0,Denny Hamlin,FedEx Office (Joe Gibbs),Toyota,334.0,running,0.0,29.0
+2016,7,Fort Worth,13.0,18.0,1.0,Jamie McMurray,Bad Boy Off Road / Dixie Chopper (Chip Ganassi),Chevrolet,334.0,running,0.0,28.0
+2016,7,Fort Worth,14.0,20.0,42.0,Kyle Larson,Target / Cottonelle (Chip Ganassi),Chevrolet,334.0,running,0.0,27.0
+2016,7,Fort Worth,15.0,12.0,6.0,Trevor Bayne,AdvoCare (Jack Roush),Ford,334.0,running,12.0,27.0
+2016,7,Fort Worth,16.0,5.0,17.0,Ricky Stenhouse Jr,Zest (Jack Roush),Ford,334.0,running,0.0,25.0
+2016,7,Fort Worth,17.0,19.0,31.0,Ryan Newman,Caterpillar (Richard Childress),Chevrolet,333.0,running,0.0,24.0
+2016,7,Fort Worth,18.0,8.0,2.0,Brad Keselowski,Miller Lite (Roger Penske),Ford,332.0,running,0.0,23.0
+2016,7,Fort Worth,19.0,10.0,3.0,Austin Dillon,Dow Energy & Water / FlexsoLyt (Richard Childress),Chevrolet,332.0,running,0.0,22.0
+2016,7,Fort Worth,20.0,30.0,95.0,Ty Dillon,Nexium 24 Hr. (Leavine Family Racing),Chevrolet,332.0,running,0.0,0.0
+2016,7,Fort Worth,21.0,26.0,10.0,Danica Patrick,Nature's Bakery (Stewart Haas Racing),Chevrolet,332.0,running,0.0,20.0
+2016,7,Fort Worth,22.0,23.0,47.0,A.J. Allmendinger,Kroger / Bush's Beans / Louisiana Hot Sauce (JTG-Daugherty Racing),Chevrolet,332.0,running,0.0,19.0
+2016,7,Fort Worth,23.0,32.0,13.0,Casey Mears,GEICO (Germain Racing),Chevrolet,332.0,running,0.0,18.0
+2016,7,Fort Worth,24.0,24.0,43.0,Aric Almirola,Smithfield (Richard Petty Motorsports),Ford,331.0,running,0.0,17.0
+2016,7,Fort Worth,25.0,33.0,38.0,Landon Cassill,MDS Transport (Bob Jenkins),Ford,330.0,running,0.0,16.0
+2016,7,Fort Worth,26.0,25.0,27.0,Paul Menard,Rockstar Energy / Menards (Richard Childress),Chevrolet,330.0,running,0.0,15.0
+2016,7,Fort Worth,27.0,27.0,44.0,Brian Scott,Albertson's / Tom Thumb (Richard Petty Motorsports),Ford,330.0,running,0.0,14.0
+2016,7,Fort Worth,28.0,34.0,34.0,Chris Buescher,Love's Travel Stops (Bob Jenkins),Ford,330.0,running,0.0,13.0
+2016,7,Fort Worth,29.0,7.0,21.0,Ryan Blaney,Motorcraft / Quick Lane Tire & Auto Center (Wood Brothers),Ford,330.0,running,0.0,12.0
+2016,7,Fort Worth,30.0,37.0,98.0,Cole Whitt,Premium Motorsports (Jay Robinson),Chevrolet,329.0,running,0.0,11.0
+2016,7,Fort Worth,31.0,28.0,7.0,Regan Smith,"Fire Alarm Services (Tommy Baldwin, Jr.)",Chevrolet,329.0,running,0.0,10.0
+2016,7,Fort Worth,32.0,35.0,46.0,Michael Annett,"Pilot / Flying J (Harry Scott, Jr.)",Chevrolet,329.0,running,0.0,9.0
+2016,7,Fort Worth,33.0,31.0,23.0,David Ragan,Dr. Pepper (BK Racing),Toyota,328.0,running,1.0,9.0
+2016,7,Fort Worth,34.0,29.0,83.0,Matt DiBenedetto,Cosmo Motors (BK Racing),Toyota,327.0,running,0.0,7.0
+2016,7,Fort Worth,35.0,38.0,32.0,Jeffrey Earnhardt,Can-Am / Kappa (Archie St. Hilaire),Ford,323.0,running,0.0,6.0
+2016,7,Fort Worth,36.0,40.0,55.0,Reed Sorenson,Premium Motorsports (Jay Robinson),Chevrolet,315.0,running,0.0,5.0
+2016,7,Fort Worth,37.0,13.0,14.0,Brian Vickers,TaxAct Military Files Free (Stewart Haas Racing),Chevrolet,290.0,crash,0.0,4.0
+2016,7,Fort Worth,38.0,36.0,15.0,Clint Bowyer,"Visine (Harry Scott, Jr.)",Chevrolet,289.0,crash,0.0,3.0
+2016,7,Fort Worth,39.0,14.0,16.0,Greg Biffle,Kleen Performance Products (Jack Roush),Ford,286.0,crash,0.0,2.0
+2016,7,Fort Worth,40.0,39.0,30.0,Josh Wise,CrawfestNB.com / Radisson Fort Worth (Curtis Key),Chevrolet,178.0,crash,0.0,1.0
+2016,8,Bristol,1.0,1.0,19.0,Carl Edwards,Comcast Business (Joe Gibbs),Toyota,500.0,running,276.0,45.0
+2016,8,Bristol,2.0,20.0,88.0,"Dale Earnhardt, Jr.",Nationwide Insurance (Rick Hendrick),Chevrolet,500.0,running,0.0,39.0
+2016,8,Bristol,3.0,26.0,41.0,Kurt Busch,Haas Automation / Monster Energy (Stewart Haas Racing),Chevrolet,500.0,running,41.0,39.0
+2016,8,Bristol,4.0,19.0,24.0,Chase Elliott,Kelley Blue Book (Rick Hendrick),Chevrolet,500.0,running,0.0,37.0
+2016,8,Bristol,5.0,10.0,6.0,Trevor Bayne,AdvoCare (Jack Roush),Ford,500.0,running,0.0,36.0
+2016,8,Bristol,6.0,30.0,83.0,Matt DiBenedetto,Cosmo Motors (BK Racing),Toyota,500.0,running,0.0,35.0
+2016,8,Bristol,7.0,7.0,4.0,Kevin Harvick,Ditech Home Loans (Stewart Haas Racing),Chevrolet,500.0,running,13.0,35.0
+2016,8,Bristol,8.0,36.0,15.0,Clint Bowyer,"5-hour Energy (Harry Scott, Jr.)",Chevrolet,500.0,running,0.0,33.0
+2016,8,Bristol,9.0,17.0,31.0,Ryan Newman,Wix Filters (Richard Childress),Chevrolet,500.0,running,0.0,32.0
+2016,8,Bristol,10.0,3.0,22.0,Joey Logano,Autotrader.com (Roger Penske),Ford,500.0,running,4.0,32.0
+2016,8,Bristol,11.0,18.0,21.0,Ryan Blaney,Motorcraft / Quick Lane Tire & Auto Center (Wood Brothers),Ford,500.0,running,0.0,30.0
+2016,8,Bristol,12.0,23.0,16.0,Greg Biffle,Roush Performance Parts (Jack Roush),Ford,500.0,running,0.0,29.0
+2016,8,Bristol,13.0,13.0,1.0,Jamie McMurray,McDonald's (Chip Ganassi),Chevrolet,500.0,running,0.0,28.0
+2016,8,Bristol,14.0,8.0,78.0,Martin Truex Jr,Furniture Row / Denver Mattress (Barney Visser),Toyota,500.0,running,0.0,27.0
+2016,8,Bristol,15.0,14.0,27.0,Paul Menard,Tarkett / Menards (Richard Childress),Chevrolet,500.0,running,4.0,27.0
+2016,8,Bristol,16.0,32.0,17.0,Ricky Stenhouse Jr,Zest (Jack Roush),Ford,500.0,running,0.0,25.0
+2016,8,Bristol,17.0,11.0,5.0,Kasey Kahne,Great Clips (Rick Hendrick),Chevrolet,500.0,running,0.0,24.0
+2016,8,Bristol,18.0,12.0,2.0,Brad Keselowski,Miller Lite (Roger Penske),Ford,500.0,running,0.0,23.0
+2016,8,Bristol,19.0,9.0,47.0,A.J. Allmendinger,Bush's Beans / Scott Products / Kroger (JTG-Daugherty Racing),Chevrolet,500.0,running,0.0,22.0
+2016,8,Bristol,20.0,4.0,11.0,Denny Hamlin,FedEx Freight (Joe Gibbs),Toyota,500.0,running,0.0,21.0
+2016,8,Bristol,21.0,21.0,34.0,Chris Buescher,Love's Travel Stops (Bob Jenkins),Ford,500.0,running,0.0,20.0
+2016,8,Bristol,22.0,28.0,38.0,Landon Cassill,Snap Fitness (Bob Jenkins),Ford,500.0,running,20.0,20.0
+2016,8,Bristol,23.0,6.0,48.0,Jimmie Johnson,Lowe's (Rick Hendrick),Chevrolet,499.0,running,0.0,18.0
+2016,8,Bristol,24.0,16.0,13.0,Casey Mears,GEICO (Germain Racing),Chevrolet,499.0,running,0.0,17.0
+2016,8,Bristol,25.0,34.0,14.0,Ty Dillon,Bass Pro Shops / Tracker Boats (Stewart Haas Racing),Chevrolet,499.0,running,0.0,0.0
+2016,8,Bristol,26.0,15.0,3.0,Austin Dillon,Bass Pro Shops / Tracker Boats (Richard Childress),Chevrolet,498.0,running,0.0,15.0
+2016,8,Bristol,27.0,33.0,10.0,Danica Patrick,Nature's Bakery (Stewart Haas Racing),Chevrolet,498.0,running,0.0,14.0
+2016,8,Bristol,28.0,39.0,98.0,Cole Whitt,Pugs / RTIC Coolers (Jay Robinson),Chevrolet,496.0,running,0.0,13.0
+2016,8,Bristol,29.0,31.0,95.0,Michael McDowell,K-LOVE Radio (Leavine Family Racing),Chevrolet,495.0,running,0.0,12.0
+2016,8,Bristol,30.0,27.0,44.0,Brian Scott,Shore Lodge (Richard Petty Motorsports),Ford,493.0,running,0.0,11.0
+2016,8,Bristol,31.0,40.0,46.0,Michael Annett,"Pilot / Flying J / Battle at Bristol (Harry Scott, Jr.)",Chevrolet,492.0,running,0.0,10.0
+2016,8,Bristol,32.0,37.0,32.0,Jeffrey Earnhardt,Keen Parts / Visone RV (Archie St. Hilaire),Ford,488.0,running,0.0,9.0
+2016,8,Bristol,33.0,35.0,30.0,Josh Wise,The Motorsports Group (Curtis Key),Chevrolet,482.0,running,0.0,8.0
+2016,8,Bristol,34.0,22.0,43.0,Aric Almirola,Smithfield (Richard Petty Motorsports),Ford,479.0,running,0.0,7.0
+2016,8,Bristol,35.0,25.0,42.0,Kyle Larson,Target / Cottonelle (Chip Ganassi),Chevrolet,462.0,running,0.0,6.0
+2016,8,Bristol,36.0,2.0,20.0,Matt Kenseth,Dollar General (Joe Gibbs),Toyota,460.0,running,142.0,6.0
+2016,8,Bristol,37.0,29.0,7.0,Regan Smith,"Advanced Patient Care (Tommy Baldwin, Jr.)",Chevrolet,451.0,crash,0.0,4.0
+2016,8,Bristol,38.0,5.0,18.0,Kyle Busch,M&M's 75th Anniversary (Joe Gibbs),Toyota,258.0,crash,0.0,3.0
+2016,8,Bristol,39.0,24.0,23.0,David Ragan,Dr. Pepper (BK Racing),Toyota,211.0,engine,0.0,2.0
+2016,8,Bristol,40.0,38.0,55.0,Reed Sorenson,ChampionMachinery.com (Jay Robinson),Chevrolet,169.0,suspension,0.0,1.0
+2016,9,Richmond,1.0,4.0,19.0,Carl Edwards,Xfinity (Joe Gibbs),Toyota,400.0,running,151.0,45.0
+2016,9,Richmond,2.0,9.0,18.0,Kyle Busch,Banfield Pet Hospital (Joe Gibbs),Toyota,400.0,running,78.0,40.0
+2016,9,Richmond,3.0,3.0,48.0,Jimmie Johnson,Lowe's Pro Services (Rick Hendrick),Chevrolet,400.0,running,44.0,39.0
+2016,9,Richmond,4.0,8.0,5.0,Kasey Kahne,Mountain Dew Pitch Black (Rick Hendrick),Chevrolet,400.0,running,0.0,37.0
+2016,9,Richmond,5.0,1.0,4.0,Kevin Harvick,Busch Light (Stewart Haas Racing),Chevrolet,400.0,running,63.0,37.0
+2016,9,Richmond,6.0,5.0,11.0,Denny Hamlin,FedEx Ground (Joe Gibbs),Toyota,400.0,running,1.0,36.0
+2016,9,Richmond,7.0,13.0,20.0,Matt Kenseth,Dollar General (Joe Gibbs),Toyota,400.0,running,2.0,35.0
+2016,9,Richmond,8.0,2.0,22.0,Joey Logano,Shell / Pennzoil (Roger Penske),Ford,400.0,running,0.0,33.0
+2016,9,Richmond,9.0,22.0,78.0,Martin Truex Jr,Furniture Row / Denver Mattress (Barney Visser),Toyota,400.0,running,0.0,32.0
+2016,9,Richmond,10.0,7.0,41.0,Kurt Busch,Monster Energy / Haas Automation (Stewart Haas Racing),Chevrolet,400.0,running,55.0,32.0
+2016,9,Richmond,11.0,6.0,2.0,Brad Keselowski,Thomas Built Buses (Roger Penske),Ford,400.0,running,6.0,31.0
+2016,9,Richmond,12.0,23.0,24.0,Chase Elliott,Mountain Dew Baja Blast (Rick Hendrick),Chevrolet,400.0,running,0.0,29.0
+2016,9,Richmond,13.0,16.0,88.0,"Dale Earnhardt, Jr.",Mountain Dew Dewcision (Rick Hendrick),Chevrolet,400.0,running,0.0,28.0
+2016,9,Richmond,14.0,19.0,16.0,Greg Biffle,Cheez-It (Jack Roush),Ford,400.0,running,0.0,27.0
+2016,9,Richmond,15.0,15.0,42.0,Kyle Larson,Target / Cottonelle (Chip Ganassi),Chevrolet,400.0,running,0.0,26.0
+2016,9,Richmond,16.0,27.0,1.0,Jamie McMurray,Credit One Bank (Chip Ganassi),Chevrolet,400.0,running,0.0,25.0
+2016,9,Richmond,17.0,17.0,6.0,Trevor Bayne,AdvoCare (Jack Roush),Ford,400.0,running,0.0,24.0
+2016,9,Richmond,18.0,14.0,31.0,Ryan Newman,Grainger (Richard Childress),Chevrolet,400.0,running,0.0,23.0
+2016,9,Richmond,19.0,18.0,14.0,Tony Stewart,Mobil 1 Advanced Fuel Economy (Stewart Haas Racing),Chevrolet,400.0,running,0.0,22.0
+2016,9,Richmond,20.0,11.0,3.0,Austin Dillon,AAA.com (Richard Childress),Chevrolet,400.0,running,0.0,21.0
+2016,9,Richmond,21.0,24.0,43.0,Aric Almirola,Smithfield (Richard Petty Motorsports),Ford,400.0,running,0.0,20.0
+2016,9,Richmond,22.0,26.0,27.0,Paul Menard,Duracell / Menards (Richard Childress),Chevrolet,400.0,running,0.0,19.0
+2016,9,Richmond,23.0,30.0,23.0,David Ragan,SweetFrog / Visit Henrico County (BK Racing),Toyota,400.0,running,0.0,18.0
+2016,9,Richmond,24.0,21.0,10.0,Danica Patrick,Nature's Bakery (Stewart Haas Racing),Chevrolet,400.0,running,0.0,17.0
+2016,9,Richmond,25.0,10.0,47.0,A.J. Allmendinger,Kroger / Bush's Beans (JTG-Daugherty Racing),Chevrolet,400.0,running,0.0,16.0
+2016,9,Richmond,26.0,12.0,17.0,Ricky Stenhouse Jr,Fifth Third Bank (Jack Roush),Ford,400.0,running,0.0,15.0
+2016,9,Richmond,27.0,28.0,38.0,Landon Cassill,The Pete Store (Bob Jenkins),Ford,399.0,running,0.0,14.0
+2016,9,Richmond,28.0,29.0,21.0,Ryan Blaney,Motorcraft / Quick Lane Tire & Auto Center (Wood Brothers),Ford,399.0,running,0.0,13.0
+2016,9,Richmond,29.0,25.0,13.0,Casey Mears,GEICO (Germain Racing),Chevrolet,399.0,running,0.0,12.0
+2016,9,Richmond,30.0,36.0,83.0,Matt DiBenedetto,E.J. Wade Construction / RMC Events (BK Racing),Toyota,399.0,running,0.0,11.0
+2016,9,Richmond,31.0,32.0,95.0,Michael McDowell,WRL General Contractors (Leavine Family Racing),Chevrolet,399.0,running,0.0,10.0
+2016,9,Richmond,32.0,34.0,7.0,Regan Smith,"Advanced Patient Care (Tommy Baldwin, Jr.)",Chevrolet,399.0,running,0.0,9.0
+2016,9,Richmond,33.0,39.0,15.0,Clint Bowyer,"5-hour Energy (Harry Scott, Jr.)",Chevrolet,398.0,running,0.0,8.0
+2016,9,Richmond,34.0,33.0,34.0,Chris Buescher,A&W All American Food (Bob Jenkins),Ford,396.0,running,0.0,7.0
+2016,9,Richmond,35.0,20.0,44.0,Brian Scott,Safeway / Shore Lodge (Richard Petty Motorsports),Ford,395.0,running,0.0,6.0
+2016,9,Richmond,36.0,40.0,46.0,Michael Annett,"Pilot / Flying J (Harry Scott, Jr.)",Chevrolet,394.0,running,0.0,5.0
+2016,9,Richmond,37.0,37.0,93.0,Ryan Ellis,ScienceLogic (BK Racing),Toyota,393.0,running,0.0,0.0
+2016,9,Richmond,38.0,38.0,32.0,Jeffrey Earnhardt,Visone RV / Corvetteparts.net (Archie St. Hilaire),Ford,392.0,running,0.0,3.0
+2016,9,Richmond,39.0,31.0,30.0,Josh Wise,Curtis Key Plumbing (Curtis Key),Chevrolet,390.0,running,0.0,2.0
+2016,9,Richmond,40.0,35.0,55.0,Reed Sorenson,ChampionMachinery.com (Jay Robinson),Chevrolet,390.0,running,0.0,1.0
+2016,10,Talladega,1.0,7.0,2.0,Brad Keselowski,Miller Lite (Roger Penske),Ford,188.0,running,46.0,45.0
+2016,10,Talladega,2.0,17.0,18.0,Kyle Busch,Skittles / Captain America: Civil War (Joe Gibbs),Toyota,188.0,running,12.0,40.0
+2016,10,Talladega,3.0,2.0,3.0,Austin Dillon,Dow Energy & Water / Intellifresh (Richard Childress),Chevrolet,188.0,running,0.0,38.0
+2016,10,Talladega,4.0,30.0,1.0,Jamie McMurray,McDonald's (Chip Ganassi),Chevrolet,188.0,running,0.0,37.0
+2016,10,Talladega,5.0,1.0,24.0,Chase Elliott,NAPA Auto Parts (Rick Hendrick),Chevrolet,188.0,running,27.0,37.0
+2016,10,Talladega,6.0,14.0,14.0,Tony Stewart,Bass Pro Shops / Tracker Boats (Stewart Haas Racing),Chevrolet,188.0,running,0.0,35.0
+2016,10,Talladega,7.0,34.0,15.0,Clint Bowyer,"AccuDoc Solutions (Harry Scott, Jr.)",Chevrolet,188.0,running,0.0,34.0
+2016,10,Talladega,8.0,18.0,41.0,Kurt Busch,Monster Energy (Stewart Haas Racing),Chevrolet,188.0,running,0.0,33.0
+2016,10,Talladega,9.0,19.0,21.0,Ryan Blaney,Motorcraft / Quick Lane Tire & Auto Center (Wood Brothers),Ford,188.0,running,0.0,32.0
+2016,10,Talladega,10.0,13.0,6.0,Trevor Bayne,AdvoCare (Jack Roush),Ford,188.0,running,22.0,32.0
+2016,10,Talladega,11.0,32.0,38.0,Landon Cassill,FR8 Auctions (Bob Jenkins),Ford,188.0,running,0.0,30.0
+2016,10,Talladega,12.0,33.0,55.0,Michael Waltrip,Peak Antifreeze & Coolant (Jay Robinson),Toyota,188.0,running,2.0,30.0
+2016,10,Talladega,13.0,12.0,78.0,Martin Truex Jr,Bass Pro Shops / Tracker Boats (Barney Visser),Toyota,188.0,running,0.0,28.0
+2016,10,Talladega,14.0,28.0,47.0,A.J. Allmendinger,Kroger / Hungry Jack / Crisco (JTG-Daugherty Racing),Chevrolet,188.0,running,1.0,28.0
+2016,10,Talladega,15.0,29.0,4.0,Kevin Harvick,Busch Fishing Trophy Can (Stewart Haas Racing),Chevrolet,188.0,running,9.0,27.0
+2016,10,Talladega,16.0,6.0,17.0,Ricky Stenhouse Jr,Fifth Third Bank (Jack Roush),Ford,188.0,running,0.0,25.0
+2016,10,Talladega,17.0,39.0,35.0,David Gilliland,Shaw's Southern Belle Frozen Foods (Bob Jenkins),Ford,188.0,running,0.0,24.0
+2016,10,Talladega,18.0,36.0,98.0,Cole Whitt,RTIC Coolers (Jay Robinson),Toyota,188.0,running,1.0,24.0
+2016,10,Talladega,19.0,26.0,32.0,Bobby Labonte,Rimrock Devlin Development (Archie St. Hilaire),Ford,188.0,running,2.0,23.0
+2016,10,Talladega,20.0,16.0,16.0,Greg Biffle,Ford EcoBoost (Jack Roush),Ford,188.0,running,0.0,21.0
+2016,10,Talladega,21.0,31.0,95.0,Michael McDowell,Thrivent Financial (Leavine Family Racing),Chevrolet,188.0,running,0.0,20.0
+2016,10,Talladega,22.0,5.0,48.0,Jimmie Johnson,Lowe's (Rick Hendrick),Chevrolet,182.0,running,0.0,19.0
+2016,10,Talladega,23.0,4.0,20.0,Matt Kenseth,Dollar General (Joe Gibbs),Toyota,180.0,crash,39.0,19.0
+2016,10,Talladega,24.0,37.0,10.0,Danica Patrick,Aspen Dental Turbocharged Tooth Fairy (Stewart Haas Racing),Chevrolet,180.0,crash,3.0,18.0
+2016,10,Talladega,25.0,22.0,22.0,Joey Logano,Shell / Pennzoil (Roger Penske),Ford,180.0,crash,6.0,17.0
+2016,10,Talladega,26.0,10.0,27.0,Paul Menard,Moen / Menards (Richard Childress),Chevrolet,180.0,crash,0.0,15.0
+2016,10,Talladega,27.0,23.0,43.0,Aric Almirola,Fresh From Florida (Richard Petty Motorsports),Ford,180.0,crash,1.0,15.0
+2016,10,Talladega,28.0,15.0,31.0,Ryan Newman,Caterpillar (Richard Childress),Chevrolet,178.0,running,1.0,14.0
+2016,10,Talladega,29.0,24.0,42.0,Kyle Larson,Target / Cottonelle (Chip Ganassi),Chevrolet,173.0,running,9.0,13.0
+2016,10,Talladega,30.0,21.0,44.0,Brian Scott,Twisted Tea (Richard Petty Motorsports),Ford,172.0,running,0.0,11.0
+2016,10,Talladega,31.0,8.0,11.0,Denny Hamlin,FedEx Express (Joe Gibbs),Toyota,170.0,running,5.0,11.0
+2016,10,Talladega,32.0,25.0,7.0,Regan Smith,"Golden Corral (Tommy Baldwin, Jr.)",Chevrolet,168.0,running,0.0,9.0
+2016,10,Talladega,33.0,20.0,13.0,Casey Mears,GEICO (Germain Racing),Chevrolet,166.0,running,0.0,8.0
+2016,10,Talladega,34.0,40.0,23.0,David Ragan,Schluter Systems (BK Racing),Toyota,151.0,engine,2.0,8.0
+2016,10,Talladega,35.0,9.0,19.0,Carl Edwards,Arris (Joe Gibbs),Toyota,109.0,crash,0.0,6.0
+2016,10,Talladega,36.0,35.0,83.0,Matt DiBenedetto,Dustless Blasting (BK Racing),Toyota,98.0,engine,0.0,5.0
+2016,10,Talladega,37.0,27.0,34.0,Chris Buescher,"Love's Travel Stops / CSX ""Play it Safe"" (Bob Jenkins)",Ford,95.0,crash,0.0,4.0
+2016,10,Talladega,38.0,38.0,46.0,Michael Annett,"Pilot / Flying J (Harry Scott, Jr.)",Chevrolet,94.0,crash,0.0,3.0
+2016,10,Talladega,39.0,11.0,5.0,Kasey Kahne,Farmers Insurance (Rick Hendrick),Chevrolet,82.0,crash,0.0,2.0
+2016,10,Talladega,40.0,3.0,88.0,"Dale Earnhardt, Jr.",Nationwide Insurance (Rick Hendrick),Chevrolet,63.0,crash,0.0,1.0
+2016,11,Kansas,1.0,6.0,18.0,Kyle Busch,M&M's / Walgreens / Red Nose Day on NBC (Joe Gibbs),Toyota,267.0,running,69.0,44.0
+2016,11,Kansas,2.0,26.0,4.0,Kevin Harvick,Jimmy John's (Stewart Haas Racing),Chevrolet,267.0,running,0.0,39.0
+2016,11,Kansas,3.0,4.0,41.0,Kurt Busch,Haas Automation / Monster Energy (Stewart Haas Racing),Chevrolet,267.0,running,0.0,38.0
+2016,11,Kansas,4.0,2.0,20.0,Matt Kenseth,Dollar General (Joe Gibbs),Toyota,267.0,running,3.0,38.0
+2016,11,Kansas,5.0,7.0,21.0,Ryan Blaney,Motorcraft / Quick Lane Tire & Auto Center (Wood Brothers),Ford,267.0,running,0.0,36.0
+2016,11,Kansas,6.0,17.0,3.0,Austin Dillon,American Ethanol E15 (Richard Childress),Chevrolet,267.0,running,0.0,35.0
+2016,11,Kansas,7.0,8.0,31.0,Ryan Newman,Grainger (Richard Childress),Chevrolet,267.0,running,0.0,34.0
+2016,11,Kansas,8.0,29.0,47.0,A.J. Allmendinger,Dillons / Glad to Give / Bush's Beans (JTG-Daugherty Racing),Chevrolet,267.0,running,0.0,33.0
+2016,11,Kansas,9.0,13.0,24.0,Chase Elliott,NAPA Auto Parts (Rick Hendrick),Chevrolet,267.0,running,0.0,32.0
+2016,11,Kansas,10.0,5.0,2.0,Brad Keselowski,Alliance Truck Parts (Roger Penske),Ford,267.0,running,3.0,32.0
+2016,11,Kansas,11.0,12.0,19.0,Carl Edwards,Stanley Tools (Joe Gibbs),Toyota,267.0,running,0.0,30.0
+2016,11,Kansas,12.0,16.0,14.0,Tony Stewart,Mobil 1 (Stewart Haas Racing),Chevrolet,267.0,running,12.0,30.0
+2016,11,Kansas,13.0,9.0,17.0,Ricky Stenhouse Jr,Zest (Jack Roush),Ford,267.0,running,0.0,28.0
+2016,11,Kansas,14.0,1.0,78.0,Martin Truex Jr,Bass Pro Shops / Tracker Boats (Barney Visser),Toyota,267.0,running,172.0,29.0
+2016,11,Kansas,15.0,22.0,88.0,"Dale Earnhardt, Jr.",Axalta / Carstar (Rick Hendrick),Chevrolet,267.0,running,0.0,26.0
+2016,11,Kansas,16.0,27.0,5.0,Kasey Kahne,Farmers Insurance (Rick Hendrick),Chevrolet,267.0,running,0.0,25.0
+2016,11,Kansas,17.0,15.0,48.0,Jimmie Johnson,Lowe's (Rick Hendrick),Chevrolet,267.0,running,0.0,24.0
+2016,11,Kansas,18.0,19.0,43.0,Aric Almirola,Smithfield (Richard Petty Motorsports),Ford,265.0,running,0.0,23.0
+2016,11,Kansas,19.0,33.0,15.0,Clint Bowyer,"5-hour Energy (Harry Scott, Jr.)",Chevrolet,265.0,running,0.0,22.0
+2016,11,Kansas,20.0,23.0,10.0,Danica Patrick,Nature's Bakery (Stewart Haas Racing),Chevrolet,265.0,running,2.0,22.0
+2016,11,Kansas,21.0,31.0,13.0,Casey Mears,GEICO (Germain Racing),Chevrolet,265.0,running,0.0,20.0
+2016,11,Kansas,22.0,28.0,44.0,Brian Scott,GoBowling.com / #GoBowling (Richard Petty Motorsports),Ford,265.0,running,0.0,19.0
+2016,11,Kansas,23.0,32.0,7.0,Regan Smith,"Advanced Patient Care (Tommy Baldwin, Jr.)",Chevrolet,265.0,running,1.0,19.0
+2016,11,Kansas,24.0,25.0,34.0,Chris Buescher,Dockside Logistics (Bob Jenkins),Ford,265.0,running,0.0,17.0
+2016,11,Kansas,25.0,10.0,6.0,Trevor Bayne,AdvoCare (Jack Roush),Ford,264.0,running,0.0,16.0
+2016,11,Kansas,26.0,21.0,1.0,Jamie McMurray,McDonald's (Chip Ganassi),Chevrolet,264.0,running,0.0,15.0
+2016,11,Kansas,27.0,20.0,16.0,Greg Biffle,Ford EcoBoost (Jack Roush),Ford,264.0,running,0.0,14.0
+2016,11,Kansas,28.0,30.0,95.0,Michael McDowell,WRL General Contractors (Leavine Family Racing),Chevrolet,264.0,running,0.0,13.0
+2016,11,Kansas,29.0,34.0,23.0,David Ragan,Dr. Pepper (BK Racing),Toyota,264.0,running,1.0,13.0
+2016,11,Kansas,30.0,24.0,83.0,Matt DiBenedetto,Cosmo Motors (BK Racing),Toyota,264.0,running,1.0,12.0
+2016,11,Kansas,31.0,35.0,38.0,Landon Cassill,MDS Transport (Bob Jenkins),Ford,264.0,running,0.0,10.0
+2016,11,Kansas,32.0,39.0,46.0,Michael Annett,"Allstate Peterbilt Group (Harry Scott, Jr.)",Chevrolet,260.0,running,0.0,9.0
+2016,11,Kansas,33.0,40.0,55.0,Reed Sorenson,Premium Motorsports (Jay Robinson),Chevrolet,257.0,running,0.0,8.0
+2016,11,Kansas,34.0,38.0,32.0,Joey Gase,DieselSales.com / Spark Energy (Archie St. Hilaire),Ford,257.0,running,0.0,0.0
+2016,11,Kansas,35.0,18.0,42.0,Kyle Larson,Glad to Give / Target / Axe / Banana Boat (Chip Ganassi),Chevrolet,252.0,crash,0.0,6.0
+2016,11,Kansas,36.0,36.0,30.0,Josh Wise,Hotel Phillips (Curtis Key),Chevrolet,245.0,suspension,0.0,5.0
+2016,11,Kansas,37.0,3.0,11.0,Denny Hamlin,FedEx Freight (Joe Gibbs),Toyota,240.0,crash,0.0,4.0
+2016,11,Kansas,38.0,14.0,22.0,Joey Logano,AAA Insurance (Roger Penske),Ford,240.0,crash,3.0,4.0
+2016,11,Kansas,39.0,37.0,98.0,Cole Whitt,Tweaker Energy Shot / Casey's (Jay Robinson),Chevrolet,212.0,running,0.0,2.0
+2016,11,Kansas,40.0,11.0,27.0,Paul Menard,NIBCO / Menards (Richard Childress),Chevrolet,129.0,engine,0.0,1.0
+2016,12,Dover,1.0,10.0,20.0,Matt Kenseth,Dollar General (Joe Gibbs),Toyota,400.0,running,48.0,44.0
+2016,12,Dover,2.0,23.0,42.0,Kyle Larson,Target / Cottonelle (Chip Ganassi),Chevrolet,400.0,running,85.0,40.0
+2016,12,Dover,3.0,13.0,24.0,Chase Elliott,NAPA Auto Parts (Rick Hendrick),Chevrolet,400.0,running,0.0,38.0
+2016,12,Dover,4.0,11.0,5.0,Kasey Kahne,Farmers Insurance (Rick Hendrick),Chevrolet,400.0,running,0.0,22.0
+2016,12,Dover,5.0,9.0,41.0,Kurt Busch,Haas Automation / Monster Energy (Stewart Haas Racing),Chevrolet,400.0,running,0.0,36.0
+2016,12,Dover,6.0,14.0,2.0,Brad Keselowski,Wurth (Roger Penske),Ford,400.0,running,49.0,36.0
+2016,12,Dover,7.0,6.0,11.0,Denny Hamlin,FedEx Office (Joe Gibbs),Toyota,400.0,running,15.0,35.0
+2016,12,Dover,8.0,18.0,21.0,Ryan Blaney,Motorcraft / Quick Lane Tire & Auto Center (Wood Brothers),Ford,400.0,running,0.0,33.0
+2016,12,Dover,9.0,7.0,78.0,Martin Truex Jr,Furniture Row / Denver Mattress (Barney Visser),Toyota,400.0,running,47.0,33.0
+2016,12,Dover,10.0,25.0,6.0,Trevor Bayne,AdvoCare (Jack Roush),Ford,400.0,running,0.0,31.0
+2016,12,Dover,11.0,19.0,27.0,Paul Menard,Schrock / Menards (Richard Childress),Chevrolet,400.0,running,0.0,30.0
+2016,12,Dover,12.0,32.0,15.0,Clint Bowyer,"5-hour Energy (Harry Scott, Jr.)",Chevrolet,400.0,running,0.0,29.0
+2016,12,Dover,13.0,31.0,10.0,Danica Patrick,Nature's Bakery / Autism Delaware (Stewart Haas Racing),Chevrolet,400.0,running,0.0,28.0
+2016,12,Dover,14.0,5.0,17.0,Ricky Stenhouse Jr,Sunny D (Jack Roush),Ford,400.0,running,0.0,27.0
+2016,12,Dover,15.0,1.0,4.0,Kevin Harvick,Jimmy John's (Stewart Haas Racing),Chevrolet,399.0,running,117.0,28.0
+2016,12,Dover,16.0,8.0,31.0,Ryan Newman,Caterpillar (Richard Childress),Chevrolet,398.0,running,0.0,25.0
+2016,12,Dover,17.0,27.0,23.0,David Ragan,Dr. Pepper (BK Racing),Toyota,397.0,running,0.0,24.0
+2016,12,Dover,18.0,30.0,34.0,Chris Buescher,Dockside Logistics (Bob Jenkins),Ford,396.0,running,0.0,23.0
+2016,12,Dover,19.0,35.0,38.0,Landon Cassill,MDS Transport (Bob Jenkins),Ford,396.0,running,0.0,22.0
+2016,12,Dover,20.0,28.0,95.0,Michael McDowell,WRL General Contractors (Leavine Family Racing),Chevrolet,396.0,running,0.0,21.0
+2016,12,Dover,21.0,24.0,1.0,Jamie McMurray,McDonald's / Cessna (Chip Ganassi),Chevrolet,395.0,running,0.0,20.0
+2016,12,Dover,22.0,22.0,22.0,Joey Logano,Shell / Pennzoil (Roger Penske),Ford,391.0,running,2.0,20.0
+2016,12,Dover,23.0,20.0,47.0,A.J. Allmendinger,Bush's Beans / Kingsford (JTG-Daugherty Racing),Chevrolet,391.0,running,0.0,18.0
+2016,12,Dover,24.0,17.0,44.0,Brian Scott,Acme / Shore Lodge (Richard Petty Motorsports),Ford,390.0,running,0.0,17.0
+2016,12,Dover,25.0,21.0,48.0,Jimmie Johnson,Lowe's (Rick Hendrick),Chevrolet,387.0,running,4.0,17.0
+2016,12,Dover,26.0,26.0,13.0,Casey Mears,GEICO (Germain Racing),Chevrolet,374.0,running,0.0,15.0
+2016,12,Dover,27.0,36.0,98.0,Cole Whitt,Vydox Plus (Jay Robinson),Chevrolet,364.0,vibration,0.0,14.0
+2016,12,Dover,28.0,4.0,19.0,Carl Edwards,Stanley Tools / Ace / DeWalt (Joe Gibbs),Toyota,359.0,crash,27.0,14.0
+2016,12,Dover,29.0,16.0,16.0,Greg Biffle,Kleen Performance Products (Jack Roush),Ford,355.0,crash,6.0,13.0
+2016,12,Dover,30.0,3.0,18.0,Kyle Busch,Pedigree (Joe Gibbs),Toyota,354.0,crash,0.0,11.0
+2016,12,Dover,31.0,15.0,43.0,Aric Almirola,Smithfield (Richard Petty Motorsports),Ford,354.0,crash,0.0,10.0
+2016,12,Dover,32.0,2.0,88.0,"Dale Earnhardt, Jr.",Nationwide Insurance (Rick Hendrick),Chevrolet,354.0,crash,0.0,9.0
+2016,12,Dover,33.0,12.0,3.0,Austin Dillon,AAA (Richard Childress),Chevrolet,345.0,running,0.0,8.0
+2016,12,Dover,34.0,34.0,14.0,Tony Stewart,Code 3 Associates / Mobil 1 (Stewart Haas Racing),Chevrolet,342.0,suspension,0.0,7.0
+2016,12,Dover,35.0,39.0,32.0,Jeffrey Earnhardt,Alpha Canvas / CorvetteParts.net (Archie St. Hilaire),Ford,334.0,running,0.0,6.0
+2016,12,Dover,36.0,40.0,30.0,Josh Wise,Curtis Key Plumbing / Key Realty Group (Curtis Key),Chevrolet,331.0,running,0.0,5.0
+2016,12,Dover,37.0,37.0,46.0,Michael Annett,"Pilot / Flying J (Harry Scott, Jr.)",Chevrolet,223.0,crash,0.0,4.0
+2016,12,Dover,38.0,38.0,55.0,Reed Sorenson,World Record Striper Company / Hauling Bass! (Jay Robinson),Chevrolet,204.0,crash,0.0,3.0
+2016,12,Dover,39.0,33.0,7.0,Regan Smith,"Advanced Patient Care (Tommy Baldwin, Jr.)",Chevrolet,139.0,crash,0.0,2.0
+2016,12,Dover,40.0,29.0,83.0,Matt DiBenedetto,Cosmo Motors (BK Racing),Toyota,116.0,crash,0.0,1.0
+2016,13,Charlotte,1.0,1.0,78.0,Martin Truex Jr,Bass Pro Shops / Tracker Boats / USO (Barney Visser),Toyota,400.0,running,392.0,45.0
+2016,13,Charlotte,2.0,8.0,4.0,Kevin Harvick,Jimmy John's (Stewart Haas Racing),Chevrolet,400.0,running,0.0,39.0
+2016,13,Charlotte,3.0,7.0,48.0,Jimmie Johnson,Lowe's Patriotic (Rick Hendrick),Chevrolet,400.0,running,5.0,39.0
+2016,13,Charlotte,4.0,4.0,11.0,Denny Hamlin,FedEx Freight (Joe Gibbs),Toyota,400.0,running,0.0,37.0
+2016,13,Charlotte,5.0,5.0,2.0,Brad Keselowski,Miller Lite Patriotic (Roger Penske),Ford,400.0,running,0.0,36.0
+2016,13,Charlotte,6.0,13.0,41.0,Kurt Busch,Monster Energy / Haas Automation (Stewart Haas Racing),Chevrolet,400.0,running,0.0,35.0
+2016,13,Charlotte,7.0,27.0,20.0,Matt Kenseth,"DeWalt ""Made in the U.S.A."" (Joe Gibbs)",Toyota,400.0,running,0.0,34.0
+2016,13,Charlotte,8.0,12.0,24.0,Chase Elliott,NAPA Auto Parts (Rick Hendrick),Chevrolet,400.0,running,0.0,33.0
+2016,13,Charlotte,9.0,2.0,22.0,Joey Logano,Shell / Pennzoil (Roger Penske),Ford,400.0,running,1.0,33.0
+2016,13,Charlotte,10.0,14.0,31.0,Ryan Newman,Whelen Engineering (Richard Childress),Chevrolet,400.0,running,0.0,31.0
+2016,13,Charlotte,11.0,6.0,16.0,Greg Biffle,Cheez-It Patriotic (Jack Roush),Ford,400.0,running,0.0,15.0
+2016,13,Charlotte,12.0,28.0,3.0,Austin Dillon,Cheerios / Lee's East Rowan Cafe (Richard Childress),Chevrolet,400.0,running,0.0,29.0
+2016,13,Charlotte,13.0,24.0,42.0,Kyle Larson,Target / Clorox Indy 500 Throwback (Chip Ganassi),Chevrolet,400.0,running,0.0,28.0
+2016,13,Charlotte,14.0,25.0,88.0,"Dale Earnhardt, Jr.",Nationwide Stars & Stripes (Rick Hendrick),Chevrolet,400.0,running,0.0,27.0
+2016,13,Charlotte,15.0,3.0,17.0,Ricky Stenhouse Jr,Wypall / Fastenal Patriotic (Jack Roush),Ford,400.0,running,0.0,26.0
+2016,13,Charlotte,16.0,15.0,47.0,A.J. Allmendinger,Harris Teeter / Bush's Beans / Kingsford (JTG-Daugherty Racing),Chevrolet,399.0,running,0.0,25.0
+2016,13,Charlotte,17.0,11.0,27.0,Paul Menard,Knauf / Menards (Richard Childress),Chevrolet,399.0,running,2.0,25.0
+2016,13,Charlotte,18.0,9.0,19.0,Carl Edwards,Subway (Joe Gibbs),Toyota,399.0,running,0.0,23.0
+2016,13,Charlotte,19.0,23.0,1.0,Jamie McMurray,SEL / McDonald's (Chip Ganassi),Chevrolet,399.0,running,0.0,22.0
+2016,13,Charlotte,20.0,18.0,21.0,Ryan Blaney,Motorcraft / Quick Lane Tire & Auto Center (Wood Brothers),Ford,397.0,running,0.0,21.0
+2016,13,Charlotte,21.0,19.0,10.0,Danica Patrick,Nature's Bakery Camo (Stewart Haas Racing),Chevrolet,396.0,running,0.0,20.0
+2016,13,Charlotte,22.0,29.0,5.0,Kasey Kahne,LiftMaster (Rick Hendrick),Chevrolet,395.0,running,0.0,19.0
+2016,13,Charlotte,23.0,26.0,15.0,Clint Bowyer,"5-hour Energy (Harry Scott, Jr.)",Chevrolet,395.0,running,0.0,18.0
+2016,13,Charlotte,24.0,21.0,14.0,Tony Stewart,Mobil 1 (Stewart Haas Racing),Chevrolet,395.0,running,0.0,17.0
+2016,13,Charlotte,25.0,10.0,6.0,Trevor Bayne,AdvoCare (Jack Roush),Ford,395.0,running,0.0,16.0
+2016,13,Charlotte,26.0,20.0,43.0,Aric Almirola,U.S. Air Force (Richard Petty Motorsports),Ford,395.0,running,0.0,15.0
+2016,13,Charlotte,27.0,33.0,38.0,Landon Cassill,MDS Transport / We Hire Vets (Bob Jenkins),Ford,395.0,running,0.0,14.0
+2016,13,Charlotte,28.0,31.0,7.0,Regan Smith,"Nikko RC / Toy State (Tommy Baldwin, Jr.)",Chevrolet,395.0,running,0.0,13.0
+2016,13,Charlotte,29.0,30.0,44.0,Brian Scott,Twisted Tea (Richard Petty Motorsports),Ford,394.0,running,0.0,12.0
+2016,13,Charlotte,30.0,17.0,13.0,Casey Mears,GEICO Military (Germain Racing),Chevrolet,394.0,running,0.0,11.0
+2016,13,Charlotte,31.0,35.0,23.0,David Ragan,Bubba Burger / We Salute You (BK Racing),Toyota,393.0,running,0.0,10.0
+2016,13,Charlotte,32.0,34.0,83.0,Matt DiBenedetto,Hope For The Warriors / Cosmo Motors (BK Racing),Toyota,393.0,running,0.0,9.0
+2016,13,Charlotte,33.0,16.0,18.0,Kyle Busch,"M&M's Red, White & Blue (Joe Gibbs)",Toyota,392.0,crash,0.0,8.0
+2016,13,Charlotte,34.0,32.0,95.0,Michael McDowell,Thrivent Financial Patriotic (Leavine Family Racing),Chevrolet,391.0,running,0.0,7.0
+2016,13,Charlotte,35.0,36.0,98.0,Cole Whitt,Fun Chaser by Carolina Skiff (Jay Robinson),Chevrolet,391.0,running,0.0,6.0
+2016,13,Charlotte,36.0,38.0,46.0,Michael Annett,"Pilot / Flying J (Harry Scott, Jr.)",Chevrolet,390.0,running,0.0,5.0
+2016,13,Charlotte,37.0,22.0,34.0,Chris Buescher,"CSX ""Proud to Hire Our Veterans"" (Bob Jenkins)",Ford,388.0,running,0.0,4.0
+2016,13,Charlotte,38.0,37.0,30.0,Josh Wise,The Motorsports Group (Curtis Key),Chevrolet,387.0,running,0.0,3.0
+2016,13,Charlotte,39.0,39.0,32.0,Jeffrey Earnhardt,Can-Am / Kappa (Archie St. Hilaire),Ford,382.0,running,0.0,2.0
+2016,13,Charlotte,40.0,40.0,55.0,Reed Sorenson,World Record Striper Company / Hauling Bass (Jay Robinson),Chevrolet,200.0,clutch,0.0,1.0
+2016,14,Pocono,1.0,9.0,41.0,Kurt Busch,Monster Energy / Haas Automation (Stewart Haas Racing),Chevrolet,160.0,running,32.0,44.0
+2016,14,Pocono,2.0,8.0,88.0,"Dale Earnhardt, Jr.",Axalta (Rick Hendrick),Chevrolet,160.0,running,4.0,40.0
+2016,14,Pocono,3.0,1.0,2.0,Brad Keselowski,Miller Lite (Roger Penske),Ford,160.0,running,0.0,38.0
+2016,14,Pocono,4.0,13.0,24.0,Chase Elliott,NAPA Auto Parts (Rick Hendrick),Chevrolet,160.0,running,51.0,39.0
+2016,14,Pocono,5.0,2.0,22.0,Joey Logano,Shell / Pennzoil (Roger Penske),Ford,160.0,running,17.0,37.0
+2016,14,Pocono,6.0,11.0,5.0,Kasey Kahne,Farmers Insurance (Rick Hendrick),Chevrolet,160.0,running,0.0,35.0
+2016,14,Pocono,7.0,3.0,20.0,Matt Kenseth,Dollar General (Joe Gibbs),Toyota,160.0,running,31.0,35.0
+2016,14,Pocono,8.0,5.0,19.0,Carl Edwards,Arris Surfboard (Joe Gibbs),Toyota,160.0,running,0.0,33.0
+2016,14,Pocono,9.0,4.0,4.0,Kevin Harvick,Jimmy John's (Stewart Haas Racing),Chevrolet,160.0,running,9.0,33.0
+2016,14,Pocono,10.0,14.0,21.0,Ryan Blaney,Motorcraft / Quick Lane Tire & Auto Center (Wood Brothers),Ford,160.0,running,0.0,31.0
+2016,14,Pocono,11.0,21.0,42.0,Kyle Larson,Target / Cottonelle (Chip Ganassi),Chevrolet,160.0,running,8.0,31.0
+2016,14,Pocono,12.0,22.0,31.0,Ryan Newman,Kalahari Resorts & Conventions (Richard Childress),Chevrolet,160.0,running,0.0,29.0
+2016,14,Pocono,13.0,24.0,6.0,Trevor Bayne,AdvoCare (Jack Roush),Ford,160.0,running,0.0,28.0
+2016,14,Pocono,14.0,10.0,11.0,Denny Hamlin,FedEx Ground (Joe Gibbs),Toyota,160.0,running,0.0,27.0
+2016,14,Pocono,15.0,25.0,17.0,Ricky Stenhouse Jr,Sunny D (Jack Roush),Ford,160.0,running,0.0,26.0
+2016,14,Pocono,16.0,32.0,47.0,A.J. Allmendinger,Bush's Grillin' Beans / Kingsford / Scott (JTG-Daugherty Racing),Chevrolet,160.0,running,2.0,26.0
+2016,14,Pocono,17.0,26.0,1.0,Jamie McMurray,Cessna / Beechcraft (Chip Ganassi),Chevrolet,160.0,running,0.0,24.0
+2016,14,Pocono,18.0,23.0,15.0,Clint Bowyer,"Visine (Harry Scott, Jr.)",Chevrolet,160.0,running,0.0,23.0
+2016,14,Pocono,19.0,17.0,78.0,Martin Truex Jr,Furniture Row / Denver Mattress (Barney Visser),Toyota,160.0,running,0.0,22.0
+2016,14,Pocono,20.0,16.0,43.0,Aric Almirola,Smithfield (Richard Petty Motorsports),Ford,160.0,running,0.0,21.0
+2016,14,Pocono,21.0,28.0,95.0,Ty Dillon,BVT / Blake's Snow Shack (Leavine Family Racing),Chevrolet,160.0,running,3.0,0.0
+2016,14,Pocono,22.0,35.0,7.0,Regan Smith,"Advanced Patient Care (Tommy Baldwin, Jr.)",Chevrolet,160.0,running,0.0,19.0
+2016,14,Pocono,23.0,34.0,23.0,David Ragan,Dr. Pepper (BK Racing),Toyota,160.0,running,0.0,18.0
+2016,14,Pocono,24.0,29.0,13.0,Casey Mears,GEICO (Germain Racing),Chevrolet,160.0,running,0.0,17.0
+2016,14,Pocono,25.0,18.0,34.0,Chris Buescher,Dockside Logistics (Bob Jenkins),Ford,159.0,running,0.0,16.0
+2016,14,Pocono,26.0,15.0,16.0,Greg Biffle,Ford EcoBoost (Jack Roush),Ford,159.0,running,0.0,15.0
+2016,14,Pocono,27.0,38.0,30.0,Josh Wise,The Motorsports Group (Curtis Key),Chevrolet,159.0,running,0.0,14.0
+2016,14,Pocono,28.0,40.0,98.0,Reed Sorenson,Hilton Scranton & Conference Center (Jay Robinson),Chevrolet,159.0,running,0.0,13.0
+2016,14,Pocono,29.0,39.0,32.0,Jeb Burton,Rocky Ridge Custom Trucks (Archie St. Hilaire),Ford,158.0,running,0.0,0.0
+2016,14,Pocono,30.0,37.0,55.0,Cole Whitt,Vydox Plus (Jay Robinson),Chevrolet,155.0,rear gear,0.0,11.0
+2016,14,Pocono,31.0,12.0,18.0,Kyle Busch,M&M's 75th Anniversary (Joe Gibbs),Toyota,150.0,running,3.0,11.0
+2016,14,Pocono,32.0,33.0,10.0,Danica Patrick,Nature's Bakery / Fox Sports GO (Stewart Haas Racing),Chevrolet,145.0,running,0.0,9.0
+2016,14,Pocono,33.0,20.0,27.0,Paul Menard,Richmond / Menards (Richard Childress),Chevrolet,135.0,running,0.0,8.0
+2016,14,Pocono,34.0,6.0,14.0,Tony Stewart,Bass Pro Shops / Tracker Boats (Stewart Haas Racing),Chevrolet,131.0,running,0.0,7.0
+2016,14,Pocono,35.0,7.0,48.0,Jimmie Johnson,Lowe's (Rick Hendrick),Chevrolet,125.0,crash,0.0,6.0
+2016,14,Pocono,36.0,31.0,38.0,Landon Cassill,MDS Transport (Bob Jenkins),Ford,121.0,running,0.0,5.0
+2016,14,Pocono,37.0,19.0,3.0,Austin Dillon,Dow / STEM Ambassadors (Richard Childress),Chevrolet,117.0,crash,0.0,4.0
+2016,14,Pocono,38.0,36.0,46.0,Michael Annett,"All State Peterbilt (Harry Scott, Jr.)",Chevrolet,102.0,crash,0.0,3.0
+2016,14,Pocono,39.0,30.0,44.0,Brian Scott,Medallion Financial (Richard Petty Motorsports),Ford,81.0,running,0.0,2.0
+2016,14,Pocono,40.0,27.0,83.0,Matt DiBenedetto,E.J. Wade Construction (BK Racing),Toyota,57.0,crash,0.0,1.0
+2016,15,Michigan,1.0,1.0,22.0,Joey Logano,Shell / Pennzoil (Roger Penske),Ford,200.0,running,138.0,45.0
+2016,15,Michigan,2.0,10.0,24.0,Chase Elliott,NAPA Auto Parts (Rick Hendrick),Chevrolet,200.0,running,35.0,40.0
+2016,15,Michigan,3.0,7.0,42.0,Kyle Larson,Target / Clorox (Chip Ganassi),Chevrolet,200.0,running,1.0,24.0
+2016,15,Michigan,4.0,15.0,2.0,Brad Keselowski,Miller Lite (Roger Penske),Ford,200.0,running,10.0,38.0
+2016,15,Michigan,5.0,29.0,4.0,Kevin Harvick,Outback Steakhouse (Stewart Haas Racing),Chevrolet,200.0,running,0.0,36.0
+2016,15,Michigan,6.0,11.0,19.0,Carl Edwards,Subway (Joe Gibbs),Toyota,200.0,running,0.0,35.0
+2016,15,Michigan,7.0,3.0,14.0,Tony Stewart,Rush Truck Centers / Mobil 1 (Stewart Haas Racing),Chevrolet,200.0,running,0.0,34.0
+2016,15,Michigan,8.0,8.0,3.0,Austin Dillon,Dow Salutes Veterans (Richard Childress),Chevrolet,200.0,running,0.0,33.0
+2016,15,Michigan,9.0,14.0,1.0,Jamie McMurray,McDonald's (Chip Ganassi),Chevrolet,200.0,running,0.0,32.0
+2016,15,Michigan,10.0,17.0,41.0,Kurt Busch,Haas Automation / Monster Energy (Stewart Haas Racing),Chevrolet,200.0,running,0.0,31.0
+2016,15,Michigan,11.0,6.0,31.0,Ryan Newman,Grainger (Richard Childress),Chevrolet,200.0,running,1.0,31.0
+2016,15,Michigan,12.0,2.0,78.0,Martin Truex Jr,Furniture Row / Denver Mattress (Barney Visser),Toyota,200.0,running,10.0,30.0
+2016,15,Michigan,13.0,23.0,5.0,Kasey Kahne,Farmers Insurance (Rick Hendrick),Chevrolet,200.0,running,0.0,28.0
+2016,15,Michigan,14.0,19.0,20.0,Matt Kenseth,Dollar General (Joe Gibbs),Toyota,200.0,running,0.0,27.0
+2016,15,Michigan,15.0,13.0,6.0,Trevor Bayne,AdvoCare (Jack Roush),Ford,200.0,running,0.0,26.0
+2016,15,Michigan,16.0,16.0,48.0,Jimmie Johnson,Lowe's / Kobalt Tools (Rick Hendrick),Chevrolet,200.0,running,4.0,26.0
+2016,15,Michigan,17.0,5.0,21.0,Ryan Blaney,Motorcraft / Quick Lane Tire & Auto Center (Wood Brothers),Ford,200.0,running,0.0,24.0
+2016,15,Michigan,18.0,32.0,27.0,Paul Menard,Knauf / Menards (Richard Childress),Chevrolet,200.0,running,1.0,24.0
+2016,15,Michigan,19.0,18.0,16.0,Greg Biffle,Ford EcoBoost (Jack Roush),Ford,200.0,running,0.0,22.0
+2016,15,Michigan,20.0,22.0,34.0,Chris Buescher,"CSX ""Play it Safe"" (Bob Jenkins)",Ford,200.0,running,0.0,21.0
+2016,15,Michigan,21.0,25.0,10.0,Danica Patrick,Nature's Bakery (Stewart Haas Racing),Chevrolet,200.0,running,0.0,20.0
+2016,15,Michigan,22.0,35.0,23.0,David Ragan,Weaver Media (BK Racing),Toyota,200.0,running,0.0,19.0
+2016,15,Michigan,23.0,34.0,15.0,Clint Bowyer,"5-hour Energy (Harry Scott, Jr.)",Chevrolet,200.0,running,0.0,18.0
+2016,15,Michigan,24.0,21.0,95.0,Ty Dillon,Red Kap / Nexteer Automotive (Leavine Family Racing),Chevrolet,200.0,running,0.0,0.0
+2016,15,Michigan,25.0,28.0,38.0,Landon Cassill,MDS Transport (Bob Jenkins),Ford,200.0,running,0.0,16.0
+2016,15,Michigan,26.0,30.0,43.0,Aric Almirola,Smithfield (Richard Petty Motorsports),Ford,200.0,running,0.0,15.0
+2016,15,Michigan,27.0,36.0,55.0,Cole Whitt,Vydox Plus Extra Strength (Jay Robinson),Chevrolet,200.0,running,0.0,14.0
+2016,15,Michigan,28.0,39.0,46.0,Michael Annett,"Allstate Peterbilt Group (Harry Scott, Jr.)",Chevrolet,200.0,running,0.0,13.0
+2016,15,Michigan,29.0,12.0,17.0,Ricky Stenhouse Jr,Fifth Third Bank (Jack Roush),Ford,199.0,running,0.0,12.0
+2016,15,Michigan,30.0,37.0,30.0,Josh Wise,The Motorsports Group (Curtis Key),Chevrolet,197.0,running,0.0,11.0
+2016,15,Michigan,31.0,40.0,98.0,Reed Sorenson,Premium Motorsports (Jay Robinson),Chevrolet,194.0,running,0.0,10.0
+2016,15,Michigan,32.0,24.0,13.0,Casey Mears,GEICO (Germain Racing),Chevrolet,189.0,running,0.0,9.0
+2016,15,Michigan,33.0,4.0,11.0,Denny Hamlin,FedEx Office (Joe Gibbs),Toyota,188.0,crash,0.0,8.0
+2016,15,Michigan,34.0,31.0,83.0,Matt DiBenedetto,Cosmo Motors (BK Racing),Toyota,185.0,crash,0.0,7.0
+2016,15,Michigan,35.0,33.0,7.0,Regan Smith,"Nikko RC / Toy State (Tommy Baldwin, Jr.)",Chevrolet,179.0,running,0.0,6.0
+2016,15,Michigan,36.0,26.0,44.0,Brian Scott,Albertson's / Shore Lodge (Richard Petty Motorsports),Ford,154.0,crash,0.0,5.0
+2016,15,Michigan,37.0,38.0,32.0,Jeffrey Earnhardt,Can-Am / Kappa (Archie St. Hilaire),Ford,101.0,crash,0.0,4.0
+2016,15,Michigan,38.0,20.0,47.0,A.J. Allmendinger,Kroger / Hungry Jack / Crisco (JTG-Daugherty Racing),Chevrolet,62.0,crash,0.0,3.0
+2016,15,Michigan,39.0,27.0,88.0,"Dale Earnhardt, Jr.",Axalta (Rick Hendrick),Chevrolet,61.0,crash,0.0,2.0
+2016,15,Michigan,40.0,9.0,18.0,Kyle Busch,"M&M's Red, White & Blue (Joe Gibbs)",Toyota,52.0,engine,0.0,1.0
+2016,16,Sonoma,1.0,10.0,14.0,Tony Stewart,Code 3 Associates / Mobil 1 (Stewart Haas Racing),Chevrolet,110.0,running,22.0,44.0
+2016,16,Sonoma,2.0,6.0,11.0,Denny Hamlin,FedEx Cares (Joe Gibbs),Toyota,110.0,running,33.0,41.0
+2016,16,Sonoma,3.0,7.0,22.0,Joey Logano,Shell / Pennzoil (Roger Penske),Ford,110.0,running,0.0,38.0
+2016,16,Sonoma,4.0,1.0,19.0,Carl Edwards,Stanley Tools (Joe Gibbs),Toyota,110.0,running,24.0,38.0
+2016,16,Sonoma,5.0,3.0,78.0,Martin Truex Jr,Furniture Row / Denver Mattress (Barney Visser),Toyota,110.0,running,0.0,36.0
+2016,16,Sonoma,6.0,25.0,4.0,Kevin Harvick,Mobil 1 (Stewart Haas Racing),Chevrolet,110.0,running,3.0,36.0
+2016,16,Sonoma,7.0,8.0,18.0,Kyle Busch,M&M's 75th Anniversary (Joe Gibbs),Toyota,110.0,running,2.0,35.0
+2016,16,Sonoma,8.0,17.0,31.0,Ryan Newman,Wix Filters (Richard Childress),Chevrolet,110.0,running,0.0,33.0
+2016,16,Sonoma,9.0,19.0,5.0,Kasey Kahne,Great Clips / Shark Week (Rick Hendrick),Chevrolet,110.0,running,0.0,32.0
+2016,16,Sonoma,10.0,4.0,41.0,Kurt Busch,Monster Energy / Haas Automation (Stewart Haas Racing),Chevrolet,110.0,running,0.0,31.0
+2016,16,Sonoma,11.0,13.0,88.0,"Dale Earnhardt, Jr.",Axalta (Rick Hendrick),Chevrolet,110.0,running,0.0,30.0
+2016,16,Sonoma,12.0,5.0,42.0,Kyle Larson,Target / Clorox (Chip Ganassi),Chevrolet,110.0,running,0.0,29.0
+2016,16,Sonoma,13.0,15.0,48.0,Jimmie Johnson,Lowe's (Rick Hendrick),Chevrolet,110.0,running,0.0,28.0
+2016,16,Sonoma,14.0,2.0,47.0,A.J. Allmendinger,Ralph's / Kingsford / Clorox / Scott Prod. (JTG-Daugherty Racing),Chevrolet,110.0,running,20.0,28.0
+2016,16,Sonoma,15.0,12.0,2.0,Brad Keselowski,Alliance Truck Parts (Roger Penske),Ford,110.0,running,0.0,26.0
+2016,16,Sonoma,16.0,9.0,27.0,Paul Menard,Richmond / Menards (Richard Childress),Chevrolet,110.0,running,3.0,26.0
+2016,16,Sonoma,17.0,21.0,1.0,Jamie McMurray,Cessna / Beechcraft (Chip Ganassi),Chevrolet,110.0,running,0.0,24.0
+2016,16,Sonoma,18.0,32.0,16.0,Greg Biffle,Performance Plus Motor Oil (Jack Roush),Ford,110.0,running,0.0,23.0
+2016,16,Sonoma,19.0,11.0,10.0,Danica Patrick,Nature's Bakery (Stewart Haas Racing),Chevrolet,110.0,running,3.0,23.0
+2016,16,Sonoma,20.0,23.0,20.0,Matt Kenseth,Dollar General (Joe Gibbs),Toyota,110.0,running,0.0,21.0
+2016,16,Sonoma,21.0,16.0,24.0,Chase Elliott,3M (Rick Hendrick),Chevrolet,110.0,running,0.0,20.0
+2016,16,Sonoma,22.0,24.0,3.0,Austin Dillon,Dow Insulation Science / Utility Trailers (Richard Childress),Chevrolet,110.0,running,0.0,19.0
+2016,16,Sonoma,23.0,26.0,21.0,Ryan Blaney,Motorcraft / Quick Lane Tire & Auto Center (Wood Brothers),Ford,110.0,running,0.0,18.0
+2016,16,Sonoma,24.0,14.0,13.0,Casey Mears,GEICO (Germain Racing),Chevrolet,110.0,running,0.0,17.0
+2016,16,Sonoma,25.0,28.0,6.0,Trevor Bayne,AdvoCare (Jack Roush),Ford,110.0,running,0.0,16.0
+2016,16,Sonoma,26.0,27.0,17.0,Ricky Stenhouse Jr,Lenox Industrial Tools / Fastenal (Jack Roush),Ford,110.0,running,0.0,15.0
+2016,16,Sonoma,27.0,29.0,43.0,Aric Almirola,Smithfield (Richard Petty Motorsports),Ford,110.0,running,0.0,14.0
+2016,16,Sonoma,28.0,31.0,7.0,Regan Smith,"Nikko / Road Rippers Monster Shark (Tommy Baldwin, Jr.)",Chevrolet,110.0,running,0.0,13.0
+2016,16,Sonoma,29.0,37.0,38.0,Landon Cassill,MDS Transport (Bob Jenkins),Ford,110.0,running,0.0,12.0
+2016,16,Sonoma,30.0,36.0,34.0,Chris Buescher,Love's Travel Stops (Bob Jenkins),Ford,110.0,running,0.0,11.0
+2016,16,Sonoma,31.0,33.0,83.0,Matt DiBenedetto,Dustless Blasting / Elk Grove Toyota (BK Racing),Toyota,110.0,running,0.0,10.0
+2016,16,Sonoma,32.0,30.0,23.0,David Ragan,Dr. Pepper (BK Racing),Toyota,110.0,running,0.0,9.0
+2016,16,Sonoma,33.0,22.0,44.0,Brian Scott,Safeway / Blue Emu / Ritz Triscuit (Richard Petty Motorsports),Ford,110.0,running,0.0,8.0
+2016,16,Sonoma,34.0,35.0,98.0,Cole Whitt,RTIC Coolers (Jay Robinson),Toyota,110.0,running,0.0,7.0
+2016,16,Sonoma,35.0,38.0,93.0,Dylan Lupton,Bell Bros. / Elk Grove Toyota (BK Racing),Toyota,110.0,running,0.0,0.0
+2016,16,Sonoma,36.0,40.0,46.0,Michael Annett,"Pilot / Flying J (Harry Scott, Jr.)",Chevrolet,109.0,running,0.0,5.0
+2016,16,Sonoma,37.0,34.0,32.0,Patrick Carpentier,Can-Am / Kappa (Archie St. Hilaire),Ford,108.0,running,0.0,4.0
+2016,16,Sonoma,38.0,39.0,30.0,Josh Wise,SBC Contractors (Curtis Key),Chevrolet,97.0,engine,0.0,3.0
+2016,16,Sonoma,39.0,20.0,95.0,Michael McDowell,K-LOVE Radio / Malwarebytes (Leavine Family Racing),Chevrolet,91.0,rear gear,0.0,2.0
+2016,16,Sonoma,40.0,18.0,15.0,Clint Bowyer,"5-hour Energy (Harry Scott, Jr.)",Chevrolet,5.0,electrical,0.0,1.0
+2016,17,Daytona,1.0,5.0,2.0,Brad Keselowski,Detroit Genuine Parts (Roger Penske),Ford,161.0,running,115.0,45.0
+2016,17,Daytona,2.0,3.0,18.0,Kyle Busch,Interstate Batteries (Joe Gibbs),Toyota,161.0,running,16.0,40.0
+2016,17,Daytona,3.0,13.0,6.0,Trevor Bayne,AdvoCare (Jack Roush),Ford,161.0,running,0.0,38.0
+2016,17,Daytona,4.0,11.0,22.0,Joey Logano,Shell / Pennzoil (Roger Penske),Ford,161.0,running,6.0,38.0
+2016,17,Daytona,5.0,4.0,17.0,Ricky Stenhouse Jr,Fifth Third Bank (Jack Roush),Ford,161.0,running,0.0,36.0
+2016,17,Daytona,6.0,17.0,42.0,Kyle Larson,Target / Clorox / Banana Boat (Chip Ganassi),Chevrolet,161.0,running,0.0,35.0
+2016,17,Daytona,7.0,6.0,3.0,Austin Dillon,Bass Pro Shops / NRA Museum (Richard Childress),Chevrolet,161.0,running,0.0,34.0
+2016,17,Daytona,8.0,1.0,16.0,Greg Biffle,Ford EcoBoost (Jack Roush),Ford,161.0,running,1.0,34.0
+2016,17,Daytona,9.0,31.0,15.0,Clint Bowyer,"AccuDoc Solutions (Harry Scott, Jr.)",Chevrolet,161.0,running,1.0,33.0
+2016,17,Daytona,10.0,37.0,95.0,Michael McDowell,K-LOVE Radio (Leavine Family Racing),Chevrolet,161.0,running,0.0,31.0
+2016,17,Daytona,11.0,35.0,98.0,Cole Whitt,RTIC Coolers (Jay Robinson),Toyota,161.0,running,0.0,30.0
+2016,17,Daytona,12.0,20.0,13.0,Casey Mears,GEICO Military (Germain Racing),Chevrolet,161.0,running,2.0,30.0
+2016,17,Daytona,13.0,26.0,47.0,A.J. Allmendinger,Kroger / Drumstick / Outshine / Bush's (JTG-Daugherty Racing),Chevrolet,161.0,running,0.0,28.0
+2016,17,Daytona,14.0,12.0,21.0,Ryan Blaney,Motorcraft / Quick Lane Tire & Auto Center (Wood Brothers),Ford,161.0,running,0.0,27.0
+2016,17,Daytona,15.0,14.0,43.0,Aric Almirola,Smithfield (Richard Petty Motorsports),Ford,161.0,running,0.0,26.0
+2016,17,Daytona,16.0,38.0,23.0,David Ragan,Shriners Hospital For Children (BK Racing),Toyota,161.0,running,1.0,26.0
+2016,17,Daytona,17.0,9.0,11.0,Denny Hamlin,FedEx (Joe Gibbs),Toyota,161.0,running,7.0,25.0
+2016,17,Daytona,18.0,23.0,31.0,Ryan Newman,Florida Lottery (Richard Childress),Chevrolet,161.0,running,0.0,23.0
+2016,17,Daytona,19.0,28.0,35.0,David Gilliland,Shaw's Southern Belle Frozen Foods (Bob Jenkins),Ford,161.0,running,0.0,22.0
+2016,17,Daytona,20.0,33.0,46.0,Michael Annett,"Pilot / Flying J Stars & Stripes (Harry Scott, Jr.)",Chevrolet,161.0,running,0.0,21.0
+2016,17,Daytona,21.0,16.0,88.0,"Dale Earnhardt, Jr.",Nationwide Insurance (Rick Hendrick),Chevrolet,161.0,running,0.0,20.0
+2016,17,Daytona,22.0,39.0,55.0,Reed Sorenson,RoyalTeakCollection.com (Jay Robinson),Toyota,161.0,running,0.0,19.0
+2016,17,Daytona,23.0,10.0,41.0,Kurt Busch,Monster Energy / Haas Automation (Stewart Haas Racing),Chevrolet,161.0,running,0.0,18.0
+2016,17,Daytona,24.0,32.0,32.0,Bobby Labonte,#OrlandoUnited / OneOrlando.org (Archie St. Hilaire),Ford,160.0,running,0.0,17.0
+2016,17,Daytona,25.0,2.0,19.0,Carl Edwards,Subway (Joe Gibbs),Toyota,155.0,crash,8.0,17.0
+2016,17,Daytona,26.0,19.0,14.0,Tony Stewart,Bass Pro Shops / Ducks Unlimited (Stewart Haas Racing),Chevrolet,148.0,crash,1.0,16.0
+2016,17,Daytona,27.0,22.0,10.0,Danica Patrick,Nature's Bakery (Stewart Haas Racing),Chevrolet,130.0,running,0.0,14.0
+2016,17,Daytona,28.0,7.0,20.0,Matt Kenseth,DeWalt FlexVolt (Joe Gibbs),Toyota,127.0,running,0.0,13.0
+2016,17,Daytona,29.0,15.0,78.0,Martin Truex Jr,Bass Pro Shops / Tracker Boats / USO (Barney Visser),Toyota,127.0,running,1.0,13.0
+2016,17,Daytona,30.0,18.0,5.0,Kasey Kahne,Great Clips Fight Against Cancer (Rick Hendrick),Chevrolet,122.0,running,0.0,11.0
+2016,17,Daytona,31.0,34.0,38.0,Landon Cassill,Taco Bell (Bob Jenkins),Ford,119.0,running,0.0,10.0
+2016,17,Daytona,32.0,24.0,24.0,Chase Elliott,Sun Energy 1 (Rick Hendrick),Chevrolet,113.0,running,0.0,9.0
+2016,17,Daytona,33.0,36.0,83.0,Matt DiBenedetto,Dustless Blasting (BK Racing),Toyota,108.0,running,0.0,8.0
+2016,17,Daytona,34.0,29.0,1.0,Jamie McMurray,Credit One (Chip Ganassi),Chevrolet,91.0,crash,0.0,7.0
+2016,17,Daytona,35.0,8.0,48.0,Jimmie Johnson,Lowe's Patriotic (Rick Hendrick),Chevrolet,89.0,crash,0.0,6.0
+2016,17,Daytona,36.0,27.0,27.0,Paul Menard,Duracell / Menards (Richard Childress),Chevrolet,89.0,crash,0.0,5.0
+2016,17,Daytona,37.0,30.0,44.0,Brian Scott,Albertson's / Shore Lodge / Huggies (Richard Petty Motorsports),Ford,89.0,crash,0.0,4.0
+2016,17,Daytona,38.0,40.0,7.0,Regan Smith,"Golden Corral (Tommy Baldwin, Jr.)",Chevrolet,89.0,crash,1.0,4.0
+2016,17,Daytona,39.0,21.0,4.0,Kevin Harvick,Busch Beer (Stewart Haas Racing),Chevrolet,89.0,crash,1.0,3.0
+2016,17,Daytona,40.0,25.0,34.0,Chris Buescher,Love's Travel Stops (Bob Jenkins),Ford,89.0,crash,0.0,1.0
+2016,18,Kentucky,1.0,2.0,2.0,Brad Keselowski,Miller Lite (Roger Penske),Ford,267.0,running,75.0,44.0
+2016,18,Kentucky,2.0,5.0,19.0,Carl Edwards,Arris Surfboard (Joe Gibbs),Toyota,267.0,running,0.0,39.0
+2016,18,Kentucky,3.0,14.0,31.0,Ryan Newman,Caterpillar (Richard Childress),Chevrolet,267.0,running,0.0,38.0
+2016,18,Kentucky,4.0,3.0,41.0,Kurt Busch,Monster Energy / Haas Automation (Stewart Haas Racing),Chevrolet,267.0,running,10.0,38.0
+2016,18,Kentucky,5.0,22.0,14.0,Tony Stewart,Rush Truck Centers / Mobil 1 (Stewart Haas Racing),Chevrolet,267.0,running,0.0,36.0
+2016,18,Kentucky,6.0,23.0,16.0,Greg Biffle,KFC (Jack Roush),Ford,267.0,running,0.0,35.0
+2016,18,Kentucky,7.0,16.0,1.0,Jamie McMurray,Cessna / Beechcraft (Chip Ganassi),Chevrolet,267.0,running,0.0,34.0
+2016,18,Kentucky,8.0,11.0,20.0,Matt Kenseth,Dollar General (Joe Gibbs),Toyota,267.0,running,2.0,34.0
+2016,18,Kentucky,9.0,1.0,4.0,Kevin Harvick,Busch Light (Stewart Haas Racing),Chevrolet,267.0,running,128.0,34.0
+2016,18,Kentucky,10.0,7.0,78.0,Martin Truex Jr,Furniture Row / Denver Mattress (Barney Visser),Toyota,267.0,running,46.0,32.0
+2016,18,Kentucky,11.0,17.0,6.0,Trevor Bayne,AdvoCare (Jack Roush),Ford,267.0,running,0.0,30.0
+2016,18,Kentucky,12.0,6.0,18.0,Kyle Busch,M&M's 75th Anniversary (Joe Gibbs),Toyota,267.0,running,0.0,29.0
+2016,18,Kentucky,13.0,13.0,88.0,"Dale Earnhardt, Jr.",Nationwide Children's (Rick Hendrick),Chevrolet,267.0,running,0.0,28.0
+2016,18,Kentucky,14.0,18.0,5.0,Kasey Kahne,Great Clips (Rick Hendrick),Chevrolet,267.0,running,0.0,27.0
+2016,18,Kentucky,15.0,10.0,11.0,Denny Hamlin,FedEx Freight (Joe Gibbs),Toyota,267.0,running,0.0,26.0
+2016,18,Kentucky,16.0,12.0,3.0,Austin Dillon,Dow (Richard Childress),Chevrolet,267.0,running,1.0,26.0
+2016,18,Kentucky,17.0,27.0,10.0,Danica Patrick,Nature's Bakery (Stewart Haas Racing),Chevrolet,266.0,running,2.0,25.0
+2016,18,Kentucky,18.0,24.0,27.0,Paul Menard,Sylvania LED / Menards (Richard Childress),Chevrolet,266.0,running,0.0,23.0
+2016,18,Kentucky,19.0,20.0,42.0,Kyle Larson,Target / Clorox / Banana Boat (Chip Ganassi),Chevrolet,266.0,running,0.0,22.0
+2016,18,Kentucky,20.0,26.0,43.0,Aric Almirola,Smithfield (Richard Petty Motorsports),Ford,266.0,running,0.0,21.0
+2016,18,Kentucky,21.0,36.0,98.0,Cole Whitt,Speed Stick (Jay Robinson),Chevrolet,266.0,running,0.0,20.0
+2016,18,Kentucky,22.0,31.0,23.0,David Ragan,Dr. Pepper (BK Racing),Toyota,265.0,running,2.0,20.0
+2016,18,Kentucky,23.0,25.0,15.0,Clint Bowyer,"AccuDoc Solutions (Harry Scott, Jr.)",Chevrolet,265.0,running,0.0,18.0
+2016,18,Kentucky,24.0,40.0,30.0,Josh Wise,Visone RV (Curtis Key),Chevrolet,264.0,running,0.0,17.0
+2016,18,Kentucky,25.0,30.0,95.0,Ty Dillon,Chevy Summer Sell Down (Leavine Family Racing),Chevrolet,264.0,running,1.0,0.0
+2016,18,Kentucky,26.0,37.0,46.0,Michael Annett,"Pilot / Flying J Stars & Stripes (Harry Scott, Jr.)",Chevrolet,264.0,running,0.0,15.0
+2016,18,Kentucky,27.0,39.0,55.0,Reed Sorenson,Premium Motorsports (Jay Robinson),Chevrolet,262.0,running,0.0,14.0
+2016,18,Kentucky,28.0,38.0,32.0,Jeffrey Earnhardt,Visone RV / Corvetteparts.net (Archie St. Hilaire),Ford,262.0,running,0.0,13.0
+2016,18,Kentucky,29.0,29.0,38.0,Landon Cassill,MDS Transport (Bob Jenkins),Ford,261.0,running,0.0,12.0
+2016,18,Kentucky,30.0,28.0,13.0,Casey Mears,GEICO (Germain Racing),Chevrolet,246.0,running,0.0,11.0
+2016,18,Kentucky,31.0,8.0,24.0,Chase Elliott,NAPA Auto Parts Patriotic (Rick Hendrick),Chevrolet,210.0,running,0.0,10.0
+2016,18,Kentucky,32.0,9.0,48.0,Jimmie Johnson,Lowe's (Rick Hendrick),Chevrolet,208.0,crash,0.0,9.0
+2016,18,Kentucky,33.0,32.0,44.0,Brian Scott,Medallion Bank (Richard Petty Motorsports),Ford,151.0,crash,0.0,8.0
+2016,18,Kentucky,34.0,33.0,7.0,Regan Smith,"Advance Auto Parts / Quaker State (Tommy Baldwin, Jr.)",Chevrolet,150.0,crash,0.0,7.0
+2016,18,Kentucky,35.0,15.0,21.0,Ryan Blaney,Motorcraft / Quick Lane Tire & Auto Center (Wood Brothers),Ford,143.0,running,0.0,6.0
+2016,18,Kentucky,36.0,19.0,47.0,A.J. Allmendinger,Kroger / Clorox / Scott Products (JTG-Daugherty Racing),Chevrolet,103.0,crash,0.0,5.0
+2016,18,Kentucky,37.0,34.0,34.0,Chris Buescher,Love's Travel Stops (Bob Jenkins),Ford,92.0,crash,0.0,4.0
+2016,18,Kentucky,38.0,35.0,83.0,Matt DiBenedetto,Anest Iwata (BK Racing),Toyota,79.0,crash,0.0,3.0
+2016,18,Kentucky,39.0,4.0,22.0,Joey Logano,Shell / Pennzoil / Autotrader (Roger Penske),Ford,52.0,crash,0.0,2.0
+2016,18,Kentucky,40.0,21.0,17.0,Ricky Stenhouse Jr,Fifth Third Bank (Jack Roush),Ford,9.0,crash,0.0,1.0
+2016,19,Loudon,1.0,18.0,20.0,Matt Kenseth,Dollar General (Joe Gibbs),Toyota,301.0,running,38.0,29.0
+2016,19,Loudon,2.0,12.0,14.0,Tony Stewart,Haas Automation (Stewart Haas Racing),Chevrolet,301.0,running,0.0,39.0
+2016,19,Loudon,3.0,6.0,22.0,Joey Logano,Shell / Pennzoil (Roger Penske),Ford,301.0,running,0.0,38.0
+2016,19,Loudon,4.0,8.0,4.0,Kevin Harvick,Jimmy John's (Stewart Haas Racing),Chevrolet,301.0,running,0.0,37.0
+2016,19,Loudon,5.0,28.0,16.0,Greg Biffle,NESN Fuel (Jack Roush),Ford,301.0,running,0.0,36.0
+2016,19,Loudon,6.0,19.0,1.0,Jamie McMurray,Credit One / CreditCards.com (Chip Ganassi),Chevrolet,301.0,running,0.0,35.0
+2016,19,Loudon,7.0,25.0,31.0,Ryan Newman,Whelen Engineering (Richard Childress),Chevrolet,301.0,running,0.0,34.0
+2016,19,Loudon,8.0,2.0,18.0,Kyle Busch,Interstate Batteries (Joe Gibbs),Toyota,301.0,running,133.0,35.0
+2016,19,Loudon,9.0,5.0,11.0,Denny Hamlin,FedEx Office (Joe Gibbs),Toyota,301.0,running,5.0,33.0
+2016,19,Loudon,10.0,22.0,17.0,Ricky Stenhouse Jr,Rustoleum / Fastenal (Jack Roush),Ford,301.0,running,0.0,31.0
+2016,19,Loudon,11.0,14.0,21.0,Ryan Blaney,Motorcraft / Quick Lane Tire & Auto Center (Wood Brothers),Ford,301.0,running,0.0,30.0
+2016,19,Loudon,12.0,1.0,48.0,Jimmie Johnson,Lowe's (Rick Hendrick),Chevrolet,301.0,running,1.0,30.0
+2016,19,Loudon,13.0,15.0,3.0,Austin Dillon,USOC / Dow (Richard Childress),Chevrolet,301.0,running,0.0,28.0
+2016,19,Loudon,14.0,29.0,10.0,Danica Patrick,Nature's Bakery (Stewart Haas Racing),Chevrolet,301.0,running,0.0,27.0
+2016,19,Loudon,15.0,9.0,2.0,Brad Keselowski,Miller Lite (Roger Penske),Ford,301.0,running,1.0,27.0
+2016,19,Loudon,16.0,3.0,78.0,Martin Truex Jr,Furniture Row / Denver Mattress (Barney Visser),Toyota,301.0,running,123.0,26.0
+2016,19,Loudon,17.0,17.0,42.0,Kyle Larson,Target / Clorox (Chip Ganassi),Chevrolet,301.0,running,0.0,24.0
+2016,19,Loudon,18.0,24.0,27.0,Paul Menard,Dutch Boy / Menards (Richard Childress),Chevrolet,301.0,running,0.0,23.0
+2016,19,Loudon,19.0,26.0,43.0,Aric Almirola,Smithfield (Richard Petty Motorsports),Ford,301.0,running,0.0,22.0
+2016,19,Loudon,20.0,13.0,19.0,Carl Edwards,Sport Clips (Joe Gibbs),Toyota,301.0,running,0.0,21.0
+2016,19,Loudon,21.0,10.0,47.0,A.J. Allmendinger,Bush's Grillin' Beans / Kingsford (JTG-Daugherty Racing),Chevrolet,301.0,running,0.0,20.0
+2016,19,Loudon,22.0,4.0,41.0,Kurt Busch,Haas Automation / Monster Energy (Stewart Haas Racing),Chevrolet,301.0,running,0.0,19.0
+2016,19,Loudon,23.0,31.0,6.0,Trevor Bayne,AdvoCare (Jack Roush),Ford,301.0,running,0.0,18.0
+2016,19,Loudon,24.0,32.0,15.0,Clint Bowyer,"5-hour Energy (Harry Scott, Jr.)",Chevrolet,301.0,running,0.0,17.0
+2016,19,Loudon,25.0,11.0,5.0,Kasey Kahne,Quicken Loans (Rick Hendrick),Chevrolet,301.0,running,0.0,16.0
+2016,19,Loudon,26.0,20.0,88.0,Alex Bowman,Nationwide Insurance (Rick Hendrick),Chevrolet,301.0,running,0.0,0.0
+2016,19,Loudon,27.0,21.0,13.0,Casey Mears,GEICO (Germain Racing),Chevrolet,300.0,running,0.0,14.0
+2016,19,Loudon,28.0,30.0,38.0,Landon Cassill,MDS Transport (Bob Jenkins),Ford,299.0,running,0.0,13.0
+2016,19,Loudon,29.0,35.0,34.0,Chris Buescher,"CSX ""Play it Safe"" (Bob Jenkins)",Ford,299.0,running,0.0,12.0
+2016,19,Loudon,30.0,23.0,23.0,David Ragan,Flaming Leprechaun (BK Racing),Toyota,299.0,running,0.0,11.0
+2016,19,Loudon,31.0,16.0,83.0,Matt DiBenedetto,Cosmo Motors (BK Racing),Toyota,299.0,running,0.0,10.0
+2016,19,Loudon,32.0,34.0,7.0,Regan Smith,"APC / Teddy Bear Pools / Nikko RC (Tommy Baldwin, Jr.)",Chevrolet,297.0,running,0.0,9.0
+2016,19,Loudon,33.0,37.0,46.0,Michael Annett,"Pilot / Flying J (Harry Scott, Jr.)",Chevrolet,295.0,running,0.0,8.0
+2016,19,Loudon,34.0,7.0,24.0,Chase Elliott,NAPA Auto Parts (Rick Hendrick),Chevrolet,294.0,running,0.0,7.0
+2016,19,Loudon,35.0,36.0,55.0,Reed Sorenson,Vydox Plus (Jay Robinson),Chevrolet,294.0,running,0.0,6.0
+2016,19,Loudon,36.0,38.0,32.0,Eddie MacDonald,Bentley's Saloon / Wiers GMC-Buick (Archie St. Hilaire),Ford,293.0,running,0.0,5.0
+2016,19,Loudon,37.0,40.0,98.0,Ryan Ellis,14th Star Brewing Co. / Superlite Cars (Jay Robinson),Chevrolet,292.0,running,0.0,0.0
+2016,19,Loudon,38.0,33.0,44.0,Brian Scott,Shaw's / Shore Lodge / Heinz (Richard Petty Motorsports),Ford,278.0,running,0.0,3.0
+2016,19,Loudon,39.0,27.0,95.0,Michael McDowell,Malwarebytes (Leavine Family Racing),Chevrolet,191.0,electrical,0.0,2.0
+2016,19,Loudon,40.0,39.0,30.0,Josh Wise,The Motorsports Group (Curtis Key),Chevrolet,94.0,crash,0.0,1.0
+2016,20,Indianapolis,1.0,1.0,18.0,Kyle Busch,Skittles (Joe Gibbs),Toyota,170.0,running,149.0,45.0
+2016,20,Indianapolis,2.0,18.0,20.0,Matt Kenseth,Dollar General (Joe Gibbs),Toyota,170.0,running,0.0,39.0
+2016,20,Indianapolis,3.0,13.0,48.0,Jimmie Johnson,Lowe's Red Vest (Rick Hendrick),Chevrolet,170.0,running,0.0,38.0
+2016,20,Indianapolis,4.0,4.0,11.0,Denny Hamlin,FedEx Express (Joe Gibbs),Toyota,170.0,running,0.0,37.0
+2016,20,Indianapolis,5.0,10.0,42.0,Kyle Larson,Energizer (Chip Ganassi),Chevrolet,170.0,running,0.0,36.0
+2016,20,Indianapolis,6.0,7.0,4.0,Kevin Harvick,Jimmy John's (Stewart Haas Racing),Chevrolet,170.0,running,0.0,35.0
+2016,20,Indianapolis,7.0,14.0,22.0,Joey Logano,Shell / Pennzoil Mosaic (Roger Penske),Ford,170.0,running,6.0,35.0
+2016,20,Indianapolis,8.0,8.0,78.0,Martin Truex Jr,Auto-Owners Insurance (Barney Visser),Toyota,170.0,running,0.0,33.0
+2016,20,Indianapolis,9.0,12.0,3.0,Austin Dillon,Dow AgroSciences / Mycogen Seeds (Richard Childress),Chevrolet,170.0,running,0.0,32.0
+2016,20,Indianapolis,10.0,23.0,27.0,Paul Menard,Valvoline / Menards (Richard Childress),Chevrolet,170.0,running,0.0,31.0
+2016,20,Indianapolis,11.0,3.0,14.0,Tony Stewart,Mobil 1 / Chevy Summer Sell Down (Stewart Haas Racing),Chevrolet,170.0,running,0.0,30.0
+2016,20,Indianapolis,12.0,16.0,17.0,Ricky Stenhouse Jr,Sunny D (Jack Roush),Ford,170.0,running,0.0,29.0
+2016,20,Indianapolis,13.0,21.0,88.0,Jeff Gordon,Axalta (Rick Hendrick),Chevrolet,170.0,running,0.0,28.0
+2016,20,Indianapolis,14.0,22.0,34.0,Chris Buescher,Dockside Logistics (Bob Jenkins),Ford,170.0,running,0.0,27.0
+2016,20,Indianapolis,15.0,15.0,24.0,Chase Elliott,NAPA Auto Parts (Rick Hendrick),Chevrolet,170.0,running,0.0,26.0
+2016,20,Indianapolis,16.0,11.0,41.0,Kurt Busch,Haas Automation / Monster Energy (Stewart Haas Racing),Chevrolet,170.0,running,0.0,25.0
+2016,20,Indianapolis,17.0,5.0,2.0,Brad Keselowski,Miller Lite (Roger Penske),Ford,170.0,running,15.0,25.0
+2016,20,Indianapolis,18.0,26.0,5.0,Kasey Kahne,Farmers Insurance (Rick Hendrick),Chevrolet,170.0,running,0.0,23.0
+2016,20,Indianapolis,19.0,9.0,1.0,Jamie McMurray,McDonald's / Cessna (Chip Ganassi),Chevrolet,170.0,running,0.0,22.0
+2016,20,Indianapolis,20.0,33.0,38.0,Landon Cassill,Snap Fitness (Bob Jenkins),Ford,169.0,running,0.0,21.0
+2016,20,Indianapolis,21.0,31.0,15.0,Clint Bowyer,"AccuDoc Solutions (Harry Scott, Jr.)",Chevrolet,169.0,running,0.0,20.0
+2016,20,Indianapolis,22.0,24.0,10.0,Danica Patrick,Nature's Bakery (Stewart Haas Racing),Chevrolet,169.0,running,0.0,19.0
+2016,20,Indianapolis,23.0,27.0,95.0,Michael McDowell,Thrivent Financial (Leavine Family Racing),Chevrolet,168.0,running,0.0,18.0
+2016,20,Indianapolis,24.0,34.0,13.0,Casey Mears,GEICO (Germain Racing),Chevrolet,168.0,running,0.0,17.0
+2016,20,Indianapolis,25.0,29.0,43.0,Aric Almirola,Smithfield (Richard Petty Motorsports),Ford,168.0,running,0.0,16.0
+2016,20,Indianapolis,26.0,37.0,7.0,Regan Smith,"Nikko RC / Toy State (Tommy Baldwin, Jr.)",Chevrolet,168.0,running,0.0,15.0
+2016,20,Indianapolis,27.0,32.0,44.0,Brian Scott,Medallion Bank (Richard Petty Motorsports),Ford,168.0,running,0.0,14.0
+2016,20,Indianapolis,28.0,38.0,46.0,Michael Annett,"Allstate Peterbilt Group (Harry Scott, Jr.)",Chevrolet,167.0,running,0.0,13.0
+2016,20,Indianapolis,29.0,35.0,98.0,Cole Whitt,Speed Stick (Jay Robinson),Chevrolet,167.0,running,0.0,12.0
+2016,20,Indianapolis,30.0,20.0,6.0,Trevor Bayne,AdvoCare (Jack Roush),Ford,167.0,running,0.0,11.0
+2016,20,Indianapolis,31.0,6.0,31.0,Ryan Newman,Grainger (Richard Childress),Chevrolet,166.0,crash,0.0,10.0
+2016,20,Indianapolis,32.0,36.0,93.0,Ryan Ellis,ScienceLogic Hybrid Cloud (BK Racing),Toyota,166.0,running,0.0,0.0
+2016,20,Indianapolis,33.0,39.0,55.0,Reed Sorenson,Premium Motorsports (Jay Robinson),Chevrolet,165.0,running,0.0,8.0
+2016,20,Indianapolis,34.0,40.0,32.0,Patrick Carpentier,Can-Am / Kappa (Archie St. Hilaire),Ford,164.0,running,0.0,7.0
+2016,20,Indianapolis,35.0,2.0,19.0,Carl Edwards,Stanley Tools (Joe Gibbs),Toyota,154.0,crash,0.0,6.0
+2016,20,Indianapolis,36.0,17.0,21.0,Ryan Blaney,Motorcraft / Quick Lane Tire & Auto Center (Wood Brothers),Ford,152.0,crash,0.0,5.0
+2016,20,Indianapolis,37.0,28.0,23.0,David Ragan,Brandeis Machinery / Komatsu (BK Racing),Toyota,117.0,crash,0.0,4.0
+2016,20,Indianapolis,38.0,25.0,47.0,A.J. Allmendinger,Kroger / Kingsford / Scott Products (JTG-Daugherty Racing),Chevrolet,71.0,overheating,0.0,3.0
+2016,20,Indianapolis,39.0,19.0,16.0,Greg Biffle,Performance Plus Motor Oil (Jack Roush),Ford,53.0,crash,0.0,2.0
+2016,20,Indianapolis,40.0,30.0,83.0,Matt DiBenedetto,ScienceLogic Hybrid Cloud (BK Racing),Toyota,4.0,engine,0.0,1.0
+2016,21,Pocono,1.0,22.0,34.0,Chris Buescher,Dockside Logistics (Bob Jenkins),Ford,138.0,running,12.0,44.0
+2016,21,Pocono,2.0,7.0,2.0,Brad Keselowski,Alliance Truck Parts (Roger Penske),Ford,138.0,running,8.0,40.0
+2016,21,Pocono,3.0,30.0,7.0,Regan Smith,"Advanced Patient Care (Tommy Baldwin, Jr.)",Chevrolet,138.0,running,0.0,38.0
+2016,21,Pocono,4.0,17.0,4.0,Kevin Harvick,Mobil 1 (Stewart Haas Racing),Chevrolet,138.0,running,7.0,38.0
+2016,21,Pocono,5.0,6.0,14.0,Tony Stewart,Mobil 1 (Stewart Haas Racing),Chevrolet,138.0,running,0.0,36.0
+2016,21,Pocono,6.0,11.0,42.0,Kyle Larson,Target / Clorox (Chip Ganassi),Chevrolet,138.0,running,37.0,36.0
+2016,21,Pocono,7.0,4.0,11.0,Denny Hamlin,FedEx Ground (Joe Gibbs),Toyota,138.0,running,0.0,34.0
+2016,21,Pocono,8.0,2.0,19.0,Carl Edwards,Stanley Tools (Joe Gibbs),Toyota,138.0,running,0.0,33.0
+2016,21,Pocono,9.0,16.0,18.0,Kyle Busch,M&M's 75th Anniversary (Joe Gibbs),Toyota,138.0,running,1.0,33.0
+2016,21,Pocono,10.0,15.0,41.0,Kurt Busch,Monster Energy / Haas Automation (Stewart Haas Racing),Chevrolet,138.0,running,0.0,31.0
+2016,21,Pocono,11.0,18.0,21.0,Ryan Blaney,Motorcraft / Quick Lane Tire & Auto Center (Wood Brothers),Ford,138.0,running,0.0,30.0
+2016,21,Pocono,12.0,5.0,31.0,Ryan Newman,Caterpillar (Richard Childress),Chevrolet,138.0,running,1.0,30.0
+2016,21,Pocono,13.0,12.0,3.0,Austin Dillon,American Ethanol E15 (Richard Childress),Chevrolet,138.0,running,3.0,29.0
+2016,21,Pocono,14.0,13.0,47.0,A.J. Allmendinger,Scott Products / Kingsford (JTG-Daugherty Racing),Chevrolet,138.0,running,1.0,28.0
+2016,21,Pocono,15.0,23.0,5.0,Kasey Kahne,Great Clips (Rick Hendrick),Chevrolet,138.0,running,0.0,26.0
+2016,21,Pocono,16.0,21.0,48.0,Jimmie Johnson,Lowe's (Rick Hendrick),Chevrolet,138.0,running,0.0,25.0
+2016,21,Pocono,17.0,9.0,20.0,Matt Kenseth,Dollar General (Joe Gibbs),Toyota,138.0,running,0.0,24.0
+2016,21,Pocono,18.0,14.0,17.0,Ricky Stenhouse Jr,Roush Performance Parts (Jack Roush),Ford,138.0,running,0.0,23.0
+2016,21,Pocono,19.0,31.0,6.0,Trevor Bayne,AdvoCare (Jack Roush),Ford,138.0,running,0.0,22.0
+2016,21,Pocono,20.0,19.0,1.0,Jamie McMurray,Cessna / McDonald's (Chip Ganassi),Chevrolet,138.0,running,0.0,21.0
+2016,21,Pocono,21.0,20.0,13.0,Casey Mears,GEICO (Germain Racing),Chevrolet,138.0,running,0.0,20.0
+2016,21,Pocono,22.0,26.0,10.0,Danica Patrick,Mobil 1 (Stewart Haas Racing),Chevrolet,138.0,running,0.0,19.0
+2016,21,Pocono,23.0,29.0,95.0,Michael McDowell,Malwarebytes (Leavine Family Racing),Chevrolet,138.0,running,0.0,18.0
+2016,21,Pocono,24.0,35.0,44.0,Brian Scott,Medallion Financial (Richard Petty Motorsports),Ford,138.0,running,0.0,17.0
+2016,21,Pocono,25.0,25.0,16.0,Greg Biffle,Ford EcoBoost (Jack Roush),Ford,138.0,running,14.0,17.0
+2016,21,Pocono,26.0,28.0,15.0,Clint Bowyer,"5-hour Energy / Knoxville Nationals (Harry Scott, Jr.)",Chevrolet,138.0,running,0.0,15.0
+2016,21,Pocono,27.0,24.0,88.0,Jeff Gordon,Nationwide Insurance (Rick Hendrick),Chevrolet,138.0,running,0.0,14.0
+2016,21,Pocono,28.0,34.0,83.0,Matt DiBenedetto,E.J. Wade Construction (BK Racing),Toyota,138.0,running,0.0,13.0
+2016,21,Pocono,29.0,39.0,46.0,Michael Annett,"Allstate Peterbilt Group (Harry Scott, Jr.)",Chevrolet,137.0,running,0.0,12.0
+2016,21,Pocono,30.0,32.0,38.0,Landon Cassill,MDS Transport (Bob Jenkins),Ford,137.0,running,0.0,11.0
+2016,21,Pocono,31.0,36.0,98.0,Cole Whitt,Pioneer Parachute / Hilton (Jay Robinson),Chevrolet,137.0,running,0.0,10.0
+2016,21,Pocono,32.0,33.0,23.0,David Ragan,USA Network / Dr. Pepper (BK Racing),Toyota,135.0,running,0.0,9.0
+2016,21,Pocono,33.0,8.0,24.0,Chase Elliott,NAPA Auto Parts (Rick Hendrick),Chevrolet,134.0,running,0.0,8.0
+2016,21,Pocono,34.0,38.0,30.0,Josh Wise,The Motorsports Group (Curtis Key),Chevrolet,132.0,running,0.0,7.0
+2016,21,Pocono,35.0,3.0,27.0,Paul Menard,Moen / Menards (Richard Childress),Chevrolet,119.0,running,0.0,6.0
+2016,21,Pocono,36.0,37.0,32.0,Jeb Burton,Erie Insurance (Archie St. Hilaire),Ford,117.0,running,0.0,0.0
+2016,21,Pocono,37.0,10.0,22.0,Joey Logano,Shell / Pennzoil (Roger Penske),Ford,115.0,running,38.0,6.0
+2016,21,Pocono,38.0,1.0,78.0,Martin Truex Jr,Furniture Row / Denver Mattress (Barney Visser),Toyota,82.0,crash,16.0,4.0
+2016,21,Pocono,39.0,27.0,43.0,Aric Almirola,Smithfield (Richard Petty Motorsports),Ford,66.0,crash,0.0,2.0
+2016,21,Pocono,40.0,40.0,55.0,Reed Sorenson,Vydox Plus (Jay Robinson),Chevrolet,29.0,engine,0.0,1.0
+2016,22,Watkins Glen,1.0,6.0,11.0,Denny Hamlin,FedEx Freight (Joe Gibbs),Toyota,90.0,running,10.0,44.0
+2016,22,Watkins Glen,2.0,7.0,22.0,Joey Logano,Shell / Pennzoil (Roger Penske),Ford,90.0,running,8.0,40.0
+2016,22,Watkins Glen,3.0,12.0,2.0,Brad Keselowski,Miller Lite (Roger Penske),Ford,90.0,running,28.0,40.0
+2016,22,Watkins Glen,4.0,9.0,47.0,A.J. Allmendinger,Kroger / Kingsford / Scott Products (JTG-Daugherty Racing),Chevrolet,90.0,running,0.0,37.0
+2016,22,Watkins Glen,5.0,3.0,14.0,Tony Stewart,Haas Automation (Stewart Haas Racing),Chevrolet,90.0,running,0.0,36.0
+2016,22,Watkins Glen,6.0,5.0,18.0,Kyle Busch,Snickers Crisper (Joe Gibbs),Toyota,90.0,running,4.0,36.0
+2016,22,Watkins Glen,7.0,14.0,78.0,Martin Truex Jr,Furniture Row / Denver Mattress (Barney Visser),Toyota,90.0,running,1.0,35.0
+2016,22,Watkins Glen,8.0,10.0,1.0,Jamie McMurray,McDonald's (Chip Ganassi),Chevrolet,90.0,running,0.0,33.0
+2016,22,Watkins Glen,9.0,32.0,6.0,Trevor Bayne,AdvoCare Spark Blue Raspberry (Jack Roush),Ford,90.0,running,0.0,32.0
+2016,22,Watkins Glen,10.0,4.0,20.0,Matt Kenseth,Dollar General / Matt Kenseth 600th Start (Joe Gibbs),Toyota,90.0,running,0.0,31.0
+2016,22,Watkins Glen,11.0,17.0,41.0,Kurt Busch,Haas Automation / Monster Energy (Stewart Haas Racing),Chevrolet,90.0,running,3.0,31.0
+2016,22,Watkins Glen,12.0,20.0,13.0,Casey Mears,GEICO (Germain Racing),Chevrolet,90.0,running,0.0,29.0
+2016,22,Watkins Glen,13.0,16.0,24.0,Chase Elliott,Sun Energy 1 (Rick Hendrick),Chevrolet,90.0,running,0.0,28.0
+2016,22,Watkins Glen,14.0,21.0,88.0,Jeff Gordon,Axalta (Rick Hendrick),Chevrolet,90.0,running,0.0,27.0
+2016,22,Watkins Glen,15.0,1.0,19.0,Carl Edwards,Stanley Tools (Joe Gibbs),Toyota,90.0,running,25.0,27.0
+2016,22,Watkins Glen,16.0,8.0,31.0,Ryan Newman,Caterpillar (Richard Childress),Chevrolet,90.0,running,0.0,25.0
+2016,22,Watkins Glen,17.0,11.0,95.0,Michael McDowell,Thrivent Financial (Leavine Family Racing),Chevrolet,90.0,running,0.0,24.0
+2016,22,Watkins Glen,18.0,28.0,15.0,Clint Bowyer,"Peak Antifreeze & Coolant (Harry Scott, Jr.)",Chevrolet,90.0,running,0.0,23.0
+2016,22,Watkins Glen,19.0,19.0,21.0,Ryan Blaney,Motorcraft / Quick Lane Tire & Auto Center (Wood Brothers),Ford,90.0,running,0.0,22.0
+2016,22,Watkins Glen,20.0,23.0,5.0,Kasey Kahne,Great Clips (Rick Hendrick),Chevrolet,90.0,running,0.0,21.0
+2016,22,Watkins Glen,21.0,31.0,10.0,Danica Patrick,Nature's Bakery (Stewart Haas Racing),Chevrolet,90.0,running,11.0,21.0
+2016,22,Watkins Glen,22.0,33.0,27.0,Paul Menard,Richmond / Menards (Richard Childress),Chevrolet,90.0,running,0.0,19.0
+2016,22,Watkins Glen,23.0,40.0,38.0,Landon Cassill,MDS Transport (Bob Jenkins),Ford,90.0,running,0.0,18.0
+2016,22,Watkins Glen,24.0,37.0,32.0,Boris Said,Genesee Beer (Archie St. Hilaire),Ford,90.0,running,0.0,17.0
+2016,22,Watkins Glen,25.0,27.0,44.0,Brian Scott,Shaw's / Shore Lodge / Devour (Richard Petty Motorsports),Ford,90.0,running,0.0,16.0
+2016,22,Watkins Glen,26.0,39.0,30.0,Josh Wise,The Motorsports Group (Curtis Key),Chevrolet,90.0,running,0.0,15.0
+2016,22,Watkins Glen,27.0,34.0,43.0,Aric Almirola,Smithfield (Richard Petty Motorsports),Ford,90.0,running,0.0,14.0
+2016,22,Watkins Glen,28.0,22.0,98.0,Cole Whitt,RTIC Coolers (Jay Robinson),Toyota,90.0,running,0.0,13.0
+2016,22,Watkins Glen,29.0,2.0,42.0,Kyle Larson,Target / Clorox (Chip Ganassi),Chevrolet,89.0,running,0.0,12.0
+2016,22,Watkins Glen,30.0,25.0,34.0,Chris Buescher,"CSX ""Play it Safe"" (Bob Jenkins)",Ford,89.0,running,0.0,11.0
+2016,22,Watkins Glen,31.0,18.0,3.0,Austin Dillon,Dow (Richard Childress),Chevrolet,89.0,running,0.0,10.0
+2016,22,Watkins Glen,32.0,15.0,4.0,Kevin Harvick,Busch Beer (Stewart Haas Racing),Chevrolet,83.0,crash,0.0,9.0
+2016,22,Watkins Glen,33.0,26.0,23.0,David Ragan,Dr. Pepper (BK Racing),Toyota,83.0,crash,0.0,8.0
+2016,22,Watkins Glen,34.0,35.0,83.0,Matt DiBenedetto,Dustless Blasting (BK Racing),Toyota,83.0,crash,0.0,7.0
+2016,22,Watkins Glen,35.0,29.0,7.0,Regan Smith,"Advanced Patient Care (Tommy Baldwin, Jr.)",Chevrolet,77.0,running,0.0,6.0
+2016,22,Watkins Glen,36.0,36.0,55.0,Alex Kennedy,Premium Motorsports (Jay Robinson),Chevrolet,76.0,engine,0.0,5.0
+2016,22,Watkins Glen,37.0,38.0,46.0,Michael Annett,"St.Jude Iowa Tournament of Hope (Harry Scott, Jr.)",Chevrolet,74.0,running,0.0,4.0
+2016,22,Watkins Glen,38.0,30.0,17.0,Ricky Stenhouse Jr,Ford EcoBoost (Jack Roush),Ford,52.0,crash,0.0,3.0
+2016,22,Watkins Glen,39.0,24.0,16.0,Greg Biffle,Cheez-It (Jack Roush),Ford,52.0,crash,0.0,2.0
+2016,22,Watkins Glen,40.0,13.0,48.0,Jimmie Johnson,Lowe's / Jimmie Johnson Foundation (Rick Hendrick),Chevrolet,52.0,crash,0.0,1.0
+2016,23,Bristol,1.0,24.0,4.0,Kevin Harvick,Busch Beer (Stewart Haas Racing),Chevrolet,500.0,running,128.0,44.0
+2016,23,Bristol,2.0,25.0,17.0,Ricky Stenhouse Jr,Lenox / Fastenal Bryan Clauson Tribute (Jack Roush),Ford,500.0,running,0.0,39.0
+2016,23,Bristol,3.0,2.0,11.0,Denny Hamlin,FedEx Express (Joe Gibbs),Toyota,500.0,running,19.0,39.0
+2016,23,Bristol,4.0,13.0,3.0,Austin Dillon,Dow (Richard Childress),Chevrolet,500.0,running,0.0,37.0
+2016,23,Bristol,5.0,12.0,34.0,Chris Buescher,Love's Travel Stops (Bob Jenkins),Ford,500.0,running,0.0,36.0
+2016,23,Bristol,6.0,1.0,19.0,Carl Edwards,Stanley Tools (Joe Gibbs),Toyota,500.0,running,31.0,36.0
+2016,23,Bristol,7.0,16.0,48.0,Jimmie Johnson,Lowe's / Kobalt Tools (Rick Hendrick),Chevrolet,500.0,running,0.0,34.0
+2016,23,Bristol,8.0,28.0,1.0,Jamie McMurray,Cessna / McDonald's (Chip Ganassi),Chevrolet,500.0,running,0.0,33.0
+2016,23,Bristol,9.0,8.0,47.0,A.J. Allmendinger,Bush's Grillin' Beans / Kingsford (JTG-Daugherty Racing),Chevrolet,500.0,running,0.0,32.0
+2016,23,Bristol,10.0,10.0,22.0,Joey Logano,Shell / Pennzoil (Roger Penske),Ford,500.0,running,38.0,32.0
+2016,23,Bristol,11.0,11.0,88.0,Jeff Gordon,Axalta (Rick Hendrick),Chevrolet,500.0,running,0.0,30.0
+2016,23,Bristol,12.0,22.0,6.0,Trevor Bayne,AdvoCare (Jack Roush),Ford,500.0,running,0.0,29.0
+2016,23,Bristol,13.0,19.0,5.0,Kasey Kahne,AARP / Drive to End Hunger (Rick Hendrick),Chevrolet,500.0,running,0.0,28.0
+2016,23,Bristol,14.0,17.0,43.0,Aric Almirola,Waffle House (Richard Petty Motorsports),Ford,500.0,running,0.0,27.0
+2016,23,Bristol,15.0,6.0,24.0,Chase Elliott,NAPA Auto Parts (Rick Hendrick),Chevrolet,500.0,running,14.0,27.0
+2016,23,Bristol,16.0,34.0,16.0,Greg Biffle,Ford EcoBoost (Jack Roush),Ford,500.0,running,0.0,25.0
+2016,23,Bristol,17.0,18.0,83.0,Matt DiBenedetto,Cosmo Motors (BK Racing),Toyota,500.0,running,0.0,24.0
+2016,23,Bristol,18.0,30.0,44.0,Brian Scott,Medallion Financial / Jacob Companies (Richard Petty Motorsports),Ford,499.0,running,5.0,24.0
+2016,23,Bristol,19.0,26.0,95.0,Michael McDowell,Thrivent Financial (Leavine Family Racing),Chevrolet,499.0,running,0.0,22.0
+2016,23,Bristol,20.0,32.0,38.0,Landon Cassill,MDS Transport (Bob Jenkins),Ford,497.0,running,0.0,21.0
+2016,23,Bristol,21.0,37.0,23.0,David Ragan,Dr. Pepper (BK Racing),Toyota,497.0,running,0.0,20.0
+2016,23,Bristol,22.0,29.0,10.0,Danica Patrick,Nature's Bakery (Stewart Haas Racing),Chevrolet,496.0,running,0.0,19.0
+2016,23,Bristol,23.0,7.0,78.0,Martin Truex Jr,Bass Pro Shops / NRA Museum (Barney Visser),Toyota,496.0,running,0.0,18.0
+2016,23,Bristol,24.0,23.0,42.0,Kyle Larson,Huggies Little Movers / Target (Chip Ganassi),Chevrolet,495.0,running,0.0,17.0
+2016,23,Bristol,25.0,21.0,13.0,Casey Mears,GEICO (Germain Racing),Chevrolet,495.0,running,0.0,16.0
+2016,23,Bristol,26.0,33.0,7.0,Regan Smith,"Advanced Patient Care (Tommy Baldwin, Jr.)",Chevrolet,491.0,running,0.0,15.0
+2016,23,Bristol,27.0,36.0,55.0,Reed Sorenson,Premium Motorsports (Jay Robinson),Chevrolet,489.0,running,0.0,14.0
+2016,23,Bristol,28.0,15.0,31.0,Ryan Newman,Caterpillar (Richard Childress),Chevrolet,487.0,running,9.0,14.0
+2016,23,Bristol,29.0,38.0,32.0,Jeffrey Earnhardt,Can-Am / Kappa (Archie St. Hilaire),Ford,479.0,running,0.0,12.0
+2016,23,Bristol,30.0,27.0,14.0,Tony Stewart,Haas Automation (Stewart Haas Racing),Chevrolet,471.0,running,0.0,11.0
+2016,23,Bristol,31.0,31.0,15.0,Clint Bowyer,"5-hour Energy (Harry Scott, Jr.)",Chevrolet,470.0,running,0.0,10.0
+2016,23,Bristol,32.0,20.0,27.0,Paul Menard,Knauf / Menards (Richard Childress),Chevrolet,458.0,running,0.0,9.0
+2016,23,Bristol,33.0,9.0,2.0,Brad Keselowski,Autotrader.com (Roger Penske),Ford,458.0,running,0.0,8.0
+2016,23,Bristol,34.0,35.0,98.0,Cole Whitt,Carolina Skiff (Jay Robinson),Chevrolet,442.0,running,0.0,7.0
+2016,23,Bristol,35.0,4.0,21.0,Ryan Blaney,Virginia Tech / Motorcraft (Wood Brothers),Ford,437.0,running,0.0,6.0
+2016,23,Bristol,36.0,40.0,30.0,Josh Wise,Curtis Key Plumbing (Curtis Key),Chevrolet,416.0,running,0.0,5.0
+2016,23,Bristol,37.0,5.0,20.0,Matt Kenseth,Dollar General (Joe Gibbs),Toyota,373.0,crash,0.0,4.0
+2016,23,Bristol,38.0,14.0,41.0,Kurt Busch,Monster Energy / Haas Automation (Stewart Haas Racing),Chevrolet,372.0,crash,0.0,3.0
+2016,23,Bristol,39.0,3.0,18.0,Kyle Busch,M&M's 75th Anniversary (Joe Gibbs),Toyota,357.0,crash,256.0,4.0
+2016,23,Bristol,40.0,39.0,46.0,Justin Allgaier,"Pilot / Flying J / Battle at Bristol (Harry Scott, Jr.)",Chevrolet,354.0,crash,0.0,0.0
+2016,24,Michigan,1.0,12.0,42.0,Kyle Larson,Target / Axe / Clorox (Chip Ganassi),Chevrolet,200.0,running,41.0,45.0
+2016,24,Michigan,2.0,5.0,24.0,Chase Elliott,NAPA Auto Parts (Rick Hendrick),Chevrolet,200.0,running,31.0,40.0
+2016,24,Michigan,3.0,18.0,2.0,Brad Keselowski,Miller Lite / CareersForVeterans.org (Roger Penske),Ford,200.0,running,14.0,29.0
+2016,24,Michigan,4.0,7.0,21.0,Ryan Blaney,Motorcraft / Quick Lane Tire & Auto Center (Wood Brothers),Ford,200.0,running,0.0,37.0
+2016,24,Michigan,5.0,4.0,4.0,Kevin Harvick,Jimmy John's (Stewart Haas Racing),Chevrolet,200.0,running,33.0,37.0
+2016,24,Michigan,6.0,2.0,48.0,Jimmie Johnson,Lowe's (Rick Hendrick),Chevrolet,200.0,running,37.0,36.0
+2016,24,Michigan,7.0,9.0,19.0,Carl Edwards,Arris Surfboard (Joe Gibbs),Toyota,200.0,running,1.0,35.0
+2016,24,Michigan,8.0,8.0,1.0,Jamie McMurray,Cessna (Chip Ganassi),Chevrolet,200.0,running,0.0,33.0
+2016,24,Michigan,9.0,3.0,11.0,Denny Hamlin,FedEx Office (Joe Gibbs),Toyota,200.0,running,0.0,32.0
+2016,24,Michigan,10.0,1.0,22.0,Joey Logano,Shell / Pennzoil (Roger Penske),Ford,200.0,running,24.0,32.0
+2016,24,Michigan,11.0,22.0,16.0,Greg Biffle,Roush Performance Parts / Hines Park Ford (Jack Roush),Ford,200.0,running,1.0,31.0
+2016,24,Michigan,12.0,19.0,41.0,Kurt Busch,Monster Energy / Haas Automation (Stewart Haas Racing),Chevrolet,200.0,running,0.0,29.0
+2016,24,Michigan,13.0,13.0,20.0,Matt Kenseth,Dollar General (Joe Gibbs),Toyota,200.0,running,8.0,29.0
+2016,24,Michigan,14.0,11.0,5.0,Kasey Kahne,Farmers Insurance (Rick Hendrick),Chevrolet,200.0,running,0.0,27.0
+2016,24,Michigan,15.0,25.0,47.0,A.J. Allmendinger,Kroger / Scott Products / Bush's Beans (JTG-Daugherty Racing),Chevrolet,200.0,running,0.0,26.0
+2016,24,Michigan,16.0,17.0,3.0,Austin Dillon,Cheerios / Kroger (Richard Childress),Chevrolet,200.0,running,1.0,26.0
+2016,24,Michigan,17.0,10.0,31.0,Ryan Newman,Freightliner (Richard Childress),Chevrolet,200.0,running,1.0,25.0
+2016,24,Michigan,18.0,20.0,27.0,Paul Menard,Sylvania LED / Menards (Richard Childress),Chevrolet,200.0,running,0.0,23.0
+2016,24,Michigan,19.0,16.0,18.0,Kyle Busch,Interstate Batteries (Joe Gibbs),Toyota,199.0,running,0.0,22.0
+2016,24,Michigan,20.0,14.0,78.0,Martin Truex Jr,Furniture Row / Denver Mattress (Barney Visser),Toyota,199.0,running,7.0,22.0
+2016,24,Michigan,21.0,15.0,14.0,Tony Stewart,Mobil 1 (Stewart Haas Racing),Chevrolet,198.0,running,0.0,20.0
+2016,24,Michigan,22.0,28.0,13.0,Casey Mears,GEICO (Germain Racing),Chevrolet,198.0,running,0.0,19.0
+2016,24,Michigan,23.0,23.0,10.0,Danica Patrick,Aspen Dental (Stewart Haas Racing),Chevrolet,198.0,running,0.0,18.0
+2016,24,Michigan,24.0,24.0,6.0,Trevor Bayne,AdvoCare (Jack Roush),Ford,198.0,running,0.0,17.0
+2016,24,Michigan,25.0,26.0,43.0,Aric Almirola,Smithfield (Richard Petty Motorsports),Ford,198.0,running,0.0,16.0
+2016,24,Michigan,26.0,31.0,7.0,Regan Smith,"Advanced Patient Care / Nikko Road Rippers (Tommy Baldwin, Jr.)",Chevrolet,198.0,running,1.0,16.0
+2016,24,Michigan,27.0,29.0,17.0,Ricky Stenhouse Jr,Zest (Jack Roush),Ford,198.0,running,0.0,14.0
+2016,24,Michigan,28.0,30.0,44.0,Brian Scott,Twisted Tea (Richard Petty Motorsports),Ford,197.0,running,0.0,13.0
+2016,24,Michigan,29.0,32.0,23.0,David Ragan,Dr. Pepper (BK Racing),Toyota,196.0,running,0.0,12.0
+2016,24,Michigan,30.0,6.0,88.0,Alex Bowman,Axalta / University of Michigan (Rick Hendrick),Chevrolet,195.0,running,0.0,0.0
+2016,24,Michigan,31.0,35.0,95.0,Michael McDowell,Thrivent Financial (Leavine Family Racing),Chevrolet,195.0,running,0.0,10.0
+2016,24,Michigan,32.0,34.0,83.0,Matt DiBenedetto,Vector Security (BK Racing),Toyota,195.0,running,0.0,9.0
+2016,24,Michigan,33.0,36.0,46.0,Michael Annett,"Pilot / Flying J (Harry Scott, Jr.)",Chevrolet,195.0,running,0.0,8.0
+2016,24,Michigan,34.0,37.0,98.0,Cole Whitt,Premium Motorsports (Jay Robinson),Chevrolet,194.0,running,0.0,7.0
+2016,24,Michigan,35.0,21.0,34.0,Chris Buescher,Dockside Logistics (Bob Jenkins),Ford,193.0,running,0.0,6.0
+2016,24,Michigan,36.0,39.0,55.0,Reed Sorenson,Vydox Plus Extra Strength (Jay Robinson),Chevrolet,193.0,running,0.0,5.0
+2016,24,Michigan,37.0,40.0,32.0,Jeffrey Earnhardt,KeenParts.com / CorvetteParts.net (Archie St. Hilaire),Ford,192.0,running,0.0,4.0
+2016,24,Michigan,38.0,38.0,30.0,Josh Wise,Westside Vapor / #Abillonlives (Curtis Key),Chevrolet,192.0,running,0.0,3.0
+2016,24,Michigan,39.0,33.0,38.0,Landon Cassill,MDS Transport (Bob Jenkins),Ford,174.0,suspension,0.0,2.0
+2016,24,Michigan,40.0,27.0,15.0,Clint Bowyer,"5-hour Energy (Harry Scott, Jr.)",Chevrolet,160.0,running,0.0,1.0
+2016,25,Darlington,1.0,8.0,78.0,Martin Truex Jr,Auto-Owners Insurance (Barney Visser),Toyota,367.0,running,28.0,44.0
+2016,25,Darlington,2.0,1.0,4.0,Kevin Harvick,Busch Beer (Stewart Haas Racing),Chevrolet,367.0,running,214.0,41.0
+2016,25,Darlington,3.0,16.0,42.0,Kyle Larson,Target / Coca-Cola (Chip Ganassi),Chevrolet,367.0,running,45.0,24.0
+2016,25,Darlington,4.0,7.0,11.0,Denny Hamlin,Sport Clips (Joe Gibbs),Toyota,367.0,running,13.0,38.0
+2016,25,Darlington,5.0,5.0,22.0,Joey Logano,Shell / Pennzoil (Roger Penske),Ford,367.0,running,0.0,36.0
+2016,25,Darlington,6.0,10.0,20.0,Matt Kenseth,Tide Pods (Joe Gibbs),Toyota,367.0,running,10.0,36.0
+2016,25,Darlington,7.0,18.0,5.0,Kasey Kahne,Liftmaster (Rick Hendrick),Chevrolet,367.0,running,0.0,34.0
+2016,25,Darlington,8.0,14.0,31.0,Ryan Newman,Caterpillar (Richard Childress),Chevrolet,367.0,running,9.0,19.0
+2016,25,Darlington,9.0,2.0,2.0,Brad Keselowski,Miller Lite (Roger Penske),Ford,367.0,running,47.0,33.0
+2016,25,Darlington,10.0,11.0,24.0,Chase Elliott,NAPA Auto Parts (Rick Hendrick),Chevrolet,367.0,running,0.0,31.0
+2016,25,Darlington,11.0,6.0,18.0,Kyle Busch,Interstate Batteries (Joe Gibbs),Toyota,367.0,running,1.0,31.0
+2016,25,Darlington,12.0,12.0,3.0,Austin Dillon,American Ethanol E15 (Richard Childress),Chevrolet,367.0,running,0.0,29.0
+2016,25,Darlington,13.0,20.0,21.0,Ryan Blaney,Motorcraft / Quick Lane Tire & Auto Center (Wood Brothers),Ford,367.0,running,0.0,28.0
+2016,25,Darlington,14.0,15.0,88.0,Jeff Gordon,Nationwide Insurance (Rick Hendrick),Chevrolet,367.0,running,0.0,27.0
+2016,25,Darlington,15.0,13.0,1.0,Jamie McMurray,McDonald's Mac Tonight (Chip Ganassi),Chevrolet,367.0,running,0.0,26.0
+2016,25,Darlington,16.0,24.0,27.0,Paul Menard,Valvoline / Menards (Richard Childress),Chevrolet,367.0,running,0.0,25.0
+2016,25,Darlington,17.0,31.0,34.0,Chris Buescher,Love's Travel Stops (Bob Jenkins),Ford,367.0,running,0.0,24.0
+2016,25,Darlington,18.0,22.0,17.0,Ricky Stenhouse Jr,MCR Safety / Fastenal (Jack Roush),Ford,367.0,running,0.0,23.0
+2016,25,Darlington,19.0,3.0,19.0,Carl Edwards,Arris (Joe Gibbs),Toyota,366.0,running,0.0,22.0
+2016,25,Darlington,20.0,33.0,7.0,Regan Smith,"Nikko / Road Rippers (Tommy Baldwin, Jr.)",Chevrolet,366.0,running,0.0,21.0
+2016,25,Darlington,21.0,32.0,23.0,David Ragan,"Dr. Pepper ""I'm a Pepper"" (BK Racing)",Toyota,366.0,running,0.0,20.0
+2016,25,Darlington,22.0,27.0,15.0,Clint Bowyer,"5-hour Energy (Harry Scott, Jr.)",Chevrolet,365.0,running,0.0,19.0
+2016,25,Darlington,23.0,21.0,47.0,A.J. Allmendinger,Kroger / Tyson (JTG-Daugherty Racing),Chevrolet,365.0,running,0.0,18.0
+2016,25,Darlington,24.0,25.0,10.0,Danica Patrick,Nature's Bakery (Stewart Haas Racing),Chevrolet,365.0,running,0.0,17.0
+2016,25,Darlington,25.0,28.0,13.0,Casey Mears,GEICO (Germain Racing),Chevrolet,365.0,running,0.0,16.0
+2016,25,Darlington,26.0,35.0,83.0,Matt DiBenedetto,Orange Crush (BK Racing),Toyota,364.0,running,0.0,15.0
+2016,25,Darlington,27.0,30.0,95.0,Michael McDowell,Thrivent Financial (Leavine Family Racing),Chevrolet,364.0,running,0.0,14.0
+2016,25,Darlington,28.0,37.0,46.0,Michael Annett,"Pilot / Flying J (Harry Scott, Jr.)",Chevrolet,362.0,running,0.0,13.0
+2016,25,Darlington,29.0,40.0,30.0,Josh Wise,Incredible Bank (Curtis Key),Chevrolet,361.0,running,0.0,12.0
+2016,25,Darlington,30.0,29.0,38.0,Landon Cassill,Rumple Furniture / Bailey Excavating (Bob Jenkins),Ford,361.0,running,0.0,11.0
+2016,25,Darlington,31.0,39.0,55.0,Reed Sorenson,Vydox Plus (Jay Robinson),Chevrolet,358.0,running,0.0,10.0
+2016,25,Darlington,32.0,26.0,43.0,Aric Almirola,STP (Richard Petty Motorsports),Ford,346.0,crash,0.0,9.0
+2016,25,Darlington,33.0,9.0,48.0,Jimmie Johnson,Lowe's (Rick Hendrick),Chevrolet,328.0,running,0.0,8.0
+2016,25,Darlington,34.0,4.0,41.0,Kurt Busch,Haas VF1 / Monster Energy (Stewart Haas Racing),Chevrolet,326.0,crash,0.0,7.0
+2016,25,Darlington,35.0,17.0,14.0,Tony Stewart,Coca-Cola (Stewart Haas Racing),Chevrolet,317.0,engine,0.0,6.0
+2016,25,Darlington,36.0,23.0,16.0,Greg Biffle,Hooters / FirstRespondersDay.org (Jack Roush),Ford,295.0,crash,0.0,5.0
+2016,25,Darlington,37.0,36.0,98.0,Cole Whitt,Carolina Skiff (Jay Robinson),Chevrolet,250.0,electrical,0.0,4.0
+2016,25,Darlington,38.0,38.0,32.0,Jeffrey Earnhardt,Otter Pops / Corvetteparts.net (Archie St. Hilaire),Ford,247.0,crash,0.0,3.0
+2016,25,Darlington,39.0,34.0,44.0,Brian Scott,Twisted Tea (Richard Petty Motorsports),Ford,199.0,crash,0.0,2.0
+2016,25,Darlington,40.0,19.0,6.0,Trevor Bayne,AdvoCare (Jack Roush),Ford,161.0,engine,0.0,1.0
+2016,26,Richmond,1.0,1.0,11.0,Denny Hamlin,FedEx Ground (Joe Gibbs),Toyota,407.0,running,189.0,44.0
+2016,26,Richmond,2.0,2.0,42.0,Kyle Larson,Target / Coca-Cola (Chip Ganassi),Chevrolet,407.0,running,15.0,40.0
+2016,26,Richmond,3.0,6.0,78.0,Martin Truex Jr,Tanger Outlets (Barney Visser),Toyota,407.0,running,193.0,40.0
+2016,26,Richmond,4.0,17.0,2.0,Brad Keselowski,Miller Lite (Roger Penske),Ford,407.0,running,0.0,37.0
+2016,26,Richmond,5.0,19.0,4.0,Kevin Harvick,Jimmy John's (Stewart Haas Racing),Chevrolet,407.0,running,0.0,36.0
+2016,26,Richmond,6.0,7.0,5.0,Kasey Kahne,Farmers Insurance (Rick Hendrick),Chevrolet,407.0,running,0.0,35.0
+2016,26,Richmond,7.0,4.0,1.0,Jamie McMurray,Sherwin Williams Emerald / Scotch Blue (Chip Ganassi),Chevrolet,407.0,running,0.0,34.0
+2016,26,Richmond,8.0,5.0,41.0,Kurt Busch,Haas Automation / Monster Energy (Stewart Haas Racing),Chevrolet,407.0,running,3.0,34.0
+2016,26,Richmond,9.0,9.0,18.0,Kyle Busch,M&M's 75th Anniversary (Joe Gibbs),Toyota,407.0,running,0.0,32.0
+2016,26,Richmond,10.0,12.0,22.0,Joey Logano,Shell / Pennzoil (Roger Penske),Ford,407.0,running,0.0,31.0
+2016,26,Richmond,11.0,10.0,48.0,Jimmie Johnson,Lowe's Pro Services (Rick Hendrick),Chevrolet,407.0,running,0.0,30.0
+2016,26,Richmond,12.0,27.0,95.0,Michael McDowell,Malwarebytes (Leavine Family Racing),Chevrolet,407.0,running,0.0,29.0
+2016,26,Richmond,13.0,8.0,3.0,Austin Dillon,Dow / Glass America (Richard Childress),Chevrolet,407.0,running,0.0,28.0
+2016,26,Richmond,14.0,18.0,6.0,Trevor Bayne,AdvoCare (Jack Roush),Ford,407.0,running,0.0,27.0
+2016,26,Richmond,15.0,29.0,10.0,Danica Patrick,Nature's Bakery (Stewart Haas Racing),Chevrolet,407.0,running,0.0,26.0
+2016,26,Richmond,16.0,11.0,88.0,Jeff Gordon,Axalta (Rick Hendrick),Chevrolet,407.0,running,0.0,25.0
+2016,26,Richmond,17.0,23.0,43.0,Aric Almirola,Smithfield (Richard Petty Motorsports),Ford,407.0,running,0.0,24.0
+2016,26,Richmond,18.0,22.0,17.0,Ricky Stenhouse Jr,Zest (Jack Roush),Ford,407.0,running,0.0,23.0
+2016,26,Richmond,19.0,34.0,24.0,Chase Elliott,3M / American Red Cross (Rick Hendrick),Chevrolet,407.0,running,0.0,22.0
+2016,26,Richmond,20.0,16.0,47.0,A.J. Allmendinger,Kroger / Scott Products (JTG-Daugherty Racing),Chevrolet,407.0,running,0.0,21.0
+2016,26,Richmond,21.0,26.0,13.0,Casey Mears,GEICO (Germain Racing),Chevrolet,407.0,running,0.0,20.0
+2016,26,Richmond,22.0,33.0,15.0,Clint Bowyer,"5-hour Energy (Harry Scott, Jr.)",Chevrolet,407.0,running,0.0,19.0
+2016,26,Richmond,23.0,28.0,16.0,Greg Biffle,Ford EcoBoost (Jack Roush),Ford,407.0,running,0.0,18.0
+2016,26,Richmond,24.0,31.0,34.0,Chris Buescher,"CSX ""Play it Safe"" (Bob Jenkins)",Ford,407.0,running,0.0,17.0
+2016,26,Richmond,25.0,39.0,83.0,Dylan Lupton,E.J. Wade Construction / Union Bank & Trust (BK Racing),Toyota,406.0,running,0.0,0.0
+2016,26,Richmond,26.0,38.0,55.0,Reed Sorenson,Premium Motorsports (Jay Robinson),Chevrolet,404.0,running,0.0,15.0
+2016,26,Richmond,27.0,40.0,32.0,Jeffrey Earnhardt,VisoneRV.com / Corvetteparts.net (Archie St. Hilaire),Ford,403.0,running,2.0,15.0
+2016,26,Richmond,28.0,15.0,31.0,Ryan Newman,Caterpillar (Richard Childress),Chevrolet,402.0,running,0.0,13.0
+2016,26,Richmond,29.0,24.0,7.0,Regan Smith,"Advanced Patient Care (Tommy Baldwin, Jr.)",Chevrolet,397.0,crash,2.0,13.0
+2016,26,Richmond,30.0,36.0,30.0,Josh Wise,The Motorsports Group (Curtis Key),Chevrolet,396.0,running,0.0,11.0
+2016,26,Richmond,31.0,37.0,46.0,Michael Annett,"Pilot / Flying J (Harry Scott, Jr.)",Chevrolet,390.0,running,0.0,10.0
+2016,26,Richmond,32.0,13.0,19.0,Carl Edwards,Arris Surfboard (Joe Gibbs),Toyota,366.0,suspension,0.0,9.0
+2016,26,Richmond,33.0,14.0,14.0,Tony Stewart,Code 3 Associates / Mobil 1 (Stewart Haas Racing),Chevrolet,363.0,crash,0.0,8.0
+2016,26,Richmond,34.0,21.0,23.0,David Ragan,SweetFrog (BK Racing),Toyota,362.0,crash,0.0,7.0
+2016,26,Richmond,35.0,35.0,44.0,Brian Scott,Albertson's / Shore Lodge / Devour (Richard Petty Motorsports),Ford,362.0,crash,0.0,6.0
+2016,26,Richmond,36.0,32.0,38.0,Landon Cassill,MDS Transport (Bob Jenkins),Ford,358.0,running,0.0,5.0
+2016,26,Richmond,37.0,25.0,93.0,Matt DiBenedetto,E.J. Wade Construction / Union Bank & Trust (BK Racing),Toyota,352.0,crash,0.0,4.0
+2016,26,Richmond,38.0,3.0,20.0,Matt Kenseth,Dollar General (Joe Gibbs),Toyota,335.0,crash,3.0,4.0
+2016,26,Richmond,39.0,20.0,21.0,Ryan Blaney,SKF / Motion Industries (Wood Brothers),Ford,279.0,running,0.0,2.0
+2016,26,Richmond,40.0,30.0,27.0,Paul Menard,Dutch Boy / Menards (Richard Childress),Chevrolet,264.0,crash,0.0,1.0
+2016,27,Chicago,1.0,6.0,78.0,Martin Truex Jr,Furniture Row / Denver Mattress (Barney Visser),Toyota,270.0,running,32.0,44.0
+2016,27,Chicago,2.0,9.0,22.0,Joey Logano,Shell / Pennzoil Mosaic (Roger Penske),Ford,270.0,running,1.0,40.0
+2016,27,Chicago,3.0,14.0,24.0,Chase Elliott,NAPA Auto Parts (Rick Hendrick),Chevrolet,270.0,running,75.0,39.0
+2016,27,Chicago,4.0,22.0,21.0,Ryan Blaney,Motorcraft / Quick Lane Tire & Auto Center (Wood Brothers),Ford,270.0,running,8.0,38.0
+2016,27,Chicago,5.0,2.0,2.0,Brad Keselowski,Miller Lite (Roger Penske),Ford,270.0,running,7.0,37.0
+2016,27,Chicago,6.0,3.0,11.0,Denny Hamlin,FedEx Express (Joe Gibbs),Toyota,270.0,running,2.0,36.0
+2016,27,Chicago,7.0,19.0,5.0,Kasey Kahne,LiftMaster (Rick Hendrick),Chevrolet,270.0,running,0.0,34.0
+2016,27,Chicago,8.0,1.0,18.0,Kyle Busch,Skittles (Joe Gibbs),Toyota,270.0,running,21.0,34.0
+2016,27,Chicago,9.0,7.0,20.0,Matt Kenseth,DeWalt FlexVolt (Joe Gibbs),Toyota,270.0,running,0.0,32.0
+2016,27,Chicago,10.0,17.0,88.0,Alex Bowman,Axalta / ServiceKing (Rick Hendrick),Chevrolet,270.0,running,6.0,0.0
+2016,27,Chicago,11.0,16.0,1.0,Jamie McMurray,McDonald's (Chip Ganassi),Chevrolet,270.0,running,0.0,30.0
+2016,27,Chicago,12.0,8.0,48.0,Jimmie Johnson,Lowe's (Rick Hendrick),Chevrolet,270.0,running,118.0,31.0
+2016,27,Chicago,13.0,12.0,41.0,Kurt Busch,Haas Automation (Stewart Haas Racing),Chevrolet,270.0,running,0.0,28.0
+2016,27,Chicago,14.0,15.0,3.0,Austin Dillon,Dow / Hefty Energybag (Richard Childress),Chevrolet,270.0,running,0.0,27.0
+2016,27,Chicago,15.0,5.0,19.0,Carl Edwards,Stanley Tools (Joe Gibbs),Toyota,270.0,running,0.0,26.0
+2016,27,Chicago,16.0,11.0,14.0,Tony Stewart,Rush Truck Centers / Mobil 1 (Stewart Haas Racing),Chevrolet,270.0,running,0.0,25.0
+2016,27,Chicago,17.0,21.0,47.0,A.J. Allmendinger,Kroger / DiGiorno / Hot Pockets (JTG-Daugherty Racing),Chevrolet,270.0,running,0.0,24.0
+2016,27,Chicago,18.0,10.0,42.0,Kyle Larson,Coca-Cola / Target (Chip Ganassi),Chevrolet,269.0,running,0.0,23.0
+2016,27,Chicago,19.0,18.0,31.0,Ryan Newman,Caterpillar (Richard Childress),Chevrolet,269.0,running,0.0,22.0
+2016,27,Chicago,20.0,4.0,4.0,Kevin Harvick,Jimmy John's (Stewart Haas Racing),Chevrolet,269.0,running,0.0,21.0
+2016,27,Chicago,21.0,26.0,27.0,Paul Menard,Moen / Menards (Richard Childress),Chevrolet,269.0,running,0.0,20.0
+2016,27,Chicago,22.0,28.0,15.0,Clint Bowyer,"Peak Antifreeze & Coolant (Harry Scott, Jr.)",Chevrolet,269.0,running,0.0,19.0
+2016,27,Chicago,23.0,20.0,6.0,Trevor Bayne,AdvoCare (Jack Roush),Ford,269.0,running,0.0,18.0
+2016,27,Chicago,24.0,25.0,10.0,Danica Patrick,Nature's Bakery / TMNT (Stewart Haas Racing),Chevrolet,269.0,running,0.0,17.0
+2016,27,Chicago,25.0,23.0,17.0,Ricky Stenhouse Jr,Wypall / Fastenal (Jack Roush),Ford,268.0,running,0.0,16.0
+2016,27,Chicago,26.0,24.0,16.0,Greg Biffle,Performance Plus Motor Oil (Jack Roush),Ford,268.0,running,0.0,15.0
+2016,27,Chicago,27.0,33.0,7.0,Ty Dillon,"Nikko RC / TMNT Michaelangelo (Tommy Baldwin, Jr.)",Chevrolet,268.0,running,0.0,0.0
+2016,27,Chicago,28.0,13.0,34.0,Chris Buescher,Love's Travel Stops (Bob Jenkins),Ford,268.0,running,0.0,13.0
+2016,27,Chicago,29.0,31.0,38.0,Landon Cassill,Lurie Children's Hospital of Chicago (Bob Jenkins),Ford,267.0,running,0.0,12.0
+2016,27,Chicago,30.0,35.0,83.0,Matt DiBenedetto,Mass Markets (BK Racing),Toyota,267.0,running,0.0,11.0
+2016,27,Chicago,31.0,34.0,44.0,Brian Scott,Jewel Osco / Shore Lodge / Ritz Triscuit (Richard Petty Motorsports),Ford,266.0,running,0.0,10.0
+2016,27,Chicago,32.0,27.0,43.0,Aric Almirola,Smithfield (Richard Petty Motorsports),Ford,266.0,running,0.0,9.0
+2016,27,Chicago,33.0,37.0,46.0,Michael Annett,"Pilot / Flying J (Harry Scott, Jr.)",Chevrolet,265.0,running,0.0,8.0
+2016,27,Chicago,34.0,29.0,13.0,Casey Mears,GEICO (Germain Racing),Chevrolet,265.0,running,0.0,7.0
+2016,27,Chicago,35.0,32.0,23.0,David Ragan,Jewel Osco / Leonardo / TMNT (BK Racing),Toyota,265.0,running,0.0,6.0
+2016,27,Chicago,36.0,36.0,98.0,Cole Whitt,Moen (Jay Robinson),Chevrolet,263.0,running,0.0,5.0
+2016,27,Chicago,37.0,30.0,95.0,Michael McDowell,Thrivent Financial / Donatello / TMNT (Leavine Family Racing),Chevrolet,262.0,running,0.0,4.0
+2016,27,Chicago,38.0,40.0,30.0,Josh Wise,Incredible Bank (Curtis Key),Chevrolet,260.0,running,0.0,3.0
+2016,27,Chicago,39.0,39.0,55.0,Reed Sorenson,Vic's Express Car Wash / Vydox Plus (Jay Robinson),Chevrolet,257.0,running,0.0,2.0
+2016,27,Chicago,40.0,38.0,32.0,Joey Gase,JT Concrete / Carolina Cooker (Archie St. Hilaire),Ford,254.0,running,0.0,0.0
+2016,28,Loudon,1.0,19.0,4.0,Kevin Harvick,Ditech (Stewart Haas Racing),Chevrolet,300.0,running,8.0,44.0
+2016,28,Loudon,2.0,8.0,20.0,Matt Kenseth,Dollar General (Joe Gibbs),Toyota,300.0,running,105.0,40.0
+2016,28,Loudon,3.0,12.0,18.0,Kyle Busch,M&M's (Joe Gibbs),Toyota,300.0,running,3.0,39.0
+2016,28,Loudon,4.0,11.0,2.0,Brad Keselowski,Miller Lite (Roger Penske),Ford,300.0,running,2.0,38.0
+2016,28,Loudon,5.0,13.0,41.0,Kurt Busch,Monster Energy / Haas Automation (Stewart Haas Racing),Chevrolet,300.0,running,0.0,36.0
+2016,28,Loudon,6.0,1.0,19.0,Carl Edwards,Comcast Business (Joe Gibbs),Toyota,300.0,running,31.0,36.0
+2016,28,Loudon,7.0,2.0,78.0,Martin Truex Jr,Furniture Row / Denver Mattress (Barney Visser),Toyota,300.0,running,141.0,36.0
+2016,28,Loudon,8.0,4.0,48.0,Jimmie Johnson,Lowe's (Rick Hendrick),Chevrolet,300.0,running,0.0,33.0
+2016,28,Loudon,9.0,9.0,5.0,Kasey Kahne,Great Clips / Levi's (Rick Hendrick),Chevrolet,300.0,running,0.0,32.0
+2016,28,Loudon,10.0,6.0,42.0,Kyle Larson,Target / Coca-Cola (Chip Ganassi),Chevrolet,300.0,running,0.0,31.0
+2016,28,Loudon,11.0,15.0,22.0,Joey Logano,Shell / Pennzoil Mosaic (Roger Penske),Ford,300.0,running,0.0,30.0
+2016,28,Loudon,12.0,16.0,21.0,Ryan Blaney,Motorcraft / Quick Lane Tire & Auto Center (Wood Brothers),Ford,300.0,running,0.0,29.0
+2016,28,Loudon,13.0,10.0,24.0,Chase Elliott,NAPA Auto Parts (Rick Hendrick),Chevrolet,300.0,running,1.0,29.0
+2016,28,Loudon,14.0,18.0,88.0,Alex Bowman,Nationwide Insurance (Rick Hendrick),Chevrolet,300.0,running,0.0,0.0
+2016,28,Loudon,15.0,5.0,11.0,Denny Hamlin,FedEx Freight (Joe Gibbs),Toyota,300.0,running,0.0,26.0
+2016,28,Loudon,16.0,29.0,3.0,Austin Dillon,Pumpkin Spice Cheerios (Richard Childress),Chevrolet,300.0,running,0.0,25.0
+2016,28,Loudon,17.0,26.0,43.0,Aric Almirola,Smithfield (Richard Petty Motorsports),Ford,300.0,running,0.0,24.0
+2016,28,Loudon,18.0,24.0,10.0,Danica Patrick,Nature's Bakery (Stewart Haas Racing),Chevrolet,300.0,running,9.0,24.0
+2016,28,Loudon,19.0,7.0,1.0,Jamie McMurray,McDonald's / Coca-Cola (Chip Ganassi),Chevrolet,300.0,running,0.0,22.0
+2016,28,Loudon,20.0,3.0,31.0,Ryan Newman,Caterpillar (Richard Childress),Chevrolet,300.0,running,0.0,21.0
+2016,28,Loudon,21.0,17.0,47.0,A.J. Allmendinger,Bush's Chili Beans / Kroger / Scott (JTG-Daugherty Racing),Chevrolet,300.0,running,0.0,20.0
+2016,28,Loudon,22.0,37.0,15.0,Clint Bowyer,"5-hour Energy (Harry Scott, Jr.)",Chevrolet,300.0,running,0.0,19.0
+2016,28,Loudon,23.0,22.0,14.0,Tony Stewart,Code 3 Associates / Mobil 1 (Stewart Haas Racing),Chevrolet,299.0,running,0.0,18.0
+2016,28,Loudon,24.0,21.0,17.0,Ricky Stenhouse Jr,Milwaukee / Fastenal (Jack Roush),Ford,299.0,running,0.0,17.0
+2016,28,Loudon,25.0,14.0,27.0,Paul Menard,Libman / Menards (Richard Childress),Chevrolet,299.0,running,0.0,16.0
+2016,28,Loudon,26.0,20.0,95.0,Michael McDowell,"Rat Rods ""Patina"" (Leavine Family Racing)",Chevrolet,298.0,running,0.0,15.0
+2016,28,Loudon,27.0,31.0,13.0,Casey Mears,GEICO (Germain Racing),Chevrolet,298.0,running,0.0,14.0
+2016,28,Loudon,28.0,33.0,83.0,Matt DiBenedetto,NASCAR Heat Evolution (BK Racing),Toyota,298.0,running,0.0,13.0
+2016,28,Loudon,29.0,34.0,38.0,Landon Cassill,The Pete Store (Bob Jenkins),Ford,298.0,running,0.0,12.0
+2016,28,Loudon,30.0,28.0,34.0,Chris Buescher,Love's Travel Stops (Bob Jenkins),Ford,298.0,running,0.0,11.0
+2016,28,Loudon,31.0,25.0,44.0,Brian Scott,Shaw's / Shore Lodge / Viva / Cottonelle (Richard Petty Motorsports),Ford,298.0,running,0.0,10.0
+2016,28,Loudon,32.0,23.0,23.0,David Ragan,Dr. Pepper (BK Racing),Toyota,297.0,running,0.0,9.0
+2016,28,Loudon,33.0,32.0,16.0,Greg Biffle,Performance Plus Motor Oil (Jack Roush),Ford,297.0,running,0.0,8.0
+2016,28,Loudon,34.0,30.0,7.0,Regan Smith,"Nikko RC / Thomas & Friends (Tommy Baldwin, Jr.)",Chevrolet,297.0,running,0.0,7.0
+2016,28,Loudon,35.0,36.0,98.0,Cole Whitt,Standard Plumbing Supply (Jay Robinson),Chevrolet,294.0,running,0.0,6.0
+2016,28,Loudon,36.0,38.0,55.0,Reed Sorenson,Vydox Plus (Jay Robinson),Toyota,293.0,running,0.0,5.0
+2016,28,Loudon,37.0,40.0,32.0,Jeffrey Earnhardt,Can-Am / Kappa (Archie St. Hilaire),Ford,290.0,running,0.0,4.0
+2016,28,Loudon,38.0,27.0,6.0,Trevor Bayne,AdvoCare (Jack Roush),Ford,282.0,crash,0.0,3.0
+2016,28,Loudon,39.0,39.0,30.0,Josh Wise,The Motorsports Group (Curtis Key),Chevrolet,268.0,running,0.0,2.0
+2016,28,Loudon,40.0,35.0,46.0,Michael Annett,"Pilot / Flying J (Harry Scott, Jr.)",Chevrolet,236.0,steering,0.0,1.0
+2016,29,Dover,1.0,2.0,78.0,Martin Truex Jr,Furniture Row / Denver Mattress (Barney Visser),Toyota,400.0,running,187.0,45.0
+2016,29,Dover,2.0,3.0,18.0,Kyle Busch,M&M's (Joe Gibbs),Toyota,400.0,running,102.0,40.0
+2016,29,Dover,3.0,9.0,24.0,Chase Elliott,Mountain Dew (Rick Hendrick),Chevrolet,400.0,running,0.0,38.0
+2016,29,Dover,4.0,1.0,2.0,Brad Keselowski,Miller Lite (Roger Penske),Ford,400.0,running,7.0,38.0
+2016,29,Dover,5.0,4.0,20.0,Matt Kenseth,DeWalt FlexVolt (Joe Gibbs),Toyota,400.0,running,0.0,36.0
+2016,29,Dover,6.0,5.0,22.0,Joey Logano,Shell / Pennzoil Mosaic (Roger Penske),Ford,400.0,running,0.0,35.0
+2016,29,Dover,7.0,8.0,48.0,Jimmie Johnson,Lowe's (Rick Hendrick),Chevrolet,399.0,running,90.0,35.0
+2016,29,Dover,8.0,14.0,3.0,Austin Dillon,AAA (Richard Childress),Chevrolet,399.0,running,0.0,33.0
+2016,29,Dover,9.0,7.0,11.0,Denny Hamlin,FedEx Ground (Joe Gibbs),Toyota,399.0,running,0.0,32.0
+2016,29,Dover,10.0,18.0,88.0,Jeff Gordon,Nationwide Insurance (Rick Hendrick),Chevrolet,399.0,running,7.0,32.0
+2016,29,Dover,11.0,22.0,17.0,Ricky Stenhouse Jr,Milwaukee / Fastenal (Jack Roush),Ford,399.0,running,0.0,30.0
+2016,29,Dover,12.0,17.0,5.0,Kasey Kahne,Panasonic Toughbook (Rick Hendrick),Chevrolet,399.0,running,0.0,29.0
+2016,29,Dover,13.0,15.0,14.0,Tony Stewart,Nature's Bakery Brownie / Mobil 1 (Stewart Haas Racing),Chevrolet,399.0,running,0.0,28.0
+2016,29,Dover,14.0,10.0,19.0,Carl Edwards,Arris Surfboard (Joe Gibbs),Toyota,399.0,running,0.0,27.0
+2016,29,Dover,15.0,11.0,41.0,Kurt Busch,Monster Energy / Haas Automation (Stewart Haas Racing),Chevrolet,398.0,running,0.0,26.0
+2016,29,Dover,16.0,27.0,43.0,Aric Almirola,Smithfield (Richard Petty Motorsports),Ford,398.0,running,0.0,25.0
+2016,29,Dover,17.0,19.0,31.0,Ryan Newman,Wix Filters (Richard Childress),Chevrolet,397.0,running,0.0,24.0
+2016,29,Dover,18.0,25.0,16.0,Greg Biffle,Ford EcoBoost (Jack Roush),Ford,396.0,running,7.0,24.0
+2016,29,Dover,19.0,21.0,47.0,A.J. Allmendinger,Bush's Chili Beans / Clorox (JTG-Daugherty Racing),Chevrolet,396.0,running,0.0,22.0
+2016,29,Dover,20.0,23.0,6.0,Trevor Bayne,AdvoCare (Jack Roush),Ford,395.0,running,0.0,21.0
+2016,29,Dover,21.0,34.0,44.0,Brian Scott,Acme / Shore Lodge / Ritz Triscuit (Richard Petty Motorsports),Ford,395.0,running,0.0,20.0
+2016,29,Dover,22.0,26.0,27.0,Paul Menard,Duracell / Menards (Richard Childress),Chevrolet,395.0,running,0.0,19.0
+2016,29,Dover,23.0,16.0,34.0,Chris Buescher,"CSX ""Play it Safe"" (Bob Jenkins)",Ford,394.0,running,0.0,18.0
+2016,29,Dover,24.0,28.0,15.0,Clint Bowyer,"5-hour Energy (Harry Scott, Jr.)",Chevrolet,394.0,running,0.0,17.0
+2016,29,Dover,25.0,12.0,42.0,Kyle Larson,Target / Coca-Cola (Chip Ganassi),Chevrolet,394.0,running,0.0,16.0
+2016,29,Dover,26.0,29.0,13.0,Casey Mears,GEICO (Germain Racing),Chevrolet,394.0,running,0.0,15.0
+2016,29,Dover,27.0,35.0,83.0,Matt DiBenedetto,E.J. Wade Construction (BK Racing),Toyota,393.0,running,0.0,14.0
+2016,29,Dover,28.0,24.0,10.0,Danica Patrick,Nature's Bakery (Stewart Haas Racing),Chevrolet,393.0,running,0.0,13.0
+2016,29,Dover,29.0,31.0,38.0,Landon Cassill,MDS Transport (Bob Jenkins),Ford,392.0,running,0.0,12.0
+2016,29,Dover,30.0,32.0,23.0,David Ragan,Life With Cancer (BK Racing),Toyota,392.0,running,0.0,11.0
+2016,29,Dover,31.0,33.0,7.0,Regan Smith,"Citizen Soldier (Tommy Baldwin, Jr.)",Chevrolet,391.0,running,0.0,10.0
+2016,29,Dover,32.0,30.0,95.0,Ty Dillon,Death Wish Coffee (Leavine Family Racing),Chevrolet,390.0,running,0.0,0.0
+2016,29,Dover,33.0,37.0,46.0,Michael Annett,"Pilot / Flying J (Harry Scott, Jr.)",Chevrolet,387.0,running,0.0,8.0
+2016,29,Dover,34.0,36.0,98.0,Timmy Hill,Vydox Plus Extra Strength (Jay Robinson),Chevrolet,386.0,running,0.0,0.0
+2016,29,Dover,35.0,39.0,55.0,Reed Sorenson,Vydox Plus Extra Strength (Jay Robinson),Toyota,385.0,running,0.0,6.0
+2016,29,Dover,36.0,38.0,32.0,Jeffrey Earnhardt,Can-Am / Kappa (Archie St. Hilaire),Ford,384.0,running,0.0,5.0
+2016,29,Dover,37.0,6.0,4.0,Kevin Harvick,Jimmy John's (Stewart Haas Racing),Chevrolet,354.0,running,0.0,4.0
+2016,29,Dover,38.0,20.0,21.0,Ryan Blaney,Motorcraft / Quick Lane Tire & Auto Center (Wood Brothers),Ford,281.0,running,0.0,3.0
+2016,29,Dover,39.0,40.0,30.0,Josh Wise,The Motorsports Group (Curtis Key),Chevrolet,196.0,engine,0.0,2.0
+2016,29,Dover,40.0,13.0,1.0,Jamie McMurray,Credit One Bank (Chip Ganassi),Chevrolet,192.0,engine,0.0,1.0
+2016,30,Charlotte,1.0,11.0,48.0,Jimmie Johnson,Lowe's (Rick Hendrick),Chevrolet,334.0,running,155.0,45.0
+2016,30,Charlotte,2.0,17.0,20.0,Matt Kenseth,Dollar General (Joe Gibbs),Toyota,334.0,running,5.0,40.0
+2016,30,Charlotte,3.0,12.0,5.0,Kasey Kahne,Great Clips (Rick Hendrick),Chevrolet,334.0,running,0.0,38.0
+2016,30,Charlotte,4.0,21.0,31.0,Ryan Newman,Caterpillar (Richard Childress),Chevrolet,334.0,running,1.0,38.0
+2016,30,Charlotte,5.0,25.0,42.0,Kyle Larson,Target / Belkin (Chip Ganassi),Chevrolet,334.0,running,0.0,36.0
+2016,30,Charlotte,6.0,4.0,18.0,Kyle Busch,Interstate All Battery Center (Joe Gibbs),Toyota,334.0,running,1.0,36.0
+2016,30,Charlotte,7.0,20.0,2.0,Brad Keselowski,Wurth (Roger Penske),Ford,334.0,running,0.0,34.0
+2016,30,Charlotte,8.0,23.0,41.0,Kurt Busch,Haas Automation / Monster Energy (Stewart Haas Racing),Chevrolet,334.0,running,0.0,33.0
+2016,30,Charlotte,9.0,5.0,14.0,Tony Stewart,Mobil 1 / Rev the Vote (Stewart Haas Racing),Chevrolet,334.0,running,0.0,32.0
+2016,30,Charlotte,10.0,16.0,1.0,Jamie McMurray,McDonald's (Chip Ganassi),Chevrolet,334.0,running,0.0,31.0
+2016,30,Charlotte,11.0,13.0,10.0,Danica Patrick,Aspen Dental Patriotic (Stewart Haas Racing),Chevrolet,334.0,running,0.0,30.0
+2016,30,Charlotte,12.0,8.0,19.0,Carl Edwards,Stanley Tools (Joe Gibbs),Toyota,334.0,running,0.0,29.0
+2016,30,Charlotte,13.0,7.0,78.0,Martin Truex Jr,Furniture Row / Maaco (Barney Visser),Toyota,334.0,running,0.0,28.0
+2016,30,Charlotte,14.0,22.0,95.0,Michael McDowell,Thrivent Financial (Leavine Family Racing),Chevrolet,334.0,running,0.0,27.0
+2016,30,Charlotte,15.0,33.0,43.0,Aric Almirola,Smithfield (Richard Petty Motorsports),Ford,334.0,running,0.0,26.0
+2016,30,Charlotte,16.0,26.0,34.0,Chris Buescher,Love's Travel Stops / Roller Bites (Bob Jenkins),Ford,334.0,running,0.0,25.0
+2016,30,Charlotte,17.0,31.0,15.0,Clint Bowyer,"5-hour Energy (Harry Scott, Jr.)",Chevrolet,334.0,running,2.0,25.0
+2016,30,Charlotte,18.0,27.0,6.0,Trevor Bayne,AdvoCare (Jack Roush),Ford,334.0,running,0.0,23.0
+2016,30,Charlotte,19.0,32.0,38.0,Landon Cassill,Rev the Vote / Snapchat (Bob Jenkins),Ford,334.0,running,0.0,22.0
+2016,30,Charlotte,20.0,15.0,17.0,Ricky Stenhouse Jr,Sunny D (Jack Roush),Ford,333.0,running,0.0,21.0
+2016,30,Charlotte,21.0,35.0,7.0,Regan Smith,"Nikko RC / Toy State (Tommy Baldwin, Jr.)",Chevrolet,333.0,running,0.0,20.0
+2016,30,Charlotte,22.0,30.0,44.0,Brian Scott,Jacob Companies (Richard Petty Motorsports),Ford,333.0,running,0.0,19.0
+2016,30,Charlotte,23.0,34.0,23.0,David Ragan,Dr. Pepper (BK Racing),Toyota,331.0,running,0.0,18.0
+2016,30,Charlotte,24.0,37.0,46.0,Michael Annett,"Pilot / Flying J (Harry Scott, Jr.)",Chevrolet,330.0,running,0.0,17.0
+2016,30,Charlotte,25.0,24.0,83.0,Matt DiBenedetto,Cosmo Motors (BK Racing),Toyota,329.0,running,0.0,16.0
+2016,30,Charlotte,26.0,38.0,32.0,Jeffrey Earnhardt,Can-Am / Kappa (Archie St. Hilaire),Ford,328.0,running,0.0,15.0
+2016,30,Charlotte,27.0,36.0,98.0,Cole Whitt,Vydox Plus Extra Strength (Jay Robinson),Chevrolet,327.0,running,0.0,14.0
+2016,30,Charlotte,28.0,39.0,55.0,Reed Sorenson,Vydox Plus Extra Strength (Jay Robinson),Chevrolet,321.0,running,0.0,13.0
+2016,30,Charlotte,29.0,40.0,30.0,Josh Wise,The Motorsports Group (Curtis Key),Chevrolet,320.0,running,0.0,12.0
+2016,30,Charlotte,30.0,9.0,11.0,Denny Hamlin,FedEx Office (Joe Gibbs),Toyota,308.0,engine,52.0,12.0
+2016,30,Charlotte,31.0,18.0,21.0,Ryan Blaney,Motorcraft / Quick Lane Tire & Auto Center (Wood Brothers),Ford,307.0,running,0.0,10.0
+2016,30,Charlotte,32.0,19.0,3.0,Austin Dillon,Dow Coating Materials / Kilz (Richard Childress),Chevrolet,258.0,crash,0.0,9.0
+2016,30,Charlotte,33.0,3.0,24.0,Chase Elliott,3M (Rick Hendrick),Chevrolet,258.0,crash,103.0,9.0
+2016,30,Charlotte,34.0,28.0,27.0,Paul Menard,Valvoline / Menards (Richard Childress),Chevrolet,258.0,crash,0.0,7.0
+2016,30,Charlotte,35.0,14.0,16.0,Greg Biffle,Ford EcoBoost (Jack Roush),Ford,257.0,crash,0.0,6.0
+2016,30,Charlotte,36.0,10.0,22.0,Joey Logano,Pennzoil / Shell (Roger Penske),Ford,254.0,running,3.0,6.0
+2016,30,Charlotte,37.0,6.0,47.0,A.J. Allmendinger,Kroger / Stouffer's FitKitchen / Bush's Beans (JTG-Daugherty Racing),Chevrolet,252.0,crash,0.0,4.0
+2016,30,Charlotte,38.0,1.0,4.0,Kevin Harvick,Busch Hunting Trophy Can (Stewart Haas Racing),Chevrolet,155.0,engine,12.0,4.0
+2016,30,Charlotte,39.0,2.0,88.0,Alex Bowman,Axalta / Hendrick Automotive Group (Rick Hendrick),Chevrolet,61.0,crash,0.0,0.0
+2016,30,Charlotte,40.0,29.0,13.0,Casey Mears,GEICO (Germain Racing),Chevrolet,61.0,crash,0.0,1.0
+2016,31,Kansas,1.0,11.0,4.0,Kevin Harvick,Outback Steakhouse Bloomin' Monday (Stewart Haas Racing),Chevrolet,267.0,running,74.0,44.0
+2016,31,Kansas,2.0,3.0,19.0,Carl Edwards,Xfinity (Joe Gibbs),Toyota,267.0,running,61.0,40.0
+2016,31,Kansas,3.0,6.0,22.0,Joey Logano,Shell / Pennzoil Mosaic (Roger Penske),Ford,267.0,running,2.0,39.0
+2016,31,Kansas,4.0,21.0,48.0,Jimmie Johnson,Lowe's (Rick Hendrick),Chevrolet,267.0,running,0.0,37.0
+2016,31,Kansas,5.0,2.0,18.0,Kyle Busch,M&M's (Joe Gibbs),Toyota,267.0,running,0.0,36.0
+2016,31,Kansas,6.0,12.0,3.0,Austin Dillon,Dow Coating Materials / Kilz (Richard Childress),Chevrolet,267.0,running,2.0,36.0
+2016,31,Kansas,7.0,5.0,88.0,Alex Bowman,Nationwide Insurance (Rick Hendrick),Chevrolet,267.0,running,0.0,0.0
+2016,31,Kansas,8.0,10.0,47.0,A.J. Allmendinger,Dillons / Butterfinger / Nestle CoffeeMate (JTG-Daugherty Racing),Chevrolet,267.0,running,0.0,33.0
+2016,31,Kansas,9.0,1.0,20.0,Matt Kenseth,DeWalt FlexVolt (Joe Gibbs),Toyota,267.0,running,116.0,34.0
+2016,31,Kansas,10.0,20.0,5.0,Kasey Kahne,Farmers Insurance (Rick Hendrick),Chevrolet,267.0,running,0.0,31.0
+2016,31,Kansas,11.0,4.0,78.0,Martin Truex Jr,Bass Pro Shops / Tracker Boats (Barney Visser),Toyota,267.0,running,0.0,30.0
+2016,31,Kansas,12.0,9.0,31.0,Ryan Newman,Caterpillar (Richard Childress),Chevrolet,267.0,running,0.0,29.0
+2016,31,Kansas,13.0,15.0,41.0,Kurt Busch,Monster Energy / Haas Automation (Stewart Haas Racing),Chevrolet,267.0,running,1.0,29.0
+2016,31,Kansas,14.0,17.0,21.0,Ryan Blaney,Motorcraft / Quick Lane Tire & Auto Center (Wood Brothers),Ford,267.0,running,0.0,27.0
+2016,31,Kansas,15.0,7.0,11.0,Denny Hamlin,FedEx Express (Joe Gibbs),Toyota,267.0,running,1.0,27.0
+2016,31,Kansas,16.0,14.0,14.0,Tony Stewart,Code 3 Associates / Mobil 1 (Stewart Haas Racing),Chevrolet,267.0,running,0.0,25.0
+2016,31,Kansas,17.0,25.0,6.0,Trevor Bayne,AdvoCare (Jack Roush),Ford,267.0,running,0.0,24.0
+2016,31,Kansas,18.0,19.0,10.0,Danica Patrick,Nature's Bakery (Stewart Haas Racing),Chevrolet,267.0,running,0.0,23.0
+2016,31,Kansas,19.0,18.0,17.0,Ricky Stenhouse Jr,Lenox / Fastenal (Jack Roush),Ford,267.0,running,0.0,22.0
+2016,31,Kansas,20.0,16.0,27.0,Paul Menard,FVP / Menards (Richard Childress),Chevrolet,267.0,running,0.0,21.0
+2016,31,Kansas,21.0,30.0,34.0,Chris Buescher,Love's Travel Stops (Bob Jenkins),Ford,267.0,running,0.0,20.0
+2016,31,Kansas,22.0,33.0,95.0,Michael McDowell,Thrivent Financial (Leavine Family Racing),Chevrolet,267.0,running,0.0,19.0
+2016,31,Kansas,23.0,29.0,13.0,Casey Mears,GEICO (Germain Racing),Chevrolet,267.0,running,5.0,19.0
+2016,31,Kansas,24.0,27.0,83.0,Matt DiBenedetto,Scorpyd Crossbows (BK Racing),Toyota,267.0,running,0.0,17.0
+2016,31,Kansas,25.0,22.0,16.0,Greg Biffle,FordPass (Jack Roush),Ford,266.0,running,0.0,16.0
+2016,31,Kansas,26.0,31.0,15.0,Clint Bowyer,"5-hour Energy (Harry Scott, Jr.)",Chevrolet,266.0,running,0.0,15.0
+2016,31,Kansas,27.0,34.0,38.0,Landon Cassill,Snap Fitness (Bob Jenkins),Ford,266.0,running,0.0,14.0
+2016,31,Kansas,28.0,32.0,44.0,Brian Scott,GoBowling.com (Richard Petty Motorsports),Ford,265.0,running,0.0,13.0
+2016,31,Kansas,29.0,26.0,7.0,Regan Smith,"Fire Alarm Services (Tommy Baldwin, Jr.)",Chevrolet,265.0,running,0.0,12.0
+2016,31,Kansas,30.0,24.0,42.0,Kyle Larson,Target / Coca-Cola (Chip Ganassi),Chevrolet,265.0,running,0.0,11.0
+2016,31,Kansas,31.0,13.0,24.0,Chase Elliott,Sun Energy 1 (Rick Hendrick),Chevrolet,264.0,running,4.0,11.0
+2016,31,Kansas,32.0,37.0,46.0,Michael Annett,"Northland Motor Oils & Lubricants (Harry Scott, Jr.)",Chevrolet,264.0,running,0.0,9.0
+2016,31,Kansas,33.0,36.0,55.0,Cole Whitt,Becker Autos & Trailers (Jay Robinson),Chevrolet,262.0,running,0.0,8.0
+2016,31,Kansas,34.0,39.0,98.0,Reed Sorenson,Harrah's North Kansas City (Jay Robinson),Toyota,261.0,running,0.0,7.0
+2016,31,Kansas,35.0,38.0,32.0,Joey Gase,Midwest Transplant Network (Archie St. Hilaire),Ford,260.0,running,0.0,0.0
+2016,31,Kansas,36.0,28.0,23.0,David Ragan,Dr. Pepper (BK Racing),Toyota,258.0,running,0.0,5.0
+2016,31,Kansas,37.0,23.0,1.0,Jamie McMurray,Cessna / Beechcraft (Chip Ganassi),Chevrolet,233.0,running,0.0,4.0
+2016,31,Kansas,38.0,8.0,2.0,Brad Keselowski,Miller Lite (Roger Penske),Ford,190.0,crash,1.0,4.0
+2016,31,Kansas,39.0,40.0,30.0,Josh Wise,The Motorsports Group (Curtis Key),Chevrolet,108.0,crash,0.0,2.0
+2016,31,Kansas,40.0,35.0,43.0,Aric Almirola,Smithfield (Richard Petty Motorsports),Ford,36.0,crash,0.0,1.0
+2016,32,Talladega,1.0,16.0,22.0,Joey Logano,Shell / Pennzoil Mosaic (Roger Penske),Ford,192.0,running,45.0,44.0
+2016,32,Talladega,2.0,25.0,44.0,Brian Scott,Goody's Fast Pain Relief (Richard Petty Motorsports),Ford,192.0,running,0.0,39.0
+2016,32,Talladega,3.0,8.0,11.0,Denny Hamlin,FedEx Ground (Joe Gibbs),Toyota,192.0,running,12.0,39.0
+2016,32,Talladega,4.0,7.0,41.0,Kurt Busch,Haas Automation / Monster Energy (Stewart Haas Racing),Chevrolet,192.0,running,0.0,37.0
+2016,32,Talladega,5.0,6.0,17.0,Ricky Stenhouse Jr,Zest (Jack Roush),Ford,192.0,running,6.0,37.0
+2016,32,Talladega,6.0,24.0,42.0,Kyle Larson,Energizer (Chip Ganassi),Chevrolet,192.0,running,0.0,35.0
+2016,32,Talladega,7.0,22.0,4.0,Kevin Harvick,Jimmy John's (Stewart Haas Racing),Chevrolet,192.0,running,0.0,34.0
+2016,32,Talladega,8.0,26.0,43.0,Aric Almirola,Smithfield (Richard Petty Motorsports),Ford,192.0,running,0.0,33.0
+2016,32,Talladega,9.0,9.0,3.0,Austin Dillon,American Ethanol E15 (Richard Childress),Chevrolet,192.0,running,1.0,33.0
+2016,32,Talladega,10.0,32.0,47.0,A.J. Allmendinger,Kroger / Scott Products / Clorox (JTG-Daugherty Racing),Chevrolet,192.0,running,0.0,31.0
+2016,32,Talladega,11.0,15.0,21.0,Ryan Blaney,Motorcraft / Quick Lane Tire & Auto Center (Wood Brothers),Ford,192.0,running,3.0,31.0
+2016,32,Talladega,12.0,4.0,24.0,Chase Elliott,NAPA Auto Parts (Rick Hendrick),Chevrolet,192.0,running,9.0,30.0
+2016,32,Talladega,13.0,10.0,27.0,Paul Menard,Sylvania LED / Menards (Richard Childress),Chevrolet,192.0,running,0.0,28.0
+2016,32,Talladega,14.0,20.0,31.0,Ryan Newman,Caterpillar (Richard Childress),Chevrolet,192.0,running,0.0,27.0
+2016,32,Talladega,15.0,5.0,16.0,Greg Biffle,Cheez-It (Jack Roush),Ford,192.0,running,13.0,27.0
+2016,32,Talladega,16.0,34.0,95.0,Michael McDowell,K-LOVE Radio (Leavine Family Racing),Chevrolet,192.0,running,0.0,25.0
+2016,32,Talladega,17.0,11.0,6.0,Trevor Bayne,AdvoCare (Jack Roush),Ford,192.0,running,0.0,24.0
+2016,32,Talladega,18.0,36.0,15.0,Clint Bowyer,"5-hour Energy (Harry Scott, Jr.)",Chevrolet,192.0,running,0.0,23.0
+2016,32,Talladega,19.0,23.0,1.0,Jamie McMurray,Cessna / Beechcraft (Chip Ganassi),Chevrolet,192.0,running,0.0,22.0
+2016,32,Talladega,20.0,30.0,10.0,Danica Patrick,Nature's Bakery (Stewart Haas Racing),Chevrolet,192.0,running,0.0,21.0
+2016,32,Talladega,21.0,31.0,38.0,Landon Cassill,FR8 Auctions (Bob Jenkins),Ford,192.0,running,0.0,20.0
+2016,32,Talladega,22.0,33.0,34.0,Chris Buescher,Love's Travel Stops (Bob Jenkins),Ford,192.0,running,0.0,19.0
+2016,32,Talladega,23.0,17.0,48.0,Jimmie Johnson,Lowe's Pro Services (Rick Hendrick),Chevrolet,192.0,running,0.0,18.0
+2016,32,Talladega,24.0,40.0,23.0,David Ragan,SweetFrog (BK Racing),Toyota,192.0,running,0.0,17.0
+2016,32,Talladega,25.0,29.0,7.0,Regan Smith,"Golden Corral (Tommy Baldwin, Jr.)",Chevrolet,192.0,running,0.0,16.0
+2016,32,Talladega,26.0,18.0,99.0,Ryan Reed,Lilly Diabetes / ADA Drive to Stop Diabetes (Jack Roush),Ford,192.0,running,0.0,0.0
+2016,32,Talladega,27.0,35.0,93.0,Matt DiBenedetto,Dustless Blasting (BK Racing),Toyota,192.0,running,0.0,14.0
+2016,32,Talladega,28.0,3.0,20.0,Matt Kenseth,DeWalt FlexVolt (Joe Gibbs),Toyota,192.0,running,1.0,14.0
+2016,32,Talladega,29.0,13.0,19.0,Carl Edwards,Subway (Joe Gibbs),Toyota,192.0,running,1.0,13.0
+2016,32,Talladega,30.0,14.0,18.0,Kyle Busch,Snickers Halloween (Joe Gibbs),Toyota,192.0,running,2.0,12.0
+2016,32,Talladega,31.0,38.0,32.0,Bobby Labonte,VisoneRV.com (Archie St. Hilaire),Ford,192.0,running,0.0,10.0
+2016,32,Talladega,32.0,21.0,14.0,Tony Stewart,Rush Truck Centers / Mobil 1 Delvac (Stewart Haas Racing),Chevrolet,192.0,running,1.0,10.0
+2016,32,Talladega,33.0,37.0,46.0,Michael Annett,"Pilot / Flying J (Harry Scott, Jr.)",Chevrolet,192.0,running,6.0,9.0
+2016,32,Talladega,34.0,39.0,83.0,Jeffrey Earnhardt,Starter Dale Earnhardt Tribute (BK Racing),Toyota,192.0,running,0.0,7.0
+2016,32,Talladega,35.0,27.0,5.0,Kasey Kahne,UniFirst (Rick Hendrick),Chevrolet,191.0,running,0.0,6.0
+2016,32,Talladega,36.0,19.0,88.0,Alex Bowman,Mountain Dew Camo (Rick Hendrick),Chevrolet,191.0,running,0.0,0.0
+2016,32,Talladega,37.0,12.0,55.0,Reed Sorenson,Clyde May's Whiskey (Jay Robinson),Toyota,179.0,running,0.0,4.0
+2016,32,Talladega,38.0,2.0,2.0,Brad Keselowski,Miller Lite (Roger Penske),Ford,144.0,engine,90.0,5.0
+2016,32,Talladega,39.0,28.0,13.0,Casey Mears,GEICO (Germain Racing),Chevrolet,113.0,crash,0.0,2.0
+2016,32,Talladega,40.0,1.0,78.0,Martin Truex Jr,Bass Pro Shops / Tracker Boats (Barney Visser),Toyota,41.0,engine,2.0,2.0
+2016,33,Martinsville,1.0,3.0,48.0,Jimmie Johnson,Lowe's (Rick Hendrick),Chevrolet,500.0,running,92.0,44.0
+2016,33,Martinsville,2.0,19.0,2.0,Brad Keselowski,Alliance Truck Parts (Roger Penske),Ford,500.0,running,0.0,39.0
+2016,33,Martinsville,3.0,8.0,11.0,Denny Hamlin,FedEx Freight (Joe Gibbs),Toyota,500.0,running,48.0,39.0
+2016,33,Martinsville,4.0,17.0,20.0,Matt Kenseth,Dollar General (Joe Gibbs),Toyota,500.0,running,176.0,39.0
+2016,33,Martinsville,5.0,9.0,18.0,Kyle Busch,M&M's Halloween (Joe Gibbs),Toyota,500.0,running,3.0,37.0
+2016,33,Martinsville,6.0,10.0,88.0,Jeff Gordon,Nationwide Insurance (Rick Hendrick),Chevrolet,500.0,running,0.0,35.0
+2016,33,Martinsville,7.0,1.0,78.0,Martin Truex Jr,Auto-Owners Insurance (Barney Visser),Toyota,500.0,running,147.0,35.0
+2016,33,Martinsville,8.0,14.0,1.0,Jamie McMurray,Credit One (Chip Ganassi),Chevrolet,500.0,running,0.0,33.0
+2016,33,Martinsville,9.0,2.0,22.0,Joey Logano,Shell / Pennzoil (Roger Penske),Ford,500.0,running,21.0,33.0
+2016,33,Martinsville,10.0,4.0,47.0,A.J. Allmendinger,Kroger / Clorox (JTG-Daugherty Racing),Chevrolet,500.0,running,5.0,32.0
+2016,33,Martinsville,11.0,22.0,5.0,Kasey Kahne,UniFirst (Rick Hendrick),Chevrolet,499.0,running,0.0,30.0
+2016,33,Martinsville,12.0,5.0,24.0,Chase Elliott,NAPA Auto Parts (Rick Hendrick),Chevrolet,499.0,running,0.0,29.0
+2016,33,Martinsville,13.0,25.0,16.0,Greg Biffle,FordPass (Jack Roush),Ford,499.0,running,0.0,28.0
+2016,33,Martinsville,14.0,11.0,42.0,Kyle Larson,Target / Coca-Cola (Chip Ganassi),Chevrolet,499.0,running,6.0,28.0
+2016,33,Martinsville,15.0,16.0,43.0,Aric Almirola,Smithfield (Richard Petty Motorsports),Ford,499.0,running,0.0,26.0
+2016,33,Martinsville,16.0,13.0,31.0,Ryan Newman,Caterpillar (Richard Childress),Chevrolet,499.0,running,0.0,25.0
+2016,33,Martinsville,17.0,32.0,3.0,Austin Dillon,Dow Corning / Molykote (Richard Childress),Chevrolet,499.0,running,0.0,24.0
+2016,33,Martinsville,18.0,30.0,95.0,Michael McDowell,Malwarebytes (Leavine Family Racing),Chevrolet,498.0,running,0.0,23.0
+2016,33,Martinsville,19.0,15.0,21.0,Ryan Blaney,Virginia Tech / Motorcraft (Wood Brothers),Ford,498.0,running,0.0,22.0
+2016,33,Martinsville,20.0,20.0,4.0,Kevin Harvick,Busch Light (Stewart Haas Racing),Chevrolet,498.0,running,0.0,21.0
+2016,33,Martinsville,21.0,26.0,13.0,Casey Mears,GEICO (Germain Racing),Chevrolet,497.0,running,0.0,20.0
+2016,33,Martinsville,22.0,23.0,41.0,Kurt Busch,State Water Heaters (Stewart Haas Racing),Chevrolet,497.0,running,0.0,19.0
+2016,33,Martinsville,23.0,31.0,6.0,Trevor Bayne,AdvoCare (Jack Roush),Ford,497.0,running,0.0,18.0
+2016,33,Martinsville,24.0,24.0,10.0,Danica Patrick,Nature's Bakery (Stewart Haas Racing),Chevrolet,497.0,running,0.0,17.0
+2016,33,Martinsville,25.0,18.0,27.0,Paul Menard,Dutch Boy / Menards (Richard Childress),Chevrolet,496.0,running,0.0,16.0
+2016,33,Martinsville,26.0,6.0,14.0,Tony Stewart,Haas Automation (Stewart Haas Racing),Chevrolet,496.0,running,0.0,15.0
+2016,33,Martinsville,27.0,29.0,34.0,Chris Buescher,Love's Travel Stops / Roller Bites (Bob Jenkins),Ford,495.0,running,0.0,14.0
+2016,33,Martinsville,28.0,28.0,15.0,Clint Bowyer,"5-hour Energy (Harry Scott, Jr.)",Chevrolet,495.0,running,0.0,13.0
+2016,33,Martinsville,29.0,33.0,38.0,Landon Cassill,A&W All American Food (Bob Jenkins),Ford,494.0,running,0.0,12.0
+2016,33,Martinsville,30.0,21.0,7.0,Regan Smith,"Nikko RC / Toy State (Tommy Baldwin, Jr.)",Chevrolet,494.0,running,2.0,12.0
+2016,33,Martinsville,31.0,37.0,83.0,Dylan Lupton,E.J. Wade Construction (BK Racing),Toyota,490.0,running,0.0,0.0
+2016,33,Martinsville,32.0,27.0,93.0,Matt DiBenedetto,E.J. Wade Construction (BK Racing),Toyota,489.0,running,0.0,9.0
+2016,33,Martinsville,33.0,38.0,32.0,Jeffrey Earnhardt,Rain-X / Corvetteparts.net (Archie St. Hilaire),Ford,486.0,running,0.0,8.0
+2016,33,Martinsville,34.0,35.0,44.0,Brian Scott,American Red Cross (Richard Petty Motorsports),Ford,484.0,running,0.0,7.0
+2016,33,Martinsville,35.0,40.0,46.0,Michael Annett,"Pilot / Flying J (Harry Scott, Jr.)",Chevrolet,479.0,running,0.0,6.0
+2016,33,Martinsville,36.0,7.0,19.0,Carl Edwards,Sport Clips (Joe Gibbs),Toyota,477.0,running,0.0,5.0
+2016,33,Martinsville,37.0,12.0,23.0,David Ragan,Dr. Pepper (BK Racing),Toyota,424.0,running,0.0,4.0
+2016,33,Martinsville,38.0,34.0,55.0,Reed Sorenson,Premium Motorsports (Jay Robinson),Chevrolet,407.0,running,0.0,3.0
+2016,33,Martinsville,39.0,36.0,30.0,Gray Gaulding,Feed the Children (Curtis Key),Chevrolet,360.0,rear gear,0.0,2.0
+2016,33,Martinsville,40.0,39.0,17.0,Ricky Stenhouse Jr,Louisville / Fastenal (Jack Roush),Ford,21.0,crash,0.0,1.0
+2016,34,Fort Worth,1.0,9.0,19.0,Carl Edwards,Sport Clips (Joe Gibbs),Toyota,293.0,running,36.0,44.0
+2016,34,Fort Worth,2.0,2.0,22.0,Joey Logano,AAA Insurance (Roger Penske),Ford,293.0,running,178.0,41.0
+2016,34,Fort Worth,3.0,12.0,78.0,Martin Truex Jr,Bass Pro Shops / Tracker Boats (Barney Visser),Toyota,293.0,running,66.0,39.0
+2016,34,Fort Worth,4.0,11.0,24.0,Chase Elliott,Kelley Blue Book (Rick Hendrick),Chevrolet,293.0,running,3.0,38.0
+2016,34,Fort Worth,5.0,24.0,18.0,Kyle Busch,M&M's (Joe Gibbs),Toyota,293.0,running,2.0,37.0
+2016,34,Fort Worth,6.0,3.0,4.0,Kevin Harvick,Busch Beer (Stewart Haas Racing),Chevrolet,293.0,running,0.0,35.0
+2016,34,Fort Worth,7.0,7.0,20.0,Matt Kenseth,DeWalt FlexVolt (Joe Gibbs),Toyota,293.0,running,0.0,34.0
+2016,34,Fort Worth,8.0,31.0,5.0,Kasey Kahne,AARP / Drive to End Hunger (Rick Hendrick),Chevrolet,293.0,running,0.0,33.0
+2016,34,Fort Worth,9.0,17.0,11.0,Denny Hamlin,FedEx Office (Joe Gibbs),Toyota,293.0,running,1.0,33.0
+2016,34,Fort Worth,10.0,18.0,31.0,Ryan Newman,Grainger (Richard Childress),Chevrolet,293.0,running,0.0,31.0
+2016,34,Fort Worth,11.0,19.0,48.0,Jimmie Johnson,Lowe's (Rick Hendrick),Chevrolet,293.0,running,0.0,30.0
+2016,34,Fort Worth,12.0,8.0,21.0,Ryan Blaney,Borg Warner (Wood Brothers),Ford,293.0,running,0.0,29.0
+2016,34,Fort Worth,13.0,16.0,88.0,Alex Bowman,Nationwide Insurance (Rick Hendrick),Chevrolet,293.0,running,0.0,0.0
+2016,34,Fort Worth,14.0,4.0,2.0,Brad Keselowski,Alliance Truck Parts (Roger Penske),Ford,293.0,running,0.0,27.0
+2016,34,Fort Worth,15.0,5.0,42.0,Kyle Larson,Kimberly-Clark (Chip Ganassi),Chevrolet,293.0,running,0.0,26.0
+2016,34,Fort Worth,16.0,20.0,17.0,Ricky Stenhouse Jr,3M / Fastenal (Jack Roush),Ford,293.0,running,0.0,25.0
+2016,34,Fort Worth,17.0,14.0,47.0,A.J. Allmendinger,Bush's Chili Beans / Scott Products (JTG-Daugherty Racing),Chevrolet,293.0,running,0.0,24.0
+2016,34,Fort Worth,18.0,25.0,16.0,Greg Biffle,Performance Plus Motor Oil (Jack Roush),Ford,292.0,running,0.0,23.0
+2016,34,Fort Worth,19.0,15.0,1.0,Jamie McMurray,Cessna / Beechcraft (Chip Ganassi),Chevrolet,292.0,running,0.0,22.0
+2016,34,Fort Worth,20.0,10.0,41.0,Kurt Busch,Haas Automation / Monster Energy (Stewart Haas Racing),Chevrolet,292.0,running,0.0,21.0
+2016,34,Fort Worth,21.0,30.0,34.0,Chris Buescher,Love's Travel Stops (Bob Jenkins),Ford,292.0,running,0.0,20.0
+2016,34,Fort Worth,22.0,21.0,43.0,Aric Almirola,Smithfield (Richard Petty Motorsports),Ford,292.0,running,0.0,19.0
+2016,34,Fort Worth,23.0,28.0,95.0,Michael McDowell,Thrivent Financial (Leavine Family Racing),Chevrolet,291.0,running,0.0,18.0
+2016,34,Fort Worth,24.0,22.0,10.0,Danica Patrick,TaxAct (Stewart Haas Racing),Chevrolet,291.0,running,0.0,17.0
+2016,34,Fort Worth,25.0,27.0,15.0,Clint Bowyer,"5-hour Energy (Harry Scott, Jr.)",Chevrolet,291.0,running,0.0,16.0
+2016,34,Fort Worth,26.0,32.0,7.0,Regan Smith,"Nikko RC / Toy State (Tommy Baldwin, Jr.)",Chevrolet,291.0,running,0.0,15.0
+2016,34,Fort Worth,27.0,29.0,44.0,Brian Scott,Albertson's / Tom Thumb (Richard Petty Motorsports),Ford,291.0,running,0.0,14.0
+2016,34,Fort Worth,28.0,6.0,27.0,Paul Menard,Schrock / Menards (Richard Childress),Chevrolet,290.0,running,0.0,13.0
+2016,34,Fort Worth,29.0,34.0,38.0,Landon Cassill,MDS Transport (Bob Jenkins),Ford,290.0,running,0.0,12.0
+2016,34,Fort Worth,30.0,26.0,6.0,Trevor Bayne,AdvoCare / SEAL Legacy Foundation (Jack Roush),Ford,289.0,running,0.0,11.0
+2016,34,Fort Worth,31.0,23.0,14.0,Tony Stewart,Bass Pro Shops / Mobil 1 (Stewart Haas Racing),Chevrolet,288.0,running,0.0,10.0
+2016,34,Fort Worth,32.0,37.0,46.0,Michael Annett,"Pilot / Flying J (Harry Scott, Jr.)",Chevrolet,287.0,running,0.0,9.0
+2016,34,Fort Worth,33.0,36.0,23.0,David Ragan,Dr. Pepper (BK Racing),Toyota,287.0,running,1.0,9.0
+2016,34,Fort Worth,34.0,33.0,83.0,Jeffrey Earnhardt,ZAK Backs the Blue (BK Racing),Toyota,285.0,running,0.0,7.0
+2016,34,Fort Worth,35.0,38.0,55.0,Reed Sorenson,"Trump-Pence ""Make America Great Again"" (Jay Robinson)",Toyota,285.0,running,0.0,6.0
+2016,34,Fort Worth,36.0,39.0,32.0,Joey Gase,Donate Life Texas / Lifecell (Archie St. Hilaire),Ford,280.0,running,0.0,0.0
+2016,34,Fort Worth,37.0,1.0,3.0,Austin Dillon,Realtree / Bad Boy Off Road (Richard Childress),Chevrolet,262.0,crash,6.0,5.0
+2016,34,Fort Worth,38.0,35.0,93.0,Ryan Ellis,Science Logic (BK Racing),Toyota,261.0,running,0.0,0.0
+2016,34,Fort Worth,39.0,13.0,13.0,Casey Mears,GEICO Military (Germain Racing),Chevrolet,260.0,crash,0.0,2.0
+2016,34,Fort Worth,40.0,40.0,30.0,Josh Wise,The Motorsports Group (Curtis Key),Chevrolet,257.0,electrical,0.0,1.0
+2016,35,Phoenix,1.0,4.0,22.0,Joey Logano,Shell / Pennzoil Mosaic (Roger Penske),Ford,324.0,running,58.0,44.0
+2016,35,Phoenix,2.0,19.0,18.0,Kyle Busch,M&M's (Joe Gibbs),Toyota,324.0,running,0.0,39.0
+2016,35,Phoenix,3.0,2.0,42.0,Kyle Larson,Target / Coca-Cola (Chip Ganassi),Chevrolet,324.0,running,0.0,38.0
+2016,35,Phoenix,4.0,6.0,4.0,Kevin Harvick,Jimmy John's (Stewart Haas Racing),Chevrolet,324.0,running,0.0,37.0
+2016,35,Phoenix,5.0,12.0,41.0,Kurt Busch,Monster Energy / Haas Automation (Stewart Haas Racing),Chevrolet,324.0,running,0.0,36.0
+2016,35,Phoenix,6.0,1.0,88.0,Alex Bowman,Nationwide Insurance (Rick Hendrick),Chevrolet,324.0,running,194.0,0.0
+2016,35,Phoenix,7.0,5.0,11.0,Denny Hamlin,FedEx Ground (Joe Gibbs),Toyota,324.0,running,4.0,35.0
+2016,35,Phoenix,8.0,8.0,21.0,Ryan Blaney,Kaman Industrial Technologies / SKF (Wood Brothers),Ford,324.0,running,0.0,33.0
+2016,35,Phoenix,9.0,3.0,24.0,Chase Elliott,Sun Energy 1 (Rick Hendrick),Chevrolet,324.0,running,0.0,32.0
+2016,35,Phoenix,10.0,20.0,27.0,Paul Menard,Rock Solid / Rustoleum / Menards (Richard Childress),Chevrolet,324.0,running,0.0,31.0
+2016,35,Phoenix,11.0,9.0,1.0,Jamie McMurray,Sherwin Williams (Chip Ganassi),Chevrolet,324.0,running,0.0,30.0
+2016,35,Phoenix,12.0,15.0,31.0,Ryan Newman,Cat Minestar (Richard Childress),Chevrolet,324.0,running,0.0,29.0
+2016,35,Phoenix,13.0,13.0,5.0,Kasey Kahne,Farmers Insurance (Rick Hendrick),Chevrolet,324.0,running,0.0,28.0
+2016,35,Phoenix,14.0,14.0,2.0,Brad Keselowski,Miller Lite (Roger Penske),Ford,324.0,running,0.0,27.0
+2016,35,Phoenix,15.0,25.0,14.0,Tony Stewart,Mobil 1 (Stewart Haas Racing),Chevrolet,324.0,running,0.0,26.0
+2016,35,Phoenix,16.0,24.0,16.0,Greg Biffle,Performance Plus Motor Oil (Jack Roush),Ford,324.0,running,0.0,25.0
+2016,35,Phoenix,17.0,18.0,47.0,A.J. Allmendinger,Fry's / Clorox / Scott Products (JTG-Daugherty Racing),Chevrolet,324.0,running,0.0,24.0
+2016,35,Phoenix,18.0,22.0,13.0,Casey Mears,GEICO Military (Germain Racing),Chevrolet,324.0,running,0.0,23.0
+2016,35,Phoenix,19.0,11.0,19.0,Carl Edwards,Stanley Tools (Joe Gibbs),Toyota,324.0,running,0.0,22.0
+2016,35,Phoenix,20.0,28.0,38.0,Landon Cassill,MDS Transport (Bob Jenkins),Ford,324.0,running,0.0,21.0
+2016,35,Phoenix,21.0,10.0,20.0,Matt Kenseth,Dollar General (Joe Gibbs),Toyota,324.0,running,55.0,21.0
+2016,35,Phoenix,22.0,27.0,43.0,Aric Almirola,U.S. Air Force (Richard Petty Motorsports),Ford,322.0,running,0.0,19.0
+2016,35,Phoenix,23.0,21.0,17.0,Ricky Stenhouse Jr,Roush Performance Parts (Jack Roush),Ford,322.0,running,0.0,18.0
+2016,35,Phoenix,24.0,34.0,15.0,Clint Bowyer,"5-hour Energy (Harry Scott, Jr.)",Chevrolet,322.0,running,0.0,17.0
+2016,35,Phoenix,25.0,32.0,83.0,Matt DiBenedetto,JAS Expedited Tracking (BK Racing),Toyota,322.0,running,0.0,16.0
+2016,35,Phoenix,26.0,36.0,46.0,Michael Annett,"Pilot / Flying J (Harry Scott, Jr.)",Chevrolet,321.0,running,0.0,15.0
+2016,35,Phoenix,27.0,29.0,7.0,Regan Smith,"Nikko RC / Toy State (Tommy Baldwin, Jr.)",Chevrolet,321.0,running,0.0,14.0
+2016,35,Phoenix,28.0,23.0,6.0,Trevor Bayne,AdvoCare (Jack Roush),Ford,321.0,running,0.0,13.0
+2016,35,Phoenix,29.0,16.0,10.0,Danica Patrick,Nature's Bakery (Stewart Haas Racing),Chevrolet,320.0,running,0.0,12.0
+2016,35,Phoenix,30.0,33.0,44.0,Brian Scott,Safeway / Whitetail Club / Heinz (Richard Petty Motorsports),Ford,319.0,running,0.0,11.0
+2016,35,Phoenix,31.0,31.0,23.0,David Ragan,Dr. Pepper (BK Racing),Toyota,319.0,running,0.0,10.0
+2016,35,Phoenix,32.0,30.0,34.0,Chris Buescher,Dockside Logistics (Bob Jenkins),Ford,318.0,running,0.0,9.0
+2016,35,Phoenix,33.0,35.0,32.0,Jeffrey Earnhardt,Can-Am / Kappa (Archie St. Hilaire),Ford,318.0,running,0.0,8.0
+2016,35,Phoenix,34.0,26.0,95.0,Michael McDowell,ON Semiconductor / Malwarebytes (Leavine Family Racing),Chevrolet,318.0,running,0.0,7.0
+2016,35,Phoenix,35.0,39.0,55.0,D.J. Kennington,Northern Provincial Pipelines (Jay Robinson),Chevrolet,316.0,running,0.0,0.0
+2016,35,Phoenix,36.0,38.0,98.0,Reed Sorenson,Speed Stick (Jay Robinson),Chevrolet,315.0,running,0.0,5.0
+2016,35,Phoenix,37.0,37.0,30.0,Gray Gaulding,Feed the Children (Curtis Key),Chevrolet,296.0,fuel pump,0.0,4.0
+2016,35,Phoenix,38.0,17.0,48.0,Jimmie Johnson,Lowe's / Kobalt Tools (Rick Hendrick),Chevrolet,296.0,running,13.0,4.0
+2016,35,Phoenix,39.0,7.0,3.0,Austin Dillon,American Ethanol E15 (Richard Childress),Chevrolet,289.0,running,0.0,2.0
+2016,35,Phoenix,40.0,40.0,78.0,Martin Truex Jr,Furniture Row / Denver Mattress (Barney Visser),Toyota,258.0,crash,0.0,1.0
+2016,36,Homestead,1.0,14.0,48.0,Jimmie Johnson,Lowe's (Rick Hendrick),Chevrolet,268.0,running,3.0,40.0
+2016,36,Homestead,2.0,24.0,42.0,Kyle Larson,Target / Crest (Chip Ganassi),Chevrolet,268.0,running,132.0,41.0
+2016,36,Homestead,3.0,1.0,4.0,Kevin Harvick,Jimmy John's (Stewart Haas Racing),Chevrolet,268.0,running,79.0,39.0
+2016,36,Homestead,4.0,13.0,22.0,Joey Logano,Shell / Pennzoil Mosaic (Roger Penske),Ford,268.0,running,6.0,37.0
+2016,36,Homestead,5.0,15.0,1.0,Jamie McMurray,McDonald's (Chip Ganassi),Chevrolet,268.0,running,0.0,36.0
+2016,36,Homestead,6.0,9.0,18.0,Kyle Busch,M&M's (Joe Gibbs),Toyota,268.0,running,1.0,35.0
+2016,36,Homestead,7.0,7.0,20.0,Matt Kenseth,DeWalt FlexVolt (Joe Gibbs),Toyota,268.0,running,0.0,34.0
+2016,36,Homestead,8.0,12.0,47.0,A.J. Allmendinger,Kroger / Clorox / Scott Products (JTG-Daugherty Racing),Chevrolet,268.0,running,0.0,33.0
+2016,36,Homestead,9.0,4.0,11.0,Denny Hamlin,FedEx Express (Joe Gibbs),Toyota,268.0,running,0.0,32.0
+2016,36,Homestead,10.0,26.0,59.0,Michael McDowell,Thrivent Financial (Leavine Family Racing),Chevrolet,268.0,running,0.0,31.0
+2016,36,Homestead,11.0,5.0,24.0,Chase Elliott,NAPA Auto Parts (Rick Hendrick),Chevrolet,268.0,running,0.0,30.0
+2016,36,Homestead,12.0,17.0,3.0,Austin Dillon,Dow Corning (Richard Childress),Chevrolet,268.0,running,0.0,29.0
+2016,36,Homestead,13.0,16.0,41.0,Kurt Busch,Haas Automation / Monster Energy (Stewart Haas Racing),Chevrolet,268.0,running,0.0,28.0
+2016,36,Homestead,14.0,28.0,27.0,Paul Menard,Richmond / Menards (Richard Childress),Chevrolet,268.0,running,0.0,27.0
+2016,36,Homestead,15.0,22.0,44.0,Brian Scott,Safeway / Shore Lodge / Heinz (Richard Petty Motorsports),Ford,268.0,running,0.0,26.0
+2016,36,Homestead,16.0,19.0,88.0,Alex Bowman,Axalta / FinishMaster (Rick Hendrick),Chevrolet,268.0,running,0.0,0.0
+2016,36,Homestead,17.0,21.0,16.0,Greg Biffle,Roush Performance Parts (Jack Roush),Ford,267.0,running,0.0,24.0
+2016,36,Homestead,18.0,23.0,13.0,Casey Mears,GEICO (Germain Racing),Chevrolet,267.0,running,0.0,23.0
+2016,36,Homestead,19.0,30.0,10.0,Danica Patrick,TaxAct (Stewart Haas Racing),Chevrolet,266.0,running,0.0,22.0
+2016,36,Homestead,20.0,20.0,6.0,Trevor Bayne,AdvoCare (Jack Roush),Ford,266.0,running,0.0,21.0
+2016,36,Homestead,21.0,32.0,38.0,Landon Cassill,Florida Lottery (Bob Jenkins),Ford,266.0,running,0.0,20.0
+2016,36,Homestead,22.0,11.0,14.0,Tony Stewart,Always a Racer - Forever a Champion / Mobil 1 (Stewart Haas Racing),Chevrolet,266.0,running,0.0,19.0
+2016,36,Homestead,23.0,33.0,15.0,Clint Bowyer,"5-hour Energy (Harry Scott, Jr.)",Chevrolet,266.0,running,0.0,18.0
+2016,36,Homestead,24.0,27.0,34.0,Chris Buescher,Love's Travel Stops (Bob Jenkins),Ford,266.0,running,0.0,17.0
+2016,36,Homestead,25.0,3.0,31.0,Ryan Newman,Caterpillar (Richard Childress),Chevrolet,264.0,crash,0.0,16.0
+2016,36,Homestead,26.0,8.0,21.0,Ryan Blaney,Motorcraft / Quick Lane Tire & Auto Center (Wood Brothers),Ford,264.0,running,0.0,15.0
+2016,36,Homestead,27.0,31.0,49.0,Matt DiBenedetto,NASCAR Heat Evolution (BK Racing),Toyota,264.0,running,0.0,14.0
+2016,36,Homestead,28.0,40.0,46.0,Michael Annett,"Pilot / Flying J (Harry Scott, Jr.)",Chevrolet,264.0,running,0.0,13.0
+2016,36,Homestead,29.0,36.0,23.0,David Ragan,Dr. Pepper (BK Racing),Toyota,264.0,running,0.0,12.0
+2016,36,Homestead,30.0,18.0,17.0,Ricky Stenhouse Jr,Fastenal / Lenox (Jack Roush),Ford,262.0,crash,0.0,11.0
+2016,36,Homestead,31.0,38.0,83.0,Jeffrey Earnhardt,Starter (BK Racing),Toyota,261.0,running,0.0,10.0
+2016,36,Homestead,32.0,37.0,55.0,Reed Sorenson,RoyalTeak.com / Backyard Company (Jay Robinson),Toyota,259.0,running,0.0,9.0
+2016,36,Homestead,33.0,34.0,95.0,Ty Dillon,Advil Rapid Release Formula (Leavine Family Racing),Chevrolet,258.0,crash,0.0,0.0
+2016,36,Homestead,34.0,10.0,19.0,Carl Edwards,Arris (Joe Gibbs),Toyota,257.0,crash,47.0,7.0
+2016,36,Homestead,35.0,2.0,2.0,Brad Keselowski,Miller Lite (Roger Penske),Ford,257.0,crash,0.0,6.0
+2016,36,Homestead,36.0,6.0,78.0,Martin Truex Jr,Bass Pro Shops / Tracker Boats (Barney Visser),Toyota,257.0,crash,0.0,5.0
+2016,36,Homestead,37.0,29.0,5.0,Kasey Kahne,Great Clips (Rick Hendrick),Chevrolet,257.0,crash,0.0,4.0
+2016,36,Homestead,38.0,35.0,7.0,Regan Smith,"Nikko RC / Road Rippers (Tommy Baldwin, Jr.)",Chevrolet,255.0,crash,0.0,3.0
+2016,36,Homestead,39.0,39.0,32.0,Dylan Lupton,Can-Am / Corvetteparts.net (Archie St. Hilaire),Ford,250.0,running,0.0,0.0
+2016,36,Homestead,40.0,25.0,43.0,Aric Almirola,Smithfield (Richard Petty Motorsports),Ford,213.0,running,0.0,1.0
