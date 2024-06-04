@@ -1,5 +1,5 @@
 
-# nascaR.data
+# motorsports-scraping
 
 <div align="center">
   <img src="https://github.com/kyleGrealis/nascaR.data/raw/main/NASCAR-Bar-mark.png" alt="NASCAR Bar Mark" width="450"/>
