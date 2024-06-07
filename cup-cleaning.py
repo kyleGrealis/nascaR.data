@@ -50,9 +50,7 @@ import re
 import siuba as ss
 
 # %%
-data_in = pl.read_csv(
-  'data/cup-series/all-cup-series-results.csv', ignore_errors=True
-)
+data_in = pd.read_csv('data/cup-series/all-cup-series-results.csv')
 
 # %%
 mitter = (
