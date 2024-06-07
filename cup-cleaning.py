@@ -42,3 +42,36 @@ cup = (
 # TODO: create new variables
 # TODO: consider making per driver stats
 # TODO: consider making per owner stats
+
+# %%
+import numpy as np
+import pandas as pd
+import re
+import siuba as ss
+
+# %%
+data_in = pl.read_csv(
+  'data/cup-series/all-cup-series-results.csv', ignore_errors=True
+)
+
+# %%
+mitter = (
+  data_in
+  # .select('Pos', 'St', 'Car', 'Sponsor / Owner')
+  .with_columns(
+    
+    pl.col('Sponsor / Owner').fill_null('').alias('Sponsor / Owner'),
+    pl.col('Car').fill_null('').alias('Car_model'),
+    pl.col('Status').fill_null('').alias('Status'),
+    
+    pl.col('Sponsor / Owner')
+    .map_elements(lambda value: re.sub(r'\(.*?\)', '', value).strip() if re.search(r'\(.*?\)', value) else "", return_dtype=pl.Utf8) 
+    .alias('Sponsor'),
+   
+    # pl.col('Sponsor / Owner')
+    # .map_elements(lambda value: re.search(r'\((.*?)\)', value).group(1) if re.search(r'\((.*?)\)', value) else value, return_dtype=pl.Utf8)
+    # .alias('Owner')
+  )
+).head()
+
+# %%

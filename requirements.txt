@@ -1,0 +1,12 @@
+greenlet==3.0.3
+numpy==1.26.4
+pandas==2.0.3
+python-dateutil==2.9.0.post0
+pytz==2024.1
+PyYAML==6.0.1
+siuba==0.4.4
+six==1.16.0
+SQLAlchemy==2.0.30
+typing_extensions==4.12.2
+tzdata==2024.1
+wheel==0.43.0
