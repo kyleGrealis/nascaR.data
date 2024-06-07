@@ -23,21 +23,22 @@ cup = (
     pl.col('Car_model').fill_null('').alias('Car_model'),
     pl.col('Status').fill_null('').alias('Status')
   )
+  # note: The sponsor information exists outside the parentesis if there are parenthesis in the string, such as "STP (Petty Enterprises)". Other cells only have the value of the Owner listed, such as "Kyle Grealis" or the value is empty.
   .with_columns(
-      # create 'Sponsor' column by removing content within parentheses and strip whitespace, or set to empty string if no parentheses
-      pl.col('Sponsor / Owner')
-      .map_elements(lambda value: re.sub(r'\(.*?\)', '', value).strip() if re.search(r'\(.*?\)', value) else "", return_dtype=pl.Utf8) 
-      .alias('Sponsor')
-    )
-    .with_columns(
-      # create 'Owner' column by extracting content within parentheses or using the entire value if no parentheses
-      pl.col('Sponsor / Owner')
-      .map_elements(lambda value: re.search(r'\((.*?)\)', value).group(1) if re.search(r'\((.*?)\)', value) else value, return_dtype=pl.Utf8)
-      .alias('Owner')
-    )
+    # create 'Sponsor' column by removing content within parentheses and strip whitespace, or set to empty string if no parentheses meaning there is no sponsor but only owner information in "Sponsor / Owner" variable.
+    pl.col('Sponsor / Owner')
+    .map_elements(lambda value: re.sub(r'\(.*?\)', '', value).strip() if re.search(r'\(.*?\)', value) else "", return_dtype=pl.Utf8) 
+    .alias('Sponsor')
+  )
+  .with_columns(
+    # Create 'Owner' column by extracting content within parentheses or using the entire value if no parentheses. When the original "Sponsor / Owner" value is blank, neither new variable will have a value entered and will remain blank.
+    pl.col('Sponsor / Owner')
+    .map_elements(lambda value: re.search(r'\((.*?)\)', value).group(1) if re.search(r'\((.*?)\)', value) else value, return_dtype=pl.Utf8)
+    .alias('Owner')
+  )
 )
 
 
-
-
-# %%
+# TODO: create new variables
+# TODO: consider making per driver stats
+# TODO: consider making per owner stats
