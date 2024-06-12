@@ -176,12 +176,11 @@ def cup_racing(start, stop=None):
 # cup = cup_racing(1949, 1949)
 
 # %%
-import time
-start_time = time.time()
+# import time
+# start_time = time.time()
 
-# cup = cup_racing(1949)  # 06.12.2024: timed out after 1975
-cup = cup_racing(1976)  # completing initial scrape
+# cup = cup_racing(1949)
 
-end_time = time.time()
+# end_time = time.time()
 
-print(f'The process took {end_time-start_time} seconds.')
+# print(f'The process took {end_time-start_time} seconds.')
