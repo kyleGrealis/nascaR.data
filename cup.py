@@ -1,35 +1,45 @@
-# %%
+'''
+This Python script is designed to scrape NASCAR race data from a website using Selenium and BeautifulSoup. It contains two main functions: race_results and cup_racing.
 
+The race_results function takes a Selenium WebDriver instance, a race link, a season, a race number, and a site as arguments. It loads the page source into BeautifulSoup, selects a specific table with race results, and converts it into a pandas DataFrame. It also extracts additional information about the track from the page and adds it to the DataFrame.
+
+The cup_racing function takes a start year and an optional stop year as arguments. If no stop year is provided, it defaults to the current year. It generates a list of seasons from the start year to the stop year, and for each season, it opens a WebDriver instance, loads the season page, and gets all the race links. For each race link, it attempts to load the page and get the race results up to 5 times, handling timeouts by quitting and restarting the driver. If all attempts fail, it stops the function. If the page loads successfully, it adds the race results to a list. After processing all races for a season, it concatenates all race tables into a single DataFrame and saves it to a CSV file. It then adds the DataFrame to a list of all race tables. After all seasons are processed, it concatenates all race tables into a single DataFrame and returns it. The function also includes a delay between seasons to avoid being blocked by the website's robots.txt file.
+
+NOTE: Combining all individual season CSV files will be handled in the data cleaning script. This has been separated so that quicker updateds can be applied mid-season. More specifically, there is no need to be redundant in scraping all the data. Rather, each updated iteration set can be separately cleaned and applied to the main dataset.
+'''
+
+# %%
 import numpy as np
 import pandas as pd
 from selenium import webdriver
 from selenium.common.exceptions import TimeoutException
 from bs4 import BeautifulSoup
+from datetime import datetime
 import os
 import re
 import time
 from io import StringIO
 
+# %%
 # function to get the race results informaton
 def race_results(driver, race_link, season, race_num, site):
-  
     # get the HTML of the page and parse with BeautifulSoup
     soup = BeautifulSoup(driver.page_source, 'html.parser')
-    
+
     # select only the table with class 'race-results-tbl'
     table = soup.select_one('.race-results-tbl')
-    
+
     # convert the table to a pandas DataFrame
     race_table = pd.read_html(StringIO(str(table)))[0]
-    
+
     # convert all numeric columns to float
     for col in race_table.columns:
         if race_table[col].dtype == 'int64' or race_table[col].dtype == 'float64':
             race_table[col] = race_table[col].astype('float64')
-    
+
     # save the original column names
     original_columns = race_table.columns.tolist()
-
+    
     '''
     The track-specific details are obtained from this section:
         NASCAR Cup Series race number 16 of 36
@@ -62,99 +72,102 @@ def race_results(driver, race_link, season, race_num, site):
 
     # reorder the columns
     race_table = race_table[
-       ['Season', 'Race', 'Site', 'Track', 'Track_length', 'Track_type'] 
-       + original_columns
+        ['Season', 'Race', 'Site', 'Track', 'Track_length', 'Track_type']
+        + original_columns
     ]
 
     return race_table
 
-# function to get all season race results from start to stop year
-def cup_racing(start, stop):
+
+# function to get all season race results from the `start` year until current year
+def cup_racing(start, stop=None):
+    
+    if stop is None:
+        stop = datetime.now().year
     
     # base url for the racing results
     base_url = 'https://www.racing-reference.info/season-stats/{}/W/'
-    
-    # create a list of the seasons
+
+    # create a list of the seasons 
     seasons = list(np.arange(start, stop+1))
-    
+
     # list to store all of the race results tables by season
     all_race_tables = []
-    
-    # open firefox
-    driver = webdriver.Firefox()
-    # set the maximum page load timeout
-    driver.set_page_load_timeout(600)
 
     # loop over each season
     for season in seasons:
         # list to store all of the race results tables by race
         season_race_tables = []
-        
+
+        # open Chrome
+        driver = webdriver.Chrome()
+        # set the maximum page load timeout to 1 minute
+        driver.set_page_load_timeout(60)
+
         # load the season page that contains hyperlinks to the results for each race
         driver.get(base_url.format(season))
-        
+
         # get the HTML of the page and parse with BeautifulSoup
         soup = BeautifulSoup(driver.page_source, 'html.parser')
-        
+
         # get each race link
         divs = soup.find_all('div', class_='race-number')
         race_links = [a['href'] for div in divs for a in div.find_all('a')]
-        
+
         # get the race track locaton from the "Site" column in the main season table
         site_divs = soup.find_all('div', class_='track')
         sites = [a.text for div in site_divs for a in div.find_all('a')]
-        
+
         # get race info for each race
-        '''
-        This section of code is designed to try and access the race result information up to 5 times. If an exception occurs (for example, if the page fails to load), it will print an error message, wait for 2 minutes, and then try again. If it still can't access the page after 5 attempts, it will print a message saying that all attempts have failed, quit the driver, and then return from the function.
-        '''
         for i, race_link in enumerate(race_links):
-          for attempt in range(5):
-            try:
-              driver.get(race_link)
-              race_table = race_results(driver, race_link, season, i+1, sites[i])
-              season_race_tables.append(race_table)
-              break
-            except Exception as e:
-              print(f'Error loading page: {e}')
-              if attempt < 4:
-                print(f'Trying {season} season again...')
-                driver.quit()
-                time.sleep(120)  # wait 2 minutes before reattempting
-                driver = webdriver.Firefox()
-                driver.set_page_load_timeout(600)  # max wait 10 minutes to load
-              else:
-                print(f'All attempts failed for {season} season.')
-                driver.quit()
-                return
-        
+            # maximize 5 attempts to load the page
+            for attempt in range(5):
+                # maximum load time set to 30 seconds
+                driver.set_page_load_timeout(30)
+
+                try:
+                    driver.get(race_link)
+                    season_race_tables.append(
+                        race_results(driver, race_link, season, i+1, sites[i])
+                    )
+                    break
+                except TimeoutException:
+                    print(f'Timeout loading page, attempt {attempt+1} of 5.')
+                    driver.quit()
+                    if attempt < 4:
+                        driver = webdriver.Chrome()
+                        driver.set_page_load_timeout(30)
+                    else:
+                        print(f'All attemtps failed for {season} race {i+1}.')
+                        return
+
         # concatenate all race tables into one dataframe for the season
         season_df = pd.concat(season_race_tables)
-        
+
         # save the dataframe for the season to a CSV file
         season_df.to_csv(
-            os.path.join('data', 'cup-series', f'cup-{season}.csv'), 
+            os.path.join('data', 'cup-series', f'cup-{season}.csv'),
             index=False
         )
-        
+
         # add the new season data to the main data
         all_race_tables.append(season_df)
-        
+
         # add time delay before moving to next season to prevent being blocked by robots.txt
-        time.sleep(30) # seconds
-        
-    # close Firefox after scraping the season info
-    driver.quit()
-    
+        time.sleep(15)  # seconds
+
+        # close Chrome after scraping the season info
+        driver.quit()
+
     # concatenate all race tables into one dataframe
     all_races_df = pd.concat(all_race_tables)
-    
+
     # save the main dataframe to a CSV file
-    all_races_df.to_csv(
-        os.path.join('data', 'cup-series', 'all-cup-series-results.csv'), 
-        index=False
-    )
-    
+    # all_races_df.to_csv(
+    #     os.path.join('data', 'cup-series', 'all-cup-series-results.csv'),
+    #     index=False
+    # )
+
     return all_races_df
 
 
@@ -166,11 +179,9 @@ def cup_racing(start, stop):
 import time
 start_time = time.time()
 
-cup = cup_racing(1949, 2024)
+# cup = cup_racing(1949)  # 06.12.2024: timed out after 1975
+cup = cup_racing(1976)  # completing initial scrape
 
 end_time = time.time()
 
 print(f'The process took {end_time-start_time} seconds.')
-
-
-# %%
