@@ -26,14 +26,14 @@ df.select(
 
 # %%
 
-(
+cup = (
   df
   .rename({
     'Season': 'season',
     'Race': 'race',
     'Track': 'track',
-    'Pos': 'Finish',
-    'St': 'Start',
+    'Pos': 'finish',
+    'St': 'start',
     '#': 'car_number',
     'Driver': 'driver',
     'Car': 'car',
@@ -56,10 +56,46 @@ df.select(
     .map_elements(lambda value: re.search(r'\((.*?)\)', value).group(1) if re.search(r'\((.*?)\)', value) else value, return_dtype=pl.Utf8)
     .alias('Owner')
   )
+  .drop('Sponsor / Owner')
 )
 
 
-
+# %%
 # TODO: create new variables
 # TODO: consider making per driver stats
-# TODO: consider making per owner stats
+
+'''
+Calculating statistics for the driver's results by season.
+'''
+driver_season = (
+  cup
+  .group_by('driver', 'season', maintain_order=True).agg(
+    
+    best_start = pl.col('start').min(),
+    worst_start = pl.col('start').max(),
+    # some seasons don't have starting position
+    avg_start = pl.col('start').drop_nans().mean().round(2),
+    
+    best_finish = pl.col('finish').min(),
+    worst_finish = pl.col('finish').max(),
+    avg_finish = pl.col('finish').mean().round(2),
+    
+    most_laps_led = pl.col('laps_led').max(),
+    avg_laps_led = pl.col('laps_led').drop_nans().mean().round(2),
+    
+    # money results aren't collected after the 2015 season
+    total_money = pl.col('money').sum(),
+    avg_money = pl.col('money').mean().round(0).cast(pl.UInt64),
+    
+    max_race_money = pl.col('money').max(),
+    min_race_money = pl.col('money').min()
+  )
+  # .filter(pl.col('season_avg_money') > 0)
+  .filter(pl.col('season') == 2015)
+  .sort('season', 'avg_finish')
+)
+
+driver_season
+
+
+# %%
