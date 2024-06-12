@@ -30,6 +30,19 @@ def race_results(driver, race_link, season, race_num, site):
     # save the original column names
     original_columns = race_table.columns.tolist()
 
+    '''
+    The track-specific details are obtained from this section:
+        NASCAR Cup Series race number 16 of 36
+        Sunday, June 9, 2024 at Sonoma Raceway, Sonoma, CA
+        110 laps on a 1.990 mile road course (218.900 miles)
+    
+    The following sections use string extraction methods and HTML parsing to locate and store the appropriate information.
+
+    track = the track name, such as Daytona International Speedway or Bristol Speedway
+    track_length = length in miles
+    track_type = racing surface (dirt or paved) and layout (track or road course) 
+    '''
+
     # find the track name; not always the same as the location/city
     track = next((p.find('a', href=lambda h: "tracks" in h).text for p in soup.find_all('p') if p.text and "race number" in p.text), None)
 
@@ -92,6 +105,9 @@ def cup_racing(start, stop):
         sites = [a.text for div in site_divs for a in div.find_all('a')]
         
         # get race info for each race
+        '''
+        This section of code is designed to try and access the race result information up to 5 times. If an exception occurs (for example, if the page fails to load), it will print an error message, wait for 2 minutes, and then try again. If it still can't access the page after 5 attempts, it will print a message saying that all attempts have failed, quit the driver, and then return from the function.
+        '''
         for i, race_link in enumerate(race_links):
           for attempt in range(5):
             try:
@@ -121,10 +137,10 @@ def cup_racing(start, stop):
             index=False
         )
         
-        # add the season data to the main data
+        # add the new season data to the main data
         all_race_tables.append(season_df)
         
-        # add time delay before moving to next season
+        # add time delay before moving to next season to prevent being blocked by robots.txt
         time.sleep(30) # seconds
         
     # close Firefox after scraping the season info
@@ -156,3 +172,5 @@ end_time = time.time()
 
 print(f'The process took {end_time-start_time} seconds.')
 
+
+# %%
