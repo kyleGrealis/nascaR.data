@@ -86,6 +86,7 @@ driver_season = (
     
     most_laps_led = pl.col('laps_led').max(),
     avg_laps_led = pl.col('laps_led').drop_nans().mean().round(2),
+    total_laps_led = pl.col('laps_led').sum(),
     
     avg_points = pl.col('pts').drop_nans().mean().round(2),
     
