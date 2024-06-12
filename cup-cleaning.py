@@ -46,6 +46,10 @@ cup = (
   })
   # note: The sponsor information exists outside the parentesis if there are parenthesis in the string, such as "STP (Petty Enterprises)". Other cells only have the value of the Owner listed, such as "Kyle Grealis" or the value is empty.
   .with_columns(
+    
+    pl.col('pts').cast(pl.Int32),
+    pl.col('playoff_pts').cast(pl.Int32),
+    
     # create 'Sponsor' column by removing content within parentheses and strip whitespace, or set to empty string if no parentheses meaning there is no sponsor but only owner information in "Sponsor / Owner" variable.
     pl.col('Sponsor / Owner')
     .map_elements(lambda value: re.sub(r'\(.*?\)', '', value).strip() if re.search(r'\(.*?\)', value) else "", return_dtype=pl.Utf8) 
@@ -83,6 +87,11 @@ driver_season = (
     most_laps_led = pl.col('laps_led').max(),
     avg_laps_led = pl.col('laps_led').drop_nans().mean().round(2),
     
+    avg_points = pl.col('pts').drop_nans().mean().round(2),
+    
+    # playoff points started in 2017
+    avg_playoff_pts = pl.col('playoff_pts').drop_nans().mean().round(2),
+    
     # money results aren't collected after the 2015 season
     total_money = pl.col('money').sum(),
     avg_money = pl.col('money').mean().round(0).cast(pl.UInt64),
@@ -91,6 +100,7 @@ driver_season = (
     min_race_money = pl.col('money').min()
   )
   # .filter(pl.col('season_avg_money') > 0)
+  # .filter(pl.col('avg_playoff_pts') > 0)
   .filter(pl.col('season') == 2015)
   .sort('season', 'avg_finish')
 )
