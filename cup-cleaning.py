@@ -6,13 +6,50 @@ This is the data cleaning script for NASCAR Cup series data. Some level of data 
 import numpy as np
 import pandas as pd
 import polars as pl
+import glob
+import os
 import re
 
 
 # %%
-df = (
-  pl.read_csv('data/cup-series/all-cup-series-results.csv', ignore_errors=True)
-)
+# specify data types
+dtypes = {
+  'Season': 'int64',
+  'Race': 'int64',
+  'Site': 'str',
+  'Track': 'str',
+  'Track_length': 'float64',
+  'Track_type': 'str',
+  'Pos': 'int64',
+  'St': 'object',  # changed from 'float64'
+  '#': 'str',  # changed from 'float64'
+  'Driver': 'str',
+  'Sponsor / Owner': 'str',
+  'Car': 'str',
+  'Laps': 'object',  # changed from 'float64'
+  'Money': 'float64',
+  'Status': 'str',
+  'Led': 'object',  # changed from 'float64'
+  'Pts': 'float64',
+  'PPts': 'float64'
+}
+
+# read each CSV file into a Pandas DataFrame and add it to a list
+all_race_tables = [
+  pd.read_csv(file, dtype=dtypes) for file in glob.glob(os.path.join('data', 'cup-series', 'cup-*.csv'))
+]
+
+# convert columns to numeric, replacing non-numeric values with NaN
+for df in all_race_tables:
+  df['St'] = pd.to_numeric(df['St'], errors='coerce')
+  # df['#'] = pd.to_numeric(df['#'], errors='coerce')
+  df['Laps'] = pd.to_numeric(df['Laps'], errors='coerce').astype('int')
+  df['Led'] = pd.to_numeric(df['Led'], errors='coerce')
+
+# concat all DataFrames in the list to one DataFrame
+all_races_df = pl.from_pandas(pd.concat(all_race_tables))
+
+
 
 # %%
 df.select(
