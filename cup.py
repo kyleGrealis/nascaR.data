@@ -163,10 +163,10 @@ def cup_racing(start, stop=None):
     all_races_df = pd.concat(all_race_tables)
 
     # save the main dataframe to a CSV file
-    # all_races_df.to_csv(
-    #     os.path.join('data', 'cup-series', 'all-cup-series-results.csv'),
-    #     index=False
-    # )
+    all_races_df.to_csv(
+        os.path.join('data', 'cup-series', 'all-cup-series-results.csv'),
+        index=False
+    )
 
     return all_races_df
 

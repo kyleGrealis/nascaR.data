@@ -163,10 +163,10 @@ def truck_racing(start, stop=None):
     all_races_df = pd.concat(all_race_tables)
 
     # save the main dataframe to a CSV file
-    # all_races_df.to_csv(
-    #     os.path.join('data', 'trucks-series', 'all-trucks-series-results.csv'),
-    #     index=False
-    # )
+    all_races_df.to_csv(
+        os.path.join('data', 'truck-series', 'all-truck-series-results.csv'),
+        index=False
+    )
 
     return all_races_df
 
@@ -177,12 +177,12 @@ def truck_racing(start, stop=None):
 
 
 # %%
-import time
-start_time = time.time()
+# import time
+# start_time = time.time()
 
-trucks = truck_racing(1995)
+# trucks = truck_racing(1995)
 
-end_time = time.time()
+# end_time = time.time()
 
-print(f'The process took {end_time-start_time} seconds.')
+# print(f'The process took {end_time-start_time} seconds.')
 
