@@ -28,6 +28,7 @@ polars==0.20.31
 prompt_toolkit==3.0.47
 psutil==5.9.8
 pure-eval==0.2.2
+pyarrow==16.1.0
 pycparser==2.22
 Pygments==2.18.0
 PySocks==1.7.1
