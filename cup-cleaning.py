@@ -272,3 +272,9 @@ owner = (
 
 
 # %%
+
+# storing the cleaned datasets
+cup.write_csv('data/cup-series/cup-results.csv')
+driver_career.write_csv('data/cup-series/cup-driver-career.csv')
+driver_season.write_csv('data/cup-series/cup-driver-season.csv')
+owner.write_csv('data/cup-series/cup-owner.csv')
