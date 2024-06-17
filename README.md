@@ -22,7 +22,7 @@
 - [x] Craftsman Truck Series data (completed: 5/23/2024)
 - [x] Busch/Xfinity Series data (completed: 6/3/2024)
 - [x] NASCAR Cup Series data (completed: 6/3/2024)
-- [ ] data cleaning and variable creation
+- [ ] data cleaning and variable creation (6/16/2024 -- in progress)
 
 ----
 The data has been obtained from [NASCAR](https://www.nascar.com), with permission from [DriverAverages.com](https://www.driveraverages.com/), and supplemented with [Racing-Reference.info](https://www.racing-reference.info/). 
