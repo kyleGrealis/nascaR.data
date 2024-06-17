@@ -10,6 +10,9 @@ import glob
 import os
 import re
 
+from utils.season_stats import season_stats
+from utils.overall_stats import overall_stats
+
 
 # %%
 # read in the main racing results CSV
