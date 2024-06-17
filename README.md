@@ -22,7 +22,7 @@
 - [x] Craftsman Truck Series data (completed: 5/23/2024)
 - [x] Busch/Xfinity Series data (completed: 6/3/2024)
 - [x] NASCAR Cup Series data (completed: 6/3/2024)
-- [ ] data cleaning and variable creation
+- [ ] data cleaning and variable creation (in-progress: 6/16/2024)
 - [ ] R package tidbits
 - [ ] R package accepted by CRAN
 
