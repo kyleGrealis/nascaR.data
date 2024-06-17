@@ -1,4 +1,6 @@
 # %%
+import polars as pl
+
 
 def season_stats(df, type, group_key):
   
