@@ -1,0 +1,6 @@
+truck,total_trucks_raced,wins,races_participated,overall_win_pct,avg_start,avg_finish,avg_laps_led,total_laps_led
+Chevrolet,11954,284,701,0.40514,19.57,19.24,3.86,46104
+Dodge,2416,65,414,0.157,18.11,18.12,5.08,12278
+Ford,4897,119,700,0.17,17.3,17.4,4.14,20297
+RAM,102,1,54,0.01852,24.09,22.67,1.29,132
+Toyota,4876,232,484,0.47934,14.07,14.82,6.87,33477
