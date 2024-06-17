@@ -12,7 +12,6 @@ import re
 
 
 # %%
-
 # read in the main racing results CSV
 df = pl.read_csv(
   'data/truck-series/all-truck-series-results.csv', infer_schema_length=10000
@@ -41,7 +40,7 @@ truck = (
     'St': 'start',
     '#': 'truck_number',
     'Driver': 'driver',
-    'Truck': 'truck',
+    'Truck': 'manufacturer',
     'Laps': 'laps',
     'Money': 'money',
     'Status': 'status',
@@ -87,221 +86,124 @@ truck = (
   .drop('Sponsor / Owner')
 ).select(
   'season', 'race', 'site', 'track', 'track_length', 'track_type',
-  'finish', 'start', 'driver', 'truck', 'truck_number', 'owner', 'sponsor',
+  'finish', 'start', 'driver', 'manufacturer', 'truck_number', 'owner', 'sponsor',
   'laps', 'laps_led', 'status', 'money', 'pts', 'playoff_pts', 'win'
 )
 
 
-# %%
-
-'''
-Calculating statistics for the driver's results by season.
-'''
-driver_season = (
-  truck
-  .group_by('driver', 'season', maintain_order=True).agg(
-    
-    total_races = pl.count('driver'),
-    
-    wins = pl.col('win').sum(),
-    
-    best_start = pl.col('start').min(),
-    worst_start = pl.col('start').max(),
-    avg_start = pl.col('start').drop_nans().mean().round(2),
-    
-    best_finish = pl.col('finish').min(),
-    worst_finish = pl.col('finish').max(),
-    avg_finish = pl.col('finish').mean().round(2),
-    
-    most_laps_led = pl.col('laps_led').max(),
-    avg_laps_led = pl.col('laps_led').drop_nans().mean().round(2),
-    total_laps_led = pl.col('laps_led').sum(),
-    
-    avg_points = pl.col('pts').drop_nans().mean().round(2),
-    
-    # playoff points started in 2017
-    avg_playoff_pts = pl.col('playoff_pts').drop_nans().mean().round(2),
-    
-    # money results aren't collected after the 2015 season
-    total_money = pl.col('money').sum().cast(pl.Int64),
-    avg_money = pl.col('money').mean().round(0).cast(pl.Int64),
-    
-    max_race_money = pl.col('money').max().cast(pl.Int64),
-    min_race_money = pl.col('money').min().cast(pl.Int64)
-  )
-  .with_columns(
-    win_pct = (pl.col('wins') / pl.col('total_races')).cast(pl.Float64).round(5)
-  )
-  .sort('season', 'avg_finish')
-).select(
-  'season', 'driver', 'total_races', 'wins', 'win_pct', 'avg_start', 'best_start',
-  'worst_start', 'avg_finish', 'best_finish', 'worst_finish', 'avg_laps_led',
-  'total_laps_led', 'most_laps_led', 'avg_points', 'avg_playoff_pts',
-  'total_money', 'avg_money', 'max_race_money', 'min_race_money'
-)
-
 
 # %%
-
-'''
-Calculating statistics for the driver's results by career.
-'''
-driver_career = (
-  truck
-  .group_by('driver', maintain_order=True).agg(
-    
-    total_races = pl.count('driver'),
-    
-    wins = pl.col('win').sum(),
-    
-    best_start = pl.col('start').min(),
-    worst_start = pl.col('start').max(),
-    avg_start = pl.col('start').drop_nans().mean().round(2),
-    
-    best_finish = pl.col('finish').min(),
-    worst_finish = pl.col('finish').max(),
-    avg_finish = pl.col('finish').mean().round(2),
-    
-    most_laps_led = pl.col('laps_led').max(),
-    avg_laps_led = pl.col('laps_led').drop_nans().mean().round(2),
-    total_laps_led = pl.col('laps_led').sum(),
-    
-    # money results aren't collected after the 2015 season
-    total_money = pl.col('money').sum().cast(pl.Int64),
-    avg_money = pl.col('money').mean().round(0).cast(pl.Int64),
-    
-    max_race_money = pl.col('money').max().cast(pl.Int64),
-    min_race_money = pl.col('money').min().cast(pl.Int64)
-  )
-  .with_columns(
-    win_pct = (pl.col('wins') / pl.col('total_races')).cast(pl.Float64).round(5)
-  )
-  .sort('driver')
-).select(
-  'driver', 'total_races', 'wins', 'win_pct', 'avg_start', 'best_start',
-  'worst_start', 'avg_finish', 'best_finish', 'worst_finish', 'avg_laps_led',
-  'total_laps_led', 'most_laps_led',
-  'total_money', 'avg_money', 'max_race_money', 'min_race_money'
-)
-
-
-# %%
-
-'''
-Calculating statistics by owner.
-'''
-owner_races_per_truck = truck.group_by('owner', 'season', 'race').agg(
+def overall_stats(df, type, group_key): 
+  
+  prefix = 'owner' if group_key == 'owner' else 'mfg'
+  
+  races_per_vehicle = df.group_by(group_key, 'season', 'race').agg(
     race_count = pl.count('race')
-).group_by('owner').agg(
-    races_participated = pl.count('race')
-)
+  ).group_by(group_key).agg(
+      **{
+        f'{prefix}_overall_races': pl.count('race')
+      }
+  )
 
-owner_overall = (
-  truck
-  .group_by('owner', maintain_order=True).agg(
-    
-    total_trucks_raced = pl.count('owner'),
-    
-    wins = pl.col('win').sum(),
-    
-    avg_start = pl.col('start').drop_nans().mean().round(2),
-    avg_finish = pl.col('finish').mean().round(2),
-    
-    avg_laps_led = pl.col('laps_led').drop_nans().mean().round(2),
-    total_laps_led = pl.col('laps_led').sum(),
+  overall = (
+    df
+    .group_by(group_key, maintain_order=True).agg(
+      **{
+        f'{prefix}_overall_{type}s_raced': pl.count(group_key),
+        f'{prefix}_overall_wins': pl.col('win').sum(),
+        f'{prefix}_overall_avg_start': pl.col('start').drop_nans().mean().round(2),
+        f'{prefix}_overall_avg_finish': pl.col('finish').mean().round(2),
+        f'{prefix}_overall_avg_laps_led': pl.col('laps_led').drop_nans().mean().round(2),
+        f'{prefix}_overall_laps_led': pl.col('laps_led').sum(),
+      }      
+    )
+    .join(races_per_vehicle, on=group_key, how='left')
+    .with_columns(
+      **{
+        f'{prefix}_overall_win_pct': (pl.col(f'{prefix}_overall_wins') / pl.col(f'{prefix}_overall_races'))
+        .cast(pl.Float64).round(5),
+        f'{prefix}_overall_{type}_win_pct': (pl.col(f'{prefix}_overall_wins') / pl.col(f'{prefix}_overall_{type}s_raced')).cast(pl.Float64).round(5)
+      }
+    )
+    .sort(group_key)
+  ).select(
+    group_key, 
+    f'{prefix}_overall_races', 
+    f'{prefix}_overall_wins', 
+    f'{prefix}_overall_win_pct', 
+    f'{prefix}_overall_{type}s_raced', 
+    f'{prefix}_overall_{type}_win_pct', 
+    f'{prefix}_overall_avg_start', 
+    f'{prefix}_overall_avg_finish',
+    f'{prefix}_overall_laps_led',
+    f'{prefix}_overall_avg_laps_led' 
   )
-  .join(owner_races_per_truck, on='owner', how='left')
-  .with_columns(
-    overall_win_pct= (pl.col('wins') / pl.col('races_participated'))
-    .cast(pl.Float64).round(5),
-    owner_truck_win_pct = (pl.col('wins') / pl.col('total_trucks_raced')).cast(pl.Float64).round(5)
-  )
-  .sort('owner')
-).select(
-  'owner', 'races_participated', 'total_trucks_raced', 'wins', 
-  'overall_win_pct', 'owner_truck_win_pct', 'avg_start', 'avg_finish',
-  'avg_laps_led', 'total_laps_led'
-)
+  
+  return overall
+
+# %%
+
+mfg_overall = overall_stats(truck, 'truck', 'manufacturer')
+own_overall = overall_stats(truck, 'truck', 'owner')
+
 
 
 # %%
 
-'''
-Calculating statistics for manufacturer by season.
-'''
-manufacturer_season = (
-  truck
-  .group_by('truck', 'season', maintain_order=True).agg(
-    
-    total_trucks_raced = pl.count('truck'),
-    
-    wins = pl.col('win').sum(),
-    
-    races_participated = pl.col('race').n_unique(),
-    
-    best_start = pl.col('start').min(),
-    worst_start = pl.col('start').max(),
-    avg_start = pl.col('start').drop_nans().mean().round(2),
-    
-    best_finish = pl.col('finish').min(),
-    worst_finish = pl.col('finish').max(),
-    avg_finish = pl.col('finish').mean().round(2),
-    
-    most_laps_led = pl.col('laps_led').max(),
-    avg_laps_led = pl.col('laps_led').drop_nans().mean().round(2),
-    total_laps_led = pl.col('laps_led').sum(),
+def season_stats(df, type, group_key):
+  
+  prefix = 'owner' if group_key == 'owner' else 'mfg'
+   
+  season = (
+    df
+    .group_by(group_key, 'season', maintain_order=True).agg(
+      **{
+        f'{prefix}_season_races': pl.col('race').n_unique(),
+        f'{prefix}_season_wins': pl.col('win').sum(),
+        f'{prefix}_season_{type}s_raced': pl.count(group_key),
+        f'{prefix}_season_avg_start': pl.col('start').drop_nans().mean().round(2),
+        f'{prefix}_season_avg_finish': pl.col('finish').mean().round(2),
+        f'{prefix}_season_laps_led': pl.col('laps_led').sum(),
+        f'{prefix}_season_avg_laps_led': pl.col('laps_led').drop_nans().mean().round(2)
+      }      
+    )
+    .with_columns(
+      **{
+        f'{prefix}_season_win_pct': (pl.col(f'{prefix}_season_wins') / pl.col(f'{prefix}_season_races')).cast(pl.Float64).round(5),
+        f'{prefix}_season_{type}_win_pct': (pl.col(f'{prefix}_season_wins') / pl.col(f'{prefix}_season_{type}s_raced')).cast(pl.Float64).round(5)
+      }
+    )
+    .sort('season', group_key)
+  ).select(
+    group_key, 
+    'season',
+    f'{prefix}_season_races',
+    f'{prefix}_season_wins', 
+    f'{prefix}_season_win_pct', 
+    f'{prefix}_season_{type}s_raced', 
+    f'{prefix}_season_{type}_win_pct', 
+    f'{prefix}_season_avg_start', 
+    f'{prefix}_season_avg_finish',
+    f'{prefix}_season_avg_laps_led', 
+    f'{prefix}_season_laps_led'
   )
-  .with_columns(
-    win_pct = (pl.col('wins') / pl.col('races_participated'))
-    .cast(pl.Float64).round(5)
-  )
-  .sort('season', 'truck')
-  .filter(pl.col('truck') != '')
-).select(
-  'truck', 'season', 'total_trucks_raced', 'wins', 'races_participated', 
-  'win_pct', 'avg_start', 'best_start', 'worst_start', 'avg_finish',
-  'best_finish', 'worst_finish', 'avg_laps_led', 'total_laps_led'
-)
+  
+  return season
+
 
 # %%
+mfg_season = season_stats(truck, 'truck', 'manufacturer')
+own_season = season_stats(truck, 'truck', 'owner')
 
-'''
-Calculating statistics for manufacturer by season.
-'''
 
-# count the number of races each manufacturer has had at least one truck
-mfg_races_per_truck = truck.group_by('truck', 'season', 'race').agg(
-    race_count = pl.count('race')
-).group_by('truck').agg(
-    races_participated = pl.count('race')
-)
 
-manufacturer_overall = (
-  truck
-  .group_by('truck', maintain_order=True).agg(
-    
-    total_trucks_raced = pl.count('truck'),
-    
-    wins = pl.col('win').sum(),
-    
-    avg_start = pl.col('start').drop_nans().mean().round(2),
-    avg_finish = pl.col('finish').mean().round(2),
-    
-    avg_laps_led = pl.col('laps_led').drop_nans().mean().round(2),
-    total_laps_led = pl.col('laps_led').sum(),
-  )
-  .join(mfg_races_per_truck, on='truck', how='left')
-  .with_columns(
-    overall_win_pct= (pl.col('wins') / pl.col('races_participated'))
-    .cast(pl.Float64).round(5),
-    mfg_truck_win_pct = (pl.col('wins') / pl.col('total_trucks_raced')).cast(pl.Float64).round(5)
-  )
-  .sort('truck')
-).select(
-  'truck', 'races_participated', 'total_trucks_raced', 'wins', 
-  'overall_win_pct', 'mfg_truck_win_pct', 'avg_start', 'avg_finish',
-  'avg_laps_led', 'total_laps_led'
-)
+
+
+
+
+
+
+
 
 
 
