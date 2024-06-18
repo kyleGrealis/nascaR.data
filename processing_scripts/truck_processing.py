@@ -9,15 +9,19 @@ import polars as pl
 import glob
 import os
 import re
+import sys
+
+sys.path.append('..')
 
 from utils.season_stats import season_stats
 from utils.overall_stats import overall_stats
+from utils.driver_stats import season, overall
 
 
 # %%
 # read in the main racing results CSV
 df = pl.read_csv(
-  'data/truck-series/all-truck-series-results.csv', infer_schema_length=10000
+  '../data/truck-series/all-truck-series-results.csv', infer_schema_length=10000
 )
 
 
@@ -86,6 +90,11 @@ truck = (
       )
       .alias('owner'),
   )
+  .with_columns(
+    # more data cleaning
+    pl.when(pl.col('sponsor').is_in(['Carnes Racing']))
+    .then(pl.lit('Larry Carnes Racing')).otherwise(pl.col('sponsor'))
+  )
   .drop('Sponsor / Owner')
 ).select(
   'season', 'race', 'site', 'track', 'track_length', 'track_type',
@@ -93,6 +102,10 @@ truck = (
   'laps', 'laps_led', 'status', 'money', 'pts', 'playoff_pts', 'win'
 )
 
+
+# %%
+driver_season = season(truck)
+driver_overall = overall(truck)
 
 
 # %%
@@ -107,8 +120,16 @@ mfg_season = season_stats(truck, 'truck', 'manufacturer')
 owner_season = season_stats(truck, 'truck', 'owner')
 
 
-
-
+# %%
+test = (
+  truck
+  .join(driver_season, on=['driver', 'season'])
+  .join(driver_overall, on='driver')
+  .join(owner_season, on=['owner', 'season'])
+  .join(owner_overall, on='owner')
+  .join(mfg_season, on=['manufacturer', 'season'])
+  .join(mfg_overall, on='manufacturer')
+)
 
 
 
