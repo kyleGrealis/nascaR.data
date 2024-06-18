@@ -121,6 +121,8 @@ owner_season = season_stats(truck, 'truck', 'owner')
 
 
 # %%
+
+
 test = (
   truck
   .join(driver_season, on=['driver', 'season'])
