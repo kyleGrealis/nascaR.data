@@ -148,6 +148,7 @@ def process_xfinity_data():
 
 # %%
 xfinity = process_xfinity_data()
+del df
 
 driver_season = season(xfinity)
 driver_overall = overall(xfinity)
@@ -157,10 +158,12 @@ mfg_season = season_stats(xfinity, 'car', 'manufacturer')
 owner_season = season_stats(xfinity, 'car', 'owner')
 
 # %%
-# xfinity.write_csv('data/xfinity-series/cleaned/race_data.csv')
-# driver_season.write_csv('data/xfinity-series/cleaned/driver_season.csv')
-# driver_overall.write_csv('data/xfinity-series/cleaned/driver_career.csv')
-# owner_season.write_csv('data/xfinity-series/cleaned/owner_season.csv')
-# owner_overall.write_csv('data/xfinity-series/cleaned/owner_career.csv')
-# mfg_season.write_csv('data/xfinity-series/cleaned/mfg_season.csv')
-# mfg_overall.write_csv('data/xfinity-series/cleaned/mfg_overall.csv')
+xfinity.write_csv('data/xfinity-series/cleaned/race_data.csv')
+driver_season.write_csv('data/xfinity-series/cleaned/driver_season.csv')
+driver_overall.write_csv('data/xfinity-series/cleaned/driver_career.csv')
+owner_season.write_csv('data/xfinity-series/cleaned/owner_season.csv')
+owner_overall.write_csv('data/xfinity-series/cleaned/owner_career.csv')
+mfg_season.write_csv('data/xfinity-series/cleaned/mfg_season.csv')
+mfg_overall.write_csv('data/xfinity-series/cleaned/mfg_overall.csv')
+
+# %%

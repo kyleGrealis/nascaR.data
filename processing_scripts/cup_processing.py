@@ -149,6 +149,7 @@ def process_cup_data():
 
 # %%
 cup = process_cup_data()
+del df
 
 driver_season = season(cup)
 driver_overall = overall(cup)
@@ -158,10 +159,12 @@ mfg_season = season_stats(cup, 'car', 'manufacturer')
 owner_season = season_stats(cup, 'car', 'owner')
 
 # %%
-# cup.write_csv('data/cup-series/cleaned/race_data.csv')
-# driver_season.write_csv('data/cup-series/cleaned/driver_season.csv')
-# driver_overall.write_csv('data/cup-series/cleaned/driver_career.csv')
-# owner_season.write_csv('data/cup-series/cleaned/owner_season.csv')
-# owner_overall.write_csv('data/cup-series/cleaned/owner_career.csv')
-# mfg_season.write_csv('data/cup-series/cleaned/mfg_season.csv')
-# mfg_overall.write_csv('data/cup-series/cleaned/mfg_overall.csv')
+cup.write_csv('data/cup-series/cleaned/race_data.csv')
+driver_season.write_csv('data/cup-series/cleaned/driver_season.csv')
+driver_overall.write_csv('data/cup-series/cleaned/driver_career.csv')
+owner_season.write_csv('data/cup-series/cleaned/owner_season.csv')
+owner_overall.write_csv('data/cup-series/cleaned/owner_career.csv')
+mfg_season.write_csv('data/cup-series/cleaned/mfg_season.csv')
+mfg_overall.write_csv('data/cup-series/cleaned/mfg_overall.csv')
+
+# %%
