@@ -149,7 +149,7 @@ def process_cup_data():
     'finish', 'start', 'driver', 'manufacturer', 'car_number', 
     'owner', 'sponsor', 'win', 'top_5', 'top_10', 'top_20',
     'laps', 'laps_led', 'status', 'money', 'pts', 'playoff_pts'
-  )
+  ).filter(pl.col('season') != 2024)
   
   return cup
 

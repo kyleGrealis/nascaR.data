@@ -138,7 +138,7 @@ def process_truck_data():
     'finish', 'start', 'driver', 'manufacturer', 'truck_number', 
     'owner', 'sponsor', 'win', 'top_5', 'top_10', 'top_20',
     'laps', 'laps_led', 'status', 'money', 'pts', 'playoff_pts'
-  )
+  ).filter(pl.col('season') != 2024)
   
   return truck
 
