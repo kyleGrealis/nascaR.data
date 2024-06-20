@@ -30,6 +30,11 @@ mfg_season = season_stats(truck, 'truck', 'manufacturer')
 owner_season = season_stats(truck, 'truck', 'owner')
 
 # %%
+'''
+The imported `truck` dataset consists of individual race results for all seasons listed by driver.
+'''
+
+# %%
 # test joining all data as possible starting dataset for modeling
 # test = (
 #   truck
