@@ -4,12 +4,11 @@ import os
 import polars as pl
 import sys
 
-# from cup_processing import *
-# from xfinity_processing import *
-from truck_processing import *
+# from processing_scripts.cup_processing import *
+# from processing_scripts.xfinity_processing import *
+from processing_scripts.truck_processing import *
 
 # use project modules
-sys.path.append('..')
 from utils.season_stats import *
 from utils.overall_stats import *
 from utils.driver_stats import *
@@ -33,6 +32,13 @@ owner_season = season_stats(truck, 'truck', 'owner')
 '''
 The imported `truck` dataset consists of individual race results for all seasons listed by driver.
 '''
+truck.write_csv('data/truck-series/cleaned/race_data.csv')
+driver_season.write_csv('data/truck-series/cleaned/driver_season.csv')
+driver_overall.write_csv('data/truck-series/cleaned/driver_career.csv')
+owner_season.write_csv('data/truck-series/cleaned/owner_season.csv')
+owner_overall.write_csv('data/truck-series/cleaned/owner_career.csv')
+mfg_season.write_csv('data/truck-series/cleaned/mfg_season.csv')
+mfg_overall.write_csv('data/truck-series/cleaned/mfg_overall.csv')
 
 # %%
 # test joining all data as possible starting dataset for modeling
