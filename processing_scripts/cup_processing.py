@@ -15,7 +15,7 @@ import re
 
 # read in the main racing results CSV
 df = pl.read_csv(
-  'data/cup-series/all-cup-series-results.csv', infer_schema_length=10000
+  'data/cup-series/scraped/all-cup-series-results.csv', infer_schema_length=10000
 )
 
 # convert # to Integer

@@ -27,7 +27,7 @@ import sys
 
 # read in the main racing results CSV
 df = pl.read_csv(
-  '../data/truck-series/truck-series-full-import.csv', infer_schema_length=10000
+  '../data/truck-series/scraped/truck-series-full-import.csv', infer_schema_length=10000
 )
 
 
