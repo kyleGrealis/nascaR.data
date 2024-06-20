@@ -146,7 +146,7 @@ def cup_racing(start, stop=None):
 
         # save the dataframe for the season to a CSV file
         season_df.to_csv(
-            os.path.join('data', 'cup-series', f'cup-{season}.csv'),
+            os.path.join('data', 'cup-series', 'scraped', f'cup-{season}.csv'),
             index=False
         )
 
@@ -164,7 +164,7 @@ def cup_racing(start, stop=None):
 
     # save the main dataframe to a CSV file
     all_races_df.to_csv(
-        os.path.join('data', 'cup-series', 'cup-series-full-import.csv'),
+        os.path.join('data', 'cup-series', 'scraped', 'cup-series-full-import.csv'),
         index=False
     )
 
