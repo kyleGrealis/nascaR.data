@@ -21,6 +21,10 @@ import glob
 import os
 import re
 
+from utils.season_stats import *
+from utils.overall_stats import *
+from utils.driver_stats import *
+
 
 # read in the main racing results CSV
 df = pl.read_csv(
@@ -130,3 +134,23 @@ def process_truck_data():
   )
   
   return truck
+
+
+# %%
+truck = process_truck_data()
+
+driver_season = season(truck)
+driver_overall = overall(truck)
+mfg_overall = overall_stats(truck, 'truck', 'manufacturer')
+owner_overall = overall_stats(truck, 'truck', 'owner')
+mfg_season = season_stats(truck, 'truck', 'manufacturer')
+owner_season = season_stats(truck, 'truck', 'owner')
+
+# %%
+# truck.write_csv('data/truck-series/cleaned/race_data.csv')
+# driver_season.write_csv('data/truck-series/cleaned/driver_season.csv')
+# driver_overall.write_csv('data/truck-series/cleaned/driver_career.csv')
+# owner_season.write_csv('data/truck-series/cleaned/owner_season.csv')
+# owner_overall.write_csv('data/truck-series/cleaned/owner_career.csv')
+# mfg_season.write_csv('data/truck-series/cleaned/mfg_season.csv')
+# mfg_overall.write_csv('data/truck-series/cleaned/mfg_overall.csv')

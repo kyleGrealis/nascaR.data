@@ -1,5 +1,18 @@
 '''
 This is the data cleaning script for NASCAR Cup series data. Some level of data exploration is necessary, but the primary purpose is to clean the data and create new variables.
+
+The script reads in a main racing results CSV file, performs data cleaning operations, and creates new variables based on the existing columns. The cleaned and processed data is then returned as a DataFrame.
+
+Functions:
+- transform_column: A helper function to transform a column that contains '-' to an integer.
+- process_cup_data: The main function that processes the cup data and returns the cleaned DataFrame.
+
+Usage:
+1. Import the necessary libraries.
+2. Call the process_cup_data() function to process the cup data.
+
+Example:
+df = process_cup_data()
 '''
 
 # %%
@@ -7,6 +20,10 @@ import polars as pl
 import glob
 import os
 import re
+
+from utils.season_stats import *
+from utils.overall_stats import *
+from utils.driver_stats import *
 
 
 # %%
@@ -25,6 +42,12 @@ def transform_column(col):
 
 # %%
 def process_cup_data():
+  '''
+  Process the cup data and return the cleaned DataFrame.
+
+  Returns:
+  - cup: A DataFrame containing the cleaned and processed cup data.
+  '''
   cup = (
     df
     .rename({
@@ -122,3 +145,23 @@ def process_cup_data():
   )
   
   return cup
+
+
+# %%
+cup = process_cup_data()
+
+driver_season = season(cup)
+driver_overall = overall(cup)
+mfg_overall = overall_stats(cup, 'car', 'manufacturer')
+owner_overall = overall_stats(cup, 'car', 'owner')
+mfg_season = season_stats(cup, 'car', 'manufacturer')
+owner_season = season_stats(cup, 'car', 'owner')
+
+# %%
+# cup.write_csv('data/cup-series/cleaned/race_data.csv')
+# driver_season.write_csv('data/cup-series/cleaned/driver_season.csv')
+# driver_overall.write_csv('data/cup-series/cleaned/driver_career.csv')
+# owner_season.write_csv('data/cup-series/cleaned/owner_season.csv')
+# owner_overall.write_csv('data/cup-series/cleaned/owner_career.csv')
+# mfg_season.write_csv('data/cup-series/cleaned/mfg_season.csv')
+# mfg_overall.write_csv('data/cup-series/cleaned/mfg_overall.csv')

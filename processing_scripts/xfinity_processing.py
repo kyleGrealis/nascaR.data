@@ -1,5 +1,18 @@
 '''
 This is the data cleaning script for NASCAR Xfinity series data. Some level of data exploration is necessary, but the primary purpose is to clean the data and create new variables.
+
+The script reads in a main racing results CSV file, performs data cleaning operations, and creates new variables based on the existing columns. The cleaned and processed data is then returned as a DataFrame.
+
+Functions:
+- transform_column: A helper function to transform a column that contains '-' to an integer.
+- process_xfinity_data: The main function that processes the xfinity data and returns the cleaned DataFrame.
+
+Usage:
+1. Import the necessary libraries.
+2. Call the process_xfinity_data() function to process the xfinity data.
+
+Example:
+df = process_xfinity_data()
 '''
 
 # %%
@@ -7,6 +20,10 @@ import polars as pl
 import glob
 import os
 import re
+
+from utils.season_stats import *
+from utils.overall_stats import *
+from utils.driver_stats import *
 
 
 # %%
@@ -25,6 +42,12 @@ def transform_column(col):
 
 # %%
 def process_xfinity_data():
+  '''
+  Process the xfinity data and return the cleaned DataFrame.
+
+  Returns:
+  - xfinity: A DataFrame containing the cleaned and processed xfinity data.
+  '''
   xfinity = (
     df
     .rename({
@@ -121,3 +144,23 @@ def process_xfinity_data():
   )
   
   return xfinity
+
+
+# %%
+xfinity = process_xfinity_data()
+
+driver_season = season(xfinity)
+driver_overall = overall(xfinity)
+mfg_overall = overall_stats(xfinity, 'car', 'manufacturer')
+owner_overall = overall_stats(xfinity, 'car', 'owner')
+mfg_season = season_stats(xfinity, 'car', 'manufacturer')
+owner_season = season_stats(xfinity, 'car', 'owner')
+
+# %%
+# xfinity.write_csv('data/xfinity-series/cleaned/race_data.csv')
+# driver_season.write_csv('data/xfinity-series/cleaned/driver_season.csv')
+# driver_overall.write_csv('data/xfinity-series/cleaned/driver_career.csv')
+# owner_season.write_csv('data/xfinity-series/cleaned/owner_season.csv')
+# owner_overall.write_csv('data/xfinity-series/cleaned/owner_career.csv')
+# mfg_season.write_csv('data/xfinity-series/cleaned/mfg_season.csv')
+# mfg_overall.write_csv('data/xfinity-series/cleaned/mfg_overall.csv')
