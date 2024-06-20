@@ -16,13 +16,10 @@ df = process_truck_data()
 '''
 
 # %%
-import numpy as np
-import pandas as pd
 import polars as pl
 import glob
 import os
 import re
-import sys
 
 
 # read in the main racing results CSV
