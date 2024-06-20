@@ -13,7 +13,7 @@ import re
 
 # read in the main racing results CSV
 df = pl.read_csv(
-  'data/cup-series/scraped/all-cup-series-results.csv', infer_schema_length=10000
+  'data/cup-series/scraped/cup-series-full-import.csv', infer_schema_length=10000
 )
 
 
@@ -67,6 +67,13 @@ def process_cup_data():
       pl.col('laps_led').replace('–','0')
         .cast(pl.Float64)
         .cast(pl.Int64),
+        
+        # create a 0/1 win column  
+      pl.when(pl.col('finish') == 1)
+        .then(1)
+        .otherwise(0)
+        .cast(pl.Int64)
+        .alias('win'),
       
       # create 0/1 top-5, top-10, and top-20 columns
       pl.when(pl.col('finish') <= 5)

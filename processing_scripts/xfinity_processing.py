@@ -13,7 +13,7 @@ import re
 
 # read in the main racing results CSV
 df = pl.read_csv(
-  'data/xfinity-series/scraped/all-xfinity-series-results.csv', infer_schema_length=10000
+  'data/xfinity-series/scraped/xfinity-series-full-import.csv', infer_schema_length=10000
 )
 
 
