@@ -14,6 +14,9 @@ def season(df):
       season_races = pl.count('driver'),
       
       season_wins = pl.col('win').sum(),
+      season_top_5 = pl.col('top_5').sum(),
+      season_top_10 = pl.col('top_10').sum(),
+      season_top_20 = pl.col('top_20').sum(),
       
       season_best_start = pl.col('start').min(),
       season_worst_start = pl.col('start').max(),
@@ -42,10 +45,21 @@ def season(df):
     .with_columns(
       season_win_pct = (
         pl.col('season_wins') / pl.col('season_races')
-      ).cast(pl.Float64).round(5)
+      ).cast(pl.Float64).round(5),
+      season_top_5_pct = (
+        pl.col('season_top_5') / pl.col('season_races')
+      ).cast(pl.Float64).round(5),
+      season_top_10_pct = (
+        pl.col('season_top_10') / pl.col('season_races')
+      ).cast(pl.Float64).round(5),
+      season_top_20_pct = (
+        pl.col('season_top_20') / pl.col('season_races')
+      ).cast(pl.Float64).round(5),
     )
   ).select(
     'season', 'driver', 'season_races', 'season_wins', 'season_win_pct', 
+    'season_top_5', 'season_top_5_pct', 'season_top_10', 'season_top_10_pct',
+    'season_top_20', 'season_top_20_pct',
     'season_avg_start', 'season_best_start', 'season_worst_start',
     'season_avg_finish', 'season_best_finish', 'season_worst_finish',
     'season_avg_laps_led', 'season_total_laps_led', 'season_most_laps_led',
@@ -69,6 +83,9 @@ def overall(df):
       career_races = pl.count('driver'),
       
       career_wins = pl.col('win').sum(),
+      career_top_5 = pl.col('top_5').sum(),
+      career_top_10 = pl.col('top_10').sum(),
+      career_top_20 = pl.col('top_20').sum(),
       
       career_best_start = pl.col('start').min(),
       career_worst_start = pl.col('start').max(),
@@ -93,7 +110,9 @@ def overall(df):
       career_win_pct = (pl.col('career_wins') / pl.col('career_races')).cast(pl.Float64).round(5)
     )
   ).select(
-    'driver', 'career_races', 'career_wins', 'career_win_pct', 'career_avg_start', 
+    'driver', 'career_races', 'career_wins', 'career_win_pct', 
+    'career_top_5', 'career_top_10', 'career_top_20',
+    'career_avg_start', 
     'career_best_start', 'career_worst_start', 'career_avg_finish',
     'career_best_finish', 'career_worst_finish', 'career_avg_laps_led',
     'career_total_laps_led', 'career_most_laps_led', 'career_total_money',
