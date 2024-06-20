@@ -3,7 +3,18 @@ import polars as pl
 
 
 def season_stats(df, type, group_key):
-  
+  """
+  Calculate season statistics for a given DataFrame.
+
+  Args:
+    df (DataFrame): The input DataFrame containing race data.
+    type (str): The type of statistics to calculate (e.g., 'car' or 'truck').
+    group_key (str): The key to group the data by (e.g., 'owner', 'mfg').
+
+  Returns:
+    DataFrame: The DataFrame containing the overall statistics.
+
+  """
   prefix = 'owner' if group_key == 'owner' else 'mfg'
    
   season = (

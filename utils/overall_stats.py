@@ -3,15 +3,26 @@ import polars as pl
 
 
 def overall_stats(df, type, group_key): 
-  
+  """
+  Calculate overall statistics for a given DataFrame.
+
+  Args:
+    df (DataFrame): The input DataFrame containing race data.
+    type (str): The type of statistics to calculate (e.g., 'car' or 'truck').
+    group_key (str): The key to group the data by (e.g., 'owner', 'mfg').
+
+  Returns:
+    DataFrame: The DataFrame containing the overall statistics.
+
+  """
   prefix = 'owner' if group_key == 'owner' else 'mfg'
   
   races_per_vehicle = df.group_by(group_key, 'season', 'race').agg(
     race_count = pl.count('race')
   ).group_by(group_key).agg(
-      **{
-        f'{prefix}_overall_races': pl.count('race')
-      }
+    **{
+      f'{prefix}_overall_races': pl.count('race')
+    }
   )
 
   overall = (

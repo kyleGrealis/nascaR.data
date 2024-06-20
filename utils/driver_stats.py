@@ -6,7 +6,70 @@ import polars as pl
 Calculating statistics for the driver's results by season.
 '''
 def season(df):
-  
+  """
+  Calculates various statistics for each driver in a given season.
+
+  Parameters:
+  - df: DataFrame
+    The input DataFrame containing race data.
+
+  Returns:
+  - driver: DataFrame
+    The resulting DataFrame with the following columns:
+    - season: int
+      The season year.
+    - driver: str
+      The driver's name.
+    - season_races: int
+      The number of races the driver participated in during the season.
+    - season_wins: int
+      The number of races the driver won during the season.
+    - season_win_pct: float
+      The win percentage of the driver during the season.
+    - season_top_5: int
+      The number of top 5 finishes the driver had during the season.
+    - season_top_5_pct: float
+      The top 5 finish percentage of the driver during the season.
+    - season_top_10: int
+      The number of top 10 finishes the driver had during the season.
+    - season_top_10_pct: float
+      The top 10 finish percentage of the driver during the season.
+    - season_top_20: int
+      The number of top 20 finishes the driver had during the season.
+    - season_top_20_pct: float
+      The top 20 finish percentage of the driver during the season.
+    - season_avg_start: float
+      The average starting position of the driver during the season.
+    - season_best_start: int
+      The best starting position of the driver during the season.
+    - season_worst_start: int
+      The worst starting position of the driver during the season.
+    - season_avg_finish: float
+      The average finishing position of the driver during the season.
+    - season_best_finish: int
+      The best finishing position of the driver during the season.
+    - season_worst_finish: int
+      The worst finishing position of the driver during the season.
+    - season_avg_laps_led: float
+      The average number of laps led by the driver during the season.
+    - season_total_laps_led: int
+      The total number of laps led by the driver during the season.
+    - season_most_laps_led: int
+      The most laps led by the driver in a single race during the season.
+    - season_avg_points: float
+      The average number of points earned by the driver during the season.
+    - season_avg_playoff_pts: float
+      The average number of playoff points earned by the driver during the season.
+    - season_total_money: int
+      The total amount of money earned by the driver during the season.
+    - season_avg_money: int
+      The average amount of money earned by the driver per race during the season.
+    - season_max_race_money: int
+      The maximum amount of money earned by the driver in a single race during the season.
+    - season_min_race_money: int
+      The minimum amount of money earned by the driver in a single race during the season.
+
+  """
   driver = (
     df
     .group_by('driver', 'season', maintain_order=True).agg(
