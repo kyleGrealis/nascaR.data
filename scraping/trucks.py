@@ -164,7 +164,7 @@ def truck_racing(start, stop=None):
 
     # save the main dataframe to a CSV file
     all_races_df.to_csv(
-        os.path.join('data', 'truck-series', 'all-truck-series-results.csv'),
+        os.path.join('data', 'truck-series', 'truck-series-full-import.csv'),
         index=False
     )
 

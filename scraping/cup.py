@@ -164,7 +164,7 @@ def cup_racing(start, stop=None):
 
     # save the main dataframe to a CSV file
     all_races_df.to_csv(
-        os.path.join('data', 'cup-series', 'all-cup-series-results.csv'),
+        os.path.join('data', 'cup-series', 'cup-series-full-import.csv'),
         index=False
     )
 
