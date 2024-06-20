@@ -54,7 +54,7 @@ def season(df):
       ).cast(pl.Float64).round(5),
       season_top_20_pct = (
         pl.col('season_top_20') / pl.col('season_races')
-      ).cast(pl.Float64).round(5),
+      ).cast(pl.Float64).round(5)
     )
   ).select(
     'season', 'driver', 'season_races', 'season_wins', 'season_win_pct', 
@@ -107,11 +107,22 @@ def overall(df):
       career_min_race_money = pl.col('money').min().cast(pl.Int64)
     )
     .with_columns(
-      career_win_pct = (pl.col('career_wins') / pl.col('career_races')).cast(pl.Float64).round(5)
+      career_win_pct = (pl.col('career_wins') / pl.col('career_races')).cast(pl.Float64).round(5),
+      career_top_5_pct = (
+        pl.col('career_top_5') / pl.col('career_races')
+      ).cast(pl.Float64).round(5),
+      career_top_10_pct = (
+        pl.col('career_top_10') / pl.col('career_races')
+      ).cast(pl.Float64).round(5),
+      career_top_20_pct = (
+        pl.col('career_top_20') / pl.col('career_races')
+      ).cast(pl.Float64).round(5),
     )
   ).select(
     'driver', 'career_races', 'career_wins', 'career_win_pct', 
-    'career_top_5', 'career_top_10', 'career_top_20',
+    'career_top_5', 'career_top_5_pct', 
+    'career_top_10', 'career_top_10_pct',
+    'career_top_20', 'career_top_20_pct',
     'career_avg_start', 
     'career_best_start', 'career_worst_start', 'career_avg_finish',
     'career_best_finish', 'career_worst_finish', 'career_avg_laps_led',
