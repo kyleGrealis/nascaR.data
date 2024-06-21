@@ -10,6 +10,7 @@ Authors@R:
         comment = c(ORCID = "0000-0002-9223-8854")
     )
 Description: A collection of NASCAR race, driver, owner and manufacturer data across the three major NASCAR divisions: NASCAR Cup Series, NASCAR Xfinity Series, and NASCAR Craftsman Truck Series. The curated data begins with the 1949 season and extends through the end of the 2023 season.
+LazyData: true
 License: CC BY 4.0
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
