@@ -9,8 +9,8 @@
 #'   \item{mfg_overall_top_5}{num: Total number of top 5 finishes for the manufacturer}
 #'   \item{mfg_overall_top_10}{num: Total number of top 10 finishes for the manufacturer}
 #'   \item{mfg_overall_top_20}{num: Total number of top 20 finishes for the manufacturer}
-#'   \item{mfg_overall_trucks_raced}{num: Total number of trucks raced by the manufacturer}
-#'   \item{mfg_overall_truck_win_pct}{num: Win percentage at the truck level for the manufacturer}
+#'   \item{mfg_overall_cars_raced}{num: Total number of cars raced by the manufacturer}
+#'   \item{mfg_overall_car_win_pct}{num: Win percentage at the car level for the manufacturer}
 #'   \item{mfg_overall_avg_start}{num: Average start position for the manufacturer}
 #'   \item{mfg_overall_avg_finish}{num: Average finish position for the manufacturer}
 #'   \item{mfg_overall_laps_led}{num: Total number of laps led by the manufacturer}

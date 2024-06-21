@@ -2,8 +2,8 @@
 #' @description A collection of NASCAR Cup Series driver season statistics from 1949 through the completion of the 2023 season. This dataset includes various performance metrics for each driver over each season.
 #' @format A data frame with 9,665 rows and 26 variables:
 #' \describe{
-#'   \item{driver}{chr: Driver's name}
 #'   \item{season}{num: Racing season (1949-2023)}
+#'   \item{driver}{chr: Driver's name}
 #'   \item{season_races}{num: Number of races participated in that season}
 #'   \item{season_wins}{num: Number of wins in that season}
 #'   \item{season_win_pct}{num: Win percentage in that season}
@@ -22,6 +22,8 @@
 #'   \item{season_avg_laps_led}{num: Average number of laps led per race in that season}
 #'   \item{season_total_laps_led}{num: Total number of laps led in that season}
 #'   \item{season_most_laps_led}{num: Most laps led in a single race in that season}
+#'   \item{season_avg_points}{num: Average points earned per race in that season}
+#'   \item{season_avg_playoff_pts}{num: Average playoff points earned per race in that season}
 #'   \item{season_total_money}{num: Total earnings in that season (in dollars)}
 #'   \item{season_avg_money}{num: Average earnings per race in that season (in dollars)}
 #'   \item{season_max_race_money}{num: Maximum earnings in a single race in that season (in dollars)}

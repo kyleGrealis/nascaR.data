@@ -22,9 +22,10 @@
 #'   \item{laps}{num: Number of laps completed in the race}
 #'   \item{laps_led}{num: Number of laps led in the race}
 #'   \item{status}{chr: Status at the end of the race (e.g., "Running", "Accident")}
-##'   \item{money}{num: Total race earning (in dollars) not including bonus money, if available. No available data beginning with the 2016 season.}
+#'   \item{money}{num: Total race earning (in dollars) not including bonus money, if available. No available data beginning with the 2016 season.}
 #'   \item{pts}{num: Points earned in the race}
 #'   \item{playoff_pts}{num: Playoff points earned in the race. Available beginning with the 2017 season.}
+#' }
 #' @source \url{https://www.nascar.com/news/nascar-xfinity-series/}
 #' @source \url{https://www.driveraverages.com/nascar_xfinityseries/}
 #' @source \url{https://www.racing-reference.info/nascar-xfinity-series-stats/}
