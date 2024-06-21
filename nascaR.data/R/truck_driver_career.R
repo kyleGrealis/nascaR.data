@@ -1,6 +1,6 @@
-#' @title NASCAR Xfinity Series Driver Career Statistics
-#' @description A collection of career statistics for drivers in the NASCAR Xfinity Series. The data includes career averages and totals for various performance metrics.
-#' @format A data frame with 1,308 rows and 23 variables:
+#' @title NASCAR Truck Series Driver Career Statistics
+#' @description A collection of career statistics for drivers in the NASCAR Truck Series. The data includes career averages and totals for various performance metrics.
+#' @format A data frame with 1,058 rows and 23 variables:
 #' \describe{
 #'   \item{driver}{chr: Driver's name}
 #'   \item{career_races}{num: Total number of races driven in their career}
@@ -26,10 +26,10 @@
 #'   \item{career_max_race_money}{num: Highest earnings in a single race for their career (in dollars)}
 #'   \item{career_min_race_money}{num: Lowest earnings in a single race for their career (in dollars)}
 #' }
-#' @source \url{https://www.nascar.com/news/nascar-xfinity-series/}
-#' @source \url{https://www.driveraverages.com/nascar_xfinityseries/}
-#' @source \url{https://www.racing-reference.info/nascar-xfinity-series-stats/}
-#' @source \url{https://en.wikipedia.org/wiki/NASCAR_Xfinity_Series}
+#' @source \url{https://www.nascar.com/news/nascar-craftsman-truck-series/}
+#' @source \url{https://www.driveraverages.com/nascar_truckseries/}
+#' @source \url{https://www.racing-reference.info/nascar-truck-series-page/}
+#' @source \url{https://en.wikipedia.org/wiki/NASCAR_Craftsman_Truck_Series}
 #' @examples
-#' data(xfinity_driver_career)
-'xfinity_driver_career'
+#' data(truck_driver_career)
+'truck_driver_career'

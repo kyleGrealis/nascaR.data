@@ -1,8 +1,8 @@
-#' @title NASCAR Truck Series Driver Season Statistics
-#' @description A collection of season statistics for drivers in the NASCAR Truck Series. The data includes season averages and totals for various performance metrics.
-#' @format A data frame with 3,224 rows and 26 variables:
+#' @title NASCAR Xfinity Series Driver Season Statistics
+#' @description A collection of season statistics for drivers in the NASCAR Xfinity Series. The data includes season averages and totals for various performance metrics.
+#' @format A data frame with 5,394 rows and 26 variables:
 #' \describe{
-#'   \item{season}{num: Racing season (1995-2023)}
+#'   \item{season}{num: Racing season (1982-2023)}
 #'   \item{driver}{chr: Driver's name}
 #'   \item{season_races}{num: Total number of races driven in the season}
 #'   \item{season_wins}{num: Total number of wins in the season}
@@ -29,10 +29,10 @@
 #'   \item{season_max_race_money}{num: Highest earnings in a single race for the season (in dollars)}
 #'   \item{season_min_race_money}{num: Lowest earnings in a single race for the season (in dollars)}
 #' }
-#' @source \url{https://www.nascar.com/news/nascar-craftsman-truck-series/}
-#' @source \url{https://www.driveraverages.com/nascar_truckseries/}
-#' @source \url{https://www.racing-reference.info/nascar-truck-series-page/}
-#' @source \url{https://en.wikipedia.org/wiki/NASCAR_Craftsman_Truck_Series}
+#' @source \url{https://www.nascar.com/news/nascar-xfinity-series/}
+#' @source \url{https://www.driveraverages.com/nascar_xfinityseries/}
+#' @source \url{https://www.racing-reference.info/nascar-xfinity-series-stats/}
+#' @source \url{https://en.wikipedia.org/wiki/NASCAR_Xfinity_Series}
 #' @examples
-#' data(truck_driver_season)
-'truck_driver_season'
+#' data(xfinity_driver_season)
+'xfinity_driver_season'
