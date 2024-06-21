@@ -2,7 +2,7 @@
 # nascaR.data
 
 <div align="center">
-  <img src="https://github.com/kyleGrealis/nascaR.data/raw/main/NASCAR-Bar-mark.png" alt="NASCAR Bar Mark" width="450"/>
+  <img src="man/figures/NASCAR-Bar-mark.png" alt="NASCAR Bar Mark" width="450"/>
   <p><i>Image source:</i> <a href="https://www.nascar.com/wp-content/uploads/sites/7/2019/06/NASCAR-Bar-mark.jpg">NASCAR.com</a></p>
 </div>
 
