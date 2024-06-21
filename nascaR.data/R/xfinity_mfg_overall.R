@@ -1,5 +1,5 @@
 #' @title NASCAR Xfinity Series Manufacturer Overall Statistics
-#' @description A collection of overall statistics for manufacturers in the NASCAR Xfinity Series. The data includes career totals and averages for various performance metrics.
+#' @description A collection of overall statistics for manufacturers in the NASCAR Xfinity Series. The data includes overall totals and averages for various performance metrics.
 #' @format A data frame with 9 rows and 13 variables:
 #' \describe{
 #'   \item{manufacturer}{chr: Manufacturer name}

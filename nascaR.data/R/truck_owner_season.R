@@ -10,8 +10,8 @@
 #'   \item{owner_season_top_10}{num: Total number of top 10 finishes for the owner in the season}
 #'   \item{owner_season_top_20}{num: Total number of top 20 finishes for the owner in the season}
 #'   \item{owner_season_win_pct}{num: Win percentage for the owner in the season}
-#'   \item{owner_season_cars_raced}{num: Total number of trucks raced by the owner in the season}
-#'   \item{owner_season_truck_win_pct}{num: Win percentage at the truck level for the manufacturer in the season}
+#'   \item{owner_season_trucks_raced}{num: Total number of trucks raced by the owner in the season}
+#'   \item{owner_season_truck_win_pct}{num: Win percentage at the truck level for the owner in the season}
 #'   \item{owner_season_avg_start}{num: Average start position for the owner in the season}
 #'   \item{owner_season_avg_finish}{num: Average finish position for the owner in the season}
 #'   \item{owner_season_avg_laps_led}{num: Average number of laps led per race for the owner in the season}
