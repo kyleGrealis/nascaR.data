@@ -1,0 +1,35 @@
+#' @title NASCAR Cup Series Results
+#' @description A collection of NASCAR's top level competitive race series results from the first race in 1949 through the completion of the 2023 season. The series has undergone several name changes, including its start as the Strictly Stock and Grand National to Winston Cup through the current NASCAR Cup Series.
+#' @format A data frame with 97,474 rows and 23 variables:
+#' \describe{
+#'   \item{season}{num: Racing season (1949-2023)}
+#'   \item{race}{num: Chronological race number for that season (1-62)}
+#'   \item{site}{chr: Location of the race (city)}
+#'   \item{track}{chr: Race track name}
+#'   \item{track_length}{num: Race track length, in miles}
+#'   \item{track_type}{chr: Race track surface (dirt track, paved track, road course)}
+#'   \item{finish}{num: Finish position in the race}
+#'   \item{start}{num: Start position in the race}
+#'   \item{driver}{chr: Driver's name}
+#'   \item{manufacturer}{chr: Car manufacturer (e.g., "Chevrolet", "Ford", "Toyota")}
+#'   \item{car_number}{chr: Car number}
+#'   \item{owner}{chr: Car owner}
+#'   \item{sponsor}{chr: Car sponsor}
+#'   \item{win}{num: Indicator variable for win; `1` = win, `0` = did not win}
+#'   \item{top_5}{num: Indicator variable for finish position in 5th place or better; `1` = yes, `0` = no}
+#'   \item{top_10}{num: Indicator variable for finish position in 10th place or better; `1` = yes, `0` = no}
+#'   \item{top_20}{num: Indicator variable for finish position in 20th place or better; `1` = yes, `0` = no}
+#'   \item{laps}{num: Number of laps completed in the race}
+#'   \item{laps_led}{num: Number of laps led in the race}
+#'   \item{status}{chr: Status at the end of the race (e.g., "Running", "Accident"), if available}
+#'   \item{money}{num: Total race earning (in dollars) not including bonus money, if available. No available data beginning with the 2016 season.}
+#'   \item{pts}{num: Points earned in the race. Available beginning with the 1975 season.}
+#'   \item{playoff_pts}{num: Playoff points earned in the race. Available beginning with the 2017 season.}
+#' }
+#' @source \url{https://www.nascar.com/news/nascar-cup-series/}
+#' @source \url{https://www.driveraverages.com/nascar/nascar-stats.php}
+#' @source \url{https://www.racing-reference.info/nascar-cup-series-stats/}
+#' @source \url{https://en.wikipedia.org/wiki/NASCAR_Cup_Series}
+#' @examples
+#' data(cup_race_data)
+'cup_race_data'
