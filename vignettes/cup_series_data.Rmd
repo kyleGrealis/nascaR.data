@@ -1,8 +1,8 @@
 ---
-title: "cup_series_data"
+title: "NASCAR Series Data"
 output: rmarkdown::html_vignette
 vignette: >
-  %\VignetteIndexEntry{cup_series_data}
+  %\VignetteIndexEntry{NASCAR Series Data}
   %\VignetteEngine{knitr::rmarkdown}
   %\VignetteEncoding{UTF-8}
 ---
