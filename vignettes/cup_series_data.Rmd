@@ -1,0 +1,19 @@
+---
+title: "cup_series_data"
+output: rmarkdown::html_vignette
+vignette: >
+  %\VignetteIndexEntry{cup_series_data}
+  %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteEncoding{UTF-8}
+---
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>"
+)
+```
+
+```{r setup}
+library(nascaR.data)
+```
