@@ -8,7 +8,7 @@
 
 ----
 
-**nascaR.data** is a webscraping project about one of my favorite motorsports. I'm a racing fan whether that's on two feet sprinting down composite track or rubber clinging to the razor's edge on asphalt. There are a few planned phases of this project:
+**nascaR.data** is a webscraping project about one of my favorite motorsports. There are a few planned phases of this project:
 
 1. This is a quest to learn how to use Python for everyday tasks. I'm choosing to use it to scrape publicly available [NASCAR](https://www.nascar.com) race results. The Python libraries will be dependent on what's available & also what I find pretty easy to use.
 2. I'll be stregthening my data cleaning skills outside the comfort of my daily-used R and inside the world of Python with `Pandas` and `Polars`.
@@ -22,8 +22,8 @@
 - [x] Craftsman Truck Series data (completed: 5/23/2024)
 - [x] Busch/Xfinity Series data (completed: 6/3/2024)
 - [x] NASCAR Cup Series data (completed: 6/3/2024)
-- [ ] data cleaning and variable creation (in-progress: 6/16/2024)
-- [ ] R package tidbits
+- [x] data cleaning and variable creation (completed: 6/16/2024)
+- [ ] R package tidbits (in-progress: 6/21/2024)
 - [ ] R package accepted by CRAN
 
 ----
