@@ -1,0 +1,127 @@
+---
+title: "your_title_goes_here"
+author: "your_name_goes_here"
+date: last-modified
+output: rmarkdown::html_vignette
+vignette: >
+  %\VignetteIndexEntry{your_title_goes_here}
+  %\VignetteEngine{quarto::html}
+  %\VignetteEncoding{UTF-8}
+knitr:
+  opts_chunk:        ############ set global options ############
+    collapse: true   # keep code from blocks together (if shown)
+    echo: false      # don't show code
+    message: true    # show messages
+    warning: true    # show warnings
+    error: true      # show error messages
+    comment: ""      # don't show ## with printed output
+    dpi: 100         # image resolution (typically 300 for publication)
+    fig-width: 6.5   # figure width
+    fig-height: 4.0  # figure height
+    R.options:    
+      digits: 3    # round to three digits
+editor: visual
+bibliography: [references.bib, packages.bib]
+csl: the-new-england-journal-of-medicine.csl
+---
+
+```{r tidyverse-tidymodels, echo=FALSE}
+library(conflicted)
+suppressPackageStartupMessages(library(tidymodels))
+tidymodels_prefer()
+suppressPackageStartupMessages(library(tidyverse))
+
+# suppress "`summarise()` has grouped output by " messages
+options(dplyr.summarise.inform = FALSE)
+```
+
+```{r other-packages}
+library(glue)  # for glue()
+library(rUM)  # needed for the bibliography
+library(rio)  # for import() 
+
+# gtsummary for tbl_summary(), add_n(), add_p(), modify_header(), bold_labels()
+suppressPackageStartupMessages(library(gtsummary)) 
+```
+
+```{r load-data}
+# If you want to import a dataset which is not an R file, put its name inside 
+# the "" below.  For example:
+# raw_data <- import("the_excel.xlsx")
+
+# If your datasets is an Excel file saved in the data folder, add a path like:
+# raw_data <- import("data/the_excel.xlsx")
+```
+
+```{r make-analysis}
+# preprocess your data and ultimately make a dataset called analysis
+analysis <- mtcars |> 
+  mutate(auto_man = if_else(am == 0, "Automatic", "Manual")) |> 
+  select(mpg, auto_man)
+```
+
+# Abstract
+
+# Introduction
+
+# Methods
+
+Analyses were conducted with `r stringr::word(R.Version()$version.string, 1, 3)` with the `tidyverse` (`r packageVersion("tidyverse")`), `rUM` (`r packageVersion("rUM")`), `gtsummary` (`r packageVersion("gtsummary")`) packages used to preprocess and summarize data. [@R-base; @R-tidyverse; @tidyverse2019; @R-rUM; @R-gtsummary]
+
+# Results
+
+```{r tbl-table1}
+#| tbl-cap: |
+#|   Your real caption belongs here.  Remember that cross references to tables 
+#|   use labels for the code chunk starting with tbl-.
+
+# To learn how to use tbl_summary look https://www.danieldsjoberg.com/gtsummary/
+analysis |> 
+  tbl_summary(
+    include = c(everything()), # choose your variables here
+    # change auto_man to the name of your column variable or delete by = auto_man
+    by = auto_man, # split table by group
+    missing = "no" # don't list missing data separately
+  ) %>%
+  # add_n() %>% # add column with total number of non-missing observations
+  # add_p() %>% # test for a difference between groups
+  modify_header(label = "") %>% # update the column header to be blank
+  bold_labels()
+```
+
+As can be seen in @tbl-table1 ....
+
+```{r fig-figure-1}
+#| fig-cap: |
+#|   Your real caption belongs here.  Remember that cross references to figures 
+#|   use labels for the code chunk starting with fig-.
+
+# To learn how to use ggplot start here: https://ggplot2.tidyverse.org/#learning-ggplot2
+analysis |> 
+  ggplot() +
+		labs(
+			title = "Your short title goes here.",
+			caption = "Your data sources/citation goes here."
+		) +
+		geom_blank()
+		# remove geom_blank() and add details here
+```
+
+As can be seen in @fig-figure-1 ...
+
+# Discussion
+
+# References {.unnumbered}
+
+```{r}
+#| include: false
+
+# automatically create a bib database for loaded R packages & rUM
+knitr::write_bib(
+  c(
+    .packages(),
+    "rUM"
+  ),
+  "packages.bib"
+)
+```
