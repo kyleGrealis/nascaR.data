@@ -17,6 +17,7 @@ Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.3.1
 Suggests: 
     conflicted,
+    ggtext,
     glue,
     gtsummary,
     here,
@@ -25,6 +26,6 @@ Suggests:
     rmarkdown,
     roxygen2,
     rUM,
+    scales,
     tidyverse
-VignetteBuilder: 
-    quarto
+VignetteBuilder: quarto
