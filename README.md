@@ -8,12 +8,13 @@
 
 ----
 
-**nascaR.data** is a webscraping project about one of my favorite motorsports. There are a few planned phases of this project:
+**nascaR.data** is a curated group of datasets across NASCAR's top three series: Cup, Xfinity, and Trucks. There are 21 sets available to explore & use for creating tables or other data visualizations.
 
-1. This is a quest to learn how to use Python for everyday tasks. I'm choosing to use it to scrape publicly available [NASCAR](https://www.nascar.com) race results. The Python libraries will be dependent on what's available & also what I find pretty easy to use.
-2. I'll be stregthening my data cleaning skills outside the comfort of my daily-used R and inside the world of Python with `Pandas` and `Polars`.
-3. Once the data cleaning is complete, I'll investigate the potential to release the data as a R package. My initial thoughts are that the data will be useful for learning various data wrangling and cleaning tasks. Reshaping data, creating new variables and otherwise exploring to find patterns will be interesting.
-4. NASCAR Truck Series will be the primary target because (1) there's data starting in the inaugural year of 1995 and (2) I actually really like the series for a few reasons.
+Install `nascaR.data` with
+
+```
+remotes::install_github('kyleGrealis/nascaR.data')
+```
 
 ----
 
