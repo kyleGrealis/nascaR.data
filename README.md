@@ -10,7 +10,7 @@
 
 **nascaR.data** is a curated group of datasets across NASCAR's top three series: Cup, Xfinity, and Trucks. There are 21 sets available to explore & use for creating tables or other data visualizations.
 
-Install `nascaR.data` with
+Install `nascaR.data` with:
 
 ```
 remotes::install_github('kyleGrealis/nascaR.data')
