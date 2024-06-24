@@ -216,7 +216,7 @@ truck_mfg_season |>
   scale_color_manual(values = mfg_colors) +
   scale_y_continuous(labels = scales::percent) +
   labs(
-    title = 'NASCAR Truck Series Manufacturer Win Percentage by Season',
+    title = 'NASCAR Truck Series Manufacturer Win Percentage',
     caption = 'Source: NASCAR.com',
     x = NULL, y = NULL
   ) +
@@ -299,7 +299,7 @@ bind_rows(cup, xfinity, truck) |>
   scale_color_manual(values = flags) +
   scale_y_continuous(labels = scales::label_dollar(scale = 1, prefix = '$')) +
   labs(
-    title = 'NASCAR Truck Series Manufacturer Win Percentage by Season',
+    title = 'NASCAR Truck Series Manufacturer Win Percentage',
     subtitle = 'Race winnings were not reported since 2016',
     caption = 'Source: NASCAR.com',
     x = NULL, y = NULL
