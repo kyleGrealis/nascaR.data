@@ -1,6 +1,4 @@
 # nascaR.data (development version)
 
-## 06.23.2024:
-* Initial release of the nascaR.data package.
-* Added datasets for Cup, Xfinity, and Truck series.
+## 0.0.0.9000:
 * Initial CRAN submission.
