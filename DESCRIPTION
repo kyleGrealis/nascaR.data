@@ -2,16 +2,26 @@ Package: nascaR.data
 Title: NASCAR Race Data
 Version: 1.0.0
 Authors@R: 
-    person(
-        given = "Kyle", 
-        family = "Grealis", 
-        email = "kylegrealis@icloud.com", 
-        role = c("aut", "cre"),
-        comment = c(ORCID = "0000-0002-9223-8854")
+    c(
+        person(
+            given = "Kyle", 
+            family = "Grealis", 
+            email = "kylegrealis@icloud.com", 
+            role = c("aut", "cre"),
+            comment = c(ORCID = "0000-0002-9223-8854")
+        ),
+        person(
+            given = "Gabriel",
+            family = "Odom",
+            role = "ctb",
+            email = "gabriel.odom@fiu.edu",
+            comment = c(ORCID = "0000-0003-1341-4555")
+        )
     )
-Description: A collection of NASCAR race, driver, owner and manufacturer data across the three major NASCAR divisions: NASCAR Cup Series, NASCAR Xfinity Series, and NASCAR Craftsman Truck Series. The curated data begins with the 1949 season and extends through the end of the 2023 season. Data was sourced from the official NASCAR web site (<https://www.nascar.com/>), DriverAverages.com (<https://www.driveraverages.com/>), and Racing-Reference.info (<https://www.racing-reference.info/nascar-cup-series-stats/>, <https://www.racing-reference.info/nascar-xfinity-series-stats/>, <https://www.racing-reference.info/nascar-trucks-series-page/>).
+Description: A collection of NASCAR race, driver, owner and manufacturer data across the three major NASCAR divisions: NASCAR Cup Series, NASCAR Xfinity Series, and NASCAR Craftsman Truck Series. The curated data begins with the 1949 season and extends through the end of the 2023 season. Data was sourced with permission from DriverAverages.com.
 LazyData: true
 License: CC BY 4.0
+Depends: R (>= 3.5.0)
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.3.1
