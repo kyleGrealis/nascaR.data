@@ -23,10 +23,10 @@ remotes::install_github('kyleGrealis/nascaR.data')
 - [x] NASCAR Cup Series data (completed: 6/3/2024)
 - [x] data cleaning and variable creation (completed: 6/16/2024)
 - [x] R package tidbits (completed: 6/21/2024)
-- [x] R package submitted to CRAN (completed: 6/23/2024)
+- [x] R package submitted to CRAN (completed: 6/25/2024)
 
 ----
-The data has been obtained from [NASCAR](https://www.nascar.com/), with permission from [DriverAverages.com](https://www.driveraverages.com/), and supplemented with [Racing-Reference.info](https://www.racing-reference.info/). 
+This package is a collection of NASCAR race, driver, owner and manufacturer data across the three major NASCAR divisions: NASCAR Cup Series, NASCAR Xfinity Series, and NASCAR Craftsman Truck Series. The curated data begins with the 1949 season and extends through the end of the 2023 season. Data was sourced with permission from DriverAverages.com.
 
 ----
 
