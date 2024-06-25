@@ -1,0 +1,8 @@
+pandoc: 3.1.9
+pkgdown: 2.0.9
+pkgdown_sha: ~
+articles:
+  cup_series_data: cup_series_data.html
+  nascaR.data_vignette: nascaR.data_vignette.html
+last_built: 2024-06-25T15:32Z
+
