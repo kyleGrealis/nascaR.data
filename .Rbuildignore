@@ -9,3 +9,4 @@
 ^pkgdown$
 ^nascaR\.data\.Rcheck$
 ^\.github$
+^CRAN-SUBMISSION$
