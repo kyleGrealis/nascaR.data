@@ -28,4 +28,4 @@ remotes::install_github('kyleGrealis/nascaR.data')
 - [x] R package submitted to CRAN (completed: 6/23/2024)
 
 ----
-The data has been obtained from [NASCAR](https://www.nascar.com), with permission from [DriverAverages.com](https://www.driveraverages.com/), and supplemented with [Racing-Reference.info](https://www.racing-reference.info/). 
+The data has been obtained from [NASCAR](https://www.nascar.com/), with permission from [DriverAverages.com](https://www.driveraverages.com/), and supplemented with [Racing-Reference.info](https://www.racing-reference.info/). 
