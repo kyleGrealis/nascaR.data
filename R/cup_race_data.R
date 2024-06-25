@@ -26,9 +26,7 @@
 #'   \item{pts}{num: Points earned in the race. Available beginning with the 1975 season.}
 #'   \item{playoff_pts}{num: Playoff points earned in the race. Available beginning with the 2017 season.}
 #' }
-#' @source \url{https://www.nascar.com/news/nascar-cup-series/}
 #' @source \url{https://www.driveraverages.com/nascar/nascar-stats.php}
-#' @source \url{https://www.racing-reference.info/nascar-cup-series-stats/}
 #' @source \url{https://en.wikipedia.org/wiki/NASCAR_Cup_Series}
 #' @examples
 #' data(cup_race_data)

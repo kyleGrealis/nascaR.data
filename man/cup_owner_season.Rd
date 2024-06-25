@@ -24,11 +24,7 @@ A data frame with 6560 rows and 14 variables:
 }
 }
 \source{
-\url{https://www.nascar.com/news/nascar-cup-series/}
-
 \url{https://www.driveraverages.com/nascar/nascar-stats.php}
-
-\url{https://www.racing-reference.info/nascar-cup-series-stats/}
 
 \url{https://en.wikipedia.org/wiki/NASCAR_Cup_Series}
 }

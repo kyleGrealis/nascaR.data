@@ -16,9 +16,7 @@
 #'   \item{owner_overall_avg_laps_led}{num: Average number of laps led per race for the owner in their career}
 #'   \item{owner_overall_laps_led}{num: Total number of laps led by the owner in their career}
 #' }
-#' @source \url{https://www.nascar.com/news/nascar-craftsman-truck-series/}
 #' @source \url{https://www.driveraverages.com/nascar_truckseries/}
-#' @source \url{https://www.racing-reference.info/nascar-trucks-series-page/}
 #' @source \url{https://en.wikipedia.org/wiki/NASCAR_Craftsman_Truck_Series}
 #' @examples
 #' data(truck_owner_career)

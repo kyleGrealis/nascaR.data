@@ -17,9 +17,7 @@
 #'   \item{owner_season_avg_laps_led}{num: Average number of laps led per race for the owner in the season}
 #'   \item{owner_season_laps_led}{num: Total number of laps led by the owner in the season}
 #' }
-#' @source \url{https://www.nascar.com/news/nascar-cup-series/}
 #' @source \url{https://www.driveraverages.com/nascar/nascar-stats.php}
-#' @source \url{https://www.racing-reference.info/nascar-cup-series-stats/}
 #' @source \url{https://en.wikipedia.org/wiki/NASCAR_Cup_Series}
 #' @examples
 #' data(cup_owner_season)

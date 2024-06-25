@@ -17,9 +17,7 @@
 #'   \item{owner_season_avg_laps_led}{num: Average number of laps led per race for the owner in the season}
 #'   \item{owner_season_laps_led}{num: Total number of laps led by the owner in the season}
 #' }
-#' @source \url{https://www.nascar.com/news/nascar-xfinity-series/}
 #' @source \url{https://www.driveraverages.com/nascar_xfinityseries/}
-#' @source \url{https://www.racing-reference.info/nascar-xfinity-series-stats/}
 #' @source \url{https://en.wikipedia.org/wiki/NASCAR_Xfinity_Series}
 #' @examples
 #' data(xfinity_owner_season)

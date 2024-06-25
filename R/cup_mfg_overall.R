@@ -18,8 +18,6 @@
 #' }
 #' @examples
 #' data(cup_mfg_overall)
-#' @source \url{https://www.nascar.com/news/nascar-cup-series/}
 #' @source \url{https://www.driveraverages.com/nascar/nascar-stats.php}
-#' @source \url{https://www.racing-reference.info/nascar-cup-series-stats/}
 #' @source \url{https://en.wikipedia.org/wiki/NASCAR_Cup_Series}
 'cup_mfg_overall'

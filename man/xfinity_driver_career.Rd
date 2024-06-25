@@ -33,11 +33,7 @@ A data frame with 1,308 rows and 23 variables:
 }
 }
 \source{
-\url{https://www.nascar.com/news/nascar-xfinity-series/}
-
 \url{https://www.driveraverages.com/nascar_xfinityseries/}
-
-\url{https://www.racing-reference.info/nascar-xfinity-series-stats/}
 
 \url{https://en.wikipedia.org/wiki/NASCAR_Xfinity_Series}
 }

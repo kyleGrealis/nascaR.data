@@ -29,9 +29,7 @@
 #'   \item{season_max_race_money}{num: Highest earnings in a single race for the season (in dollars)}
 #'   \item{season_min_race_money}{num: Lowest earnings in a single race for the season (in dollars)}
 #' }
-#' @source \url{https://www.nascar.com/news/nascar-xfinity-series/}
 #' @source \url{https://www.driveraverages.com/nascar_xfinityseries/}
-#' @source \url{https://www.racing-reference.info/nascar-xfinity-series-stats/}
 #' @source \url{https://en.wikipedia.org/wiki/NASCAR_Xfinity_Series}
 #' @examples
 #' data(xfinity_driver_season)

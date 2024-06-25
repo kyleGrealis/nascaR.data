@@ -29,9 +29,7 @@
 #'   \item{season_max_race_money}{num: Maximum earnings in a single race in that season (in dollars)}
 #'   \item{season_min_race_money}{num: Minimum earnings in a single race in that season (in dollars)}
 #' }
-#' @source \url{https://www.nascar.com/news/nascar-cup-series/}
 #' @source \url{https://www.driveraverages.com/nascar/nascar-stats.php}
-#' @source \url{https://www.racing-reference.info/nascar-cup-series-stats/}
 #' @source \url{https://en.wikipedia.org/wiki/NASCAR_Cup_Series}
 #' @examples
 #' data(cup_driver_season)

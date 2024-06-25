@@ -26,9 +26,7 @@
 #'   \item{career_max_race_money}{num: Highest earnings in a single race for their career (in dollars)}
 #'   \item{career_min_race_money}{num: Lowest earnings in a single race for their career (in dollars)}
 #' }
-#' @source \url{https://www.nascar.com/news/nascar-cup-series/}
 #' @source \url{https://www.driveraverages.com/nascar/nascar-stats.php}
-#' @source \url{https://www.racing-reference.info/nascar-cup-series-stats/}
 #' @source \url{https://en.wikipedia.org/wiki/NASCAR_Cup_Series}
 #' @examples
 #' data(cup_driver_career)
