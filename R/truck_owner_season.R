@@ -19,7 +19,7 @@
 #' }
 #' @source \url{https://www.nascar.com/news/nascar-craftsman-truck-series/}
 #' @source \url{https://www.driveraverages.com/nascar_truckseries/}
-#' @source \url{https://www.racing-reference.info/nascar-truck-series-page/}
+#' @source \url{https://www.racing-reference.info/nascar-trucks-series-page/}
 #' @source \url{https://en.wikipedia.org/wiki/NASCAR_Craftsman_Truck_Series}
 #' @examples
 #' data(truck_owner_season)

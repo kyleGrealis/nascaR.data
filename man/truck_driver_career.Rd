@@ -37,7 +37,7 @@ A data frame with 1,058 rows and 23 variables:
 
 \url{https://www.driveraverages.com/nascar_truckseries/}
 
-\url{https://www.racing-reference.info/nascar-truck-series-page/}
+\url{https://www.racing-reference.info/nascar-trucks-series-page/}
 
 \url{https://en.wikipedia.org/wiki/NASCAR_Craftsman_Truck_Series}
 }

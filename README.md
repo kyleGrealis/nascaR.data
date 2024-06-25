@@ -25,7 +25,7 @@ remotes::install_github('kyleGrealis/nascaR.data')
 - [x] NASCAR Cup Series data (completed: 6/3/2024)
 - [x] data cleaning and variable creation (completed: 6/16/2024)
 - [x] R package tidbits (completed: 6/21/2024)
-- [ ] R package submitted to CRAN
+- [x] R package submitted to CRAN (completed: 6/23/2024)
 
 ----
 The data has been obtained from [NASCAR](https://www.nascar.com), with permission from [DriverAverages.com](https://www.driveraverages.com/), and supplemented with [Racing-Reference.info](https://www.racing-reference.info/). 
