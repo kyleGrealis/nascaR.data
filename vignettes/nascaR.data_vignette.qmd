@@ -299,7 +299,7 @@ bind_rows(cup, xfinity, truck) |>
   scale_color_manual(values = flags) +
   scale_y_continuous(labels = scales::label_dollar(scale = 1, prefix = '$')) +
   labs(
-    title = 'NASCAR Truck Series Manufacturer Win Percentage',
+    title = 'NASCAR Race Money by Season',
     subtitle = 'Race winnings were not reported since 2016',
     caption = 'Source: NASCAR.com',
     x = NULL, y = NULL
