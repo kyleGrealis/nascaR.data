@@ -39,5 +39,5 @@ Suggests:
     scales,
     tidyverse
 VignetteBuilder: quarto
-URL: https://github.com/kyleGrealis/nascaR.data/
+URL: https://github.com/kyleGrealis/nascaR.data/, https://kylegrealis.github.io/nascaR.data/
 BugReports: https://github.com/kyleGrealis/nascaR.data/issues
