@@ -14,6 +14,12 @@ Install `nascaR.data` with:
 remotes::install_github('kyleGrealis/nascaR.data')
 ```
 
+or use the official CRAN release:
+
+```
+install.packages('nascaR.data')
+```
+
 ----
 
 **Project updates:**
