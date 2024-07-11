@@ -8,28 +8,21 @@
 
 **nascaR.data** is a curated group of datasets across NASCAR's top three series: Cup, Xfinity, and Trucks. There are 21 sets available to explore & use for creating tables or other data visualizations.
 
-Install `nascaR.data` with:
+Install `nascaR.data` with the official CRAN release:
+
+```
+install.packages('nascaR.data')
+```
+```
+remotes::install_cran('nascaR.data')
+```
+
+Or you can install the development verion that contains more-frequently updated race results:
 
 ```
 remotes::install_github('kyleGrealis/nascaR.data')
 ```
 
-or use the official CRAN release:
-
-```
-install.packages('nascaR.data')
-```
-
-----
-
-**Project updates:**
-
-- [x] Craftsman Truck Series data (completed: 5/23/2024)
-- [x] Busch/Xfinity Series data (completed: 6/3/2024)
-- [x] NASCAR Cup Series data (completed: 6/3/2024)
-- [x] data cleaning and variable creation (completed: 6/16/2024)
-- [x] R package tidbits (completed: 6/21/2024)
-- [x] R package submitted to CRAN (completed: 6/25/2024)
 
 ----
 
