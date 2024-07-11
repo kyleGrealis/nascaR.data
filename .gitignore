@@ -7,4 +7,5 @@ inst/doc
 docs
 
 nascaR.data.Rcheck
-cran-comments.md
+cran-comments*
+CRAN-SUBMISSION*
