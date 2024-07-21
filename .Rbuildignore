@@ -10,3 +10,5 @@
 ^nascaR\.data\.Rcheck$
 ^\.github$
 ^CRAN-SUBMISSION$
+^scraping$
+requirements.txt
