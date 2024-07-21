@@ -1,0 +1,826 @@
+Season,Race,Site,Track,Track_length,Track_type,Pos,St,#,Driver,Sponsor / Owner,Truck,Laps,Status,Led,Pts,PPts
+2022,1,Daytona,Daytona International Speedway,2.5,paved track,1.0,20.0,38.0,Zane Smith,Love's Travel Stops (Bob Jenkins),Ford,106.0,running,3.0,46.0,5.0
+2022,1,Daytona,Daytona International Speedway,2.5,paved track,2.0,27.0,99.0,Ben Rhodes,EXT Extreme Hair Therapy (Duke Thorson),Toyota,106.0,running,6.0,44.0,0.0
+2022,1,Daytona,Daytona International Speedway,2.5,paved track,3.0,14.0,98.0,Christian Eckes,AHI Facility Services / Curb Records (Mike Curb),Toyota,106.0,running,9.0,41.0,0.0
+2022,1,Daytona,Daytona International Speedway,2.5,paved track,4.0,24.0,15.0,Tanner Gray,Black's Tire (David Gilliland),Ford,106.0,running,0.0,36.0,0.0
+2022,1,Daytona,Daytona International Speedway,2.5,paved track,5.0,31.0,75.0,Parker Kligerman,Food Country USA (Charlie Henderson),Chevrolet,106.0,running,0.0,32.0,0.0
+2022,1,Daytona,Daytona International Speedway,2.5,paved track,6.0,9.0,2.0,Jesse Little,Shriners Children's Hospitals (Randy Young),Chevrolet,106.0,running,0.0,31.0,0.0
+2022,1,Daytona,Daytona International Speedway,2.5,paved track,7.0,1.0,66.0,Ty Majeski,Cincinnati Tools (Duke Thorson),Toyota,106.0,running,21.0,35.0,0.0
+2022,1,Daytona,Daytona International Speedway,2.5,paved track,8.0,28.0,20.0,Danny Bohn,North American Motor Car (Randy Young),Chevrolet,106.0,running,0.0,29.0,0.0
+2022,1,Daytona,Daytona International Speedway,2.5,paved track,9.0,22.0,42.0,Carson Hocevar,Premier Security Solutions (Al Niece),Chevrolet,106.0,running,0.0,28.0,0.0
+2022,1,Daytona,Daytona International Speedway,2.5,paved track,10.0,23.0,25.0,Matt DiBenedetto,Rackley Roofing / WAR Shocks (Rackley W.A.R.),Chevrolet,106.0,running,0.0,27.0,0.0
+2022,1,Daytona,Daytona International Speedway,2.5,paved track,11.0,15.0,12.0,Spencer Boyd,Rimtyme (Randy Young),Chevrolet,106.0,running,0.0,26.0,0.0
+2022,1,Daytona,Daytona International Speedway,2.5,paved track,12.0,8.0,17.0,Riley Herbst,Mechanix Wear (David Gilliland),Ford,106.0,running,0.0,0.0,0.0
+2022,1,Daytona,Daytona International Speedway,2.5,paved track,13.0,16.0,22.0,Austin Wayne Self,AM Technical Solutions / Airbox (Tim Self),Chevrolet,106.0,running,0.0,29.0,0.0
+2022,1,Daytona,Daytona International Speedway,2.5,paved track,14.0,35.0,56.0,Timmy Hill,Coble Enterprises (Timmy Hill),Toyota,106.0,running,0.0,23.0,0.0
+2022,1,Daytona,Daytona International Speedway,2.5,paved track,15.0,13.0,7.0,Austin Hill,United Rentals (Spire Motorsports),Chevrolet,106.0,running,1.0,0.0,0.0
+2022,1,Daytona,Daytona International Speedway,2.5,paved track,16.0,5.0,52.0,Stewart Friesen,Halmar International (Chris Larsen),Toyota,106.0,running,2.0,29.0,0.0
+2022,1,Daytona,Daytona International Speedway,2.5,paved track,17.0,26.0,1.0,Hailie Deegan,Monster Energy (David Gilliland),Ford,106.0,running,0.0,20.0,0.0
+2022,1,Daytona,Daytona International Speedway,2.5,paved track,18.0,34.0,43.0,Thad Moffitt,STP (Josh Reaume),Chevrolet,106.0,running,0.0,0.0,0.0
+2022,1,Daytona,Daytona International Speedway,2.5,paved track,19.0,12.0,44.0,Kris Wright,F.N.B. Corporation (Al Niece),Chevrolet,106.0,running,0.0,18.0,0.0
+2022,1,Daytona,Daytona International Speedway,2.5,paved track,20.0,33.0,33.0,Jason White,Powder Venture Excavations (Josh Reaume),Toyota,105.0,crash,0.0,17.0,0.0
+2022,1,Daytona,Daytona International Speedway,2.5,paved track,21.0,3.0,18.0,Chandler Smith,Safelite (Kyle Busch),Toyota,105.0,running,0.0,33.0,0.0
+2022,1,Daytona,Daytona International Speedway,2.5,paved track,22.0,32.0,30.0,Tate Fogleman,Rangeline Group (Steven Lane),Toyota,105.0,running,0.0,15.0,0.0
+2022,1,Daytona,Daytona International Speedway,2.5,paved track,23.0,25.0,28.0,Bryan Dauzat,FDNY / O.B. Builders (Jim Rosenblum),Chevrolet,105.0,running,0.0,14.0,0.0
+2022,1,Daytona,Daytona International Speedway,2.5,paved track,24.0,2.0,4.0,John H. Nemechek,Pye-Barker Fire & Safety (Kyle Busch),Toyota,104.0,running,50.0,33.0,2.0
+2022,1,Daytona,Daytona International Speedway,2.5,paved track,25.0,10.0,45.0,Lawless Alan,Auto ParkIt (Al Niece),Chevrolet,103.0,crash,0.0,12.0,0.0
+2022,1,Daytona,Daytona International Speedway,2.5,paved track,26.0,30.0,19.0,Derek Kraus,Shockwave (Bill McAnally),Chevrolet,101.0,crash,1.0,14.0,0.0
+2022,1,Daytona,Daytona International Speedway,2.5,paved track,27.0,29.0,88.0,Matt Crafton,Mold Armor / Menards (Duke Thorson),Toyota,100.0,crash,0.0,16.0,0.0
+2022,1,Daytona,Daytona International Speedway,2.5,paved track,28.0,4.0,16.0,Tyler Ankrum,Liuna (Shigeaki Hattori),Toyota,99.0,crash,4.0,14.0,0.0
+2022,1,Daytona,Daytona International Speedway,2.5,paved track,29.0,7.0,23.0,Grant Enfinger,Champion Power Equipment (Maury Gallagher),Chevrolet,99.0,crash,0.0,13.0,0.0
+2022,1,Daytona,Daytona International Speedway,2.5,paved track,30.0,18.0,91.0,Colby Howard,Gates Hydraulics (Bill McAnally),Chevrolet,99.0,crash,9.0,0.0,0.0
+2022,1,Daytona,Daytona International Speedway,2.5,paved track,31.0,19.0,9.0,Blaine Perkins,Raceline (Codie Rohrbaugh),Chevrolet,99.0,crash,0.0,6.0,0.0
+2022,1,Daytona,Daytona International Speedway,2.5,paved track,32.0,6.0,51.0,Corey Heim,JBL (Kyle Busch),Toyota,91.0,crash,0.0,12.0,0.0
+2022,1,Daytona,Daytona International Speedway,2.5,paved track,33.0,11.0,24.0,Jack Wood,Make An Impact Foundation (Maury Gallagher),Chevrolet,63.0,crash,0.0,4.0,0.0
+2022,1,Daytona,Daytona International Speedway,2.5,paved track,34.0,36.0,47.0,Johnny Sauter,LiftKits4Less.com (G2G Racing),Toyota,60.0,electrical,0.0,3.0,0.0
+2022,1,Daytona,Daytona International Speedway,2.5,paved track,35.0,21.0,32.0,Bret Holmes,Southern States Bank (Stacy Holmes),Chevrolet,44.0,clutch,0.0,4.0,0.0
+2022,1,Daytona,Daytona International Speedway,2.5,paved track,36.0,17.0,40.0,Dean Thompson,Worldwide Express (Al Niece),Chevrolet,36.0,brakes,0.0,1.0,0.0
+2022,2,Las Vegas,Las Vegas Motor Speedway,1.5,paved track,1.0,3.0,18.0,Chandler Smith,Safelite Auto Glass (Kyle Busch),Toyota,134.0,running,32.0,54.0,5.0
+2022,2,Las Vegas,Las Vegas Motor Speedway,1.5,paved track,2.0,2.0,51.0,Kyle Busch,JBL (Kyle Busch),Toyota,134.0,running,31.0,0.0,0.0
+2022,2,Las Vegas,Las Vegas Motor Speedway,1.5,paved track,3.0,17.0,52.0,Stewart Friesen,Halmar International (Chris Larsen),Toyota,134.0,running,0.0,36.0,0.0
+2022,2,Las Vegas,Las Vegas Motor Speedway,1.5,paved track,4.0,5.0,17.0,Ryan Preece,United Rentals (David Gilliland),Ford,134.0,running,3.0,34.0,0.0
+2022,2,Las Vegas,Las Vegas Motor Speedway,1.5,paved track,5.0,8.0,15.0,Tanner Gray,Ford Performance (David Gilliland),Ford,134.0,running,7.0,46.0,0.0
+2022,2,Las Vegas,Las Vegas Motor Speedway,1.5,paved track,6.0,15.0,25.0,Matt DiBenedetto,Rackley Roofing / WAR Shocks (Rackley W.A.R.),Chevrolet,134.0,running,0.0,31.0,0.0
+2022,2,Las Vegas,Las Vegas Motor Speedway,1.5,paved track,7.0,7.0,88.0,Matt Crafton,Slim Jim / Menards (Duke Thorson),Toyota,134.0,running,0.0,39.0,0.0
+2022,2,Las Vegas,Las Vegas Motor Speedway,1.5,paved track,8.0,32.0,32.0,Bret Holmes,Holmes ll Excavation (Stacy Holmes),Chevrolet,134.0,running,0.0,29.0,0.0
+2022,2,Las Vegas,Las Vegas Motor Speedway,1.5,paved track,9.0,18.0,22.0,Austin Wayne Self,AM Technical Solutions (Tim Self),Chevrolet,134.0,running,0.0,28.0,0.0
+2022,2,Las Vegas,Las Vegas Motor Speedway,1.5,paved track,10.0,10.0,66.0,Ty Majeski,T Sport (Duke Thorson),Toyota,134.0,running,0.0,37.0,0.0
+2022,2,Las Vegas,Las Vegas Motor Speedway,1.5,paved track,11.0,29.0,40.0,Dean Thompson,Worldwide Express (Al Niece),Chevrolet,134.0,running,0.0,26.0,0.0
+2022,2,Las Vegas,Las Vegas Motor Speedway,1.5,paved track,12.0,21.0,30.0,Tate Fogleman,Rangeline Group (Steven Lane),Toyota,134.0,running,0.0,25.0,0.0
+2022,2,Las Vegas,Las Vegas Motor Speedway,1.5,paved track,13.0,12.0,42.0,Carson Hocevar,Premier Security Solutions (Al Niece),Chevrolet,134.0,running,9.0,30.0,0.0
+2022,2,Las Vegas,Las Vegas Motor Speedway,1.5,paved track,14.0,19.0,61.0,Chase Purdy,Bama Buggies (Shigeaki Hattori),Toyota,134.0,running,0.0,23.0,0.0
+2022,2,Las Vegas,Las Vegas Motor Speedway,1.5,paved track,15.0,27.0,20.0,Matt Mills,J.F. Electric (Randy Young),Chevrolet,134.0,running,0.0,0.0,0.0
+2022,2,Las Vegas,Las Vegas Motor Speedway,1.5,paved track,16.0,14.0,16.0,Tyler Ankrum,Liuna! (Shigeaki Hattori),Toyota,134.0,running,0.0,21.0,0.0
+2022,2,Las Vegas,Las Vegas Motor Speedway,1.5,paved track,17.0,16.0,44.0,Kris Wright,iHeart Radio (Al Niece),Chevrolet,134.0,running,0.0,20.0,0.0
+2022,2,Las Vegas,Las Vegas Motor Speedway,1.5,paved track,18.0,28.0,56.0,Timmy Hill,Hill Motorsports (Timmy Hill),Toyota,134.0,running,1.0,19.0,0.0
+2022,2,Las Vegas,Las Vegas Motor Speedway,1.5,paved track,19.0,26.0,45.0,Lawless Alan,AutoParkIt.com (Al Niece),Chevrolet,134.0,running,0.0,18.0,0.0
+2022,2,Las Vegas,Las Vegas Motor Speedway,1.5,paved track,20.0,36.0,33.0,Loris Hezemans,Reaume Brothers Racing (Josh Reaume),Toyota,134.0,running,0.0,17.0,0.0
+2022,2,Las Vegas,Las Vegas Motor Speedway,1.5,paved track,21.0,23.0,62.0,Todd Bodine,Camping World (Chris Larsen),Toyota,134.0,running,0.0,16.0,0.0
+2022,2,Las Vegas,Las Vegas Motor Speedway,1.5,paved track,22.0,33.0,46.0,Matt Jaskol,G2G Racing,Toyota,134.0,running,0.0,15.0,0.0
+2022,2,Las Vegas,Las Vegas Motor Speedway,1.5,paved track,23.0,11.0,23.0,Grant Enfinger,Champion Power Equipment (Maury Gallagher),Chevrolet,134.0,running,0.0,14.0,0.0
+2022,2,Las Vegas,Las Vegas Motor Speedway,1.5,paved track,24.0,13.0,19.0,Derek Kraus,NAPA Auto Care (Bill McAnally),Chevrolet,134.0,running,0.0,14.0,0.0
+2022,2,Las Vegas,Las Vegas Motor Speedway,1.5,paved track,25.0,1.0,4.0,John H. Nemechek,Mobil 1 (Kyle Busch),Toyota,134.0,running,23.0,22.0,0.0
+2022,2,Las Vegas,Las Vegas Motor Speedway,1.5,paved track,26.0,34.0,3.0,Jordan Anderson,Dometic Outdoor (Jordan Anderson),Chevrolet,133.0,crash,0.0,11.0,0.0
+2022,2,Las Vegas,Las Vegas Motor Speedway,1.5,paved track,27.0,35.0,12.0,Spencer Boyd,Hair Club (Randy Young),Chevrolet,132.0,crash,0.0,10.0,0.0
+2022,2,Las Vegas,Las Vegas Motor Speedway,1.5,paved track,28.0,9.0,98.0,Christian Eckes,Curb Records (Mike Curb),Toyota,126.0,crash,4.0,12.0,0.0
+2022,2,Las Vegas,Las Vegas Motor Speedway,1.5,paved track,29.0,31.0,43.0,Thad Moffitt,Clean Harbors (Josh Reaume),Chevrolet,114.0,running,0.0,8.0,0.0
+2022,2,Las Vegas,Las Vegas Motor Speedway,1.5,paved track,30.0,25.0,2.0,Kaz Grala,Ruedebusch Development (Randy Young),Chevrolet,113.0,engine,0.0,7.0,0.0
+2022,2,Las Vegas,Las Vegas Motor Speedway,1.5,paved track,31.0,4.0,99.0,Ben Rhodes,Duke Thorson,Toyota,103.0,crash,9.0,26.0,2.0
+2022,2,Las Vegas,Las Vegas Motor Speedway,1.5,paved track,32.0,24.0,24.0,Jack Wood,Chevrolet Truck Month (Maury Gallagher),Chevrolet,71.0,crash,0.0,12.0,0.0
+2022,2,Las Vegas,Las Vegas Motor Speedway,1.5,paved track,33.0,20.0,1.0,Hailie Deegan,Monster Energy (David Gilliland),Ford,44.0,crash,0.0,4.0,0.0
+2022,2,Las Vegas,Las Vegas Motor Speedway,1.5,paved track,34.0,22.0,91.0,Colby Howard,Gates Hydraulics (Bill McAnally),Chevrolet,28.0,crash,0.0,3.0,0.0
+2022,2,Las Vegas,Las Vegas Motor Speedway,1.5,paved track,35.0,30.0,9.0,Blaine Perkins,Raceline (Codie Rohrbaugh),Chevrolet,21.0,dvp,0.0,2.0,0.0
+2022,2,Las Vegas,Las Vegas Motor Speedway,1.5,paved track,36.0,6.0,38.0,Zane Smith,Michael Roberts Construction (Bob Jenkins),Ford,134.0,disqualified,15.0,1.0,0.0
+2022,3,Atlanta,Atlanta Motor Speedway,1.54,paved track,1.0,19.0,51.0,Corey Heim,JBL (Kyle Busch),Toyota,135.0,running,22.0,40.0,5.0
+2022,3,Atlanta,Atlanta Motor Speedway,1.54,paved track,2.0,15.0,99.0,Ben Rhodes,Tenda (Duke Thorson),Toyota,135.0,running,9.0,35.0,0.0
+2022,3,Atlanta,Atlanta Motor Speedway,1.54,paved track,3.0,4.0,66.0,Ty Majeski,American Racing Wheels (Duke Thorson),Toyota,135.0,running,1.0,43.0,0.0
+2022,3,Atlanta,Atlanta Motor Speedway,1.54,paved track,4.0,1.0,18.0,Chandler Smith,Safelite (Kyle Busch),Toyota,135.0,running,21.0,45.0,0.0
+2022,3,Atlanta,Atlanta Motor Speedway,1.54,paved track,5.0,25.0,38.0,Zane Smith,Fr8Auctions.com (Bob Jenkins),Ford,135.0,running,0.0,32.0,0.0
+2022,3,Atlanta,Atlanta Motor Speedway,1.54,paved track,6.0,2.0,52.0,Stewart Friesen,Halmar International (Chris Larsen),Toyota,135.0,running,49.0,41.0,1.0
+2022,3,Atlanta,Atlanta Motor Speedway,1.54,paved track,7.0,11.0,17.0,Ryan Preece,United Rentals (David Gilliland),Ford,135.0,running,4.0,31.0,0.0
+2022,3,Atlanta,Atlanta Motor Speedway,1.54,paved track,8.0,9.0,15.0,Tanner Gray,Ford Performance (David Gilliland),Ford,135.0,running,0.0,37.0,0.0
+2022,3,Atlanta,Atlanta Motor Speedway,1.54,paved track,9.0,18.0,19.0,Derek Kraus,NAPA Autocare (Bill McAnally),Chevrolet,135.0,running,0.0,36.0,0.0
+2022,3,Atlanta,Atlanta Motor Speedway,1.54,paved track,10.0,7.0,22.0,Austin Wayne Self,AM Technical Solutions (Tim Self),Chevrolet,135.0,running,0.0,27.0,0.0
+2022,3,Atlanta,Atlanta Motor Speedway,1.54,paved track,11.0,10.0,16.0,Tyler Ankrum,Liuna (Shigeaki Hattori),Toyota,135.0,running,0.0,33.0,0.0
+2022,3,Atlanta,Atlanta Motor Speedway,1.54,paved track,12.0,8.0,23.0,Grant Enfinger,Champion Power Equipment (Maury Gallagher),Chevrolet,135.0,running,14.0,34.0,0.0
+2022,3,Atlanta,Atlanta Motor Speedway,1.54,paved track,13.0,22.0,24.0,Jack Wood,Chevrolet Truck Month (Maury Gallagher),Chevrolet,135.0,running,0.0,24.0,0.0
+2022,3,Atlanta,Atlanta Motor Speedway,1.54,paved track,14.0,20.0,61.0,Chase Purdy,"David S. Gray ""Found Love"" (Shigeaki Hattori)",Toyota,135.0,running,0.0,23.0,0.0
+2022,3,Atlanta,Atlanta Motor Speedway,1.54,paved track,15.0,34.0,2.0,Jesse Little,Sim Seats (Randy Young),Chevrolet,135.0,running,0.0,22.0,0.0
+2022,3,Atlanta,Atlanta Motor Speedway,1.54,paved track,16.0,16.0,98.0,Christian Eckes,Curb Records (Mike Curb),Toyota,135.0,running,3.0,35.0,0.0
+2022,3,Atlanta,Atlanta Motor Speedway,1.54,paved track,17.0,29.0,33.0,Chris Hacker,Dal Dirt (Josh Reaume),Toyota,135.0,running,0.0,20.0,0.0
+2022,3,Atlanta,Atlanta Motor Speedway,1.54,paved track,18.0,33.0,3.0,Jordan Anderson,Easy Care / Bommarito.com (Jordan Anderson),Chevrolet,135.0,running,0.0,19.0,0.0
+2022,3,Atlanta,Atlanta Motor Speedway,1.54,paved track,19.0,31.0,46.0,Matt Jaskol,AutoParts4Less.com (G2G Racing),Toyota,135.0,running,0.0,18.0,0.0
+2022,3,Atlanta,Atlanta Motor Speedway,1.54,paved track,20.0,30.0,12.0,Spencer Boyd,Rimtyme (Randy Young),Chevrolet,134.0,running,0.0,17.0,0.0
+2022,3,Atlanta,Atlanta Motor Speedway,1.54,paved track,21.0,21.0,44.0,Kris Wright,F.N.B. Corporation (Al Niece),Chevrolet,134.0,running,0.0,16.0,0.0
+2022,3,Atlanta,Atlanta Motor Speedway,1.54,paved track,22.0,23.0,56.0,Timmy Hill,Units Storage (Timmy Hill),Toyota,134.0,running,0.0,15.0,0.0
+2022,3,Atlanta,Atlanta Motor Speedway,1.54,paved track,23.0,36.0,41.0,Ross Chastain,Eat Florida Watermelon (Al Niece),Chevrolet,133.0,tire,0.0,0.0,0.0
+2022,3,Atlanta,Atlanta Motor Speedway,1.54,paved track,24.0,12.0,4.0,John H. Nemechek,Pye-Barker Fire & Safety (Kyle Busch),Toyota,133.0,running,11.0,25.0,1.0
+2022,3,Atlanta,Atlanta Motor Speedway,1.54,paved track,25.0,3.0,88.0,Matt Crafton,Black Label Bacon / Menards (Duke Thorson),Toyota,133.0,running,1.0,23.0,0.0
+2022,3,Atlanta,Atlanta Motor Speedway,1.54,paved track,26.0,26.0,91.0,Colby Howard,Gates Hydraulics (Bill McAnally),Chevrolet,133.0,running,0.0,11.0,0.0
+2022,3,Atlanta,Atlanta Motor Speedway,1.54,paved track,27.0,5.0,42.0,Carson Hocevar,Premier Security Solutions (Al Niece),Chevrolet,132.0,running,0.0,12.0,0.0
+2022,3,Atlanta,Atlanta Motor Speedway,1.54,paved track,28.0,35.0,47.0,Brennan Poole,LiftKits4Less.com (G2G Racing),Toyota,130.0,running,0.0,0.0,0.0
+2022,3,Atlanta,Atlanta Motor Speedway,1.54,paved track,29.0,32.0,9.0,Blaine Perkins,Raceline (Codie Rohrbaugh),Chevrolet,126.0,running,0.0,8.0,0.0
+2022,3,Atlanta,Atlanta Motor Speedway,1.54,paved track,30.0,6.0,25.0,Matt DiBenedetto,Rackley Roofing / WAR Shocks (Rackley W.A.R.),Chevrolet,123.0,running,0.0,7.0,0.0
+2022,3,Atlanta,Atlanta Motor Speedway,1.54,paved track,31.0,17.0,30.0,Tate Fogleman,Rangeline Group (Steven Lane),Toyota,91.0,crash,0.0,6.0,0.0
+2022,3,Atlanta,Atlanta Motor Speedway,1.54,paved track,32.0,28.0,43.0,Thad Moffitt,Clean Harbors (Josh Reaume),Chevrolet,79.0,engine,0.0,5.0,0.0
+2022,3,Atlanta,Atlanta Motor Speedway,1.54,paved track,33.0,24.0,45.0,Lawless Alan,AutoParkIt.com (Al Niece),Chevrolet,75.0,crash,0.0,4.0,0.0
+2022,3,Atlanta,Atlanta Motor Speedway,1.54,paved track,34.0,13.0,40.0,Dean Thompson,Worldwide Express (Al Niece),Chevrolet,68.0,crash,0.0,7.0,0.0
+2022,3,Atlanta,Atlanta Motor Speedway,1.54,paved track,35.0,14.0,20.0,Matt Mills,J.F. Electric (Randy Young),Chevrolet,52.0,suspension,0.0,0.0,0.0
+2022,3,Atlanta,Atlanta Motor Speedway,1.54,paved track,36.0,27.0,1.0,Hailie Deegan,Wastequip (David Gilliland),Ford,24.0,tire,0.0,1.0,0.0
+2022,4,Austin,Circuit of the Americas,3.41,road course,1.0,2.0,38.0,Zane Smith,Speedco (Bob Jenkins),Ford,46.0,running,11.0,60.0,7.0
+2022,4,Austin,Circuit of the Americas,3.41,road course,2.0,11.0,4.0,John H. Nemechek,Romco (Kyle Busch),Toyota,46.0,running,1.0,35.0,0.0
+2022,4,Austin,Circuit of the Americas,3.41,road course,3.0,5.0,51.0,Kyle Busch,Safelite Auto Glass (Kyle Busch),Toyota,46.0,running,31.0,0.0,0.0
+2022,4,Austin,Circuit of the Americas,3.41,road course,4.0,13.0,99.0,Ben Rhodes,Tenda (Duke Thorson),Toyota,46.0,running,0.0,50.0,0.0
+2022,4,Austin,Circuit of the Americas,3.41,road course,5.0,12.0,18.0,Chandler Smith,Safelite Auto Glass (Kyle Busch),Toyota,46.0,running,1.0,38.0,0.0
+2022,4,Austin,Circuit of the Americas,3.41,road course,6.0,8.0,98.0,Christian Eckes,T Sport / Curb Records (Mike Curb),Toyota,46.0,running,0.0,34.0,0.0
+2022,4,Austin,Circuit of the Americas,3.41,road course,7.0,10.0,16.0,Tyler Ankrum,Liuna (Shigeaki Hattori),Toyota,46.0,running,0.0,36.0,0.0
+2022,4,Austin,Circuit of the Americas,3.41,road course,8.0,6.0,42.0,Carson Hocevar,Plains Capital Bank / MG Machinery (Al Niece),Chevrolet,46.0,running,0.0,32.0,0.0
+2022,4,Austin,Circuit of the Americas,3.41,road course,9.0,7.0,52.0,Stewart Friesen,Halmar International (Chris Larsen),Toyota,46.0,running,0.0,41.0,0.0
+2022,4,Austin,Circuit of the Americas,3.41,road course,10.0,16.0,23.0,Grant Enfinger,Champion Power Equipment (Maury Gallagher),Chevrolet,46.0,running,0.0,27.0,0.0
+2022,4,Austin,Circuit of the Americas,3.41,road course,11.0,24.0,45.0,Lawless Alan,AitoParkIt.com (Al Niece),Chevrolet,46.0,running,0.0,26.0,0.0
+2022,4,Austin,Circuit of the Americas,3.41,road course,12.0,14.0,19.0,Derek Kraus,NAPA Power Premium Plus (Bill McAnally),Chevrolet,46.0,running,0.0,40.0,0.0
+2022,4,Austin,Circuit of the Americas,3.41,road course,13.0,20.0,88.0,Matt Crafton,Ideal Door / Menards (Duke Thorson),Toyota,46.0,running,0.0,24.0,0.0
+2022,4,Austin,Circuit of the Americas,3.41,road course,14.0,18.0,2.0,Kaz Grala,Randco Industries (Randy Young),Chevrolet,46.0,running,0.0,23.0,0.0
+2022,4,Austin,Circuit of the Americas,3.41,road course,15.0,17.0,44.0,Kris Wright,F.N.B. Corporation (Al Niece),Chevrolet,46.0,running,0.0,22.0,0.0
+2022,4,Austin,Circuit of the Americas,3.41,road course,16.0,22.0,61.0,Chase Purdy,Bama Buggies (Shigeaki Hattori),Toyota,46.0,running,0.0,21.0,0.0
+2022,4,Austin,Circuit of the Americas,3.41,road course,17.0,28.0,15.0,Tanner Gray,Ford Performance (David Gilliland),Ford,46.0,running,0.0,20.0,0.0
+2022,4,Austin,Circuit of the Americas,3.41,road course,18.0,31.0,30.0,Tate Fogleman,Rangeline Group (Steven Lane),Toyota,46.0,running,0.0,19.0,0.0
+2022,4,Austin,Circuit of the Americas,3.41,road course,19.0,4.0,75.0,Parker Kligerman,Food Country USA (Charlie Henderson),Chevrolet,46.0,running,1.0,20.0,0.0
+2022,4,Austin,Circuit of the Americas,3.41,road course,20.0,32.0,43.0,Brad Perez,GreenTech Energy (Josh Reaume),Toyota,46.0,running,0.0,17.0,0.0
+2022,4,Austin,Circuit of the Americas,3.41,road course,21.0,34.0,33.0,Will Rodgers,Levrack (Josh Reaume),Toyota,46.0,running,0.0,0.0,0.0
+2022,4,Austin,Circuit of the Americas,3.41,road course,22.0,25.0,56.0,Timmy Hill,Hill Motorsports (Timmy Hill),Toyota,46.0,running,0.0,21.0,0.0
+2022,4,Austin,Circuit of the Americas,3.41,road course,23.0,30.0,12.0,Spencer Boyd,Derm Dude (Randy Young),Chevrolet,46.0,running,0.0,14.0,0.0
+2022,4,Austin,Circuit of the Americas,3.41,road course,24.0,26.0,91.0,Colby Howard,Gates Hydraulics (Bill McAnally),Chevrolet,46.0,running,0.0,13.0,0.0
+2022,4,Austin,Circuit of the Americas,3.41,road course,25.0,3.0,7.0,Alex Bowman,HendrickCars.com (Spire Motorsports),Chevrolet,46.0,running,1.0,0.0,0.0
+2022,4,Austin,Circuit of the Americas,3.41,road course,26.0,9.0,17.0,Taylor Gray,Ford Performance (David Gilliland),Ford,46.0,running,0.0,11.0,0.0
+2022,4,Austin,Circuit of the Americas,3.41,road course,27.0,15.0,22.0,Austin Wayne Self,AM Technical Solutions (Tim Self),Chevrolet,45.0,running,0.0,10.0,0.0
+2022,4,Austin,Circuit of the Americas,3.41,road course,28.0,21.0,37.0,Logan Bearden,Bearden Automotive (Tim Self),Chevrolet,42.0,fuel pump,0.0,9.0,0.0
+2022,4,Austin,Circuit of the Americas,3.41,road course,29.0,33.0,40.0,Dean Thompson,Worldwide Express (Al Niece),Chevrolet,40.0,running,0.0,8.0,0.0
+2022,4,Austin,Circuit of the Americas,3.41,road course,30.0,19.0,66.0,Ty Majeski,American Racing Wheels (Duke Thorson),Toyota,39.0,running,0.0,7.0,0.0
+2022,4,Austin,Circuit of the Americas,3.41,road course,31.0,36.0,25.0,Matt DiBenedetto,Rackley Roofing / WAR Shocks (Rackley W.A.R.),Chevrolet,32.0,rear gear,0.0,16.0,0.0
+2022,4,Austin,Circuit of the Americas,3.41,road course,32.0,27.0,24.0,Jack Wood,Chevrolet Truck Month (Maury Gallagher),Chevrolet,31.0,dvp,0.0,5.0,0.0
+2022,4,Austin,Circuit of the Americas,3.41,road course,33.0,35.0,46.0,Matt Jaskol,AutoParts4Less.com (G2G Racing),Toyota,30.0,electrical,0.0,4.0,0.0
+2022,4,Austin,Circuit of the Americas,3.41,road course,34.0,23.0,1.0,Hailie Deegan,Monster Energy (David Gilliland),Ford,29.0,crash,0.0,3.0,0.0
+2022,4,Austin,Circuit of the Americas,3.41,road course,35.0,29.0,9.0,Blaine Perkins,Raceline (Codie Rohrbaugh),Chevrolet,3.0,transmission,0.0,2.0,0.0
+2022,4,Austin,Circuit of the Americas,3.41,road course,36.0,1.0,20.0,Sheldon Creed,Wiley X (Randy Young),Chevrolet,1.0,drivetrain,0.0,0.0,0.0
+2022,5,Martinsville,Martinsville Speedway,0.526,paved track,1.0,32.0,7.0,William Byron,HendrickCars.com (Spire Motorsports),Chevrolet,200.0,running,94.0,0.0,0.0
+2022,5,Martinsville,Martinsville Speedway,0.526,paved track,2.0,36.0,13.0,Johnny Sauter,Protect The Harvest (Duke Thorson),Toyota,200.0,running,0.0,35.0,0.0
+2022,5,Martinsville,Martinsville Speedway,0.526,paved track,3.0,2.0,51.0,Kyle Busch,JBL (Kyle Busch),Toyota,200.0,running,1.0,0.0,0.0
+2022,5,Martinsville,Martinsville Speedway,0.526,paved track,4.0,5.0,4.0,John H. Nemechek,Mobil 1 (Kyle Busch),Toyota,200.0,running,0.0,46.0,0.0
+2022,5,Martinsville,Martinsville Speedway,0.526,paved track,5.0,3.0,99.0,Ben Rhodes,Tenda (Duke Thorson),Toyota,200.0,running,47.0,50.0,1.0
+2022,5,Martinsville,Martinsville Speedway,0.526,paved track,6.0,4.0,18.0,Chandler Smith,Safelite Auto Glass (Kyle Busch),Toyota,200.0,running,2.0,31.0,0.0
+2022,5,Martinsville,Martinsville Speedway,0.526,paved track,7.0,11.0,88.0,Matt Crafton,Richmond Water Heaters / Menards (Duke Thorson),Toyota,200.0,running,0.0,30.0,0.0
+2022,5,Martinsville,Martinsville Speedway,0.526,paved track,8.0,12.0,23.0,Grant Enfinger,Champion Power Equipment (Maury Gallagher),Chevrolet,200.0,running,0.0,37.0,0.0
+2022,5,Martinsville,Martinsville Speedway,0.526,paved track,9.0,1.0,38.0,Zane Smith,Michael Roberts Construction (Bob Jenkins),Ford,200.0,running,55.0,45.0,1.0
+2022,5,Martinsville,Martinsville Speedway,0.526,paved track,10.0,8.0,16.0,Tyler Ankrum,Liuna (Shigeaki Hattori),Toyota,200.0,running,0.0,28.0,0.0
+2022,5,Martinsville,Martinsville Speedway,0.526,paved track,11.0,16.0,66.0,Ty Majeski,American Racing Wheels (Duke Thorson),Toyota,200.0,running,0.0,31.0,0.0
+2022,5,Martinsville,Martinsville Speedway,0.526,paved track,12.0,7.0,98.0,Christian Eckes,T Sport / Curb Records (Mike Curb),Toyota,200.0,running,0.0,39.0,0.0
+2022,5,Martinsville,Martinsville Speedway,0.526,paved track,13.0,6.0,52.0,Stewart Friesen,Halmar International (Chris Larsen),Toyota,200.0,running,0.0,33.0,0.0
+2022,5,Martinsville,Martinsville Speedway,0.526,paved track,14.0,10.0,19.0,Derek Kraus,NAPA Auto Care (Bill McAnally),Chevrolet,200.0,running,0.0,27.0,0.0
+2022,5,Martinsville,Martinsville Speedway,0.526,paved track,15.0,23.0,25.0,Matt DiBenedetto,Rackley Roofing / WAR Shocks (Rackley W.A.R.),Chevrolet,200.0,running,0.0,26.0,0.0
+2022,5,Martinsville,Martinsville Speedway,0.526,paved track,16.0,18.0,75.0,Parker Kligerman,Food Country USA (Charlie Henderson),Chevrolet,200.0,running,0.0,24.0,0.0
+2022,5,Martinsville,Martinsville Speedway,0.526,paved track,17.0,9.0,42.0,Carson Hocevar,Premier Security Solutions (Al Niece),Chevrolet,200.0,running,1.0,28.0,0.0
+2022,5,Martinsville,Martinsville Speedway,0.526,paved track,18.0,26.0,91.0,Colby Howard,Gates Hydraulics (Bill McAnally),Chevrolet,200.0,running,0.0,19.0,0.0
+2022,5,Martinsville,Martinsville Speedway,0.526,paved track,19.0,31.0,1.0,Hailie Deegan,Wastequip (David Gilliland),Ford,200.0,running,0.0,18.0,0.0
+2022,5,Martinsville,Martinsville Speedway,0.526,paved track,20.0,15.0,45.0,Lawless Alan,AutoParkIt.com (Al Niece),Chevrolet,200.0,running,0.0,17.0,0.0
+2022,5,Martinsville,Martinsville Speedway,0.526,paved track,21.0,13.0,15.0,Tanner Gray,Black's Tire (David Gilliland),Ford,200.0,running,0.0,19.0,0.0
+2022,5,Martinsville,Martinsville Speedway,0.526,paved track,22.0,21.0,30.0,Tate Fogleman,Rangeline Group (Steven Lane),Toyota,200.0,running,0.0,15.0,0.0
+2022,5,Martinsville,Martinsville Speedway,0.526,paved track,23.0,20.0,56.0,Timmy Hill,Hill Motorsports (Timmy Hill),Toyota,200.0,running,0.0,14.0,0.0
+2022,5,Martinsville,Martinsville Speedway,0.526,paved track,24.0,35.0,32.0,Bret Holmes,Holmes ll Excavation (Stacy Holmes),Chevrolet,199.0,running,0.0,13.0,0.0
+2022,5,Martinsville,Martinsville Speedway,0.526,paved track,25.0,27.0,33.0,Chase Janes,Butler Built (Josh Reaume),Chevrolet,199.0,running,0.0,12.0,0.0
+2022,5,Martinsville,Martinsville Speedway,0.526,paved track,26.0,19.0,17.0,Taylor Gray,Ford Performance (David Gilliland),Ford,198.0,running,0.0,12.0,0.0
+2022,5,Martinsville,Martinsville Speedway,0.526,paved track,27.0,25.0,2.0,Jesse Little,Skuttle Tight (Randy Young),Chevrolet,198.0,running,0.0,10.0,0.0
+2022,5,Martinsville,Martinsville Speedway,0.526,paved track,28.0,30.0,43.0,Blake Lothian,The Texas Lawbook (Josh Reaume),Toyota,198.0,running,0.0,9.0,0.0
+2022,5,Martinsville,Martinsville Speedway,0.526,paved track,29.0,17.0,61.0,Chase Purdy,Bama Buggies (Shigeaki Hattori),Toyota,197.0,running,0.0,10.0,0.0
+2022,5,Martinsville,Martinsville Speedway,0.526,paved track,30.0,14.0,44.0,Kris Wright,F.N.B. Corporation (Al Niece),Chevrolet,195.0,running,0.0,7.0,0.0
+2022,5,Martinsville,Martinsville Speedway,0.526,paved track,31.0,22.0,22.0,Austin Wayne Self,Go Texan / AM Technical Solutions (Tim Self),Chevrolet,157.0,brakes,0.0,6.0,0.0
+2022,5,Martinsville,Martinsville Speedway,0.526,paved track,32.0,33.0,20.0,Dillon Steuer,Randco Industries (Randy Young),Chevrolet,122.0,crash,0.0,5.0,0.0
+2022,5,Martinsville,Martinsville Speedway,0.526,paved track,33.0,24.0,12.0,Spencer Boyd,Rimtyme (Randy Young),Chevrolet,119.0,electrical,0.0,4.0,0.0
+2022,5,Martinsville,Martinsville Speedway,0.526,paved track,34.0,34.0,46.0,Kaden Honeycutt,G2G Racing,Toyota,107.0,crash,0.0,3.0,0.0
+2022,5,Martinsville,Martinsville Speedway,0.526,paved track,35.0,29.0,24.0,Jack Wood,chevyliners.com (Maury Gallagher),Chevrolet,26.0,crash,0.0,2.0,0.0
+2022,5,Martinsville,Martinsville Speedway,0.526,paved track,36.0,28.0,40.0,Dean Thompson,Worldwide Express (Al Niece),Chevrolet,13.0,electrical,0.0,1.0,0.0
+2022,6,Bristol (Dirt),Bristol Motor Speedway Dirt Track,0.533,dirt track,1.0,2.0,99.0,Ben Rhodes,Tenda (Duke Thorson),Toyota,150.0,running,95.0,60.0,7.0
+2022,6,Bristol (Dirt),Bristol Motor Speedway Dirt Track,0.533,dirt track,2.0,6.0,42.0,Carson Hocevar,Premier Security Solutions (Al Niece),Chevrolet,150.0,running,55.0,40.0,0.0
+2022,6,Bristol (Dirt),Bristol Motor Speedway Dirt Track,0.533,dirt track,3.0,18.0,4.0,John H. Nemechek,Mobil 1 (Kyle Busch),Toyota,150.0,running,0.0,42.0,0.0
+2022,6,Bristol (Dirt),Bristol Motor Speedway Dirt Track,0.533,dirt track,4.0,4.0,75.0,Parker Kligerman,Food Country USA / Bounty (Charlie Henderson),Chevrolet,150.0,running,0.0,45.0,0.0
+2022,6,Bristol (Dirt),Bristol Motor Speedway Dirt Track,0.533,dirt track,5.0,19.0,98.0,Christian Eckes,T Sport / Curb Records (Mike Curb),Toyota,150.0,running,0.0,32.0,0.0
+2022,6,Bristol (Dirt),Bristol Motor Speedway Dirt Track,0.533,dirt track,6.0,1.0,54.0,Joey Logano,Planet Fitness (David Gilliland),Ford,150.0,running,0.0,0.0,0.0
+2022,6,Bristol (Dirt),Bristol Motor Speedway Dirt Track,0.533,dirt track,7.0,7.0,7.0,Chase Elliott,HendrickCars.com (Spire Motorsports),Chevrolet,150.0,running,0.0,0.0,0.0
+2022,6,Bristol (Dirt),Bristol Motor Speedway Dirt Track,0.533,dirt track,8.0,16.0,23.0,Grant Enfinger,Champion Power Equipment (Maury Gallagher),Chevrolet,150.0,running,0.0,29.0,0.0
+2022,6,Bristol (Dirt),Bristol Motor Speedway Dirt Track,0.533,dirt track,9.0,14.0,88.0,Matt Crafton,Great Lakes Flooring / Menards (Duke Thorson),Toyota,150.0,running,0.0,31.0,0.0
+2022,6,Bristol (Dirt),Bristol Motor Speedway Dirt Track,0.533,dirt track,10.0,17.0,38.0,Zane Smith,Speedco (Bob Jenkins),Ford,150.0,running,0.0,27.0,0.0
+2022,6,Bristol (Dirt),Bristol Motor Speedway Dirt Track,0.533,dirt track,11.0,3.0,52.0,Stewart Friesen,Halmar International (Chris Larsen),Toyota,150.0,running,0.0,34.0,0.0
+2022,6,Bristol (Dirt),Bristol Motor Speedway Dirt Track,0.533,dirt track,12.0,12.0,91.0,Colby Howard,Gates Hydraulics (Bill McAnally),Chevrolet,150.0,running,0.0,25.0,0.0
+2022,6,Bristol (Dirt),Bristol Motor Speedway Dirt Track,0.533,dirt track,13.0,33.0,61.0,Chase Purdy,Bama Buggies (Shigeaki Hattori),Toyota,150.0,running,0.0,24.0,0.0
+2022,6,Bristol (Dirt),Bristol Motor Speedway Dirt Track,0.533,dirt track,14.0,10.0,20.0,Austin Dillon,K&L Ready Mix (Randy Young),Chevrolet,150.0,running,0.0,0.0,0.0
+2022,6,Bristol (Dirt),Bristol Motor Speedway Dirt Track,0.533,dirt track,15.0,35.0,15.0,Tanner Gray,Ford Performance (David Gilliland),Ford,150.0,running,0.0,22.0,0.0
+2022,6,Bristol (Dirt),Bristol Motor Speedway Dirt Track,0.533,dirt track,16.0,27.0,40.0,Dean Thompson,Worldwide Express (Al Niece),Chevrolet,150.0,running,0.0,21.0,0.0
+2022,6,Bristol (Dirt),Bristol Motor Speedway Dirt Track,0.533,dirt track,17.0,21.0,33.0,Mike Marlar,JDS Technologies (Josh Reaume),Toyota,150.0,running,0.0,0.0,0.0
+2022,6,Bristol (Dirt),Bristol Motor Speedway Dirt Track,0.533,dirt track,18.0,26.0,1.0,Hailie Deegan,Wastequip (David Gilliland),Ford,150.0,running,0.0,19.0,0.0
+2022,6,Bristol (Dirt),Bristol Motor Speedway Dirt Track,0.533,dirt track,19.0,5.0,18.0,Chandler Smith,Charge Me (Kyle Busch),Toyota,150.0,running,0.0,26.0,0.0
+2022,6,Bristol (Dirt),Bristol Motor Speedway Dirt Track,0.533,dirt track,20.0,23.0,17.0,Harrison Burton,Hunt Brothers Pizza (David Gilliland),Ford,150.0,running,0.0,0.0,0.0
+2022,6,Bristol (Dirt),Bristol Motor Speedway Dirt Track,0.533,dirt track,21.0,8.0,66.0,Ty Majeski,T Sport (Duke Thorson),Toyota,150.0,running,0.0,34.0,0.0
+2022,6,Bristol (Dirt),Bristol Motor Speedway Dirt Track,0.533,dirt track,22.0,13.0,24.0,Jack Wood,chevyliners.com (Maury Gallagher),Chevrolet,150.0,running,0.0,15.0,0.0
+2022,6,Bristol (Dirt),Bristol Motor Speedway Dirt Track,0.533,dirt track,23.0,29.0,56.0,Timmy Hill,Hill Motorsports (Timmy Hill),Toyota,150.0,running,0.0,14.0,0.0
+2022,6,Bristol (Dirt),Bristol Motor Speedway Dirt Track,0.533,dirt track,24.0,34.0,12.0,Spencer Boyd,Rimtyme (Randy Young),Chevrolet,150.0,running,0.0,13.0,0.0
+2022,6,Bristol (Dirt),Bristol Motor Speedway Dirt Track,0.533,dirt track,25.0,28.0,9.0,Blaine Perkins,Raceline (Codie Rohrbaugh),Chevrolet,150.0,running,0.0,12.0,0.0
+2022,6,Bristol (Dirt),Bristol Motor Speedway Dirt Track,0.533,dirt track,26.0,25.0,2.0,Kaz Grala,Ruedebusch Development (Randy Young),Chevrolet,150.0,running,0.0,11.0,0.0
+2022,6,Bristol (Dirt),Bristol Motor Speedway Dirt Track,0.533,dirt track,27.0,32.0,51.0,Buddy Kofoid,Mobil 1 (Kyle Busch),Toyota,150.0,running,0.0,0.0,0.0
+2022,6,Bristol (Dirt),Bristol Motor Speedway Dirt Track,0.533,dirt track,28.0,24.0,30.0,Tate Fogleman,Rangeline Group (Steven Lane),Toyota,149.0,running,0.0,9.0,0.0
+2022,6,Bristol (Dirt),Bristol Motor Speedway Dirt Track,0.533,dirt track,29.0,15.0,19.0,Derek Kraus,NAPA Autocare (Bill McAnally),Chevrolet,149.0,running,0.0,9.0,0.0
+2022,6,Bristol (Dirt),Bristol Motor Speedway Dirt Track,0.533,dirt track,30.0,31.0,45.0,Lawless Alan,AutoParkIt.com (Al Niece),Chevrolet,149.0,running,0.0,7.0,0.0
+2022,6,Bristol (Dirt),Bristol Motor Speedway Dirt Track,0.533,dirt track,31.0,20.0,16.0,Tyler Ankrum,Aisin (Shigeaki Hattori),Toyota,147.0,running,0.0,6.0,0.0
+2022,6,Bristol (Dirt),Bristol Motor Speedway Dirt Track,0.533,dirt track,32.0,22.0,49.0,Andrew Gordon,Trick Shot Products / Staar Trucking (Ray Ciccarelli),Ford,146.0,running,0.0,0.0,0.0
+2022,6,Bristol (Dirt),Bristol Motor Speedway Dirt Track,0.533,dirt track,33.0,30.0,44.0,Kris Wright,Big Dog Energy (Al Niece),Chevrolet,146.0,running,0.0,4.0,0.0
+2022,6,Bristol (Dirt),Bristol Motor Speedway Dirt Track,0.533,dirt track,34.0,36.0,43.0,Keith McGee,Vulcan Towing & Recovery (Josh Reaume),Chevrolet,146.0,running,0.0,0.0,0.0
+2022,6,Bristol (Dirt),Bristol Motor Speedway Dirt Track,0.533,dirt track,35.0,9.0,25.0,Matt DiBenedetto,TW Frierson / Rackley Roofing (Rackley W.A.R.),Chevrolet,145.0,running,0.0,3.0,0.0
+2022,6,Bristol (Dirt),Bristol Motor Speedway Dirt Track,0.533,dirt track,36.0,11.0,22.0,Austin Wayne Self,AM Technical Solutions (Tim Self),Chevrolet,143.0,running,0.0,1.0,0.0
+2022,7,Darlington,Darlington Raceway,1.366,paved track,1.0,1.0,4.0,John H. Nemechek,Mobil 1 (Kyle Busch),Toyota,149.0,running,69.0,51.0,5.0
+2022,7,Darlington,Darlington Raceway,1.366,paved track,2.0,6.0,42.0,Carson Hocevar,Premier Security Solutions (Al Niece),Chevrolet,149.0,running,9.0,53.0,1.0
+2022,7,Darlington,Darlington Raceway,1.366,paved track,3.0,3.0,23.0,Grant Enfinger,Champion Power Equipment (Maury Gallagher),Chevrolet,149.0,running,1.0,48.0,0.0
+2022,7,Darlington,Darlington Raceway,1.366,paved track,4.0,2.0,66.0,Ty Majeski,FarmPaint.com (Duke Thorson),Toyota,149.0,running,0.0,33.0,0.0
+2022,7,Darlington,Darlington Raceway,1.366,paved track,5.0,7.0,88.0,Matt Crafton,Jack Links / Menards (Duke Thorson),Toyota,149.0,running,0.0,38.0,0.0
+2022,7,Darlington,Darlington Raceway,1.366,paved track,6.0,9.0,75.0,Parker Kligerman,Food Country USA (Charlie Henderson),Toyota,149.0,running,9.0,49.0,1.0
+2022,7,Darlington,Darlington Raceway,1.366,paved track,7.0,13.0,17.0,Ryan Preece,United Rentals (David Gilliland),Ford,149.0,running,0.0,33.0,0.0
+2022,7,Darlington,Darlington Raceway,1.366,paved track,8.0,4.0,38.0,Zane Smith,Fr8Auctions.com (Bob Jenkins),Ford,149.0,running,9.0,29.0,0.0
+2022,7,Darlington,Darlington Raceway,1.366,paved track,9.0,12.0,16.0,Tyler Ankrum,Liuna (Shigeaki Hattori),Toyota,149.0,running,0.0,28.0,0.0
+2022,7,Darlington,Darlington Raceway,1.366,paved track,10.0,18.0,62.0,Todd Bodine,Camping World (Chris Larsen),Toyota,149.0,running,3.0,27.0,0.0
+2022,7,Darlington,Darlington Raceway,1.366,paved track,11.0,8.0,25.0,Matt DiBenedetto,Rackley Roofing / WAR Shocks (Rackley W.A.R.),Chevrolet,149.0,running,0.0,26.0,0.0
+2022,7,Darlington,Darlington Raceway,1.366,paved track,12.0,23.0,52.0,Stewart Friesen,Halmar International (Chris Larsen),Toyota,149.0,running,0.0,26.0,0.0
+2022,7,Darlington,Darlington Raceway,1.366,paved track,13.0,19.0,91.0,Colby Howard,Gates Hydraulics (Bill McAnally),Chevrolet,149.0,running,1.0,24.0,0.0
+2022,7,Darlington,Darlington Raceway,1.366,paved track,14.0,16.0,2.0,Jesse Little,Shriners Children's (Randy Young),Chevrolet,149.0,running,0.0,23.0,0.0
+2022,7,Darlington,Darlington Raceway,1.366,paved track,15.0,33.0,40.0,Dean Thompson,Worldwide Express (Al Niece),Chevrolet,149.0,running,0.0,22.0,0.0
+2022,7,Darlington,Darlington Raceway,1.366,paved track,16.0,24.0,56.0,Timmy Hill,Units Storage (Timmy Hill),Toyota,149.0,running,0.0,21.0,0.0
+2022,7,Darlington,Darlington Raceway,1.366,paved track,17.0,11.0,98.0,Christian Eckes,T Sport / Curb Records (Mike Curb),Toyota,149.0,running,2.0,25.0,0.0
+2022,7,Darlington,Darlington Raceway,1.366,paved track,18.0,20.0,24.0,Jack Wood,North Industrial Machine (Maury Gallagher),Chevrolet,149.0,running,0.0,19.0,0.0
+2022,7,Darlington,Darlington Raceway,1.366,paved track,19.0,14.0,19.0,Derek Kraus,NAPA Auto Care Center (Bill McAnally),Chevrolet,149.0,running,0.0,18.0,0.0
+2022,7,Darlington,Darlington Raceway,1.366,paved track,20.0,26.0,45.0,Lawless Alan,AutoParkIt.com (Al Niece),Chevrolet,149.0,running,0.0,17.0,0.0
+2022,7,Darlington,Darlington Raceway,1.366,paved track,21.0,28.0,18.0,Chandler Smith,Safelite (Kyle Busch),Toyota,149.0,running,0.0,23.0,0.0
+2022,7,Darlington,Darlington Raceway,1.366,paved track,22.0,29.0,20.0,Danny Bohn,TicksSuck.org (Randy Young),Chevrolet,149.0,running,0.0,15.0,0.0
+2022,7,Darlington,Darlington Raceway,1.366,paved track,23.0,5.0,51.0,Corey Heim,JBL (Kyle Busch),Toyota,149.0,running,0.0,14.0,0.0
+2022,7,Darlington,Darlington Raceway,1.366,paved track,24.0,32.0,12.0,Spencer Boyd,Rimtyme (Randy Young),Chevrolet,149.0,running,0.0,13.0,0.0
+2022,7,Darlington,Darlington Raceway,1.366,paved track,25.0,15.0,99.0,Ben Rhodes,Tenda (Duke Thorson),Toyota,148.0,running,0.0,17.0,0.0
+2022,7,Darlington,Darlington Raceway,1.366,paved track,26.0,10.0,41.0,Ross Chastain,Worldwide Express (Al Niece),Chevrolet,148.0,running,46.0,0.0,0.0
+2022,7,Darlington,Darlington Raceway,1.366,paved track,27.0,31.0,22.0,Austin Wayne Self,AM Technical Solutions (Tim Self),Chevrolet,147.0,running,0.0,10.0,0.0
+2022,7,Darlington,Darlington Raceway,1.366,paved track,28.0,36.0,33.0,Josh Reaume,Hardy Boys Consulting (Josh Reaume),Toyota,147.0,running,0.0,9.0,0.0
+2022,7,Darlington,Darlington Raceway,1.366,paved track,29.0,25.0,1.0,Hailie Deegan,Wastequip (David Gilliland),Ford,137.0,crash,0.0,8.0,0.0
+2022,7,Darlington,Darlington Raceway,1.366,paved track,30.0,27.0,46.0,Brennan Poole,G2G Staff (G2G Racing),Toyota,125.0,running,0.0,0.0,0.0
+2022,7,Darlington,Darlington Raceway,1.366,paved track,31.0,30.0,9.0,Blaine Perkins,Raceline (Codie Rohrbaugh),Chevrolet,124.0,crash,0.0,6.0,0.0
+2022,7,Darlington,Darlington Raceway,1.366,paved track,32.0,34.0,30.0,Tate Fogleman,Rangeline Group (Steven Lane),Toyota,123.0,crash,0.0,5.0,0.0
+2022,7,Darlington,Darlington Raceway,1.366,paved track,33.0,21.0,44.0,Kris Wright,VFW (Al Niece),Chevrolet,105.0,crash,0.0,4.0,0.0
+2022,7,Darlington,Darlington Raceway,1.366,paved track,34.0,17.0,15.0,Tanner Gray,Dead On Tools (David Gilliland),Ford,98.0,crash,0.0,7.0,0.0
+2022,7,Darlington,Darlington Raceway,1.366,paved track,35.0,22.0,61.0,Chase Purdy,Bama Buggies (Shigeaki Hattori),Toyota,97.0,crash,0.0,2.0,0.0
+2022,7,Darlington,Darlington Raceway,1.366,paved track,36.0,35.0,43.0,Akinori Ogata,Precision Kyowa (Josh Reaume),Toyota,54.0,engine,0.0,1.0,0.0
+2022,8,Kansas,Kansas Speedway,1.5,paved track,1.0,4.0,38.0,Zane Smith,Speedco (Bob Jenkins),Ford,134.0,running,108.0,58.0,6.0
+2022,8,Kansas,Kansas Speedway,1.5,paved track,2.0,3.0,66.0,Ty Majeski,American Racing Wheels (Duke Thorson),Toyota,134.0,running,1.0,51.0,0.0
+2022,8,Kansas,Kansas Speedway,1.5,paved track,3.0,21.0,23.0,Grant Enfinger,Champion Power Equipment (Maury Gallagher),Chevrolet,134.0,running,0.0,34.0,0.0
+2022,8,Kansas,Kansas Speedway,1.5,paved track,4.0,6.0,18.0,Chandler Smith,Charge Me (Kyle Busch),Toyota,134.0,running,0.0,40.0,0.0
+2022,8,Kansas,Kansas Speedway,1.5,paved track,5.0,17.0,98.0,Christian Eckes,Curb Records (Mike Curb),Toyota,134.0,running,0.0,32.0,0.0
+2022,8,Kansas,Kansas Speedway,1.5,paved track,6.0,1.0,4.0,John H. Nemechek,Mobil 1 (Kyle Busch),Toyota,134.0,running,3.0,45.0,0.0
+2022,8,Kansas,Kansas Speedway,1.5,paved track,7.0,12.0,25.0,Matt DiBenedetto,Rackley Roofing / WAR Shocks (Rackley W.A.R.),Chevrolet,134.0,running,0.0,30.0,0.0
+2022,8,Kansas,Kansas Speedway,1.5,paved track,8.0,8.0,19.0,Derek Kraus,NAPA Adaptive One Caliper (Bill McAnally),Chevrolet,134.0,running,0.0,37.0,0.0
+2022,8,Kansas,Kansas Speedway,1.5,paved track,9.0,10.0,88.0,Matt Crafton,Ideal Door / Menards (Duke Thorson),Toyota,134.0,running,0.0,31.0,0.0
+2022,8,Kansas,Kansas Speedway,1.5,paved track,10.0,15.0,99.0,Ben Rhodes,Tenda (Duke Thorson),Toyota,134.0,running,4.0,37.0,0.0
+2022,8,Kansas,Kansas Speedway,1.5,paved track,11.0,11.0,91.0,Colby Howard,Gates Hydraulics (Bill McAnally),Chevrolet,134.0,running,0.0,28.0,0.0
+2022,8,Kansas,Kansas Speedway,1.5,paved track,12.0,7.0,17.0,Riley Herbst,Monster Energy (David Gilliland),Ford,134.0,running,0.0,0.0,0.0
+2022,8,Kansas,Kansas Speedway,1.5,paved track,13.0,14.0,61.0,Chase Purdy,Bama Buggies (Shigeaki Hattori),Toyota,134.0,running,0.0,24.0,0.0
+2022,8,Kansas,Kansas Speedway,1.5,paved track,14.0,5.0,52.0,Stewart Friesen,Halmar International (Chris Larsen),Toyota,134.0,running,0.0,24.0,0.0
+2022,8,Kansas,Kansas Speedway,1.5,paved track,15.0,16.0,42.0,Carson Hocevar,Flint Police / Premier Security (Al Niece),Chevrolet,134.0,running,0.0,28.0,0.0
+2022,8,Kansas,Kansas Speedway,1.5,paved track,16.0,20.0,16.0,Tyler Ankrum,Liuna! (Shigeaki Hattori),Toyota,134.0,running,0.0,21.0,0.0
+2022,8,Kansas,Kansas Speedway,1.5,paved track,17.0,18.0,1.0,Hailie Deegan,Built Ford Tough (David Gilliland),Ford,134.0,running,0.0,20.0,0.0
+2022,8,Kansas,Kansas Speedway,1.5,paved track,18.0,9.0,15.0,Tanner Gray,Ford Performance (David Gilliland),Ford,134.0,running,0.0,25.0,0.0
+2022,8,Kansas,Kansas Speedway,1.5,paved track,19.0,25.0,45.0,Lawless Alan,AutoParkIt (Al Niece),Chevrolet,134.0,running,0.0,18.0,0.0
+2022,8,Kansas,Kansas Speedway,1.5,paved track,20.0,35.0,30.0,Tate Fogleman,Rangeline Group (Steven Lane),Toyota,133.0,running,0.0,17.0,0.0
+2022,8,Kansas,Kansas Speedway,1.5,paved track,21.0,33.0,5.0,Tyler Hill,Timmy Hill,Toyota,133.0,running,0.0,16.0,0.0
+2022,8,Kansas,Kansas Speedway,1.5,paved track,22.0,19.0,40.0,Dean Thompson,Worldwide Express (Al Niece),Chevrolet,133.0,running,0.0,15.0,0.0
+2022,8,Kansas,Kansas Speedway,1.5,paved track,23.0,23.0,22.0,Austin Wayne Self,AM Technical Solutions (Tim Self),Chevrolet,133.0,running,0.0,14.0,0.0
+2022,8,Kansas,Kansas Speedway,1.5,paved track,24.0,22.0,2.0,Jesse Little,Randco Industries (Randy Young),Chevrolet,132.0,running,0.0,13.0,0.0
+2022,8,Kansas,Kansas Speedway,1.5,paved track,25.0,24.0,44.0,Kris Wright,Big Dog Energy (Al Niece),Chevrolet,132.0,running,0.0,12.0,0.0
+2022,8,Kansas,Kansas Speedway,1.5,paved track,26.0,13.0,24.0,Jack Wood,chevyliners.com (Maury Gallagher),Chevrolet,131.0,running,0.0,11.0,0.0
+2022,8,Kansas,Kansas Speedway,1.5,paved track,27.0,26.0,56.0,Timmy Hill,Capillus / HairClub (Timmy Hill),Toyota,130.0,running,0.0,10.0,0.0
+2022,8,Kansas,Kansas Speedway,1.5,paved track,28.0,31.0,46.0,Ryan Huff,G2G Staff (G2G Racing),Toyota,130.0,running,0.0,9.0,0.0
+2022,8,Kansas,Kansas Speedway,1.5,paved track,29.0,32.0,14.0,Trey Hutchens,Quality Roof Seamers (Trey Hutchens),Chevrolet,130.0,running,0.0,8.0,0.0
+2022,8,Kansas,Kansas Speedway,1.5,paved track,30.0,29.0,33.0,Josh Reaume,Levrack (Josh Reaume),Toyota,129.0,running,0.0,7.0,0.0
+2022,8,Kansas,Kansas Speedway,1.5,paved track,31.0,30.0,12.0,Spencer Boyd,Freedom Warranty (Randy Young),Chevrolet,127.0,running,0.0,6.0,0.0
+2022,8,Kansas,Kansas Speedway,1.5,paved track,32.0,27.0,9.0,Blaine Perkins,Raceline (Codie Rohrbaugh),Chevrolet,126.0,running,0.0,5.0,0.0
+2022,8,Kansas,Kansas Speedway,1.5,paved track,33.0,2.0,51.0,Corey Heim,JBL (Kyle Busch),Toyota,124.0,running,18.0,23.0,1.0
+2022,8,Kansas,Kansas Speedway,1.5,paved track,34.0,28.0,20.0,Matt Mills,J.F. Electric (Randy Young),Chevrolet,91.0,axle,0.0,0.0,0.0
+2022,8,Kansas,Kansas Speedway,1.5,paved track,35.0,34.0,43.0,Jesse Iwuji,Equity Prime Mortgage (Josh Reaume),Chevrolet,24.0,too slow,0.0,0.0,0.0
+2022,9,Fort Worth,Texas Motor Speedway,1.5,paved track,1.0,3.0,52.0,Stewart Friesen,Halmar International (Chris Larsen),Toyota,149.0,running,60.0,58.0,5.0
+2022,9,Fort Worth,Texas Motor Speedway,1.5,paved track,2.0,4.0,98.0,Christian Eckes,AHI Facility Services / Curb Records (Mike Curb),Toyota,149.0,running,40.0,48.0,0.0
+2022,9,Fort Worth,Texas Motor Speedway,1.5,paved track,3.0,5.0,17.0,Ryan Preece,Morton Buildings (David Gilliland),Ford,149.0,running,27.0,54.0,2.0
+2022,9,Fort Worth,Texas Motor Speedway,1.5,paved track,4.0,20.0,42.0,Carson Hocevar,Sparco (Al Niece),Chevrolet,149.0,running,4.0,33.0,0.0
+2022,9,Fort Worth,Texas Motor Speedway,1.5,paved track,5.0,10.0,66.0,Ty Majeski,Road Ranger (Duke Thorson),Toyota,149.0,running,0.0,39.0,0.0
+2022,9,Fort Worth,Texas Motor Speedway,1.5,paved track,6.0,1.0,4.0,John H. Nemechek,Tom Thumb / Albertson's (Kyle Busch),Toyota,149.0,running,14.0,44.0,0.0
+2022,9,Fort Worth,Texas Motor Speedway,1.5,paved track,7.0,2.0,51.0,Corey Heim,JBL (Kyle Busch),Toyota,149.0,running,1.0,35.0,0.0
+2022,9,Fort Worth,Texas Motor Speedway,1.5,paved track,8.0,7.0,18.0,Chandler Smith,iBuyPower (Kyle Busch),Toyota,149.0,running,0.0,35.0,0.0
+2022,9,Fort Worth,Texas Motor Speedway,1.5,paved track,9.0,21.0,88.0,Matt Crafton,Chi-Chi's / Menards (Duke Thorson),Toyota,149.0,running,0.0,28.0,0.0
+2022,9,Fort Worth,Texas Motor Speedway,1.5,paved track,10.0,34.0,25.0,Matt DiBenedetto,Rackley Roofing / WAR Shocks (Rackley W.A.R.),Chevrolet,149.0,running,0.0,27.0,0.0
+2022,9,Fort Worth,Texas Motor Speedway,1.5,paved track,11.0,11.0,23.0,Grant Enfinger,Champion Power Equipment (Maury Gallagher),Chevrolet,149.0,running,0.0,26.0,0.0
+2022,9,Fort Worth,Texas Motor Speedway,1.5,paved track,12.0,14.0,41.0,Ross Chastain,Worldwide Express (Al Niece),Chevrolet,149.0,running,0.0,0.0,0.0
+2022,9,Fort Worth,Texas Motor Speedway,1.5,paved track,13.0,24.0,62.0,Todd Bodine,Camping World (Chris Larsen),Toyota,149.0,running,0.0,24.0,0.0
+2022,9,Fort Worth,Texas Motor Speedway,1.5,paved track,14.0,27.0,3.0,Jordan Anderson,Dometic Outdoor (Jordan Anderson),Chevrolet,149.0,running,0.0,23.0,0.0
+2022,9,Fort Worth,Texas Motor Speedway,1.5,paved track,15.0,31.0,32.0,Bret Holmes,Holmes II Excavation (Stacy Holmes),Chevrolet,149.0,running,0.0,22.0,0.0
+2022,9,Fort Worth,Texas Motor Speedway,1.5,paved track,16.0,17.0,24.0,Jack Wood,Sevwins (Maury Gallagher),Chevrolet,149.0,running,0.0,21.0,0.0
+2022,9,Fort Worth,Texas Motor Speedway,1.5,paved track,17.0,6.0,1.0,Hailie Deegan,Built Ford Tough (David Gilliland),Ford,149.0,running,0.0,20.0,0.0
+2022,9,Fort Worth,Texas Motor Speedway,1.5,paved track,18.0,23.0,22.0,Austin Wayne Self,AM Technical Solutions (Tim Self),Chevrolet,149.0,running,0.0,19.0,0.0
+2022,9,Fort Worth,Texas Motor Speedway,1.5,paved track,19.0,22.0,2.0,Jesse Little,Randco Industries (Randy Young),Chevrolet,149.0,running,0.0,18.0,0.0
+2022,9,Fort Worth,Texas Motor Speedway,1.5,paved track,20.0,32.0,56.0,Timmy Hill,UNITS Storage (Timmy Hill),Toyota,149.0,running,0.0,17.0,0.0
+2022,9,Fort Worth,Texas Motor Speedway,1.5,paved track,21.0,19.0,61.0,Chase Purdy,Bama Buggies (Shigeaki Hattori),Toyota,149.0,running,3.0,16.0,0.0
+2022,9,Fort Worth,Texas Motor Speedway,1.5,paved track,22.0,29.0,30.0,Tate Fogleman,Rangeline Group (Steven Lane),Toyota,149.0,running,0.0,15.0,0.0
+2022,9,Fort Worth,Texas Motor Speedway,1.5,paved track,23.0,26.0,46.0,Brennan Poole,G2G Racing,Toyota,149.0,running,0.0,0.0,0.0
+2022,9,Fort Worth,Texas Motor Speedway,1.5,paved track,24.0,12.0,15.0,Tanner Gray,Ford Performance (David Gilliland),Ford,149.0,running,0.0,13.0,0.0
+2022,9,Fort Worth,Texas Motor Speedway,1.5,paved track,25.0,30.0,5.0,Tyler Hill,Timmy Hill,Toyota,149.0,running,0.0,12.0,0.0
+2022,9,Fort Worth,Texas Motor Speedway,1.5,paved track,26.0,25.0,9.0,Blaine Perkins,Raceline (Codie Rohrbaugh),Chevrolet,149.0,running,0.0,11.0,0.0
+2022,9,Fort Worth,Texas Motor Speedway,1.5,paved track,27.0,8.0,99.0,Ben Rhodes,Tenda (Duke Thorson),Toyota,148.0,running,0.0,20.0,0.0
+2022,9,Fort Worth,Texas Motor Speedway,1.5,paved track,28.0,28.0,12.0,Spencer Boyd,Montucky Cold Snacks (Randy Young),Chevrolet,147.0,running,0.0,9.0,0.0
+2022,9,Fort Worth,Texas Motor Speedway,1.5,paved track,29.0,13.0,40.0,Dean Thompson,Worldwide Express (Al Niece),Chevrolet,146.0,running,0.0,8.0,0.0
+2022,9,Fort Worth,Texas Motor Speedway,1.5,paved track,30.0,35.0,45.0,Lawless Alan,MG Machinery (Al Niece),Chevrolet,145.0,running,0.0,7.0,0.0
+2022,9,Fort Worth,Texas Motor Speedway,1.5,paved track,31.0,36.0,33.0,Chris Hacker,Dal Dirt (Josh Reaume),Chevrolet,143.0,running,0.0,6.0,0.0
+2022,9,Fort Worth,Texas Motor Speedway,1.5,paved track,32.0,15.0,38.0,Zane Smith,Speedy Cash (Bob Jenkins),Ford,143.0,running,0.0,13.0,0.0
+2022,9,Fort Worth,Texas Motor Speedway,1.5,paved track,33.0,18.0,16.0,Tyler Ankrum,Toyota Tsusho (Shigeaki Hattori),Toyota,139.0,overheating,0.0,5.0,0.0
+2022,9,Fort Worth,Texas Motor Speedway,1.5,paved track,34.0,33.0,91.0,Colby Howard,Gates Hydraulics (Bill McAnally),Chevrolet,139.0,running,0.0,3.0,0.0
+2022,9,Fort Worth,Texas Motor Speedway,1.5,paved track,35.0,16.0,44.0,Kris Wright,America's Auto Auction (Al Niece),Chevrolet,106.0,crash,0.0,2.0,0.0
+2022,9,Fort Worth,Texas Motor Speedway,1.5,paved track,36.0,9.0,19.0,Derek Kraus,NAPA Auto Care (Bill McAnally),Chevrolet,88.0,crash,0.0,8.0,0.0
+2022,10,Charlotte,Charlotte Motor Speedway,1.5,paved track,1.0,5.0,41.0,Ross Chastain,Worldwide Express (Al Niece),Chevrolet,143.0,running,4.0,0.0,0.0
+2022,10,Charlotte,Charlotte Motor Speedway,1.5,paved track,2.0,11.0,23.0,Grant Enfinger,Champion Power Equipment (Maury Gallagher),Chevrolet,143.0,running,0.0,36.0,0.0
+2022,10,Charlotte,Charlotte Motor Speedway,1.5,paved track,3.0,15.0,4.0,John H. Nemechek,Pye-Barker Fire & Safety (Kyle Busch),Toyota,143.0,running,0.0,40.0,0.0
+2022,10,Charlotte,Charlotte Motor Speedway,1.5,paved track,4.0,9.0,98.0,Christian Eckes,Curb Records (Mike Curb),Toyota,143.0,running,5.0,45.0,0.0
+2022,10,Charlotte,Charlotte Motor Speedway,1.5,paved track,5.0,2.0,38.0,Zane Smith,RTA gigFAST (Bob Jenkins),Ford,143.0,running,52.0,47.0,1.0
+2022,10,Charlotte,Charlotte Motor Speedway,1.5,paved track,6.0,6.0,15.0,Tanner Gray,Black's Tire (David Gilliland),Ford,143.0,running,0.0,31.0,0.0
+2022,10,Charlotte,Charlotte Motor Speedway,1.5,paved track,7.0,3.0,51.0,Kyle Busch,Safelite (Kyle Busch),Toyota,143.0,running,0.0,0.0,0.0
+2022,10,Charlotte,Charlotte Motor Speedway,1.5,paved track,8.0,7.0,18.0,Chandler Smith,Safelite AutoGlass (Kyle Busch),Toyota,143.0,running,0.0,29.0,0.0
+2022,10,Charlotte,Charlotte Motor Speedway,1.5,paved track,9.0,13.0,52.0,Stewart Friesen,Halmar International (Chris Larsen),Toyota,143.0,running,0.0,28.0,0.0
+2022,10,Charlotte,Charlotte Motor Speedway,1.5,paved track,10.0,12.0,99.0,Ben Rhodes,Tenda (Duke Thorson),Toyota,143.0,running,5.0,37.0,1.0
+2022,10,Charlotte,Charlotte Motor Speedway,1.5,paved track,11.0,8.0,17.0,Ryan Preece,RaceChoice.com (David Gilliland),Ford,143.0,running,9.0,42.0,0.0
+2022,10,Charlotte,Charlotte Motor Speedway,1.5,paved track,12.0,16.0,19.0,Derek Kraus,NAPA Auto Care (Bill McAnally),Chevrolet,143.0,running,2.0,26.0,0.0
+2022,10,Charlotte,Charlotte Motor Speedway,1.5,paved track,13.0,1.0,66.0,Ty Majeski,American Racing Wheels (Duke Thorson),Toyota,143.0,running,4.0,35.0,0.0
+2022,10,Charlotte,Charlotte Motor Speedway,1.5,paved track,14.0,20.0,91.0,Colby Howard,Gates Hydraulics (Bill McAnally),Chevrolet,143.0,running,0.0,23.0,0.0
+2022,10,Charlotte,Charlotte Motor Speedway,1.5,paved track,15.0,17.0,61.0,Chase Purdy,Bama Buggies (Shigeaki Hattori),Toyota,143.0,running,0.0,22.0,0.0
+2022,10,Charlotte,Charlotte Motor Speedway,1.5,paved track,16.0,4.0,42.0,Carson Hocevar,Premier Security Solutions (Al Niece),Chevrolet,143.0,running,57.0,35.0,0.0
+2022,10,Charlotte,Charlotte Motor Speedway,1.5,paved track,17.0,10.0,25.0,Matt DiBenedetto,Rackley Roofing / WAR Shocks (Rackley W.A.R.),Chevrolet,142.0,running,0.0,28.0,0.0
+2022,10,Charlotte,Charlotte Motor Speedway,1.5,paved track,18.0,18.0,88.0,Matt Crafton,Ideal Door / Menards (Duke Thorson),Toyota,142.0,running,5.0,21.0,0.0
+2022,10,Charlotte,Charlotte Motor Speedway,1.5,paved track,19.0,22.0,44.0,Kris Wright,F.N.B. Corporation (Al Niece),Chevrolet,142.0,running,0.0,18.0,0.0
+2022,10,Charlotte,Charlotte Motor Speedway,1.5,paved track,20.0,25.0,16.0,Tyler Ankrum,Liuna! (Shigeaki Hattori),Toyota,142.0,running,0.0,17.0,0.0
+2022,10,Charlotte,Charlotte Motor Speedway,1.5,paved track,21.0,30.0,56.0,Timmy Hill,Coble Enterprises / Leith Cars (Timmy Hill),Toyota,141.0,running,0.0,16.0,0.0
+2022,10,Charlotte,Charlotte Motor Speedway,1.5,paved track,22.0,33.0,45.0,Lawless Alan,AutoParkIt (Al Niece),Chevrolet,141.0,running,0.0,15.0,0.0
+2022,10,Charlotte,Charlotte Motor Speedway,1.5,paved track,23.0,19.0,24.0,Jack Wood,Channel Advisor (Maury Gallagher),Chevrolet,141.0,running,0.0,14.0,0.0
+2022,10,Charlotte,Charlotte Motor Speedway,1.5,paved track,24.0,27.0,12.0,Spencer Boyd,Derm Dude (Randy Young),Chevrolet,141.0,running,0.0,13.0,0.0
+2022,10,Charlotte,Charlotte Motor Speedway,1.5,paved track,25.0,26.0,22.0,Austin Wayne Self,AM Technical Solutions (Tim Self),Chevrolet,141.0,running,0.0,12.0,0.0
+2022,10,Charlotte,Charlotte Motor Speedway,1.5,paved track,26.0,31.0,37.0,Max Gutierrez,Toughbuilt / Distributed Ledger (Tim Self),Chevrolet,140.0,running,0.0,11.0,0.0
+2022,10,Charlotte,Charlotte Motor Speedway,1.5,paved track,27.0,35.0,1.0,Hailie Deegan,Wastequip (David Gilliland),Ford,140.0,running,0.0,10.0,0.0
+2022,10,Charlotte,Charlotte Motor Speedway,1.5,paved track,28.0,24.0,40.0,Dean Thompson,Worldwide Express (Al Niece),Chevrolet,139.0,running,0.0,9.0,0.0
+2022,10,Charlotte,Charlotte Motor Speedway,1.5,paved track,29.0,21.0,30.0,Tate Fogleman,Rangeline Group (Steven Lane),Toyota,139.0,running,0.0,8.0,0.0
+2022,10,Charlotte,Charlotte Motor Speedway,1.5,paved track,30.0,29.0,9.0,Blaine Perkins,Raceline (Codie Rohrbaugh),Chevrolet,139.0,running,0.0,7.0,0.0
+2022,10,Charlotte,Charlotte Motor Speedway,1.5,paved track,31.0,32.0,33.0,Josh Reaume,Rrhoid Rage (Josh Reaume),Toyota,138.0,running,0.0,6.0,0.0
+2022,10,Charlotte,Charlotte Motor Speedway,1.5,paved track,32.0,14.0,2.0,Jesse Little,Race City Sports Memorabilia (Randy Young),Chevrolet,128.0,crash,0.0,5.0,0.0
+2022,10,Charlotte,Charlotte Motor Speedway,1.5,paved track,33.0,34.0,43.0,Keith McGee,Barstool Sports (Josh Reaume),Toyota,67.0,suspension,0.0,4.0,0.0
+2022,10,Charlotte,Charlotte Motor Speedway,1.5,paved track,34.0,23.0,20.0,Matt Mills,J.F. Electric (Randy Young),Chevrolet,57.0,crash,0.0,0.0,0.0
+2022,10,Charlotte,Charlotte Motor Speedway,1.5,paved track,35.0,28.0,46.0,Brennan Poole,Thank You Military (G2G Racing),Toyota,38.0,driveshaft,0.0,2.0,0.0
+2022,11,Gateway,World Wide Technology Raceway at Gateway,1.25,paved track,1.0,1.0,51.0,Corey Heim,JBL (Kyle Busch),Toyota,165.0,running,20.0,52.0,5.0
+2022,11,Gateway,World Wide Technology Raceway at Gateway,1.25,paved track,2.0,5.0,98.0,Christian Eckes,Curb Records (Mike Curb),Toyota,165.0,running,9.0,38.0,0.0
+2022,11,Gateway,World Wide Technology Raceway at Gateway,1.25,paved track,3.0,4.0,18.0,Chandler Smith,Safelite AutoGlass (Kyle Busch),Toyota,165.0,running,40.0,44.0,1.0
+2022,11,Gateway,World Wide Technology Raceway at Gateway,1.25,paved track,4.0,3.0,52.0,Stewart Friesen,Halmar International (Chris Larsen),Toyota,165.0,running,13.0,41.0,0.0
+2022,11,Gateway,World Wide Technology Raceway at Gateway,1.25,paved track,5.0,18.0,13.0,Johnny Sauter,CMRRoofing.com (Duke Thorson),Toyota,165.0,running,0.0,32.0,0.0
+2022,11,Gateway,World Wide Technology Raceway at Gateway,1.25,paved track,6.0,16.0,25.0,Matt DiBenedetto,Rackley Roofing/WAR Shocks (Rackley W.A.R.),Chevrolet,165.0,running,0.0,31.0,0.0
+2022,11,Gateway,World Wide Technology Raceway at Gateway,1.25,paved track,7.0,36.0,19.0,Derek Kraus,NAPA AUTOCARE (Bill McAnally),Chevrolet,165.0,running,12.0,38.0,0.0
+2022,11,Gateway,World Wide Technology Raceway at Gateway,1.25,paved track,8.0,15.0,99.0,Ben Rhodes,Tenda (Duke Thorson),Toyota,165.0,running,43.0,39.0,1.0
+2022,11,Gateway,World Wide Technology Raceway at Gateway,1.25,paved track,9.0,2.0,38.0,Zane Smith,ARRMA RC (Bob Jenkins),Ford,165.0,running,16.0,36.0,0.0
+2022,11,Gateway,World Wide Technology Raceway at Gateway,1.25,paved track,10.0,13.0,61.0,Chase Purdy,Aisin (Shigeaki Hattori),Toyota,165.0,running,0.0,34.0,0.0
+2022,11,Gateway,World Wide Technology Raceway at Gateway,1.25,paved track,11.0,19.0,7.0,Rajah Caruth,Confluence Music Festival (Spire Motorsports),Chevrolet,165.0,running,0.0,26.0,0.0
+2022,11,Gateway,World Wide Technology Raceway at Gateway,1.25,paved track,12.0,11.0,88.0,Matt Crafton,Paslode/Menards (Duke Thorson),Toyota,165.0,running,0.0,36.0,0.0
+2022,11,Gateway,World Wide Technology Raceway at Gateway,1.25,paved track,13.0,20.0,16.0,Tyler Ankrum,LiUNA! (Shigeaki Hattori),Toyota,165.0,running,0.0,24.0,0.0
+2022,11,Gateway,World Wide Technology Raceway at Gateway,1.25,paved track,14.0,25.0,40.0,Dean Thompson,Worldwide Express (Al Niece),Chevrolet,165.0,running,0.0,23.0,0.0
+2022,11,Gateway,World Wide Technology Raceway at Gateway,1.25,paved track,15.0,26.0,1.0,Hailie Deegan,Monster Energy (David Gilliland),Ford,165.0,running,0.0,26.0,0.0
+2022,11,Gateway,World Wide Technology Raceway at Gateway,1.25,paved track,16.0,30.0,3.0,Jordan Anderson,Bommarito Automotive Group (Jordan Anderson),Chevrolet,165.0,running,0.0,21.0,0.0
+2022,11,Gateway,World Wide Technology Raceway at Gateway,1.25,paved track,17.0,29.0,56.0,Timmy Hill,UNITS Storage (Timmy Hill),Toyota,165.0,running,0.0,20.0,0.0
+2022,11,Gateway,World Wide Technology Raceway at Gateway,1.25,paved track,18.0,24.0,45.0,Lawless Alan,AUTOParkIt (Al Niece),Chevrolet,165.0,running,0.0,19.0,0.0
+2022,11,Gateway,World Wide Technology Raceway at Gateway,1.25,paved track,19.0,32.0,24.0,Jack Wood,Two Friends Golf (Maury Gallagher),Chevrolet,165.0,running,0.0,18.0,0.0
+2022,11,Gateway,World Wide Technology Raceway at Gateway,1.25,paved track,20.0,22.0,2.0,Jesse Little,Randco Industries (Randy Young),Chevrolet,165.0,running,0.0,17.0,0.0
+2022,11,Gateway,World Wide Technology Raceway at Gateway,1.25,paved track,21.0,35.0,30.0,Tate Fogleman,Rangeline Group (Steven Lane),Toyota,165.0,running,0.0,16.0,0.0
+2022,11,Gateway,World Wide Technology Raceway at Gateway,1.25,paved track,22.0,23.0,9.0,Blaine Perkins,Warrior Health Foundation (Codie Rohrbaugh),Chevrolet,165.0,running,0.0,15.0,0.0
+2022,11,Gateway,World Wide Technology Raceway at Gateway,1.25,paved track,23.0,7.0,91.0,Colby Howard,Gates Hydraulics (Bill McAnally),Chevrolet,165.0,running,0.0,15.0,0.0
+2022,11,Gateway,World Wide Technology Raceway at Gateway,1.25,paved track,24.0,12.0,42.0,Carson Hocevar,Premier Security Solutions (Al Niece),Chevrolet,164.0,crash,8.0,18.0,0.0
+2022,11,Gateway,World Wide Technology Raceway at Gateway,1.25,paved track,25.0,27.0,5.0,Tyler Hill,HairClub/Capillus (Timmy Hill),Toyota,164.0,crash,0.0,12.0,0.0
+2022,11,Gateway,World Wide Technology Raceway at Gateway,1.25,paved track,26.0,28.0,22.0,Austin Wayne Self,AM Technical Solutions (Tim Self),Chevrolet,164.0,crash,0.0,17.0,0.0
+2022,11,Gateway,World Wide Technology Raceway at Gateway,1.25,paved track,27.0,33.0,33.0,Mason Maggio,HMY Yacht Sales (Josh Reaume),Chevrolet,164.0,running,0.0,10.0,0.0
+2022,11,Gateway,World Wide Technology Raceway at Gateway,1.25,paved track,28.0,10.0,23.0,Grant Enfinger,Champion Power Equipment (Maury Gallagher),Chevrolet,163.0,running,4.0,13.0,0.0
+2022,11,Gateway,World Wide Technology Raceway at Gateway,1.25,paved track,29.0,21.0,35.0,Jake Garcia,TBD (Bill McAnally),Chevrolet,161.0,running,0.0,8.0,0.0
+2022,11,Gateway,World Wide Technology Raceway at Gateway,1.25,paved track,30.0,14.0,15.0,Tanner Gray,Ford Performance (David Gilliland),Ford,156.0,crash,0.0,7.0,0.0
+2022,11,Gateway,World Wide Technology Raceway at Gateway,1.25,paved track,31.0,34.0,12.0,Spencer Boyd,Hans Wiemann (Randy Young),Chevrolet,151.0,electrical,0.0,6.0,0.0
+2022,11,Gateway,World Wide Technology Raceway at Gateway,1.25,paved track,32.0,8.0,66.0,Ty Majeski,Road Ranger (Duke Thorson),Toyota,136.0,running,0.0,10.0,0.0
+2022,11,Gateway,World Wide Technology Raceway at Gateway,1.25,paved track,33.0,17.0,44.0,Kris Wright,F.N.B. Corporation (Al Niece),Chevrolet,93.0,crash,0.0,4.0,0.0
+2022,11,Gateway,World Wide Technology Raceway at Gateway,1.25,paved track,34.0,31.0,46.0,Brennan Poole,G2G Racing (G2G Racing),Toyota,77.0,rear gear,0.0,3.0,0.0
+2022,11,Gateway,World Wide Technology Raceway at Gateway,1.25,paved track,35.0,6.0,4.0,John H. Nemechek,Mobil 1 (Kyle Busch),Toyota,57.0,dvp,0.0,10.0,0.0
+2022,11,Gateway,World Wide Technology Raceway at Gateway,1.25,paved track,36.0,9.0,17.0,Taylor Gray,Ford Performance (David Gilliland),Ford,45.0,crash,0.0,1.0,0.0
+2022,12,Sonoma,Sonoma Raceway,1.99,road course,1.0,3.0,51.0,Kyle Busch,Yahoo! (Kyle Busch),Toyota,75.0,running,45.0,0.0,0.0
+2022,12,Sonoma,Sonoma Raceway,1.99,road course,2.0,13.0,38.0,Zane Smith,Michael Roberts Construction (Bob Jenkins),Ford,75.0,running,0.0,38.0,0.0
+2022,12,Sonoma,Sonoma Raceway,1.99,road course,3.0,4.0,66.0,Ty Majeski,Cincinnati (Duke Thorson),Toyota,75.0,running,4.0,44.0,1.0
+2022,12,Sonoma,Sonoma Raceway,1.99,road course,4.0,2.0,41.0,Ross Chastain,Worldwide Express (Al Niece),Chevrolet,75.0,running,19.0,0.0,0.0
+2022,12,Sonoma,Sonoma Raceway,1.99,road course,5.0,14.0,18.0,Chandler Smith,Safelite AutoGlass (Kyle Busch),Toyota,75.0,running,0.0,41.0,0.0
+2022,12,Sonoma,Sonoma Raceway,1.99,road course,6.0,1.0,42.0,Carson Hocevar,Worldwide Express (Al Niece),Chevrolet,75.0,running,0.0,37.0,0.0
+2022,12,Sonoma,Sonoma Raceway,1.99,road course,7.0,11.0,75.0,Parker Kligerman,Food Country USA (Charlie Henderson),Chevrolet,75.0,running,0.0,36.0,0.0
+2022,12,Sonoma,Sonoma Raceway,1.99,road course,8.0,7.0,4.0,John H. Nemechek,Persil (Kyle Busch),Toyota,75.0,running,0.0,37.0,0.0
+2022,12,Sonoma,Sonoma Raceway,1.99,road course,9.0,5.0,16.0,Tyler Ankrum,LiUNA! (Shigeaki Hattori),Toyota,75.0,running,0.0,37.0,0.0
+2022,12,Sonoma,Sonoma Raceway,1.99,road course,10.0,12.0,25.0,Matt DiBenedetto,Rackley Roofing/WAR Shocks (Rackley W.A.R.),Chevrolet,75.0,running,0.0,32.0,0.0
+2022,12,Sonoma,Sonoma Raceway,1.99,road course,11.0,8.0,23.0,Grant Enfinger,Champion Power Equipment (Maury Gallagher),Chevrolet,75.0,running,1.0,33.0,0.0
+2022,12,Sonoma,Sonoma Raceway,1.99,road course,12.0,23.0,17.0,Harrison Burton,Hunt Brothers Pizza (David Gilliland),Ford,75.0,running,0.0,0.0,0.0
+2022,12,Sonoma,Sonoma Raceway,1.99,road course,13.0,27.0,15.0,Tanner Gray,Ford Performance (David Gilliland),Ford,75.0,running,0.0,24.0,0.0
+2022,12,Sonoma,Sonoma Raceway,1.99,road course,14.0,20.0,2.0,Kaz Grala,Cellar Scout (Randy Young),Chevrolet,75.0,running,0.0,30.0,0.0
+2022,12,Sonoma,Sonoma Raceway,1.99,road course,15.0,25.0,61.0,Chase Purdy,Bama Buggies (Shigeaki Hattori),Toyota,75.0,running,0.0,30.0,0.0
+2022,12,Sonoma,Sonoma Raceway,1.99,road course,16.0,28.0,24.0,Jack Wood,Cooks Collision (Maury Gallagher),Chevrolet,75.0,running,0.0,21.0,0.0
+2022,12,Sonoma,Sonoma Raceway,1.99,road course,17.0,16.0,20.0,Austin Dillon,K&L Ready Mix (Randy Young),Chevrolet,75.0,running,0.0,0.0,0.0
+2022,12,Sonoma,Sonoma Raceway,1.99,road course,18.0,17.0,99.0,Ben Rhodes,Tenda (Duke Thorson),Toyota,75.0,running,6.0,29.0,1.0
+2022,12,Sonoma,Sonoma Raceway,1.99,road course,19.0,22.0,91.0,Colby Howard,Gates Hydraulics (Bill McAnally),Chevrolet,75.0,running,0.0,18.0,0.0
+2022,12,Sonoma,Sonoma Raceway,1.99,road course,20.0,31.0,62.0,Todd Bodine,Camping World (Chris Larsen),Toyota,75.0,running,0.0,18.0,0.0
+2022,12,Sonoma,Sonoma Raceway,1.99,road course,21.0,29.0,9.0,Blaine Perkins,Raceline (Codie Rohrbaugh),Chevrolet,75.0,running,0.0,16.0,0.0
+2022,12,Sonoma,Sonoma Raceway,1.99,road course,22.0,32.0,43.0,Brad Perez,I Set My Friends on Fire (Josh Reaume),Toyota,75.0,running,0.0,15.0,0.0
+2022,12,Sonoma,Sonoma Raceway,1.99,road course,23.0,36.0,12.0,Spencer Boyd,Grofully (Randy Young),Chevrolet,75.0,running,0.0,14.0,0.0
+2022,12,Sonoma,Sonoma Raceway,1.99,road course,24.0,33.0,40.0,Dean Thompson,Worldwide Express (Al Niece),Chevrolet,75.0,running,0.0,16.0,0.0
+2022,12,Sonoma,Sonoma Raceway,1.99,road course,25.0,19.0,45.0,Lawless Alan,AUTOChargit (Al Niece),Chevrolet,75.0,running,0.0,12.0,0.0
+2022,12,Sonoma,Sonoma Raceway,1.99,road course,26.0,30.0,44.0,Kris Wright,F.N.B. Corporation (Al Niece),Chevrolet,75.0,running,0.0,11.0,0.0
+2022,12,Sonoma,Sonoma Raceway,1.99,road course,27.0,15.0,19.0,Derek Kraus,NAPA AUTOCARE (Bill McAnally),Chevrolet,74.0,running,0.0,14.0,0.0
+2022,12,Sonoma,Sonoma Raceway,1.99,road course,28.0,21.0,56.0,Timmy Hill,SBC Contractors (Timmy Hill),Toyota,73.0,running,0.0,13.0,0.0
+2022,12,Sonoma,Sonoma Raceway,1.99,road course,29.0,6.0,7.0,Alex Bowman,HendrickCars.com (Spire Motorsports),Chevrolet,71.0,crash,0.0,0.0,0.0
+2022,12,Sonoma,Sonoma Raceway,1.99,road course,30.0,26.0,30.0,Josh Bilicki,11/11 Veteran Project / Un Broken (Steven Lane),Toyota,70.0,crash,0.0,0.0,0.0
+2022,12,Sonoma,Sonoma Raceway,1.99,road course,31.0,10.0,52.0,Stewart Friesen,Halmar International (Chris Larsen),Toyota,70.0,crash,0.0,6.0,0.0
+2022,12,Sonoma,Sonoma Raceway,1.99,road course,32.0,9.0,1.0,Hailie Deegan,Monster Energy (David Gilliland),Ford,66.0,crash,0.0,8.0,0.0
+2022,12,Sonoma,Sonoma Raceway,1.99,road course,33.0,34.0,33.0,Jade Buford,Big Machine Spiked Coolers (Josh Reaume),Toyota,61.0,transmission,0.0,0.0,0.0
+2022,12,Sonoma,Sonoma Raceway,1.99,road course,34.0,24.0,88.0,Matt Crafton,Oregon/Menards (Duke Thorson),Toyota,54.0,transmission,0.0,3.0,0.0
+2022,12,Sonoma,Sonoma Raceway,1.99,road course,35.0,18.0,98.0,Christian Eckes,TSPORT/Curb Records (Mike Curb),Toyota,26.0,crash,0.0,2.0,0.0
+2022,12,Sonoma,Sonoma Raceway,1.99,road course,36.0,35.0,46.0,Stefan Parsons,OpenFender.com (G2G Racing),Toyota,9.0,oil cooler,0.0,0.0,0.0
+2022,13,Knoxville,Knoxville Raceway,0.5,dirt track,1.0,9.0,17.0,Todd Gilliland,Frontline Enterprises (David Gilliland),Ford,150.0,running,58.0,0.0,0.0
+2022,13,Knoxville,Knoxville Raceway,0.5,dirt track,2.0,6.0,4.0,John H. Nemechek,Mobil 1 (Kyle Busch),Toyota,150.0,running,17.0,51.0,0.0
+2022,13,Knoxville,Knoxville Raceway,0.5,dirt track,3.0,15.0,38.0,Zane Smith,Boot Barn (Bob Jenkins),Ford,150.0,running,0.0,44.0,0.0
+2022,13,Knoxville,Knoxville Raceway,0.5,dirt track,4.0,7.0,66.0,Ty Majeski,Duke Thorson,Toyota,150.0,running,0.0,39.0,0.0
+2022,13,Knoxville,Knoxville Raceway,0.5,dirt track,5.0,4.0,52.0,Stewart Friesen,Halmar International (Chris Larsen),Toyota,150.0,running,0.0,35.0,0.0
+2022,13,Knoxville,Knoxville Raceway,0.5,dirt track,6.0,1.0,19.0,Derek Kraus,NAPA AUTOCARE (Bill McAnally),Chevrolet,150.0,running,0.0,44.0,0.0
+2022,13,Knoxville,Knoxville Raceway,0.5,dirt track,7.0,21.0,88.0,Matt Crafton,Ideal Door/Menards (Duke Thorson),Toyota,150.0,running,0.0,32.0,0.0
+2022,13,Knoxville,Knoxville Raceway,0.5,dirt track,8.0,11.0,23.0,Grant Enfinger,Champion Power Equipment (Maury Gallagher),Chevrolet,150.0,running,10.0,39.0,0.0
+2022,13,Knoxville,Knoxville Raceway,0.5,dirt track,9.0,13.0,16.0,Tyler Ankrum,LiUNA! (Shigeaki Hattori),Toyota,150.0,running,0.0,29.0,0.0
+2022,13,Knoxville,Knoxville Raceway,0.5,dirt track,10.0,3.0,99.0,Ben Rhodes,Duke Thorson,Toyota,150.0,running,0.0,27.0,0.0
+2022,13,Knoxville,Knoxville Raceway,0.5,dirt track,11.0,5.0,51.0,Buddy Kofoid,Mobil 1 (Kyle Busch),Toyota,150.0,running,0.0,26.0,0.0
+2022,13,Knoxville,Knoxville Raceway,0.5,dirt track,12.0,20.0,98.0,Christian Eckes,Mike Curb,Toyota,150.0,running,0.0,25.0,0.0
+2022,13,Knoxville,Knoxville Raceway,0.5,dirt track,13.0,10.0,18.0,Chandler Smith,Charge Me (Kyle Busch),Toyota,150.0,running,0.0,28.0,0.0
+2022,13,Knoxville,Knoxville Raceway,0.5,dirt track,14.0,12.0,25.0,Matt DiBenedetto,Rackley Roofing/WAR Shocks (Rackley W.A.R.),Chevrolet,150.0,running,0.0,25.0,0.0
+2022,13,Knoxville,Knoxville Raceway,0.5,dirt track,15.0,8.0,1.0,Hailie Deegan,Monster Energy (David Gilliland),Ford,150.0,running,0.0,22.0,0.0
+2022,13,Knoxville,Knoxville Raceway,0.5,dirt track,16.0,22.0,91.0,Colby Howard,Gates Hydraulics (Bill McAnally),Chevrolet,150.0,running,0.0,21.0,0.0
+2022,13,Knoxville,Knoxville Raceway,0.5,dirt track,17.0,30.0,3.0,Dylan Westbrook,Townline Variety (Jordan Anderson),Chevrolet,150.0,running,0.0,20.0,0.0
+2022,13,Knoxville,Knoxville Raceway,0.5,dirt track,18.0,34.0,45.0,Lawless Alan,AUTOParkIt (Al Niece),Chevrolet,150.0,running,0.0,19.0,0.0
+2022,13,Knoxville,Knoxville Raceway,0.5,dirt track,19.0,28.0,56.0,Timmy Hill,Hill Motorsports (Timmy Hill),Toyota,150.0,running,0.0,18.0,0.0
+2022,13,Knoxville,Knoxville Raceway,0.5,dirt track,20.0,27.0,61.0,Chase Purdy,Bama Buggies (Shigeaki Hattori),Toyota,150.0,running,0.0,17.0,0.0
+2022,13,Knoxville,Knoxville Raceway,0.5,dirt track,21.0,36.0,24.0,Jack Wood,chevyliners.com (Maury Gallagher),Chevrolet,149.0,running,0.0,16.0,0.0
+2022,13,Knoxville,Knoxville Raceway,0.5,dirt track,22.0,16.0,15.0,Tanner Gray,Ford Performance (David Gilliland),Ford,149.0,running,0.0,15.0,0.0
+2022,13,Knoxville,Knoxville Raceway,0.5,dirt track,23.0,18.0,40.0,Dean Thompson,Worldwide Express (Al Niece),Chevrolet,148.0,running,0.0,14.0,0.0
+2022,13,Knoxville,Knoxville Raceway,0.5,dirt track,24.0,24.0,30.0,Joey Gase,Sparks Energy Inc (Steven Lane),Toyota,148.0,running,0.0,0.0,0.0
+2022,13,Knoxville,Knoxville Raceway,0.5,dirt track,25.0,32.0,9.0,Blaine Perkins,Raceline (Codie Rohrbaugh),Chevrolet,148.0,running,0.0,12.0,0.0
+2022,13,Knoxville,Knoxville Raceway,0.5,dirt track,26.0,17.0,2.0,Kaz Grala,Ruedebusch Development (Randy Young),Chevrolet,148.0,running,0.0,15.0,0.0
+2022,13,Knoxville,Knoxville Raceway,0.5,dirt track,27.0,31.0,33.0,Brayton Laster,PatrickFabrication.com (Josh Reaume),Chevrolet,147.0,running,0.0,10.0,0.0
+2022,13,Knoxville,Knoxville Raceway,0.5,dirt track,28.0,25.0,44.0,Kris Wright,F.N.B. Corporation (Al Niece),Chevrolet,145.0,running,0.0,9.0,0.0
+2022,13,Knoxville,Knoxville Raceway,0.5,dirt track,29.0,35.0,12.0,Spencer Boyd,Freedom Warranty (Randy Young),Chevrolet,142.0,running,0.0,8.0,0.0
+2022,13,Knoxville,Knoxville Raceway,0.5,dirt track,30.0,33.0,43.0,Devon Rouse,Spry (Josh Reaume),Chevrolet,140.0,running,0.0,7.0,0.0
+2022,13,Knoxville,Knoxville Raceway,0.5,dirt track,31.0,29.0,20.0,Thad Moffitt,CLEAN HARBORS (Randy Young),Chevrolet,139.0,running,0.0,6.0,0.0
+2022,13,Knoxville,Knoxville Raceway,0.5,dirt track,32.0,23.0,22.0,Brett Moffitt,Concrete SupplyDestiny Homes (Tim Self),Chevrolet,124.0,crash,0.0,0.0,0.0
+2022,13,Knoxville,Knoxville Raceway,0.5,dirt track,33.0,26.0,46.0,Bryson Mitchell,Sparks (G2G Racing),Toyota,110.0,throttle,0.0,4.0,0.0
+2022,13,Knoxville,Knoxville Raceway,0.5,dirt track,34.0,19.0,62.0,Jessica Friesen,Halmar International (Chris Larsen),Toyota,76.0,brakes,0.0,3.0,0.0
+2022,13,Knoxville,Knoxville Raceway,0.5,dirt track,35.0,2.0,42.0,Carson Hocevar,Worldwide Express (Al Niece),Chevrolet,66.0,engine,65.0,12.0,1.0
+2022,13,Knoxville,Knoxville Raceway,0.5,dirt track,36.0,14.0,41.0,Tyler Carpenter,Aggressive (Al Niece),Chevrolet,65.0,driveshaft,0.0,1.0,0.0
+2022,14,Nashville,Nashville Superspeedway,1.333,paved track,1.0,1.0,17.0,Ryan Preece,Hunt Brothers Pizza (David Gilliland),Ford,150.0,running,74.0,59.0,6.0
+2022,14,Nashville,Nashville Superspeedway,1.333,paved track,2.0,2.0,38.0,Zane Smith,Speedco / Luber Finer (Bob Jenkins),Ford,150.0,running,70.0,54.0,1.0
+2022,14,Nashville,Nashville Superspeedway,1.333,paved track,3.0,3.0,42.0,Carson Hocevar,Worldwide Express (Al Niece),Chevrolet,150.0,running,0.0,39.0,0.0
+2022,14,Nashville,Nashville Superspeedway,1.333,paved track,4.0,12.0,66.0,Ty Majeski,American Racing Wheels (Duke Thorson),Toyota,150.0,running,4.0,39.0,0.0
+2022,14,Nashville,Nashville Superspeedway,1.333,paved track,5.0,9.0,52.0,Stewart Friesen,Halmar International (Chris Larsen),Toyota,150.0,running,0.0,45.0,0.0
+2022,14,Nashville,Nashville Superspeedway,1.333,paved track,6.0,13.0,98.0,Christian Eckes,CMR Construction & Roofing (Mike Curb),Toyota,150.0,running,0.0,39.0,0.0
+2022,14,Nashville,Nashville Superspeedway,1.333,paved track,7.0,16.0,16.0,Tyler Ankrum,LiUNA! (Shigeaki Hattori),Toyota,150.0,running,0.0,30.0,0.0
+2022,14,Nashville,Nashville Superspeedway,1.333,paved track,8.0,36.0,22.0,Max Gutierrez,Inspectra Thermal Solutions (Tim Self),Chevrolet,150.0,running,0.0,29.0,0.0
+2022,14,Nashville,Nashville Superspeedway,1.333,paved track,9.0,11.0,4.0,John H. Nemechek,Mobil 1 (Kyle Busch),Toyota,150.0,running,0.0,28.0,0.0
+2022,14,Nashville,Nashville Superspeedway,1.333,paved track,10.0,18.0,88.0,Matt Crafton,Great Lakes Flooring/Menards (Duke Thorson),Toyota,150.0,running,0.0,27.0,0.0
+2022,14,Nashville,Nashville Superspeedway,1.333,paved track,11.0,5.0,19.0,Derek Kraus,HunterNation (Bill McAnally),Chevrolet,150.0,running,0.0,35.0,0.0
+2022,14,Nashville,Nashville Superspeedway,1.333,paved track,12.0,15.0,99.0,Ben Rhodes,Tenda (Duke Thorson),Toyota,150.0,running,0.0,29.0,0.0
+2022,14,Nashville,Nashville Superspeedway,1.333,paved track,13.0,19.0,61.0,Chase Purdy,Bama Buggies (Shigeaki Hattori),Toyota,150.0,running,0.0,24.0,0.0
+2022,14,Nashville,Nashville Superspeedway,1.333,paved track,14.0,24.0,40.0,Dean Thompson,Worldwide Express (Al Niece),Chevrolet,150.0,running,0.0,23.0,0.0
+2022,14,Nashville,Nashville Superspeedway,1.333,paved track,15.0,6.0,18.0,Chandler Smith,Safelite AutoGlass (Kyle Busch),Toyota,150.0,running,0.0,28.0,0.0
+2022,14,Nashville,Nashville Superspeedway,1.333,paved track,16.0,32.0,91.0,Colby Howard,Gates Hydraulics (Bill McAnally),Chevrolet,150.0,running,0.0,21.0,0.0
+2022,14,Nashville,Nashville Superspeedway,1.333,paved track,17.0,20.0,44.0,Kris Wright,Big Dog Energy (Al Niece),Chevrolet,150.0,running,0.0,20.0,0.0
+2022,14,Nashville,Nashville Superspeedway,1.333,paved track,18.0,21.0,9.0,Blaine Perkins,Raceline (Codie Rohrbaugh),Chevrolet,150.0,running,0.0,19.0,0.0
+2022,14,Nashville,Nashville Superspeedway,1.333,paved track,19.0,17.0,2.0,Jesse Little,Catchin' Deers (Randy Young),Chevrolet,150.0,running,0.0,18.0,0.0
+2022,14,Nashville,Nashville Superspeedway,1.333,paved track,20.0,23.0,75.0,Parker Kligerman,Food Country USA (Charlie Henderson),Toyota,150.0,running,2.0,17.0,0.0
+2022,14,Nashville,Nashville Superspeedway,1.333,paved track,21.0,29.0,47.0,Kaden Honeycutt,Friends of Jaclyn Foundation (G2G Racing),Toyota,150.0,running,0.0,16.0,0.0
+2022,14,Nashville,Nashville Superspeedway,1.333,paved track,22.0,25.0,20.0,Stefan Parsons,RandCo (Randy Young),Chevrolet,150.0,running,0.0,15.0,0.0
+2022,14,Nashville,Nashville Superspeedway,1.333,paved track,23.0,26.0,56.0,Timmy Hill,Coble Enterprises (Timmy Hill),Toyota,150.0,running,0.0,14.0,0.0
+2022,14,Nashville,Nashville Superspeedway,1.333,paved track,24.0,30.0,45.0,Lawless Alan,AUTODockit (Al Niece),Chevrolet,150.0,running,0.0,13.0,0.0
+2022,14,Nashville,Nashville Superspeedway,1.333,paved track,25.0,27.0,12.0,Spencer Boyd,RIMTYME (Randy Young),Chevrolet,150.0,running,0.0,12.0,0.0
+2022,14,Nashville,Nashville Superspeedway,1.333,paved track,26.0,33.0,43.0,Nick Leitz,Josh Reaume,Chevrolet,150.0,running,0.0,11.0,0.0
+2022,14,Nashville,Nashville Superspeedway,1.333,paved track,27.0,31.0,62.0,Todd Bodine,Camping World (Chris Larsen),Toyota,148.0,running,0.0,12.0,0.0
+2022,14,Nashville,Nashville Superspeedway,1.333,paved track,28.0,14.0,1.0,Hailie Deegan,Wastequip (David Gilliland),Ford,144.0,running,0.0,9.0,0.0
+2022,14,Nashville,Nashville Superspeedway,1.333,paved track,29.0,34.0,33.0,Chris Hacker,Josh Reaume,Toyota,144.0,running,0.0,8.0,0.0
+2022,14,Nashville,Nashville Superspeedway,1.333,paved track,30.0,22.0,15.0,Tanner Gray,Ford Performance (David Gilliland),Ford,143.0,running,0.0,7.0,0.0
+2022,14,Nashville,Nashville Superspeedway,1.333,paved track,31.0,8.0,25.0,Matt DiBenedetto,Rackley Roofing/WAR Shocks (Rackley W.A.R.),Chevrolet,132.0,crash,0.0,8.0,0.0
+2022,14,Nashville,Nashville Superspeedway,1.333,paved track,32.0,7.0,23.0,Grant Enfinger,Champion Power Equipment (Maury Gallagher),Chevrolet,126.0,crash,0.0,6.0,0.0
+2022,14,Nashville,Nashville Superspeedway,1.333,paved track,33.0,4.0,51.0,Corey Heim,JBL (Kyle Busch),Toyota,126.0,crash,0.0,20.0,0.0
+2022,14,Nashville,Nashville Superspeedway,1.333,paved track,34.0,28.0,30.0,Camden Murphy,ROWDY Energy (Steven Lane),Toyota,20.0,crash,0.0,3.0,0.0
+2022,14,Nashville,Nashville Superspeedway,1.333,paved track,35.0,10.0,24.0,Jack Wood,chevyliners.com (Maury Gallagher),Chevrolet,6.0,crash,0.0,2.0,0.0
+2022,14,Nashville,Nashville Superspeedway,1.333,paved track,36.0,35.0,46.0,Chase Janes,Waste Connection Services (G2G Racing),Toyota,1.0,rear gear,0.0,1.0,0.0
+2022,15,Mid-Ohio,Mid-Ohio Sports Car Course,2.258,road course,1.0,2.0,75.0,Parker Kligerman,Food Country USA/Tide (Charlie Henderson),Chevrolet,67.0,running,56.0,59.0,6.0
+2022,15,Mid-Ohio,Mid-Ohio Sports Car Course,2.258,road course,2.0,13.0,38.0,Zane Smith,Boot Barn (Bob Jenkins),Ford,67.0,running,8.0,54.0,1.0
+2022,15,Mid-Ohio,Mid-Ohio Sports Car Course,2.258,road course,3.0,3.0,42.0,Carson Hocevar,Premier Security Solutions (Al Niece),Chevrolet,67.0,running,0.0,43.0,0.0
+2022,15,Mid-Ohio,Mid-Ohio Sports Car Course,2.258,road course,4.0,19.0,52.0,Stewart Friesen,Halmar International (Chris Larsen),Toyota,67.0,running,0.0,38.0,0.0
+2022,15,Mid-Ohio,Mid-Ohio Sports Car Course,2.258,road course,5.0,20.0,98.0,Christian Eckes,TSPORT/Curb Records (Mike Curb),Toyota,67.0,running,0.0,44.0,0.0
+2022,15,Mid-Ohio,Mid-Ohio Sports Car Course,2.258,road course,6.0,31.0,18.0,Chandler Smith,Safelite AutoGlass (Kyle Busch),Toyota,67.0,running,0.0,31.0,0.0
+2022,15,Mid-Ohio,Mid-Ohio Sports Car Course,2.258,road course,7.0,17.0,2.0,Kaz Grala,Ruedebusch Development (Randy Young),Chevrolet,67.0,running,0.0,32.0,0.0
+2022,15,Mid-Ohio,Mid-Ohio Sports Car Course,2.258,road course,8.0,23.0,19.0,Derek Kraus,NAPA AUTOCARE (Bill McAnally),Chevrolet,67.0,running,0.0,29.0,0.0
+2022,15,Mid-Ohio,Mid-Ohio Sports Car Course,2.258,road course,9.0,30.0,91.0,Colby Howard,Gates Hydraulics (Bill McAnally),Chevrolet,67.0,running,0.0,28.0,0.0
+2022,15,Mid-Ohio,Mid-Ohio Sports Car Course,2.258,road course,10.0,28.0,1.0,Hailie Deegan,Craftsman (David Gilliland),Ford,67.0,running,0.0,27.0,0.0
+2022,15,Mid-Ohio,Mid-Ohio Sports Car Course,2.258,road course,11.0,12.0,23.0,Grant Enfinger,Champion Power Equipment (Maury Gallagher),Chevrolet,67.0,running,0.0,37.0,0.0
+2022,15,Mid-Ohio,Mid-Ohio Sports Car Course,2.258,road course,12.0,21.0,66.0,Ty Majeski,Cincinnati (Duke Thorson),Toyota,67.0,running,0.0,26.0,0.0
+2022,15,Mid-Ohio,Mid-Ohio Sports Car Course,2.258,road course,13.0,22.0,61.0,Chase Purdy,Bama Buggies (Shigeaki Hattori),Toyota,67.0,running,0.0,24.0,0.0
+2022,15,Mid-Ohio,Mid-Ohio Sports Car Course,2.258,road course,14.0,14.0,22.0,Austin Wayne Self,AM Technical Solutions (Tim Self),Chevrolet,67.0,running,0.0,23.0,0.0
+2022,15,Mid-Ohio,Mid-Ohio Sports Car Course,2.258,road course,15.0,10.0,17.0,Taylor Gray,Ford Performance (David Gilliland),Ford,67.0,running,0.0,22.0,0.0
+2022,15,Mid-Ohio,Mid-Ohio Sports Car Course,2.258,road course,16.0,35.0,12.0,Spencer Boyd,Crowe Equipment (Randy Young),Chevrolet,67.0,running,0.0,21.0,0.0
+2022,15,Mid-Ohio,Mid-Ohio Sports Car Course,2.258,road course,17.0,34.0,56.0,Timmy Hill,Hill Motorsports (Timmy Hill),Toyota,67.0,running,0.0,20.0,0.0
+2022,15,Mid-Ohio,Mid-Ohio Sports Car Course,2.258,road course,18.0,5.0,88.0,Matt Crafton,Ideal Door/Menards (Duke Thorson),Toyota,67.0,running,0.0,19.0,0.0
+2022,15,Mid-Ohio,Mid-Ohio Sports Car Course,2.258,road course,19.0,6.0,25.0,Matt DiBenedetto,Rackley Roofing/WAR Shocks (Rackley W.A.R.),Chevrolet,67.0,running,0.0,18.0,0.0
+2022,15,Mid-Ohio,Mid-Ohio Sports Car Course,2.258,road course,20.0,16.0,15.0,Tanner Gray,Ford Performance/ABC (David Gilliland),Ford,67.0,running,0.0,17.0,0.0
+2022,15,Mid-Ohio,Mid-Ohio Sports Car Course,2.258,road course,21.0,7.0,16.0,Tyler Ankrum,LiUNA! (Shigeaki Hattori),Toyota,67.0,running,0.0,23.0,0.0
+2022,15,Mid-Ohio,Mid-Ohio Sports Car Course,2.258,road course,22.0,36.0,43.0,Stephen Mallozzi,COMPKART (Josh Reaume),Toyota,67.0,running,0.0,15.0,0.0
+2022,15,Mid-Ohio,Mid-Ohio Sports Car Course,2.258,road course,23.0,15.0,99.0,Ben Rhodes,Tenda (Duke Thorson),Toyota,66.0,running,0.0,14.0,0.0
+2022,15,Mid-Ohio,Mid-Ohio Sports Car Course,2.258,road course,24.0,27.0,45.0,Lawless Alan,AUTOChargit (Al Niece),Chevrolet,66.0,running,0.0,13.0,0.0
+2022,15,Mid-Ohio,Mid-Ohio Sports Car Course,2.258,road course,25.0,33.0,44.0,Kris Wright,F.N.B. Corporation (Al Niece),Chevrolet,65.0,crash,0.0,12.0,0.0
+2022,15,Mid-Ohio,Mid-Ohio Sports Car Course,2.258,road course,26.0,1.0,51.0,Corey Heim,JBL (Kyle Busch),Toyota,60.0,transmission,3.0,26.0,0.0
+2022,15,Mid-Ohio,Mid-Ohio Sports Car Course,2.258,road course,27.0,29.0,40.0,Dean Thompson,Worldwide Express (Al Niece),Chevrolet,60.0,running,0.0,10.0,0.0
+2022,15,Mid-Ohio,Mid-Ohio Sports Car Course,2.258,road course,28.0,4.0,4.0,John H. Nemechek,Mobil 1 (Kyle Busch),Toyota,57.0,running,0.0,17.0,0.0
+2022,15,Mid-Ohio,Mid-Ohio Sports Car Course,2.258,road course,29.0,26.0,24.0,Jack Wood,chevyliners.com (Maury Gallagher),Chevrolet,54.0,crash,0.0,8.0,0.0
+2022,15,Mid-Ohio,Mid-Ohio Sports Car Course,2.258,road course,30.0,25.0,9.0,Blaine Perkins,Raceline (Codie Rohrbaugh),Chevrolet,54.0,crash,0.0,7.0,0.0
+2022,15,Mid-Ohio,Mid-Ohio Sports Car Course,2.258,road course,31.0,8.0,41.0,Justin Marks,Worldwide Express (Al Niece),Chevrolet,49.0,crash,0.0,8.0,0.0
+2022,15,Mid-Ohio,Mid-Ohio Sports Car Course,2.258,road course,32.0,9.0,7.0,Dylan Lupton,"Lupton Excavation, Inc (Spire Motorsports)",Chevrolet,47.0,crash,0.0,5.0,0.0
+2022,15,Mid-Ohio,Mid-Ohio Sports Car Course,2.258,road course,33.0,32.0,33.0,Kenko Miura,24 Needs 24 (Josh Reaume),Toyota,42.0,running,0.0,4.0,0.0
+2022,15,Mid-Ohio,Mid-Ohio Sports Car Course,2.258,road course,34.0,11.0,32.0,Connor Mosack,Nic Tailor (Stacy Holmes),Chevrolet,37.0,brakes,0.0,3.0,0.0
+2022,15,Mid-Ohio,Mid-Ohio Sports Car Course,2.258,road course,35.0,18.0,20.0,Trey Burke,Randco Industries (Randy Young),Chevrolet,16.0,rear gear,0.0,2.0,0.0
+2022,15,Mid-Ohio,Mid-Ohio Sports Car Course,2.258,road course,36.0,24.0,46.0,Mason Filippi,OpenFender.com (G2G Racing),Toyota,9.0,engine,0.0,1.0,0.0
+2022,16,Pocono,Pocono Raceway,2.5,paved track,1.0,2.0,18.0,Chandler Smith,Charge Me (Kyle Busch),Toyota,60.0,running,49.0,50.0,6.0
+2022,16,Pocono,Pocono Raceway,2.5,paved track,2.0,22.0,17.0,Ryan Preece,RaceChoice.com (David Gilliland),Ford,60.0,running,6.0,35.0,0.0
+2022,16,Pocono,Pocono Raceway,2.5,paved track,3.0,12.0,4.0,John H. Nemechek,Yahoo! (Kyle Busch),Toyota,60.0,running,0.0,45.0,0.0
+2022,16,Pocono,Pocono Raceway,2.5,paved track,4.0,17.0,51.0,Corey Heim,JBL (Kyle Busch),Toyota,60.0,running,0.0,34.0,0.0
+2022,16,Pocono,Pocono Raceway,2.5,paved track,5.0,3.0,42.0,Carson Hocevar,Worldwide Express (Al Niece),Chevrolet,60.0,running,0.0,40.0,0.0
+2022,16,Pocono,Pocono Raceway,2.5,paved track,6.0,31.0,7.0,Austin Hill,ARCO Design/Build (Spire Motorsports),Chevrolet,60.0,running,0.0,0.0,0.0
+2022,16,Pocono,Pocono Raceway,2.5,paved track,7.0,6.0,66.0,Ty Majeski,Duke Thorson,Toyota,60.0,running,0.0,36.0,0.0
+2022,16,Pocono,Pocono Raceway,2.5,paved track,8.0,5.0,98.0,Christian Eckes,Mike Curb,Toyota,60.0,running,5.0,48.0,1.0
+2022,16,Pocono,Pocono Raceway,2.5,paved track,9.0,7.0,19.0,Derek Kraus,NAPA AUTOCARE (Bill McAnally),Chevrolet,60.0,running,0.0,34.0,0.0
+2022,16,Pocono,Pocono Raceway,2.5,paved track,10.0,18.0,15.0,Tanner Gray,David Gilliland,Ford,60.0,running,0.0,27.0,0.0
+2022,16,Pocono,Pocono Raceway,2.5,paved track,11.0,15.0,61.0,Chase Purdy,BAMA Buggies / Toyota Tsusho (Shigeaki Hattori),Toyota,60.0,running,0.0,30.0,0.0
+2022,16,Pocono,Pocono Raceway,2.5,paved track,12.0,16.0,25.0,Matt DiBenedetto,Rackley Roofing (Rackley W.A.R.),Chevrolet,60.0,running,0.0,25.0,0.0
+2022,16,Pocono,Pocono Raceway,2.5,paved track,13.0,1.0,38.0,Zane Smith,Fr8Auctions.com (Bob Jenkins),Ford,60.0,running,0.0,32.0,0.0
+2022,16,Pocono,Pocono Raceway,2.5,paved track,14.0,4.0,52.0,Stewart Friesen,Halmar International (Chris Larsen),Toyota,60.0,running,0.0,30.0,0.0
+2022,16,Pocono,Pocono Raceway,2.5,paved track,15.0,13.0,88.0,Matt Crafton,Ideal Door/Menards (Duke Thorson),Toyota,60.0,running,0.0,32.0,0.0
+2022,16,Pocono,Pocono Raceway,2.5,paved track,16.0,14.0,16.0,Tyler Ankrum,Shigeaki Hattori,Toyota,60.0,running,0.0,33.0,0.0
+2022,16,Pocono,Pocono Raceway,2.5,paved track,17.0,8.0,23.0,Grant Enfinger,Autoparts4less.com (Maury Gallagher),Chevrolet,60.0,running,0.0,21.0,0.0
+2022,16,Pocono,Pocono Raceway,2.5,paved track,18.0,10.0,91.0,Colby Howard,Gates Hydraulics (Bill McAnally),Chevrolet,60.0,running,0.0,24.0,0.0
+2022,16,Pocono,Pocono Raceway,2.5,paved track,19.0,11.0,99.0,Ben Rhodes,Duke Thorson,Toyota,60.0,running,0.0,18.0,0.0
+2022,16,Pocono,Pocono Raceway,2.5,paved track,20.0,36.0,26.0,Tate Fogleman,"Dickies, Realtree, Camospace (Rackley W.A.R.)",Chevrolet,60.0,running,0.0,17.0,0.0
+2022,16,Pocono,Pocono Raceway,2.5,paved track,21.0,27.0,22.0,Max Gutierrez,Inspectra Thermal Solutions (Tim Self),Chevrolet,60.0,running,0.0,16.0,0.0
+2022,16,Pocono,Pocono Raceway,2.5,paved track,22.0,23.0,45.0,Lawless Alan,AUTOChargit (Al Niece),Chevrolet,60.0,running,0.0,15.0,0.0
+2022,16,Pocono,Pocono Raceway,2.5,paved track,23.0,9.0,2.0,Kaz Grala,RandCo (Randy Young),Chevrolet,60.0,running,0.0,14.0,0.0
+2022,16,Pocono,Pocono Raceway,2.5,paved track,24.0,26.0,40.0,Dean Thompson,Worldwide Express (Al Niece),Chevrolet,60.0,running,0.0,13.0,0.0
+2022,16,Pocono,Pocono Raceway,2.5,paved track,25.0,33.0,30.0,Kaden Honeycutt,Friends of Jaclyn (Steven Lane),Toyota,60.0,running,0.0,12.0,0.0
+2022,16,Pocono,Pocono Raceway,2.5,paved track,26.0,32.0,20.0,Jesse Little,Shriners Childrens (Randy Young),Chevrolet,60.0,running,0.0,13.0,0.0
+2022,16,Pocono,Pocono Raceway,2.5,paved track,27.0,24.0,44.0,Kris Wright,F.N.B. Corporation (Al Niece),Chevrolet,60.0,running,0.0,10.0,0.0
+2022,16,Pocono,Pocono Raceway,2.5,paved track,28.0,20.0,56.0,Timmy Hill,Hill Motorsports (Timmy Hill),Toyota,60.0,running,0.0,9.0,0.0
+2022,16,Pocono,Pocono Raceway,2.5,paved track,29.0,28.0,9.0,Blaine Perkins,Codie Rohrbaugh,Chevrolet,60.0,running,0.0,8.0,0.0
+2022,16,Pocono,Pocono Raceway,2.5,paved track,30.0,35.0,5.0,Tyler Hill,Hill Motorsports (Timmy Hill),Toyota,60.0,running,0.0,7.0,0.0
+2022,16,Pocono,Pocono Raceway,2.5,paved track,31.0,29.0,43.0,Armani Williams,Josh Reaume,Chevrolet,59.0,running,0.0,6.0,0.0
+2022,16,Pocono,Pocono Raceway,2.5,paved track,32.0,21.0,12.0,Spencer Boyd,Record Rack (Randy Young),Chevrolet,59.0,running,0.0,5.0,0.0
+2022,16,Pocono,Pocono Raceway,2.5,paved track,33.0,19.0,1.0,Hailie Deegan,Wastequip (David Gilliland),Ford,57.0,brakes,0.0,4.0,0.0
+2022,16,Pocono,Pocono Raceway,2.5,paved track,34.0,30.0,33.0,Josh Reaume,Josh Reaume,Toyota,55.0,running,0.0,3.0,0.0
+2022,16,Pocono,Pocono Raceway,2.5,paved track,35.0,25.0,24.0,Jack Wood,GMMilitaryDiscount.com (Maury Gallagher),Chevrolet,18.0,crash,0.0,2.0,0.0
+2022,16,Pocono,Pocono Raceway,2.5,paved track,36.0,34.0,62.0,Todd Bodine,Camping World (Chris Larsen),Toyota,12.0,crash,0.0,1.0,0.0
+2022,17,IRP,Lucas Oil Indianapolis Raceway Park,0.686,paved track,1.0,5.0,23.0,Grant Enfinger,Champion Power Equipment (Maury Gallagher),Chevrolet,207.0,running,13.0,55.0,5.0
+2022,17,IRP,Lucas Oil Indianapolis Raceway Park,0.686,paved track,2.0,9.0,99.0,Ben Rhodes,Dan O's Seasoning (Duke Thorson),Toyota,207.0,running,0.0,48.0,0.0
+2022,17,IRP,Lucas Oil Indianapolis Raceway Park,0.686,paved track,3.0,21.0,38.0,Zane Smith,Boot Barn (Bob Jenkins),Ford,207.0,running,0.0,42.0,0.0
+2022,17,IRP,Lucas Oil Indianapolis Raceway Park,0.686,paved track,4.0,8.0,52.0,Stewart Friesen,Halmar International (Chris Larsen),Toyota,207.0,running,0.0,44.0,0.0
+2022,17,IRP,Lucas Oil Indianapolis Raceway Park,0.686,paved track,5.0,4.0,51.0,Corey Heim,Crescent Tools (Kyle Busch),Toyota,207.0,running,0.0,41.0,0.0
+2022,17,IRP,Lucas Oil Indianapolis Raceway Park,0.686,paved track,6.0,11.0,16.0,Tyler Ankrum,LiUNA! (Shigeaki Hattori),Toyota,207.0,running,0.0,33.0,0.0
+2022,17,IRP,Lucas Oil Indianapolis Raceway Park,0.686,paved track,7.0,23.0,62.0,Layne Riggs,PurYear Tank Lines (Chris Larsen),Toyota,207.0,running,0.0,30.0,0.0
+2022,17,IRP,Lucas Oil Indianapolis Raceway Park,0.686,paved track,8.0,6.0,66.0,Ty Majeski,Road Ranger (Duke Thorson),Toyota,207.0,running,71.0,42.0,1.0
+2022,17,IRP,Lucas Oil Indianapolis Raceway Park,0.686,paved track,9.0,16.0,88.0,Matt Crafton,Denali Aire/ Menards (Duke Thorson),Toyota,207.0,running,0.0,28.0,0.0
+2022,17,IRP,Lucas Oil Indianapolis Raceway Park,0.686,paved track,10.0,1.0,4.0,John H. Nemechek,Yahoo! (Kyle Busch),Toyota,207.0,running,75.0,37.0,1.0
+2022,17,IRP,Lucas Oil Indianapolis Raceway Park,0.686,paved track,11.0,18.0,25.0,Matt DiBenedetto,Rackley Roofing (Rackley W.A.R.),Chevrolet,207.0,running,0.0,26.0,0.0
+2022,17,IRP,Lucas Oil Indianapolis Raceway Park,0.686,paved track,12.0,15.0,13.0,Johnny Sauter,CMR Construction & Roofing (Duke Thorson),Toyota,207.0,running,0.0,25.0,0.0
+2022,17,IRP,Lucas Oil Indianapolis Raceway Park,0.686,paved track,13.0,17.0,1.0,Hailie Deegan,Wastequip (David Gilliland),Ford,207.0,running,0.0,24.0,0.0
+2022,17,IRP,Lucas Oil Indianapolis Raceway Park,0.686,paved track,14.0,10.0,19.0,Derek Kraus,Adaptive One Caliper (Bill McAnally),Chevrolet,207.0,running,0.0,23.0,0.0
+2022,17,IRP,Lucas Oil Indianapolis Raceway Park,0.686,paved track,15.0,36.0,20.0,Jesse Little,Shriners Childrens (Randy Young),Chevrolet,207.0,running,0.0,22.0,0.0
+2022,17,IRP,Lucas Oil Indianapolis Raceway Park,0.686,paved track,16.0,3.0,98.0,Christian Eckes,TSPORT/Curb Records (Mike Curb),Toyota,207.0,running,0.0,22.0,0.0
+2022,17,IRP,Lucas Oil Indianapolis Raceway Park,0.686,paved track,17.0,31.0,56.0,Timmy Hill,Hill Motorsports (Timmy Hill),Toyota,207.0,running,0.0,20.0,0.0
+2022,17,IRP,Lucas Oil Indianapolis Raceway Park,0.686,paved track,18.0,2.0,18.0,Chandler Smith,Safelite AutoGlass (Kyle Busch),Toyota,207.0,running,13.0,31.0,0.0
+2022,17,IRP,Lucas Oil Indianapolis Raceway Park,0.686,paved track,19.0,20.0,22.0,Austin Wayne Self,AM Technical Solutions (Tim Self),Chevrolet,207.0,running,0.0,18.0,0.0
+2022,17,IRP,Lucas Oil Indianapolis Raceway Park,0.686,paved track,20.0,27.0,2.0,Kaz Grala,Ruedebusch Development (Randy Young),Chevrolet,207.0,running,0.0,17.0,0.0
+2022,17,IRP,Lucas Oil Indianapolis Raceway Park,0.686,paved track,21.0,7.0,42.0,Carson Hocevar,Premier Security Solutions (Al Niece),Chevrolet,207.0,running,34.0,31.0,0.0
+2022,17,IRP,Lucas Oil Indianapolis Raceway Park,0.686,paved track,22.0,13.0,17.0,Taylor Gray,Ford Performance (David Gilliland),Ford,207.0,running,1.0,15.0,0.0
+2022,17,IRP,Lucas Oil Indianapolis Raceway Park,0.686,paved track,23.0,14.0,15.0,Tanner Gray,Lincoln Welders (David Gilliland),Ford,207.0,running,0.0,14.0,0.0
+2022,17,IRP,Lucas Oil Indianapolis Raceway Park,0.686,paved track,24.0,34.0,30.0,Chris Hacker,TJ's Team Foundation (Steven Lane),Toyota,207.0,running,0.0,13.0,0.0
+2022,17,IRP,Lucas Oil Indianapolis Raceway Park,0.686,paved track,25.0,19.0,24.0,Jack Wood,GMMilitaryDiscount.com (Maury Gallagher),Chevrolet,207.0,running,0.0,12.0,0.0
+2022,17,IRP,Lucas Oil Indianapolis Raceway Park,0.686,paved track,26.0,26.0,9.0,Blaine Perkins,Raceline (Codie Rohrbaugh),Chevrolet,207.0,running,0.0,11.0,0.0
+2022,17,IRP,Lucas Oil Indianapolis Raceway Park,0.686,paved track,27.0,33.0,61.0,Chase Purdy,Aisin (Shigeaki Hattori),Toyota,206.0,running,0.0,10.0,0.0
+2022,17,IRP,Lucas Oil Indianapolis Raceway Park,0.686,paved track,28.0,24.0,35.0,Jake Garcia,Quanta Services (Bill McAnally),Chevrolet,206.0,running,0.0,9.0,0.0
+2022,17,IRP,Lucas Oil Indianapolis Raceway Park,0.686,paved track,29.0,25.0,40.0,Dean Thompson,Worldwide Express (Al Niece),Chevrolet,204.0,running,0.0,8.0,0.0
+2022,17,IRP,Lucas Oil Indianapolis Raceway Park,0.686,paved track,30.0,30.0,41.0,Chad Chastain,AGvantageConsulting.com (Al Niece),Chevrolet,204.0,running,0.0,7.0,0.0
+2022,17,IRP,Lucas Oil Indianapolis Raceway Park,0.686,paved track,31.0,28.0,44.0,Kris Wright,iHeart Radio (Al Niece),Chevrolet,204.0,running,0.0,6.0,0.0
+2022,17,IRP,Lucas Oil Indianapolis Raceway Park,0.686,paved track,32.0,12.0,91.0,Colby Howard,Gates Hydraulics (Bill McAnally),Chevrolet,190.0,crash,0.0,6.0,0.0
+2022,17,IRP,Lucas Oil Indianapolis Raceway Park,0.686,paved track,33.0,35.0,33.0,Josh Reaume,Motorsports Safety Group (Josh Reaume),Toyota,153.0,too slow,0.0,4.0,0.0
+2022,17,IRP,Lucas Oil Indianapolis Raceway Park,0.686,paved track,34.0,22.0,45.0,Lawless Alan,AUTOChargit (Al Niece),Chevrolet,147.0,crash,0.0,3.0,0.0
+2022,17,IRP,Lucas Oil Indianapolis Raceway Park,0.686,paved track,35.0,32.0,43.0,Blake Lothian,The Texas Lawbook (Josh Reaume),Chevrolet,72.0,driveshaft,0.0,2.0,0.0
+2022,17,IRP,Lucas Oil Indianapolis Raceway Park,0.686,paved track,36.0,29.0,12.0,Spencer Boyd,Derm Dude (Randy Young),Chevrolet,9.0,crash,0.0,1.0,0.0
+2022,18,Richmond,Richmond Raceway,0.75,paved track,1.0,2.0,18.0,Chandler Smith,Charge Me (Kyle Busch),Toyota,250.0,running,176.0,58.0,6.0
+2022,18,Richmond,Richmond Raceway,0.75,paved track,2.0,7.0,4.0,John H. Nemechek,Safeway (Kyle Busch),Toyota,250.0,running,1.0,53.0,0.0
+2022,18,Richmond,Richmond Raceway,0.75,paved track,3.0,1.0,66.0,Ty Majeski,Duke Thorson,Toyota,250.0,running,73.0,51.0,1.0
+2022,18,Richmond,Richmond Raceway,0.75,paved track,4.0,5.0,23.0,Grant Enfinger,Suredone (Maury Gallagher),Chevrolet,250.0,running,0.0,47.0,0.0
+2022,18,Richmond,Richmond Raceway,0.75,paved track,5.0,16.0,51.0,Corey Heim,JBL (Kyle Busch),Toyota,250.0,running,0.0,38.0,0.0
+2022,18,Richmond,Richmond Raceway,0.75,paved track,6.0,24.0,17.0,Taylor Gray,Ford Performance (David Gilliland),Ford,250.0,running,0.0,37.0,0.0
+2022,18,Richmond,Richmond Raceway,0.75,paved track,7.0,15.0,88.0,Matt Crafton,Ideal Door/Menards (Duke Thorson),Toyota,250.0,running,0.0,37.0,0.0
+2022,18,Richmond,Richmond Raceway,0.75,paved track,8.0,9.0,98.0,Christian Eckes,CMR Construction & Roofing (Mike Curb),Toyota,250.0,running,0.0,31.0,0.0
+2022,18,Richmond,Richmond Raceway,0.75,paved track,9.0,6.0,38.0,Zane Smith,Fr8Auctions.com (Bob Jenkins),Ford,250.0,running,0.0,30.0,0.0
+2022,18,Richmond,Richmond Raceway,0.75,paved track,10.0,12.0,42.0,Carson Hocevar,Worldwide Express (Al Niece),Chevrolet,250.0,running,0.0,27.0,0.0
+2022,18,Richmond,Richmond Raceway,0.75,paved track,11.0,3.0,52.0,Stewart Friesen,Halmar International (Chris Larsen),Toyota,250.0,running,0.0,37.0,0.0
+2022,18,Richmond,Richmond Raceway,0.75,paved track,12.0,18.0,19.0,Derek Kraus,NAPA AUTOCARE (Bill McAnally),Chevrolet,250.0,running,0.0,25.0,0.0
+2022,18,Richmond,Richmond Raceway,0.75,paved track,13.0,11.0,16.0,Tyler Ankrum,LiUNA! (Shigeaki Hattori),Toyota,250.0,running,0.0,30.0,0.0
+2022,18,Richmond,Richmond Raceway,0.75,paved track,14.0,8.0,61.0,Chase Purdy,Aisin (Shigeaki Hattori),Toyota,250.0,running,0.0,23.0,0.0
+2022,18,Richmond,Richmond Raceway,0.75,paved track,15.0,31.0,32.0,Bret Holmes,Golden Eagle Syrup (Stacy Holmes),Chevrolet,249.0,running,0.0,22.0,0.0
+2022,18,Richmond,Richmond Raceway,0.75,paved track,16.0,19.0,15.0,Tanner Gray,Black's Tire (David Gilliland),Ford,248.0,running,0.0,21.0,0.0
+2022,18,Richmond,Richmond Raceway,0.75,paved track,17.0,10.0,25.0,Matt DiBenedetto,Rackley Roofing (Rackley W.A.R.),Chevrolet,248.0,running,0.0,20.0,0.0
+2022,18,Richmond,Richmond Raceway,0.75,paved track,18.0,14.0,99.0,Ben Rhodes,Tenda (Duke Thorson),Toyota,248.0,running,0.0,19.0,0.0
+2022,18,Richmond,Richmond Raceway,0.75,paved track,19.0,4.0,62.0,Layne Riggs,PurYear Tank Lines (Chris Larsen),Toyota,248.0,running,0.0,21.0,0.0
+2022,18,Richmond,Richmond Raceway,0.75,paved track,20.0,17.0,35.0,Jake Garcia,Quanta Services (Bill McAnally),Chevrolet,248.0,running,0.0,17.0,0.0
+2022,18,Richmond,Richmond Raceway,0.75,paved track,21.0,21.0,30.0,Kaden Honeycutt,Friends of Jaclyn (Steven Lane),Toyota,247.0,running,0.0,16.0,0.0
+2022,18,Richmond,Richmond Raceway,0.75,paved track,22.0,26.0,2.0,Kaz Grala,RandCo (Randy Young),Chevrolet,247.0,running,0.0,15.0,0.0
+2022,18,Richmond,Richmond Raceway,0.75,paved track,23.0,25.0,24.0,Jack Wood,chevyliners.com (Maury Gallagher),Chevrolet,247.0,running,0.0,14.0,0.0
+2022,18,Richmond,Richmond Raceway,0.75,paved track,24.0,27.0,45.0,Lawless Alan,AUTOChargit (Al Niece),Chevrolet,247.0,running,0.0,13.0,0.0
+2022,18,Richmond,Richmond Raceway,0.75,paved track,25.0,28.0,7.0,Rajah Caruth,Circle (Spire Motorsports),Chevrolet,247.0,running,0.0,12.0,0.0
+2022,18,Richmond,Richmond Raceway,0.75,paved track,26.0,20.0,1.0,Hailie Deegan,Pristine Auction (David Gilliland),Ford,247.0,running,0.0,11.0,0.0
+2022,18,Richmond,Richmond Raceway,0.75,paved track,27.0,13.0,22.0,Austin Wayne Self,AM Technical Solutions (Tim Self),Chevrolet,247.0,running,0.0,10.0,0.0
+2022,18,Richmond,Richmond Raceway,0.75,paved track,28.0,22.0,91.0,Colby Howard,Gates Hydraulics (Bill McAnally),Chevrolet,246.0,running,0.0,9.0,0.0
+2022,18,Richmond,Richmond Raceway,0.75,paved track,29.0,30.0,20.0,Joey Gase,Donate Life (Randy Young),Chevrolet,246.0,running,0.0,0.0,0.0
+2022,18,Richmond,Richmond Raceway,0.75,paved track,30.0,33.0,44.0,Chad Chastain,JDI Farms (Al Niece),Chevrolet,246.0,running,0.0,7.0,0.0
+2022,18,Richmond,Richmond Raceway,0.75,paved track,31.0,36.0,56.0,Timmy Hill,UNITS Storage (Timmy Hill),Toyota,245.0,running,0.0,6.0,0.0
+2022,18,Richmond,Richmond Raceway,0.75,paved track,32.0,32.0,12.0,Spencer Boyd,WMLDemo.com (Randy Young),Chevrolet,244.0,running,0.0,5.0,0.0
+2022,18,Richmond,Richmond Raceway,0.75,paved track,33.0,35.0,43.0,Mason Maggio,Josh Reaume,Toyota,242.0,running,0.0,4.0,0.0
+2022,18,Richmond,Richmond Raceway,0.75,paved track,34.0,23.0,9.0,Blaine Perkins,Raceline (Codie Rohrbaugh),Chevrolet,224.0,running,0.0,3.0,0.0
+2022,18,Richmond,Richmond Raceway,0.75,paved track,35.0,29.0,40.0,Dean Thompson,Worldwide Express (Al Niece),Chevrolet,223.0,running,0.0,2.0,0.0
+2022,18,Richmond,Richmond Raceway,0.75,paved track,36.0,34.0,33.0,Nick Leitz,Impact Logistics (Josh Reaume),Chevrolet,209.0,crash,0.0,1.0,0.0
+2022,19,Kansas,Kansas Speedway,1.5,paved track,1.0,1.0,4.0,John H. Nemechek,Mobil 1 (Kyle Busch),Toyota,134.0,running,88.0,60.0,7.0
+2022,19,Kansas,Kansas Speedway,1.5,paved track,2.0,15.0,42.0,Carson Hocevar,Worldwide Express (Al Niece),Chevrolet,134.0,running,28.0,36.0,0.0
+2022,19,Kansas,Kansas Speedway,1.5,paved track,3.0,7.0,17.0,Ryan Preece,Morton Buildings (David Gilliland),Ford,134.0,running,0.0,47.0,0.0
+2022,19,Kansas,Kansas Speedway,1.5,paved track,4.0,9.0,38.0,Zane Smith,Hamsters USA (Bob Jenkins),Ford,134.0,running,2.0,48.0,0.0
+2022,19,Kansas,Kansas Speedway,1.5,paved track,5.0,12.0,23.0,Grant Enfinger,Allegiant.com (Maury Gallagher),Chevrolet,134.0,running,1.0,32.0,0.0
+2022,19,Kansas,Kansas Speedway,1.5,paved track,6.0,5.0,18.0,Chandler Smith,Safelite AutoGlass (Kyle Busch),Toyota,134.0,running,0.0,34.0,0.0
+2022,19,Kansas,Kansas Speedway,1.5,paved track,7.0,3.0,51.0,Corey Heim,JBL (Kyle Busch),Toyota,134.0,running,0.0,43.0,0.0
+2022,19,Kansas,Kansas Speedway,1.5,paved track,8.0,2.0,66.0,Ty Majeski,Road Ranger (Duke Thorson),Toyota,134.0,running,14.0,43.0,0.0
+2022,19,Kansas,Kansas Speedway,1.5,paved track,9.0,18.0,91.0,Colby Howard,Gates Hydraulics (Bill McAnally),Chevrolet,134.0,running,0.0,28.0,0.0
+2022,19,Kansas,Kansas Speedway,1.5,paved track,10.0,4.0,98.0,Christian Eckes,CMR Construction & Roofing (Mike Curb),Toyota,134.0,running,1.0,42.0,0.0
+2022,19,Kansas,Kansas Speedway,1.5,paved track,11.0,24.0,75.0,Parker Kligerman,Food Country USA (Charlie Henderson),Toyota,134.0,running,0.0,26.0,0.0
+2022,19,Kansas,Kansas Speedway,1.5,paved track,12.0,14.0,25.0,Matt DiBenedetto,Rackley Roofing (Rackley W.A.R.),Chevrolet,134.0,running,0.0,25.0,0.0
+2022,19,Kansas,Kansas Speedway,1.5,paved track,13.0,6.0,99.0,Ben Rhodes,Kubota (Duke Thorson),Toyota,134.0,running,0.0,24.0,0.0
+2022,19,Kansas,Kansas Speedway,1.5,paved track,14.0,19.0,16.0,Tyler Ankrum,LiUNA! (Shigeaki Hattori),Toyota,134.0,running,0.0,27.0,0.0
+2022,19,Kansas,Kansas Speedway,1.5,paved track,15.0,8.0,88.0,Matt Crafton,Flex Seal.Menards (Duke Thorson),Toyota,133.0,running,0.0,26.0,0.0
+2022,19,Kansas,Kansas Speedway,1.5,paved track,16.0,10.0,15.0,Tanner Gray,Ford Performance (David Gilliland),Ford,133.0,running,0.0,22.0,0.0
+2022,19,Kansas,Kansas Speedway,1.5,paved track,17.0,26.0,32.0,Bret Holmes,Golden Eagle/Bridger Aerospace (Stacy Holmes),Chevrolet,133.0,running,0.0,20.0,0.0
+2022,19,Kansas,Kansas Speedway,1.5,paved track,18.0,30.0,2.0,Kaz Grala,Buchanan Hauling & Rigging (Randy Young),Chevrolet,133.0,running,0.0,19.0,0.0
+2022,19,Kansas,Kansas Speedway,1.5,paved track,19.0,25.0,56.0,Timmy Hill,Hill Motorsports (Timmy Hill),Toyota,133.0,running,0.0,18.0,0.0
+2022,19,Kansas,Kansas Speedway,1.5,paved track,20.0,11.0,52.0,Stewart Friesen,Halmar International (Chris Larsen),Toyota,133.0,running,0.0,17.0,0.0
+2022,19,Kansas,Kansas Speedway,1.5,paved track,21.0,13.0,19.0,Derek Kraus,KAFKA GRANITE (Bill McAnally),Chevrolet,133.0,running,0.0,23.0,0.0
+2022,19,Kansas,Kansas Speedway,1.5,paved track,22.0,17.0,1.0,Hailie Deegan,Odyssey Battery (David Gilliland),Ford,133.0,running,0.0,15.0,0.0
+2022,19,Kansas,Kansas Speedway,1.5,paved track,23.0,23.0,40.0,Dean Thompson,Worldwide Express (Al Niece),Chevrolet,133.0,running,0.0,14.0,0.0
+2022,19,Kansas,Kansas Speedway,1.5,paved track,24.0,21.0,30.0,Kaden Honeycutt,Friends of Jaclyn (Steven Lane),Toyota,133.0,running,0.0,13.0,0.0
+2022,19,Kansas,Kansas Speedway,1.5,paved track,25.0,22.0,61.0,Chase Purdy,Bama Buggies (Shigeaki Hattori),Toyota,132.0,running,0.0,12.0,0.0
+2022,19,Kansas,Kansas Speedway,1.5,paved track,26.0,27.0,24.0,Jack Wood,Sevwins (Maury Gallagher),Chevrolet,132.0,running,0.0,11.0,0.0
+2022,19,Kansas,Kansas Speedway,1.5,paved track,27.0,16.0,44.0,Bayley Currey,Niece (Al Niece),Chevrolet,132.0,running,0.0,0.0,0.0
+2022,19,Kansas,Kansas Speedway,1.5,paved track,28.0,33.0,20.0,Jesse Little,NCS Wash / RANDCO (Randy Young),Chevrolet,132.0,running,0.0,9.0,0.0
+2022,19,Kansas,Kansas Speedway,1.5,paved track,29.0,32.0,5.0,Tyler Hill,Hill Motorsports (Timmy Hill),Toyota,130.0,running,0.0,8.0,0.0
+2022,19,Kansas,Kansas Speedway,1.5,paved track,30.0,29.0,9.0,Blaine Perkins,Raceline (Codie Rohrbaugh),Chevrolet,130.0,running,0.0,7.0,0.0
+2022,19,Kansas,Kansas Speedway,1.5,paved track,31.0,28.0,45.0,Lawless Alan,AUTOParkIt (Al Niece),Chevrolet,130.0,running,0.0,6.0,0.0
+2022,19,Kansas,Kansas Speedway,1.5,paved track,32.0,36.0,33.0,Mason Maggio,Professional Ag Services (Josh Reaume),Toyota,126.0,running,0.0,5.0,0.0
+2022,19,Kansas,Kansas Speedway,1.5,paved track,33.0,34.0,12.0,Spencer Boyd,Probuilt Pool & Patio (Randy Young),Chevrolet,124.0,running,0.0,4.0,0.0
+2022,19,Kansas,Kansas Speedway,1.5,paved track,34.0,31.0,46.0,Brennan Poole,Macc Door Systems (G2G Racing),Toyota,123.0,running,0.0,3.0,0.0
+2022,19,Kansas,Kansas Speedway,1.5,paved track,35.0,35.0,43.0,Armani Williams,Hedgehog Health (Josh Reaume),Chevrolet,86.0,too slow,0.0,2.0,0.0
+2022,19,Kansas,Kansas Speedway,1.5,paved track,36.0,20.0,22.0,Brett Moffitt,Concrete SupplyDestiny Homes (Tim Self),Chevrolet,73.0,engine,0.0,0.0,0.0
+2022,20,Bristol,Bristol Motor Speedway,0.533,paved track,1.0,6.0,66.0,Ty Majeski,Road Ranger (Duke Thorson),Toyota,200.0,running,45.0,45.0,5.0
+2022,20,Bristol,Bristol Motor Speedway,0.533,paved track,2.0,35.0,38.0,Zane Smith,Speedco / Luber Finer (Bob Jenkins),Ford,200.0,running,39.0,36.0,0.0
+2022,20,Bristol,Bristol Motor Speedway,0.533,paved track,3.0,28.0,75.0,Parker Kligerman,Luckâ€™s Beans/Food Country USA (Charlie Henderson),Toyota,200.0,running,0.0,34.0,0.0
+2022,20,Bristol,Bristol Motor Speedway,0.533,paved track,4.0,4.0,23.0,Grant Enfinger,Champion Power Equipment (Maury Gallagher),Chevrolet,200.0,running,0.0,39.0,0.0
+2022,20,Bristol,Bristol Motor Speedway,0.533,paved track,5.0,16.0,88.0,Matt Crafton,Black Label Bacon/Menards (Duke Thorson),Toyota,200.0,running,0.0,33.0,0.0
+2022,20,Bristol,Bristol Motor Speedway,0.533,paved track,6.0,1.0,19.0,Derek Kraus,Incredible Bank (Bill McAnally),Chevrolet,200.0,running,27.0,39.0,0.0
+2022,20,Bristol,Bristol Motor Speedway,0.533,paved track,7.0,3.0,52.0,Stewart Friesen,Halmar International (Chris Larsen),Toyota,200.0,running,0.0,48.0,0.0
+2022,20,Bristol,Bristol Motor Speedway,0.533,paved track,8.0,7.0,98.0,Christian Eckes,CMR Construction & Roofing (Mike Curb),Toyota,200.0,running,0.0,41.0,0.0
+2022,20,Bristol,Bristol Motor Speedway,0.533,paved track,9.0,2.0,18.0,Chandler Smith,Safelite AutoGlass (Kyle Busch),Toyota,200.0,running,89.0,48.0,2.0
+2022,20,Bristol,Bristol Motor Speedway,0.533,paved track,10.0,5.0,51.0,Corey Heim,Crescent Tools (Kyle Busch),Toyota,200.0,running,0.0,30.0,0.0
+2022,20,Bristol,Bristol Motor Speedway,0.533,paved track,11.0,12.0,16.0,Tyler Ankrum,LiUNA! (Shigeaki Hattori),Toyota,200.0,running,0.0,26.0,0.0
+2022,20,Bristol,Bristol Motor Speedway,0.533,paved track,12.0,36.0,4.0,John H. Nemechek,Pye-Barker Fire & Safety (Kyle Busch),Toyota,200.0,running,0.0,28.0,0.0
+2022,20,Bristol,Bristol Motor Speedway,0.533,paved track,13.0,27.0,30.0,Kaden Honeycutt,Rangeline Group (Steven Lane),Toyota,200.0,running,0.0,26.0,0.0
+2022,20,Bristol,Bristol Motor Speedway,0.533,paved track,14.0,18.0,1.0,Hailie Deegan,Monster Energy (David Gilliland),Ford,200.0,running,0.0,23.0,0.0
+2022,20,Bristol,Bristol Motor Speedway,0.533,paved track,15.0,8.0,44.0,Bayley Currey,Niece (Al Niece),Chevrolet,200.0,running,0.0,0.0,0.0
+2022,20,Bristol,Bristol Motor Speedway,0.533,paved track,16.0,17.0,17.0,Taylor Gray,Dead On Tools (David Gilliland),Ford,200.0,running,0.0,27.0,0.0
+2022,20,Bristol,Bristol Motor Speedway,0.533,paved track,17.0,26.0,15.0,Tanner Gray,Ford Performance (David Gilliland),Ford,200.0,running,0.0,24.0,0.0
+2022,20,Bristol,Bristol Motor Speedway,0.533,paved track,18.0,11.0,99.0,Ben Rhodes,Ohio Logistics (Duke Thorson),Toyota,200.0,running,0.0,26.0,0.0
+2022,20,Bristol,Bristol Motor Speedway,0.533,paved track,19.0,10.0,42.0,Carson Hocevar,Worldwide Express (Al Niece),Chevrolet,200.0,running,0.0,18.0,0.0
+2022,20,Bristol,Bristol Motor Speedway,0.533,paved track,20.0,32.0,22.0,Austin Wayne Self,AM Technical Solutions (Tim Self),Chevrolet,200.0,running,0.0,17.0,0.0
+2022,20,Bristol,Bristol Motor Speedway,0.533,paved track,21.0,20.0,24.0,Jack Wood,chevyliners.com (Maury Gallagher),Chevrolet,200.0,running,0.0,16.0,0.0
+2022,20,Bristol,Bristol Motor Speedway,0.533,paved track,22.0,15.0,35.0,Jake Garcia,Quanta Services (Bill McAnally),Chevrolet,200.0,running,0.0,15.0,0.0
+2022,20,Bristol,Bristol Motor Speedway,0.533,paved track,23.0,23.0,45.0,Lawless Alan,AUTODockit (Al Niece),Chevrolet,200.0,running,0.0,14.0,0.0
+2022,20,Bristol,Bristol Motor Speedway,0.533,paved track,24.0,19.0,91.0,Colby Howard,Gates Hydraulics (Bill McAnally),Chevrolet,200.0,running,0.0,13.0,0.0
+2022,20,Bristol,Bristol Motor Speedway,0.533,paved track,25.0,25.0,2.0,Jesse Little,David's Electric (Randy Young),Chevrolet,200.0,running,0.0,12.0,0.0
+2022,20,Bristol,Bristol Motor Speedway,0.533,paved track,26.0,29.0,56.0,Timmy Hill,Southern Freight Services (Timmy Hill),Toyota,200.0,running,0.0,11.0,0.0
+2022,20,Bristol,Bristol Motor Speedway,0.533,paved track,27.0,9.0,25.0,Matt DiBenedetto,Rackley Roofing/WAR Shocks (Rackley W.A.R.),Chevrolet,199.0,running,0.0,17.0,0.0
+2022,20,Bristol,Bristol Motor Speedway,0.533,paved track,28.0,22.0,9.0,Blaine Perkins,Raceline (Codie Rohrbaugh),Chevrolet,197.0,running,0.0,9.0,0.0
+2022,20,Bristol,Bristol Motor Speedway,0.533,paved track,29.0,31.0,20.0,Leland Honeyman,LH Waterfront Construction (Randy Young),Chevrolet,195.0,running,0.0,8.0,0.0
+2022,20,Bristol,Bristol Motor Speedway,0.533,paved track,30.0,24.0,61.0,Chase Purdy,Gunma Toyopet (Shigeaki Hattori),Toyota,193.0,running,0.0,12.0,0.0
+2022,20,Bristol,Bristol Motor Speedway,0.533,paved track,31.0,21.0,32.0,Connor Mosack,Nic Tailor (Stacy Holmes),Chevrolet,192.0,running,0.0,6.0,0.0
+2022,20,Bristol,Bristol Motor Speedway,0.533,paved track,32.0,13.0,40.0,Dean Thompson,Worldwide Express (Al Niece),Chevrolet,178.0,crash,0.0,5.0,0.0
+2022,20,Bristol,Bristol Motor Speedway,0.533,paved track,33.0,30.0,33.0,Chris Hacker,Prima (Josh Reaume),Chevrolet,165.0,suspension,0.0,4.0,0.0
+2022,20,Bristol,Bristol Motor Speedway,0.533,paved track,34.0,14.0,7.0,Rajah Caruth,Circle (Spire Motorsports),Chevrolet,44.0,crash,0.0,3.0,0.0
+2022,20,Bristol,Bristol Motor Speedway,0.533,paved track,35.0,34.0,43.0,Josh Reaume,Colonial Countertops (Josh Reaume),Toyota,34.0,crash,0.0,2.0,0.0
+2022,20,Bristol,Bristol Motor Speedway,0.533,paved track,36.0,33.0,12.0,Spencer Boyd,RIMTYME (Randy Young),Chevrolet,25.0,crash,0.0,1.0,0.0
+2022,21,Talladega,Talladega Superspeedway,2.66,paved track,1.0,30.0,25.0,Matt DiBenedetto,Rackley Roofing (Rackley W.A.R.),Chevrolet,95.0,running,1.0,40.0,5.0
+2022,21,Talladega,Talladega Superspeedway,2.66,paved track,2.0,15.0,99.0,Ben Rhodes,Kubota (Duke Thorson),Toyota,95.0,running,2.0,46.0,0.0
+2022,21,Talladega,Talladega Superspeedway,2.66,paved track,3.0,23.0,32.0,Bret Holmes,Golden Eagle Syrup (Stacy Holmes),Chevrolet,95.0,running,6.0,34.0,0.0
+2022,21,Talladega,Talladega Superspeedway,2.66,paved track,4.0,10.0,17.0,Ryan Preece,RaceChoice/Tavern on the Trax (David Gilliland),Ford,95.0,running,0.0,33.0,0.0
+2022,21,Talladega,Talladega Superspeedway,2.66,paved track,5.0,13.0,98.0,Christian Eckes,Farm Paint/ Curb Records (Mike Curb),Toyota,95.0,running,25.0,38.0,0.0
+2022,21,Talladega,Talladega Superspeedway,2.66,paved track,6.0,27.0,1.0,Hailie Deegan,Monster Energy (David Gilliland),Ford,95.0,running,0.0,31.0,0.0
+2022,21,Talladega,Talladega Superspeedway,2.66,paved track,7.0,26.0,61.0,Chase Purdy,Ole Miss (Shigeaki Hattori),Toyota,95.0,running,6.0,30.0,0.0
+2022,21,Talladega,Talladega Superspeedway,2.66,paved track,8.0,7.0,91.0,Colby Howard,Gates Hydraulics (Bill McAnally),Chevrolet,95.0,running,0.0,34.0,0.0
+2022,21,Talladega,Talladega Superspeedway,2.66,paved track,9.0,21.0,75.0,Parker Kligerman,Food Country USA/Tide (Charlie Henderson),Chevrolet,95.0,running,0.0,28.0,0.0
+2022,21,Talladega,Talladega Superspeedway,2.66,paved track,10.0,20.0,16.0,Tyler Ankrum,LiUNA! (Shigeaki Hattori),Toyota,95.0,running,0.0,33.0,0.0
+2022,21,Talladega,Talladega Superspeedway,2.66,paved track,11.0,36.0,30.0,Kaden Honeycutt,Rangeline Group (Steven Lane),Toyota,95.0,running,0.0,26.0,0.0
+2022,21,Talladega,Talladega Superspeedway,2.66,paved track,12.0,25.0,84.0,Clay Greenfield,Backyard Blues Pools (Bruce Cook),Toyota,95.0,running,0.0,25.0,0.0
+2022,21,Talladega,Talladega Superspeedway,2.66,paved track,13.0,8.0,19.0,Derek Kraus,Adaptive One Caliper (Bill McAnally),Chevrolet,95.0,running,3.0,24.0,0.0
+2022,21,Talladega,Talladega Superspeedway,2.66,paved track,14.0,2.0,18.0,Chandler Smith,iBUYPOWER (Kyle Busch),Toyota,95.0,running,17.0,40.0,1.0
+2022,21,Talladega,Talladega Superspeedway,2.66,paved track,15.0,33.0,56.0,Timmy Hill,UNITS Storage (Timmy Hill),Toyota,95.0,running,0.0,22.0,0.0
+2022,21,Talladega,Talladega Superspeedway,2.66,paved track,16.0,29.0,20.0,Parker Retzlaff,FUNKAWAY (Randy Young),Chevrolet,95.0,running,0.0,0.0,0.0
+2022,21,Talladega,Talladega Superspeedway,2.66,paved track,17.0,4.0,38.0,Zane Smith,Love's Travel Stops (Bob Jenkins),Ford,95.0,running,1.0,31.0,0.0
+2022,21,Talladega,Talladega Superspeedway,2.66,paved track,18.0,28.0,2.0,Kaz Grala,RandCo (Randy Young),Chevrolet,95.0,running,0.0,19.0,0.0
+2022,21,Talladega,Talladega Superspeedway,2.66,paved track,19.0,14.0,24.0,Jack Wood,Logitech (Maury Gallagher),Chevrolet,95.0,running,0.0,18.0,0.0
+2022,21,Talladega,Talladega Superspeedway,2.66,paved track,20.0,18.0,52.0,Stewart Friesen,Halmar International (Chris Larsen),Toyota,95.0,running,0.0,25.0,0.0
+2022,21,Talladega,Talladega Superspeedway,2.66,paved track,21.0,32.0,44.0,Bayley Currey,Chasco Contractors (Al Niece),Chevrolet,95.0,running,0.0,0.0,0.0
+2022,21,Talladega,Talladega Superspeedway,2.66,paved track,22.0,5.0,88.0,Matt Crafton,Jack Links/Menards (Duke Thorson),Toyota,95.0,running,1.0,15.0,0.0
+2022,21,Talladega,Talladega Superspeedway,2.66,paved track,23.0,6.0,66.0,Ty Majeski,Tenda/Quarter Horse Congress (Duke Thorson),Toyota,95.0,running,1.0,15.0,0.0
+2022,21,Talladega,Talladega Superspeedway,2.66,paved track,24.0,1.0,4.0,John H. Nemechek,Pye-Barker Fire & Safety (Kyle Busch),Toyota,95.0,running,20.0,32.0,1.0
+2022,21,Talladega,Talladega Superspeedway,2.66,paved track,25.0,19.0,13.0,Johnny Sauter,Ideal Door/Menards (Duke Thorson),Toyota,95.0,running,0.0,12.0,0.0
+2022,21,Talladega,Talladega Superspeedway,2.66,paved track,26.0,12.0,51.0,Corey Heim,JBL (Kyle Busch),Toyota,94.0,crash,0.0,17.0,0.0
+2022,21,Talladega,Talladega Superspeedway,2.66,paved track,27.0,24.0,9.0,Blaine Perkins,Raceline (Codie Rohrbaugh),Chevrolet,94.0,crash,0.0,10.0,0.0
+2022,21,Talladega,Talladega Superspeedway,2.66,paved track,28.0,3.0,42.0,Carson Hocevar,Worldwide Express (Al Niece),Chevrolet,94.0,running,12.0,17.0,0.0
+2022,21,Talladega,Talladega Superspeedway,2.66,paved track,29.0,16.0,23.0,Grant Enfinger,Champion Power Equipment (Maury Gallagher),Chevrolet,94.0,running,0.0,14.0,0.0
+2022,21,Talladega,Talladega Superspeedway,2.66,paved track,30.0,17.0,22.0,Austin Wayne Self,AM Technical Solutions (Tim Self),Chevrolet,78.0,crash,0.0,7.0,0.0
+2022,21,Talladega,Talladega Superspeedway,2.66,paved track,31.0,11.0,15.0,Tanner Gray,Fluid Logic/Factory Canopies (David Gilliland),Ford,78.0,crash,0.0,12.0,0.0
+2022,21,Talladega,Talladega Superspeedway,2.66,paved track,32.0,31.0,10.0,Jennifer Jo Cobb,Fastener Supply Company (Jennifer Jo Cobb),Chevrolet,73.0,clutch,0.0,5.0,0.0
+2022,21,Talladega,Talladega Superspeedway,2.66,paved track,33.0,34.0,45.0,Lawless Alan,AUTOParkIt (Al Niece),Chevrolet,32.0,crash,0.0,4.0,0.0
+2022,21,Talladega,Talladega Superspeedway,2.66,paved track,34.0,35.0,40.0,Dean Thompson,WWEX Racing (Al Niece),Chevrolet,32.0,crash,0.0,3.0,0.0
+2022,21,Talladega,Talladega Superspeedway,2.66,paved track,35.0,22.0,28.0,Bryan Dauzat,FDNY/National Police Association (Jim Rosenblum),Chevrolet,32.0,dvp,0.0,2.0,0.0
+2022,21,Talladega,Talladega Superspeedway,2.66,paved track,36.0,9.0,3.0,Jordan Anderson,Dometic Outdoor (Jordan Anderson),Chevrolet,18.0,crash,0.0,1.0,0.0
+2022,22,Homestead,Homestead-Miami Speedway,1.5,paved track,1.0,18.0,66.0,Ty Majeski,Road Ranger (Duke Thorson),Toyota,134.0,running,67.0,56.0,5.0
+2022,22,Homestead,Homestead-Miami Speedway,1.5,paved track,2.0,6.0,38.0,Zane Smith,Speedco (Bob Jenkins),Ford,134.0,running,26.0,54.0,1.0
+2022,22,Homestead,Homestead-Miami Speedway,1.5,paved track,3.0,9.0,52.0,Stewart Friesen,Halmar International (Chris Larsen),Toyota,134.0,running,0.0,49.0,0.0
+2022,22,Homestead,Homestead-Miami Speedway,1.5,paved track,4.0,1.0,17.0,Ryan Preece,Compustar/RaceChoice (David Gilliland),Ford,134.0,running,2.0,42.0,0.0
+2022,22,Homestead,Homestead-Miami Speedway,1.5,paved track,5.0,19.0,51.0,Corey Heim,Crescent Tools (Kyle Busch),Toyota,134.0,running,0.0,34.0,0.0
+2022,22,Homestead,Homestead-Miami Speedway,1.5,paved track,6.0,2.0,99.0,Ben Rhodes,Kubota (Duke Thorson),Toyota,134.0,running,37.0,47.0,1.0
+2022,22,Homestead,Homestead-Miami Speedway,1.5,paved track,7.0,5.0,98.0,Christian Eckes,CMR Construction & Roofing (Mike Curb),Toyota,134.0,running,0.0,40.0,0.0
+2022,22,Homestead,Homestead-Miami Speedway,1.5,paved track,8.0,20.0,88.0,Matt Crafton,Planters/Menards (Duke Thorson),Toyota,134.0,running,0.0,32.0,0.0
+2022,22,Homestead,Homestead-Miami Speedway,1.5,paved track,9.0,8.0,75.0,Parker Kligerman,Food Country USA (Charlie Henderson),Toyota,134.0,running,0.0,30.0,0.0
+2022,22,Homestead,Homestead-Miami Speedway,1.5,paved track,10.0,4.0,18.0,Chandler Smith,Safelite AutoGlass (Kyle Busch),Toyota,134.0,running,0.0,32.0,0.0
+2022,22,Homestead,Homestead-Miami Speedway,1.5,paved track,11.0,11.0,16.0,Tyler Ankrum,LiUNA! (Shigeaki Hattori),Toyota,133.0,running,0.0,26.0,0.0
+2022,22,Homestead,Homestead-Miami Speedway,1.5,paved track,12.0,22.0,42.0,Carson Hocevar,Worldwide Express (Al Niece),Chevrolet,133.0,running,0.0,25.0,0.0
+2022,22,Homestead,Homestead-Miami Speedway,1.5,paved track,13.0,14.0,91.0,Colby Howard,Gates Hydraulics (Bill McAnally),Chevrolet,133.0,running,0.0,27.0,0.0
+2022,22,Homestead,Homestead-Miami Speedway,1.5,paved track,14.0,23.0,23.0,Grant Enfinger,Champion Power Equipment (Maury Gallagher),Chevrolet,133.0,running,0.0,33.0,0.0
+2022,22,Homestead,Homestead-Miami Speedway,1.5,paved track,15.0,12.0,19.0,Derek Kraus,Shockwave Suspension Seating (Bill McAnally),Chevrolet,133.0,running,0.0,22.0,0.0
+2022,22,Homestead,Homestead-Miami Speedway,1.5,paved track,16.0,10.0,61.0,Chase Purdy,Toyota Tsusho (Shigeaki Hattori),Toyota,133.0,running,0.0,21.0,0.0
+2022,22,Homestead,Homestead-Miami Speedway,1.5,paved track,17.0,7.0,1.0,Hailie Deegan,Wastequip (David Gilliland),Ford,133.0,running,0.0,20.0,0.0
+2022,22,Homestead,Homestead-Miami Speedway,1.5,paved track,18.0,16.0,2.0,Kaz Grala,LDIShips.com (Randy Young),Chevrolet,133.0,running,0.0,19.0,0.0
+2022,22,Homestead,Homestead-Miami Speedway,1.5,paved track,19.0,3.0,25.0,Matt DiBenedetto,Rackley Roofing/WAR Shocks (Rackley W.A.R.),Chevrolet,133.0,running,0.0,18.0,0.0
+2022,22,Homestead,Homestead-Miami Speedway,1.5,paved track,20.0,21.0,56.0,Timmy Hill,HairClub/Capillus (Timmy Hill),Toyota,133.0,running,2.0,17.0,0.0
+2022,22,Homestead,Homestead-Miami Speedway,1.5,paved track,21.0,31.0,22.0,Max Gutierrez,AM Technical Solutions (Tim Self),Chevrolet,133.0,running,0.0,16.0,0.0
+2022,22,Homestead,Homestead-Miami Speedway,1.5,paved track,22.0,26.0,9.0,Blaine Perkins,Raceline (Codie Rohrbaugh),Chevrolet,132.0,running,0.0,15.0,0.0
+2022,22,Homestead,Homestead-Miami Speedway,1.5,paved track,23.0,27.0,40.0,Dean Thompson,Worldwide Express (Al Niece),Chevrolet,132.0,running,0.0,14.0,0.0
+2022,22,Homestead,Homestead-Miami Speedway,1.5,paved track,24.0,35.0,46.0,Brennan Poole,Fanttik (G2G Racing),Toyota,132.0,running,0.0,13.0,0.0
+2022,22,Homestead,Homestead-Miami Speedway,1.5,paved track,25.0,25.0,15.0,Tanner Gray,Place of Hope (David Gilliland),Ford,132.0,running,0.0,12.0,0.0
+2022,22,Homestead,Homestead-Miami Speedway,1.5,paved track,26.0,29.0,20.0,Stefan Parsons,Randco Industries (Randy Young),Chevrolet,132.0,running,0.0,11.0,0.0
+2022,22,Homestead,Homestead-Miami Speedway,1.5,paved track,27.0,15.0,30.0,Kaden Honeycutt,Rangeline Group (Steven Lane),Toyota,132.0,running,0.0,10.0,0.0
+2022,22,Homestead,Homestead-Miami Speedway,1.5,paved track,28.0,33.0,33.0,Nick Leitz,Geese (Josh Reaume),Chevrolet,131.0,running,0.0,9.0,0.0
+2022,22,Homestead,Homestead-Miami Speedway,1.5,paved track,29.0,36.0,5.0,Tyler Hill,Hill Motorsports (Timmy Hill),Toyota,131.0,running,0.0,8.0,0.0
+2022,22,Homestead,Homestead-Miami Speedway,1.5,paved track,30.0,30.0,44.0,Chad Chastain,Custom Cooling & Heating Inc. (Al Niece),Chevrolet,131.0,running,0.0,7.0,0.0
+2022,22,Homestead,Homestead-Miami Speedway,1.5,paved track,31.0,24.0,24.0,Jack Wood,Logitech (Maury Gallagher),Chevrolet,130.0,running,0.0,6.0,0.0
+2022,22,Homestead,Homestead-Miami Speedway,1.5,paved track,32.0,34.0,43.0,Mason Maggio,Pirate's Cove Resort & Marina (Josh Reaume),Toyota,129.0,running,0.0,5.0,0.0
+2022,22,Homestead,Homestead-Miami Speedway,1.5,paved track,33.0,17.0,32.0,Bret Holmes,Golden Eagle/Bridger Aerospace (Stacy Holmes),Chevrolet,129.0,running,0.0,4.0,0.0
+2022,22,Homestead,Homestead-Miami Speedway,1.5,paved track,34.0,28.0,45.0,Lawless Alan,AUTOChargit (Al Niece),Chevrolet,129.0,running,0.0,3.0,0.0
+2022,22,Homestead,Homestead-Miami Speedway,1.5,paved track,35.0,13.0,4.0,John H. Nemechek,Gearwrench (Kyle Busch),Toyota,128.0,running,0.0,2.0,0.0
+2022,22,Homestead,Homestead-Miami Speedway,1.5,paved track,36.0,32.0,12.0,Spencer Boyd,Hairclub (Randy Young),Chevrolet,124.0,brakes,0.0,1.0,0.0
+2022,23,Phoenix,Phoenix Raceway,1.0,paved track,1.0,1.0,38.0,Zane Smith,Michael Roberts Construction (Bob Jenkins),Ford,154.0,running,77.0,40.0,7.0
+2022,23,Phoenix,Phoenix Raceway,1.0,paved track,2.0,6.0,99.0,Ben Rhodes,Kubota (Duke Thorson),Toyota,154.0,running,8.0,35.0,0.0
+2022,23,Phoenix,Phoenix Raceway,1.0,paved track,3.0,12.0,18.0,Chandler Smith,Safelite AutoGlass (Kyle Busch),Toyota,154.0,running,9.0,34.0,0.0
+2022,23,Phoenix,Phoenix Raceway,1.0,paved track,4.0,10.0,4.0,John H. Nemechek,Pye-Barker Fire & Safety (Kyle Busch),Toyota,154.0,running,44.0,49.0,0.0
+2022,23,Phoenix,Phoenix Raceway,1.0,paved track,5.0,5.0,52.0,Stewart Friesen,Halmar International (Chris Larsen),Toyota,154.0,running,6.0,43.0,0.0
+2022,23,Phoenix,Phoenix Raceway,1.0,paved track,6.0,13.0,23.0,Grant Enfinger,Champion Power Equipment (Maury Gallagher),Chevrolet,154.0,running,0.0,39.0,0.0
+2022,23,Phoenix,Phoenix Raceway,1.0,paved track,7.0,3.0,51.0,Corey Heim,Crescent Tools (Kyle Busch),Toyota,154.0,running,5.0,46.0,0.0
+2022,23,Phoenix,Phoenix Raceway,1.0,paved track,8.0,4.0,15.0,Tanner Gray,Ford Performance (David Gilliland),Ford,154.0,running,0.0,29.0,0.0
+2022,23,Phoenix,Phoenix Raceway,1.0,paved track,9.0,15.0,30.0,Kaden Honeycutt,Race Face Digital (Steven Lane),Toyota,154.0,running,0.0,28.0,0.0
+2022,23,Phoenix,Phoenix Raceway,1.0,paved track,10.0,22.0,42.0,Carson Hocevar,Worldwide Express (Al Niece),Chevrolet,154.0,running,0.0,27.0,0.0
+2022,23,Phoenix,Phoenix Raceway,1.0,paved track,11.0,23.0,19.0,Derek Kraus,NAPA AUTOCARE (Bill McAnally),Chevrolet,154.0,running,0.0,26.0,0.0
+2022,23,Phoenix,Phoenix Raceway,1.0,paved track,12.0,9.0,88.0,Matt Crafton,Ideal Door/Menards (Duke Thorson),Toyota,154.0,running,0.0,36.0,0.0
+2022,23,Phoenix,Phoenix Raceway,1.0,paved track,13.0,2.0,62.0,Layne Riggs,RamJack Foundation Repair (Chris Larsen),Toyota,154.0,running,5.0,25.0,0.0
+2022,23,Phoenix,Phoenix Raceway,1.0,paved track,14.0,24.0,16.0,Tyler Ankrum,LiUNA! (Shigeaki Hattori),Toyota,154.0,running,0.0,23.0,0.0
+2022,23,Phoenix,Phoenix Raceway,1.0,paved track,15.0,20.0,91.0,Colby Howard,Gates Hydraulics (Bill McAnally),Chevrolet,154.0,running,0.0,22.0,0.0
+2022,23,Phoenix,Phoenix Raceway,1.0,paved track,16.0,17.0,35.0,Jake Garcia,Quanta Services (Bill McAnally),Chevrolet,154.0,running,0.0,21.0,0.0
+2022,23,Phoenix,Phoenix Raceway,1.0,paved track,17.0,21.0,17.0,Taylor Gray,Ford Performance (David Gilliland),Ford,154.0,running,0.0,22.0,0.0
+2022,23,Phoenix,Phoenix Raceway,1.0,paved track,18.0,32.0,45.0,Lawless Alan,AUTOChargit (Al Niece),Chevrolet,154.0,running,0.0,19.0,0.0
+2022,23,Phoenix,Phoenix Raceway,1.0,paved track,19.0,19.0,61.0,Chase Purdy,Ibaraki Toyopet (Shigeaki Hattori),Toyota,154.0,running,0.0,18.0,0.0
+2022,23,Phoenix,Phoenix Raceway,1.0,paved track,20.0,8.0,66.0,Ty Majeski,Road Ranger (Duke Thorson),Toyota,154.0,running,0.0,17.0,0.0
+2022,23,Phoenix,Phoenix Raceway,1.0,paved track,21.0,26.0,40.0,Dean Thompson,Worldwide Express (Al Niece),Chevrolet,154.0,running,0.0,16.0,0.0
+2022,23,Phoenix,Phoenix Raceway,1.0,paved track,22.0,11.0,25.0,Matt DiBenedetto,Rackley Roofing (Rackley W.A.R.),Chevrolet,153.0,running,0.0,15.0,0.0
+2022,23,Phoenix,Phoenix Raceway,1.0,paved track,23.0,31.0,5.0,Tyler Hill,Garry Mercer Trucking Inc. (Timmy Hill),Toyota,152.0,running,0.0,14.0,0.0
+2022,23,Phoenix,Phoenix Raceway,1.0,paved track,24.0,30.0,22.0,Austin Wayne Self,AM Technical Solutions (Tim Self),Chevrolet,152.0,running,0.0,13.0,0.0
+2022,23,Phoenix,Phoenix Raceway,1.0,paved track,25.0,25.0,9.0,Blaine Perkins,Raceline (Codie Rohrbaugh),Chevrolet,152.0,running,0.0,12.0,0.0
+2022,23,Phoenix,Phoenix Raceway,1.0,paved track,26.0,28.0,43.0,Chris Hacker,Morgan & Morgan (Josh Reaume),Toyota,152.0,running,0.0,11.0,0.0
+2022,23,Phoenix,Phoenix Raceway,1.0,paved track,27.0,29.0,56.0,Timmy Hill,Coble Enterprises (Timmy Hill),Toyota,152.0,running,0.0,10.0,0.0
+2022,23,Phoenix,Phoenix Raceway,1.0,paved track,28.0,27.0,2.0,Johnny Sauter,Randco Industries (Randy Young),Chevrolet,152.0,running,0.0,9.0,0.0
+2022,23,Phoenix,Phoenix Raceway,1.0,paved track,29.0,16.0,24.0,Jack Wood,Quick Quack Car Wash (Maury Gallagher),Chevrolet,151.0,running,0.0,8.0,0.0
+2022,23,Phoenix,Phoenix Raceway,1.0,paved track,30.0,7.0,98.0,Christian Eckes,CMR Construction & Roofing (Mike Curb),Toyota,151.0,running,0.0,9.0,0.0
+2022,23,Phoenix,Phoenix Raceway,1.0,paved track,31.0,14.0,1.0,Hailie Deegan,Wastequip (David Gilliland),Ford,133.0,crash,0.0,6.0,0.0
+2022,23,Phoenix,Phoenix Raceway,1.0,paved track,32.0,18.0,7.0,Rajah Caruth,Circle (Spire Motorsports),Chevrolet,106.0,crash,0.0,5.0,0.0
+2022,23,Phoenix,Phoenix Raceway,1.0,paved track,33.0,33.0,12.0,Spencer Boyd,Off The Grid (Randy Young),Chevrolet,63.0,too slow,0.0,4.0,0.0
+2022,23,Phoenix,Phoenix Raceway,1.0,paved track,34.0,34.0,33.0,Keith McGee,Murphys Towing and Diesel (Josh Reaume),Chevrolet,15.0,dvp,0.0,3.0,0.0
+2022,23,Phoenix,Phoenix Raceway,1.0,paved track,35.0,35.0,20.0,Armani Williams,Visit Mesa (Randy Young),Chevrolet,6.0,crash,0.0,2.0,0.0

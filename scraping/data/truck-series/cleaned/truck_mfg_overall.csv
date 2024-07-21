@@ -1,0 +1,6 @@
+manufacturer,mfg_overall_races,mfg_overall_wins,mfg_overall_win_pct,mfg_overall_top_5,mfg_overall_top_10,mfg_overall_top_20,mfg_overall_trucks_raced,mfg_overall_truck_win_pct,mfg_overall_avg_start,mfg_overall_avg_finish,mfg_overall_laps_led,mfg_overall_avg_laps_led
+Chevrolet,703,285,0.40541,1371,2845,6276,11992,0.02377,19.56,19.23,46265,3.86
+Dodge,414,65,0.157,324,660,1391,2416,0.0269,18.11,18.12,12278,5.08
+Ford,702,119,0.16952,762,1501,2923,4916,0.02421,17.31,17.42,20301,4.13
+RAM,54,1,0.01852,8,18,35,102,0.0098,24.09,22.67,132,1.29
+Toyota,486,233,0.47942,1050,2006,3435,4891,0.04764,14.09,14.82,33532,6.86

@@ -1,0 +1,787 @@
+Season,Race,Site,Track,Track_length,Track_type,Pos,St,#,Driver,Sponsor / Owner,Car,Laps,Status,Led,Pts,PPts
+2024,1,Daytona,Daytona International Speedway,2.5,paved track,1.0,18.0,24.0,William Byron,Axalta (Rick Hendrick),Chevrolet,200.0,running,4.0,54.0,5.0
+2024,1,Daytona,Daytona International Speedway,2.5,paved track,2.0,7.0,48.0,Alex Bowman,Ally (Rick Hendrick),Chevrolet,200.0,running,0.0,50.0,0.0
+2024,1,Daytona,Daytona International Speedway,2.5,paved track,3.0,4.0,20.0,Christopher Bell,DEWALT - Interstate Batteries (Joe Gibbs),Toyota,200.0,running,22.0,44.0,0.0
+2024,1,Daytona,Daytona International Speedway,2.5,paved track,4.0,29.0,7.0,Corey LaJoie,Chili's Catch-a-Rita (Spire Motorsports),Chevrolet,200.0,running,1.0,33.0,0.0
+2024,1,Daytona,Daytona International Speedway,2.5,paved track,5.0,24.0,23.0,Bubba Wallace,McDonald's (23XI Racing),Toyota,200.0,running,3.0,39.0,0.0
+2024,1,Daytona,Daytona International Speedway,2.5,paved track,6.0,28.0,16.0,A.J. Allmendinger,Celsius (Matthew Kaulig),Chevrolet,200.0,running,9.0,0.0,0.0
+2024,1,Daytona,Daytona International Speedway,2.5,paved track,7.0,10.0,42.0,John H. Nemechek,Dollar Tree (Legacy Motor Club),Toyota,200.0,running,0.0,37.0,0.0
+2024,1,Daytona,Daytona International Speedway,2.5,paved track,8.0,11.0,43.0,Erik Jones,AdventHealth (Legacy Motor Club),Toyota,200.0,running,0.0,35.0,0.0
+2024,1,Daytona,Daytona International Speedway,2.5,paved track,9.0,38.0,10.0,Noah Gragson,Black Rifle Coffee / Ranger Boats (Stewart Haas Racing),Ford,200.0,running,5.0,28.0,0.0
+2024,1,Daytona,Daytona International Speedway,2.5,paved track,10.0,20.0,14.0,Chase Briscoe,Mahindra Tractors (Stewart Haas Racing),Ford,200.0,running,0.0,29.0,0.0
+2024,1,Daytona,Daytona International Speedway,2.5,paved track,11.0,17.0,5.0,Kyle Larson,HendrickCars.com (Rick Hendrick),Chevrolet,200.0,running,7.0,37.0,0.0
+2024,1,Daytona,Daytona International Speedway,2.5,paved track,12.0,34.0,8.0,Kyle Busch,Zone (Richard Childress),Chevrolet,200.0,running,12.0,37.0,0.0
+2024,1,Daytona,Daytona International Speedway,2.5,paved track,13.0,14.0,71.0,Zane Smith,WeatherTech (Spire Motorsports),Chevrolet,200.0,running,0.0,29.0,0.0
+2024,1,Daytona,Daytona International Speedway,2.5,paved track,14.0,5.0,9.0,Chase Elliott,NAPA Auto Parts (Rick Hendrick),Chevrolet,200.0,running,13.0,42.0,1.0
+2024,1,Daytona,Daytona International Speedway,2.5,paved track,15.0,27.0,19.0,Martin Truex Jr,Bass Pro Shops (Joe Gibbs),Toyota,200.0,running,0.0,24.0,0.0
+2024,1,Daytona,Daytona International Speedway,2.5,paved track,16.0,37.0,31.0,Daniel Hemric,Cirkul (Matthew Kaulig),Chevrolet,200.0,running,0.0,21.0,0.0
+2024,1,Daytona,Daytona International Speedway,2.5,paved track,17.0,15.0,54.0,Ty Gibbs,Monster Energy (Joe Gibbs),Toyota,200.0,running,0.0,23.0,0.0
+2024,1,Daytona,Daytona International Speedway,2.5,paved track,18.0,19.0,17.0,Chris Buescher,Fastenal (Jack Roush),Ford,200.0,running,0.0,21.0,0.0
+2024,1,Daytona,Daytona International Speedway,2.5,paved track,19.0,8.0,11.0,Denny Hamlin,FedEx (Joe Gibbs),Toyota,200.0,running,10.0,30.0,0.0
+2024,1,Daytona,Daytona International Speedway,2.5,paved track,20.0,40.0,60.0,David Ragan,BuildSubmarines.com (Jack Roush),Ford,200.0,running,2.0,17.0,0.0
+2024,1,Daytona,Daytona International Speedway,2.5,paved track,21.0,21.0,1.0,Ross Chastain,Busch Light (Trackhouse Racing),Chevrolet,199.0,running,14.0,24.0,0.0
+2024,1,Daytona,Daytona International Speedway,2.5,paved track,22.0,6.0,2.0,Austin Cindric,Discount Tire (Roger Penske),Ford,199.0,running,13.0,33.0,0.0
+2024,1,Daytona,Daytona International Speedway,2.5,paved track,23.0,25.0,41.0,Ryan Preece,HaasTooling.com (Stewart Haas Racing),Ford,199.0,running,0.0,14.0,0.0
+2024,1,Daytona,Daytona International Speedway,2.5,paved track,24.0,36.0,15.0,Riley Herbst,Monster Energy (Rick Ware),Ford,199.0,running,0.0,0.0,0.0
+2024,1,Daytona,Daytona International Speedway,2.5,paved track,25.0,30.0,4.0,Josh Berry,SunnyD (Stewart Haas Racing),Ford,199.0,running,1.0,12.0,0.0
+2024,1,Daytona,Daytona International Speedway,2.5,paved track,26.0,22.0,51.0,Justin Haley,TreeTop Apple Juice/Jacob (Rick Ware),Ford,199.0,running,0.0,12.0,0.0
+2024,1,Daytona,Daytona International Speedway,2.5,paved track,27.0,39.0,62.0,Anthony Alfredo,Death Wish Coffee (Beard Motorsports),Chevrolet,198.0,running,0.0,0.0,0.0
+2024,1,Daytona,Daytona International Speedway,2.5,paved track,28.0,23.0,84.0,Jimmie Johnson,Carvana (Legacy Motor Club),Toyota,196.0,running,0.0,9.0,0.0
+2024,1,Daytona,Daytona International Speedway,2.5,paved track,29.0,3.0,45.0,Tyler Reddick,Nasty Beast (23XI Racing),Toyota,192.0,crash,0.0,24.0,0.0
+2024,1,Daytona,Daytona International Speedway,2.5,paved track,30.0,32.0,12.0,Ryan Blaney,MenardsPEAK (Roger Penske),Ford,192.0,crash,12.0,17.0,1.0
+2024,1,Daytona,Daytona International Speedway,2.5,paved track,31.0,35.0,47.0,Ricky Stenhouse Jr,Boost by KrogerCottonelle (JTG-Daugherty Racing),Chevrolet,192.0,crash,0.0,9.0,0.0
+2024,1,Daytona,Daytona International Speedway,2.5,paved track,32.0,1.0,22.0,Joey Logano,Shell Pennzoil (Roger Penske),Ford,191.0,crash,45.0,9.0,0.0
+2024,1,Daytona,Daytona International Speedway,2.5,paved track,33.0,16.0,6.0,Brad Keselowski,Castrol Edge (Jack Roush),Ford,191.0,crash,3.0,8.0,0.0
+2024,1,Daytona,Daytona International Speedway,2.5,paved track,34.0,13.0,99.0,Daniel Suarez,Freeway Insurance (Trackhouse Racing),Chevrolet,191.0,crash,2.0,17.0,0.0
+2024,1,Daytona,Daytona International Speedway,2.5,paved track,35.0,31.0,38.0,Todd Gilliland,gener8tor (Bob Jenkins),Ford,191.0,crash,16.0,2.0,0.0
+2024,1,Daytona,Daytona International Speedway,2.5,paved track,36.0,2.0,34.0,Michael McDowell,Love's Travel Stops (Bob Jenkins),Ford,176.0,running,6.0,1.0,0.0
+2024,1,Daytona,Daytona International Speedway,2.5,paved track,37.0,33.0,3.0,Austin Dillon,Bass Pro Shops (Richard Childress),Chevrolet,146.0,running,0.0,1.0,0.0
+2024,1,Daytona,Daytona International Speedway,2.5,paved track,38.0,26.0,36.0,Kaz Grala,Ruedebusch (Bob Jenkins),Ford,5.0,crash,0.0,1.0,0.0
+2024,1,Daytona,Daytona International Speedway,2.5,paved track,39.0,12.0,21.0,Harrison Burton,Motorcraft Dex Imaging (Wood Brothers),Ford,5.0,crash,0.0,7.0,0.0
+2024,1,Daytona,Daytona International Speedway,2.5,paved track,40.0,9.0,77.0,Carson Hocevar,Gainbridge/Zeigler Auto Group (Spire Motorsports),Chevrolet,5.0,crash,0.0,8.0,0.0
+2024,2,Atlanta,Atlanta Motor Speedway,1.54,paved track,1.0,23.0,99.0,Daniel Suarez,Freeway Insurance (Trackhouse Racing),Chevrolet,260.0,running,9.0,47.0,5.0
+2024,2,Atlanta,Atlanta Motor Speedway,1.54,paved track,2.0,6.0,12.0,Ryan Blaney,BodyArmor Zero Sugar (Roger Penske),Ford,260.0,running,31.0,52.0,0.0
+2024,2,Atlanta,Atlanta Motor Speedway,1.54,paved track,3.0,3.0,8.0,Kyle Busch,Cheddar's Scratch Kitchen (Richard Childress),Chevrolet,260.0,running,28.0,40.0,0.0
+2024,2,Atlanta,Atlanta Motor Speedway,1.54,paved track,4.0,8.0,2.0,Austin Cindric,MenardsKnauf Insulation (Roger Penske),Ford,260.0,running,32.0,43.0,1.0
+2024,2,Atlanta,Atlanta Motor Speedway,1.54,paved track,5.0,18.0,23.0,Bubba Wallace,MoneyLion (23XI Racing),Toyota,260.0,running,3.0,35.0,0.0
+2024,2,Atlanta,Atlanta Motor Speedway,1.54,paved track,6.0,27.0,47.0,Ricky Stenhouse Jr,Kroger/Blue Buffalo (JTG-Daugherty Racing),Chevrolet,260.0,running,1.0,35.0,0.0
+2024,2,Atlanta,Atlanta Motor Speedway,1.54,paved track,7.0,21.0,1.0,Ross Chastain,Moose Fraternity (Trackhouse Racing),Chevrolet,260.0,running,0.0,38.0,0.0
+2024,2,Atlanta,Atlanta Motor Speedway,1.54,paved track,8.0,1.0,34.0,Michael McDowell,Benebone (Bob Jenkins),Ford,260.0,running,27.0,39.0,1.0
+2024,2,Atlanta,Atlanta Motor Speedway,1.54,paved track,9.0,7.0,17.0,Chris Buescher,BuildSubmarines.com (Jack Roush),Ford,260.0,running,1.0,28.0,0.0
+2024,2,Atlanta,Atlanta Motor Speedway,1.54,paved track,10.0,25.0,54.0,Ty Gibbs,Monster Energy (Joe Gibbs),Toyota,260.0,running,0.0,27.0,0.0
+2024,2,Atlanta,Atlanta Motor Speedway,1.54,paved track,11.0,16.0,21.0,Harrison Burton,Motorcraft Quick Lane (Wood Brothers),Ford,260.0,running,0.0,29.0,0.0
+2024,2,Atlanta,Atlanta Motor Speedway,1.54,paved track,12.0,12.0,19.0,Martin Truex Jr,Bass Pro Shops (Joe Gibbs),Toyota,260.0,running,9.0,36.0,0.0
+2024,2,Atlanta,Atlanta Motor Speedway,1.54,paved track,13.0,32.0,7.0,Corey LaJoie,Celsius (Spire Motorsports),Chevrolet,260.0,running,0.0,24.0,0.0
+2024,2,Atlanta,Atlanta Motor Speedway,1.54,paved track,14.0,33.0,15.0,Kaz Grala,N29 Capital Partners (Rick Ware),Ford,260.0,running,0.0,23.0,0.0
+2024,2,Atlanta,Atlanta Motor Speedway,1.54,paved track,15.0,28.0,9.0,Chase Elliott,Hooters (Rick Hendrick),Chevrolet,260.0,running,0.0,23.0,0.0
+2024,2,Atlanta,Atlanta Motor Speedway,1.54,paved track,16.0,20.0,41.0,Ryan Preece,HaasTooling.com (Stewart Haas Racing),Ford,260.0,running,0.0,-14.0,0.0
+2024,2,Atlanta,Atlanta Motor Speedway,1.54,paved track,17.0,11.0,24.0,William Byron,Raptor High Heat (Rick Hendrick),Chevrolet,260.0,running,0.0,22.0,0.0
+2024,2,Atlanta,Atlanta Motor Speedway,1.54,paved track,18.0,26.0,31.0,Daniel Hemric,Cirkul (Matthew Kaulig),Chevrolet,260.0,running,0.0,19.0,0.0
+2024,2,Atlanta,Atlanta Motor Speedway,1.54,paved track,19.0,35.0,77.0,Carson Hocevar,Premier Security (Spire Motorsports),Chevrolet,260.0,running,0.0,18.0,0.0
+2024,2,Atlanta,Atlanta Motor Speedway,1.54,paved track,20.0,31.0,51.0,Justin Haley,Grady Medical Centers (Rick Ware),Ford,260.0,running,0.0,17.0,0.0
+2024,2,Atlanta,Atlanta Motor Speedway,1.54,paved track,21.0,34.0,42.0,John H. Nemechek,Family Dollar (Legacy Motor Club),Toyota,260.0,running,0.0,16.0,0.0
+2024,2,Atlanta,Atlanta Motor Speedway,1.54,paved track,22.0,10.0,3.0,Austin Dillon,BREZTRI (Richard Childress),Chevrolet,260.0,running,0.0,15.0,0.0
+2024,2,Atlanta,Atlanta Motor Speedway,1.54,paved track,23.0,13.0,11.0,Denny Hamlin,FedEx (Joe Gibbs),Toyota,259.0,running,15.0,14.0,0.0
+2024,2,Atlanta,Atlanta Motor Speedway,1.54,paved track,24.0,36.0,78.0,B.J. McLeod,Live Fast Motorsports (B.J. McLeod),Chevrolet,257.0,running,0.0,0.0,0.0
+2024,2,Atlanta,Atlanta Motor Speedway,1.54,paved track,25.0,37.0,43.0,Erik Jones,AdventHealth (Legacy Motor Club),Toyota,256.0,running,0.0,12.0,0.0
+2024,2,Atlanta,Atlanta Motor Speedway,1.54,paved track,26.0,4.0,38.0,Todd Gilliland,Georgia Peanuts (Bob Jenkins),Ford,256.0,running,58.0,17.0,0.0
+2024,2,Atlanta,Atlanta Motor Speedway,1.54,paved track,27.0,17.0,48.0,Alex Bowman,Ally (Rick Hendrick),Chevrolet,255.0,running,0.0,10.0,0.0
+2024,2,Atlanta,Atlanta Motor Speedway,1.54,paved track,28.0,2.0,22.0,Joey Logano,Shell Pennzoil (Roger Penske),Ford,252.0,running,27.0,9.0,0.0
+2024,2,Atlanta,Atlanta Motor Speedway,1.54,paved track,29.0,14.0,4.0,Josh Berry,Harrison's (Stewart Haas Racing),Ford,250.0,crash,0.0,8.0,0.0
+2024,2,Atlanta,Atlanta Motor Speedway,1.54,paved track,30.0,19.0,45.0,Tyler Reddick,Xfinity Mobile (23XI Racing),Toyota,243.0,running,0.0,7.0,0.0
+2024,2,Atlanta,Atlanta Motor Speedway,1.54,paved track,31.0,9.0,14.0,Chase Briscoe,HighPoint.com (Stewart Haas Racing),Ford,239.0,crash,0.0,8.0,0.0
+2024,2,Atlanta,Atlanta Motor Speedway,1.54,paved track,32.0,5.0,5.0,Kyle Larson,HendrickCars.com (Rick Hendrick),Chevrolet,222.0,crash,17.0,21.0,0.0
+2024,2,Atlanta,Atlanta Motor Speedway,1.54,paved track,33.0,24.0,6.0,Brad Keselowski,King's Hawaiian (Jack Roush),Ford,218.0,crash,2.0,8.0,0.0
+2024,2,Atlanta,Atlanta Motor Speedway,1.54,paved track,34.0,22.0,20.0,Christopher Bell,DEWALT (Joe Gibbs),Toyota,148.0,crash,0.0,3.0,0.0
+2024,2,Atlanta,Atlanta Motor Speedway,1.54,paved track,35.0,29.0,71.0,Zane Smith,City of Refuge (Spire Motorsports),Chevrolet,75.0,dvp,0.0,0.0,0.0
+2024,2,Atlanta,Atlanta Motor Speedway,1.54,paved track,36.0,15.0,10.0,Noah Gragson,Black Rifle Coffee / Ranger Boats (Stewart Haas Racing),Ford,66.0,crash,0.0,-34.0,0.0
+2024,2,Atlanta,Atlanta Motor Speedway,1.54,paved track,37.0,30.0,16.0,Josh Williams,Alloy Employer Services (Matthew Kaulig),Chevrolet,2.0,crash,0.0,0.0,0.0
+2024,3,Las Vegas,Las Vegas Motor Speedway,1.5,paved track,1.0,2.0,5.0,Kyle Larson,HendrickCars.com (Rick Hendrick),Chevrolet,267.0,running,181.0,60.0,7.0
+2024,3,Las Vegas,Las Vegas Motor Speedway,1.5,paved track,2.0,18.0,45.0,Tyler Reddick,Nasty Beast (23XI Racing),Toyota,267.0,running,1.0,53.0,0.0
+2024,3,Las Vegas,Las Vegas Motor Speedway,1.5,paved track,3.0,15.0,12.0,Ryan Blaney,MenardsPennzoil (Roger Penske),Ford,267.0,running,0.0,41.0,0.0
+2024,3,Las Vegas,Las Vegas Motor Speedway,1.5,paved track,4.0,20.0,1.0,Ross Chastain,Kubota (Trackhouse Racing),Chevrolet,267.0,running,2.0,36.0,0.0
+2024,3,Las Vegas,Las Vegas Motor Speedway,1.5,paved track,5.0,8.0,54.0,Ty Gibbs,He Gets Us (Joe Gibbs),Toyota,267.0,running,0.0,37.0,0.0
+2024,3,Las Vegas,Las Vegas Motor Speedway,1.5,paved track,6.0,30.0,10.0,Noah Gragson,Fanttik (Stewart Haas Racing),Ford,267.0,running,0.0,31.0,0.0
+2024,3,Las Vegas,Las Vegas Motor Speedway,1.5,paved track,7.0,7.0,19.0,Martin Truex Jr,Reser's Fine Foods (Joe Gibbs),Toyota,267.0,running,4.0,44.0,0.0
+2024,3,Las Vegas,Las Vegas Motor Speedway,1.5,paved track,8.0,28.0,11.0,Denny Hamlin,SportClips Haircuts (Joe Gibbs),Toyota,267.0,running,16.0,43.0,0.0
+2024,3,Las Vegas,Las Vegas Motor Speedway,1.5,paved track,9.0,1.0,22.0,Joey Logano,Pennzoil (Roger Penske),Ford,267.0,running,2.0,30.0,0.0
+2024,3,Las Vegas,Las Vegas Motor Speedway,1.5,paved track,10.0,4.0,24.0,William Byron,Z HP (Rick Hendrick),Chevrolet,267.0,running,15.0,27.0,0.0
+2024,3,Las Vegas,Las Vegas Motor Speedway,1.5,paved track,11.0,16.0,99.0,Daniel Suarez,Freeway Insurance (Trackhouse Racing),Chevrolet,267.0,running,15.0,26.0,0.0
+2024,3,Las Vegas,Las Vegas Motor Speedway,1.5,paved track,12.0,11.0,9.0,Chase Elliott,Llumar (Rick Hendrick),Chevrolet,267.0,running,0.0,30.0,0.0
+2024,3,Las Vegas,Las Vegas Motor Speedway,1.5,paved track,13.0,25.0,6.0,Brad Keselowski,Solomon Plumbing (Jack Roush),Ford,267.0,running,0.0,24.0,0.0
+2024,3,Las Vegas,Las Vegas Motor Speedway,1.5,paved track,14.0,22.0,43.0,Erik Jones,Dollar Tree (Legacy Motor Club),Toyota,267.0,running,0.0,24.0,0.0
+2024,3,Las Vegas,Las Vegas Motor Speedway,1.5,paved track,15.0,14.0,77.0,Carson Hocevar,Premier Security (Spire Motorsports),Chevrolet,267.0,running,0.0,22.0,0.0
+2024,3,Las Vegas,Las Vegas Motor Speedway,1.5,paved track,16.0,19.0,3.0,Austin Dillon,BetMGM (Richard Childress),Chevrolet,267.0,running,0.0,25.0,0.0
+2024,3,Las Vegas,Las Vegas Motor Speedway,1.5,paved track,17.0,13.0,47.0,Ricky Stenhouse Jr,Smith's/Tree Top (JTG-Daugherty Racing),Chevrolet,267.0,running,0.0,20.0,0.0
+2024,3,Las Vegas,Las Vegas Motor Speedway,1.5,paved track,18.0,23.0,48.0,Alex Bowman,Ally (Rick Hendrick),Chevrolet,267.0,running,3.0,22.0,0.0
+2024,3,Las Vegas,Las Vegas Motor Speedway,1.5,paved track,19.0,34.0,31.0,Daniel Hemric,South Point Hotel and Casino (Matthew Kaulig),Chevrolet,267.0,running,1.0,18.0,0.0
+2024,3,Las Vegas,Las Vegas Motor Speedway,1.5,paved track,20.0,26.0,4.0,Josh Berry,Mobil 1 Take 5 (Stewart Haas Racing),Ford,267.0,running,0.0,17.0,0.0
+2024,3,Las Vegas,Las Vegas Motor Speedway,1.5,paved track,21.0,6.0,14.0,Chase Briscoe,Mahindra Tractors (Stewart Haas Racing),Ford,267.0,running,1.0,16.0,0.0
+2024,3,Las Vegas,Las Vegas Motor Speedway,1.5,paved track,22.0,27.0,42.0,John H. Nemechek,Albertson's (Legacy Motor Club),Toyota,267.0,running,0.0,15.0,0.0
+2024,3,Las Vegas,Las Vegas Motor Speedway,1.5,paved track,23.0,36.0,41.0,Ryan Preece,HaasTooling.com (Stewart Haas Racing),Ford,267.0,running,0.0,14.0,0.0
+2024,3,Las Vegas,Las Vegas Motor Speedway,1.5,paved track,24.0,31.0,38.0,Todd Gilliland,gener8tor (Bob Jenkins),Ford,267.0,running,0.0,13.0,0.0
+2024,3,Las Vegas,Las Vegas Motor Speedway,1.5,paved track,25.0,12.0,34.0,Michael McDowell,Love's Travel Stops (Bob Jenkins),Ford,267.0,running,4.0,12.0,0.0
+2024,3,Las Vegas,Las Vegas Motor Speedway,1.5,paved track,26.0,21.0,8.0,Kyle Busch,BetMGM (Richard Childress),Chevrolet,267.0,running,18.0,18.0,0.0
+2024,3,Las Vegas,Las Vegas Motor Speedway,1.5,paved track,27.0,35.0,51.0,Justin Haley,Ohanafy (Rick Ware),Ford,267.0,running,0.0,10.0,0.0
+2024,3,Las Vegas,Las Vegas Motor Speedway,1.5,paved track,28.0,33.0,16.0,Derek Kraus,Western States Flooring (Matthew Kaulig),Chevrolet,267.0,running,2.0,9.0,0.0
+2024,3,Las Vegas,Las Vegas Motor Speedway,1.5,paved track,29.0,3.0,2.0,Austin Cindric,Discount Tire (Roger Penske),Ford,267.0,running,0.0,10.0,0.0
+2024,3,Las Vegas,Las Vegas Motor Speedway,1.5,paved track,30.0,29.0,21.0,Harrison Burton,Motorcraft Quick Lane (Wood Brothers),Ford,267.0,running,0.0,7.0,0.0
+2024,3,Las Vegas,Las Vegas Motor Speedway,1.5,paved track,31.0,32.0,15.0,Kaz Grala,N29 Capital Partners (Rick Ware),Ford,267.0,running,0.0,6.0,0.0
+2024,3,Las Vegas,Las Vegas Motor Speedway,1.5,paved track,32.0,17.0,7.0,Corey LaJoie,USANA (Spire Motorsports),Chevrolet,266.0,running,0.0,9.0,0.0
+2024,3,Las Vegas,Las Vegas Motor Speedway,1.5,paved track,33.0,10.0,20.0,Christopher Bell,Interstate Batteries (Joe Gibbs),Toyota,265.0,running,0.0,5.0,0.0
+2024,3,Las Vegas,Las Vegas Motor Speedway,1.5,paved track,34.0,37.0,44.0,J.J. Yeley,Urban Youth Racing School (Johnathan Cohen),Chevrolet,261.0,running,0.0,0.0,0.0
+2024,3,Las Vegas,Las Vegas Motor Speedway,1.5,paved track,35.0,5.0,23.0,Bubba Wallace,Columbia Sportswear Company (23XI Racing),Toyota,254.0,running,0.0,2.0,0.0
+2024,3,Las Vegas,Las Vegas Motor Speedway,1.5,paved track,36.0,24.0,71.0,Zane Smith,Focused Health (Spire Motorsports),Chevrolet,254.0,running,0.0,1.0,0.0
+2024,3,Las Vegas,Las Vegas Motor Speedway,1.5,paved track,37.0,9.0,17.0,Chris Buescher,Fastenal (Jack Roush),Ford,27.0,crash,2.0,1.0,0.0
+2024,4,Phoenix,Phoenix Raceway,1.0,paved track,1.0,13.0,20.0,Christopher Bell,Rheem (Joe Gibbs),Toyota,312.0,running,50.0,50.0,6.0
+2024,4,Phoenix,Phoenix Raceway,1.0,paved track,2.0,14.0,17.0,Chris Buescher,BuildSubmarines.com (Jack Roush),Ford,312.0,running,0.0,36.0,0.0
+2024,4,Phoenix,Phoenix Raceway,1.0,paved track,3.0,2.0,54.0,Ty Gibbs,Monster Energy (Joe Gibbs),Toyota,312.0,running,57.0,43.0,0.0
+2024,4,Phoenix,Phoenix Raceway,1.0,paved track,4.0,18.0,6.0,Brad Keselowski,Consumer Cellular (Jack Roush),Ford,312.0,running,0.0,35.0,0.0
+2024,4,Phoenix,Phoenix Raceway,1.0,paved track,5.0,16.0,12.0,Ryan Blaney,Advance Auto Parts (Roger Penske),Ford,312.0,running,0.0,41.0,0.0
+2024,4,Phoenix,Phoenix Raceway,1.0,paved track,6.0,12.0,1.0,Ross Chastain,Kubota (Trackhouse Racing),Chevrolet,312.0,running,0.0,31.0,0.0
+2024,4,Phoenix,Phoenix Raceway,1.0,paved track,7.0,11.0,19.0,Martin Truex Jr,Bass Pro Shops (Joe Gibbs),Toyota,312.0,running,55.0,37.0,0.0
+2024,4,Phoenix,Phoenix Raceway,1.0,paved track,8.0,9.0,34.0,Michael McDowell,Horizon Hobby (Bob Jenkins),Ford,312.0,running,0.0,32.0,0.0
+2024,4,Phoenix,Phoenix Raceway,1.0,paved track,9.0,8.0,14.0,Chase Briscoe,Mahindra Tractors (Stewart Haas Racing),Ford,312.0,running,0.0,30.0,0.0
+2024,4,Phoenix,Phoenix Raceway,1.0,paved track,10.0,6.0,45.0,Tyler Reddick,Mobil 1 (23XI Racing),Toyota,312.0,running,68.0,46.0,1.0
+2024,4,Phoenix,Phoenix Raceway,1.0,paved track,11.0,1.0,11.0,Denny Hamlin,Mavis Brakes Plus (Joe Gibbs),Toyota,312.0,running,68.0,42.0,0.0
+2024,4,Phoenix,Phoenix Raceway,1.0,paved track,12.0,7.0,10.0,Noah Gragson,SERVPRO (Stewart Haas Racing),Ford,312.0,running,0.0,28.0,0.0
+2024,4,Phoenix,Phoenix Raceway,1.0,paved track,13.0,15.0,99.0,Daniel Suarez,Freeway Insurance (Trackhouse Racing),Chevrolet,312.0,running,0.0,24.0,0.0
+2024,4,Phoenix,Phoenix Raceway,1.0,paved track,14.0,17.0,5.0,Kyle Larson,Valvoline (Rick Hendrick),Chevrolet,312.0,running,0.0,23.0,0.0
+2024,4,Phoenix,Phoenix Raceway,1.0,paved track,15.0,10.0,77.0,Carson Hocevar,Delaware Life (Spire Motorsports),Chevrolet,312.0,running,0.0,22.0,0.0
+2024,4,Phoenix,Phoenix Raceway,1.0,paved track,16.0,22.0,23.0,Bubba Wallace,U.S. Air Force (23XI Racing),Toyota,312.0,running,0.0,21.0,0.0
+2024,4,Phoenix,Phoenix Raceway,1.0,paved track,17.0,29.0,38.0,Todd Gilliland,gener8tor (Bob Jenkins),Ford,312.0,running,14.0,20.0,0.0
+2024,4,Phoenix,Phoenix Raceway,1.0,paved track,18.0,5.0,24.0,William Byron,RaptorTough.com (Rick Hendrick),Chevrolet,312.0,running,0.0,31.0,0.0
+2024,4,Phoenix,Phoenix Raceway,1.0,paved track,19.0,3.0,9.0,Chase Elliott,Kelley Blue Book (Rick Hendrick),Chevrolet,312.0,running,0.0,28.0,0.0
+2024,4,Phoenix,Phoenix Raceway,1.0,paved track,20.0,25.0,48.0,Alex Bowman,Ally Best Friends (Rick Hendrick),Chevrolet,312.0,running,0.0,17.0,0.0
+2024,4,Phoenix,Phoenix Raceway,1.0,paved track,21.0,20.0,47.0,Ricky Stenhouse Jr,Fry's/Coca-Cola Spiced (JTG-Daugherty Racing),Chevrolet,312.0,running,0.0,16.0,0.0
+2024,4,Phoenix,Phoenix Raceway,1.0,paved track,22.0,31.0,8.0,Kyle Busch,Zone (Richard Childress),Chevrolet,311.0,running,0.0,15.0,0.0
+2024,4,Phoenix,Phoenix Raceway,1.0,paved track,23.0,27.0,41.0,Ryan Preece,United Rentals (Stewart Haas Racing),Ford,311.0,running,0.0,14.0,0.0
+2024,4,Phoenix,Phoenix Raceway,1.0,paved track,24.0,33.0,51.0,Justin Haley,Fraternal Order of Eagles (Rick Ware),Ford,311.0,running,0.0,13.0,0.0
+2024,4,Phoenix,Phoenix Raceway,1.0,paved track,25.0,19.0,42.0,John H. Nemechek,Albertson's (Legacy Motor Club),Toyota,311.0,running,0.0,12.0,0.0
+2024,4,Phoenix,Phoenix Raceway,1.0,paved track,26.0,36.0,4.0,Josh Berry,SunnyD (Stewart Haas Racing),Ford,310.0,running,0.0,11.0,0.0
+2024,4,Phoenix,Phoenix Raceway,1.0,paved track,27.0,24.0,21.0,Harrison Burton,DRAIVER (Wood Brothers),Ford,310.0,running,0.0,10.0,0.0
+2024,4,Phoenix,Phoenix Raceway,1.0,paved track,28.0,21.0,31.0,Daniel Hemric,Poppy Bank (Matthew Kaulig),Chevrolet,310.0,running,0.0,9.0,0.0
+2024,4,Phoenix,Phoenix Raceway,1.0,paved track,29.0,28.0,71.0,Zane Smith,Focused Health (Spire Motorsports),Chevrolet,309.0,running,0.0,8.0,0.0
+2024,4,Phoenix,Phoenix Raceway,1.0,paved track,30.0,32.0,15.0,Kaz Grala,N29 Capital Partners (Rick Ware),Ford,309.0,running,0.0,7.0,0.0
+2024,4,Phoenix,Phoenix Raceway,1.0,paved track,31.0,4.0,43.0,Erik Jones,Family Dollar (Legacy Motor Club),Toyota,305.0,running,0.0,13.0,0.0
+2024,4,Phoenix,Phoenix Raceway,1.0,paved track,32.0,30.0,3.0,Austin Dillon,Morgan & Morgan (Richard Childress),Chevrolet,304.0,running,0.0,5.0,0.0
+2024,4,Phoenix,Phoenix Raceway,1.0,paved track,33.0,35.0,7.0,Corey LaJoie,Group1001 (Spire Motorsports),Chevrolet,204.0,crash,0.0,4.0,0.0
+2024,4,Phoenix,Phoenix Raceway,1.0,paved track,34.0,23.0,22.0,Joey Logano,Hunt Brothers Pizza (Roger Penske),Ford,203.0,crash,0.0,3.0,0.0
+2024,4,Phoenix,Phoenix Raceway,1.0,paved track,35.0,26.0,16.0,Derek Kraus,Western States Flooring (Matthew Kaulig),Chevrolet,203.0,crash,0.0,2.0,0.0
+2024,4,Phoenix,Phoenix Raceway,1.0,paved track,36.0,34.0,2.0,Austin Cindric,Menards Duracell (Roger Penske),Ford,6.0,crash,0.0,1.0,0.0
+2024,5,Bristol,Bristol Motor Speedway,0.533,paved track,1.0,3.0,11.0,Denny Hamlin,Express Oil Change (Joe Gibbs),Toyota,500.0,running,163.0,44.0,5.0
+2024,5,Bristol,Bristol Motor Speedway,0.533,paved track,2.0,11.0,19.0,Martin Truex Jr,Auto-Owners Insurance (Joe Gibbs),Toyota,500.0,running,54.0,44.0,0.0
+2024,5,Bristol,Bristol Motor Speedway,0.533,paved track,3.0,17.0,6.0,Brad Keselowski,King's Hawaiian (Jack Roush),Ford,500.0,running,1.0,50.0,0.0
+2024,5,Bristol,Bristol Motor Speedway,0.533,paved track,4.0,29.0,48.0,Alex Bowman,Ally (Rick Hendrick),Chevrolet,500.0,running,3.0,33.0,0.0
+2024,5,Bristol,Bristol Motor Speedway,0.533,paved track,5.0,10.0,5.0,Kyle Larson,HendrickCars.com (Rick Hendrick),Chevrolet,500.0,running,19.0,44.0,0.0
+2024,5,Bristol,Bristol Motor Speedway,0.533,paved track,6.0,26.0,42.0,John H. Nemechek,Dollar Tree (Legacy Motor Club),Toyota,499.0,running,0.0,44.0,0.0
+2024,5,Bristol,Bristol Motor Speedway,0.533,paved track,7.0,34.0,17.0,Chris Buescher,BuildSubmarines.com (Jack Roush),Ford,499.0,running,17.0,38.0,0.0
+2024,5,Bristol,Bristol Motor Speedway,0.533,paved track,8.0,5.0,9.0,Chase Elliott,NAPA Auto Parts (Rick Hendrick),Chevrolet,499.0,running,5.0,29.0,0.0
+2024,5,Bristol,Bristol Motor Speedway,0.533,paved track,9.0,19.0,54.0,Ty Gibbs,SiriusXM (Joe Gibbs),Toyota,499.0,running,137.0,48.0,2.0
+2024,5,Bristol,Bristol Motor Speedway,0.533,paved track,10.0,12.0,20.0,Christopher Bell,DEWALT (Joe Gibbs),Toyota,499.0,running,29.0,36.0,0.0
+2024,5,Bristol,Bristol Motor Speedway,0.533,paved track,11.0,7.0,34.0,Michael McDowell,Love's Travel Stops (Bob Jenkins),Ford,499.0,running,0.0,26.0,0.0
+2024,5,Bristol,Bristol Motor Speedway,0.533,paved track,12.0,2.0,4.0,Josh Berry,SunnyD (Stewart Haas Racing),Ford,499.0,running,25.0,26.0,0.0
+2024,5,Bristol,Bristol Motor Speedway,0.533,paved track,13.0,6.0,14.0,Chase Briscoe,Mahindra Tractors (Stewart Haas Racing),Ford,498.0,running,0.0,24.0,0.0
+2024,5,Bristol,Bristol Motor Speedway,0.533,paved track,14.0,25.0,41.0,Ryan Preece,HaasTooling.com (Stewart Haas Racing),Ford,498.0,running,0.0,26.0,0.0
+2024,5,Bristol,Bristol Motor Speedway,0.533,paved track,15.0,36.0,1.0,Ross Chastain,Busch Light Fishing (Trackhouse Racing),Chevrolet,498.0,running,0.0,22.0,0.0
+2024,5,Bristol,Bristol Motor Speedway,0.533,paved track,16.0,1.0,12.0,Ryan Blaney,Menards Dutch Boy (Roger Penske),Ford,498.0,running,14.0,26.0,0.0
+2024,5,Bristol,Bristol Motor Speedway,0.533,paved track,17.0,32.0,51.0,Justin Haley,Ohanafy (Rick Ware),Ford,498.0,running,0.0,20.0,0.0
+2024,5,Bristol,Bristol Motor Speedway,0.533,paved track,18.0,28.0,99.0,Daniel Suarez,Jockey Outdoors by Luke Bryan / Bassmaster Cl (Trackhouse Racing),Chevrolet,498.0,running,0.0,19.0,0.0
+2024,5,Bristol,Bristol Motor Speedway,0.533,paved track,19.0,33.0,15.0,Kaz Grala,N29 Capital Partners (Rick Ware),Ford,498.0,running,0.0,18.0,0.0
+2024,5,Bristol,Bristol Motor Speedway,0.533,paved track,20.0,15.0,43.0,Erik Jones,AdventHealth (Legacy Motor Club),Toyota,498.0,running,0.0,17.0,0.0
+2024,5,Bristol,Bristol Motor Speedway,0.533,paved track,21.0,18.0,7.0,Corey LaJoie,Gainbridge (Spire Motorsports),Chevrolet,498.0,running,4.0,16.0,0.0
+2024,5,Bristol,Bristol Motor Speedway,0.533,paved track,22.0,4.0,22.0,Joey Logano,Shell Pennzoil (Roger Penske),Ford,498.0,running,5.0,23.0,0.0
+2024,5,Bristol,Bristol Motor Speedway,0.533,paved track,23.0,30.0,16.0,A.J. Allmendinger,Mountain Dew / Cheetos (Matthew Kaulig),Chevrolet,498.0,running,0.0,0.0,0.0
+2024,5,Bristol,Bristol Motor Speedway,0.533,paved track,24.0,31.0,3.0,Austin Dillon,BREZTRI (Richard Childress),Chevrolet,498.0,running,0.0,13.0,0.0
+2024,5,Bristol,Bristol Motor Speedway,0.533,paved track,25.0,14.0,8.0,Kyle Busch,FICO (Richard Childress),Chevrolet,498.0,running,5.0,12.0,0.0
+2024,5,Bristol,Bristol Motor Speedway,0.533,paved track,26.0,24.0,38.0,Todd Gilliland,Citgard (Bob Jenkins),Ford,497.0,running,0.0,11.0,0.0
+2024,5,Bristol,Bristol Motor Speedway,0.533,paved track,27.0,35.0,77.0,Carson Hocevar,Gainbridge Cal Ripken Sr. Fdn. (Spire Motorsports),Chevrolet,497.0,running,0.0,10.0,0.0
+2024,5,Bristol,Bristol Motor Speedway,0.533,paved track,28.0,20.0,31.0,Daniel Hemric,Cirkul (Matthew Kaulig),Chevrolet,496.0,running,0.0,9.0,0.0
+2024,5,Bristol,Bristol Motor Speedway,0.533,paved track,29.0,9.0,23.0,Bubba Wallace,Leidos (23XI Racing),Toyota,496.0,running,15.0,10.0,0.0
+2024,5,Bristol,Bristol Motor Speedway,0.533,paved track,30.0,23.0,45.0,Tyler Reddick,Monster Energy (23XI Racing),Toyota,495.0,running,4.0,7.0,0.0
+2024,5,Bristol,Bristol Motor Speedway,0.533,paved track,31.0,21.0,2.0,Austin Cindric,Discount Tire (Roger Penske),Ford,495.0,running,0.0,6.0,0.0
+2024,5,Bristol,Bristol Motor Speedway,0.533,paved track,32.0,13.0,21.0,Harrison Burton,DEX Imaging (Wood Brothers),Ford,495.0,running,0.0,5.0,0.0
+2024,5,Bristol,Bristol Motor Speedway,0.533,paved track,33.0,27.0,47.0,Ricky Stenhouse Jr,Ball Park Buns & Rolls (JTG-Daugherty Racing),Chevrolet,495.0,running,0.0,4.0,0.0
+2024,5,Bristol,Bristol Motor Speedway,0.533,paved track,34.0,22.0,10.0,Noah Gragson,Bass Pro Shops/Tracker Boats & ATVs/Ranger Bo (Stewart Haas Racing),Ford,494.0,running,0.0,3.0,0.0
+2024,5,Bristol,Bristol Motor Speedway,0.533,paved track,35.0,8.0,24.0,William Byron,Liberty University (Rick Hendrick),Chevrolet,492.0,running,0.0,2.0,0.0
+2024,5,Bristol,Bristol Motor Speedway,0.533,paved track,36.0,16.0,71.0,Zane Smith,Focused Health (Spire Motorsports),Chevrolet,192.0,engine,0.0,1.0,0.0
+2024,6,Austin,Circuit of the Americas,3.41,road course,1.0,1.0,24.0,William Byron,RaptorTough.com (Rick Hendrick),Chevrolet,68.0,running,42.0,47.0,5.0
+2024,6,Austin,Circuit of the Americas,3.41,road course,2.0,4.0,20.0,Christopher Bell,DEWALT (Joe Gibbs),Toyota,68.0,running,9.0,45.0,1.0
+2024,6,Austin,Circuit of the Americas,3.41,road course,3.0,2.0,54.0,Ty Gibbs,Monster Energy (Joe Gibbs),Toyota,68.0,running,1.0,37.0,0.0
+2024,6,Austin,Circuit of the Americas,3.41,road course,4.0,17.0,48.0,Alex Bowman,Ally (Rick Hendrick),Chevrolet,68.0,running,0.0,33.0,0.0
+2024,6,Austin,Circuit of the Americas,3.41,road course,5.0,3.0,45.0,Tyler Reddick,The Beast Unleashed (23XI Racing),Toyota,68.0,running,1.0,34.0,0.0
+2024,6,Austin,Circuit of the Americas,3.41,road course,6.0,14.0,13.0,A.J. Allmendinger,LeafFilter Gutter Protection (Matthew Kaulig),Chevrolet,68.0,running,0.0,0.0,0.0
+2024,6,Austin,Circuit of the Americas,3.41,road course,7.0,6.0,1.0,Ross Chastain,Worldwide Express (Trackhouse Racing),Chevrolet,68.0,running,10.0,31.0,0.0
+2024,6,Austin,Circuit of the Americas,3.41,road course,8.0,20.0,17.0,Chris Buescher,Fastenal (Jack Roush),Ford,68.0,running,0.0,29.0,0.0
+2024,6,Austin,Circuit of the Americas,3.41,road course,9.0,16.0,8.0,Kyle Busch,Mark III Employee Benefits (Richard Childress),Chevrolet,68.0,running,0.0,28.0,0.0
+2024,6,Austin,Circuit of the Americas,3.41,road course,10.0,7.0,19.0,Martin Truex Jr,Bass Pro Shops (Joe Gibbs),Toyota,68.0,running,2.0,35.0,0.0
+2024,6,Austin,Circuit of the Americas,3.41,road course,11.0,35.0,22.0,Joey Logano,Shell Pennzoil (Roger Penske),Ford,68.0,running,0.0,26.0,0.0
+2024,6,Austin,Circuit of the Americas,3.41,road course,12.0,28.0,12.0,Ryan Blaney,Menards Jack Links (Roger Penske),Ford,68.0,running,0.0,34.0,0.0
+2024,6,Austin,Circuit of the Americas,3.41,road course,13.0,32.0,14.0,Chase Briscoe,Mahindra Tractors (Stewart Haas Racing),Ford,68.0,running,0.0,24.0,0.0
+2024,6,Austin,Circuit of the Americas,3.41,road course,14.0,8.0,11.0,Denny Hamlin,Interstate Batteries (Joe Gibbs),Toyota,68.0,running,3.0,33.0,1.0
+2024,6,Austin,Circuit of the Americas,3.41,road course,15.0,10.0,23.0,Bubba Wallace,Mobil 1 (23XI Racing),Toyota,68.0,running,0.0,22.0,0.0
+2024,6,Austin,Circuit of the Americas,3.41,road course,16.0,9.0,9.0,Chase Elliott,NAPA Auto Parts (Rick Hendrick),Chevrolet,68.0,running,0.0,21.0,0.0
+2024,6,Austin,Circuit of the Americas,3.41,road course,17.0,15.0,5.0,Kyle Larson,HendrickCars.com (Rick Hendrick),Chevrolet,68.0,running,0.0,20.0,0.0
+2024,6,Austin,Circuit of the Americas,3.41,road course,18.0,11.0,2.0,Austin Cindric,Discount Tire (Roger Penske),Ford,68.0,running,0.0,26.0,0.0
+2024,6,Austin,Circuit of the Americas,3.41,road course,19.0,34.0,71.0,Zane Smith,Focused Health (Spire Motorsports),Chevrolet,68.0,running,0.0,18.0,0.0
+2024,6,Austin,Circuit of the Americas,3.41,road course,20.0,12.0,16.0,Shane Van Gisbergen,WeatherTech (Matthew Kaulig),Chevrolet,68.0,running,0.0,0.0,0.0
+2024,6,Austin,Circuit of the Americas,3.41,road course,21.0,22.0,42.0,John H. Nemechek,ROMCO Equipment Co. (Legacy Motor Club),Toyota,68.0,running,0.0,20.0,0.0
+2024,6,Austin,Circuit of the Americas,3.41,road course,22.0,18.0,77.0,Carson Hocevar,Delaware Life (Spire Motorsports),Chevrolet,68.0,running,0.0,15.0,0.0
+2024,6,Austin,Circuit of the Americas,3.41,road course,23.0,24.0,41.0,Ryan Preece,HaasTooling.com (Stewart Haas Racing),Ford,68.0,running,0.0,20.0,0.0
+2024,6,Austin,Circuit of the Americas,3.41,road course,24.0,5.0,7.0,Corey LaJoie,Gainbridge (Spire Motorsports),Chevrolet,68.0,running,0.0,13.0,0.0
+2024,6,Austin,Circuit of the Americas,3.41,road course,25.0,21.0,3.0,Austin Dillon,Get Bioethanol (Richard Childress),Chevrolet,68.0,running,0.0,18.0,0.0
+2024,6,Austin,Circuit of the Americas,3.41,road course,26.0,26.0,38.0,Todd Gilliland,Ruedebusch (Bob Jenkins),Ford,68.0,running,0.0,18.0,0.0
+2024,6,Austin,Circuit of the Americas,3.41,road course,27.0,23.0,15.0,Kaz Grala,N29 Capital Partners (Rick Ware),Ford,68.0,running,0.0,10.0,0.0
+2024,6,Austin,Circuit of the Americas,3.41,road course,28.0,30.0,47.0,Ricky Stenhouse Jr,Palmolive (JTG-Daugherty Racing),Chevrolet,68.0,running,0.0,14.0,0.0
+2024,6,Austin,Circuit of the Americas,3.41,road course,29.0,25.0,50.0,Kamui Kobayashi,Mobil 1 50th Anniversary (TMT Racing),Toyota,68.0,running,0.0,8.0,0.0
+2024,6,Austin,Circuit of the Americas,3.41,road course,30.0,29.0,21.0,Harrison Burton,Motorcraft Quick Lane (Wood Brothers),Ford,68.0,running,0.0,7.0,0.0
+2024,6,Austin,Circuit of the Americas,3.41,road course,31.0,19.0,99.0,Daniel Suarez,Freeway Insurance (Trackhouse Racing),Chevrolet,68.0,running,0.0,15.0,0.0
+2024,6,Austin,Circuit of the Americas,3.41,road course,32.0,38.0,43.0,Erik Jones,Family Dollar (Legacy Motor Club),Toyota,68.0,running,0.0,5.0,0.0
+2024,6,Austin,Circuit of the Americas,3.41,road course,33.0,36.0,6.0,Brad Keselowski,Castrol 125 Years Forward (Jack Roush),Ford,68.0,running,0.0,9.0,0.0
+2024,6,Austin,Circuit of the Americas,3.41,road course,34.0,39.0,10.0,Noah Gragson,Rush Truck Centers (Stewart Haas Racing),Ford,67.0,running,0.0,3.0,0.0
+2024,6,Austin,Circuit of the Americas,3.41,road course,35.0,31.0,4.0,Josh Berry,Overstock.com (Stewart Haas Racing),Ford,67.0,running,0.0,3.0,0.0
+2024,6,Austin,Circuit of the Americas,3.41,road course,36.0,37.0,66.0,Timmy Hill,Amptricity (Carl Long),Ford,66.0,running,0.0,0.0,0.0
+2024,6,Austin,Circuit of the Americas,3.41,road course,37.0,33.0,31.0,Daniel Hemric,Cirkul (Matthew Kaulig),Chevrolet,66.0,running,0.0,3.0,0.0
+2024,6,Austin,Circuit of the Americas,3.41,road course,38.0,27.0,34.0,Michael McDowell,Love's Travel Stops (Bob Jenkins),Ford,51.0,steering,0.0,9.0,0.0
+2024,6,Austin,Circuit of the Americas,3.41,road course,39.0,13.0,51.0,Justin Haley,Fraternal Order of Eagles (Rick Ware),Ford,68.0,running,0.0,1.0,0.0
+2024,7,Richmond,Richmond Raceway,0.75,paved track,1.0,11.0,11.0,Denny Hamlin,Mavis Tires & Brakes (Joe Gibbs),Toyota,407.0,running,17.0,46.0,5.0
+2024,7,Richmond,Richmond Raceway,0.75,paved track,2.0,10.0,22.0,Joey Logano,Shell Pennzoil (Roger Penske),Ford,407.0,running,0.0,49.0,0.0
+2024,7,Richmond,Richmond Raceway,0.75,paved track,3.0,1.0,5.0,Kyle Larson,HendrickCars.com (Rick Hendrick),Chevrolet,407.0,running,144.0,51.0,1.0
+2024,7,Richmond,Richmond Raceway,0.75,paved track,4.0,7.0,19.0,Martin Truex Jr,Auto-Owners Insurance (Joe Gibbs),Toyota,407.0,running,228.0,50.0,1.0
+2024,7,Richmond,Richmond Raceway,0.75,paved track,5.0,2.0,9.0,Chase Elliott,UniFirst (Rick Hendrick),Chevrolet,407.0,running,5.0,36.0,0.0
+2024,7,Richmond,Richmond Raceway,0.75,paved track,6.0,29.0,20.0,Christopher Bell,Mobil 1 (Joe Gibbs),Toyota,407.0,running,9.0,36.0,0.0
+2024,7,Richmond,Richmond Raceway,0.75,paved track,7.0,13.0,24.0,William Byron,Liberty University (Rick Hendrick),Chevrolet,407.0,running,0.0,32.0,0.0
+2024,7,Richmond,Richmond Raceway,0.75,paved track,8.0,23.0,6.0,Brad Keselowski,BuildSubmarines.com (Jack Roush),Ford,407.0,running,0.0,29.0,0.0
+2024,7,Richmond,Richmond Raceway,0.75,paved track,9.0,14.0,17.0,Chris Buescher,Nexletol (Jack Roush),Ford,407.0,running,0.0,32.0,0.0
+2024,7,Richmond,Richmond Raceway,0.75,paved track,10.0,19.0,45.0,Tyler Reddick,SiriusXM (23XI Racing),Toyota,407.0,running,0.0,28.0,0.0
+2024,7,Richmond,Richmond Raceway,0.75,paved track,11.0,30.0,4.0,Josh Berry,SunnyD (Stewart Haas Racing),Ford,407.0,running,2.0,37.0,0.0
+2024,7,Richmond,Richmond Raceway,0.75,paved track,12.0,17.0,10.0,Noah Gragson,Superior Essex (Stewart Haas Racing),Ford,407.0,running,0.0,25.0,0.0
+2024,7,Richmond,Richmond Raceway,0.75,paved track,13.0,5.0,23.0,Bubba Wallace,McDonald's (23XI Racing),Toyota,407.0,running,2.0,36.0,0.0
+2024,7,Richmond,Richmond Raceway,0.75,paved track,14.0,27.0,43.0,Erik Jones,Dollar Tree (Legacy Motor Club),Toyota,407.0,running,0.0,23.0,0.0
+2024,7,Richmond,Richmond Raceway,0.75,paved track,15.0,3.0,1.0,Ross Chastain,Busch Light (Trackhouse Racing),Chevrolet,407.0,running,0.0,25.0,0.0
+2024,7,Richmond,Richmond Raceway,0.75,paved track,16.0,8.0,54.0,Ty Gibbs,Monster Energy (Joe Gibbs),Toyota,407.0,running,0.0,21.0,0.0
+2024,7,Richmond,Richmond Raceway,0.75,paved track,17.0,4.0,48.0,Alex Bowman,Ally (Rick Hendrick),Chevrolet,407.0,running,0.0,28.0,0.0
+2024,7,Richmond,Richmond Raceway,0.75,paved track,18.0,32.0,14.0,Chase Briscoe,HighPoint.com (Stewart Haas Racing),Ford,407.0,running,0.0,19.0,0.0
+2024,7,Richmond,Richmond Raceway,0.75,paved track,19.0,12.0,12.0,Ryan Blaney,Menards Duracell (Roger Penske),Ford,407.0,running,0.0,18.0,0.0
+2024,7,Richmond,Richmond Raceway,0.75,paved track,20.0,15.0,8.0,Kyle Busch,Rebel Bourbon (Richard Childress),Chevrolet,407.0,running,0.0,17.0,0.0
+2024,7,Richmond,Richmond Raceway,0.75,paved track,21.0,6.0,38.0,Todd Gilliland,FARXIGA® (dapagliflozin) (Bob Jenkins),Ford,407.0,running,0.0,21.0,0.0
+2024,7,Richmond,Richmond Raceway,0.75,paved track,22.0,20.0,99.0,Daniel Suarez,Quaker State (Trackhouse Racing),Chevrolet,407.0,running,0.0,15.0,0.0
+2024,7,Richmond,Richmond Raceway,0.75,paved track,23.0,9.0,2.0,Austin Cindric,Discount Tire (Roger Penske),Ford,406.0,running,0.0,14.0,0.0
+2024,7,Richmond,Richmond Raceway,0.75,paved track,24.0,22.0,3.0,Austin Dillon,BREZTRI (Richard Childress),Chevrolet,406.0,running,0.0,13.0,0.0
+2024,7,Richmond,Richmond Raceway,0.75,paved track,25.0,18.0,42.0,John H. Nemechek,Safeway (Legacy Motor Club),Toyota,406.0,running,0.0,12.0,0.0
+2024,7,Richmond,Richmond Raceway,0.75,paved track,26.0,31.0,34.0,Michael McDowell,LONG JOHN SILVER'S (Bob Jenkins),Ford,406.0,running,0.0,11.0,0.0
+2024,7,Richmond,Richmond Raceway,0.75,paved track,27.0,25.0,77.0,Carson Hocevar,Delaware Life (Spire Motorsports),Chevrolet,406.0,running,0.0,10.0,0.0
+2024,7,Richmond,Richmond Raceway,0.75,paved track,28.0,16.0,41.0,Ryan Preece,United Rentals (Stewart Haas Racing),Ford,406.0,running,0.0,10.0,0.0
+2024,7,Richmond,Richmond Raceway,0.75,paved track,29.0,33.0,16.0,Ty Dillon,Chevy Accessories (Matthew Kaulig),Chevrolet,406.0,running,0.0,0.0,0.0
+2024,7,Richmond,Richmond Raceway,0.75,paved track,30.0,34.0,31.0,Daniel Hemric,LA Golf (Matthew Kaulig),Chevrolet,405.0,running,0.0,7.0,0.0
+2024,7,Richmond,Richmond Raceway,0.75,paved track,31.0,35.0,15.0,Kaz Grala,N29 Capital Partners (Rick Ware),Ford,405.0,running,0.0,6.0,0.0
+2024,7,Richmond,Richmond Raceway,0.75,paved track,32.0,36.0,51.0,Justin Haley,Walmart Health & Wellness (Rick Ware),Ford,405.0,running,0.0,5.0,0.0
+2024,7,Richmond,Richmond Raceway,0.75,paved track,33.0,24.0,47.0,Ricky Stenhouse Jr,Kroger / NOS Energy Drink (JTG-Daugherty Racing),Chevrolet,405.0,running,0.0,4.0,0.0
+2024,7,Richmond,Richmond Raceway,0.75,paved track,34.0,26.0,21.0,Harrison Burton,DEX Imaging (Wood Brothers),Ford,405.0,running,0.0,3.0,0.0
+2024,7,Richmond,Richmond Raceway,0.75,paved track,35.0,28.0,71.0,Zane Smith,Focused Health (Spire Motorsports),Chevrolet,404.0,running,0.0,2.0,0.0
+2024,7,Richmond,Richmond Raceway,0.75,paved track,36.0,21.0,7.0,Corey LaJoie,Gainbridge (Spire Motorsports),Chevrolet,404.0,running,0.0,1.0,0.0
+2024,8,Martinsville,Martinsville Speedway,0.526,paved track,1.0,18.0,24.0,William Byron,Axalta Ruby (Rick Hendrick),Chevrolet,415.0,running,88.0,46.0,5.0
+2024,8,Martinsville,Martinsville Speedway,0.526,paved track,2.0,1.0,5.0,Kyle Larson,HendrickCars.com Ruby (Rick Hendrick),Chevrolet,415.0,running,86.0,53.0,1.0
+2024,8,Martinsville,Martinsville Speedway,0.526,paved track,3.0,3.0,9.0,Chase Elliott,UniFirst Ruby (Rick Hendrick),Chevrolet,415.0,running,64.0,49.0,0.0
+2024,8,Martinsville,Martinsville Speedway,0.526,paved track,4.0,2.0,23.0,Bubba Wallace,McDonald's (23XI Racing),Toyota,415.0,running,0.0,51.0,0.0
+2024,8,Martinsville,Martinsville Speedway,0.526,paved track,5.0,9.0,12.0,Ryan Blaney,Advance Auto Parts (Roger Penske),Ford,415.0,running,0.0,32.0,0.0
+2024,8,Martinsville,Martinsville Speedway,0.526,paved track,6.0,6.0,22.0,Joey Logano,Shell Pennzoil (Roger Penske),Ford,415.0,running,84.0,42.0,0.0
+2024,8,Martinsville,Martinsville Speedway,0.526,paved track,7.0,19.0,45.0,Tyler Reddick,MoneyLion (23XI Racing),Toyota,415.0,running,0.0,30.0,0.0
+2024,8,Martinsville,Martinsville Speedway,0.526,paved track,8.0,10.0,48.0,Alex Bowman,Ally Ruby (Rick Hendrick),Chevrolet,415.0,running,0.0,34.0,0.0
+2024,8,Martinsville,Martinsville Speedway,0.526,paved track,9.0,22.0,41.0,Ryan Preece,HaasTooling.com (Stewart Haas Racing),Ford,415.0,running,0.0,28.0,0.0
+2024,8,Martinsville,Martinsville Speedway,0.526,paved track,10.0,5.0,14.0,Chase Briscoe,Mahindra Tractors (Stewart Haas Racing),Ford,415.0,running,8.0,38.0,0.0
+2024,8,Martinsville,Martinsville Speedway,0.526,paved track,11.0,8.0,11.0,Denny Hamlin,SportClips Haircuts (Joe Gibbs),Toyota,415.0,running,66.0,40.0,1.0
+2024,8,Martinsville,Martinsville Speedway,0.526,paved track,12.0,17.0,43.0,Erik Jones,Family Dollar (Legacy Motor Club),Toyota,415.0,running,0.0,25.0,0.0
+2024,8,Martinsville,Martinsville Speedway,0.526,paved track,13.0,16.0,38.0,Todd Gilliland,Carson-Newman University (Bob Jenkins),Ford,415.0,running,0.0,24.0,0.0
+2024,8,Martinsville,Martinsville Speedway,0.526,paved track,14.0,12.0,1.0,Ross Chastain,Worldwide Express (Trackhouse Racing),Chevrolet,415.0,running,0.0,25.0,0.0
+2024,8,Martinsville,Martinsville Speedway,0.526,paved track,15.0,30.0,17.0,Chris Buescher,BuildSubmarines.com (Jack Roush),Ford,414.0,running,0.0,22.0,0.0
+2024,8,Martinsville,Martinsville Speedway,0.526,paved track,16.0,11.0,8.0,Kyle Busch,Lucas Oil (Richard Childress),Chevrolet,414.0,running,0.0,22.0,0.0
+2024,8,Martinsville,Martinsville Speedway,0.526,paved track,17.0,25.0,77.0,Carson Hocevar,Delaware Life (Spire Motorsports),Chevrolet,414.0,running,0.0,20.0,0.0
+2024,8,Martinsville,Martinsville Speedway,0.526,paved track,18.0,4.0,19.0,Martin Truex Jr,Bass Pro Shops (Joe Gibbs),Toyota,414.0,running,0.0,25.0,0.0
+2024,8,Martinsville,Martinsville Speedway,0.526,paved track,19.0,15.0,54.0,Ty Gibbs,Monster Energy (Joe Gibbs),Toyota,414.0,running,0.0,18.0,0.0
+2024,8,Martinsville,Martinsville Speedway,0.526,paved track,20.0,26.0,10.0,Noah Gragson,Overstock.com (Stewart Haas Racing),Ford,414.0,running,0.0,17.0,0.0
+2024,8,Martinsville,Martinsville Speedway,0.526,paved track,21.0,35.0,34.0,Michael McDowell,LONG JOHN SILVER'S (Bob Jenkins),Ford,414.0,running,0.0,16.0,0.0
+2024,8,Martinsville,Martinsville Speedway,0.526,paved track,22.0,21.0,99.0,Daniel Suarez,Freeway Insurance (Trackhouse Racing),Chevrolet,414.0,running,13.0,15.0,0.0
+2024,8,Martinsville,Martinsville Speedway,0.526,paved track,23.0,14.0,2.0,Austin Cindric,Menards Libman (Roger Penske),Ford,414.0,running,6.0,14.0,0.0
+2024,8,Martinsville,Martinsville Speedway,0.526,paved track,24.0,13.0,6.0,Brad Keselowski,Body Guard (Jack Roush),Ford,414.0,running,0.0,13.0,0.0
+2024,8,Martinsville,Martinsville Speedway,0.526,paved track,25.0,7.0,4.0,Josh Berry,Mobil 1 50th Anniversary (Stewart Haas Racing),Ford,413.0,running,0.0,15.0,0.0
+2024,8,Martinsville,Martinsville Speedway,0.526,paved track,26.0,31.0,15.0,Kaz Grala,N29 Capital Partners (Rick Ware),Ford,413.0,running,0.0,11.0,0.0
+2024,8,Martinsville,Martinsville Speedway,0.526,paved track,27.0,33.0,16.0,Josh Williams,Alloy Employer Services (Matthew Kaulig),Chevrolet,413.0,running,0.0,0.0,0.0
+2024,8,Martinsville,Martinsville Speedway,0.526,paved track,28.0,36.0,31.0,Daniel Hemric,Cirkul (Matthew Kaulig),Chevrolet,413.0,running,0.0,9.0,0.0
+2024,8,Martinsville,Martinsville Speedway,0.526,paved track,29.0,23.0,47.0,Ricky Stenhouse Jr,SunnyD (JTG-Daugherty Racing),Chevrolet,413.0,running,0.0,8.0,0.0
+2024,8,Martinsville,Martinsville Speedway,0.526,paved track,30.0,27.0,51.0,Justin Haley,Ohanafy (Rick Ware),Ford,413.0,running,0.0,7.0,0.0
+2024,8,Martinsville,Martinsville Speedway,0.526,paved track,31.0,24.0,71.0,Zane Smith,Focused Health (Spire Motorsports),Chevrolet,412.0,running,0.0,6.0,0.0
+2024,8,Martinsville,Martinsville Speedway,0.526,paved track,32.0,32.0,7.0,Corey LaJoie,Gainbridge (Spire Motorsports),Chevrolet,412.0,running,0.0,5.0,0.0
+2024,8,Martinsville,Martinsville Speedway,0.526,paved track,33.0,34.0,21.0,Harrison Burton,Motorcraft Quick Lane (Wood Brothers),Ford,412.0,running,0.0,4.0,0.0
+2024,8,Martinsville,Martinsville Speedway,0.526,paved track,34.0,28.0,3.0,Austin Dillon,Bass Pro Shops (Richard Childress),Chevrolet,412.0,running,0.0,3.0,0.0
+2024,8,Martinsville,Martinsville Speedway,0.526,paved track,35.0,20.0,20.0,Christopher Bell,Yahoo! (Joe Gibbs),Toyota,411.0,running,0.0,2.0,0.0
+2024,8,Martinsville,Martinsville Speedway,0.526,paved track,36.0,29.0,42.0,John H. Nemechek,Skip Barber Racing School (Legacy Motor Club),Toyota,396.0,crash,0.0,1.0,0.0
+2024,8,Martinsville,Martinsville Speedway,0.526,paved track,37.0,37.0,66.0,David Starr,MBM Motorsports (Carl Long),Ford,311.0,steering,0.0,0.0,0.0
+2024,9,Fort Worth,Texas Motor Speedway,1.5,paved track,1.0,24.0,9.0,Chase Elliott,Hooters (Rick Hendrick),Chevrolet,276.0,running,39.0,45.0,5.0
+2024,9,Fort Worth,Texas Motor Speedway,1.5,paved track,2.0,22.0,6.0,Brad Keselowski,BuildSubmarines.com (Jack Roush),Ford,276.0,running,0.0,40.0,0.0
+2024,9,Fort Worth,Texas Motor Speedway,1.5,paved track,3.0,6.0,24.0,William Byron,Liberty University (Rick Hendrick),Chevrolet,276.0,running,0.0,36.0,0.0
+2024,9,Fort Worth,Texas Motor Speedway,1.5,paved track,4.0,4.0,45.0,Tyler Reddick,The Beast Unleashed (23XI Racing),Toyota,276.0,running,37.0,40.0,0.0
+2024,9,Fort Worth,Texas Motor Speedway,1.5,paved track,5.0,17.0,99.0,Daniel Suarez,Kubota (Trackhouse Racing),Chevrolet,276.0,running,0.0,32.0,0.0
+2024,9,Fort Worth,Texas Motor Speedway,1.5,paved track,6.0,5.0,14.0,Chase Briscoe,Rush Truck Centers / Cummins (Stewart Haas Racing),Ford,276.0,running,0.0,43.0,0.0
+2024,9,Fort Worth,Texas Motor Speedway,1.5,paved track,7.0,10.0,23.0,Bubba Wallace,Columbia Sportswear Company (23XI Racing),Toyota,276.0,running,5.0,40.0,0.0
+2024,9,Fort Worth,Texas Motor Speedway,1.5,paved track,8.0,15.0,3.0,Austin Dillon,Bass Pro Shops (Richard Childress),Chevrolet,276.0,running,0.0,29.0,0.0
+2024,9,Fort Worth,Texas Motor Speedway,1.5,paved track,9.0,35.0,8.0,Kyle Busch,Zone (Richard Childress),Chevrolet,276.0,running,0.0,28.0,0.0
+2024,9,Fort Worth,Texas Motor Speedway,1.5,paved track,10.0,16.0,77.0,Carson Hocevar,Premier Security (Spire Motorsports),Chevrolet,276.0,running,0.0,27.0,0.0
+2024,9,Fort Worth,Texas Motor Speedway,1.5,paved track,11.0,20.0,22.0,Joey Logano,AAA Insurance (Roger Penske),Ford,276.0,running,14.0,26.0,0.0
+2024,9,Fort Worth,Texas Motor Speedway,1.5,paved track,12.0,26.0,41.0,Ryan Preece,HaasTooling.com (Stewart Haas Racing),Ford,276.0,running,0.0,25.0,0.0
+2024,9,Fort Worth,Texas Motor Speedway,1.5,paved track,13.0,2.0,54.0,Ty Gibbs,Interstate Batteries (Joe Gibbs),Toyota,276.0,running,5.0,26.0,0.0
+2024,9,Fort Worth,Texas Motor Speedway,1.5,paved track,14.0,9.0,19.0,Martin Truex Jr,Bass Pro Shops (Joe Gibbs),Toyota,276.0,running,0.0,23.0,0.0
+2024,9,Fort Worth,Texas Motor Speedway,1.5,paved track,15.0,19.0,17.0,Chris Buescher,Fifth Third Bank (Jack Roush),Ford,276.0,running,0.0,22.0,0.0
+2024,9,Fort Worth,Texas Motor Speedway,1.5,paved track,16.0,36.0,16.0,Ty Dillon,Sea Best Seafood (Matthew Kaulig),Chevrolet,276.0,running,0.0,0.0,0.0
+2024,9,Fort Worth,Texas Motor Speedway,1.5,paved track,17.0,3.0,20.0,Christopher Bell,Rheem (Joe Gibbs),Toyota,276.0,running,1.0,29.0,0.0
+2024,9,Fort Worth,Texas Motor Speedway,1.5,paved track,18.0,21.0,10.0,Noah Gragson,Overstock.com (Stewart Haas Racing),Ford,276.0,running,0.0,19.0,0.0
+2024,9,Fort Worth,Texas Motor Speedway,1.5,paved track,19.0,27.0,43.0,Erik Jones,Dollar Tree (Legacy Motor Club),Toyota,276.0,running,0.0,25.0,0.0
+2024,9,Fort Worth,Texas Motor Speedway,1.5,paved track,20.0,38.0,31.0,Daniel Hemric,South Point Hotel and Casino (Matthew Kaulig),Chevrolet,276.0,running,0.0,17.0,0.0
+2024,9,Fort Worth,Texas Motor Speedway,1.5,paved track,21.0,1.0,5.0,Kyle Larson,HendrickCars.com (Rick Hendrick),Chevrolet,276.0,running,77.0,26.0,1.0
+2024,9,Fort Worth,Texas Motor Speedway,1.5,paved track,22.0,23.0,7.0,Corey LaJoie,Schluter Systems (Spire Motorsports),Chevrolet,276.0,running,0.0,15.0,0.0
+2024,9,Fort Worth,Texas Motor Speedway,1.5,paved track,23.0,31.0,47.0,Ricky Stenhouse Jr,Boost by Kroger/Blue Buffalo (JTG-Daugherty Racing),Chevrolet,276.0,running,0.0,17.0,0.0
+2024,9,Fort Worth,Texas Motor Speedway,1.5,paved track,24.0,32.0,51.0,Justin Haley,Jacob Construction (Rick Ware),Ford,276.0,running,0.0,13.0,0.0
+2024,9,Fort Worth,Texas Motor Speedway,1.5,paved track,25.0,8.0,2.0,Austin Cindric,Discount Tire (Roger Penske),Ford,276.0,running,0.0,12.0,0.0
+2024,9,Fort Worth,Texas Motor Speedway,1.5,paved track,26.0,18.0,71.0,Zane Smith,Ambetter Health (Spire Motorsports),Chevrolet,276.0,running,0.0,11.0,0.0
+2024,9,Fort Worth,Texas Motor Speedway,1.5,paved track,27.0,33.0,15.0,Kaz Grala,N29 Capital Partners (Rick Ware),Ford,276.0,running,0.0,10.0,0.0
+2024,9,Fort Worth,Texas Motor Speedway,1.5,paved track,28.0,29.0,21.0,Harrison Burton,Freightliner (Wood Brothers),Ford,276.0,running,7.0,13.0,0.0
+2024,9,Fort Worth,Texas Motor Speedway,1.5,paved track,29.0,37.0,84.0,Jimmie Johnson,AdventHealth (Legacy Motor Club),Toyota,276.0,running,0.0,8.0,0.0
+2024,9,Fort Worth,Texas Motor Speedway,1.5,paved track,30.0,11.0,11.0,Denny Hamlin,Yahoo! (Joe Gibbs),Toyota,276.0,running,37.0,15.0,0.0
+2024,9,Fort Worth,Texas Motor Speedway,1.5,paved track,31.0,28.0,38.0,Todd Gilliland,LONG JOHN SILVER'S (Bob Jenkins),Ford,276.0,running,3.0,6.0,0.0
+2024,9,Fort Worth,Texas Motor Speedway,1.5,paved track,32.0,12.0,1.0,Ross Chastain,Worldwide Express (Trackhouse Racing),Chevrolet,275.0,crash,33.0,15.0,1.0
+2024,9,Fort Worth,Texas Motor Speedway,1.5,paved track,33.0,7.0,12.0,Ryan Blaney,MenardsKnauf Insulation (Roger Penske),Ford,268.0,running,17.0,17.0,0.0
+2024,9,Fort Worth,Texas Motor Speedway,1.5,paved track,34.0,30.0,42.0,John H. Nemechek,ROMCO Equipment Co. (Legacy Motor Club),Toyota,226.0,crash,0.0,3.0,0.0
+2024,9,Fort Worth,Texas Motor Speedway,1.5,paved track,35.0,13.0,34.0,Michael McDowell,Love's / Fleetguard (Bob Jenkins),Ford,143.0,crash,0.0,5.0,0.0
+2024,9,Fort Worth,Texas Motor Speedway,1.5,paved track,36.0,25.0,4.0,Josh Berry,"Miner DOCKS, DOORS, AND MORE. (Stewart Haas Racing)",Ford,136.0,crash,0.0,1.0,0.0
+2024,9,Fort Worth,Texas Motor Speedway,1.5,paved track,37.0,14.0,48.0,Alex Bowman,Ally (Rick Hendrick),Chevrolet,100.0,crash,0.0,1.0,0.0
+2024,9,Fort Worth,Texas Motor Speedway,1.5,paved track,38.0,34.0,33.0,Austin Hill,United Rentals (Richard Childress),Chevrolet,98.0,steering,1.0,0.0,0.0
+2024,10,Talladega,Talladega Superspeedway,2.66,paved track,1.0,18.0,45.0,Tyler Reddick,Jordan Brand (23XI Racing),Toyota,188.0,running,13.0,47.0,5.0
+2024,10,Talladega,Talladega Superspeedway,2.66,paved track,2.0,22.0,6.0,Brad Keselowski,Castrol Edge (Jack Roush),Ford,188.0,running,2.0,38.0,0.0
+2024,10,Talladega,Talladega Superspeedway,2.66,paved track,3.0,36.0,10.0,Noah Gragson,Overstock.com (Stewart Haas Racing),Ford,188.0,running,5.0,34.0,0.0
+2024,10,Talladega,Talladega Superspeedway,2.66,paved track,4.0,33.0,47.0,Ricky Stenhouse Jr,Boost/Thomas'/Philadelphia (JTG-Daugherty Racing),Chevrolet,188.0,running,0.0,33.0,0.0
+2024,10,Talladega,Talladega Superspeedway,2.66,paved track,5.0,12.0,48.0,Alex Bowman,Ally (Rick Hendrick),Chevrolet,188.0,running,0.0,33.0,0.0
+2024,10,Talladega,Talladega Superspeedway,2.66,paved track,6.0,24.0,62.0,Anthony Alfredo,Dude Wipes (Beard Motorsports),Chevrolet,188.0,running,4.0,0.0,0.0
+2024,10,Talladega,Talladega Superspeedway,2.66,paved track,7.0,13.0,24.0,William Byron,Liberty University (Rick Hendrick),Chevrolet,188.0,running,0.0,38.0,0.0
+2024,10,Talladega,Talladega Superspeedway,2.66,paved track,8.0,3.0,38.0,Todd Gilliland,gener8tor (Bob Jenkins),Ford,188.0,running,0.0,29.0,0.0
+2024,10,Talladega,Talladega Superspeedway,2.66,paved track,9.0,19.0,31.0,Daniel Hemric,Cirkul (Matthew Kaulig),Chevrolet,188.0,running,8.0,28.0,0.0
+2024,10,Talladega,Talladega Superspeedway,2.66,paved track,10.0,16.0,21.0,Harrison Burton,Motorcraft Quick Lane (Wood Brothers),Ford,188.0,running,0.0,32.0,0.0
+2024,10,Talladega,Talladega Superspeedway,2.66,paved track,11.0,6.0,19.0,Martin Truex Jr,Bass Pro Shops (Joe Gibbs),Toyota,188.0,running,16.0,26.0,0.0
+2024,10,Talladega,Talladega Superspeedway,2.66,paved track,12.0,26.0,14.0,Chase Briscoe,Mahindra Tractors (Stewart Haas Racing),Ford,188.0,running,3.0,25.0,0.0
+2024,10,Talladega,Talladega Superspeedway,2.66,paved track,13.0,32.0,1.0,Ross Chastain,Jockey Outdoors By Luke Bryan (Trackhouse Racing),Chevrolet,188.0,running,6.0,30.0,0.0
+2024,10,Talladega,Talladega Superspeedway,2.66,paved track,14.0,11.0,41.0,Ryan Preece,United Rentals (Stewart Haas Racing),Ford,188.0,running,0.0,25.0,0.0
+2024,10,Talladega,Talladega Superspeedway,2.66,paved track,15.0,9.0,9.0,Chase Elliott,NAPA Auto Parts (Rick Hendrick),Chevrolet,188.0,running,5.0,34.0,0.0
+2024,10,Talladega,Talladega Superspeedway,2.66,paved track,16.0,29.0,4.0,Josh Berry,Overstock.com (Stewart Haas Racing),Ford,188.0,running,3.0,21.0,0.0
+2024,10,Talladega,Talladega Superspeedway,2.66,paved track,17.0,35.0,77.0,Carson Hocevar,Zeigler Auto Group (Spire Motorsports),Chevrolet,188.0,running,1.0,20.0,0.0
+2024,10,Talladega,Talladega Superspeedway,2.66,paved track,18.0,31.0,7.0,Corey LaJoie,Gainbridge (Spire Motorsports),Chevrolet,188.0,running,0.0,19.0,0.0
+2024,10,Talladega,Talladega Superspeedway,2.66,paved track,19.0,7.0,22.0,Joey Logano,Shell Pennzoil (Roger Penske),Ford,188.0,running,22.0,28.0,1.0
+2024,10,Talladega,Talladega Superspeedway,2.66,paved track,20.0,21.0,12.0,Ryan Blaney,Wabash (Roger Penske),Ford,188.0,running,1.0,24.0,0.0
+2024,10,Talladega,Talladega Superspeedway,2.66,paved track,21.0,38.0,5.0,Kyle Larson,HendrickCars.com (Rick Hendrick),Chevrolet,188.0,running,0.0,24.0,0.0
+2024,10,Talladega,Talladega Superspeedway,2.66,paved track,22.0,15.0,54.0,Ty Gibbs,Monster Energy (Joe Gibbs),Toyota,188.0,running,1.0,16.0,0.0
+2024,10,Talladega,Talladega Superspeedway,2.66,paved track,23.0,2.0,2.0,Austin Cindric,MenardsRichmond Water Heaters (Roger Penske),Ford,188.0,running,16.0,33.0,1.0
+2024,10,Talladega,Talladega Superspeedway,2.66,paved track,24.0,34.0,15.0,Cody Ware,Jacob Construction (Rick Ware),Ford,188.0,running,0.0,13.0,0.0
+2024,10,Talladega,Talladega Superspeedway,2.66,paved track,25.0,8.0,17.0,Chris Buescher,Fastenal (Jack Roush),Ford,188.0,running,6.0,16.0,0.0
+2024,10,Talladega,Talladega Superspeedway,2.66,paved track,26.0,25.0,99.0,Daniel Suarez,Tootsies Orchid Lounge (Trackhouse Racing),Chevrolet,188.0,running,0.0,11.0,0.0
+2024,10,Talladega,Talladega Superspeedway,2.66,paved track,27.0,4.0,8.0,Kyle Busch,Cheddar's (Richard Childress),Chevrolet,188.0,running,4.0,16.0,0.0
+2024,10,Talladega,Talladega Superspeedway,2.66,paved track,28.0,17.0,16.0,Shane Van Gisbergen,Wendy's (Matthew Kaulig),Chevrolet,188.0,running,3.0,0.0,0.0
+2024,10,Talladega,Talladega Superspeedway,2.66,paved track,29.0,30.0,71.0,Zane Smith,Focused Health (Spire Motorsports),Chevrolet,188.0,running,0.0,8.0,0.0
+2024,10,Talladega,Talladega Superspeedway,2.66,paved track,30.0,5.0,3.0,Austin Dillon,Bass Pro Shops (Richard Childress),Chevrolet,188.0,running,0.0,14.0,0.0
+2024,10,Talladega,Talladega Superspeedway,2.66,paved track,31.0,1.0,34.0,Michael McDowell,Love's Travel Stops (Bob Jenkins),Ford,187.0,crash,36.0,6.0,0.0
+2024,10,Talladega,Talladega Superspeedway,2.66,paved track,32.0,37.0,78.0,B.J. McLeod,Live Fast Motorsports (B.J. McLeod),Chevrolet,187.0,running,5.0,0.0,0.0
+2024,10,Talladega,Talladega Superspeedway,2.66,paved track,33.0,20.0,42.0,John H. Nemechek,AdventHealth (Legacy Motor Club),Toyota,184.0,running,20.0,4.0,0.0
+2024,10,Talladega,Talladega Superspeedway,2.66,paved track,34.0,27.0,51.0,Justin Haley,Parts Plus (Rick Ware),Ford,184.0,running,4.0,3.0,0.0
+2024,10,Talladega,Talladega Superspeedway,2.66,paved track,35.0,28.0,43.0,Erik Jones,Family Dollar (Legacy Motor Club),Toyota,154.0,crash,0.0,2.0,0.0
+2024,10,Talladega,Talladega Superspeedway,2.66,paved track,36.0,14.0,23.0,Bubba Wallace,Leidos (23XI Racing),Toyota,154.0,crash,0.0,1.0,0.0
+2024,10,Talladega,Talladega Superspeedway,2.66,paved track,37.0,23.0,11.0,Denny Hamlin,FedEx Ultimate Fan Contest (Joe Gibbs),Toyota,154.0,crash,4.0,1.0,0.0
+2024,10,Talladega,Talladega Superspeedway,2.66,paved track,38.0,10.0,20.0,Christopher Bell,Mobil 1 (Joe Gibbs),Toyota,132.0,crash,0.0,5.0,0.0
+2024,11,Dover,Dover Motor Speedway,1.0,paved track,1.0,6.0,11.0,Denny Hamlin,Mavis Tire (Joe Gibbs),Toyota,400.0,running,136.0,53.0,5.0
+2024,11,Dover,Dover Motor Speedway,1.0,paved track,2.0,21.0,5.0,Kyle Larson,HendrickCars.com (Rick Hendrick),Chevrolet,400.0,running,39.0,51.0,1.0
+2024,11,Dover,Dover Motor Speedway,1.0,paved track,3.0,15.0,19.0,Martin Truex Jr,Bass Pro Shops (Joe Gibbs),Toyota,400.0,running,69.0,51.0,1.0
+2024,11,Dover,Dover Motor Speedway,1.0,paved track,4.0,1.0,8.0,Kyle Busch,FICO (Richard Childress),Chevrolet,400.0,running,34.0,42.0,0.0
+2024,11,Dover,Dover Motor Speedway,1.0,paved track,5.0,29.0,9.0,Chase Elliott,NAPA Auto Parts (Rick Hendrick),Chevrolet,400.0,running,0.0,40.0,0.0
+2024,11,Dover,Dover Motor Speedway,1.0,paved track,6.0,5.0,10.0,Noah Gragson,MillerTech (Stewart Haas Racing),Ford,400.0,running,0.0,31.0,0.0
+2024,11,Dover,Dover Motor Speedway,1.0,paved track,7.0,2.0,12.0,Ryan Blaney,Wurth (Roger Penske),Ford,400.0,running,47.0,40.0,0.0
+2024,11,Dover,Dover Motor Speedway,1.0,paved track,8.0,9.0,48.0,Alex Bowman,Ally (Rick Hendrick),Chevrolet,400.0,running,0.0,41.0,0.0
+2024,11,Dover,Dover Motor Speedway,1.0,paved track,9.0,14.0,31.0,Daniel Hemric,Poppy Bank (Matthew Kaulig),Chevrolet,400.0,running,5.0,28.0,0.0
+2024,11,Dover,Dover Motor Speedway,1.0,paved track,10.0,19.0,54.0,Ty Gibbs,Monster Energy (Joe Gibbs),Toyota,400.0,running,0.0,27.0,0.0
+2024,11,Dover,Dover Motor Speedway,1.0,paved track,11.0,4.0,45.0,Tyler Reddick,McDonald's (23XI Racing),Toyota,400.0,running,0.0,38.0,0.0
+2024,11,Dover,Dover Motor Speedway,1.0,paved track,12.0,22.0,1.0,Ross Chastain,Moose Fraternity (Trackhouse Racing),Chevrolet,400.0,running,0.0,25.0,0.0
+2024,11,Dover,Dover Motor Speedway,1.0,paved track,13.0,10.0,16.0,A.J. Allmendinger,Action Industries (Matthew Kaulig),Chevrolet,400.0,running,0.0,0.0,0.0
+2024,11,Dover,Dover Motor Speedway,1.0,paved track,14.0,12.0,4.0,Josh Berry,Overstock.com (Stewart Haas Racing),Ford,400.0,running,0.0,23.0,0.0
+2024,11,Dover,Dover Motor Speedway,1.0,paved track,15.0,11.0,2.0,Austin Cindric,Menards Quaker State (Roger Penske),Ford,400.0,running,0.0,22.0,0.0
+2024,11,Dover,Dover Motor Speedway,1.0,paved track,16.0,13.0,22.0,Joey Logano,Shell Pennzoil (Roger Penske),Ford,400.0,running,0.0,21.0,0.0
+2024,11,Dover,Dover Motor Speedway,1.0,paved track,17.0,18.0,17.0,Chris Buescher,Fastenal (Jack Roush),Ford,400.0,running,0.0,20.0,0.0
+2024,11,Dover,Dover Motor Speedway,1.0,paved track,18.0,31.0,99.0,Daniel Suarez,Jockey (Trackhouse Racing),Chevrolet,399.0,running,0.0,19.0,0.0
+2024,11,Dover,Dover Motor Speedway,1.0,paved track,19.0,7.0,14.0,Chase Briscoe,Mahindra Tractors (Stewart Haas Racing),Ford,399.0,running,0.0,18.0,0.0
+2024,11,Dover,Dover Motor Speedway,1.0,paved track,20.0,34.0,42.0,John H. Nemechek,ACME (Legacy Motor Club),Toyota,398.0,running,0.0,17.0,0.0
+2024,11,Dover,Dover Motor Speedway,1.0,paved track,21.0,25.0,7.0,Corey LaJoie,Gainbridge (Spire Motorsports),Chevrolet,398.0,running,33.0,16.0,0.0
+2024,11,Dover,Dover Motor Speedway,1.0,paved track,22.0,20.0,77.0,Carson Hocevar,Premier Security (Spire Motorsports),Chevrolet,397.0,running,0.0,15.0,0.0
+2024,11,Dover,Dover Motor Speedway,1.0,paved track,23.0,36.0,51.0,Justin Haley,Walmart Health & Wellness (Rick Ware),Ford,397.0,running,0.0,14.0,0.0
+2024,11,Dover,Dover Motor Speedway,1.0,paved track,24.0,37.0,71.0,Zane Smith,Focused Health (Spire Motorsports),Chevrolet,397.0,running,0.0,13.0,0.0
+2024,11,Dover,Dover Motor Speedway,1.0,paved track,25.0,32.0,43.0,Corey Heim,Dollar Tree / Petty 75th (Legacy Motor Club),Toyota,397.0,running,0.0,0.0,0.0
+2024,11,Dover,Dover Motor Speedway,1.0,paved track,26.0,26.0,21.0,Harrison Burton,DEX Imaging (Wood Brothers),Ford,397.0,running,0.0,11.0,0.0
+2024,11,Dover,Dover Motor Speedway,1.0,paved track,27.0,23.0,3.0,Austin Dillon,BREZTRI (Richard Childress),Chevrolet,396.0,running,0.0,10.0,0.0
+2024,11,Dover,Dover Motor Speedway,1.0,paved track,28.0,27.0,84.0,Jimmie Johnson,Dollar Tree/Family Dollar (Legacy Motor Club),Toyota,395.0,running,0.0,9.0,0.0
+2024,11,Dover,Dover Motor Speedway,1.0,paved track,29.0,35.0,15.0,Kaz Grala,N29 Capital Partners (Rick Ware),Ford,394.0,running,0.0,8.0,0.0
+2024,11,Dover,Dover Motor Speedway,1.0,paved track,30.0,24.0,6.0,Brad Keselowski,BuildSubmarines.com (Jack Roush),Ford,383.0,running,0.0,7.0,0.0
+2024,11,Dover,Dover Motor Speedway,1.0,paved track,31.0,30.0,38.0,Todd Gilliland,A&W All American Food (Bob Jenkins),Ford,379.0,running,0.0,6.0,0.0
+2024,11,Dover,Dover Motor Speedway,1.0,paved track,32.0,16.0,23.0,Bubba Wallace,XFINITY/U.S. AIR FORCE (23XI Racing),Toyota,329.0,crash,1.0,6.0,0.0
+2024,11,Dover,Dover Motor Speedway,1.0,paved track,33.0,3.0,24.0,William Byron,Liberty University (Rick Hendrick),Chevrolet,329.0,crash,36.0,13.0,0.0
+2024,11,Dover,Dover Motor Speedway,1.0,paved track,34.0,33.0,20.0,Christopher Bell,Yahoo! (Joe Gibbs),Toyota,328.0,crash,0.0,3.0,0.0
+2024,11,Dover,Dover Motor Speedway,1.0,paved track,35.0,17.0,47.0,Ricky Stenhouse Jr,Hungry Jack (JTG-Daugherty Racing),Chevrolet,320.0,crash,0.0,5.0,0.0
+2024,11,Dover,Dover Motor Speedway,1.0,paved track,36.0,8.0,34.0,Michael McDowell,The Pete Store (Bob Jenkins),Ford,285.0,hub,0.0,1.0,0.0
+2024,11,Dover,Dover Motor Speedway,1.0,paved track,37.0,28.0,41.0,Ryan Preece,Morton Buildings (Stewart Haas Racing),Ford,66.0,fire,0.0,1.0,0.0
+2024,12,Kansas,Kansas Speedway,1.5,paved track,1.0,4.0,5.0,Kyle Larson,HendrickCars.com (Rick Hendrick),Chevrolet,268.0,running,63.0,57.0,5.0
+2024,12,Kansas,Kansas Speedway,1.5,paved track,2.0,12.0,17.0,Chris Buescher,Castrol Edge (Jack Roush),Ford,268.0,running,54.0,51.0,1.0
+2024,12,Kansas,Kansas Speedway,1.5,paved track,3.0,9.0,9.0,Chase Elliott,NAPA Auto Parts (Rick Hendrick),Chevrolet,268.0,running,0.0,35.0,0.0
+2024,12,Kansas,Kansas Speedway,1.5,paved track,4.0,13.0,19.0,Martin Truex Jr,Auto-Owners Insurance (Joe Gibbs),Toyota,268.0,running,0.0,43.0,0.0
+2024,12,Kansas,Kansas Speedway,1.5,paved track,5.0,14.0,11.0,Denny Hamlin,SportClips Haircuts (Joe Gibbs),Toyota,268.0,running,71.0,50.0,1.0
+2024,12,Kansas,Kansas Speedway,1.5,paved track,6.0,1.0,20.0,Christopher Bell,Yahoo! (Joe Gibbs),Toyota,268.0,running,5.0,38.0,0.0
+2024,12,Kansas,Kansas Speedway,1.5,paved track,7.0,18.0,48.0,Alex Bowman,Ally (Rick Hendrick),Chevrolet,268.0,running,0.0,34.0,0.0
+2024,12,Kansas,Kansas Speedway,1.5,paved track,8.0,5.0,8.0,Kyle Busch,Cheddar's Scratch Kitchen (Richard Childress),Chevrolet,268.0,running,14.0,39.0,0.0
+2024,12,Kansas,Kansas Speedway,1.5,paved track,9.0,3.0,10.0,Noah Gragson,Bass Pro Shops Winchester (Stewart Haas Racing),Ford,268.0,running,0.0,31.0,0.0
+2024,12,Kansas,Kansas Speedway,1.5,paved track,10.0,8.0,34.0,Michael McDowell,Love's Travel Stops (Bob Jenkins),Ford,268.0,running,0.0,27.0,0.0
+2024,12,Kansas,Kansas Speedway,1.5,paved track,11.0,30.0,6.0,Brad Keselowski,Consumer Cellular (Jack Roush),Ford,268.0,running,1.0,26.0,0.0
+2024,12,Kansas,Kansas Speedway,1.5,paved track,12.0,26.0,12.0,Ryan Blaney,MenardsCardell Cabinetry (Roger Penske),Ford,268.0,running,0.0,25.0,0.0
+2024,12,Kansas,Kansas Speedway,1.5,paved track,13.0,29.0,42.0,John H. Nemechek,Family Dollar (Legacy Motor Club),Toyota,268.0,running,0.0,24.0,0.0
+2024,12,Kansas,Kansas Speedway,1.5,paved track,14.0,25.0,38.0,Todd Gilliland,LONG JOHN SILVER'S (Bob Jenkins),Ford,268.0,running,4.0,23.0,0.0
+2024,12,Kansas,Kansas Speedway,1.5,paved track,15.0,17.0,4.0,Josh Berry,Overstock.com (Stewart Haas Racing),Ford,268.0,running,0.0,22.0,0.0
+2024,12,Kansas,Kansas Speedway,1.5,paved track,16.0,21.0,47.0,Ricky Stenhouse Jr,MInute Rice (JTG-Daugherty Racing),Chevrolet,268.0,running,0.0,21.0,0.0
+2024,12,Kansas,Kansas Speedway,1.5,paved track,17.0,23.0,23.0,Bubba Wallace,MoneyLion (23XI Racing),Toyota,268.0,running,0.0,20.0,0.0
+2024,12,Kansas,Kansas Speedway,1.5,paved track,18.0,35.0,51.0,Justin Haley,Children's Mercy Hospital (Rick Ware),Ford,268.0,running,0.0,19.0,0.0
+2024,12,Kansas,Kansas Speedway,1.5,paved track,19.0,2.0,1.0,Ross Chastain,Busch Light Crocs (Trackhouse Racing),Chevrolet,268.0,running,43.0,29.0,0.0
+2024,12,Kansas,Kansas Speedway,1.5,paved track,20.0,15.0,45.0,Tyler Reddick,Monster Energy (23XI Racing),Toyota,268.0,running,7.0,20.0,0.0
+2024,12,Kansas,Kansas Speedway,1.5,paved track,21.0,10.0,14.0,Chase Briscoe,Rush Truck Centers / Cummins (Stewart Haas Racing),Ford,268.0,running,0.0,16.0,0.0
+2024,12,Kansas,Kansas Speedway,1.5,paved track,22.0,20.0,43.0,Corey Heim,Dollar Tree (Legacy Motor Club),Toyota,268.0,running,0.0,0.0,0.0
+2024,12,Kansas,Kansas Speedway,1.5,paved track,23.0,36.0,24.0,William Byron,RaptorTough.com (Rick Hendrick),Chevrolet,268.0,running,0.0,14.0,0.0
+2024,12,Kansas,Kansas Speedway,1.5,paved track,24.0,22.0,77.0,Carson Hocevar,Delaware Life/Creative One (Spire Motorsports),Chevrolet,268.0,running,0.0,13.0,0.0
+2024,12,Kansas,Kansas Speedway,1.5,paved track,25.0,16.0,3.0,Austin Dillon,Get Bioethanol (Richard Childress),Chevrolet,268.0,running,0.0,12.0,0.0
+2024,12,Kansas,Kansas Speedway,1.5,paved track,26.0,28.0,7.0,Corey LaJoie,Gainbridge (Spire Motorsports),Chevrolet,268.0,running,0.0,11.0,0.0
+2024,12,Kansas,Kansas Speedway,1.5,paved track,27.0,27.0,99.0,Daniel Suarez,Choice Privileges (Trackhouse Racing),Chevrolet,268.0,running,0.0,10.0,0.0
+2024,12,Kansas,Kansas Speedway,1.5,paved track,28.0,32.0,41.0,Ryan Preece,HaasTooling.com (Stewart Haas Racing),Ford,268.0,running,0.0,9.0,0.0
+2024,12,Kansas,Kansas Speedway,1.5,paved track,29.0,24.0,71.0,Zane Smith,Focused Health (Spire Motorsports),Chevrolet,268.0,running,0.0,8.0,0.0
+2024,12,Kansas,Kansas Speedway,1.5,paved track,30.0,33.0,31.0,Daniel Hemric,LA Golf (Matthew Kaulig),Chevrolet,268.0,running,0.0,7.0,0.0
+2024,12,Kansas,Kansas Speedway,1.5,paved track,31.0,38.0,16.0,Derek Kraus,projectwyoming.com (Matthew Kaulig),Chevrolet,268.0,running,6.0,6.0,0.0
+2024,12,Kansas,Kansas Speedway,1.5,paved track,32.0,6.0,54.0,Ty Gibbs,SiriusXM (Joe Gibbs),Toyota,267.0,running,0.0,15.0,0.0
+2024,12,Kansas,Kansas Speedway,1.5,paved track,33.0,34.0,33.0,Austin Hill,United Rentals (Richard Childress),Chevrolet,267.0,running,0.0,0.0,0.0
+2024,12,Kansas,Kansas Speedway,1.5,paved track,34.0,11.0,22.0,Joey Logano,Shell Pennzoil (Roger Penske),Ford,266.0,running,0.0,3.0,0.0
+2024,12,Kansas,Kansas Speedway,1.5,paved track,35.0,37.0,15.0,Riley Herbst,Monster Energy Zero Sugar (Rick Ware),Ford,266.0,running,0.0,0.0,0.0
+2024,12,Kansas,Kansas Speedway,1.5,paved track,36.0,31.0,21.0,Harrison Burton,Motorcraft Quick Lane (Wood Brothers),Ford,262.0,running,0.0,1.0,0.0
+2024,12,Kansas,Kansas Speedway,1.5,paved track,37.0,7.0,2.0,Austin Cindric,Snap On (Roger Penske),Ford,184.0,crash,0.0,1.0,0.0
+2024,12,Kansas,Kansas Speedway,1.5,paved track,38.0,19.0,84.0,Jimmie Johnson,AdventHealth (Legacy Motor Club),Toyota,175.0,crash,0.0,1.0,0.0
+2024,13,Darlington,Darlington Raceway,1.366,paved track,1.0,2.0,6.0,Brad Keselowski,Castrol (Jack Roush),Ford,293.0,running,37.0,57.0,5.0
+2024,13,Darlington,Darlington Raceway,1.366,paved track,2.0,4.0,54.0,Ty Gibbs,He Gets Us (Joe Gibbs),Toyota,293.0,running,34.0,52.0,0.0
+2024,13,Darlington,Darlington Raceway,1.366,paved track,3.0,33.0,4.0,Josh Berry,Harrison's (Stewart Haas Racing),Ford,293.0,running,0.0,34.0,0.0
+2024,13,Darlington,Darlington Raceway,1.366,paved track,4.0,7.0,11.0,Denny Hamlin,Yahoo! (Joe Gibbs),Toyota,293.0,running,1.0,36.0,0.0
+2024,13,Darlington,Darlington Raceway,1.366,paved track,5.0,13.0,14.0,Chase Briscoe,Mahindra Tractors (Stewart Haas Racing),Ford,293.0,running,0.0,32.0,0.0
+2024,13,Darlington,Darlington Raceway,1.366,paved track,6.0,5.0,24.0,William Byron,AXALTA Throwback (Rick Hendrick),Chevrolet,293.0,running,2.0,38.0,0.0
+2024,13,Darlington,Darlington Raceway,1.366,paved track,7.0,8.0,23.0,Bubba Wallace,McDonald's (23XI Racing),Toyota,293.0,running,6.0,33.0,0.0
+2024,13,Darlington,Darlington Raceway,1.366,paved track,8.0,18.0,48.0,Alex Bowman,Ally Throwback (Rick Hendrick),Chevrolet,293.0,running,0.0,29.0,0.0
+2024,13,Darlington,Darlington Raceway,1.366,paved track,9.0,28.0,51.0,Justin Haley,NC Fraternal Order of Police (Rick Ware),Ford,293.0,running,0.0,28.0,0.0
+2024,13,Darlington,Darlington Raceway,1.366,paved track,10.0,16.0,34.0,Michael McDowell,LONG JOHN SILVER'S (Bob Jenkins),Ford,293.0,running,0.0,27.0,0.0
+2024,13,Darlington,Darlington Raceway,1.366,paved track,11.0,9.0,1.0,Ross Chastain,Busch Light Throwback (Trackhouse Racing),Chevrolet,293.0,running,0.0,27.0,0.0
+2024,13,Darlington,Darlington Raceway,1.366,paved track,12.0,31.0,9.0,Chase Elliott,UniFirst Throwback (Rick Hendrick),Chevrolet,293.0,running,0.0,25.0,0.0
+2024,13,Darlington,Darlington Raceway,1.366,paved track,13.0,12.0,20.0,Christopher Bell,DEWALT 100 Years (Joe Gibbs),Toyota,293.0,running,0.0,24.0,0.0
+2024,13,Darlington,Darlington Raceway,1.366,paved track,14.0,36.0,10.0,Noah Gragson,Overstock.com (Stewart Haas Racing),Ford,293.0,running,0.0,23.0,0.0
+2024,13,Darlington,Darlington Raceway,1.366,paved track,15.0,15.0,38.0,Todd Gilliland,gener8tor (Bob Jenkins),Ford,293.0,running,0.0,27.0,0.0
+2024,13,Darlington,Darlington Raceway,1.366,paved track,16.0,24.0,7.0,Corey LaJoie,Razzle Dazzle (Spire Motorsports),Chevrolet,293.0,running,0.0,21.0,0.0
+2024,13,Darlington,Darlington Raceway,1.366,paved track,17.0,26.0,41.0,Ryan Preece,United Rentals (Stewart Haas Racing),Ford,293.0,running,0.0,20.0,0.0
+2024,13,Darlington,Darlington Raceway,1.366,paved track,18.0,34.0,15.0,Kaz Grala,N29 Capital Partners (Rick Ware),Ford,293.0,running,0.0,19.0,0.0
+2024,13,Darlington,Darlington Raceway,1.366,paved track,19.0,30.0,43.0,Erik Jones,AdventHealth (Legacy Motor Club),Toyota,293.0,running,0.0,18.0,0.0
+2024,13,Darlington,Darlington Raceway,1.366,paved track,20.0,25.0,2.0,Austin Cindric,Freightliner (Roger Penske),Ford,293.0,running,0.0,17.0,0.0
+2024,13,Darlington,Darlington Raceway,1.366,paved track,21.0,14.0,22.0,Joey Logano,Shell Pennzoil (Roger Penske),Ford,293.0,running,0.0,23.0,0.0
+2024,13,Darlington,Darlington Raceway,1.366,paved track,22.0,35.0,21.0,Harrison Burton,DEX Imaging (Wood Brothers),Ford,293.0,running,0.0,15.0,0.0
+2024,13,Darlington,Darlington Raceway,1.366,paved track,23.0,20.0,47.0,Ricky Stenhouse Jr,Oscar Mayer/Artesano Bread (JTG-Daugherty Racing),Chevrolet,293.0,running,0.0,14.0,0.0
+2024,13,Darlington,Darlington Raceway,1.366,paved track,24.0,19.0,99.0,Daniel Suarez,Quaker State (Trackhouse Racing),Chevrolet,293.0,running,0.0,13.0,0.0
+2024,13,Darlington,Darlington Raceway,1.366,paved track,25.0,10.0,19.0,Martin Truex Jr,Auto-Owners Insurance (Joe Gibbs),Toyota,293.0,running,0.0,18.0,0.0
+2024,13,Darlington,Darlington Raceway,1.366,paved track,26.0,21.0,77.0,Carson Hocevar,Premier Security/NLEOMF.org (Spire Motorsports),Chevrolet,293.0,running,2.0,11.0,0.0
+2024,13,Darlington,Darlington Raceway,1.366,paved track,27.0,11.0,8.0,Kyle Busch,Zone (Richard Childress),Chevrolet,293.0,running,0.0,10.0,0.0
+2024,13,Darlington,Darlington Raceway,1.366,paved track,28.0,23.0,3.0,Austin Dillon,Bass Pro Shops (Richard Childress),Chevrolet,293.0,running,0.0,9.0,0.0
+2024,13,Darlington,Darlington Raceway,1.366,paved track,29.0,32.0,16.0,Derek Kraus,projectwyoming.com (Matthew Kaulig),Chevrolet,292.0,running,0.0,8.0,0.0
+2024,13,Darlington,Darlington Raceway,1.366,paved track,30.0,3.0,17.0,Chris Buescher,Fifth Third Bank (Jack Roush),Ford,291.0,running,21.0,15.0,0.0
+2024,13,Darlington,Darlington Raceway,1.366,paved track,31.0,22.0,42.0,John H. Nemechek,Family Dollar (Legacy Motor Club),Toyota,291.0,running,0.0,6.0,0.0
+2024,13,Darlington,Darlington Raceway,1.366,paved track,32.0,1.0,45.0,Tyler Reddick,MoneyLion (23XI Racing),Toyota,291.0,running,174.0,22.0,1.0
+2024,13,Darlington,Darlington Raceway,1.366,paved track,33.0,29.0,31.0,Daniel Hemric,Black's Tire (Matthew Kaulig),Chevrolet,290.0,running,0.0,4.0,0.0
+2024,13,Darlington,Darlington Raceway,1.366,paved track,34.0,6.0,5.0,Kyle Larson,HendrickCars.com Throwback (Rick Hendrick),Chevrolet,252.0,crash,15.0,19.0,1.0
+2024,13,Darlington,Darlington Raceway,1.366,paved track,35.0,27.0,71.0,Zane Smith,Focused Health (Spire Motorsports),Chevrolet,161.0,crash,0.0,2.0,0.0
+2024,13,Darlington,Darlington Raceway,1.366,paved track,36.0,17.0,12.0,Ryan Blaney,Menards Maytag (Roger Penske),Ford,129.0,dvp,1.0,4.0,0.0
+2024,14,Charlotte,Charlotte Motor Speedway,1.5,paved track,1.0,3.0,20.0,Christopher Bell,Rheem (Joe Gibbs),Toyota,249.0,running,90.0,67.0,7.0
+2024,14,Charlotte,Charlotte Motor Speedway,1.5,paved track,2.0,30.0,6.0,Brad Keselowski,BuildSubmarines.com (Jack Roush),Ford,249.0,running,1.0,53.0,0.0
+2024,14,Charlotte,Charlotte Motor Speedway,1.5,paved track,3.0,2.0,24.0,William Byron,Liberty University Patriotic (Rick Hendrick),Chevrolet,249.0,running,49.0,61.0,1.0
+2024,14,Charlotte,Charlotte Motor Speedway,1.5,paved track,4.0,8.0,45.0,Tyler Reddick,The Beast Unleashed (23XI Racing),Toyota,249.0,running,0.0,41.0,0.0
+2024,14,Charlotte,Charlotte Motor Speedway,1.5,paved track,5.0,11.0,11.0,Denny Hamlin,Mavis Tire (Joe Gibbs),Toyota,249.0,running,0.0,45.0,0.0
+2024,14,Charlotte,Charlotte Motor Speedway,1.5,paved track,6.0,1.0,54.0,Ty Gibbs,Monster Energy – Interstate Batteries (Joe Gibbs),Toyota,249.0,running,74.0,45.0,0.0
+2024,14,Charlotte,Charlotte Motor Speedway,1.5,paved track,7.0,5.0,9.0,Chase Elliott,NAPA Patriotic (Rick Hendrick),Chevrolet,249.0,running,2.0,38.0,0.0
+2024,14,Charlotte,Charlotte Motor Speedway,1.5,paved track,8.0,7.0,1.0,Ross Chastain,Jockey x Folds of Honor (Trackhouse Racing),Chevrolet,249.0,running,10.0,34.0,0.0
+2024,14,Charlotte,Charlotte Motor Speedway,1.5,paved track,9.0,6.0,48.0,Alex Bowman,Ally Patriotic (Rick Hendrick),Chevrolet,249.0,running,0.0,43.0,0.0
+2024,14,Charlotte,Charlotte Motor Speedway,1.5,paved track,10.0,13.0,4.0,Josh Berry,Overstock.com (Stewart Haas Racing),Ford,249.0,running,7.0,33.0,0.0
+2024,14,Charlotte,Charlotte Motor Speedway,1.5,paved track,11.0,12.0,23.0,Bubba Wallace,MoneyLion (23XI Racing),Toyota,249.0,running,0.0,39.0,0.0
+2024,14,Charlotte,Charlotte Motor Speedway,1.5,paved track,12.0,4.0,19.0,Martin Truex Jr,Bass Pro Shops (Joe Gibbs),Toyota,249.0,running,8.0,31.0,0.0
+2024,14,Charlotte,Charlotte Motor Speedway,1.5,paved track,13.0,10.0,5.0,Justin Allgaier,HendrickCars.com H1100 (Rick Hendrick),Chevrolet,249.0,running,0.0,0.0,0.0
+2024,14,Charlotte,Charlotte Motor Speedway,1.5,paved track,14.0,28.0,22.0,Joey Logano,Shell Pennzoil (Roger Penske),Ford,249.0,running,0.0,23.0,0.0
+2024,14,Charlotte,Charlotte Motor Speedway,1.5,paved track,15.0,15.0,8.0,Kyle Busch,Zone (Richard Childress),Chevrolet,249.0,running,0.0,22.0,0.0
+2024,14,Charlotte,Charlotte Motor Speedway,1.5,paved track,16.0,9.0,34.0,Michael McDowell,Walmart / RTIC (Bob Jenkins),Ford,249.0,running,6.0,22.0,0.0
+2024,14,Charlotte,Charlotte Motor Speedway,1.5,paved track,17.0,35.0,38.0,Todd Gilliland,Quincy Compressor (Bob Jenkins),Ford,249.0,running,0.0,20.0,0.0
+2024,14,Charlotte,Charlotte Motor Speedway,1.5,paved track,18.0,24.0,31.0,Daniel Hemric,Cirkul (Matthew Kaulig),Chevrolet,249.0,running,0.0,19.0,0.0
+2024,14,Charlotte,Charlotte Motor Speedway,1.5,paved track,19.0,34.0,43.0,Erik Jones,Family Dollar (Legacy Motor Club),Toyota,249.0,running,0.0,18.0,0.0
+2024,14,Charlotte,Charlotte Motor Speedway,1.5,paved track,20.0,17.0,2.0,Austin Cindric,Menards Duracell (Roger Penske),Ford,249.0,running,0.0,17.0,0.0
+2024,14,Charlotte,Charlotte Motor Speedway,1.5,paved track,21.0,20.0,77.0,Carson Hocevar,Zeigler Auto Group (Spire Motorsports),Chevrolet,249.0,running,0.0,16.0,0.0
+2024,14,Charlotte,Charlotte Motor Speedway,1.5,paved track,22.0,22.0,51.0,Justin Haley,The Cleaning Authority (Rick Ware),Ford,249.0,running,0.0,15.0,0.0
+2024,14,Charlotte,Charlotte Motor Speedway,1.5,paved track,23.0,39.0,17.0,Chris Buescher,Fastenal (Jack Roush),Ford,249.0,running,0.0,14.0,0.0
+2024,14,Charlotte,Charlotte Motor Speedway,1.5,paved track,24.0,14.0,99.0,Daniel Suarez,Freeway Insurance (Trackhouse Racing),Chevrolet,249.0,running,0.0,13.0,0.0
+2024,14,Charlotte,Charlotte Motor Speedway,1.5,paved track,25.0,18.0,14.0,Chase Briscoe,Mahindra Compact Tractors (Stewart Haas Racing),Ford,249.0,running,0.0,12.0,0.0
+2024,14,Charlotte,Charlotte Motor Speedway,1.5,paved track,26.0,31.0,41.0,Ryan Preece,HaasTooling.com (Stewart Haas Racing),Ford,249.0,running,0.0,11.0,0.0
+2024,14,Charlotte,Charlotte Motor Speedway,1.5,paved track,27.0,27.0,3.0,Austin Dillon,Bass Pro Shops (Richard Childress),Chevrolet,249.0,running,0.0,10.0,0.0
+2024,14,Charlotte,Charlotte Motor Speedway,1.5,paved track,28.0,36.0,16.0,Shane Van Gisbergen,WeatherTech (Matthew Kaulig),Chevrolet,249.0,running,2.0,0.0,0.0
+2024,14,Charlotte,Charlotte Motor Speedway,1.5,paved track,29.0,29.0,84.0,Jimmie Johnson,AdventHealth (Legacy Motor Club),Toyota,249.0,running,0.0,8.0,0.0
+2024,14,Charlotte,Charlotte Motor Speedway,1.5,paved track,30.0,26.0,42.0,John H. Nemechek,Dollar Tree (Legacy Motor Club),Toyota,249.0,running,0.0,7.0,0.0
+2024,14,Charlotte,Charlotte Motor Speedway,1.5,paved track,31.0,23.0,47.0,Ricky Stenhouse Jr,Kroger/ Irish Spring (JTG-Daugherty Racing),Chevrolet,249.0,running,0.0,6.0,0.0
+2024,14,Charlotte,Charlotte Motor Speedway,1.5,paved track,32.0,32.0,21.0,Harrison Burton,DEX Imaging (Wood Brothers),Ford,249.0,running,0.0,5.0,0.0
+2024,14,Charlotte,Charlotte Motor Speedway,1.5,paved track,33.0,25.0,71.0,Zane Smith,Focused Health (Spire Motorsports),Chevrolet,249.0,running,0.0,4.0,0.0
+2024,14,Charlotte,Charlotte Motor Speedway,1.5,paved track,34.0,33.0,15.0,Kaz Grala,N29 (Rick Ware),Ford,249.0,running,0.0,3.0,0.0
+2024,14,Charlotte,Charlotte Motor Speedway,1.5,paved track,35.0,21.0,7.0,Corey LaJoie,Chili's Catch-a-Rita (Spire Motorsports),Chevrolet,249.0,running,0.0,2.0,0.0
+2024,14,Charlotte,Charlotte Motor Speedway,1.5,paved track,36.0,38.0,50.0,Ty Dillon,AmeriVet Securities (TMT Racing),Chevrolet,247.0,running,0.0,0.0,0.0
+2024,14,Charlotte,Charlotte Motor Speedway,1.5,paved track,37.0,37.0,66.0,B.J. McLeod,Truan Equipment (Carl Long),Ford,241.0,running,0.0,0.0,0.0
+2024,14,Charlotte,Charlotte Motor Speedway,1.5,paved track,38.0,19.0,10.0,Noah Gragson,Bass Pro Shops Winchester (Stewart Haas Racing),Ford,170.0,crash,0.0,1.0,0.0
+2024,14,Charlotte,Charlotte Motor Speedway,1.5,paved track,39.0,16.0,12.0,Ryan Blaney,BodyArmor Flash I.V. (Roger Penske),Ford,143.0,crash,0.0,5.0,0.0
+2024,14,Charlotte,Charlotte Motor Speedway,1.5,paved track,40.0,40.0,44.0,J.J. Yeley,Beard Vet Coffee (Johnathan Cohen),Chevrolet,114.0,steering,0.0,0.0,0.0
+2024,15,Gateway,World Wide Technology Raceway at Gateway,1.25,paved track,1.0,2.0,2.0,Austin Cindric,Freightliner (Roger Penske),Ford,240.0,running,53.0,56.0,5.0
+2024,15,Gateway,World Wide Technology Raceway at Gateway,1.25,paved track,2.0,6.0,11.0,Denny Hamlin,Yahoo! (Joe Gibbs),Toyota,240.0,running,0.0,42.0,0.0
+2024,15,Gateway,World Wide Technology Raceway at Gateway,1.25,paved track,3.0,7.0,6.0,Brad Keselowski,Solomon Plumbing (Jack Roush),Ford,240.0,running,17.0,40.0,0.0
+2024,15,Gateway,World Wide Technology Raceway at Gateway,1.25,paved track,4.0,5.0,45.0,Tyler Reddick,SiriusXM (23XI Racing),Toyota,240.0,running,0.0,36.0,0.0
+2024,15,Gateway,World Wide Technology Raceway at Gateway,1.25,paved track,5.0,12.0,22.0,Joey Logano,Shell Pennzoil (Roger Penske),Ford,240.0,running,1.0,39.0,0.0
+2024,15,Gateway,World Wide Technology Raceway at Gateway,1.25,paved track,6.0,18.0,3.0,Austin Dillon,Dow/Rivers are Life (Richard Childress),Chevrolet,240.0,running,0.0,33.0,0.0
+2024,15,Gateway,World Wide Technology Raceway at Gateway,1.25,paved track,7.0,4.0,20.0,Christopher Bell,DEWALT (Joe Gibbs),Toyota,240.0,running,80.0,50.0,2.0
+2024,15,Gateway,World Wide Technology Raceway at Gateway,1.25,paved track,8.0,20.0,77.0,Carson Hocevar,Zeigler Auto Group (Spire Motorsports),Chevrolet,240.0,running,0.0,32.0,0.0
+2024,15,Gateway,World Wide Technology Raceway at Gateway,1.25,paved track,9.0,21.0,51.0,Justin Haley,MotoRad (Rick Ware),Ford,240.0,running,0.0,28.0,0.0
+2024,15,Gateway,World Wide Technology Raceway at Gateway,1.25,paved track,10.0,13.0,5.0,Kyle Larson,HendrickCars.com (Rick Hendrick),Chevrolet,240.0,running,7.0,27.0,0.0
+2024,15,Gateway,World Wide Technology Raceway at Gateway,1.25,paved track,11.0,9.0,54.0,Ty Gibbs,Monster Energy (Joe Gibbs),Toyota,240.0,running,0.0,30.0,0.0
+2024,15,Gateway,World Wide Technology Raceway at Gateway,1.25,paved track,12.0,16.0,1.0,Ross Chastain,Busch Light (Trackhouse Racing),Chevrolet,240.0,running,0.0,25.0,0.0
+2024,15,Gateway,World Wide Technology Raceway at Gateway,1.25,paved track,13.0,17.0,9.0,Chase Elliott,NAPA Auto Parts (Rick Hendrick),Chevrolet,240.0,running,0.0,32.0,0.0
+2024,15,Gateway,World Wide Technology Raceway at Gateway,1.25,paved track,14.0,26.0,17.0,Chris Buescher,Travel Centers of America (Jack Roush),Ford,240.0,running,0.0,23.0,0.0
+2024,15,Gateway,World Wide Technology Raceway at Gateway,1.25,paved track,15.0,11.0,24.0,William Byron,Valvoline (Rick Hendrick),Chevrolet,240.0,running,0.0,27.0,0.0
+2024,15,Gateway,World Wide Technology Raceway at Gateway,1.25,paved track,16.0,35.0,38.0,Todd Gilliland,Ruedebusch (Bob Jenkins),Ford,240.0,running,6.0,21.0,0.0
+2024,15,Gateway,World Wide Technology Raceway at Gateway,1.25,paved track,17.0,23.0,14.0,Chase Briscoe,Overstock.com (Stewart Haas Racing),Ford,240.0,running,0.0,24.0,0.0
+2024,15,Gateway,World Wide Technology Raceway at Gateway,1.25,paved track,18.0,28.0,31.0,Daniel Hemric,Poppy Bank (Matthew Kaulig),Chevrolet,240.0,running,0.0,19.0,0.0
+2024,15,Gateway,World Wide Technology Raceway at Gateway,1.25,paved track,19.0,36.0,71.0,Zane Smith,Focused Health (Spire Motorsports),Chevrolet,240.0,running,0.0,18.0,0.0
+2024,15,Gateway,World Wide Technology Raceway at Gateway,1.25,paved track,20.0,24.0,47.0,Ricky Stenhouse Jr,Kroger Health/Oikos (JTG-Daugherty Racing),Chevrolet,240.0,running,0.0,17.0,0.0
+2024,15,Gateway,World Wide Technology Raceway at Gateway,1.25,paved track,21.0,8.0,23.0,Bubba Wallace,McDonald's (23XI Racing),Toyota,240.0,running,0.0,16.0,0.0
+2024,15,Gateway,World Wide Technology Raceway at Gateway,1.25,paved track,22.0,27.0,10.0,Noah Gragson,SERVPRO (Stewart Haas Racing),Ford,240.0,running,0.0,15.0,0.0
+2024,15,Gateway,World Wide Technology Raceway at Gateway,1.25,paved track,23.0,31.0,99.0,Daniel Suarez,Choice Privileges (Trackhouse Racing),Chevrolet,240.0,running,0.0,14.0,0.0
+2024,15,Gateway,World Wide Technology Raceway at Gateway,1.25,paved track,24.0,3.0,12.0,Ryan Blaney,MenardsRichmond Water Heaters (Roger Penske),Ford,240.0,running,20.0,29.0,0.0
+2024,15,Gateway,World Wide Technology Raceway at Gateway,1.25,paved track,25.0,1.0,34.0,Michael McDowell,Siteman Cancer Center (Bob Jenkins),Ford,239.0,running,40.0,21.0,0.0
+2024,15,Gateway,World Wide Technology Raceway at Gateway,1.25,paved track,26.0,22.0,43.0,Erik Jones,Family Dollar (Legacy Motor Club),Toyota,239.0,running,0.0,11.0,0.0
+2024,15,Gateway,World Wide Technology Raceway at Gateway,1.25,paved track,27.0,33.0,42.0,John H. Nemechek,Bommarito.com (Legacy Motor Club),Toyota,239.0,running,0.0,10.0,0.0
+2024,15,Gateway,World Wide Technology Raceway at Gateway,1.25,paved track,28.0,14.0,48.0,Alex Bowman,Ally (Rick Hendrick),Chevrolet,239.0,running,0.0,9.0,0.0
+2024,15,Gateway,World Wide Technology Raceway at Gateway,1.25,paved track,29.0,32.0,41.0,Ryan Preece,Overstock.com (Stewart Haas Racing),Ford,239.0,running,0.0,8.0,0.0
+2024,15,Gateway,World Wide Technology Raceway at Gateway,1.25,paved track,30.0,25.0,16.0,Derek Kraus,Kafka Conveyors (Matthew Kaulig),Chevrolet,239.0,running,0.0,7.0,0.0
+2024,15,Gateway,World Wide Technology Raceway at Gateway,1.25,paved track,31.0,30.0,21.0,Harrison Burton,Motorcraft Quick Lane (Wood Brothers),Ford,239.0,running,0.0,6.0,0.0
+2024,15,Gateway,World Wide Technology Raceway at Gateway,1.25,paved track,32.0,15.0,7.0,Corey LaJoie,Chili's Catch-a-Rita (Spire Motorsports),Chevrolet,239.0,running,0.0,5.0,0.0
+2024,15,Gateway,World Wide Technology Raceway at Gateway,1.25,paved track,33.0,34.0,15.0,Cody Ware,Jacob Construction (Rick Ware),Ford,238.0,running,0.0,4.0,0.0
+2024,15,Gateway,World Wide Technology Raceway at Gateway,1.25,paved track,34.0,19.0,19.0,Martin Truex Jr,Bass Pro Shops (Joe Gibbs),Toyota,237.0,running,1.0,3.0,0.0
+2024,15,Gateway,World Wide Technology Raceway at Gateway,1.25,paved track,35.0,10.0,8.0,Kyle Busch,Rebel Bourbon (Richard Childress),Chevrolet,139.0,crash,15.0,2.0,0.0
+2024,15,Gateway,World Wide Technology Raceway at Gateway,1.25,paved track,36.0,29.0,4.0,Josh Berry,Overstock.com (Stewart Haas Racing),Ford,109.0,crash,0.0,1.0,0.0
+2024,16,Sonoma,Sonoma Raceway,1.99,road course,1.0,5.0,5.0,Kyle Larson,Valvoline (Rick Hendrick),Chevrolet,110.0,running,19.0,48.0,5.0
+2024,16,Sonoma,Sonoma Raceway,1.99,road course,2.0,12.0,34.0,Michael McDowell,Love's Travel Stops (Bob Jenkins),Ford,110.0,running,0.0,40.0,0.0
+2024,16,Sonoma,Sonoma Raceway,1.99,road course,3.0,26.0,17.0,Chris Buescher,BuildSubmarines.com (Jack Roush),Ford,110.0,running,32.0,44.0,1.0
+2024,16,Sonoma,Sonoma Raceway,1.99,road course,4.0,4.0,9.0,Chase Elliott,NAPA Gold Filters (Rick Hendrick),Chevrolet,110.0,running,3.0,40.0,0.0
+2024,16,Sonoma,Sonoma Raceway,1.99,road course,5.0,9.0,1.0,Ross Chastain,Kubota (Trackhouse Racing),Chevrolet,110.0,running,0.0,36.0,0.0
+2024,16,Sonoma,Sonoma Raceway,1.99,road course,6.0,11.0,16.0,A.J. Allmendinger,Cirkul (Matthew Kaulig),Chevrolet,110.0,running,3.0,0.0,0.0
+2024,16,Sonoma,Sonoma Raceway,1.99,road course,7.0,3.0,12.0,Ryan Blaney,Menards Moen (Roger Penske),Ford,110.0,running,1.0,39.0,0.0
+2024,16,Sonoma,Sonoma Raceway,1.99,road course,8.0,2.0,45.0,Tyler Reddick,Monster Energy (23XI Racing),Toyota,110.0,running,35.0,39.0,1.0
+2024,16,Sonoma,Sonoma Raceway,1.99,road course,9.0,15.0,20.0,Christopher Bell,Rheem (Joe Gibbs),Toyota,110.0,running,0.0,28.0,0.0
+2024,16,Sonoma,Sonoma Raceway,1.99,road course,10.0,14.0,38.0,Todd Gilliland,Frontline Enterprises INC. (Bob Jenkins),Ford,110.0,running,0.0,31.0,0.0
+2024,16,Sonoma,Sonoma Raceway,1.99,road course,11.0,17.0,7.0,Corey LaJoie,Gainbridge (Spire Motorsports),Chevrolet,110.0,running,0.0,28.0,0.0
+2024,16,Sonoma,Sonoma Raceway,1.99,road course,12.0,29.0,8.0,Kyle Busch,Zone (Richard Childress),Chevrolet,110.0,running,1.0,32.0,0.0
+2024,16,Sonoma,Sonoma Raceway,1.99,road course,13.0,35.0,6.0,Brad Keselowski,King's Hawaiian Top Secret Car (Jack Roush),Ford,110.0,running,0.0,29.0,0.0
+2024,16,Sonoma,Sonoma Raceway,1.99,road course,14.0,7.0,99.0,Daniel Suarez,Freeway Insurance (Trackhouse Racing),Chevrolet,110.0,running,0.0,26.0,0.0
+2024,16,Sonoma,Sonoma Raceway,1.99,road course,15.0,8.0,48.0,Alex Bowman,Ally Pride (Rick Hendrick),Chevrolet,110.0,running,0.0,28.0,0.0
+2024,16,Sonoma,Sonoma Raceway,1.99,road course,16.0,20.0,71.0,Zane Smith,Wellcare (Spire Motorsports),Chevrolet,110.0,running,0.0,21.0,0.0
+2024,16,Sonoma,Sonoma Raceway,1.99,road course,17.0,13.0,77.0,Carson Hocevar,Delaware Life (Spire Motorsports),Chevrolet,110.0,running,0.0,20.0,0.0
+2024,16,Sonoma,Sonoma Raceway,1.99,road course,18.0,30.0,41.0,Ryan Preece,Caymus Vineyards (Stewart Haas Racing),Ford,110.0,running,0.0,28.0,0.0
+2024,16,Sonoma,Sonoma Raceway,1.99,road course,19.0,38.0,43.0,Erik Jones,Dollar Tree (Legacy Motor Club),Toyota,110.0,running,0.0,22.0,0.0
+2024,16,Sonoma,Sonoma Raceway,1.99,road course,20.0,18.0,23.0,Bubba Wallace,Columbia Sportswear Company (23XI Racing),Toyota,110.0,running,0.0,17.0,0.0
+2024,16,Sonoma,Sonoma Raceway,1.99,road course,21.0,1.0,22.0,Joey Logano,AutoTrader (Roger Penske),Ford,110.0,running,16.0,18.0,0.0
+2024,16,Sonoma,Sonoma Raceway,1.99,road course,22.0,28.0,2.0,Austin Cindric,America's Tire (Roger Penske),Ford,110.0,running,0.0,15.0,0.0
+2024,16,Sonoma,Sonoma Raceway,1.99,road course,23.0,36.0,15.0,Kaz Grala,N29 Capital Partners (Rick Ware),Ford,110.0,running,0.0,14.0,0.0
+2024,16,Sonoma,Sonoma Raceway,1.99,road course,24.0,33.0,47.0,Ricky Stenhouse Jr,Kroger Health/Tylenol (JTG-Daugherty Racing),Chevrolet,110.0,running,0.0,13.0,0.0
+2024,16,Sonoma,Sonoma Raceway,1.99,road course,25.0,22.0,21.0,Harrison Burton,DEX Imaging (Wood Brothers),Ford,110.0,running,0.0,13.0,0.0
+2024,16,Sonoma,Sonoma Raceway,1.99,road course,26.0,19.0,10.0,Noah Gragson,Overstock.com (Stewart Haas Racing),Ford,110.0,running,0.0,11.0,0.0
+2024,16,Sonoma,Sonoma Raceway,1.99,road course,27.0,21.0,19.0,Martin Truex Jr,Bass Pro Shops (Joe Gibbs),Toyota,110.0,running,1.0,18.0,0.0
+2024,16,Sonoma,Sonoma Raceway,1.99,road course,28.0,34.0,31.0,Daniel Hemric,Cirkul (Matthew Kaulig),Chevrolet,109.0,running,0.0,9.0,0.0
+2024,16,Sonoma,Sonoma Raceway,1.99,road course,29.0,37.0,42.0,John H. Nemechek,Save Mart (Legacy Motor Club),Toyota,109.0,running,0.0,8.0,0.0
+2024,16,Sonoma,Sonoma Raceway,1.99,road course,30.0,6.0,24.0,William Byron,RaptorTough.com (Rick Hendrick),Chevrolet,108.0,running,0.0,7.0,0.0
+2024,16,Sonoma,Sonoma Raceway,1.99,road course,31.0,24.0,33.0,Will Brown,Mobile X / Shaw and Partners (Richard Childress),Chevrolet,107.0,running,0.0,6.0,0.0
+2024,16,Sonoma,Sonoma Raceway,1.99,road course,32.0,32.0,4.0,Josh Berry,Mobil 1 50th Anniversary (Stewart Haas Racing),Ford,95.0,suspension,0.0,5.0,0.0
+2024,16,Sonoma,Sonoma Raceway,1.99,road course,33.0,27.0,51.0,Justin Haley,Jacob Construction (Rick Ware),Ford,88.0,steering,0.0,4.0,0.0
+2024,16,Sonoma,Sonoma Raceway,1.99,road course,34.0,23.0,14.0,Chase Briscoe,Ford Performance Racing School (Stewart Haas Racing),Ford,73.0,transmission,0.0,3.0,0.0
+2024,16,Sonoma,Sonoma Raceway,1.99,road course,35.0,31.0,60.0,Cameron Waters,AUKUS / BuildSubmarines.com (Jack Roush),Ford,66.0,crash,0.0,2.0,0.0
+2024,16,Sonoma,Sonoma Raceway,1.99,road course,36.0,16.0,3.0,Austin Dillon,Get Bioethanol (Richard Childress),Chevrolet,39.0,dvp,0.0,1.0,0.0
+2024,16,Sonoma,Sonoma Raceway,1.99,road course,37.0,10.0,54.0,Ty Gibbs,He Gets Us (Joe Gibbs),Toyota,16.0,dvp,0.0,1.0,0.0
+2024,16,Sonoma,Sonoma Raceway,1.99,road course,38.0,25.0,11.0,Denny Hamlin,FedEx (Joe Gibbs),Toyota,2.0,engine,0.0,1.0,0.0
+2024,17,Iowa,Iowa Speedway,0.875,paved track,1.0,2.0,12.0,Ryan Blaney,Advance Auto Parts (Roger Penske),Ford,350.0,running,201.0,57.0,6.0
+2024,17,Iowa,Iowa Speedway,0.875,paved track,2.0,4.0,24.0,William Byron,Liberty University (Rick Hendrick),Chevrolet,350.0,running,0.0,42.0,0.0
+2024,17,Iowa,Iowa Speedway,0.875,paved track,3.0,9.0,9.0,Chase Elliott,NAPA Auto Parts (Rick Hendrick),Chevrolet,350.0,running,1.0,44.0,0.0
+2024,17,Iowa,Iowa Speedway,0.875,paved track,4.0,10.0,20.0,Christopher Bell,Rheem (Joe Gibbs),Toyota,350.0,running,7.0,33.0,0.0
+2024,17,Iowa,Iowa Speedway,0.875,paved track,5.0,35.0,47.0,Ricky Stenhouse Jr,Kroger / NOS Energy Drink (JTG-Daugherty Racing),Chevrolet,350.0,running,4.0,32.0,0.0
+2024,17,Iowa,Iowa Speedway,0.875,paved track,6.0,11.0,22.0,Joey Logano,Shell Pennzoil (Roger Penske),Ford,350.0,running,0.0,36.0,0.0
+2024,17,Iowa,Iowa Speedway,0.875,paved track,7.0,3.0,4.0,Josh Berry,Overstock.com (Stewart Haas Racing),Ford,350.0,running,32.0,45.0,0.0
+2024,17,Iowa,Iowa Speedway,0.875,paved track,8.0,33.0,48.0,Alex Bowman,Ally (Rick Hendrick),Chevrolet,350.0,running,0.0,29.0,0.0
+2024,17,Iowa,Iowa Speedway,0.875,paved track,9.0,13.0,99.0,Daniel Suarez,Kubota (Trackhouse Racing),Chevrolet,350.0,running,4.0,36.0,0.0
+2024,17,Iowa,Iowa Speedway,0.875,paved track,10.0,5.0,6.0,Brad Keselowski,King's Hawaiian - Casey's (Jack Roush),Ford,350.0,running,5.0,32.0,0.0
+2024,17,Iowa,Iowa Speedway,0.875,paved track,11.0,17.0,1.0,Ross Chastain,Busch Light For the Farmers (Trackhouse Racing),Chevrolet,350.0,running,0.0,26.0,0.0
+2024,17,Iowa,Iowa Speedway,0.875,paved track,12.0,14.0,38.0,Todd Gilliland,Ruedebusch (Bob Jenkins),Ford,350.0,running,0.0,28.0,0.0
+2024,17,Iowa,Iowa Speedway,0.875,paved track,13.0,19.0,51.0,Justin Haley,MotoRad (Rick Ware),Ford,350.0,running,0.0,25.0,0.0
+2024,17,Iowa,Iowa Speedway,0.875,paved track,14.0,20.0,77.0,Carson Hocevar,Premier Security (Spire Motorsports),Chevrolet,350.0,running,0.0,23.0,0.0
+2024,17,Iowa,Iowa Speedway,0.875,paved track,15.0,31.0,19.0,Martin Truex Jr,Reser's Fine Foods (Joe Gibbs),Toyota,349.0,running,0.0,22.0,0.0
+2024,17,Iowa,Iowa Speedway,0.875,paved track,16.0,23.0,10.0,Noah Gragson,Bass Pro Shops Winchester (Stewart Haas Racing),Ford,349.0,running,0.0,21.0,0.0
+2024,17,Iowa,Iowa Speedway,0.875,paved track,17.0,16.0,23.0,Bubba Wallace,McDonald's (23XI Racing),Toyota,349.0,running,0.0,26.0,0.0
+2024,17,Iowa,Iowa Speedway,0.875,paved track,18.0,15.0,17.0,Chris Buescher,Fastenal (Jack Roush),Ford,349.0,running,16.0,23.0,0.0
+2024,17,Iowa,Iowa Speedway,0.875,paved track,19.0,36.0,3.0,Austin Dillon,Get Bioethanol (Richard Childress),Chevrolet,349.0,running,0.0,18.0,0.0
+2024,17,Iowa,Iowa Speedway,0.875,paved track,20.0,25.0,21.0,Harrison Burton,Menards Masterforce Tools (Wood Brothers),Ford,349.0,running,0.0,17.0,0.0
+2024,17,Iowa,Iowa Speedway,0.875,paved track,21.0,24.0,7.0,Corey LaJoie,Gainbridge/Iowa Hawkeyes (Spire Motorsports),Chevrolet,349.0,running,0.0,20.0,0.0
+2024,17,Iowa,Iowa Speedway,0.875,paved track,22.0,8.0,45.0,Tyler Reddick,McDonald's (23XI Racing),Toyota,349.0,running,0.0,15.0,0.0
+2024,17,Iowa,Iowa Speedway,0.875,paved track,23.0,22.0,34.0,Michael McDowell,Love's Travel Stops (Bob Jenkins),Ford,349.0,running,0.0,14.0,0.0
+2024,17,Iowa,Iowa Speedway,0.875,paved track,24.0,12.0,11.0,Denny Hamlin,Interstate Batteries (Joe Gibbs),Toyota,348.0,running,0.0,18.0,0.0
+2024,17,Iowa,Iowa Speedway,0.875,paved track,25.0,27.0,54.0,Ty Gibbs,Monster Energy (Joe Gibbs),Toyota,348.0,running,0.0,12.0,0.0
+2024,17,Iowa,Iowa Speedway,0.875,paved track,26.0,34.0,42.0,John H. Nemechek,Dollar Tree (Legacy Motor Club),Toyota,348.0,running,0.0,11.0,0.0
+2024,17,Iowa,Iowa Speedway,0.875,paved track,27.0,29.0,41.0,Ryan Preece,Morton Buildings (Stewart Haas Racing),Ford,348.0,running,0.0,10.0,0.0
+2024,17,Iowa,Iowa Speedway,0.875,paved track,28.0,6.0,14.0,Chase Briscoe,Mahindra USA 30 Years (Stewart Haas Racing),Ford,348.0,running,0.0,9.0,0.0
+2024,17,Iowa,Iowa Speedway,0.875,paved track,29.0,30.0,31.0,Daniel Hemric,Cirkul (Matthew Kaulig),Chevrolet,348.0,running,0.0,8.0,0.0
+2024,17,Iowa,Iowa Speedway,0.875,paved track,30.0,21.0,2.0,Austin Cindric,Menards Moen (Roger Penske),Ford,347.0,running,0.0,7.0,0.0
+2024,17,Iowa,Iowa Speedway,0.875,paved track,31.0,26.0,71.0,Zane Smith,Focused Health (Spire Motorsports),Chevrolet,347.0,running,0.0,6.0,0.0
+2024,17,Iowa,Iowa Speedway,0.875,paved track,32.0,32.0,43.0,Erik Jones,Family Dollar (Legacy Motor Club),Toyota,347.0,running,0.0,5.0,0.0
+2024,17,Iowa,Iowa Speedway,0.875,paved track,33.0,28.0,15.0,Kaz Grala,Remixers.comXemex (Rick Ware),Ford,345.0,running,0.0,4.0,0.0
+2024,17,Iowa,Iowa Speedway,0.875,paved track,34.0,1.0,5.0,Kyle Larson,HendrickCars.com (Rick Hendrick),Chevrolet,314.0,running,80.0,22.0,1.0
+2024,17,Iowa,Iowa Speedway,0.875,paved track,35.0,7.0,8.0,Kyle Busch,zone / Kwik Star (Richard Childress),Chevrolet,272.0,water pump,0.0,3.0,0.0
+2024,17,Iowa,Iowa Speedway,0.875,paved track,36.0,18.0,16.0,A.J. Allmendinger,Action Industries (Matthew Kaulig),Chevrolet,54.0,crash,0.0,0.0,0.0
+2024,18,Loudon,New Hampshire Motor Speedway,1.058,paved track,1.0,4.0,20.0,Christopher Bell,Rheem (Joe Gibbs),Toyota,305.0,running,149.0,57.0,6.0
+2024,18,Loudon,New Hampshire Motor Speedway,1.058,paved track,2.0,23.0,14.0,Chase Briscoe,Zep (Stewart Haas Racing),Ford,305.0,running,0.0,35.0,0.0
+2024,18,Loudon,New Hampshire Motor Speedway,1.058,paved track,3.0,10.0,4.0,Josh Berry,"Miner DOCKS, DOORS, AND MORE. (Stewart Haas Racing)",Ford,305.0,running,0.0,43.0,0.0
+2024,18,Loudon,New Hampshire Motor Speedway,1.058,paved track,4.0,19.0,5.0,Kyle Larson,HendrickCars.com (Rick Hendrick),Chevrolet,305.0,running,0.0,37.0,0.0
+2024,18,Loudon,New Hampshire Motor Speedway,1.058,paved track,5.0,15.0,17.0,Chris Buescher,Fastenal (Jack Roush),Ford,305.0,running,0.0,32.0,0.0
+2024,18,Loudon,New Hampshire Motor Speedway,1.058,paved track,6.0,12.0,45.0,Tyler Reddick,SiriusXM (23XI Racing),Toyota,305.0,running,53.0,33.0,0.0
+2024,18,Loudon,New Hampshire Motor Speedway,1.058,paved track,7.0,13.0,47.0,Ricky Stenhouse Jr,Kroger/Kleenex 100 Years (JTG-Daugherty Racing),Chevrolet,305.0,running,0.0,30.0,0.0
+2024,18,Loudon,New Hampshire Motor Speedway,1.058,paved track,8.0,28.0,42.0,John H. Nemechek,Family Dollar (Legacy Motor Club),Toyota,305.0,running,0.0,29.0,0.0
+2024,18,Loudon,New Hampshire Motor Speedway,1.058,paved track,9.0,7.0,19.0,Martin Truex Jr,Reser's Fine Foods (Joe Gibbs),Toyota,305.0,running,0.0,42.0,0.0
+2024,18,Loudon,New Hampshire Motor Speedway,1.058,paved track,10.0,8.0,1.0,Ross Chastain,Kubota (Trackhouse Racing),Chevrolet,305.0,running,0.0,31.0,0.0
+2024,18,Loudon,New Hampshire Motor Speedway,1.058,paved track,11.0,31.0,41.0,Ryan Preece,Mohawk Northeast (Stewart Haas Racing),Ford,305.0,running,0.0,26.0,0.0
+2024,18,Loudon,New Hampshire Motor Speedway,1.058,paved track,12.0,16.0,38.0,Todd Gilliland,Grillo's Pickles (Bob Jenkins),Ford,305.0,running,19.0,30.0,0.0
+2024,18,Loudon,New Hampshire Motor Speedway,1.058,paved track,13.0,32.0,43.0,Erik Jones,Dollar Tree (Legacy Motor Club),Toyota,305.0,running,0.0,24.0,0.0
+2024,18,Loudon,New Hampshire Motor Speedway,1.058,paved track,14.0,27.0,21.0,Harrison Burton,Motorcraft Quick Lane (Wood Brothers),Ford,305.0,running,0.0,23.0,0.0
+2024,18,Loudon,New Hampshire Motor Speedway,1.058,paved track,15.0,25.0,34.0,Michael McDowell,LONG JOHN SILVER'S (Bob Jenkins),Ford,305.0,running,0.0,22.0,0.0
+2024,18,Loudon,New Hampshire Motor Speedway,1.058,paved track,16.0,18.0,54.0,Ty Gibbs,Monster Energy (Joe Gibbs),Toyota,305.0,running,0.0,21.0,0.0
+2024,18,Loudon,New Hampshire Motor Speedway,1.058,paved track,17.0,20.0,77.0,Carson Hocevar,Delaware Life (Spire Motorsports),Chevrolet,305.0,running,0.0,20.0,0.0
+2024,18,Loudon,New Hampshire Motor Speedway,1.058,paved track,18.0,1.0,9.0,Chase Elliott,NAPA Auto Parts (Rick Hendrick),Chevrolet,305.0,running,41.0,29.0,0.0
+2024,18,Loudon,New Hampshire Motor Speedway,1.058,paved track,19.0,29.0,2.0,Austin Cindric,AutoTrader (Roger Penske),Ford,305.0,running,0.0,18.0,0.0
+2024,18,Loudon,New Hampshire Motor Speedway,1.058,paved track,20.0,36.0,16.0,Ty Dillon,Car Bravo (Matthew Kaulig),Chevrolet,305.0,running,0.0,0.0,0.0
+2024,18,Loudon,New Hampshire Motor Speedway,1.058,paved track,21.0,11.0,99.0,Daniel Suarez,Choice Privileges (Trackhouse Racing),Chevrolet,305.0,running,0.0,16.0,0.0
+2024,18,Loudon,New Hampshire Motor Speedway,1.058,paved track,22.0,35.0,15.0,Kaz Grala,MEAT N' BONE (Rick Ware),Ford,305.0,running,0.0,15.0,0.0
+2024,18,Loudon,New Hampshire Motor Speedway,1.058,paved track,23.0,26.0,7.0,Corey LaJoie,Schluter Systems (Spire Motorsports),Chevrolet,305.0,running,0.0,14.0,0.0
+2024,18,Loudon,New Hampshire Motor Speedway,1.058,paved track,24.0,14.0,11.0,Denny Hamlin,Yahoo! (Joe Gibbs),Toyota,305.0,running,43.0,27.0,1.0
+2024,18,Loudon,New Hampshire Motor Speedway,1.058,paved track,25.0,2.0,12.0,Ryan Blaney,Menards Dutch Boy (Roger Penske),Ford,305.0,running,0.0,25.0,0.0
+2024,18,Loudon,New Hampshire Motor Speedway,1.058,paved track,26.0,3.0,24.0,William Byron,Valvoline (Rick Hendrick),Chevrolet,305.0,running,0.0,11.0,0.0
+2024,18,Loudon,New Hampshire Motor Speedway,1.058,paved track,27.0,21.0,10.0,Noah Gragson,Overstock.com (Stewart Haas Racing),Ford,305.0,running,0.0,10.0,0.0
+2024,18,Loudon,New Hampshire Motor Speedway,1.058,paved track,28.0,9.0,6.0,Brad Keselowski,BuildSubmarines.com (Jack Roush),Ford,305.0,running,0.0,9.0,0.0
+2024,18,Loudon,New Hampshire Motor Speedway,1.058,paved track,29.0,24.0,51.0,Justin Haley,Fraternal Order of Eagles (Rick Ware),Ford,305.0,running,0.0,8.0,0.0
+2024,18,Loudon,New Hampshire Motor Speedway,1.058,paved track,30.0,34.0,71.0,Zane Smith,Focused Health (Spire Motorsports),Chevrolet,304.0,running,0.0,7.0,0.0
+2024,18,Loudon,New Hampshire Motor Speedway,1.058,paved track,31.0,33.0,31.0,Daniel Hemric,Poppy Bank (Matthew Kaulig),Chevrolet,303.0,running,0.0,6.0,0.0
+2024,18,Loudon,New Hampshire Motor Speedway,1.058,paved track,32.0,6.0,22.0,Joey Logano,Hunt Brothers Pizza (Roger Penske),Ford,302.0,running,0.0,22.0,0.0
+2024,18,Loudon,New Hampshire Motor Speedway,1.058,paved track,33.0,22.0,3.0,Austin Dillon,Bass Pro Shops (Richard Childress),Chevrolet,268.0,crash,0.0,4.0,0.0
+2024,18,Loudon,New Hampshire Motor Speedway,1.058,paved track,34.0,17.0,23.0,Bubba Wallace,DraftKings (23XI Racing),Toyota,265.0,crash,0.0,3.0,0.0
+2024,18,Loudon,New Hampshire Motor Speedway,1.058,paved track,35.0,30.0,8.0,Kyle Busch,FICO (Richard Childress),Chevrolet,222.0,crash,0.0,2.0,0.0
+2024,18,Loudon,New Hampshire Motor Speedway,1.058,paved track,36.0,5.0,48.0,Alex Bowman,Ally (Rick Hendrick),Chevrolet,142.0,engine,0.0,2.0,0.0
+2024,19,Nashville,Nashville Superspeedway,1.333,paved track,1.0,26.0,22.0,Joey Logano,Shell Pennzoil (Roger Penske),Ford,331.0,running,9.0,40.0,5.0
+2024,19,Nashville,Nashville Superspeedway,1.333,paved track,2.0,36.0,71.0,Zane Smith,Jockey Outdoors By Luke Bryan (Spire Motorsports),Chevrolet,331.0,running,0.0,35.0,0.0
+2024,19,Nashville,Nashville Superspeedway,1.333,paved track,3.0,6.0,45.0,Tyler Reddick,Monster Energy (23XI Racing),Toyota,331.0,running,16.0,51.0,0.0
+2024,19,Nashville,Nashville Superspeedway,1.333,paved track,4.0,22.0,41.0,Ryan Preece,HaasTooling.com (Stewart Haas Racing),Ford,331.0,running,0.0,33.0,0.0
+2024,19,Nashville,Nashville Superspeedway,1.333,paved track,5.0,9.0,17.0,Chris Buescher,BuildSubmarines.com (Jack Roush),Ford,331.0,running,0.0,37.0,0.0
+2024,19,Nashville,Nashville Superspeedway,1.333,paved track,6.0,18.0,12.0,Ryan Blaney,MenardsIdeal Garage Doors (Roger Penske),Ford,331.0,running,26.0,34.0,0.0
+2024,19,Nashville,Nashville Superspeedway,1.333,paved track,7.0,24.0,23.0,Bubba Wallace,Columbia Sportswear Company (23XI Racing),Toyota,331.0,running,0.0,31.0,0.0
+2024,19,Nashville,Nashville Superspeedway,1.333,paved track,8.0,4.0,5.0,Kyle Larson,HendrickCars.com (Rick Hendrick),Chevrolet,331.0,running,0.0,44.0,0.0
+2024,19,Nashville,Nashville Superspeedway,1.333,paved track,9.0,37.0,31.0,Daniel Hemric,Cirkul (Matthew Kaulig),Chevrolet,331.0,running,0.0,28.0,0.0
+2024,19,Nashville,Nashville Superspeedway,1.333,paved track,10.0,16.0,10.0,Noah Gragson,Bass Pro Shops Winchester (Stewart Haas Racing),Ford,331.0,running,0.0,28.0,0.0
+2024,19,Nashville,Nashville Superspeedway,1.333,paved track,11.0,28.0,16.0,A.J. Allmendinger,Celsius (Matthew Kaulig),Chevrolet,331.0,running,1.0,0.0,0.0
+2024,19,Nashville,Nashville Superspeedway,1.333,paved track,12.0,1.0,11.0,Denny Hamlin,FedEx (Joe Gibbs),Toyota,331.0,running,70.0,41.0,0.0
+2024,19,Nashville,Nashville Superspeedway,1.333,paved track,13.0,33.0,51.0,Justin Haley,Pinnacle Home Improvement (Rick Ware),Ford,331.0,running,0.0,24.0,0.0
+2024,19,Nashville,Nashville Superspeedway,1.333,paved track,14.0,12.0,48.0,Alex Bowman,Ally (Rick Hendrick),Chevrolet,331.0,running,0.0,23.0,0.0
+2024,19,Nashville,Nashville Superspeedway,1.333,paved track,15.0,10.0,2.0,Austin Cindric,Discount Tire (Roger Penske),Ford,331.0,running,0.0,22.0,0.0
+2024,19,Nashville,Nashville Superspeedway,1.333,paved track,16.0,15.0,77.0,Carson Hocevar,Zeigler Auto Group (Spire Motorsports),Chevrolet,331.0,running,0.0,-4.0,0.0
+2024,19,Nashville,Nashville Superspeedway,1.333,paved track,17.0,32.0,38.0,Todd Gilliland,gener8tor (Bob Jenkins),Ford,331.0,running,0.0,20.0,0.0
+2024,19,Nashville,Nashville Superspeedway,1.333,paved track,18.0,13.0,9.0,Chase Elliott,NAPA Auto Parts (Rick Hendrick),Chevrolet,331.0,running,0.0,24.0,0.0
+2024,19,Nashville,Nashville Superspeedway,1.333,paved track,19.0,7.0,24.0,William Byron,Valvoline (Rick Hendrick),Chevrolet,331.0,running,0.0,22.0,0.0
+2024,19,Nashville,Nashville Superspeedway,1.333,paved track,20.0,21.0,7.0,Corey LaJoie,Garner Trucking (Spire Motorsports),Chevrolet,331.0,running,0.0,17.0,0.0
+2024,19,Nashville,Nashville Superspeedway,1.333,paved track,21.0,19.0,14.0,Chase Briscoe,Rush Truck Centers / Cummins (Stewart Haas Racing),Ford,331.0,running,0.0,16.0,0.0
+2024,19,Nashville,Nashville Superspeedway,1.333,paved track,22.0,31.0,99.0,Daniel Suarez,Tootsies Orchid Lounge (Trackhouse Racing),Chevrolet,331.0,running,0.0,15.0,0.0
+2024,19,Nashville,Nashville Superspeedway,1.333,paved track,23.0,8.0,54.0,Ty Gibbs,Interstate Batteries (Joe Gibbs),Toyota,331.0,running,2.0,19.0,0.0
+2024,19,Nashville,Nashville Superspeedway,1.333,paved track,24.0,17.0,19.0,Martin Truex Jr,Bass Pro Shops (Joe Gibbs),Toyota,331.0,running,0.0,19.0,0.0
+2024,19,Nashville,Nashville Superspeedway,1.333,paved track,25.0,5.0,6.0,Brad Keselowski,Consumer Cellular (Jack Roush),Ford,330.0,running,0.0,24.0,0.0
+2024,19,Nashville,Nashville Superspeedway,1.333,paved track,26.0,2.0,4.0,Josh Berry,Overstock.com (Stewart Haas Racing),Ford,327.0,crash,0.0,11.0,0.0
+2024,19,Nashville,Nashville Superspeedway,1.333,paved track,27.0,27.0,8.0,Kyle Busch,zone / Thorntons (Richard Childress),Chevrolet,319.0,crash,0.0,10.0,0.0
+2024,19,Nashville,Nashville Superspeedway,1.333,paved track,28.0,25.0,21.0,Harrison Burton,DEX Imaging (Wood Brothers),Ford,312.0,crash,0.0,9.0,0.0
+2024,19,Nashville,Nashville Superspeedway,1.333,paved track,29.0,29.0,50.0,Corey Heim,Mobil 1 50th Anniversary (TMT Racing),Toyota,312.0,crash,0.0,0.0,0.0
+2024,19,Nashville,Nashville Superspeedway,1.333,paved track,30.0,23.0,47.0,Ricky Stenhouse Jr,Artesano Hawaiian/Oscar Mayer (JTG-Daugherty Racing),Chevrolet,312.0,crash,0.0,7.0,0.0
+2024,19,Nashville,Nashville Superspeedway,1.333,paved track,31.0,35.0,42.0,John H. Nemechek,Massey Motor Freight (Legacy Motor Club),Toyota,306.0,crash,0.0,6.0,0.0
+2024,19,Nashville,Nashville Superspeedway,1.333,paved track,32.0,11.0,3.0,Austin Dillon,BREZTRI (Richard Childress),Chevrolet,305.0,crash,0.0,5.0,0.0
+2024,19,Nashville,Nashville Superspeedway,1.333,paved track,33.0,20.0,1.0,Ross Chastain,Busch Country (Trackhouse Racing),Chevrolet,304.0,crash,45.0,4.0,0.0
+2024,19,Nashville,Nashville Superspeedway,1.333,paved track,34.0,34.0,43.0,Erik Jones,Family Dollar (Legacy Motor Club),Toyota,287.0,suspension,0.0,3.0,0.0
+2024,19,Nashville,Nashville Superspeedway,1.333,paved track,35.0,14.0,34.0,Michael McDowell,Love's / Fleetguard (Bob Jenkins),Ford,239.0,transmission,31.0,2.0,0.0
+2024,19,Nashville,Nashville Superspeedway,1.333,paved track,36.0,3.0,20.0,Christopher Bell,DEWALT (Joe Gibbs),Toyota,227.0,crash,131.0,21.0,2.0
+2024,19,Nashville,Nashville Superspeedway,1.333,paved track,37.0,30.0,15.0,Riley Herbst,Monster Energy Zero Sugar (Rick Ware),Ford,201.0,crash,0.0,0.0,0.0
+2024,19,Nashville,Nashville Superspeedway,1.333,paved track,38.0,38.0,66.0,Chad Finchum,Cooper&Hunter (Carl Long),Ford,132.0,electrical,0.0,0.0,0.0
+2024,20,Chicago,Chicago Street Course,2.2,road course,1.0,8.0,48.0,Alex Bowman,Ally (Rick Hendrick),Chevrolet,58.0,running,8.0,54.0,5.0
+2024,20,Chicago,Chicago Street Course,2.2,road course,2.0,4.0,45.0,Tyler Reddick,Jordan Brand (23XI Racing),Toyota,58.0,running,0.0,37.0,0.0
+2024,20,Chicago,Chicago Street Course,2.2,road course,3.0,2.0,54.0,Ty Gibbs,Monster Energy (Joe Gibbs),Toyota,58.0,running,17.0,42.0,0.0
+2024,20,Chicago,Chicago Street Course,2.2,road course,4.0,38.0,60.0,Joey Hand,BuildSubmarines.com (Jack Roush),Ford,58.0,running,7.0,43.0,1.0
+2024,20,Chicago,Chicago Street Course,2.2,road course,5.0,3.0,34.0,Michael McDowell,Chicago White Sox (Bob Jenkins),Ford,58.0,running,0.0,32.0,0.0
+2024,20,Chicago,Chicago Street Course,2.2,road course,6.0,33.0,47.0,Ricky Stenhouse Jr,Mariano's/Colgate Optic White (JTG-Daugherty Racing),Chevrolet,58.0,running,0.0,34.0,0.0
+2024,20,Chicago,Chicago Street Course,2.2,road course,7.0,26.0,38.0,Todd Gilliland,gener8tor (Bob Jenkins),Ford,58.0,running,0.0,33.0,0.0
+2024,20,Chicago,Chicago Street Course,2.2,road course,8.0,27.0,24.0,William Byron,Relay Payments (Rick Hendrick),Chevrolet,58.0,running,0.0,29.0,0.0
+2024,20,Chicago,Chicago Street Course,2.2,road course,9.0,19.0,8.0,Kyle Busch,Zone (Richard Childress),Chevrolet,58.0,running,0.0,28.0,0.0
+2024,20,Chicago,Chicago Street Course,2.2,road course,10.0,17.0,12.0,Ryan Blaney,Menards Dutch Boy (Roger Penske),Ford,58.0,running,0.0,27.0,0.0
+2024,20,Chicago,Chicago Street Course,2.2,road course,11.0,9.0,99.0,Daniel Suarez,Jockey x Folds of Honor (Trackhouse Racing),Chevrolet,58.0,running,0.0,27.0,0.0
+2024,20,Chicago,Chicago Street Course,2.2,road course,12.0,35.0,31.0,Daniel Hemric,Cirkul (Matthew Kaulig),Chevrolet,58.0,running,0.0,29.0,0.0
+2024,20,Chicago,Chicago Street Course,2.2,road course,13.0,6.0,23.0,Bubba Wallace,McDonald's (23XI Racing),Toyota,58.0,running,0.0,28.0,0.0
+2024,20,Chicago,Chicago Street Course,2.2,road course,14.0,28.0,10.0,Noah Gragson,Bass Pro Shops Winchester (Stewart Haas Racing),Ford,58.0,running,0.0,28.0,0.0
+2024,20,Chicago,Chicago Street Course,2.2,road course,15.0,21.0,2.0,Austin Cindric,Discount Tire (Roger Penske),Ford,58.0,running,0.0,22.0,0.0
+2024,20,Chicago,Chicago Street Course,2.2,road course,16.0,23.0,51.0,Justin Haley,Pinnacle Home Improvement (Rick Ware),Ford,58.0,running,0.0,21.0,0.0
+2024,20,Chicago,Chicago Street Course,2.2,road course,17.0,30.0,71.0,Zane Smith,Focused Health (Spire Motorsports),Chevrolet,58.0,running,3.0,20.0,0.0
+2024,20,Chicago,Chicago Street Course,2.2,road course,18.0,10.0,6.0,Brad Keselowski,Elk Grove Village (Jack Roush),Ford,58.0,running,0.0,27.0,0.0
+2024,20,Chicago,Chicago Street Course,2.2,road course,19.0,15.0,3.0,Austin Dillon,Get Bioethanol (Richard Childress),Chevrolet,58.0,running,0.0,18.0,0.0
+2024,20,Chicago,Chicago Street Course,2.2,road course,20.0,16.0,17.0,Chris Buescher,Fastenal (Jack Roush),Ford,58.0,running,0.0,17.0,0.0
+2024,20,Chicago,Chicago Street Course,2.2,road course,21.0,18.0,9.0,Chase Elliott,NAPA Auto Parts (Rick Hendrick),Chevrolet,58.0,running,0.0,16.0,0.0
+2024,20,Chicago,Chicago Street Course,2.2,road course,22.0,14.0,1.0,Ross Chastain,Busch Light Peach (Trackhouse Racing),Chevrolet,58.0,running,0.0,15.0,0.0
+2024,20,Chicago,Chicago Street Course,2.2,road course,23.0,32.0,22.0,Joey Logano,Shell Pennzoil (Roger Penske),Ford,58.0,running,0.0,14.0,0.0
+2024,20,Chicago,Chicago Street Course,2.2,road course,24.0,13.0,77.0,Carson Hocevar,Zeigler Auto Group (Spire Motorsports),Chevrolet,58.0,running,0.0,20.0,0.0
+2024,20,Chicago,Chicago Street Course,2.2,road course,25.0,31.0,21.0,Harrison Burton,Motorcraft Quick Lane (Wood Brothers),Ford,58.0,running,0.0,14.0,0.0
+2024,20,Chicago,Chicago Street Course,2.2,road course,26.0,40.0,15.0,Kaz Grala,Remixers.comMeat n' Bone (Rick Ware),Ford,58.0,running,0.0,11.0,0.0
+2024,20,Chicago,Chicago Street Course,2.2,road course,27.0,20.0,7.0,Corey LaJoie,Celsius (Spire Motorsports),Chevrolet,58.0,running,0.0,10.0,0.0
+2024,20,Chicago,Chicago Street Course,2.2,road course,28.0,39.0,66.0,Josh Bilicki,Purekick Hydration (Carl Long),Ford,58.0,running,0.0,0.0,0.0
+2024,20,Chicago,Chicago Street Course,2.2,road course,29.0,25.0,43.0,Erik Jones,AdventHealth (Legacy Motor Club),Toyota,58.0,running,0.0,8.0,0.0
+2024,20,Chicago,Chicago Street Course,2.2,road course,30.0,11.0,11.0,Denny Hamlin,SportClips Haircuts (Joe Gibbs),Toyota,58.0,running,0.0,8.0,0.0
+2024,20,Chicago,Chicago Street Course,2.2,road course,31.0,34.0,33.0,Austin Hill,United Rentals (Richard Childress),Chevrolet,58.0,running,0.0,0.0,0.0
+2024,20,Chicago,Chicago Street Course,2.2,road course,32.0,22.0,14.0,Chase Briscoe,Mahindra Compact Tractors (Stewart Haas Racing),Ford,58.0,running,0.0,12.0,0.0
+2024,20,Chicago,Chicago Street Course,2.2,road course,33.0,24.0,19.0,Martin Truex Jr,Bass Pro Shops (Joe Gibbs),Toyota,58.0,running,0.0,10.0,0.0
+2024,20,Chicago,Chicago Street Course,2.2,road course,34.0,29.0,41.0,Ryan Preece,HaasTooling.com (Stewart Haas Racing),Ford,58.0,running,0.0,3.0,0.0
+2024,20,Chicago,Chicago Street Course,2.2,road course,35.0,12.0,42.0,John H. Nemechek,Dollar Tree (Legacy Motor Club),Toyota,57.0,running,0.0,2.0,0.0
+2024,20,Chicago,Chicago Street Course,2.2,road course,36.0,36.0,4.0,Josh Berry,Overstock.com (Stewart Haas Racing),Ford,57.0,running,0.0,1.0,0.0
+2024,20,Chicago,Chicago Street Course,2.2,road course,37.0,7.0,20.0,Christopher Bell,CRAFTSMAN Racing for a Miracle (Joe Gibbs),Toyota,55.0,crash,14.0,10.0,0.0
+2024,20,Chicago,Chicago Street Course,2.2,road course,38.0,37.0,13.0,A.J. Allmendinger,Benesch (Matthew Kaulig),Chevrolet,48.0,crash,0.0,0.0,0.0
+2024,20,Chicago,Chicago Street Course,2.2,road course,39.0,1.0,5.0,Kyle Larson,Valvoline (Rick Hendrick),Chevrolet,33.0,crash,0.0,7.0,0.0
+2024,20,Chicago,Chicago Street Course,2.2,road course,40.0,5.0,16.0,Shane Van Gisbergen,Wendy's Saucy Nuggs (Matthew Kaulig),Chevrolet,24.0,crash,9.0,0.0,0.0
+2024,21,Pocono,Pocono Raceway,2.5,paved track,1.0,8.0,12.0,Ryan Blaney,Wabash (Roger Penske),Ford,160.0,running,44.0,40.0,5.0
+2024,21,Pocono,Pocono Raceway,2.5,paved track,2.0,4.0,11.0,Denny Hamlin,Mavis Tire (Joe Gibbs),Toyota,160.0,running,31.0,54.0,1.0
+2024,21,Pocono,Pocono Raceway,2.5,paved track,3.0,6.0,48.0,Alex Bowman,Ally Best Friends (Rick Hendrick),Chevrolet,160.0,running,0.0,43.0,0.0
+2024,21,Pocono,Pocono Raceway,2.5,paved track,4.0,2.0,24.0,William Byron,Raptor High Heat (Rick Hendrick),Chevrolet,160.0,running,0.0,47.0,0.0
+2024,21,Pocono,Pocono Raceway,2.5,paved track,5.0,10.0,22.0,Joey Logano,Shell Pennzoil (Roger Penske),Ford,160.0,running,3.0,38.0,0.0
+2024,21,Pocono,Pocono Raceway,2.5,paved track,6.0,7.0,45.0,Tyler Reddick,MoneyLion (23XI Racing),Toyota,160.0,running,0.0,40.0,0.0
+2024,21,Pocono,Pocono Raceway,2.5,paved track,7.0,14.0,6.0,Brad Keselowski,Nexlizet (Jack Roush),Ford,160.0,running,20.0,41.0,0.0
+2024,21,Pocono,Pocono Raceway,2.5,paved track,8.0,3.0,19.0,Martin Truex Jr,Interstate Batteries (Joe Gibbs),Toyota,160.0,running,14.0,39.0,1.0
+2024,21,Pocono,Pocono Raceway,2.5,paved track,9.0,11.0,9.0,Chase Elliott,NAPA Auto Parts (Rick Hendrick),Chevrolet,160.0,running,0.0,43.0,0.0
+2024,21,Pocono,Pocono Raceway,2.5,paved track,10.0,29.0,23.0,Bubba Wallace,Leidos (23XI Racing),Toyota,160.0,running,0.0,27.0,0.0
+2024,21,Pocono,Pocono Raceway,2.5,paved track,11.0,18.0,17.0,Chris Buescher,BuildSubmarines.com (Jack Roush),Ford,160.0,running,19.0,26.0,0.0
+2024,21,Pocono,Pocono Raceway,2.5,paved track,12.0,13.0,20.0,Christopher Bell,Rheem (Joe Gibbs),Toyota,160.0,running,0.0,30.0,0.0
+2024,21,Pocono,Pocono Raceway,2.5,paved track,13.0,12.0,5.0,Kyle Larson,HendrickCars.com (Rick Hendrick),Chevrolet,160.0,running,0.0,29.0,0.0
+2024,21,Pocono,Pocono Raceway,2.5,paved track,14.0,23.0,43.0,Erik Jones,Family Dollar (Legacy Motor Club),Toyota,160.0,running,0.0,30.0,0.0
+2024,21,Pocono,Pocono Raceway,2.5,paved track,15.0,28.0,14.0,Chase Briscoe,HighPoint.com (Stewart Haas Racing),Ford,160.0,running,0.0,22.0,0.0
+2024,21,Pocono,Pocono Raceway,2.5,paved track,16.0,16.0,99.0,Daniel Suarez,Worldwide Express (Trackhouse Racing),Chevrolet,160.0,running,0.0,21.0,0.0
+2024,21,Pocono,Pocono Raceway,2.5,paved track,17.0,15.0,77.0,Carson Hocevar,Delaware Life (Spire Motorsports),Chevrolet,160.0,running,0.0,20.0,0.0
+2024,21,Pocono,Pocono Raceway,2.5,paved track,18.0,20.0,2.0,Austin Cindric,MenardsRichmond Water Heaters (Roger Penske),Ford,160.0,running,0.0,19.0,0.0
+2024,21,Pocono,Pocono Raceway,2.5,paved track,19.0,30.0,7.0,Corey LaJoie,Parity in Paris (Spire Motorsports),Chevrolet,160.0,running,0.0,18.0,0.0
+2024,21,Pocono,Pocono Raceway,2.5,paved track,20.0,5.0,4.0,Josh Berry,Overstock.com (Stewart Haas Racing),Ford,160.0,running,8.0,17.0,0.0
+2024,21,Pocono,Pocono Raceway,2.5,paved track,21.0,26.0,16.0,A.J. Allmendinger,Cirkul (Matthew Kaulig),Chevrolet,160.0,running,0.0,0.0,0.0
+2024,21,Pocono,Pocono Raceway,2.5,paved track,22.0,34.0,51.0,Justin Haley,Walmart Health & Wellness (Rick Ware),Ford,160.0,running,0.0,15.0,0.0
+2024,21,Pocono,Pocono Raceway,2.5,paved track,23.0,17.0,3.0,Austin Dillon,Boot Barn (Richard Childress),Chevrolet,160.0,running,0.0,14.0,0.0
+2024,21,Pocono,Pocono Raceway,2.5,paved track,24.0,21.0,34.0,Michael McDowell,Gunk (Bob Jenkins),Ford,158.0,running,0.0,13.0,0.0
+2024,21,Pocono,Pocono Raceway,2.5,paved track,25.0,27.0,31.0,Daniel Hemric,Poppy Bank (Matthew Kaulig),Chevrolet,153.0,suspension,0.0,12.0,0.0
+2024,21,Pocono,Pocono Raceway,2.5,paved track,26.0,35.0,15.0,Cody Ware,Jacob Construction (Rick Ware),Ford,134.0,overheating,0.0,11.0,0.0
+2024,21,Pocono,Pocono Raceway,2.5,paved track,27.0,1.0,54.0,Ty Gibbs,Monster Energy (Joe Gibbs),Toyota,132.0,engine,21.0,10.0,0.0
+2024,21,Pocono,Pocono Raceway,2.5,paved track,28.0,32.0,42.0,John H. Nemechek,Dollar Tree (Legacy Motor Club),Toyota,126.0,crash,0.0,9.0,0.0
+2024,21,Pocono,Pocono Raceway,2.5,paved track,29.0,9.0,71.0,Zane Smith,Focused Health (Spire Motorsports),Chevrolet,126.0,crash,0.0,8.0,0.0
+2024,21,Pocono,Pocono Raceway,2.5,paved track,30.0,36.0,41.0,Ryan Preece,HaasTooling.com (Stewart Haas Racing),Ford,121.0,crash,0.0,7.0,0.0
+2024,21,Pocono,Pocono Raceway,2.5,paved track,31.0,22.0,21.0,Harrison Burton,DEX Imaging (Wood Brothers),Ford,121.0,crash,0.0,6.0,0.0
+2024,21,Pocono,Pocono Raceway,2.5,paved track,32.0,24.0,8.0,Kyle Busch,zone / GetGo (Richard Childress),Chevrolet,120.0,crash,0.0,5.0,0.0
+2024,21,Pocono,Pocono Raceway,2.5,paved track,33.0,31.0,47.0,Ricky Stenhouse Jr,Sugarlands Sippin' Cream (JTG-Daugherty Racing),Chevrolet,120.0,crash,0.0,4.0,0.0
+2024,21,Pocono,Pocono Raceway,2.5,paved track,34.0,33.0,38.0,Todd Gilliland,C.H. REED (Bob Jenkins),Ford,115.0,crash,0.0,3.0,0.0
+2024,21,Pocono,Pocono Raceway,2.5,paved track,35.0,37.0,44.0,J.J. Yeley,Ollie's Bargain Outlet (Johnathan Cohen),Chevrolet,112.0,fuel pump,0.0,0.0,0.0
+2024,21,Pocono,Pocono Raceway,2.5,paved track,36.0,19.0,1.0,Ross Chastain,Busch Light Peach (Trackhouse Racing),Chevrolet,53.0,crash,0.0,1.0,0.0
+2024,21,Pocono,Pocono Raceway,2.5,paved track,37.0,25.0,10.0,Noah Gragson,Overstock.com (Stewart Haas Racing),Ford,13.0,crash,0.0,1.0,0.0

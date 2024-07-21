@@ -1,0 +1,733 @@
+Season,Race,Site,Track,Track_length,Track_type,Pos,St,#,Driver,Sponsor / Owner,Truck,Laps,Money,Status,Led,Pts
+2015,1,Daytona,Daytona International Speedway,2.5,paved track,1.0,3.0,19.0,Tyler Reddick,Draw-Tite (Brad Keselowski),Ford,100.0,91804.0,running,46.0,48.0
+2015,1,Daytona,Daytona International Speedway,2.5,paved track,2.0,7.0,4.0,Erik Jones,Toyota (Kyle Busch),Toyota,100.0,58057.0,running,0.0,42.0
+2015,1,Daytona,Daytona International Speedway,2.5,paved track,3.0,9.0,20.0,"Scott Lagasse, Jr.",Alert Today FL / Boy Scouts of America (Bob Newberry),Chevrolet,100.0,42138.0,running,0.0,0.0
+2015,1,Daytona,Daytona International Speedway,2.5,paved track,4.0,4.0,29.0,Austin Theriault,Cooper Standard Careers for Veterans (Brad Keselowski),Ford,100.0,32221.0,running,9.0,31.0
+2015,1,Daytona,Daytona International Speedway,2.5,paved track,5.0,15.0,7.0,"Ray Black, Jr.",ScubaLife / NASE Worldwide (Bobby Dotter),Chevrolet,100.0,26294.0,running,0.0,39.0
+2015,1,Daytona,Daytona International Speedway,2.5,paved track,6.0,13.0,92.0,David Gilliland,BTS Tire & Wheel Distributors / Black's Tire (Ricky Benton),Ford,100.0,22729.0,running,1.0,0.0
+2015,1,Daytona,Daytona International Speedway,2.5,paved track,7.0,28.0,99.0,Bryan Silas,Kapoya Premium Energy Drink (Chris Baluch),Chevrolet,100.0,22981.0,running,0.0,37.0
+2015,1,Daytona,Daytona International Speedway,2.5,paved track,8.0,31.0,88.0,Matt Crafton,Damp Rid / Menards (Duke Thorson),Toyota,100.0,22883.0,running,1.0,37.0
+2015,1,Daytona,Daytona International Speedway,2.5,paved track,9.0,30.0,51.0,Daniel Suarez,Arris / Telcel (Kyle Busch),Toyota,100.0,20786.0,running,5.0,0.0
+2015,1,Daytona,Daytona International Speedway,2.5,paved track,10.0,19.0,98.0,Johnny Sauter,Smokey Mountain Herbal Snuff / Curb Records (Mike Curb),Toyota,100.0,20638.0,running,0.0,34.0
+2015,1,Daytona,Daytona International Speedway,2.5,paved track,11.0,1.0,33.0,Ty Dillon,Rheem / Gemaire (Maury Gallagher),Chevrolet,100.0,19673.0,running,37.0,0.0
+2015,1,Daytona,Daytona International Speedway,2.5,paved track,12.0,23.0,8.0,Korbin Forrister,Tilted Kilt (Christopher Long),Chevrolet,100.0,19430.0,running,0.0,32.0
+2015,1,Daytona,Daytona International Speedway,2.5,paved track,13.0,29.0,2.0,Tyler Young,AKL Insurance/Randco/Young's Building Systems (Randy Young),Chevrolet,100.0,19300.0,running,1.0,32.0
+2015,1,Daytona,Daytona International Speedway,2.5,paved track,14.0,22.0,6.0,Norm Benning,Norm Benning Racing (Norm Benning),Chevrolet,100.0,19171.0,running,0.0,30.0
+2015,1,Daytona,Daytona International Speedway,2.5,paved track,15.0,2.0,94.0,Travis Kvapil,Chargebacks 911 / MerchantSystems.com (Jay Robinson),Chevrolet,93.0,17192.0,running,0.0,29.0
+2015,1,Daytona,Daytona International Speedway,2.5,paved track,16.0,21.0,28.0,Ryan Ellis,FDNY 150th Anniversary (Jim Rosenblum),Chevrolet,87.0,16798.0,crash,0.0,0.0
+2015,1,Daytona,Daytona International Speedway,2.5,paved track,17.0,5.0,31.0,James Buescher,GunBroker.com (Bob Newberry),Chevrolet,85.0,16469.0,running,0.0,27.0
+2015,1,Daytona,Daytona International Speedway,2.5,paved track,18.0,11.0,10.0,Jennifer Jo Cobb,Driven2Honor.org (Jennifer Jo Cobb),Chevrolet,77.0,18590.0,running,0.0,26.0
+2015,1,Daytona,Daytona International Speedway,2.5,paved track,19.0,16.0,25.0,Matt Tifft,Federated Auto Parts (Bill Venturini),Toyota,64.0,18461.0,rear hub,0.0,25.0
+2015,1,Daytona,Daytona International Speedway,2.5,paved track,20.0,18.0,8.0,Joe Nemechek,D.A.B. Constructors (Joe Nemechek),Chevrolet,62.0,18896.0,running,0.0,24.0
+2015,1,Daytona,Daytona International Speedway,2.5,paved track,21.0,10.0,23.0,Spencer Gallagher,Allegiant Travel (Maury Gallagher),Chevrolet,61.0,18267.0,running,0.0,23.0
+2015,1,Daytona,Daytona International Speedway,2.5,paved track,22.0,26.0,5.0,John Wes Townley,Zaxby's (Tony Townley),Chevrolet,48.0,18138.0,crash,0.0,22.0
+2015,1,Daytona,Daytona International Speedway,2.5,paved track,23.0,14.0,13.0,Cameron Hayley,Cabinets by Hayley (Duke Thorson),Toyota,48.0,18009.0,crash,0.0,21.0
+2015,1,Daytona,Daytona International Speedway,2.5,paved track,24.0,32.0,17.0,Timothy Peters,Red Horse Racing (Tom DeLoach),Toyota,48.0,16629.0,crash,0.0,20.0
+2015,1,Daytona,Daytona International Speedway,2.5,paved track,25.0,8.0,84.0,Chris Fontaine,Glenden Enterprises (Chris Fontaine),Toyota,48.0,15650.0,crash,0.0,0.0
+2015,1,Daytona,Daytona International Speedway,2.5,paved track,26.0,20.0,14.0,Daniel Hemric,California Clean Power (Bob Newberry),Chevrolet,48.0,16435.0,crash,0.0,18.0
+2015,1,Daytona,Daytona International Speedway,2.5,paved track,27.0,24.0,40.0,Todd Peck,Arthritis Foundation (Michael Peck),Chevrolet,48.0,15241.0,crash,0.0,17.0
+2015,1,Daytona,Daytona International Speedway,2.5,paved track,28.0,6.0,11.0,Ben Kennedy,Local Motors (Tom DeLoach),Toyota,20.0,14661.0,crash,0.0,16.0
+2015,1,Daytona,Daytona International Speedway,2.5,paved track,29.0,25.0,54.0,Justin Boston,BitPay (Kyle Busch),Toyota,18.0,14550.0,crash,0.0,15.0
+2015,1,Daytona,Daytona International Speedway,2.5,paved track,30.0,17.0,82.0,Austin Hill,Arco Design / Build / A&D Welding (John Corr),Ford,13.0,14050.0,crash,0.0,0.0
+2015,1,Daytona,Daytona International Speedway,2.5,paved track,31.0,12.0,1.0,Donnie Neuenberger,Eagle Convenience Stores (Mark Beaver),Chevrolet,13.0,12550.0,crash,0.0,13.0
+2015,1,Daytona,Daytona International Speedway,2.5,paved track,32.0,27.0,35.0,Justin Marks,American Born Moonshine / GoPro Motorplex (Kevin Cywinski),Toyota,12.0,11550.0,crash,0.0,0.0
+2015,2,Atlanta,Atlanta Motor Speedway,1.54,paved track,1.0,15.0,88.0,Matt Crafton,Fisher Nuts Exactly Snack Bites / Menards (Duke Thorson),Toyota,130.0,45285.0,running,85.0,48.0
+2015,2,Atlanta,Atlanta Motor Speedway,1.54,paved track,2.0,14.0,33.0,Ty Dillon,Rheem (Maury Gallagher),Chevrolet,130.0,26957.0,running,0.0,0.0
+2015,2,Atlanta,Atlanta Motor Speedway,1.54,paved track,3.0,1.0,11.0,Ben Kennedy,Local Motors (Tom DeLoach),Toyota,130.0,27620.0,running,1.0,42.0
+2015,2,Atlanta,Atlanta Motor Speedway,1.54,paved track,4.0,4.0,51.0,Daniel Suarez,Arris / Telcel (Kyle Busch),Toyota,130.0,21261.0,running,1.0,0.0
+2015,2,Atlanta,Atlanta Motor Speedway,1.54,paved track,5.0,11.0,19.0,Tyler Reddick,Reese Towpower / Draw-Tite (Brad Keselowski),Ford,130.0,18707.0,running,0.0,39.0
+2015,2,Atlanta,Atlanta Motor Speedway,1.54,paved track,6.0,13.0,98.0,Johnny Sauter,Nextant Aerospace / Curb Records (Mike Curb),Toyota,130.0,16667.0,running,0.0,38.0
+2015,2,Atlanta,Atlanta Motor Speedway,1.54,paved track,7.0,2.0,4.0,Erik Jones,Toyota (Kyle Busch),Toyota,130.0,17112.0,running,37.0,38.0
+2015,2,Atlanta,Atlanta Motor Speedway,1.54,paved track,8.0,8.0,31.0,James Buescher,NTS Motorsports (Bob Newberry),Chevrolet,129.0,13612.0,running,0.0,36.0
+2015,2,Atlanta,Atlanta Motor Speedway,1.54,paved track,9.0,16.0,17.0,Timothy Peters,Red Horse Racing (Tom DeLoach),Toyota,129.0,15807.0,running,0.0,35.0
+2015,2,Atlanta,Atlanta Motor Speedway,1.54,paved track,10.0,7.0,8.0,Joe Nemechek,SWM Gun Runner / swmtx.com (Joe Nemechek),Chevrolet,129.0,16701.0,running,0.0,34.0
+2015,2,Atlanta,Atlanta Motor Speedway,1.54,paved track,11.0,18.0,39.0,Ryan Sieg,Raceday Nation / Pull-A-Part / Big Green Egg (Rod Sieg),Chevrolet,129.0,13446.0,running,0.0,0.0
+2015,2,Atlanta,Atlanta Motor Speedway,1.54,paved track,12.0,5.0,5.0,John Wes Townley,Zaxby's (Tony Townley),Chevrolet,129.0,15557.0,running,0.0,32.0
+2015,2,Atlanta,Atlanta Motor Speedway,1.54,paved track,13.0,9.0,23.0,Spencer Gallagher,Allegiant Travel (Maury Gallagher),Chevrolet,129.0,15501.0,running,0.0,31.0
+2015,2,Atlanta,Atlanta Motor Speedway,1.54,paved track,14.0,3.0,13.0,Cameron Hayley,Cabinets by Hayley (Duke Thorson),Toyota,129.0,15445.0,running,0.0,30.0
+2015,2,Atlanta,Atlanta Motor Speedway,1.54,paved track,15.0,10.0,29.0,Brad Keselowski,Cooper Standard (Brad Keselowski),Ford,129.0,13657.0,running,6.0,0.0
+2015,2,Atlanta,Atlanta Motor Speedway,1.54,paved track,16.0,6.0,54.0,Justin Boston,Discovering Lucy Angel / AXS TV (Kyle Busch),Toyota,129.0,15168.0,running,0.0,28.0
+2015,2,Atlanta,Atlanta Motor Speedway,1.54,paved track,17.0,20.0,75.0,Caleb Holman,Food Country USA / Morning Fresh Farms (Charlie Henderson),Chevrolet,127.0,12807.0,running,0.0,27.0
+2015,2,Atlanta,Atlanta Motor Speedway,1.54,paved track,18.0,29.0,63.0,Garrett Smithley,HeroBox (Mike Mittler),Chevrolet,126.0,14919.0,running,0.0,26.0
+2015,2,Atlanta,Atlanta Motor Speedway,1.54,paved track,19.0,12.0,14.0,Daniel Hemric,California Clean Power (Bob Newberry),Chevrolet,126.0,14807.0,running,0.0,25.0
+2015,2,Atlanta,Atlanta Motor Speedway,1.54,paved track,20.0,26.0,8.0,Korbin Forrister,Tilted Kilt (Christopher Long),Chevrolet,125.0,15252.0,running,0.0,24.0
+2015,2,Atlanta,Atlanta Motor Speedway,1.54,paved track,21.0,19.0,99.0,Bryan Silas,Kapoya Premium Energy Drink (Chris Baluch),Chevrolet,123.0,14586.0,running,0.0,23.0
+2015,2,Atlanta,Atlanta Motor Speedway,1.54,paved track,22.0,21.0,2.0,Tyler Young,Randco Industries / Young's Building Systems (Randy Young),Chevrolet,123.0,14475.0,running,0.0,22.0
+2015,2,Atlanta,Atlanta Motor Speedway,1.54,paved track,23.0,28.0,74.0,Jordan Anderson,Auntie Anne's / Tri-Analytics (Mike Harmon),Chevrolet,123.0,12085.0,running,0.0,21.0
+2015,2,Atlanta,Atlanta Motor Speedway,1.54,paved track,24.0,24.0,94.0,Wendell Chavous,Vydox Plus (Jay Robinson),Chevrolet,120.0,12002.0,running,0.0,20.0
+2015,2,Atlanta,Atlanta Motor Speedway,1.54,paved track,25.0,22.0,7.0,"Ray Black, Jr.",ScubaLife / NASE Worldwide (Bobby Dotter),Chevrolet,119.0,14375.0,running,0.0,19.0
+2015,2,Atlanta,Atlanta Motor Speedway,1.54,paved track,26.0,27.0,10.0,Jennifer Jo Cobb,Driven2Honor.org (Jennifer Jo Cobb),Chevrolet,118.0,12947.0,running,0.0,18.0
+2015,2,Atlanta,Atlanta Motor Speedway,1.54,paved track,27.0,30.0,1.0,Morgan Shepherd,Life on the Line / Lilly Trucking (Mark Beaver),Chevrolet,118.0,11891.0,running,0.0,0.0
+2015,2,Atlanta,Atlanta Motor Speedway,1.54,paved track,28.0,17.0,15.0,Mason Mingus,Billy Boat Performance Exhaust (Billy Boat),Chevrolet,110.0,11631.0,crash,0.0,16.0
+2015,2,Atlanta,Atlanta Motor Speedway,1.54,paved track,29.0,25.0,86.0,Brandon Brown,BrandonBilt Foundations (Jerry Brown),Chevrolet,91.0,11603.0,oil line,0.0,15.0
+2015,2,Atlanta,Atlanta Motor Speedway,1.54,paved track,30.0,23.0,50.0,Cody Ware,Burnie Grill / Bubba Burger (Mark Beaver),Chevrolet,48.0,12103.0,crash,0.0,14.0
+2015,2,Atlanta,Atlanta Motor Speedway,1.54,paved track,31.0,31.0,6.0,Norm Benning,Norm Benning Racing (Norm Benning),Chevrolet,12.0,9603.0,rear gear,0.0,13.0
+2015,3,Martinsville,Martinsville Speedway,0.526,paved track,1.0,1.0,29.0,Joey Logano,Cooper Standard (Brad Keselowski),Ford,258.0,51336.0,running,150.0,0.0
+2015,3,Martinsville,Martinsville Speedway,0.526,paved track,2.0,13.0,88.0,Matt Crafton,Hormel Pepperoni / Menards (Duke Thorson),Toyota,258.0,31542.0,running,100.0,43.0
+2015,3,Martinsville,Martinsville Speedway,0.526,paved track,3.0,4.0,4.0,Erik Jones,Toyota (Kyle Busch),Toyota,258.0,25488.0,running,2.0,42.0
+2015,3,Martinsville,Martinsville Speedway,0.526,paved track,4.0,9.0,98.0,Johnny Sauter,Smokey Mountain Herbal Snuff / Curb Records (Mike Curb),Toyota,258.0,19518.0,running,0.0,40.0
+2015,3,Martinsville,Martinsville Speedway,0.526,paved track,5.0,7.0,19.0,Tyler Reddick,Draw-Tite (Brad Keselowski),Ford,258.0,18458.0,running,0.0,39.0
+2015,3,Martinsville,Martinsville Speedway,0.526,paved track,6.0,11.0,51.0,Daniel Suarez,Arris / Telcel (Kyle Busch),Toyota,258.0,16574.0,running,0.0,0.0
+2015,3,Martinsville,Martinsville Speedway,0.526,paved track,7.0,15.0,31.0,James Buescher,ERT Investments (Bob Newberry),Chevrolet,258.0,14158.0,running,0.0,37.0
+2015,3,Martinsville,Martinsville Speedway,0.526,paved track,8.0,5.0,5.0,John Wes Townley,Zaxby's (Tony Townley),Chevrolet,258.0,16352.0,running,0.0,36.0
+2015,3,Martinsville,Martinsville Speedway,0.526,paved track,9.0,19.0,25.0,Matt Tifft,Clinical RM / Honoring Ebola Fighters (Bill Venturini),Toyota,258.0,16297.0,running,0.0,35.0
+2015,3,Martinsville,Martinsville Speedway,0.526,paved track,10.0,21.0,54.0,Justin Boston,Zloop (Kyle Busch),Toyota,258.0,17191.0,running,0.0,34.0
+2015,3,Martinsville,Martinsville Speedway,0.526,paved track,11.0,3.0,13.0,Cameron Hayley,Cabinets by Hayley (Duke Thorson),Toyota,258.0,16186.0,running,0.0,33.0
+2015,3,Martinsville,Martinsville Speedway,0.526,paved track,12.0,14.0,14.0,Daniel Hemric,California Clean Power (Bob Newberry),Chevrolet,258.0,16046.0,running,0.0,32.0
+2015,3,Martinsville,Martinsville Speedway,0.526,paved track,13.0,26.0,7.0,"Ray Black, Jr.",ScubaLife / NASE Worldwide (Bobby Dotter),Chevrolet,258.0,15990.0,running,0.0,31.0
+2015,3,Martinsville,Martinsville Speedway,0.526,paved track,14.0,18.0,23.0,Spencer Gallagher,Allegiant Travel (Maury Gallagher),Chevrolet,258.0,15935.0,running,0.0,30.0
+2015,3,Martinsville,Martinsville Speedway,0.526,paved track,15.0,6.0,33.0,Brandon Jones,Masterforce Tool Storage (Maury Gallagher),Chevrolet,258.0,16252.0,running,0.0,29.0
+2015,3,Martinsville,Martinsville Speedway,0.526,paved track,16.0,2.0,0.0,Cole Custer,Haas Automation (JR Motorsports),Chevrolet,258.0,15769.0,running,2.0,29.0
+2015,3,Martinsville,Martinsville Speedway,0.526,paved track,17.0,12.0,7.0,Gray Gaulding,Krispy Kreme (Tom DeLoach),Toyota,257.0,13663.0,running,0.0,27.0
+2015,3,Martinsville,Martinsville Speedway,0.526,paved track,18.0,17.0,17.0,Timothy Peters,Red Horse Racing (Tom DeLoach),Toyota,257.0,15658.0,running,0.0,26.0
+2015,3,Martinsville,Martinsville Speedway,0.526,paved track,19.0,22.0,11.0,Ben Kennedy,Heater.com / Local Motors (Tom DeLoach),Toyota,257.0,15602.0,running,0.0,25.0
+2015,3,Martinsville,Martinsville Speedway,0.526,paved track,20.0,10.0,2.0,Tyler Young,Randco Industries / Young's Building Systems (Randy Young),Chevrolet,257.0,16019.0,running,0.0,24.0
+2015,3,Martinsville,Martinsville Speedway,0.526,paved track,21.0,23.0,75.0,Caleb Holman,Food Country USA / Morning Fresh Farms (Charlie Henderson),Chevrolet,257.0,13241.0,running,0.0,23.0
+2015,3,Martinsville,Martinsville Speedway,0.526,paved track,22.0,20.0,15.0,Mason Mingus,Billy Boat Performance Exhaust (Billy Boat),Chevrolet,256.0,13213.0,running,4.0,23.0
+2015,3,Martinsville,Martinsville Speedway,0.526,paved track,23.0,27.0,8.0,Korbin Forrister,Tilted Kilt (Christopher Long),Chevrolet,255.0,15436.0,running,0.0,21.0
+2015,3,Martinsville,Martinsville Speedway,0.526,paved track,24.0,31.0,10.0,Jennifer Jo Cobb,Driven2Honor.org (Jennifer Jo Cobb),Chevrolet,250.0,14130.0,running,0.0,20.0
+2015,3,Martinsville,Martinsville Speedway,0.526,paved track,25.0,30.0,35.0,Tommy Regan,Blue Diamond Almonds / American Tactical (Christopher Long),Chevrolet,248.0,14197.0,running,0.0,19.0
+2015,3,Martinsville,Martinsville Speedway,0.526,paved track,26.0,24.0,63.0,Jake Griffin,Mittler Bros. Machine & Tool / MFW (Mike Mittler),Chevrolet,218.0,12992.0,handling,0.0,18.0
+2015,3,Martinsville,Martinsville Speedway,0.526,paved track,27.0,28.0,50.0,Cody Ware,Burnie Grill (Mark Beaver),Chevrolet,216.0,12964.0,vibration,0.0,17.0
+2015,3,Martinsville,Martinsville Speedway,0.526,paved track,28.0,29.0,6.0,Norm Benning,Norm Benning Racing (Norm Benning),Chevrolet,174.0,12716.0,rear gear,0.0,16.0
+2015,3,Martinsville,Martinsville Speedway,0.526,paved track,29.0,16.0,8.0,John H. Nemechek,SWM Gun Runner / D.A.B. Constructors (Joe Nemechek),Chevrolet,173.0,12660.0,rear gear,0.0,15.0
+2015,3,Martinsville,Martinsville Speedway,0.526,paved track,30.0,8.0,92.0,David Gilliland,BTS Tire & Wheel Distributors (Ricky Benton),Ford,132.0,12160.0,brakes,0.0,0.0
+2015,3,Martinsville,Martinsville Speedway,0.526,paved track,31.0,25.0,99.0,Bryan Silas,Kapoya Premium Energy Drink (Chris Baluch),Chevrolet,120.0,10660.0,overheating,0.0,13.0
+2015,3,Martinsville,Martinsville Speedway,0.526,paved track,32.0,32.0,1.0,Travis Kvapil,Bubba Burger / Kioti Tractors (Mark Beaver),Chevrolet,83.0,9660.0,rear gear,0.0,12.0
+2015,4,Kansas,Kansas Speedway,1.5,paved track,1.0,2.0,88.0,Matt Crafton,Slim Jim / Menards (Duke Thorson),Toyota,167.0,49832.0,running,6.0,47.0
+2015,4,Kansas,Kansas Speedway,1.5,paved track,2.0,4.0,8.0,Ryan Newman,D.A.B. Constructors (Joe Nemechek),Chevrolet,167.0,33959.0,running,2.0,0.0
+2015,4,Kansas,Kansas Speedway,1.5,paved track,3.0,7.0,98.0,Johnny Sauter,Nextant Aerospace / Curb Records (Mike Curb),Toyota,167.0,27351.0,running,0.0,41.0
+2015,4,Kansas,Kansas Speedway,1.5,paved track,4.0,12.0,17.0,Timothy Peters,Red Horse Racing (Tom DeLoach),Toyota,167.0,23431.0,running,0.0,40.0
+2015,4,Kansas,Kansas Speedway,1.5,paved track,5.0,8.0,13.0,Cameron Hayley,Cabinets by Hayley (Duke Thorson),Toyota,167.0,20652.0,running,0.0,39.0
+2015,4,Kansas,Kansas Speedway,1.5,paved track,6.0,10.0,51.0,Daniel Suarez,Arris / Telcel (Kyle Busch),Toyota,167.0,17277.0,running,1.0,0.0
+2015,4,Kansas,Kansas Speedway,1.5,paved track,7.0,9.0,54.0,Justin Boston,Zloop (Kyle Busch),Toyota,166.0,19064.0,running,0.0,37.0
+2015,4,Kansas,Kansas Speedway,1.5,paved track,8.0,11.0,31.0,"Scott Lagasse, Jr.",Boy Scouts of America / STEM Scouts (Bob Newberry),Chevrolet,166.0,18686.0,running,0.0,0.0
+2015,4,Kansas,Kansas Speedway,1.5,paved track,9.0,13.0,15.0,Mason Mingus,Billy Boat Performance Exhaust (Billy Boat),Chevrolet,166.0,18602.0,running,0.0,35.0
+2015,4,Kansas,Kansas Speedway,1.5,paved track,10.0,6.0,14.0,Daniel Hemric,California Clean Power (Bob Newberry),Chevrolet,166.0,19502.0,running,0.0,34.0
+2015,4,Kansas,Kansas Speedway,1.5,paved track,11.0,1.0,4.0,Erik Jones,Toyota (Kyle Busch),Toyota,166.0,20796.0,running,151.0,35.0
+2015,4,Kansas,Kansas Speedway,1.5,paved track,12.0,15.0,5.0,John Wes Townley,Zaxby's (Tony Townley),Chevrolet,166.0,18362.0,running,0.0,32.0
+2015,4,Kansas,Kansas Speedway,1.5,paved track,13.0,22.0,19.0,Tyler Reddick,Broken Bow Records (Brad Keselowski),Ford,165.0,18283.0,running,7.0,32.0
+2015,4,Kansas,Kansas Speedway,1.5,paved track,14.0,23.0,29.0,Austin Theriault,Cooper Standard (Brad Keselowski),Ford,165.0,18228.0,running,0.0,30.0
+2015,4,Kansas,Kansas Speedway,1.5,paved track,15.0,25.0,63.0,Tyler Tanner,Vatterott College (Mike Mittler),Chevrolet,165.0,18772.0,running,0.0,29.0
+2015,4,Kansas,Kansas Speedway,1.5,paved track,16.0,24.0,94.0,Wendell Chavous,Vydox Plus (Jay Robinson),Chevrolet,164.0,18093.0,running,0.0,28.0
+2015,4,Kansas,Kansas Speedway,1.5,paved track,17.0,14.0,23.0,Spencer Gallagher,Allegiant Travel (Maury Gallagher),Chevrolet,163.0,18015.0,running,0.0,27.0
+2015,4,Kansas,Kansas Speedway,1.5,paved track,18.0,27.0,74.0,Jordan Anderson,Auntie Anne's (Mike Harmon),Chevrolet,159.0,15715.0,running,0.0,26.0
+2015,4,Kansas,Kansas Speedway,1.5,paved track,19.0,21.0,10.0,Jennifer Jo Cobb,Mark One Electric / Grimes Irrigation (Jennifer Jo Cobb),Chevrolet,154.0,17909.0,running,0.0,25.0
+2015,4,Kansas,Kansas Speedway,1.5,paved track,20.0,26.0,1.0,Ryan Ellis,MAKE Motorsports (Mark Beaver),Chevrolet,154.0,18330.0,running,0.0,24.0
+2015,4,Kansas,Kansas Speedway,1.5,paved track,21.0,16.0,7.0,"Ray Black, Jr.",ScubaLife / NASE Worldwide (Bobby Dotter),Chevrolet,109.0,17803.0,engine,0.0,23.0
+2015,4,Kansas,Kansas Speedway,1.5,paved track,22.0,19.0,8.0,Korbin Forrister,Tilted Kilt (Christopher Long),Chevrolet,90.0,16530.0,rear gear,0.0,22.0
+2015,4,Kansas,Kansas Speedway,1.5,paved track,23.0,17.0,2.0,Tyler Young,Randco Industries / Young's Building Systems (Randy Young),Chevrolet,74.0,16503.0,crash,0.0,21.0
+2015,4,Kansas,Kansas Speedway,1.5,paved track,24.0,29.0,6.0,Norm Benning,Norm Benning Racing (Norm Benning),Chevrolet,69.0,15474.0,vibration,0.0,20.0
+2015,4,Kansas,Kansas Speedway,1.5,paved track,25.0,28.0,50.0,Travis Kvapil,Burnie Grill (Mark Beaver),Chevrolet,60.0,15597.0,rear gear,0.0,19.0
+2015,4,Kansas,Kansas Speedway,1.5,paved track,26.0,5.0,11.0,Ben Kennedy,SpongeBob SquarePants / Local Motors (Tom DeLoach),Toyota,57.0,15419.0,overheating,0.0,18.0
+2015,4,Kansas,Kansas Speedway,1.5,paved track,27.0,30.0,36.0,Justin Jennings,Mittler Bros. Machine & Tool (Mike Mittler),Chevrolet,24.0,15391.0,brakes,0.0,17.0
+2015,4,Kansas,Kansas Speedway,1.5,paved track,28.0,20.0,45.0,B.J. McLeod,Tilted Kilt (Christopher Long),Chevrolet,18.0,15133.0,vibration,0.0,16.0
+2015,4,Kansas,Kansas Speedway,1.5,paved track,29.0,18.0,25.0,Matt Tifft,Clinical RM (Bill Venturini),Toyota,18.0,15072.0,oil leak,0.0,15.0
+2015,4,Kansas,Kansas Speedway,1.5,paved track,30.0,3.0,33.0,Brandon Jones,Masterforce Tool Storage (Maury Gallagher),Chevrolet,11.0,14572.0,crash,0.0,14.0
+2015,4,Kansas,Kansas Speedway,1.5,paved track,31.0,32.0,3.0,Mike Affarano,Affarano Motorsports (Mike Affarano),Chevrolet,6.0,13072.0,ignition,0.0,0.0
+2015,4,Kansas,Kansas Speedway,1.5,paved track,32.0,31.0,0.0,Caleb Roark,Driven2Honor.org (Jennifer Jo Cobb),Chevrolet,5.0,12072.0,electrical,0.0,12.0
+2015,5,Charlotte,Charlotte Motor Speedway,1.5,paved track,1.0,1.0,0.0,Kasey Kahne,Haas Automation (JR Motorsports),Chevrolet,139.0,48454.0,running,21.0,0.0
+2015,5,Charlotte,Charlotte Motor Speedway,1.5,paved track,2.0,2.0,4.0,Erik Jones,Dollar General (Kyle Busch),Toyota,139.0,36563.0,running,88.0,44.0
+2015,5,Charlotte,Charlotte Motor Speedway,1.5,paved track,3.0,9.0,88.0,Matt Crafton,Great Lakes Wood Floors / Menards (Duke Thorson),Toyota,139.0,26622.0,running,24.0,42.0
+2015,5,Charlotte,Charlotte Motor Speedway,1.5,paved track,4.0,7.0,19.0,Tyler Reddick,Broken Bow Records (Brad Keselowski),Ford,139.0,22672.0,running,1.0,41.0
+2015,5,Charlotte,Charlotte Motor Speedway,1.5,paved track,5.0,4.0,29.0,Brad Keselowski,Cooper Standard Careers for Veterans (Brad Keselowski),Ford,139.0,17402.0,running,4.0,0.0
+2015,5,Charlotte,Charlotte Motor Speedway,1.5,paved track,6.0,11.0,5.0,John Wes Townley,Zaxby's (Tony Townley),Chevrolet,139.0,17157.0,running,0.0,38.0
+2015,5,Charlotte,Charlotte Motor Speedway,1.5,paved track,7.0,17.0,17.0,Timothy Peters,Red Horse Racing (Tom DeLoach),Toyota,139.0,16592.0,running,0.0,37.0
+2015,5,Charlotte,Charlotte Motor Speedway,1.5,paved track,8.0,3.0,51.0,Matt Tifft,ToyotaCare (Kyle Busch),Toyota,139.0,16481.0,running,0.0,36.0
+2015,5,Charlotte,Charlotte Motor Speedway,1.5,paved track,9.0,22.0,54.0,Justin Boston,ROK Mobile (Kyle Busch),Toyota,139.0,16342.0,running,0.0,35.0
+2015,5,Charlotte,Charlotte Motor Speedway,1.5,paved track,10.0,18.0,23.0,Spencer Gallagher,Allegiant Travel (Maury Gallagher),Chevrolet,139.0,17182.0,running,0.0,34.0
+2015,5,Charlotte,Charlotte Motor Speedway,1.5,paved track,11.0,16.0,8.0,Joe Nemechek,FoneFuel (Joe Nemechek),Chevrolet,139.0,15761.0,running,0.0,33.0
+2015,5,Charlotte,Charlotte Motor Speedway,1.5,paved track,12.0,6.0,31.0,"Scott Lagasse, Jr.",GunBroker.com (Bob Newberry),Chevrolet,139.0,15566.0,running,0.0,0.0
+2015,5,Charlotte,Charlotte Motor Speedway,1.5,paved track,13.0,15.0,33.0,Brandon Jones,ProStock HVAC Parts & Supplies (Maury Gallagher),Chevrolet,139.0,15427.0,running,0.0,31.0
+2015,5,Charlotte,Charlotte Motor Speedway,1.5,paved track,14.0,13.0,13.0,Cameron Hayley,Carolina Nut Co. (Duke Thorson),Toyota,139.0,15316.0,running,0.0,30.0
+2015,5,Charlotte,Charlotte Motor Speedway,1.5,paved track,15.0,19.0,98.0,Johnny Sauter,Smokey Mountain Herbal Snuff / Curb Records (Mike Curb),Toyota,139.0,15606.0,running,0.0,29.0
+2015,5,Charlotte,Charlotte Motor Speedway,1.5,paved track,16.0,10.0,11.0,Ben Kennedy,Local Motors (Tom DeLoach),Toyota,139.0,15295.0,running,0.0,28.0
+2015,5,Charlotte,Charlotte Motor Speedway,1.5,paved track,17.0,5.0,14.0,Daniel Hemric,California Clean Power (Bob Newberry),Chevrolet,139.0,15040.0,running,0.0,27.0
+2015,5,Charlotte,Charlotte Motor Speedway,1.5,paved track,18.0,20.0,2.0,Tyler Young,Arthur-Krenzel-Lett Insurance Group (Randy Young),Chevrolet,138.0,14984.0,running,0.0,26.0
+2015,5,Charlotte,Charlotte Motor Speedway,1.5,paved track,19.0,30.0,10.0,Jennifer Jo Cobb,POW-MIAFamilies.org / Grimes Irrigation (Jennifer Jo Cobb),Chevrolet,137.0,14929.0,running,0.0,25.0
+2015,5,Charlotte,Charlotte Motor Speedway,1.5,paved track,20.0,29.0,1.0,Kyle Fowler,PowerAll / JoinAPS.com (Mark Beaver),Chevrolet,136.0,15373.0,running,0.0,0.0
+2015,5,Charlotte,Charlotte Motor Speedway,1.5,paved track,21.0,23.0,63.0,Tyler Tanner,MB Motorsports (Mike Mittler),Chevrolet,136.0,13546.0,running,0.0,23.0
+2015,5,Charlotte,Charlotte Motor Speedway,1.5,paved track,22.0,8.0,7.0,"Ray Black, Jr.",ScubaLife / NASE Worldwide (Bobby Dotter),Chevrolet,135.0,13485.0,running,0.0,22.0
+2015,5,Charlotte,Charlotte Motor Speedway,1.5,paved track,23.0,27.0,74.0,Jordan Anderson,Auntie Anne's / Tri-Analytics (Mike Harmon),Chevrolet,135.0,12457.0,running,0.0,21.0
+2015,5,Charlotte,Charlotte Motor Speedway,1.5,paved track,24.0,26.0,75.0,Caleb Holman,Gillette Venus Swirl / Food Country USA (Charlie Henderson),Chevrolet,133.0,12430.0,running,0.0,20.0
+2015,5,Charlotte,Charlotte Motor Speedway,1.5,paved track,25.0,28.0,94.0,Wendell Chavous,Vydox Plus (Jay Robinson),Chevrolet,132.0,12525.0,engine,0.0,19.0
+2015,5,Charlotte,Charlotte Motor Speedway,1.5,paved track,26.0,21.0,15.0,Mason Mingus,Billy Boat Motorsports (Billy Boat),Chevrolet,114.0,12347.0,crash,0.0,18.0
+2015,5,Charlotte,Charlotte Motor Speedway,1.5,paved track,27.0,14.0,92.0,David Gilliland,BTS Tire & Wheel Distributors (Ricky Benton),Ford,84.0,12318.0,vibration,0.0,0.0
+2015,5,Charlotte,Charlotte Motor Speedway,1.5,paved track,28.0,31.0,50.0,Travis Kvapil,Burnie Grill (Mark Beaver),Chevrolet,62.0,12071.0,crash,0.0,16.0
+2015,5,Charlotte,Charlotte Motor Speedway,1.5,paved track,29.0,12.0,8.0,Korbin Forrister,Tilted Kilt / Halcyon (Christopher Long),Chevrolet,38.0,12016.0,steering box,0.0,15.0
+2015,5,Charlotte,Charlotte Motor Speedway,1.5,paved track,30.0,24.0,36.0,Justin Jennings,Mittler Bros. Machine & Tool (Mike Mittler),Chevrolet,33.0,11516.0,electrical,1.0,0.0
+2015,5,Charlotte,Charlotte Motor Speedway,1.5,paved track,31.0,25.0,45.0,B.J. McLeod,Tilted Kilt (Christopher Long),Chevrolet,26.0,10016.0,electrical,0.0,13.0
+2015,5,Charlotte,Charlotte Motor Speedway,1.5,paved track,32.0,32.0,6.0,Norm Benning,Norm Benning Racing (Norm Benning),Chevrolet,9.0,9016.0,suspension,0.0,12.0
+2015,6,Dover,Dover International Speedway,1.0,paved track,1.0,4.0,19.0,Tyler Reddick,Broken Bow Records (Brad Keselowski),Ford,200.0,55620.0,running,40.0,47.0
+2015,6,Dover,Dover International Speedway,1.0,paved track,2.0,5.0,51.0,Daniel Suarez,Arris / Telcel (Kyle Busch),Toyota,200.0,33106.0,running,0.0,0.0
+2015,6,Dover,Dover International Speedway,1.0,paved track,3.0,2.0,4.0,Erik Jones,Special Olympics World Games / Toyota (Kyle Busch),Toyota,200.0,32003.0,running,50.0,42.0
+2015,6,Dover,Dover International Speedway,1.0,paved track,4.0,19.0,14.0,Daniel Hemric,California Clean Power (Bob Newberry),Chevrolet,200.0,23957.0,running,0.0,40.0
+2015,6,Dover,Dover International Speedway,1.0,paved track,5.0,3.0,88.0,Matt Crafton,Rip It Energy Fuel / Menards (Duke Thorson),Toyota,200.0,23604.0,running,3.0,40.0
+2015,6,Dover,Dover International Speedway,1.0,paved track,6.0,18.0,11.0,Ben Kennedy,Local Motors (Tom DeLoach),Toyota,200.0,21965.0,running,0.0,38.0
+2015,6,Dover,Dover International Speedway,1.0,paved track,7.0,1.0,29.0,Ryan Blaney,Cooper Standard (Brad Keselowski),Ford,200.0,20663.0,running,33.0,0.0
+2015,6,Dover,Dover International Speedway,1.0,paved track,8.0,12.0,33.0,Brandon Jones,AGRA Industries (Maury Gallagher),Chevrolet,200.0,20060.0,running,0.0,36.0
+2015,6,Dover,Dover International Speedway,1.0,paved track,9.0,16.0,98.0,Johnny Sauter,Smokey Mountain Herbal Snuff / Curb Records (Mike Curb),Toyota,200.0,19612.0,running,0.0,35.0
+2015,6,Dover,Dover International Speedway,1.0,paved track,10.0,25.0,2.0,Tyler Young,Randco Industries / Young's Building Systems (Randy Young),Chevrolet,199.0,20313.0,running,0.0,34.0
+2015,6,Dover,Dover International Speedway,1.0,paved track,11.0,20.0,7.0,"Ray Black, Jr.",ScubaLife / NASE Worldwide (Bobby Dotter),Chevrolet,199.0,19115.0,running,1.0,34.0
+2015,6,Dover,Dover International Speedway,1.0,paved track,12.0,13.0,23.0,Spencer Gallagher,Allegiant Travel (Maury Gallagher),Chevrolet,199.0,18810.0,running,0.0,32.0
+2015,6,Dover,Dover International Speedway,1.0,paved track,13.0,10.0,0.0,Cole Custer,Haas Automation (JR Motorsports),Chevrolet,198.0,16450.0,running,67.0,33.0
+2015,6,Dover,Dover International Speedway,1.0,paved track,14.0,15.0,86.0,Brandon Brown,BrandonBilt Foundations / Coastal Carolina U. (Jerry Brown),Chevrolet,196.0,16339.0,running,0.0,30.0
+2015,6,Dover,Dover International Speedway,1.0,paved track,15.0,22.0,94.0,Timmy Hill,Testoril (Jay Robinson),Chevrolet,195.0,18878.0,running,0.0,29.0
+2015,6,Dover,Dover International Speedway,1.0,paved track,16.0,21.0,82.0,Austin Hill,Empire Racing Group (John Corr),Ford,192.0,16317.0,running,0.0,28.0
+2015,6,Dover,Dover International Speedway,1.0,paved track,17.0,27.0,8.0,Korbin Forrister,"McNair, McLemore, Middlebrooks / Tilted Kilt (Christopher Long)",Chevrolet,190.0,18258.0,running,0.0,27.0
+2015,6,Dover,Dover International Speedway,1.0,paved track,18.0,17.0,5.0,John Wes Townley,Zaxby's (Tony Townley),Chevrolet,178.0,18147.0,running,0.0,26.0
+2015,6,Dover,Dover International Speedway,1.0,paved track,19.0,24.0,50.0,Travis Kvapil,Burnie Grill (Mark Beaver),Chevrolet,178.0,15786.0,running,0.0,25.0
+2015,6,Dover,Dover International Speedway,1.0,paved track,20.0,14.0,17.0,Timothy Peters,Red Horse Racing (Tom DeLoach),Toyota,136.0,18426.0,crash,5.0,25.0
+2015,6,Dover,Dover International Speedway,1.0,paved track,21.0,7.0,13.0,Cameron Hayley,Carolina Nut Co. (Duke Thorson),Toyota,136.0,17815.0,running,1.0,24.0
+2015,6,Dover,Dover International Speedway,1.0,paved track,22.0,6.0,8.0,John H. Nemechek,MeetBall (Joe Nemechek),Chevrolet,136.0,17704.0,running,0.0,22.0
+2015,6,Dover,Dover International Speedway,1.0,paved track,23.0,31.0,74.0,Tim Viens,RaceDaySponsor.com (Mike Harmon),Chevrolet,127.0,17594.0,rear end,0.0,21.0
+2015,6,Dover,Dover International Speedway,1.0,paved track,24.0,28.0,1.0,Ryan Ellis,MAKE Motorsports (Mark Beaver),Chevrolet,90.0,17484.0,crash,0.0,20.0
+2015,6,Dover,Dover International Speedway,1.0,paved track,25.0,8.0,54.0,Justin Boston,ROK Mobile (Kyle Busch),Toyota,65.0,16273.0,crash,0.0,19.0
+2015,6,Dover,Dover International Speedway,1.0,paved track,26.0,32.0,6.0,Norm Benning,Norm Benning Racing (Norm Benning),Chevrolet,61.0,16012.0,suspension,0.0,18.0
+2015,6,Dover,Dover International Speedway,1.0,paved track,27.0,23.0,45.0,B.J. McLeod,Tilted Kilt (Christopher Long),Chevrolet,56.0,14902.0,ignition,0.0,17.0
+2015,6,Dover,Dover International Speedway,1.0,paved track,28.0,26.0,63.0,Justin Jennings,Mittler Bros. Machine & Tool (Mike Mittler),Chevrolet,33.0,14570.0,crash,0.0,16.0
+2015,6,Dover,Dover International Speedway,1.0,paved track,29.0,11.0,15.0,Mason Mingus,Billy Boat Motorsports (Billy Boat),Chevrolet,32.0,14432.0,crash,0.0,15.0
+2015,6,Dover,Dover International Speedway,1.0,paved track,30.0,9.0,97.0,Jesse Little,Carolina Nut Co. (Jason Little),Toyota,32.0,13932.0,crash,0.0,14.0
+2015,6,Dover,Dover International Speedway,1.0,paved track,31.0,29.0,36.0,Tyler Tanner,Mittler Bros. Machine & Tool (Mike Mittler),Chevrolet,15.0,12432.0,vibration,0.0,13.0
+2015,6,Dover,Dover International Speedway,1.0,paved track,32.0,30.0,10.0,Jennifer Jo Cobb,POW-MIAFamilies.org / Driven2Honor.org (Jennifer Jo Cobb),Chevrolet,12.0,11432.0,crash,0.0,12.0
+2015,7,Fort Worth,Texas Motor Speedway,1.5,paved track,1.0,2.0,88.0,Matt Crafton,Ideal Door / Menards (Duke Thorson),Toyota,167.0,59959.0,running,77.0,48.0
+2015,7,Fort Worth,Texas Motor Speedway,1.5,paved track,2.0,3.0,51.0,Daniel Suarez,Arris / Telcel (Kyle Busch),Toyota,167.0,41559.0,running,6.0,0.0
+2015,7,Fort Worth,Texas Motor Speedway,1.5,paved track,3.0,5.0,5.0,John Wes Townley,Zaxby's (Tony Townley),Chevrolet,167.0,34099.0,running,0.0,41.0
+2015,7,Fort Worth,Texas Motor Speedway,1.5,paved track,4.0,4.0,98.0,Johnny Sauter,Nextant Aerospace / Curb Records (Mike Curb),Toyota,167.0,24132.0,running,0.0,40.0
+2015,7,Fort Worth,Texas Motor Speedway,1.5,paved track,5.0,6.0,29.0,Austin Theriault,Cooper Standard (Brad Keselowski),Ford,167.0,20943.0,running,0.0,39.0
+2015,7,Fort Worth,Texas Motor Speedway,1.5,paved track,6.0,10.0,8.0,Joe Nemechek,NEMCO Motorsports / D.A.B. Constructors (Joe Nemechek),Chevrolet,167.0,18123.0,running,0.0,38.0
+2015,7,Fort Worth,Texas Motor Speedway,1.5,paved track,7.0,8.0,13.0,Cameron Hayley,Cabinets by Hayley (Duke Thorson),Toyota,167.0,17316.0,running,3.0,38.0
+2015,7,Fort Worth,Texas Motor Speedway,1.5,paved track,8.0,11.0,54.0,Justin Boston,ROK Mobile (Kyle Busch),Toyota,167.0,16841.0,running,1.0,37.0
+2015,7,Fort Worth,Texas Motor Speedway,1.5,paved track,9.0,9.0,14.0,Daniel Hemric,California Clean Power (Bob Newberry),Chevrolet,167.0,16824.0,running,0.0,35.0
+2015,7,Fort Worth,Texas Motor Speedway,1.5,paved track,10.0,12.0,11.0,Ben Kennedy,Local Motors (Tom DeLoach),Toyota,167.0,17709.0,running,0.0,34.0
+2015,7,Fort Worth,Texas Motor Speedway,1.5,paved track,11.0,16.0,19.0,Tyler Reddick,Bulldog / Draw-Tite (Brad Keselowski),Ford,166.0,16677.0,running,1.0,34.0
+2015,7,Fort Worth,Texas Motor Speedway,1.5,paved track,12.0,13.0,23.0,Spencer Gallagher,Allegiant Travel (Maury Gallagher),Chevrolet,166.0,16511.0,running,0.0,32.0
+2015,7,Fort Worth,Texas Motor Speedway,1.5,paved track,13.0,15.0,15.0,Mason Mingus,Texas 811 - Call Before You Dig (Billy Boat),Chevrolet,166.0,16468.0,running,0.0,31.0
+2015,7,Fort Worth,Texas Motor Speedway,1.5,paved track,14.0,19.0,2.0,Tyler Young,Randco Industries / Young's Building Systems (Randy Young),Chevrolet,165.0,16363.0,running,0.0,30.0
+2015,7,Fort Worth,Texas Motor Speedway,1.5,paved track,15.0,1.0,4.0,Erik Jones,Special Olympics World Games / Toyota (Kyle Busch),Toyota,165.0,19165.0,running,68.0,30.0
+2015,7,Fort Worth,Texas Motor Speedway,1.5,paved track,16.0,18.0,7.0,"Ray Black, Jr.",ScubaLife / NASE Worldwide (Bobby Dotter),Chevrolet,164.0,16167.0,running,1.0,29.0
+2015,7,Fort Worth,Texas Motor Speedway,1.5,paved track,17.0,17.0,63.0,Tyler Tanner,Mittler Bros. Machine & Tool (Mike Mittler),Chevrolet,164.0,16068.0,running,5.0,28.0
+2015,7,Fort Worth,Texas Motor Speedway,1.5,paved track,18.0,21.0,8.0,Korbin Forrister,Tilted Kilt (Christopher Long),Chevrolet,160.0,15969.0,running,0.0,26.0
+2015,7,Fort Worth,Texas Motor Speedway,1.5,paved track,19.0,20.0,10.0,Jennifer Jo Cobb,POW-MIAFamilies.org / Grimes Irrigation (Jennifer Jo Cobb),Chevrolet,157.0,15817.0,running,0.0,25.0
+2015,7,Fort Worth,Texas Motor Speedway,1.5,paved track,20.0,22.0,1.0,Ryan Ellis,"Shane Duncan Band ""Life's Snooze Bar"" (Mark Beaver)",Chevrolet,152.0,14968.0,running,0.0,24.0
+2015,7,Fort Worth,Texas Motor Speedway,1.5,paved track,21.0,7.0,17.0,Timothy Peters,Red Horse Racing (Tom DeLoach),Toyota,147.0,14370.0,engine,5.0,24.0
+2015,7,Fort Worth,Texas Motor Speedway,1.5,paved track,22.0,14.0,33.0,Brandon Jones,Century A/C Supply (Maury Gallagher),Chevrolet,127.0,13272.0,running,0.0,22.0
+2015,7,Fort Worth,Texas Motor Speedway,1.5,paved track,23.0,24.0,94.0,Timmy Hill,Vydox Plus (Jay Robinson),Chevrolet,49.0,13173.0,engine,0.0,21.0
+2015,7,Fort Worth,Texas Motor Speedway,1.5,paved track,24.0,25.0,74.0,Jordan Anderson,Knight Fire Protection (Mike Harmon),Chevrolet,47.0,13074.0,engine,0.0,20.0
+2015,7,Fort Worth,Texas Motor Speedway,1.5,paved track,25.0,27.0,6.0,Norm Benning,Boedeker Construction (Norm Benning),Chevrolet,23.0,13126.0,clutch,0.0,19.0
+2015,7,Fort Worth,Texas Motor Speedway,1.5,paved track,26.0,23.0,36.0,Justin Jennings,Mittler Bros. Machine & Tool (Mike Mittler),Chevrolet,12.0,12878.0,electrical,0.0,18.0
+2015,7,Fort Worth,Texas Motor Speedway,1.5,paved track,27.0,26.0,45.0,B.J. McLeod,Tilted Kilt (Christopher Long),Chevrolet,10.0,12779.0,electrical,0.0,0.0
+2015,7,Fort Worth,Texas Motor Speedway,1.5,paved track,28.0,29.0,50.0,Donnie Neuenberger,Burnie Grill (Mark Beaver),Chevrolet,8.0,12444.0,engine,0.0,16.0
+2015,7,Fort Worth,Texas Motor Speedway,1.5,paved track,29.0,30.0,3.0,Mike Affarano,Affarano Motorsports (Mike Affarano),Chevrolet,6.0,12340.0,vibration,0.0,0.0
+2015,7,Fort Worth,Texas Motor Speedway,1.5,paved track,30.0,28.0,0.0,Adam Edwards,Driven2Honor.org (Jennifer Jo Cobb),Chevrolet,5.0,11840.0,rear gear,0.0,14.0
+2015,8,Gateway,Worldwide Technology Raceway at Gateway,1.25,paved track,1.0,2.0,0.0,Cole Custer,Haas Automation (JR Motorsports),Chevrolet,160.0,45121.0,running,19.0,47.0
+2015,8,Gateway,Worldwide Technology Raceway at Gateway,1.25,paved track,2.0,14.0,23.0,Spencer Gallagher,Allegiant Travel (Maury Gallagher),Chevrolet,160.0,30147.0,running,0.0,42.0
+2015,8,Gateway,Worldwide Technology Raceway at Gateway,1.25,paved track,3.0,4.0,98.0,Johnny Sauter,Nextant Aerospace / Curb Records (Mike Curb),Toyota,160.0,23559.0,running,4.0,42.0
+2015,8,Gateway,Worldwide Technology Raceway at Gateway,1.25,paved track,4.0,12.0,8.0,John H. Nemechek,D.A.B. Constructors (Joe Nemechek),Chevrolet,160.0,21400.0,running,0.0,40.0
+2015,8,Gateway,Worldwide Technology Raceway at Gateway,1.25,paved track,5.0,9.0,13.0,Cameron Hayley,Cabinets by Hayley (Duke Thorson),Toyota,160.0,18346.0,running,0.0,39.0
+2015,8,Gateway,Worldwide Technology Raceway at Gateway,1.25,paved track,6.0,13.0,17.0,Timothy Peters,Red Horse Racing (Tom DeLoach),Toyota,160.0,17162.0,running,0.0,38.0
+2015,8,Gateway,Worldwide Technology Raceway at Gateway,1.25,paved track,7.0,15.0,11.0,Ben Kennedy,Local Motors (Tom DeLoach),Toyota,160.0,16306.0,running,0.0,37.0
+2015,8,Gateway,Worldwide Technology Raceway at Gateway,1.25,paved track,8.0,6.0,19.0,Tyler Reddick,Broken Bow Records (Brad Keselowski),Ford,160.0,15757.0,running,4.0,37.0
+2015,8,Gateway,Worldwide Technology Raceway at Gateway,1.25,paved track,9.0,7.0,14.0,Daniel Hemric,California Clean Power (Bob Newberry),Chevrolet,160.0,15701.0,running,0.0,35.0
+2015,8,Gateway,Worldwide Technology Raceway at Gateway,1.25,paved track,10.0,10.0,29.0,Austin Theriault,Cooper Standard (Brad Keselowski),Ford,160.0,16596.0,running,0.0,34.0
+2015,8,Gateway,Worldwide Technology Raceway at Gateway,1.25,paved track,11.0,11.0,5.0,John Wes Townley,Zaxby's (Tony Townley),Chevrolet,160.0,15591.0,running,0.0,33.0
+2015,8,Gateway,Worldwide Technology Raceway at Gateway,1.25,paved track,12.0,5.0,33.0,Brandon Jones,Masterforce Tool Storage (Maury Gallagher),Chevrolet,160.0,15451.0,running,0.0,32.0
+2015,8,Gateway,Worldwide Technology Raceway at Gateway,1.25,paved track,13.0,18.0,7.0,"Ray Black, Jr.",ScubaLife / NASE Worldwide (Bobby Dotter),Chevrolet,160.0,15396.0,running,0.0,31.0
+2015,8,Gateway,Worldwide Technology Raceway at Gateway,1.25,paved track,14.0,20.0,50.0,Travis Kvapil,Burnie Grill (Mark Beaver),Chevrolet,160.0,15340.0,running,0.0,30.0
+2015,8,Gateway,Worldwide Technology Raceway at Gateway,1.25,paved track,15.0,17.0,2.0,Tyler Young,Randco Industries / Young's Building Systems (Randy Young),Chevrolet,160.0,15601.0,running,0.0,29.0
+2015,8,Gateway,Worldwide Technology Raceway at Gateway,1.25,paved track,16.0,21.0,63.0,Tyler Tanner,Vatterott College (Mike Mittler),Chevrolet,159.0,15262.0,running,0.0,28.0
+2015,8,Gateway,Worldwide Technology Raceway at Gateway,1.25,paved track,17.0,28.0,1.0,Ryan Ellis,Altec (Mark Beaver),Chevrolet,157.0,14952.0,running,0.0,27.0
+2015,8,Gateway,Worldwide Technology Raceway at Gateway,1.25,paved track,18.0,23.0,94.0,Timmy Hill,Premium Motorsports (Jay Robinson),Chevrolet,157.0,14813.0,running,0.0,26.0
+2015,8,Gateway,Worldwide Technology Raceway at Gateway,1.25,paved track,19.0,27.0,74.0,Jordan Anderson,Knight Fire Protection (Mike Harmon),Chevrolet,156.0,13452.0,running,0.0,25.0
+2015,8,Gateway,Worldwide Technology Raceway at Gateway,1.25,paved track,20.0,25.0,10.0,Jennifer Jo Cobb,POW-MIAFamilies.org / The Parkway Hotel (Jennifer Jo Cobb),Chevrolet,156.0,13897.0,running,0.0,24.0
+2015,8,Gateway,Worldwide Technology Raceway at Gateway,1.25,paved track,21.0,3.0,88.0,Matt Crafton,Ideal Door / Menards (Duke Thorson),Toyota,151.0,13230.0,crash,49.0,24.0
+2015,8,Gateway,Worldwide Technology Raceway at Gateway,1.25,paved track,22.0,24.0,8.0,Korbin Forrister,Tilted Kilt (Christopher Long),Chevrolet,148.0,12119.0,running,0.0,22.0
+2015,8,Gateway,Worldwide Technology Raceway at Gateway,1.25,paved track,23.0,1.0,4.0,Erik Jones,Special Olympics World Games / Toyota (Kyle Busch),Toyota,145.0,11980.0,electrical,84.0,23.0
+2015,8,Gateway,Worldwide Technology Raceway at Gateway,1.25,paved track,24.0,26.0,45.0,Tommy Regan,Trijicon / Cope's Distribution (Christopher Long),Chevrolet,108.0,11897.0,electrical,0.0,20.0
+2015,8,Gateway,Worldwide Technology Raceway at Gateway,1.25,paved track,25.0,8.0,51.0,Matt Tifft,ToyotaCare (Kyle Busch),Toyota,92.0,12019.0,crash,0.0,19.0
+2015,8,Gateway,Worldwide Technology Raceway at Gateway,1.25,paved track,26.0,29.0,6.0,Norm Benning,Boedeker Construction (Norm Benning),Chevrolet,56.0,11841.0,brakes,0.0,18.0
+2015,8,Gateway,Worldwide Technology Raceway at Gateway,1.25,paved track,27.0,19.0,54.0,Justin Boston,ROK Mobile (Kyle Busch),Toyota,51.0,11786.0,crash,0.0,17.0
+2015,8,Gateway,Worldwide Technology Raceway at Gateway,1.25,paved track,28.0,16.0,15.0,Mason Mingus,Billy Boat Motorsports (Billy Boat),Chevrolet,51.0,11539.0,crash,0.0,16.0
+2015,8,Gateway,Worldwide Technology Raceway at Gateway,1.25,paved track,29.0,22.0,36.0,Justin Jennings,Mittler Bros. Machine & Tool (Mike Mittler),Chevrolet,26.0,11511.0,brakes,0.0,15.0
+2015,8,Gateway,Worldwide Technology Raceway at Gateway,1.25,paved track,30.0,31.0,3.0,Mike Affarano,Affarano Motorsports (Mike Affarano),Chevrolet,13.0,11011.0,brakes,0.0,0.0
+2015,8,Gateway,Worldwide Technology Raceway at Gateway,1.25,paved track,31.0,30.0,0.0,Adam Edwards,Driven2Honor.org (Jennifer Jo Cobb),Chevrolet,6.0,9511.0,brakes,0.0,0.0
+2015,8,Gateway,Worldwide Technology Raceway at Gateway,1.25,paved track,32.0,32.0,57.0,Joey Gattina,Norm Benning Racing (Norm Benning),Chevrolet,0.0,8511.0,engine,0.0,0.0
+2015,9,Iowa,Iowa Speedway,0.875,paved track,1.0,1.0,4.0,Erik Jones,Special Olympics World Games / Toyota (Kyle Busch),Toyota,200.0,48421.0,running,112.0,48.0
+2015,9,Iowa,Iowa Speedway,0.875,paved track,2.0,4.0,33.0,Brandon Jones,AGRA Industries (Maury Gallagher),Chevrolet,200.0,29147.0,running,4.0,43.0
+2015,9,Iowa,Iowa Speedway,0.875,paved track,3.0,3.0,19.0,Tyler Reddick,Broken Bow Records (Brad Keselowski),Ford,200.0,27459.0,running,0.0,41.0
+2015,9,Iowa,Iowa Speedway,0.875,paved track,4.0,9.0,88.0,Matt Crafton,Chi-Chi's / Menards (Duke Thorson),Toyota,200.0,21600.0,running,33.0,41.0
+2015,9,Iowa,Iowa Speedway,0.875,paved track,5.0,10.0,51.0,Christopher Bell,Toyota Certified Used Vehicles (Kyle Busch),Toyota,200.0,18646.0,running,0.0,39.0
+2015,9,Iowa,Iowa Speedway,0.875,paved track,6.0,16.0,17.0,Timothy Peters,Red Horse Racing (Tom DeLoach),Toyota,200.0,16562.0,running,0.0,38.0
+2015,9,Iowa,Iowa Speedway,0.875,paved track,7.0,14.0,23.0,Spencer Gallagher,Allegiant Travel (Maury Gallagher),Chevrolet,200.0,16006.0,running,0.0,37.0
+2015,9,Iowa,Iowa Speedway,0.875,paved track,8.0,13.0,14.0,Daniel Hemric,California Clean Power (Bob Newberry),Chevrolet,200.0,15757.0,running,0.0,36.0
+2015,9,Iowa,Iowa Speedway,0.875,paved track,9.0,7.0,0.0,Cole Custer,Haas Automation (JR Motorsports),Chevrolet,200.0,15701.0,running,0.0,35.0
+2015,9,Iowa,Iowa Speedway,0.875,paved track,10.0,12.0,5.0,John Wes Townley,Zaxby's (Tony Townley),Chevrolet,200.0,16596.0,running,0.0,34.0
+2015,9,Iowa,Iowa Speedway,0.875,paved track,11.0,11.0,54.0,Justin Boston,ROK Mobile (Kyle Busch),Toyota,200.0,15591.0,running,0.0,33.0
+2015,9,Iowa,Iowa Speedway,0.875,paved track,12.0,18.0,29.0,Austin Theriault,Cooper Standard (Brad Keselowski),Ford,200.0,15451.0,running,0.0,32.0
+2015,9,Iowa,Iowa Speedway,0.875,paved track,13.0,8.0,11.0,Ben Kennedy,Local Motors (Tom DeLoach),Toyota,200.0,15396.0,running,0.0,31.0
+2015,9,Iowa,Iowa Speedway,0.875,paved track,14.0,6.0,75.0,Caleb Holman,Food Country USA (Charlie Henderson),Chevrolet,200.0,13090.0,running,0.0,30.0
+2015,9,Iowa,Iowa Speedway,0.875,paved track,15.0,23.0,7.0,"Ray Black, Jr.",ScubaLife / NASE Worldwide (Bobby Dotter),Chevrolet,199.0,15801.0,running,0.0,29.0
+2015,9,Iowa,Iowa Speedway,0.875,paved track,16.0,17.0,15.0,Mason Mingus,Billy Boat Motorsports (Billy Boat),Chevrolet,199.0,15062.0,running,0.0,28.0
+2015,9,Iowa,Iowa Speedway,0.875,paved track,17.0,20.0,98.0,Johnny Sauter,Nextant Aerospace / Curb Records (Mike Curb),Toyota,198.0,14952.0,running,14.0,28.0
+2015,9,Iowa,Iowa Speedway,0.875,paved track,18.0,22.0,94.0,Timmy Hill,Premium Motorsports (Jay Robinson),Chevrolet,198.0,14813.0,running,0.0,26.0
+2015,9,Iowa,Iowa Speedway,0.875,paved track,19.0,5.0,13.0,Cameron Hayley,Cabinets by Hayley (Duke Thorson),Toyota,198.0,14702.0,running,37.0,26.0
+2015,9,Iowa,Iowa Speedway,0.875,paved track,20.0,19.0,2.0,Tyler Young,Randco Industries / Young's Building Systems (Randy Young),Chevrolet,197.0,13897.0,running,0.0,24.0
+2015,9,Iowa,Iowa Speedway,0.875,paved track,21.0,27.0,10.0,Jennifer Jo Cobb,POW-MIAFamilies.org (Jennifer Jo Cobb),Chevrolet,196.0,13230.0,running,0.0,23.0
+2015,9,Iowa,Iowa Speedway,0.875,paved track,22.0,26.0,74.0,Jordan Anderson,Mike Harmon Racing (Mike Harmon),Chevrolet,193.0,12119.0,running,0.0,22.0
+2015,9,Iowa,Iowa Speedway,0.875,paved track,23.0,2.0,8.0,John H. Nemechek,MeetBall (Joe Nemechek),Chevrolet,157.0,11980.0,crash,0.0,21.0
+2015,9,Iowa,Iowa Speedway,0.875,paved track,24.0,21.0,50.0,Travis Kvapil,Burnie Grill (Mark Beaver),Chevrolet,148.0,11897.0,drive shaft,0.0,20.0
+2015,9,Iowa,Iowa Speedway,0.875,paved track,25.0,29.0,6.0,Norm Benning,Boedeker Construction (Norm Benning),Chevrolet,93.0,12019.0,oil leak,0.0,19.0
+2015,9,Iowa,Iowa Speedway,0.875,paved track,26.0,25.0,8.0,Korbin Forrister,Tilted Kilt (Christopher Long),Chevrolet,65.0,11841.0,engine,0.0,18.0
+2015,9,Iowa,Iowa Speedway,0.875,paved track,27.0,15.0,63.0,Jake Griffin,Kimberly Cars / Vatterott College (Mike Mittler),Chevrolet,41.0,11786.0,crash,0.0,17.0
+2015,9,Iowa,Iowa Speedway,0.875,paved track,28.0,30.0,45.0,Tommy Regan,Trijicon / Cope's Distribution (Christopher Long),Chevrolet,33.0,11539.0,electrical,0.0,16.0
+2015,9,Iowa,Iowa Speedway,0.875,paved track,29.0,28.0,1.0,Ryan Ellis,"Altec / Shane Duncan Band ""Life's Snooze Bar"" (Mark Beaver)",Chevrolet,24.0,11511.0,suspension,0.0,15.0
+2015,9,Iowa,Iowa Speedway,0.875,paved track,30.0,31.0,3.0,Mike Affarano,Affarano Motorsports (Mike Affarano),Chevrolet,22.0,11011.0,vibration,0.0,0.0
+2015,9,Iowa,Iowa Speedway,0.875,paved track,31.0,24.0,36.0,Justin Jennings,Mittler Bros. Machine & Tool (Mike Mittler),Chevrolet,15.0,9511.0,electrical,0.0,13.0
+2015,9,Iowa,Iowa Speedway,0.875,paved track,32.0,32.0,0.0,Caleb Roark,Driven2Honor.org (Jennifer Jo Cobb),Chevrolet,5.0,8511.0,vibration,0.0,0.0
+2015,10,Kentucky,Kentucky Speedway,1.5,paved track,1.0,1.0,88.0,Matt Crafton,Ideal Door / Menards (Duke Thorson),Toyota,145.0,59498.0,running,43.0,47.0
+2015,10,Kentucky,Kentucky Speedway,1.5,paved track,2.0,3.0,4.0,Erik Jones,Special Olympics World Games / Toyota (Kyle Busch),Toyota,145.0,48487.0,running,55.0,44.0
+2015,10,Kentucky,Kentucky Speedway,1.5,paved track,3.0,6.0,29.0,Ryan Blaney,Cooper Standard Careers for Veterans (Brad Keselowski),Ford,145.0,34948.0,running,14.0,0.0
+2015,10,Kentucky,Kentucky Speedway,1.5,paved track,4.0,4.0,51.0,Daniel Suarez,Arris / Telcel (Kyle Busch),Toyota,145.0,22029.0,running,18.0,0.0
+2015,10,Kentucky,Kentucky Speedway,1.5,paved track,5.0,10.0,17.0,Timothy Peters,Red Horse Racing (Tom DeLoach),Toyota,145.0,19072.0,running,0.0,39.0
+2015,10,Kentucky,Kentucky Speedway,1.5,paved track,6.0,2.0,19.0,Tyler Reddick,Broken Bow Records (Brad Keselowski),Ford,145.0,17403.0,running,13.0,39.0
+2015,10,Kentucky,Kentucky Speedway,1.5,paved track,7.0,31.0,92.0,David Gilliland,BTS Tire & Wheel Distributors (Ricky Benton),Ford,145.0,14608.0,running,0.0,0.0
+2015,10,Kentucky,Kentucky Speedway,1.5,paved track,8.0,7.0,5.0,John Wes Townley,Zaxby's (Tony Townley),Chevrolet,145.0,16314.0,running,0.0,36.0
+2015,10,Kentucky,Kentucky Speedway,1.5,paved track,9.0,12.0,13.0,Cameron Hayley,AISIN AW / ADVICS (Duke Thorson),Toyota,145.0,16205.0,running,0.0,35.0
+2015,10,Kentucky,Kentucky Speedway,1.5,paved track,10.0,9.0,33.0,Brandon Jones,Masterforce Tool Storage (Maury Gallagher),Chevrolet,145.0,17018.0,running,0.0,34.0
+2015,10,Kentucky,Kentucky Speedway,1.5,paved track,11.0,13.0,8.0,John H. Nemechek,D.A.B. Constructors (Joe Nemechek),Chevrolet,145.0,15959.0,running,1.0,34.0
+2015,10,Kentucky,Kentucky Speedway,1.5,paved track,12.0,5.0,98.0,Johnny Sauter,Nextant Aerospace / Curb Records (Mike Curb),Toyota,145.0,15766.0,running,0.0,32.0
+2015,10,Kentucky,Kentucky Speedway,1.5,paved track,13.0,15.0,7.0,"Ray Black, Jr.",ScubaLife / NASE Worldwide (Bobby Dotter),Chevrolet,145.0,15657.0,running,1.0,32.0
+2015,10,Kentucky,Kentucky Speedway,1.5,paved track,14.0,23.0,1.0,Travis Kvapil,Burnie Grill (Mark Beaver),Chevrolet,145.0,15548.0,running,0.0,30.0
+2015,10,Kentucky,Kentucky Speedway,1.5,paved track,15.0,19.0,94.0,Timmy Hill,Lilly Trucking (Jay Robinson),Chevrolet,145.0,15811.0,running,0.0,29.0
+2015,10,Kentucky,Kentucky Speedway,1.5,paved track,16.0,14.0,11.0,Ben Kennedy,Local Motors (Tom DeLoach),Toyota,145.0,15497.0,crash,0.0,28.0
+2015,10,Kentucky,Kentucky Speedway,1.5,paved track,17.0,16.0,54.0,Christopher Bell,Toyota Certified Used Vehicles (Kyle Busch),Toyota,144.0,15188.0,running,0.0,27.0
+2015,10,Kentucky,Kentucky Speedway,1.5,paved track,18.0,11.0,14.0,Daniel Hemric,California Clean Power (Bob Newberry),Chevrolet,143.0,15079.0,running,0.0,26.0
+2015,10,Kentucky,Kentucky Speedway,1.5,paved track,19.0,22.0,15.0,Mason Mingus,Billy Boat Motorsports (Billy Boat),Chevrolet,143.0,14970.0,running,0.0,25.0
+2015,10,Kentucky,Kentucky Speedway,1.5,paved track,20.0,30.0,25.0,Cody Coughlin,JEGS (Bill Venturini),Toyota,143.0,12811.0,running,0.0,24.0
+2015,10,Kentucky,Kentucky Speedway,1.5,paved track,21.0,18.0,8.0,Korbin Forrister,Tilted Kilt (Christopher Long),Chevrolet,141.0,15052.0,running,0.0,23.0
+2015,10,Kentucky,Kentucky Speedway,1.5,paved track,22.0,21.0,63.0,Justin Jennings,MB Motorsports (Mike Mittler),Chevrolet,140.0,14643.0,running,0.0,22.0
+2015,10,Kentucky,Kentucky Speedway,1.5,paved track,23.0,20.0,10.0,Jennifer Jo Cobb,POW-MIAFamilies.org / Driven2Honor.org (Jennifer Jo Cobb),Chevrolet,140.0,13284.0,running,0.0,21.0
+2015,10,Kentucky,Kentucky Speedway,1.5,paved track,24.0,8.0,23.0,Spencer Gallagher,Allegiant Travel (Maury Gallagher),Chevrolet,139.0,13175.0,crash,0.0,20.0
+2015,10,Kentucky,Kentucky Speedway,1.5,paved track,25.0,29.0,86.0,Brandon Brown,Coastal Carolina University (Jerry Brown),Chevrolet,132.0,12216.0,running,0.0,19.0
+2015,10,Kentucky,Kentucky Speedway,1.5,paved track,26.0,17.0,2.0,Tyler Young,Arthur-Krenzel-Lett Insurance Group (Randy Young),Chevrolet,132.0,11957.0,running,0.0,18.0
+2015,10,Kentucky,Kentucky Speedway,1.5,paved track,27.0,28.0,75.0,Caleb Holman,Food Country USA (Charlie Henderson),Chevrolet,124.0,11848.0,crash,0.0,17.0
+2015,10,Kentucky,Kentucky Speedway,1.5,paved track,28.0,26.0,74.0,Jordan Anderson,Battery Saver Racing (Mike Harmon),Chevrolet,98.0,11508.0,suspension,0.0,16.0
+2015,10,Kentucky,Kentucky Speedway,1.5,paved track,29.0,27.0,45.0,B.J. McLeod,Tilted Kilt (Christopher Long),Chevrolet,32.0,11400.0,electrical,0.0,15.0
+2015,10,Kentucky,Kentucky Speedway,1.5,paved track,30.0,25.0,50.0,Ryan Ellis,"Shane Duncan Band ""Life's Snooze Bar"" (Mark Beaver)",Chevrolet,16.0,10900.0,electrical,0.0,14.0
+2015,10,Kentucky,Kentucky Speedway,1.5,paved track,31.0,24.0,6.0,Norm Benning,Norm Benning Racing (Norm Benning),Chevrolet,2.0,9400.0,engine,0.0,13.0
+2015,11,Eldora,Eldora Speedway,0.5,dirt track,1.0,4.0,54.0,Christopher Bell,Toyota Certified Used Vehicles (Kyle Busch),Toyota,154.0,37273.0,running,106.0,48.0
+2015,11,Eldora,Eldora Speedway,0.5,dirt track,2.0,1.0,63.0,Bobby Pierce,RPM Services LLC Global (Mike Mittler),Chevrolet,154.0,27697.0,running,39.0,43.0
+2015,11,Eldora,Eldora Speedway,0.5,dirt track,3.0,5.0,19.0,Tyler Reddick,Draw-Tite (Brad Keselowski),Ford,154.0,23646.0,running,0.0,41.0
+2015,11,Eldora,Eldora Speedway,0.5,dirt track,4.0,19.0,4.0,Erik Jones,Special Olympics World Games / Toyota (Kyle Busch),Toyota,154.0,18870.0,running,0.0,40.0
+2015,11,Eldora,Eldora Speedway,0.5,dirt track,5.0,17.0,14.0,Daniel Hemric,California Clean Power (Bob Newberry),Chevrolet,154.0,16430.0,running,0.0,39.0
+2015,11,Eldora,Eldora Speedway,0.5,dirt track,6.0,10.0,31.0,Austin Dillon,Enlist / Dow Agrosciences (Bob Newberry),Chevrolet,154.0,13086.0,running,8.0,0.0
+2015,11,Eldora,Eldora Speedway,0.5,dirt track,7.0,2.0,8.0,John H. Nemechek,NEMCO Motorsports (Joe Nemechek),Chevrolet,154.0,14794.0,running,1.0,38.0
+2015,11,Eldora,Eldora Speedway,0.5,dirt track,8.0,9.0,13.0,Cameron Hayley,Cabinets by Hayley (Duke Thorson),Toyota,154.0,14745.0,running,0.0,36.0
+2015,11,Eldora,Eldora Speedway,0.5,dirt track,9.0,12.0,88.0,Matt Crafton,Ideal Door / Menards (Duke Thorson),Toyota,154.0,15695.0,running,0.0,35.0
+2015,11,Eldora,Eldora Speedway,0.5,dirt track,10.0,15.0,33.0,Ty Dillon,RheemTankless.com (Maury Gallagher),Chevrolet,154.0,13346.0,running,0.0,0.0
+2015,11,Eldora,Eldora Speedway,0.5,dirt track,11.0,3.0,52.0,Ken Schrader,Federated Auto Parts (Ken Schrader),Toyota,154.0,12347.0,running,0.0,33.0
+2015,11,Eldora,Eldora Speedway,0.5,dirt track,12.0,27.0,11.0,Ben Kennedy,Local Motors (Tom DeLoach),Toyota,154.0,14548.0,running,0.0,32.0
+2015,11,Eldora,Eldora Speedway,0.5,dirt track,13.0,6.0,2.0,Tyler Young,Randco Industries / Young's Building Systems (Randy Young),Chevrolet,154.0,14498.0,running,0.0,31.0
+2015,11,Eldora,Eldora Speedway,0.5,dirt track,14.0,20.0,5.0,John Wes Townley,Zaxby's (Tony Townley),Chevrolet,154.0,14450.0,running,0.0,30.0
+2015,11,Eldora,Eldora Speedway,0.5,dirt track,15.0,23.0,7.0,"Ray Black, Jr.",ScubaLife / NASE Worldwide (Bobby Dotter),Chevrolet,154.0,15000.0,running,0.0,29.0
+2015,11,Eldora,Eldora Speedway,0.5,dirt track,16.0,21.0,45.0,Chris Fontaine,Field & Stream / American Tactical (Christopher Long),Chevrolet,154.0,12100.0,running,0.0,28.0
+2015,11,Eldora,Eldora Speedway,0.5,dirt track,17.0,18.0,23.0,Spencer Gallagher,Allegiant Travel (Maury Gallagher),Chevrolet,154.0,14302.0,running,0.0,27.0
+2015,11,Eldora,Eldora Speedway,0.5,dirt track,18.0,30.0,50.0,Jody Knowles,Clayton Signs / Korban Partners (Tracy Wallace),Ford,154.0,14252.0,running,0.0,26.0
+2015,11,Eldora,Eldora Speedway,0.5,dirt track,19.0,13.0,6.0,Norm Benning,Norm Benning Racing (Norm Benning),Chevrolet,154.0,14050.0,running,0.0,25.0
+2015,11,Eldora,Eldora Speedway,0.5,dirt track,20.0,25.0,82.0,Sean Corr,Empire Racing / Nesco (John Corr),Ford,154.0,12251.0,running,0.0,24.0
+2015,11,Eldora,Eldora Speedway,0.5,dirt track,21.0,22.0,51.0,Matt Tifft,ToyotaCare (Kyle Busch),Toyota,154.0,13952.0,running,0.0,23.0
+2015,11,Eldora,Eldora Speedway,0.5,dirt track,22.0,7.0,98.0,Johnny Sauter,Nextant Aerospace / Curb Records (Mike Curb),Toyota,153.0,13902.0,running,0.0,22.0
+2015,11,Eldora,Eldora Speedway,0.5,dirt track,23.0,8.0,17.0,Timothy Peters,Red Horse Racing (Tom DeLoach),Toyota,153.0,13853.0,running,0.0,21.0
+2015,11,Eldora,Eldora Speedway,0.5,dirt track,24.0,16.0,8.0,Korbin Forrister,Trump For President (Christopher Long),Chevrolet,153.0,12554.0,running,0.0,20.0
+2015,11,Eldora,Eldora Speedway,0.5,dirt track,25.0,26.0,35.0,Cody Erickson,Petermann Seeds / Magnum / Performance Auto (John Corr),Chevrolet,153.0,11654.0,running,0.0,19.0
+2015,11,Eldora,Eldora Speedway,0.5,dirt track,26.0,32.0,94.0,Wendell Chavous,Premium Motorsports (Jay Robinson),Chevrolet,152.0,12456.0,running,0.0,18.0
+2015,11,Eldora,Eldora Speedway,0.5,dirt track,27.0,29.0,10.0,Jennifer Jo Cobb,Driven2Honor.org (Jennifer Jo Cobb),Chevrolet,151.0,11406.0,running,0.0,17.0
+2015,11,Eldora,Eldora Speedway,0.5,dirt track,28.0,11.0,29.0,Brad Keselowski,Cooper Standard (Brad Keselowski),Ford,144.0,11063.0,running,0.0,0.0
+2015,11,Eldora,Eldora Speedway,0.5,dirt track,29.0,24.0,0.0,Cole Custer,Haas Automation (JR Motorsports),Chevrolet,136.0,10964.0,running,0.0,15.0
+2015,11,Eldora,Eldora Speedway,0.5,dirt track,30.0,28.0,1.0,Travis Kvapil,Altec / Burnie Grill (Mark Beaver),Chevrolet,119.0,10464.0,crash,0.0,14.0
+2015,11,Eldora,Eldora Speedway,0.5,dirt track,31.0,14.0,15.0,Chad Boat,CorvetteParts.net / Pristine Auctions (Billy Boat),Chevrolet,110.0,8964.0,crash,0.0,13.0
+2015,11,Eldora,Eldora Speedway,0.5,dirt track,32.0,31.0,74.0,Stew Hayward,Mike Harmon Racing (Mike Harmon),RAM,79.0,7964.0,engine,0.0,12.0
+2015,12,Pocono,Pocono Raceway,2.5,paved track,1.0,2.0,51.0,Kyle Busch,Dollar General (Kyle Busch),Toyota,69.0,41542.0,running,53.0,0.0
+2015,12,Pocono,Pocono Raceway,2.5,paved track,2.0,7.0,0.0,Kevin Harvick,Haas Automation (JR Motorsports),Chevrolet,69.0,26768.0,running,0.0,0.0
+2015,12,Pocono,Pocono Raceway,2.5,paved track,3.0,6.0,19.0,Tyler Reddick,Draw-Tite (Brad Keselowski),Ford,69.0,27203.0,running,0.0,41.0
+2015,12,Pocono,Pocono Raceway,2.5,paved track,4.0,16.0,13.0,Cameron Hayley,Carolina Nut Co. (Duke Thorson),Toyota,69.0,21817.0,running,0.0,40.0
+2015,12,Pocono,Pocono Raceway,2.5,paved track,5.0,5.0,33.0,Austin Dillon,Rheem (Maury Gallagher),Chevrolet,69.0,16613.0,running,0.0,0.0
+2015,12,Pocono,Pocono Raceway,2.5,paved track,6.0,17.0,98.0,Johnny Sauter,Nextant Aerospace / Curb Records (Mike Curb),Toyota,69.0,16279.0,running,4.0,39.0
+2015,12,Pocono,Pocono Raceway,2.5,paved track,7.0,12.0,17.0,Timothy Peters,Red Horse Racing (Tom DeLoach),Toyota,69.0,15725.0,running,0.0,37.0
+2015,12,Pocono,Pocono Raceway,2.5,paved track,8.0,14.0,54.0,Matt Tifft,ToyotaCare (Kyle Busch),Toyota,69.0,15475.0,running,0.0,36.0
+2015,12,Pocono,Pocono Raceway,2.5,paved track,9.0,15.0,14.0,Daniel Hemric,California Clean Power (Bob Newberry),Chevrolet,69.0,15420.0,running,0.0,35.0
+2015,12,Pocono,Pocono Raceway,2.5,paved track,10.0,1.0,4.0,Erik Jones,Toyota (Kyle Busch),Toyota,69.0,18587.0,running,9.0,35.0
+2015,12,Pocono,Pocono Raceway,2.5,paved track,11.0,8.0,11.0,Ben Kennedy,Local Motors (Tom DeLoach),Toyota,69.0,15281.0,running,0.0,33.0
+2015,12,Pocono,Pocono Raceway,2.5,paved track,12.0,11.0,15.0,Mason Mingus,Billy Boat Motorsports (Billy Boat),Chevrolet,69.0,15141.0,running,0.0,32.0
+2015,12,Pocono,Pocono Raceway,2.5,paved track,13.0,9.0,8.0,John H. Nemechek,D.A.B. Constructors (Joe Nemechek),Chevrolet,69.0,15058.0,running,0.0,31.0
+2015,12,Pocono,Pocono Raceway,2.5,paved track,14.0,13.0,23.0,Spencer Gallagher,Allegiant Travel (Maury Gallagher),Chevrolet,69.0,15003.0,running,3.0,31.0
+2015,12,Pocono,Pocono Raceway,2.5,paved track,15.0,20.0,2.0,Tyler Young,Randco Industries / Young's Building Systems (Randy Young),Chevrolet,69.0,15264.0,running,0.0,29.0
+2015,12,Pocono,Pocono Raceway,2.5,paved track,16.0,18.0,63.0,Garrett Smithley,SegPay (Mike Mittler),Chevrolet,69.0,14953.0,running,0.0,28.0
+2015,12,Pocono,Pocono Raceway,2.5,paved track,17.0,10.0,5.0,John Wes Townley,Zaxby's (Tony Townley),Chevrolet,68.0,14643.0,running,0.0,27.0
+2015,12,Pocono,Pocono Raceway,2.5,paved track,18.0,21.0,74.0,Jordan Anderson,Tri-Analytics / SRGFX.com (Mike Harmon),Chevrolet,67.0,14503.0,running,0.0,26.0
+2015,12,Pocono,Pocono Raceway,2.5,paved track,19.0,32.0,50.0,Kyle Martel,Hanover Cold Storage / Finish Line Express (William Martel),Chevrolet,67.0,14393.0,running,0.0,25.0
+2015,12,Pocono,Pocono Raceway,2.5,paved track,20.0,25.0,28.0,Ryan Ellis,FDNY 150th Anniversary (Jim Rosenblum),Chevrolet,67.0,12587.0,running,0.0,24.0
+2015,12,Pocono,Pocono Raceway,2.5,paved track,21.0,23.0,40.0,Todd Peck,Arthritis Foundation / OSS Health (Michael Peck),Chevrolet,66.0,11921.0,running,0.0,23.0
+2015,12,Pocono,Pocono Raceway,2.5,paved track,22.0,30.0,6.0,Norm Benning,Norm Benning Racing (Norm Benning),Chevrolet,63.0,14060.0,running,0.0,22.0
+2015,12,Pocono,Pocono Raceway,2.5,paved track,23.0,19.0,1.0,Travis Kvapil,Burnie Grill (Mark Beaver),Chevrolet,56.0,13949.0,running,0.0,21.0
+2015,12,Pocono,Pocono Raceway,2.5,paved track,24.0,31.0,7.0,"Ray Black, Jr.",ScubaLife / NASE Worldwide (Bobby Dotter),Chevrolet,52.0,12616.0,crash,0.0,20.0
+2015,12,Pocono,Pocono Raceway,2.5,paved track,25.0,26.0,94.0,Wendell Chavous,Lilly Trucking / Testoril (Jay Robinson),Chevrolet,51.0,12727.0,crash,0.0,19.0
+2015,12,Pocono,Pocono Raceway,2.5,paved track,26.0,24.0,10.0,Jennifer Jo Cobb,JJC Racing (Jennifer Jo Cobb),Chevrolet,49.0,11533.0,running,0.0,18.0
+2015,12,Pocono,Pocono Raceway,2.5,paved track,27.0,29.0,8.0,Korbin Forrister,Trump For President (Christopher Long),Chevrolet,24.0,11505.0,crash,0.0,17.0
+2015,12,Pocono,Pocono Raceway,2.5,paved track,28.0,3.0,88.0,Matt Crafton,Chi-Chi's / Menards (Duke Thorson),Toyota,13.0,12258.0,crash,0.0,16.0
+2015,12,Pocono,Pocono Raceway,2.5,paved track,29.0,22.0,45.0,B.J. McLeod,Tilted Kilt (Christopher Long),Chevrolet,12.0,11229.0,overheating,0.0,15.0
+2015,12,Pocono,Pocono Raceway,2.5,paved track,30.0,4.0,29.0,Brad Keselowski,Cooper Standard (Brad Keselowski),Ford,5.0,10729.0,crash,0.0,0.0
+2015,12,Pocono,Pocono Raceway,2.5,paved track,31.0,28.0,36.0,Justin Jennings,Mittler Bros. Machine & Tool (Mike Mittler),Chevrolet,3.0,9229.0,vibration,0.0,13.0
+2015,12,Pocono,Pocono Raceway,2.5,paved track,32.0,27.0,0.0,Caleb Roark,Driven2Honor.org (Jennifer Jo Cobb),Chevrolet,3.0,8229.0,suspension,0.0,12.0
+2015,13,Michigan,Michigan International Speedway,2.0,paved track,1.0,10.0,51.0,Kyle Busch,Dollar General (Kyle Busch),Toyota,100.0,43447.0,running,44.0,0.0
+2015,13,Michigan,Michigan International Speedway,2.0,paved track,2.0,12.0,29.0,Ryan Blaney,Cooper Standard Careers for Veterans (Brad Keselowski),Ford,100.0,36614.0,running,8.0,0.0
+2015,13,Michigan,Michigan International Speedway,2.0,paved track,3.0,7.0,4.0,Erik Jones,Toyota (Kyle Busch),Toyota,100.0,26735.0,running,16.0,42.0
+2015,13,Michigan,Michigan International Speedway,2.0,paved track,4.0,9.0,98.0,Johnny Sauter,Nextant Aerospace / Curb Records (Mike Curb),Toyota,100.0,20254.0,running,24.0,41.0
+2015,13,Michigan,Michigan International Speedway,2.0,paved track,5.0,3.0,33.0,Austin Dillon,Rheem / Young Supply Company (Maury Gallagher),Chevrolet,100.0,15653.0,running,4.0,0.0
+2015,13,Michigan,Michigan International Speedway,2.0,paved track,6.0,1.0,88.0,Matt Crafton,Ideal Door / Menards (Duke Thorson),Toyota,100.0,19792.0,running,0.0,38.0
+2015,13,Michigan,Michigan International Speedway,2.0,paved track,7.0,2.0,14.0,Daniel Hemric,California Clean Power (Bob Newberry),Chevrolet,100.0,16325.0,running,4.0,38.0
+2015,13,Michigan,Michigan International Speedway,2.0,paved track,8.0,5.0,17.0,Timothy Peters,Red Horse Racing (Tom DeLoach),Toyota,100.0,16241.0,running,0.0,36.0
+2015,13,Michigan,Michigan International Speedway,2.0,paved track,9.0,11.0,19.0,Tyler Reddick,Draw-Tite (Brad Keselowski),Ford,100.0,16185.0,running,0.0,35.0
+2015,13,Michigan,Michigan International Speedway,2.0,paved track,10.0,6.0,13.0,Cameron Hayley,Carolina Nut Co. (Duke Thorson),Toyota,100.0,17107.0,running,0.0,34.0
+2015,13,Michigan,Michigan International Speedway,2.0,paved track,11.0,16.0,0.0,Alex Bowman,Haas Automation (JR Motorsports),Chevrolet,100.0,13852.0,running,0.0,0.0
+2015,13,Michigan,Michigan International Speedway,2.0,paved track,12.0,17.0,8.0,John H. Nemechek,NEMCO Motorsports (Joe Nemechek),Chevrolet,100.0,15934.0,running,0.0,32.0
+2015,13,Michigan,Michigan International Speedway,2.0,paved track,13.0,23.0,74.0,Jordan Anderson,Tri-Analytics / SRGFX.com (Mike Harmon),Chevrolet,100.0,15850.0,running,0.0,31.0
+2015,13,Michigan,Michigan International Speedway,2.0,paved track,14.0,19.0,63.0,Garrett Smithley,BRUH / SegPay (Mike Mittler),Chevrolet,100.0,15795.0,running,0.0,30.0
+2015,13,Michigan,Michigan International Speedway,2.0,paved track,15.0,13.0,2.0,Tyler Young,Randco Industries / Young's Building Systems (Randy Young),Chevrolet,100.0,16138.0,running,0.0,29.0
+2015,13,Michigan,Michigan International Speedway,2.0,paved track,16.0,14.0,23.0,Spencer Gallagher,Allegiant Travel (Maury Gallagher),Chevrolet,99.0,15711.0,crash,0.0,28.0
+2015,13,Michigan,Michigan International Speedway,2.0,paved track,17.0,8.0,5.0,John Wes Townley,Zaxby's (Tony Townley),Chevrolet,99.0,15799.0,running,0.0,27.0
+2015,13,Michigan,Michigan International Speedway,2.0,paved track,18.0,20.0,1.0,Travis Kvapil,Burnie Grill (Mark Beaver),Chevrolet,98.0,15572.0,running,0.0,26.0
+2015,13,Michigan,Michigan International Speedway,2.0,paved track,19.0,28.0,10.0,Jennifer Jo Cobb,JJC Racing (Jennifer Jo Cobb),Chevrolet,98.0,15515.0,running,0.0,25.0
+2015,13,Michigan,Michigan International Speedway,2.0,paved track,20.0,18.0,54.0,Cody Coughlin,JEGS (Kyle Busch),Toyota,96.0,15988.0,running,0.0,24.0
+2015,13,Michigan,Michigan International Speedway,2.0,paved track,21.0,15.0,30.0,Chad Finley,Auto Value (Mark Rette),Ford,96.0,13210.0,running,0.0,23.0
+2015,13,Michigan,Michigan International Speedway,2.0,paved track,22.0,27.0,8.0,Korbin Forrister,Trump For President (Christopher Long),Chevrolet,95.0,15404.0,running,0.0,22.0
+2015,13,Michigan,Michigan International Speedway,2.0,paved track,23.0,30.0,94.0,Wendell Chavous,Testoril (Jay Robinson),Chevrolet,95.0,15376.0,running,0.0,21.0
+2015,13,Michigan,Michigan International Speedway,2.0,paved track,24.0,22.0,15.0,Mason Mingus,Billy Boat Motorsports (Billy Boat),Chevrolet,87.0,14099.0,crash,0.0,20.0
+2015,13,Michigan,Michigan International Speedway,2.0,paved track,25.0,4.0,11.0,Ben Kennedy,Local Motors (Tom DeLoach),Toyota,82.0,14220.0,crash,0.0,19.0
+2015,13,Michigan,Michigan International Speedway,2.0,paved track,26.0,21.0,7.0,"Ray Black, Jr.",ScubaLife / NASE Worldwide (Bobby Dotter),Chevrolet,66.0,13042.0,running,0.0,18.0
+2015,13,Michigan,Michigan International Speedway,2.0,paved track,27.0,31.0,6.0,Norm Benning,Norm Benning Racing (Norm Benning),Chevrolet,40.0,12987.0,rear gear,0.0,17.0
+2015,13,Michigan,Michigan International Speedway,2.0,paved track,28.0,25.0,0.0,Caleb Roark,Driven2Honor.org (Jennifer Jo Cobb),Chevrolet,19.0,12747.0,vibration,0.0,16.0
+2015,13,Michigan,Michigan International Speedway,2.0,paved track,29.0,32.0,50.0,Tyler Tanner,"Shane Duncan Band ""Life's Snooze Bar"" (Mark Beaver)",Chevrolet,16.0,12692.0,clutch,0.0,15.0
+2015,13,Michigan,Michigan International Speedway,2.0,paved track,30.0,26.0,45.0,B.J. McLeod,Tilted Kilt (Christopher Long),Chevrolet,15.0,12192.0,electrical,0.0,14.0
+2015,13,Michigan,Michigan International Speedway,2.0,paved track,31.0,29.0,40.0,Todd Peck,Arthritis Foundation / OSS Health (Michael Peck),Chevrolet,12.0,10692.0,rear gear,0.0,13.0
+2015,13,Michigan,Michigan International Speedway,2.0,paved track,32.0,24.0,36.0,Justin Jennings,Mittler Bros. Machine & Tool (Mike Mittler),Chevrolet,6.0,9692.0,handling,0.0,12.0
+2015,14,Bristol,Bristol Motor Speedway,0.533,paved track,1.0,2.0,29.0,Ryan Blaney,Cooper Standard (Brad Keselowski),Ford,202.0,46349.0,running,40.0,0.0
+2015,14,Bristol,Bristol Motor Speedway,0.533,paved track,2.0,1.0,54.0,Kyle Busch,JEGS (Kyle Busch),Toyota,202.0,31811.0,running,4.0,0.0
+2015,14,Bristol,Bristol Motor Speedway,0.533,paved track,3.0,7.0,8.0,John H. Nemechek,MeetBall (Joe Nemechek),Chevrolet,202.0,25409.0,running,0.0,41.0
+2015,14,Bristol,Bristol Motor Speedway,0.533,paved track,4.0,17.0,14.0,Daniel Hemric,California Clean Power (Bob Newberry),Chevrolet,202.0,19358.0,running,0.0,40.0
+2015,14,Bristol,Bristol Motor Speedway,0.533,paved track,5.0,3.0,33.0,Brandon Jones,Masterforce Tool Storage (Maury Gallagher),Chevrolet,202.0,17800.0,running,1.0,40.0
+2015,14,Bristol,Bristol Motor Speedway,0.533,paved track,6.0,4.0,4.0,Erik Jones,Toyota (Kyle Busch),Toyota,202.0,16114.0,running,0.0,38.0
+2015,14,Bristol,Bristol Motor Speedway,0.533,paved track,7.0,6.0,88.0,Matt Crafton,Great Lakes Wood Floors / Menards (Duke Thorson),Toyota,202.0,16948.0,running,39.0,38.0
+2015,14,Bristol,Bristol Motor Speedway,0.533,paved track,8.0,19.0,19.0,Tyler Reddick,Draw-Tite (Brad Keselowski),Ford,202.0,15892.0,running,0.0,36.0
+2015,14,Bristol,Bristol Motor Speedway,0.533,paved track,9.0,12.0,98.0,Johnny Sauter,Smokey Mountain Herbal Snuff / Curb Records (Mike Curb),Toyota,202.0,15837.0,running,7.0,36.0
+2015,14,Bristol,Bristol Motor Speedway,0.533,paved track,10.0,18.0,5.0,Dalton Sargeant,Galt (Richie Wauters),Toyota,202.0,14482.0,running,0.0,34.0
+2015,14,Bristol,Bristol Motor Speedway,0.533,paved track,11.0,14.0,5.0,John Wes Townley,Zaxby's (Tony Townley),Chevrolet,202.0,15726.0,running,0.0,33.0
+2015,14,Bristol,Bristol Motor Speedway,0.533,paved track,12.0,15.0,17.0,Timothy Peters,Red Horse Racing (Tom DeLoach),Toyota,202.0,15560.0,running,0.0,32.0
+2015,14,Bristol,Bristol Motor Speedway,0.533,paved track,13.0,10.0,92.0,David Gilliland,BTS Tire & Wheel Distributors / Black's Tire (Ricky Benton),Ford,202.0,13253.0,running,0.0,0.0
+2015,14,Bristol,Bristol Motor Speedway,0.533,paved track,14.0,21.0,32.0,Justin Haley,Great Clips (Todd Braun),Chevrolet,202.0,13198.0,running,0.0,30.0
+2015,14,Bristol,Bristol Motor Speedway,0.533,paved track,15.0,11.0,11.0,Ben Kennedy,Local Motors (Tom DeLoach),Toyota,202.0,15965.0,running,0.0,29.0
+2015,14,Bristol,Bristol Motor Speedway,0.533,paved track,16.0,5.0,0.0,Cole Custer,Haas Automation (JR Motorsports),Chevrolet,202.0,15282.0,running,111.0,30.0
+2015,14,Bristol,Bristol Motor Speedway,0.533,paved track,17.0,24.0,2.0,Tyler Young,Electro-General Plastics Corp. (Randy Young),Chevrolet,201.0,15221.0,running,0.0,27.0
+2015,14,Bristol,Bristol Motor Speedway,0.533,paved track,18.0,9.0,13.0,Cameron Hayley,Carolina Nut Co. / Curb Records (Duke Thorson),Toyota,201.0,15143.0,running,0.0,26.0
+2015,14,Bristol,Bristol Motor Speedway,0.533,paved track,19.0,26.0,50.0,Travis Kvapil,Burnie Grill (Mark Beaver),Chevrolet,199.0,15088.0,running,0.0,25.0
+2015,14,Bristol,Bristol Motor Speedway,0.533,paved track,20.0,22.0,63.0,Justin Jennings,Mittler Bros. Machine & Tool (Mike Mittler),Chevrolet,199.0,15532.0,running,0.0,24.0
+2015,14,Bristol,Bristol Motor Speedway,0.533,paved track,21.0,20.0,7.0,"Ray Black, Jr.",ScubaLife / NASE Worldwide (Bobby Dotter),Chevrolet,198.0,14977.0,running,0.0,23.0
+2015,14,Bristol,Bristol Motor Speedway,0.533,paved track,22.0,13.0,23.0,Spencer Gallagher,Allegiant Travel (Maury Gallagher),Chevrolet,195.0,14949.0,running,0.0,22.0
+2015,14,Bristol,Bristol Motor Speedway,0.533,paved track,23.0,23.0,31.0,Ty Dillon,GunBroker.com (Bob Newberry),Chevrolet,194.0,12672.0,crash,0.0,0.0
+2015,14,Bristol,Bristol Motor Speedway,0.533,paved track,24.0,31.0,6.0,Norm Benning,Norm Benning Racing (Norm Benning),Chevrolet,190.0,14894.0,running,0.0,20.0
+2015,14,Bristol,Bristol Motor Speedway,0.533,paved track,25.0,29.0,10.0,Jennifer Jo Cobb,Driven2Honor.org (Jennifer Jo Cobb),Chevrolet,189.0,13739.0,running,0.0,19.0
+2015,14,Bristol,Bristol Motor Speedway,0.533,paved track,26.0,32.0,94.0,Wendell Chavous,Testoril (Jay Robinson),Chevrolet,188.0,13533.0,running,0.0,18.0
+2015,14,Bristol,Bristol Motor Speedway,0.533,paved track,27.0,30.0,8.0,Korbin Forrister,Trump For President (Christopher Long),Chevrolet,176.0,12505.0,running,0.0,17.0
+2015,14,Bristol,Bristol Motor Speedway,0.533,paved track,28.0,28.0,1.0,Ryan Ellis,Hutch Chevrolet-Buick-GMC (Mark Beaver),Chevrolet,176.0,12258.0,running,0.0,16.0
+2015,14,Bristol,Bristol Motor Speedway,0.533,paved track,29.0,25.0,15.0,Mason Mingus,Billy Boat Motorsports (Billy Boat),Chevrolet,158.0,12202.0,brakes,0.0,15.0
+2015,14,Bristol,Bristol Motor Speedway,0.533,paved track,30.0,16.0,51.0,Daniel Suarez,Arris / Telcel (Kyle Busch),Toyota,154.0,11202.0,overheating,0.0,0.0
+2015,14,Bristol,Bristol Motor Speedway,0.533,paved track,31.0,8.0,75.0,Caleb Holman,Fuel In A Bottle / Food Country USA (Charlie Henderson),Chevrolet,112.0,10702.0,crash,0.0,13.0
+2015,14,Bristol,Bristol Motor Speedway,0.533,paved track,32.0,27.0,36.0,Tyler Tanner,Mittler Bros. Machine & Tool (Mike Mittler),Chevrolet,12.0,9202.0,brakes,0.0,12.0
+2015,15,Bowmanville,Canadian Tire Motorsport Park,2.459,road course,1.0,2.0,4.0,Erik Jones,Toyota (Kyle Busch),Toyota,64.0,64245.0,running,19.0,47.0
+2015,15,Bowmanville,Canadian Tire Motorsport Park,2.459,road course,2.0,3.0,88.0,Matt Crafton,Ideal Door / Menards (Duke Thorson),Toyota,64.0,48243.0,running,1.0,43.0
+2015,15,Bowmanville,Canadian Tire Motorsport Park,2.459,road course,3.0,6.0,11.0,Ben Kennedy,Local Motors (Tom DeLoach),Toyota,64.0,35572.0,running,0.0,41.0
+2015,15,Bowmanville,Canadian Tire Motorsport Park,2.459,road course,4.0,13.0,14.0,Daniel Hemric,California Clean Power (Bob Newberry),Chevrolet,64.0,27034.0,running,0.0,40.0
+2015,15,Bowmanville,Canadian Tire Motorsport Park,2.459,road course,5.0,1.0,29.0,Alex Tagliani,Cooper Standard (Brad Keselowski),Ford,64.0,26832.0,running,8.0,0.0
+2015,15,Bowmanville,Canadian Tire Motorsport Park,2.459,road course,6.0,9.0,98.0,Johnny Sauter,Nextant Aerospace / Curb Records (Mike Curb),Toyota,64.0,21752.0,running,0.0,38.0
+2015,15,Bowmanville,Canadian Tire Motorsport Park,2.459,road course,7.0,7.0,13.0,Cameron Hayley,Cabinets by Hayley (Duke Thorson),Toyota,64.0,21202.0,running,13.0,38.0
+2015,15,Bowmanville,Canadian Tire Motorsport Park,2.459,road course,8.0,14.0,23.0,Spencer Gallagher,Alamo Rent-A-Car (Maury Gallagher),Chevrolet,64.0,20651.0,running,0.0,36.0
+2015,15,Bowmanville,Canadian Tire Motorsport Park,2.459,road course,9.0,12.0,8.0,John H. Nemechek,Chevrolet (Joe Nemechek),Chevrolet,64.0,19661.0,running,0.0,35.0
+2015,15,Bowmanville,Canadian Tire Motorsport Park,2.459,road course,10.0,5.0,0.0,Cole Custer,Haas Automation (JR Motorsports),Chevrolet,64.0,20500.0,running,22.0,36.0
+2015,15,Bowmanville,Canadian Tire Motorsport Park,2.459,road course,11.0,8.0,54.0,Gray Gaulding,Krispy Kreme (Kyle Busch),Toyota,64.0,19441.0,running,0.0,33.0
+2015,15,Bowmanville,Canadian Tire Motorsport Park,2.459,road course,12.0,19.0,25.0,Brian Wong,Momofuku / GT Channel (Bill Venturini),Toyota,64.0,16997.0,running,0.0,32.0
+2015,15,Bowmanville,Canadian Tire Motorsport Park,2.459,road course,13.0,18.0,94.0,T.J. Bell,Testoril (Jay Robinson),Chevrolet,64.0,19137.0,running,1.0,0.0
+2015,15,Bowmanville,Canadian Tire Motorsport Park,2.459,road course,14.0,17.0,15.0,Mason Mingus,Billy Boat Motorsports (Billy Boat),Chevrolet,64.0,19027.0,running,0.0,30.0
+2015,15,Bowmanville,Canadian Tire Motorsport Park,2.459,road course,15.0,22.0,7.0,"Ray Black, Jr.",ScubaLife.com / NASE Worldwide (Bobby Dotter),Chevrolet,64.0,19406.0,running,0.0,29.0
+2015,15,Bowmanville,Canadian Tire Motorsport Park,2.459,road course,16.0,23.0,74.0,Jordan Anderson,Tri-Analytics / SRGFX.com (Mike Harmon),Chevrolet,64.0,18697.0,running,0.0,28.0
+2015,15,Bowmanville,Canadian Tire Motorsport Park,2.459,road course,17.0,16.0,2.0,Tyler Young,Randco Industries / Young's Building Systems (Randy Young),Chevrolet,64.0,18586.0,running,0.0,27.0
+2015,15,Bowmanville,Canadian Tire Motorsport Park,2.459,road course,18.0,24.0,8.0,Korbin Forrister,Trump For President (Christopher Long),Chevrolet,64.0,18476.0,running,0.0,26.0
+2015,15,Bowmanville,Canadian Tire Motorsport Park,2.459,road course,19.0,4.0,19.0,Tyler Reddick,BBR / Stoney Creek Records (Brad Keselowski),Ford,62.0,18367.0,running,0.0,25.0
+2015,15,Bowmanville,Canadian Tire Motorsport Park,2.459,road course,20.0,29.0,10.0,Jennifer Jo Cobb,Driven2Honor.org (Jennifer Jo Cobb),Chevrolet,61.0,17506.0,running,0.0,24.0
+2015,15,Bowmanville,Canadian Tire Motorsport Park,2.459,road course,21.0,28.0,6.0,Norm Benning,Pottier Construction / Crossey PLBG (Norm Benning),Chevrolet,59.0,16896.0,running,0.0,23.0
+2015,15,Bowmanville,Canadian Tire Motorsport Park,2.459,road course,22.0,10.0,17.0,Timothy Peters,Red Horse Racing / Gaunt Collision Centres (Tom DeLoach),Toyota,57.0,15787.0,running,0.0,22.0
+2015,15,Bowmanville,Canadian Tire Motorsport Park,2.459,road course,23.0,15.0,51.0,Matt Tifft,Rally for Kids' Cancer / SickKids (Kyle Busch),Toyota,56.0,15566.0,running,0.0,21.0
+2015,15,Bowmanville,Canadian Tire Motorsport Park,2.459,road course,24.0,27.0,1.0,Travis Kvapil,Burnie Grill (Mark Beaver),Chevrolet,55.0,15455.0,running,0.0,20.0
+2015,15,Bowmanville,Canadian Tire Motorsport Park,2.459,road course,25.0,20.0,5.0,John Wes Townley,Zaxby's (Tony Townley),Chevrolet,54.0,15551.0,running,0.0,19.0
+2015,15,Bowmanville,Canadian Tire Motorsport Park,2.459,road course,26.0,11.0,33.0,Brandon Jones,Exide / EMCO Corporation (Maury Gallagher),Chevrolet,43.0,15346.0,crash,0.0,18.0
+2015,15,Bowmanville,Canadian Tire Motorsport Park,2.459,road course,27.0,21.0,63.0,Daniel Brown,Brown & Geeson (Mike Mittler),Chevrolet,42.0,15291.0,running,0.0,17.0
+2015,15,Bowmanville,Canadian Tire Motorsport Park,2.459,road course,28.0,25.0,45.0,B.J. McLeod,Tilted Kilt (Christopher Long),Chevrolet,21.0,15013.0,brakes,0.0,16.0
+2015,15,Bowmanville,Canadian Tire Motorsport Park,2.459,road course,29.0,26.0,36.0,Justin Jennings,Mittler Bros. Machine & Tool (Mike Mittler),Chevrolet,12.0,14958.0,brakes,0.0,15.0
+2015,15,Bowmanville,Canadian Tire Motorsport Park,2.459,road course,30.0,31.0,44.0,Josh Reaume,Obregon Construction (Margaret Lind),RAM,10.0,14458.0,engine,0.0,0.0
+2015,15,Bowmanville,Canadian Tire Motorsport Park,2.459,road course,31.0,30.0,50.0,Ryan Ellis,Hutch Chevrolet-Buick-GMC (Mark Beaver),Chevrolet,0.0,12958.0,engine,0.0,13.0
+2015,15,Bowmanville,Canadian Tire Motorsport Park,2.459,road course,32.0,32.0,53.0,Robert Mitten,NDS Motorsports (Robert Torriere),RAM,0.0,,did not start,0.0,0.0
+2015,16,Chicago,Chicagoland Speedway,1.5,paved track,1.0,11.0,8.0,John H. Nemechek,NEMCO Motorsports (Joe Nemechek),Chevrolet,150.0,46978.0,running,2.0,47.0
+2015,16,Chicago,Chicagoland Speedway,1.5,paved track,2.0,4.0,19.0,Tyler Reddick,BBR / Stoney Creek Records (Brad Keselowski),Ford,150.0,41217.0,running,1.0,43.0
+2015,16,Chicago,Chicagoland Speedway,1.5,paved track,3.0,5.0,17.0,Timothy Peters,Red Horse Racing (Tom DeLoach),Toyota,150.0,29417.0,running,41.0,42.0
+2015,16,Chicago,Chicagoland Speedway,1.5,paved track,4.0,6.0,51.0,Daniel Suarez,Arris / Telcel (Kyle Busch),Toyota,150.0,19769.0,running,3.0,0.0
+2015,16,Chicago,Chicagoland Speedway,1.5,paved track,5.0,3.0,98.0,Johnny Sauter,Nextant Aerospace / Curb Records (Mike Curb),Toyota,150.0,21861.0,running,52.0,41.0
+2015,16,Chicago,Chicagoland Speedway,1.5,paved track,6.0,8.0,4.0,Erik Jones,Toyota Certified Used Vehicles (Kyle Busch),Toyota,150.0,18948.0,running,0.0,38.0
+2015,16,Chicago,Chicagoland Speedway,1.5,paved track,7.0,1.0,0.0,Kyle Larson,Haas Automation (JR Motorsports),Chevrolet,149.0,16558.0,running,49.0,0.0
+2015,16,Chicago,Chicagoland Speedway,1.5,paved track,8.0,19.0,23.0,Spencer Gallagher,Alamo Rent-A-Car (Maury Gallagher),Chevrolet,149.0,18724.0,running,0.0,36.0
+2015,16,Chicago,Chicagoland Speedway,1.5,paved track,9.0,18.0,54.0,Matt Tifft,NASCAR '15 Victory Edition (Kyle Busch),Toyota,149.0,18640.0,running,0.0,35.0
+2015,16,Chicago,Chicagoland Speedway,1.5,paved track,10.0,13.0,5.0,John Wes Townley,Zaxby's (Tony Townley),Chevrolet,149.0,19534.0,running,0.0,34.0
+2015,16,Chicago,Chicagoland Speedway,1.5,paved track,11.0,21.0,7.0,"Ray Black, Jr.",ScubaLife.com / NASE Worldwide (Bobby Dotter),Chevrolet,148.0,18500.0,running,2.0,34.0
+2015,16,Chicago,Chicagoland Speedway,1.5,paved track,12.0,9.0,11.0,Ben Kennedy,Local Motors (Tom DeLoach),Toyota,148.0,18360.0,running,0.0,32.0
+2015,16,Chicago,Chicagoland Speedway,1.5,paved track,13.0,12.0,29.0,Austin Theriault,Cooper Standard (Brad Keselowski),Ford,147.0,18332.0,running,0.0,31.0
+2015,16,Chicago,Chicagoland Speedway,1.5,paved track,14.0,2.0,88.0,Matt Crafton,Slim Jim / Menards (Duke Thorson),Toyota,147.0,19276.0,running,0.0,30.0
+2015,16,Chicago,Chicagoland Speedway,1.5,paved track,15.0,17.0,2.0,Tyler Young,Faro (Randy Young),Chevrolet,147.0,18620.0,running,0.0,29.0
+2015,16,Chicago,Chicagoland Speedway,1.5,paved track,16.0,7.0,13.0,Cameron Hayley,Carolina Nut Co. (Duke Thorson),Toyota,146.0,18137.0,running,0.0,28.0
+2015,16,Chicago,Chicagoland Speedway,1.5,paved track,17.0,10.0,33.0,Brandon Jones,American Ethanol E15 (Maury Gallagher),Chevrolet,145.0,18053.0,running,0.0,27.0
+2015,16,Chicago,Chicagoland Speedway,1.5,paved track,18.0,30.0,94.0,Timmy Hill,Testoril (Jay Robinson),Chevrolet,144.0,18025.0,running,0.0,26.0
+2015,16,Chicago,Chicagoland Speedway,1.5,paved track,19.0,22.0,63.0,Justin Jennings,Excel Bottling / Mittler Bros. Machine & Tool (Mike Mittler),Chevrolet,144.0,18169.0,running,0.0,25.0
+2015,16,Chicago,Chicagoland Speedway,1.5,paved track,20.0,28.0,74.0,Jordan Anderson,"Lucas Oil / Columbia, SC Famously Hot (Mike Harmon)",Chevrolet,143.0,18386.0,running,0.0,24.0
+2015,16,Chicago,Chicagoland Speedway,1.5,paved track,21.0,16.0,30.0,Chad Finley,Auto Value / Bumper to Bumper (Mark Rette),Ford,141.0,15607.0,running,0.0,23.0
+2015,16,Chicago,Chicagoland Speedway,1.5,paved track,22.0,32.0,6.0,Norm Benning,Norm Benning Racing (Norm Benning),Chevrolet,102.0,16580.0,running,0.0,22.0
+2015,16,Chicago,Chicagoland Speedway,1.5,paved track,23.0,27.0,10.0,Jennifer Jo Cobb,POW-MIAFamilies.org / Driven2Honor.org (Jennifer Jo Cobb),Chevrolet,96.0,16551.0,running,0.0,21.0
+2015,16,Chicago,Chicagoland Speedway,1.5,paved track,24.0,25.0,1.0,Travis Kvapil,Landworks Solutions (Mark Beaver),Chevrolet,93.0,15523.0,rear gear,0.0,20.0
+2015,16,Chicago,Chicagoland Speedway,1.5,paved track,25.0,14.0,14.0,Daniel Hemric,California Clean Power (Bob Newberry),Chevrolet,90.0,15645.0,running,0.0,19.0
+2015,16,Chicago,Chicagoland Speedway,1.5,paved track,26.0,20.0,15.0,Mason Mingus,Call 811 Before You Dig (Billy Boat),Chevrolet,79.0,15468.0,crash,0.0,18.0
+2015,16,Chicago,Chicagoland Speedway,1.5,paved track,27.0,26.0,8.0,Korbin Forrister,Trump For President (Christopher Long),Chevrolet,41.0,15439.0,engine,0.0,17.0
+2015,16,Chicago,Chicagoland Speedway,1.5,paved track,28.0,23.0,45.0,B.J. McLeod,Tilted Kilt (Christopher Long),Chevrolet,25.0,15206.0,vibration,0.0,16.0
+2015,16,Chicago,Chicagoland Speedway,1.5,paved track,29.0,29.0,50.0,Ryan Ellis,Landworks Solutions (Mark Beaver),Chevrolet,18.0,15150.0,vibration,0.0,15.0
+2015,16,Chicago,Chicagoland Speedway,1.5,paved track,30.0,15.0,97.0,Jesse Little,ProtectTheHarvest.com (Jason Little),Toyota,14.0,14650.0,engine,0.0,14.0
+2015,16,Chicago,Chicagoland Speedway,1.5,paved track,31.0,31.0,0.0,Caleb Roark,Krystal / Driven2Honor.org (Jennifer Jo Cobb),Chevrolet,14.0,13150.0,brakes,0.0,13.0
+2015,16,Chicago,Chicagoland Speedway,1.5,paved track,32.0,24.0,36.0,Tyler Tanner,Mittler Bros. Machine & Tool (Mike Mittler),Chevrolet,5.0,12150.0,engine,0.0,12.0
+2015,17,Loudon,New Hampshire Motor Speedway,1.058,paved track,1.0,1.0,33.0,Austin Dillon,Rheem (Maury Gallagher),Chevrolet,175.0,51387.0,running,80.0,0.0
+2015,17,Loudon,New Hampshire Motor Speedway,1.058,paved track,2.0,10.0,88.0,Matt Crafton,Rip It Energy Fuel / Menards (Duke Thorson),Toyota,175.0,38852.0,running,0.0,42.0
+2015,17,Loudon,New Hampshire Motor Speedway,1.058,paved track,3.0,23.0,98.0,Johnny Sauter,Nextant Aerospace / Curb Records (Mike Curb),Toyota,175.0,29941.0,running,0.0,41.0
+2015,17,Loudon,New Hampshire Motor Speedway,1.058,paved track,4.0,6.0,17.0,Timothy Peters,Red Horse Racing (Tom DeLoach),Toyota,175.0,24928.0,running,0.0,40.0
+2015,17,Loudon,New Hampshire Motor Speedway,1.058,paved track,5.0,12.0,8.0,John H. Nemechek,Get Well Captain Dave (Joe Nemechek),Chevrolet,175.0,20275.0,running,0.0,39.0
+2015,17,Loudon,New Hampshire Motor Speedway,1.058,paved track,6.0,11.0,14.0,Daniel Hemric,Calif. Clean Power/500th Truck Race Throwback (Bob Newberry),Chevrolet,175.0,18159.0,running,14.0,39.0
+2015,17,Loudon,New Hampshire Motor Speedway,1.058,paved track,7.0,4.0,4.0,Erik Jones,Toyota (Kyle Busch),Toyota,175.0,17116.0,running,5.0,38.0
+2015,17,Loudon,New Hampshire Motor Speedway,1.058,paved track,8.0,9.0,29.0,Austin Theriault,Cooper Standard (Brad Keselowski),Ford,175.0,16761.0,running,9.0,37.0
+2015,17,Loudon,New Hampshire Motor Speedway,1.058,paved track,9.0,5.0,5.0,Dalton Sargeant,Galt (Richie Wauters),Toyota,175.0,14401.0,running,0.0,35.0
+2015,17,Loudon,New Hampshire Motor Speedway,1.058,paved track,10.0,8.0,54.0,Gray Gaulding,Krispy Kreme (Kyle Busch),Toyota,175.0,16831.0,running,0.0,34.0
+2015,17,Loudon,New Hampshire Motor Speedway,1.058,paved track,11.0,2.0,51.0,Kyle Busch,Dollar General (Kyle Busch),Toyota,175.0,12915.0,running,67.0,0.0
+2015,17,Loudon,New Hampshire Motor Speedway,1.058,paved track,12.0,3.0,13.0,Cameron Hayley,Cabinets by Hayley (Duke Thorson),Toyota,175.0,15054.0,running,0.0,32.0
+2015,17,Loudon,New Hampshire Motor Speedway,1.058,paved track,13.0,18.0,7.0,"Ray Black, Jr.",ScubaLife.com / NASE Worldwide (Bobby Dotter),Chevrolet,175.0,15026.0,running,0.0,31.0
+2015,17,Loudon,New Hampshire Motor Speedway,1.058,paved track,14.0,17.0,15.0,Mason Mingus,Billy Boat Motorsports (Billy Boat),Chevrolet,175.0,14971.0,running,0.0,30.0
+2015,17,Loudon,New Hampshire Motor Speedway,1.058,paved track,15.0,14.0,19.0,Tyler Reddick,BBR / Stoney Creek Records (Brad Keselowski),Ford,175.0,15516.0,running,0.0,29.0
+2015,17,Loudon,New Hampshire Motor Speedway,1.058,paved track,16.0,31.0,2.0,Tyler Young,Randco Industries / Young's Building Systems (Randy Young),Chevrolet,174.0,14778.0,running,0.0,28.0
+2015,17,Loudon,New Hampshire Motor Speedway,1.058,paved track,17.0,19.0,1.0,Travis Kvapil,Landworks Solutions (Mark Beaver),Chevrolet,170.0,14696.0,running,0.0,27.0
+2015,17,Loudon,New Hampshire Motor Speedway,1.058,paved track,18.0,28.0,63.0,Akinori Ogata,Eneos (Mike Mittler),Chevrolet,170.0,14641.0,running,0.0,26.0
+2015,17,Loudon,New Hampshire Motor Speedway,1.058,paved track,19.0,21.0,68.0,Clay Greenfield,U.S. Pavement Services / 1-800-PAVEMENT (Bill Alger),RAM,170.0,12336.0,running,0.0,25.0
+2015,17,Loudon,New Hampshire Motor Speedway,1.058,paved track,20.0,32.0,94.0,Timmy Hill,Testoril (Jay Robinson),Chevrolet,170.0,14703.0,running,0.0,24.0
+2015,17,Loudon,New Hampshire Motor Speedway,1.058,paved track,21.0,22.0,45.0,Ruben Pardo,BYB Extreme Fighting Series (Rick Ware),Chevrolet,169.0,14528.0,running,0.0,23.0
+2015,17,Loudon,New Hampshire Motor Speedway,1.058,paved track,22.0,30.0,10.0,Jennifer Jo Cobb,POW-MIAFamilies.org / Driven2Honor.org (Jennifer Jo Cobb),Chevrolet,166.0,14201.0,running,0.0,22.0
+2015,17,Loudon,New Hampshire Motor Speedway,1.058,paved track,23.0,15.0,11.0,Ben Kennedy,Local Motors (Tom DeLoach),Toyota,158.0,12923.0,running,0.0,21.0
+2015,17,Loudon,New Hampshire Motor Speedway,1.058,paved track,24.0,13.0,0.0,Cole Custer,Haas Automation (JR Motorsports),Chevrolet,144.0,12895.0,crash,0.0,20.0
+2015,17,Loudon,New Hampshire Motor Speedway,1.058,paved track,25.0,25.0,74.0,Jordan Anderson,Mike Harmon Racing (Mike Harmon),Chevrolet,140.0,12018.0,running,0.0,19.0
+2015,17,Loudon,New Hampshire Motor Speedway,1.058,paved track,26.0,16.0,5.0,John Wes Townley,Zaxby's (Tony Townley),Chevrolet,135.0,11840.0,crash,0.0,18.0
+2015,17,Loudon,New Hampshire Motor Speedway,1.058,paved track,27.0,20.0,86.0,Brandon Brown,Coastal Carolina University / #TealNation (Jerry Brown),Chevrolet,132.0,11813.0,running,0.0,17.0
+2015,17,Loudon,New Hampshire Motor Speedway,1.058,paved track,28.0,7.0,23.0,Spencer Gallagher,Allegiant Travel (Maury Gallagher),Chevrolet,131.0,11565.0,running,0.0,16.0
+2015,17,Loudon,New Hampshire Motor Speedway,1.058,paved track,29.0,29.0,8.0,Korbin Forrister,Trump For President (Christopher Long),Chevrolet,22.0,11538.0,brakes,0.0,15.0
+2015,17,Loudon,New Hampshire Motor Speedway,1.058,paved track,30.0,24.0,50.0,Tyler Tanner,Landworks Solutions (Mark Beaver),Chevrolet,19.0,11038.0,brakes,0.0,14.0
+2015,17,Loudon,New Hampshire Motor Speedway,1.058,paved track,31.0,26.0,0.0,Caleb Roark,Driven2Honor.org (Jennifer Jo Cobb),Chevrolet,12.0,9538.0,electrical,0.0,13.0
+2015,17,Loudon,New Hampshire Motor Speedway,1.058,paved track,32.0,27.0,36.0,Justin Jennings,Mittler Bros. Machine & Tool (Mike Mittler),Chevrolet,7.0,8538.0,electrical,0.0,12.0
+2015,18,Las Vegas,Las Vegas Motor Speedway,1.5,paved track,1.0,2.0,5.0,John Wes Townley,Zaxby's (Tony Townley),Chevrolet,146.0,45845.0,running,23.0,47.0
+2015,18,Las Vegas,Las Vegas Motor Speedway,1.5,paved track,2.0,4.0,17.0,Timothy Peters,Red Horse Racing (Tom DeLoach),Toyota,146.0,31057.0,running,13.0,43.0
+2015,18,Las Vegas,Las Vegas Motor Speedway,1.5,paved track,3.0,9.0,11.0,Ben Kennedy,Local Motors (Tom DeLoach),Toyota,146.0,25167.0,running,0.0,41.0
+2015,18,Las Vegas,Las Vegas Motor Speedway,1.5,paved track,4.0,16.0,8.0,John H. Nemechek,Berry's Manufacturing (Joe Nemechek),Chevrolet,146.0,21906.0,running,0.0,40.0
+2015,18,Las Vegas,Las Vegas Motor Speedway,1.5,paved track,5.0,3.0,33.0,Brandon Jones,Refrigeration Supplies Distributor / RSD.net (Maury Gallagher),Chevrolet,146.0,19051.0,running,0.0,39.0
+2015,18,Las Vegas,Las Vegas Motor Speedway,1.5,paved track,6.0,12.0,14.0,Daniel Hemric,California Clean Power (Bob Newberry),Chevrolet,146.0,17267.0,running,0.0,38.0
+2015,18,Las Vegas,Las Vegas Motor Speedway,1.5,paved track,7.0,11.0,19.0,Tyler Reddick,Draw-Tite (Brad Keselowski),Ford,146.0,16712.0,running,2.0,38.0
+2015,18,Las Vegas,Las Vegas Motor Speedway,1.5,paved track,8.0,1.0,88.0,Matt Crafton,FVP / Menards (Duke Thorson),Toyota,146.0,19762.0,running,69.0,38.0
+2015,18,Las Vegas,Las Vegas Motor Speedway,1.5,paved track,9.0,15.0,4.0,Erik Jones,Toyota (Kyle Busch),Toyota,146.0,16406.0,running,0.0,35.0
+2015,18,Las Vegas,Las Vegas Motor Speedway,1.5,paved track,10.0,6.0,13.0,Cameron Hayley,Carolina Nut Co. / Monte Carlo (Duke Thorson),Toyota,145.0,17301.0,running,23.0,35.0
+2015,18,Las Vegas,Las Vegas Motor Speedway,1.5,paved track,11.0,14.0,21.0,Brennan Poole,MTO Cafe / DC Solar (Maury Gallagher),Chevrolet,145.0,14045.0,running,0.0,0.0
+2015,18,Las Vegas,Las Vegas Motor Speedway,1.5,paved track,12.0,13.0,98.0,Johnny Sauter,Nextant Aerospace / Curb Records (Mike Curb),Toyota,145.0,16156.0,running,13.0,33.0
+2015,18,Las Vegas,Las Vegas Motor Speedway,1.5,paved track,13.0,22.0,7.0,"Ray Black, Jr.",ScubaLife.com / NASE Worldwide (Bobby Dotter),Chevrolet,145.0,16099.0,running,1.0,32.0
+2015,18,Las Vegas,Las Vegas Motor Speedway,1.5,paved track,14.0,5.0,54.0,Christopher Bell,JBL / Toyota (Kyle Busch),Toyota,145.0,16044.0,running,0.0,30.0
+2015,18,Las Vegas,Las Vegas Motor Speedway,1.5,paved track,15.0,10.0,23.0,Spencer Gallagher,Allegiant Travel (Maury Gallagher),Chevrolet,144.0,16306.0,running,0.0,29.0
+2015,18,Las Vegas,Las Vegas Motor Speedway,1.5,paved track,16.0,17.0,31.0,Travis Pastrana,GunBroker.com (Bob Newberry),Chevrolet,144.0,15966.0,running,0.0,28.0
+2015,18,Las Vegas,Las Vegas Motor Speedway,1.5,paved track,17.0,20.0,2.0,Tyler Young,Randco Industries / Young's Building Systems (Randy Young),Chevrolet,144.0,15656.0,running,0.0,27.0
+2015,18,Las Vegas,Las Vegas Motor Speedway,1.5,paved track,18.0,21.0,1.0,Travis Kvapil,Landworks Solutions (Mark Beaver),Chevrolet,144.0,15516.0,running,1.0,27.0
+2015,18,Las Vegas,Las Vegas Motor Speedway,1.5,paved track,19.0,18.0,51.0,Matt Tifft,NASCAR Slots Games (Kyle Busch),Toyota,143.0,15406.0,running,0.0,25.0
+2015,18,Las Vegas,Las Vegas Motor Speedway,1.5,paved track,20.0,8.0,15.0,Mason Mingus,Billy Boat Motorsports (Billy Boat),Chevrolet,142.0,14600.0,running,0.0,24.0
+2015,18,Las Vegas,Las Vegas Motor Speedway,1.5,paved track,21.0,24.0,10.0,Jennifer Jo Cobb,Waldo's Painting Co. / Driven2Honor.org (Jennifer Jo Cobb),Chevrolet,140.0,13933.0,running,0.0,23.0
+2015,18,Las Vegas,Las Vegas Motor Speedway,1.5,paved track,22.0,27.0,74.0,Jordan Anderson,Rusty's Off Road Products / PlateSetters.com (Mike Harmon),Chevrolet,138.0,12822.0,running,0.0,22.0
+2015,18,Las Vegas,Las Vegas Motor Speedway,1.5,paved track,23.0,30.0,63.0,Akinori Ogata,Akinori Ogata Foundation (Mike Mittler),Chevrolet,135.0,12712.0,running,0.0,21.0
+2015,18,Las Vegas,Las Vegas Motor Speedway,1.5,paved track,24.0,29.0,94.0,Wayne Edwards,Testoril (Jay Robinson),Chevrolet,135.0,12600.0,running,0.0,20.0
+2015,18,Las Vegas,Las Vegas Motor Speedway,1.5,paved track,25.0,19.0,16.0,Chad Boat,CorvetteParts.net (Billy Boat),Chevrolet,114.0,12695.0,handling,0.0,19.0
+2015,18,Las Vegas,Las Vegas Motor Speedway,1.5,paved track,26.0,32.0,6.0,Norm Benning,Norm Benning Racing (Norm Benning),Chevrolet,46.0,12517.0,suspension,0.0,18.0
+2015,18,Las Vegas,Las Vegas Motor Speedway,1.5,paved track,27.0,26.0,8.0,Korbin Forrister,Tilted Kilt (Christopher Long),Chevrolet,34.0,12462.0,oil leak,0.0,17.0
+2015,18,Las Vegas,Las Vegas Motor Speedway,1.5,paved track,28.0,25.0,45.0,B.J. McLeod,Tilted Kilt (Christopher Long),Chevrolet,33.0,12213.0,overheating,0.0,16.0
+2015,18,Las Vegas,Las Vegas Motor Speedway,1.5,paved track,29.0,23.0,36.0,Justin Jennings,Mittler Bros. Machine & Tool (Mike Mittler),Chevrolet,29.0,12185.0,electrical,1.0,16.0
+2015,18,Las Vegas,Las Vegas Motor Speedway,1.5,paved track,30.0,28.0,0.0,Caleb Roark,Driven2Honor.org (Jennifer Jo Cobb),Chevrolet,16.0,11685.0,electrical,0.0,14.0
+2015,18,Las Vegas,Las Vegas Motor Speedway,1.5,paved track,31.0,7.0,29.0,Austin Theriault,Cooper Standard (Brad Keselowski),Ford,14.0,10185.0,crash,0.0,13.0
+2015,18,Las Vegas,Las Vegas Motor Speedway,1.5,paved track,32.0,31.0,50.0,Tyler Tanner,Landworks Solutions (Mark Beaver),Chevrolet,5.0,9185.0,ignition,0.0,12.0
+2015,19,Talladega,Talladega Superspeedway,2.66,paved track,1.0,1.0,17.0,Timothy Peters,Red Horse Racing (Tom DeLoach),Toyota,98.0,67978.0,running,23.0,47.0
+2015,19,Talladega,Talladega Superspeedway,2.66,paved track,2.0,13.0,33.0,Brandon Jones,Wittichen Supply Company (Maury Gallagher),Chevrolet,98.0,48318.0,running,7.0,18.0
+2015,19,Talladega,Talladega Superspeedway,2.66,paved track,3.0,19.0,15.0,Mason Mingus,811 - Call Before You Dig (Billy Boat),Chevrolet,98.0,36014.0,running,0.0,41.0
+2015,19,Talladega,Talladega Superspeedway,2.66,paved track,4.0,3.0,4.0,Erik Jones,Toyota (Kyle Busch),Toyota,98.0,27203.0,running,6.0,41.0
+2015,19,Talladega,Talladega Superspeedway,2.66,paved track,5.0,15.0,19.0,Tyler Reddick,BBR / Stoney Creek Records (Brad Keselowski),Ford,98.0,20861.0,running,0.0,39.0
+2015,19,Talladega,Talladega Superspeedway,2.66,paved track,6.0,16.0,13.0,Cameron Hayley,Mattei (Duke Thorson),Toyota,98.0,20056.0,running,0.0,38.0
+2015,19,Talladega,Talladega Superspeedway,2.66,paved track,7.0,8.0,98.0,Johnny Sauter,Nextant Aerospace / Curb Records (Mike Curb),Toyota,98.0,19470.0,running,0.0,37.0
+2015,19,Talladega,Talladega Superspeedway,2.66,paved track,8.0,12.0,45.0,Chris Fontaine,Glenden Enterprises / Racktail.com (Chris Fontaine),Toyota,98.0,18939.0,running,0.0,36.0
+2015,19,Talladega,Talladega Superspeedway,2.66,paved track,9.0,20.0,16.0,Chad Boat,Pristine Auction / CorvetteParts.net (Billy Boat),Chevrolet,98.0,16579.0,running,0.0,35.0
+2015,19,Talladega,Talladega Superspeedway,2.66,paved track,10.0,18.0,2.0,Tyler Young,AKL Insurance Group (Randy Young),Chevrolet,98.0,19675.0,running,0.0,34.0
+2015,19,Talladega,Talladega Superspeedway,2.66,paved track,11.0,14.0,8.0,John H. Nemechek,Chek Industries / Breast Cancer Awareness (Joe Nemechek),Chevrolet,98.0,18616.0,running,0.0,33.0
+2015,19,Talladega,Talladega Superspeedway,2.66,paved track,12.0,17.0,36.0,Bobby Gerhart,Lucas Oil / MavTV / Breast Cancer Awareness (Mike Mittler),Chevrolet,98.0,18428.0,running,0.0,0.0
+2015,19,Talladega,Talladega Superspeedway,2.66,paved track,13.0,10.0,54.0,Christopher Bell,JBL.com (Kyle Busch),Toyota,98.0,18318.0,running,0.0,31.0
+2015,19,Talladega,Talladega Superspeedway,2.66,paved track,14.0,27.0,7.0,"Ray Black, Jr.",ScubaLife.com / NASE Worldwide (Bobby Dotter),Chevrolet,98.0,18214.0,running,1.0,31.0
+2015,19,Talladega,Talladega Superspeedway,2.66,paved track,15.0,30.0,8.0,Korbin Forrister,Tilted Kilt (Christopher Long),Chevrolet,98.0,18705.0,running,0.0,29.0
+2015,19,Talladega,Talladega Superspeedway,2.66,paved track,16.0,2.0,5.0,John Wes Townley,Zaxby's (Tony Townley),Chevrolet,98.0,18000.0,running,1.0,29.0
+2015,19,Talladega,Talladega Superspeedway,2.66,paved track,17.0,11.0,29.0,Brian Keselowski,Cooper Standard (Brad Keselowski),Ford,98.0,17891.0,running,10.0,28.0
+2015,19,Talladega,Talladega Superspeedway,2.66,paved track,18.0,9.0,23.0,Spencer Gallagher,Allegiant Travel (Maury Gallagher),Chevrolet,98.0,17787.0,running,0.0,26.0
+2015,19,Talladega,Talladega Superspeedway,2.66,paved track,19.0,32.0,74.0,Jordan Anderson,Rusty's Off Road Products (Mike Harmon),Chevrolet,97.0,17655.0,running,0.0,25.0
+2015,19,Talladega,Talladega Superspeedway,2.66,paved track,20.0,25.0,94.0,Timmy Hill,VIPRacingExperience.com / Testoril (Jay Robinson),Chevrolet,97.0,16796.0,running,1.0,25.0
+2015,19,Talladega,Talladega Superspeedway,2.66,paved track,21.0,24.0,6.0,Norm Benning,Norm Benning Racing (Norm Benning),Chevrolet,96.0,16192.0,running,0.0,23.0
+2015,19,Talladega,Talladega Superspeedway,2.66,paved track,22.0,22.0,82.0,Austin Hill,Empire Racing Driver Development (John Corr),Ford,96.0,15082.0,running,0.0,22.0
+2015,19,Talladega,Talladega Superspeedway,2.66,paved track,23.0,6.0,51.0,Matt Tifft,Waves for Water Clean Water Solutions (Kyle Busch),Toyota,96.0,14979.0,running,0.0,21.0
+2015,19,Talladega,Talladega Superspeedway,2.66,paved track,24.0,7.0,88.0,Matt Crafton,Hormel Pepperoni / Menards (Duke Thorson),Toyota,96.0,15869.0,running,43.0,22.0
+2015,19,Talladega,Talladega Superspeedway,2.66,paved track,25.0,5.0,11.0,Ben Kennedy,Local Motors (Tom DeLoach),Toyota,96.0,14909.0,running,6.0,20.0
+2015,19,Talladega,Talladega Superspeedway,2.66,paved track,26.0,28.0,63.0,Tyler Tanner,Mittler Bros. Machine & Tool (Mike Mittler),Chevrolet,91.0,14655.0,crash,0.0,18.0
+2015,19,Talladega,Talladega Superspeedway,2.66,paved track,27.0,31.0,1.0,Travis Kvapil,Bad Boy Mowers (Mark Beaver),Chevrolet,91.0,14551.0,crash,0.0,17.0
+2015,19,Talladega,Talladega Superspeedway,2.66,paved track,28.0,4.0,14.0,Daniel Hemric,Salvation Army / California Clean Power (Bob Newberry),Chevrolet,91.0,14215.0,running,0.0,16.0
+2015,19,Talladega,Talladega Superspeedway,2.66,paved track,29.0,21.0,91.0,Stanton Barrett,Navy Seals vs. Zombies / BarCode Ent. (Stanton Barrett),Chevrolet,85.0,14106.0,crash,0.0,0.0
+2015,19,Talladega,Talladega Superspeedway,2.66,paved track,30.0,26.0,68.0,Clay Greenfield,ClutchDefense.com (Bill Alger),Chevrolet,77.0,13606.0,overheating,0.0,14.0
+2015,19,Talladega,Talladega Superspeedway,2.66,paved track,31.0,23.0,30.0,Terry Jones,Nortrax (Mark Rette),Chevrolet,35.0,12106.0,crash,0.0,13.0
+2015,19,Talladega,Talladega Superspeedway,2.66,paved track,32.0,29.0,10.0,Jennifer Jo Cobb,V.G. Pride Group / Vapor Station E-Vapor (Jennifer Jo Cobb),Chevrolet,29.0,11106.0,engine,0.0,12.0
+2015,20,Martinsville,Martinsville Speedway,0.526,paved track,1.0,13.0,88.0,Matt Crafton,Fisher Nuts Exactly Snack Bites / Menards (Duke Thorson),Toyota,200.0,39197.0,running,63.0,47.0
+2015,20,Martinsville,Martinsville Speedway,0.526,paved track,2.0,3.0,8.0,John H. Nemechek,Mark 4 Suzuki (Joe Nemechek),Chevrolet,200.0,29673.0,running,32.0,43.0
+2015,20,Martinsville,Martinsville Speedway,0.526,paved track,3.0,2.0,13.0,Cameron Hayley,Carolina Nut Co. / Breast Cancer Awareness (Duke Thorson),Toyota,200.0,21627.0,running,0.0,41.0
+2015,20,Martinsville,Martinsville Speedway,0.526,paved track,4.0,1.0,0.0,Cole Custer,Haas Automation (JR Motorsports),Chevrolet,200.0,23569.0,running,96.0,42.0
+2015,20,Martinsville,Martinsville Speedway,0.526,paved track,5.0,4.0,19.0,Tyler Reddick,Brad Keselowski's Checkered Flag Foundation (Brad Keselowski),Ford,200.0,17413.0,running,0.0,39.0
+2015,20,Martinsville,Martinsville Speedway,0.526,paved track,6.0,11.0,17.0,Timothy Peters,Red Horse Racing (Tom DeLoach),Toyota,200.0,15471.0,running,0.0,38.0
+2015,20,Martinsville,Martinsville Speedway,0.526,paved track,7.0,16.0,33.0,Brandon Jones,Lucas Oil (Maury Gallagher),Chevrolet,200.0,15005.0,running,0.0,37.0
+2015,20,Martinsville,Martinsville Speedway,0.526,paved track,8.0,18.0,75.0,Caleb Holman,Food Country USA / Tide Pods (Charlie Henderson),Chevrolet,200.0,12700.0,running,0.0,36.0
+2015,20,Martinsville,Martinsville Speedway,0.526,paved track,9.0,17.0,98.0,Johnny Sauter,Smokey Mtn. Herbal Snuff Peach / Curb Records (Mike Curb),Toyota,200.0,14895.0,running,0.0,35.0
+2015,20,Martinsville,Martinsville Speedway,0.526,paved track,10.0,8.0,4.0,Erik Jones,Toyota (Kyle Busch),Toyota,200.0,15789.0,running,0.0,34.0
+2015,20,Martinsville,Martinsville Speedway,0.526,paved track,11.0,26.0,5.0,John Wes Townley,Zaxby's (Tony Townley),Chevrolet,200.0,14783.0,running,0.0,33.0
+2015,20,Martinsville,Martinsville Speedway,0.526,paved track,12.0,5.0,14.0,Daniel Hemric,Salvation Army / California Clean Power (Bob Newberry),Chevrolet,200.0,14644.0,running,0.0,32.0
+2015,20,Martinsville,Martinsville Speedway,0.526,paved track,13.0,9.0,2.0,Tyler Young,Randco Industries / Young's Building Systems (Randy Young),Chevrolet,200.0,14589.0,running,0.0,31.0
+2015,20,Martinsville,Martinsville Speedway,0.526,paved track,14.0,10.0,11.0,Ben Kennedy,"Local Motors ""Halloween"" (Tom DeLoach)",Toyota,200.0,14534.0,running,0.0,30.0
+2015,20,Martinsville,Martinsville Speedway,0.526,paved track,15.0,23.0,50.0,Travis Kvapil,CorvetteParts.net (Mark Beaver),Chevrolet,200.0,14823.0,running,0.0,29.0
+2015,20,Martinsville,Martinsville Speedway,0.526,paved track,16.0,6.0,51.0,Daniel Suarez,Arris (Kyle Busch),Toyota,200.0,12290.0,running,0.0,0.0
+2015,20,Martinsville,Martinsville Speedway,0.526,paved track,17.0,25.0,18.0,Ross Kenseth,AISIN AW (Shigeaki Hattori),Toyota,200.0,12035.0,running,0.0,0.0
+2015,20,Martinsville,Martinsville Speedway,0.526,paved track,18.0,19.0,15.0,Mason Mingus,Billy Boat Motorsports (Billy Boat),Chevrolet,200.0,14228.0,running,0.0,26.0
+2015,20,Martinsville,Martinsville Speedway,0.526,paved track,19.0,27.0,82.0,Austin Hill,Empire Racing Driver Development (John Corr),Ford,200.0,11923.0,running,0.0,25.0
+2015,20,Martinsville,Martinsville Speedway,0.526,paved track,20.0,21.0,7.0,"Ray Black, Jr.","ScubaLife ""Halloween"" (Bobby Dotter)",Chevrolet,200.0,14618.0,running,0.0,24.0
+2015,20,Martinsville,Martinsville Speedway,0.526,paved track,21.0,7.0,54.0,Gray Gaulding,Krispy Kreme (Kyle Busch),Toyota,200.0,14090.0,running,9.0,24.0
+2015,20,Martinsville,Martinsville Speedway,0.526,paved track,22.0,28.0,63.0,Bobby Pierce,RPM Services LLC Global (Mike Mittler),Chevrolet,200.0,14062.0,running,0.0,22.0
+2015,20,Martinsville,Martinsville Speedway,0.526,paved track,23.0,12.0,92.0,David Gilliland,Black's Tire & Wheel Distributors (Ricky Benton),Ford,200.0,11785.0,running,0.0,0.0
+2015,20,Martinsville,Martinsville Speedway,0.526,paved track,24.0,30.0,1.0,Camden Murphy,Ronald McDonald House / Nortown Auto (Rick Ware),Chevrolet,200.0,12757.0,running,0.0,20.0
+2015,20,Martinsville,Martinsville Speedway,0.526,paved track,25.0,14.0,29.0,Austin Cindric,Cooper Standard (Brad Keselowski),Ford,200.0,12852.0,running,0.0,19.0
+2015,20,Martinsville,Martinsville Speedway,0.526,paved track,26.0,24.0,94.0,Timmy Hill,Testoril (Jay Robinson),Chevrolet,199.0,11674.0,running,0.0,18.0
+2015,20,Martinsville,Martinsville Speedway,0.526,paved track,27.0,29.0,8.0,Brandon Hightower,St. Jude Childrens Hosp./Operation 2nd Chance (Mike Mittler),Chevrolet,196.0,11591.0,running,0.0,17.0
+2015,20,Martinsville,Martinsville Speedway,0.526,paved track,28.0,15.0,5.0,Dalton Sargeant,Galt (Richie Wauters),Toyota,196.0,11345.0,running,0.0,16.0
+2015,20,Martinsville,Martinsville Speedway,0.526,paved track,29.0,20.0,23.0,Spencer Gallagher,Allegiant Travel (Maury Gallagher),Chevrolet,196.0,11290.0,running,0.0,15.0
+2015,20,Martinsville,Martinsville Speedway,0.526,paved track,30.0,31.0,74.0,Paige Decker,Eagle River Derbytrack (Mike Harmon),RAM,193.0,10790.0,running,0.0,14.0
+2015,20,Martinsville,Martinsville Speedway,0.526,paved track,31.0,32.0,10.0,Jennifer Jo Cobb,Driven2Honor.org (Jennifer Jo Cobb),Chevrolet,186.0,9290.0,running,0.0,13.0
+2015,20,Martinsville,Martinsville Speedway,0.526,paved track,32.0,22.0,32.0,Justin Haley,Great Clips (Todd Braun),Chevrolet,119.0,8290.0,crash,0.0,12.0
+2015,21,Fort Worth,Texas Motor Speedway,1.5,paved track,1.0,5.0,4.0,Erik Jones,Toyota (Kyle Busch),Toyota,147.0,62424.0,running,117.0,48.0
+2015,21,Fort Worth,Texas Motor Speedway,1.5,paved track,2.0,7.0,51.0,Daniel Suarez,Arris (Kyle Busch),Toyota,147.0,42737.0,running,0.0,0.0
+2015,21,Fort Worth,Texas Motor Speedway,1.5,paved track,3.0,15.0,29.0,Ryan Blaney,Cooper Standard Careers for Veterans (Brad Keselowski),Ford,147.0,34886.0,running,0.0,0.0
+2015,21,Fort Worth,Texas Motor Speedway,1.5,paved track,4.0,1.0,88.0,Matt Crafton,Damp Rid / Menards (Duke Thorson),Toyota,147.0,27750.0,running,27.0,41.0
+2015,21,Fort Worth,Texas Motor Speedway,1.5,paved track,5.0,17.0,19.0,Tyler Reddick,BBR / Stoney Creek Records (Brad Keselowski),Ford,147.0,19678.0,running,1.0,40.0
+2015,21,Fort Worth,Texas Motor Speedway,1.5,paved track,6.0,6.0,17.0,Timothy Peters,Red Horse Racing (Tom DeLoach),Toyota,147.0,18020.0,running,0.0,38.0
+2015,21,Fort Worth,Texas Motor Speedway,1.5,paved track,7.0,4.0,33.0,Brandon Jones,Russell Refrigeration Products (Maury Gallagher),Chevrolet,147.0,17495.0,running,0.0,37.0
+2015,21,Fort Worth,Texas Motor Speedway,1.5,paved track,8.0,11.0,54.0,Christopher Bell,JBL (Kyle Busch),Toyota,147.0,16965.0,running,0.0,36.0
+2015,21,Fort Worth,Texas Motor Speedway,1.5,paved track,9.0,9.0,11.0,Ben Kennedy,Local Motors (Tom DeLoach),Toyota,147.0,16861.0,running,0.0,35.0
+2015,21,Fort Worth,Texas Motor Speedway,1.5,paved track,10.0,14.0,13.0,Cameron Hayley,Carolina Nut Co. (Duke Thorson),Toyota,147.0,17675.0,running,1.0,35.0
+2015,21,Fort Worth,Texas Motor Speedway,1.5,paved track,11.0,12.0,8.0,John H. Nemechek,NEMCO Motorsports (Joe Nemechek),Chevrolet,147.0,16620.0,running,1.0,34.0
+2015,21,Fort Worth,Texas Motor Speedway,1.5,paved track,12.0,2.0,23.0,Spencer Gallagher,Allegiant Travel (Maury Gallagher),Chevrolet,146.0,16406.0,running,0.0,32.0
+2015,21,Fort Worth,Texas Motor Speedway,1.5,paved track,13.0,13.0,98.0,Johnny Sauter,Smokey Mountain Herbal Snuff / Curb Records (Mike Curb),Toyota,146.0,16297.0,running,0.0,31.0
+2015,21,Fort Worth,Texas Motor Speedway,1.5,paved track,14.0,3.0,14.0,Daniel Hemric,California Clean Power (Bob Newberry),Chevrolet,146.0,16192.0,running,0.0,30.0
+2015,21,Fort Worth,Texas Motor Speedway,1.5,paved track,15.0,16.0,97.0,Jesse Little,Protect The Harvest (Jason Little),Toyota,145.0,14406.0,running,0.0,29.0
+2015,21,Fort Worth,Texas Motor Speedway,1.5,paved track,16.0,8.0,0.0,Jeb Burton,Haas Automation (JR Motorsports),Chevrolet,145.0,15952.0,running,0.0,0.0
+2015,21,Fort Worth,Texas Motor Speedway,1.5,paved track,17.0,10.0,5.0,John Wes Townley,Zaxby's (Tony Townley),Chevrolet,144.0,15848.0,running,0.0,27.0
+2015,21,Fort Worth,Texas Motor Speedway,1.5,paved track,18.0,18.0,15.0,Mason Mingus,Texas 811 - Call Before You Dig (Billy Boat),Chevrolet,144.0,15744.0,running,0.0,26.0
+2015,21,Fort Worth,Texas Motor Speedway,1.5,paved track,19.0,19.0,7.0,"Ray Black, Jr.",ScubaLife.com / NASE Worldwide (Bobby Dotter),Chevrolet,142.0,15635.0,running,0.0,25.0
+2015,21,Fort Worth,Texas Motor Speedway,1.5,paved track,20.0,20.0,94.0,Timmy Hill,Testoril (Jay Robinson),Chevrolet,141.0,16031.0,running,0.0,24.0
+2015,21,Fort Worth,Texas Motor Speedway,1.5,paved track,21.0,21.0,74.0,Jordan Anderson,"Columbia, SC / Knight Fire Protection (Mike Harmon)",Chevrolet,138.0,15427.0,running,0.0,23.0
+2015,21,Fort Worth,Texas Motor Speedway,1.5,paved track,22.0,26.0,8.0,Korbin Forrister,Tilted Kilt (Christopher Long),Chevrolet,136.0,14068.0,running,0.0,22.0
+2015,21,Fort Worth,Texas Motor Speedway,1.5,paved track,23.0,29.0,2.0,Tyler Young,Randco Industries / Young's Building Systems (Randy Young),Chevrolet,136.0,13959.0,running,0.0,21.0
+2015,21,Fort Worth,Texas Motor Speedway,1.5,paved track,24.0,24.0,10.0,Jennifer Jo Cobb,Grimes Irrigation & Construction (Jennifer Jo Cobb),Chevrolet,134.0,12854.0,running,0.0,20.0
+2015,21,Fort Worth,Texas Motor Speedway,1.5,paved track,25.0,23.0,63.0,Justin Jennings,Mittler Bros. Machine & Tool (Mike Mittler),Chevrolet,89.0,12900.0,running,0.0,19.0
+2015,21,Fort Worth,Texas Motor Speedway,1.5,paved track,26.0,22.0,1.0,Travis Kvapil,MAKE Motorsports (Mark Beaver),Chevrolet,77.0,12647.0,oil leak,0.0,18.0
+2015,21,Fort Worth,Texas Motor Speedway,1.5,paved track,27.0,28.0,6.0,Norm Benning,Norm Benning Racing (Norm Benning),Chevrolet,40.0,12543.0,suspension,0.0,17.0
+2015,21,Fort Worth,Texas Motor Speedway,1.5,paved track,28.0,27.0,45.0,Todd Peck,Tilted Kilt (Michael Peck),Chevrolet,17.0,12214.0,suspension,0.0,16.0
+2015,21,Fort Worth,Texas Motor Speedway,1.5,paved track,29.0,25.0,50.0,Dexter Stacey,MAKE Motorsports (Mark Beaver),Chevrolet,11.0,12094.0,electrical,0.0,15.0
+2015,21,Fort Worth,Texas Motor Speedway,1.5,paved track,30.0,32.0,49.0,Mike Harmon,Mike Harmon Racing (Mike Harmon),Chevrolet,6.0,11594.0,engine,0.0,0.0
+2015,21,Fort Worth,Texas Motor Speedway,1.5,paved track,31.0,30.0,36.0,Tyler Tanner,Mittler Bros. Machine & Tool (Mike Mittler),Chevrolet,0.0,10094.0,engine,0.0,13.0
+2015,21,Fort Worth,Texas Motor Speedway,1.5,paved track,32.0,31.0,0.0,Caleb Roark,Driven2Honor.org (Jennifer Jo Cobb),Chevrolet,0.0,9094.0,electrical,0.0,12.0
+2015,22,Phoenix,Phoenix International Raceway,1.0,paved track,1.0,10.0,17.0,Timothy Peters,Red Horse Racing (Tom DeLoach),Toyota,150.0,44502.0,running,28.0,47.0
+2015,22,Phoenix,Phoenix International Raceway,1.0,paved track,2.0,11.0,8.0,John H. Nemechek,Anderson's Pure Maple Syrup (Joe Nemechek),Chevrolet,150.0,32722.0,running,0.0,42.0
+2015,22,Phoenix,Phoenix International Raceway,1.0,paved track,3.0,19.0,5.0,John Wes Townley,Zaxby's (Tony Townley),Chevrolet,150.0,24226.0,running,0.0,41.0
+2015,22,Phoenix,Phoenix International Raceway,1.0,paved track,4.0,8.0,51.0,Daniel Suarez,Arris (Kyle Busch),Toyota,150.0,17000.0,running,0.0,0.0
+2015,22,Phoenix,Phoenix International Raceway,1.0,paved track,5.0,2.0,19.0,Tyler Reddick,Draw-Tite / CalRanch.com (Brad Keselowski),Ford,150.0,17375.0,running,0.0,39.0
+2015,22,Phoenix,Phoenix International Raceway,1.0,paved track,6.0,15.0,23.0,Spencer Gallagher,Allegiant Travel (Maury Gallagher),Chevrolet,150.0,16287.0,running,0.0,38.0
+2015,22,Phoenix,Phoenix International Raceway,1.0,paved track,7.0,3.0,32.0,Justin Haley,Great Clips (Todd Braun),Chevrolet,150.0,13982.0,running,0.0,37.0
+2015,22,Phoenix,Phoenix International Raceway,1.0,paved track,8.0,17.0,54.0,Matt Tifft,games.NASCAR.com (Kyle Busch),Toyota,150.0,16176.0,running,0.0,36.0
+2015,22,Phoenix,Phoenix International Raceway,1.0,paved track,9.0,1.0,4.0,Erik Jones,Toyota Certified Used Vehicles (Kyle Busch),Toyota,150.0,20621.0,running,106.0,37.0
+2015,22,Phoenix,Phoenix International Raceway,1.0,paved track,10.0,18.0,15.0,Mason Mingus,AEC Electric / Call 811 Before You Dig (Billy Boat),Chevrolet,150.0,16988.0,running,0.0,34.0
+2015,22,Phoenix,Phoenix International Raceway,1.0,paved track,11.0,6.0,13.0,Cameron Hayley,Protect The Harvest (Duke Thorson),Toyota,150.0,15844.0,running,0.0,33.0
+2015,22,Phoenix,Phoenix International Raceway,1.0,paved track,12.0,24.0,16.0,Chad Boat,Pristine Auction / CorvetteParts.net (Billy Boat),Chevrolet,149.0,13455.0,running,0.0,32.0
+2015,22,Phoenix,Phoenix International Raceway,1.0,paved track,13.0,23.0,2.0,Tyler Young,Randco Industries / Young's Building Systems (Randy Young),Chevrolet,149.0,15649.0,running,0.0,31.0
+2015,22,Phoenix,Phoenix International Raceway,1.0,paved track,14.0,21.0,29.0,Austin Cindric,Cooper Standard (Brad Keselowski),Ford,149.0,15567.0,running,0.0,30.0
+2015,22,Phoenix,Phoenix International Raceway,1.0,paved track,15.0,25.0,50.0,Travis Kvapil,CorvetteParts.net (Mark Beaver),Chevrolet,149.0,15911.0,running,1.0,30.0
+2015,22,Phoenix,Phoenix International Raceway,1.0,paved track,16.0,26.0,36.0,Bobby Pierce,Mittler Bros. Machine & Tool (Mike Mittler),Chevrolet,149.0,15628.0,running,0.0,28.0
+2015,22,Phoenix,Phoenix International Raceway,1.0,paved track,17.0,27.0,1.0,Ruben Pardo,BYB Extreme Fighting Series (Rick Ware),Chevrolet,148.0,15372.0,running,0.0,27.0
+2015,22,Phoenix,Phoenix International Raceway,1.0,paved track,18.0,28.0,94.0,Timmy Hill,Testoril (Jay Robinson),Chevrolet,148.0,15317.0,running,0.0,26.0
+2015,22,Phoenix,Phoenix International Raceway,1.0,paved track,19.0,20.0,5.0,Dalton Sargeant,Galt (Richie Wauters),Toyota,148.0,13012.0,running,0.0,25.0
+2015,22,Phoenix,Phoenix International Raceway,1.0,paved track,20.0,22.0,7.0,"Ray Black, Jr.",ScubaLife.com / NASE Worldwide (Bobby Dotter),Chevrolet,148.0,15706.0,running,0.0,24.0
+2015,22,Phoenix,Phoenix International Raceway,1.0,paved track,21.0,13.0,14.0,Daniel Hemric,California Clean Power (Bob Newberry),Chevrolet,144.0,15096.0,running,0.0,23.0
+2015,22,Phoenix,Phoenix International Raceway,1.0,paved track,22.0,29.0,10.0,Jennifer Jo Cobb,POW-MIAFamilies.org / Grimes Irrigation (Jennifer Jo Cobb),Chevrolet,141.0,15040.0,running,0.0,22.0
+2015,22,Phoenix,Phoenix International Raceway,1.0,paved track,23.0,4.0,88.0,Matt Crafton,Ideal Door / Menards (Duke Thorson),Toyota,130.0,14680.0,crash,15.0,22.0
+2015,22,Phoenix,Phoenix International Raceway,1.0,paved track,24.0,12.0,11.0,Ben Kennedy,Local Motors (Tom DeLoach),Toyota,126.0,13569.0,running,0.0,20.0
+2015,22,Phoenix,Phoenix International Raceway,1.0,paved track,25.0,16.0,98.0,Johnny Sauter,Smokey Mountain Herbal Snuff / Curb Records (Mike Curb),Toyota,120.0,12609.0,crash,0.0,19.0
+2015,22,Phoenix,Phoenix International Raceway,1.0,paved track,26.0,9.0,0.0,Cole Custer,Haas Automation (JR Motorsports),Chevrolet,114.0,12347.0,running,0.0,18.0
+2015,22,Phoenix,Phoenix International Raceway,1.0,paved track,27.0,32.0,63.0,Akinori Ogata,Eneos (Mike Mittler),Chevrolet,105.0,12209.0,suspension,0.0,17.0
+2015,22,Phoenix,Phoenix International Raceway,1.0,paved track,28.0,14.0,31.0,Rico Abreu,AccuDoc Solutions (Bob Newberry),Chevrolet,44.0,11878.0,crash,0.0,16.0
+2015,22,Phoenix,Phoenix International Raceway,1.0,paved track,29.0,31.0,74.0,Jordan Anderson,Mike Harmon Racing (Mike Harmon),Chevrolet,36.0,11768.0,engine,0.0,15.0
+2015,22,Phoenix,Phoenix International Raceway,1.0,paved track,30.0,30.0,8.0,Korbin Forrister,Tilted Kilt (Christopher Long),Chevrolet,15.0,11268.0,crash,0.0,14.0
+2015,22,Phoenix,Phoenix International Raceway,1.0,paved track,31.0,5.0,9.0,William Byron,Liberty University (Kyle Busch),Toyota,6.0,9768.0,crash,0.0,13.0
+2015,22,Phoenix,Phoenix International Raceway,1.0,paved track,32.0,7.0,33.0,Brandon Jones,Lucas Oil (Maury Gallagher),Chevrolet,6.0,8768.0,crash,0.0,12.0
+2015,23,Homestead,Homestead-Miami Speedway,1.5,paved track,1.0,1.0,88.0,Matt Crafton,Ideal Door / Menards (Duke Thorson),Toyota,134.0,53598.0,running,93.0,48.0
+2015,23,Homestead,Homestead-Miami Speedway,1.5,paved track,2.0,2.0,8.0,John H. Nemechek,NEMCO Motorsports (Joe Nemechek),Chevrolet,134.0,32308.0,running,24.0,43.0
+2015,23,Homestead,Homestead-Miami Speedway,1.5,paved track,3.0,4.0,19.0,Tyler Reddick,BBR / Stoney Creek Records (Brad Keselowski),Ford,134.0,30084.0,running,1.0,42.0
+2015,23,Homestead,Homestead-Miami Speedway,1.5,paved track,4.0,3.0,11.0,Ben Kennedy,Florida Lottery (Tom DeLoach),Toyota,134.0,25597.0,running,0.0,40.0
+2015,23,Homestead,Homestead-Miami Speedway,1.5,paved track,5.0,12.0,17.0,Timothy Peters,Red Horse Racing (Tom DeLoach),Toyota,134.0,22449.0,running,0.0,39.0
+2015,23,Homestead,Homestead-Miami Speedway,1.5,paved track,6.0,5.0,4.0,Erik Jones,Toyota (Kyle Busch),Toyota,134.0,20382.0,running,0.0,38.0
+2015,23,Homestead,Homestead-Miami Speedway,1.5,paved track,7.0,10.0,98.0,Johnny Sauter,Nextant Aerospace / Curb Records (Mike Curb),Toyota,134.0,20164.0,running,0.0,37.0
+2015,23,Homestead,Homestead-Miami Speedway,1.5,paved track,8.0,7.0,14.0,Daniel Hemric,California Clean Power (Bob Newberry),Chevrolet,134.0,19945.0,running,0.0,36.0
+2015,23,Homestead,Homestead-Miami Speedway,1.5,paved track,9.0,11.0,13.0,Cameron Hayley,Mattei (Duke Thorson),Toyota,134.0,19727.0,running,0.0,35.0
+2015,23,Homestead,Homestead-Miami Speedway,1.5,paved track,10.0,13.0,5.0,John Wes Townley,Zaxby's (Tony Townley),Chevrolet,134.0,20458.0,running,1.0,35.0
+2015,23,Homestead,Homestead-Miami Speedway,1.5,paved track,11.0,8.0,23.0,Spencer Gallagher,Allegiant Travel (Maury Gallagher),Chevrolet,134.0,19399.0,running,0.0,33.0
+2015,23,Homestead,Homestead-Miami Speedway,1.5,paved track,12.0,18.0,29.0,Austin Theriault,Cooper Standard (Brad Keselowski),Ford,134.0,19206.0,running,0.0,32.0
+2015,23,Homestead,Homestead-Miami Speedway,1.5,paved track,13.0,14.0,31.0,Rico Abreu,GunBroker.com (Bob Newberry),Chevrolet,134.0,19070.0,running,0.0,31.0
+2015,23,Homestead,Homestead-Miami Speedway,1.5,paved track,14.0,19.0,97.0,Jesse Little,Protect The Harvest (Jason Little),Toyota,134.0,16710.0,running,0.0,30.0
+2015,23,Homestead,Homestead-Miami Speedway,1.5,paved track,15.0,16.0,0.0,"Scott Lagasse, Jr.",Florida DOT / Boy Scouts of America (Bob Newberry),Chevrolet,134.0,17201.0,running,0.0,0.0
+2015,23,Homestead,Homestead-Miami Speedway,1.5,paved track,16.0,15.0,92.0,David Gilliland,Black's Tire & Wheel Distributors (Ricky Benton),Ford,133.0,16464.0,running,0.0,0.0
+2015,23,Homestead,Homestead-Miami Speedway,1.5,paved track,17.0,22.0,59.0,David Levine,Furman Univ. / Roush-Yates Engines / Momo (Carlos Lira),Ford,133.0,16355.0,running,0.0,27.0
+2015,23,Homestead,Homestead-Miami Speedway,1.5,paved track,18.0,27.0,7.0,"Ray Black, Jr.",ScubaLife.com / NASE Worldwide (Bobby Dotter),Chevrolet,133.0,18496.0,running,0.0,26.0
+2015,23,Homestead,Homestead-Miami Speedway,1.5,paved track,19.0,23.0,2.0,Tyler Young,Arthur-Krenzel-Lett Insurance Group (Randy Young),Chevrolet,133.0,18386.0,running,0.0,25.0
+2015,23,Homestead,Homestead-Miami Speedway,1.5,paved track,20.0,20.0,15.0,Mason Mingus,Billy Boat Motorsports (Billy Boat),Chevrolet,132.0,18755.0,running,0.0,24.0
+2015,23,Homestead,Homestead-Miami Speedway,1.5,paved track,21.0,25.0,94.0,Timmy Hill,Testoril (Jay Robinson),Chevrolet,132.0,18032.0,running,0.0,23.0
+2015,23,Homestead,Homestead-Miami Speedway,1.5,paved track,22.0,28.0,50.0,Travis Kvapil,CorvetteParts.net (Mark Beaver),Chevrolet,132.0,17758.0,running,0.0,22.0
+2015,23,Homestead,Homestead-Miami Speedway,1.5,paved track,23.0,21.0,58.0,Kyle Weatherman,LifeXist / Massage Luxe (Carlos Lira),Ford,131.0,15372.0,running,0.0,21.0
+2015,23,Homestead,Homestead-Miami Speedway,1.5,paved track,24.0,32.0,1.0,Dexter Stacey,MaddiesPlaceRocks.com (Mark Beaver),Chevrolet,131.0,16044.0,running,0.0,20.0
+2015,23,Homestead,Homestead-Miami Speedway,1.5,paved track,25.0,9.0,54.0,Christopher Bell,JBL.com (Kyle Busch),Toyota,130.0,15976.0,out of fuel,5.0,20.0
+2015,23,Homestead,Homestead-Miami Speedway,1.5,paved track,26.0,24.0,10.0,Jennifer Jo Cobb,UTA.org / Grimes Irrigation & Construction (Jennifer Jo Cobb),Chevrolet,128.0,14607.0,running,0.0,18.0
+2015,23,Homestead,Homestead-Miami Speedway,1.5,paved track,27.0,31.0,8.0,Korbin Forrister,Tilted Kilt (Christopher Long),Chevrolet,127.0,14389.0,running,0.0,17.0
+2015,23,Homestead,Homestead-Miami Speedway,1.5,paved track,28.0,29.0,63.0,Garrett Smithley,Nimitz (Mike Mittler),Chevrolet,126.0,12799.0,running,0.0,16.0
+2015,23,Homestead,Homestead-Miami Speedway,1.5,paved track,29.0,30.0,74.0,Jordan Anderson,"Simmons & White / Columbia, SC (Mike Harmon)",Chevrolet,115.0,12553.0,running,0.0,15.0
+2015,23,Homestead,Homestead-Miami Speedway,1.5,paved track,30.0,6.0,51.0,Daniel Suarez,Arris (Kyle Busch),Toyota,84.0,11553.0,crash,10.0,0.0
+2015,23,Homestead,Homestead-Miami Speedway,1.5,paved track,31.0,17.0,33.0,Brandon Jones,Lucas Oil (Maury Gallagher),Chevrolet,67.0,11053.0,crash,0.0,13.0
+2015,23,Homestead,Homestead-Miami Speedway,1.5,paved track,32.0,26.0,86.0,Brandon Brown,Coastal Carolina University (Jerry Brown),Chevrolet,2.0,9553.0,transmission,0.0,12.0

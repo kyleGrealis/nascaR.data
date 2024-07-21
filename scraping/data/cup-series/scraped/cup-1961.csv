@@ -1,0 +1,1416 @@
+Season,Race,Site,Track,Track_length,Track_type,Pos,St,#,Driver,Sponsor / Owner,Car,Laps,Money,Status,Led
+1961,1,Charlotte,Charlotte Fairgrounds,0.5,dirt track,1.0,11.0,16.0,Joe Weatherly,Doc White,'58 Ford,200.0,800.0,running,40.0
+1961,1,Charlotte,Charlotte Fairgrounds,0.5,dirt track,2.0,2.0,4.0,Rex White,Piedmont / Friendly (Rex White),'59 Chevrolet,200.0,525.0,running,52.0
+1961,1,Charlotte,Charlotte Fairgrounds,0.5,dirt track,3.0,1.0,42.0,Lee Petty,Petty Enterprises,'60 Plymouth,196.0,375.0,running,108.0
+1961,1,Charlotte,Charlotte Fairgrounds,0.5,dirt track,4.0,10.0,87.0,Buck Baker,Thor (Buck Baker),'60 Chevrolet,194.0,275.0,running,0.0
+1961,1,Charlotte,Charlotte Fairgrounds,0.5,dirt track,5.0,5.0,67.0,David Pearson,David Pearson,'59 Chevrolet,190.0,250.0,running,0.0
+1961,1,Charlotte,Charlotte Fairgrounds,0.5,dirt track,6.0,14.0,19.0,Herman Beam,Herman Beam,'60 Ford,183.0,215.0,running,0.0
+1961,1,Charlotte,Charlotte Fairgrounds,0.5,dirt track,7.0,16.0,1.0,Paul Lewis,Faircloth (Jess Potter),'60 Chevrolet,183.0,175.0,running,0.0
+1961,1,Charlotte,Charlotte Fairgrounds,0.5,dirt track,8.0,18.0,74.0,L.D. Austin,L.D. Austin,'58 Chevrolet,174.0,150.0,running,0.0
+1961,1,Charlotte,Charlotte Fairgrounds,0.5,dirt track,9.0,19.0,83.0,Bob Barron,Curtis Crider,'59 Ford,157.0,140.0,running,0.0
+1961,1,Charlotte,Charlotte Fairgrounds,0.5,dirt track,10.0,8.0,23.0,Doug Yates,Raeford Johnson,'59 Plymouth,152.0,130.0,rear end,0.0
+1961,1,Charlotte,Charlotte Fairgrounds,0.5,dirt track,11.0,6.0,43.0,Richard Petty,Petty Enterprises,'60 Plymouth,142.0,125.0,a frame,0.0
+1961,1,Charlotte,Charlotte Fairgrounds,0.5,dirt track,12.0,3.0,61.0,Elmo Langley,Doc White,'59 T-Bird,133.0,110.0,rear end,0.0
+1961,1,Charlotte,Charlotte Fairgrounds,0.5,dirt track,13.0,17.0,35.0,Jimmy Pardue,M.J. Black,'60 Dodge,112.0,100.0,a frame,0.0
+1961,1,Charlotte,Charlotte Fairgrounds,0.5,dirt track,14.0,13.0,17.0,Fred Harb,Fred Harb,'59 Ford,110.0,85.0,oil pressure,0.0
+1961,1,Charlotte,Charlotte Fairgrounds,0.5,dirt track,15.0,4.0,36.0,Tommy Irwin,Tommy Irwin,'59 T-Bird,97.0,70.0,engine mount,0.0
+1961,1,Charlotte,Charlotte Fairgrounds,0.5,dirt track,16.0,7.0,11.0,Ned Jarrett,Courtesy (Ned Jarrett),'60 Ford,60.0,60.0,overheating,0.0
+1961,1,Charlotte,Charlotte Fairgrounds,0.5,dirt track,17.0,15.0,7.0,Buddy Baker,Fred Harb,'59 Ford,59.0,50.0,driveshaft,0.0
+1961,1,Charlotte,Charlotte Fairgrounds,0.5,dirt track,18.0,20.0,27.0,Junior Johnson,Holly Farms (Rex Lovette),'60 Pontiac,35.0,50.0,rr axle,0.0
+1961,1,Charlotte,Charlotte Fairgrounds,0.5,dirt track,19.0,9.0,64.0,Curtis Crider,Spook Crawford,'60 Ford,35.0,50.0,rear end,0.0
+1961,1,Charlotte,Charlotte Fairgrounds,0.5,dirt track,20.0,12.0,59.0,Tom Pistone,B.G. Holloway,'59 Pontiac,17.0,50.0,crankshaft,0.0
+1961,2,Jacksonville,Speedway Park,0.5,dirt track,1.0,13.0,42.0,Lee Petty,Petty Enterprises,'60 Plymouth,200.0,800.0,running,18.0
+1961,2,Jacksonville,Speedway Park,0.5,dirt track,2.0,3.0,2.0,Tommy Irwin,Tommy Irwin,'60 Chevrolet,199.0,525.0,running,166.0
+1961,2,Jacksonville,Speedway Park,0.5,dirt track,3.0,6.0,4.0,Rex White,Piedmont / Friendly (Rex White),'59 Chevrolet,198.0,475.0,running,0.0
+1961,2,Jacksonville,Speedway Park,0.5,dirt track,4.0,8.0,43.0,Richard Petty,Petty Enterprises,'60 Plymouth,197.0,275.0,running,0.0
+1961,2,Jacksonville,Speedway Park,0.5,dirt track,5.0,16.0,23.0,Doug Yates,Raeford Johnson,'59 Plymouth,194.0,250.0,running,0.0
+1961,2,Jacksonville,Speedway Park,0.5,dirt track,6.0,15.0,19.0,Herman Beam,Herman Beam,'60 Ford,191.0,215.0,running,0.0
+1961,2,Jacksonville,Speedway Park,0.5,dirt track,7.0,14.0,16.0,Elmo Langley,Doc White,'59 Pontiac,190.0,175.0,running,0.0
+1961,2,Jacksonville,Speedway Park,0.5,dirt track,8.0,21.0,74.0,L.D. Austin,L.D. Austin,'58 Chevrolet,180.0,150.0,running,0.0
+1961,2,Jacksonville,Speedway Park,0.5,dirt track,9.0,5.0,49.0,Bob Welborn,Bob Welborn,'60 Chevrolet,176.0,140.0,running,1.0
+1961,2,Jacksonville,Speedway Park,0.5,dirt track,10.0,20.0,1.0,Paul Lewis,Faircloth (Jess Potter),'60 Chevrolet,163.0,130.0,rr tire,0.0
+1961,2,Jacksonville,Speedway Park,0.5,dirt track,11.0,2.0,87.0,Buck Baker,Thor (Buck Baker),'60 Chevrolet,137.0,125.0,head gasket,15.0
+1961,2,Jacksonville,Speedway Park,0.5,dirt track,12.0,22.0,7.0,Bob Barron,Bob Barron,'60 Dodge,127.0,110.0,running,0.0
+1961,2,Jacksonville,Speedway Park,0.5,dirt track,13.0,18.0,35.0,Jimmy Pardue,M.J. Black,'59 Plymouth,126.0,100.0,running,0.0
+1961,2,Jacksonville,Speedway Park,0.5,dirt track,14.0,17.0,33.0,Reb Wickersham,Reb Wickersham,'60 Oldsmobile,125.0,85.0,running,0.0
+1961,2,Jacksonville,Speedway Park,0.5,dirt track,15.0,12.0,64.0,Curtis Crider,Curtis Crider,'60 Ford,120.0,70.0,running,0.0
+1961,2,Jacksonville,Speedway Park,0.5,dirt track,16.0,4.0,67.0,David Pearson,David Pearson,'59 Chevrolet,102.0,60.0,running,0.0
+1961,2,Jacksonville,Speedway Park,0.5,dirt track,17.0,7.0,55.0,Jimmy Thompson,–,'59 T-Bird,92.0,50.0,engine,0.0
+1961,2,Jacksonville,Speedway Park,0.5,dirt track,18.0,19.0,83.0,David Ezell,Curtis Crider,'58 Ford,87.0,50.0,wheel,0.0
+1961,2,Jacksonville,Speedway Park,0.5,dirt track,19.0,10.0,11.0,Ned Jarrett,Courtesy (Ned Jarrett),'60 Ford,67.0,50.0,head gasket,0.0
+1961,2,Jacksonville,Speedway Park,0.5,dirt track,20.0,11.0,92.0,Gerald Duke,Gerald Duke,'59 T-Bird,39.0,50.0,overheating,0.0
+1961,2,Jacksonville,Speedway Park,0.5,dirt track,21.0,9.0,17.0,Fred Harb,Fred Harb,'59 Ford,35.0,50.0,overheating,0.0
+1961,2,Jacksonville,Speedway Park,0.5,dirt track,22.0,1.0,27.0,Junior Johnson,Holly Farms (Rex Lovette),'60 Pontiac,4.0,50.0,distributor,0.0
+1961,3,Daytona,Daytona International Speedway,2.5,paved track,1.0,1.0,22.0,Fireball Roberts,Smokey Yunick,'61 Pontiac,39.0,1000.0,running,25
+1961,3,Daytona,Daytona International Speedway,2.5,paved track,2.0,2.0,3.0,Jim Paschal,Daytona Kennel (John Masoni),'61 Pontiac,39.0,600.0,running,–
+1961,3,Daytona,Daytona International Speedway,2.5,paved track,3.0,13.0,47.0,Jack Smith,Jack Smith,'61 Pontiac,39.0,400.0,running,–
+1961,3,Daytona,Daytona International Speedway,2.5,paved track,4.0,11.0,87.0,Buck Baker,Buck Baker,'61 Chrysler,39.0,300.0,running,–
+1961,3,Daytona,Daytona International Speedway,2.5,paved track,5.0,19.0,11.0,Ned Jarrett,Dash-Dash-Dash Corp. (B.G. Holloway),'61 Chevrolet,39.0,275.0,running,–
+1961,3,Daytona,Daytona International Speedway,2.5,paved track,6.0,4.0,72.0,Bobby Johns,Shorty Johns,'61 Ford,39.0,250.0,running,–
+1961,3,Daytona,Daytona International Speedway,2.5,paved track,7.0,8.0,29.0,Nelson Stacy,Holt-Stacy (Dudley Farrell),'61 Ford,39.0,200.0,running,–
+1961,3,Daytona,Daytona International Speedway,2.5,paved track,8.0,6.0,53.0,Bob Burdick,McKenzie (Roy Burdick),'61 Pontiac,39.0,175.0,running,–
+1961,3,Daytona,Daytona International Speedway,2.5,paved track,9.0,7.0,31.0,Paul Goldsmith,Ray Nichels,'61 Pontiac,39.0,150.0,running,–
+1961,3,Daytona,Daytona International Speedway,2.5,paved track,10.0,3.0,27.0,Junior Johnson,Holly Farms (Rex Lovette),'61 Pontiac,38.0,140.0,crash,–
+1961,3,Daytona,Daytona International Speedway,2.5,paved track,11.0,23.0,2.0,Tommy Irwin,Tom Daniels,'60 Chevrolet,38.0,135.0,running,–
+1961,3,Daytona,Daytona International Speedway,2.5,paved track,12.0,18.0,10.0,T.C. Hunt,Fred Wheat,'60 Dodge,38.0,125.0,running,–
+1961,3,Daytona,Daytona International Speedway,2.5,paved track,13.0,10.0,24.0,Roscoe Thompson,James Turner,'60 Pontiac,37.0,115.0,crash,–
+1961,3,Daytona,Daytona International Speedway,2.5,paved track,14.0,5.0,49.0,Bob Welborn,Bob Welborn,'61 Pontiac,37.0,100.0,crash,–
+1961,3,Daytona,Daytona International Speedway,2.5,paved track,15.0,9.0,83.0,Bob Pronger,Meilwain Ford (Jack Meeks),'61 Ford,37.0,85.0,crash,–
+1961,3,Daytona,Daytona International Speedway,2.5,paved track,16.0,14.0,43.0,Richard Petty,Petty Enterprises,'61 Plymouth,37.0,75.0,crash,–
+1961,3,Daytona,Daytona International Speedway,2.5,paved track,17.0,16.0,56.0,Jim Hendrickson,Charles French,'60 Chevrolet,37.0,75.0,crash,–
+1961,3,Daytona,Daytona International Speedway,2.5,paved track,18.0,26.0,62.0,Curtis Crider,Curtis Crider,'60 Ford,37.0,75.0,running,–
+1961,3,Daytona,Daytona International Speedway,2.5,paved track,19.0,20.0,19.0,Herman Beam,Herman Beam,'60 Ford,37.0,50.0,running,–
+1961,3,Daytona,Daytona International Speedway,2.5,paved track,20.0,15.0,76.0,Larry Frank,Dick Wright,'60 Ford,37.0,50.0,running,–
+1961,3,Daytona,Daytona International Speedway,2.5,paved track,21.0,12.0,4.0,Rex White,White-Clements (Rex White),'61 Chevrolet,36.0,50.0,running,–
+1961,3,Daytona,Daytona International Speedway,2.5,paved track,22.0,24.0,30.0,Friday Hassler,Fred Clark,'60 Chevrolet,36.0,50.0,crankshaft,–
+1961,3,Daytona,Daytona International Speedway,2.5,paved track,23.0,30.0,55.0,Ernie Gahan,John Koszela,'59 Chevrolet,36.0,50.0,running,–
+1961,3,Daytona,Daytona International Speedway,2.5,paved track,24.0,29.0,60.0,George Tet,Tetsuo Fuchigami,'60 Ford,36.0,50.0,running,–
+1961,3,Daytona,Daytona International Speedway,2.5,paved track,25.0,32.0,64.0,Paul Parks,Spook Crawford,'60 Ford,35.0,,running,–
+1961,3,Daytona,Daytona International Speedway,2.5,paved track,26.0,27.0,88.0,Harlan Richardson,Jim White,'61 Ford,34.0,,running,–
+1961,3,Daytona,Daytona International Speedway,2.5,paved track,27.0,25.0,63.0,Pete Boland,Pete Boland,'60 Ford,32.0,,crash,–
+1961,3,Daytona,Daytona International Speedway,2.5,paved track,28.0,34.0,41.0,Charlie Chapman,Charlie Chapman,'60 Ford,32.0,,running,–
+1961,3,Daytona,Daytona International Speedway,2.5,paved track,29.0,33.0,39.0,Marshall Sargent,Marshall Sargent,'59 Pontiac,21.0,,crash,–
+1961,3,Daytona,Daytona International Speedway,2.5,paved track,30.0,17.0,37.0,Joe Kelly,Don House,'61 Ford,12.0,,crash,–
+1961,3,Daytona,Daytona International Speedway,2.5,paved track,31.0,31.0,38.0,Ed Markstellar,Matt DeMatthews,'61 Ford,8.0,,crash,–
+1961,3,Daytona,Daytona International Speedway,2.5,paved track,32.0,28.0,57.0,Wes Morgan,J.I. Divers,'60 Chevrolet,7.0,,crash,–
+1961,3,Daytona,Daytona International Speedway,2.5,paved track,33.0,22.0,18.0,Darrell Dake,Weldon Wagner,'61 Chevrolet,7.0,,crash,–
+1961,3,Daytona,Daytona International Speedway,2.5,paved track,34.0,21.0,0.0,Dave Mader,Dave Mader,'61 Chevrolet,6.0,,crash,–
+1961,4,Daytona,Daytona International Speedway,2.5,paved track,1.0,1.0,8.0,Joe Weatherly,Bud Moore,'61 Pontiac,40.0,1000.0,running,3.0
+1961,4,Daytona,Daytona International Speedway,2.5,paved track,2.0,5.0,20.0,Marvin Panch,Smokey Yunick,'60 Pontiac,40.0,600.0,running,0.0
+1961,4,Daytona,Daytona International Speedway,2.5,paved track,3.0,3.0,6.0,Cotton Owens,Cotton Owens,'61 Pontiac,40.0,400.0,running,0.0
+1961,4,Daytona,Daytona International Speedway,2.5,paved track,4.0,4.0,94.0,Banjo Matthews,Warrior Motel (Banjo Matthews),'61 Ford,39.0,300.0,crash,22.0
+1961,4,Daytona,Daytona International Speedway,2.5,paved track,5.0,12.0,32.0,Darel Dieringer,Ray Nichels,'61 Pontiac,39.0,275.0,running,0.0
+1961,4,Daytona,Daytona International Speedway,2.5,paved track,6.0,20.0,89.0,Joe Lee Johnson,Joe Lee Johnson,'61 Chevrolet,39.0,250.0,running,0.0
+1961,4,Daytona,Daytona International Speedway,2.5,paved track,7.0,16.0,85.0,Emanuel Zervakis,Toots Transfer (Monroe Shook),'61 Chevrolet,39.0,200.0,running,0.0
+1961,4,Daytona,Daytona International Speedway,2.5,paved track,8.0,22.0,7.0,Jim Reed,Jim Reed,'61 Chevrolet,39.0,175.0,running,0.0
+1961,4,Daytona,Daytona International Speedway,2.5,paved track,9.0,6.0,59.0,Tom Pistone,B.G. Holloway,'61 Pontiac,38.0,150.0,running,0.0
+1961,4,Daytona,Daytona International Speedway,2.5,paved track,10.0,9.0,75.0,Don Odell,J.D. Braswell,'61 Pontiac,38.0,140.0,running,0.0
+1961,4,Daytona,Daytona International Speedway,2.5,paved track,11.0,10.0,65.0,Charlie Glotzbach,Melvin Black,'61 Pontiac,38.0,135.0,running,0.0
+1961,4,Daytona,Daytona International Speedway,2.5,paved track,12.0,25.0,54.0,Jimmy Pardue,Jimmy Pardue,'60 Chevrolet,38.0,125.0,running,0.0
+1961,4,Daytona,Daytona International Speedway,2.5,paved track,13.0,13.0,91.0,Robert Roeber,R.G. Henschel,'60 Pontiac,38.0,115.0,running,0.0
+1961,4,Daytona,Daytona International Speedway,2.5,paved track,14.0,21.0,86.0,Buddy Baker,Buck Baker,'61 Chrysler,38.0,100.0,running,0.0
+1961,4,Daytona,Daytona International Speedway,2.5,paved track,15.0,15.0,42.0,Lee Petty,Petty Enterprises,'61 Plymouth,37.0,85.0,crash,0.0
+1961,4,Daytona,Daytona International Speedway,2.5,paved track,16.0,24.0,73.0,Johnny Beauchamp,Dale Swanson,'61 Chevrolet,37.0,75.0,crash,0.0
+1961,4,Daytona,Daytona International Speedway,2.5,paved track,17.0,8.0,66.0,David Pearson,Tony Lavati,'61 Pontiac,37.0,75.0,running,0.0
+1961,4,Daytona,Daytona International Speedway,2.5,paved track,18.0,28.0,52.0,Tom Dill,Julian Buesink,'61 Ford,37.0,75.0,running,0.0
+1961,4,Daytona,Daytona International Speedway,2.5,paved track,19.0,26.0,68.0,Ed Livingston,Curtis Crider,'60 Ford,37.0,50.0,running,0.0
+1961,4,Daytona,Daytona International Speedway,2.5,paved track,20.0,29.0,40.0,Bobby Allison,Ralph Stark,'60 Chevrolet,37.0,50.0,running,0.0
+1961,4,Daytona,Daytona International Speedway,2.5,paved track,21.0,27.0,16.0,Elmo Langley,Happy Steigel,'59 Pontiac,36.0,50.0,running,0.0
+1961,4,Daytona,Daytona International Speedway,2.5,paved track,22.0,30.0,33.0,Reb Wickersham,Reb Wickersham,'60 Oldsmobile,36.0,50.0,running,0.0
+1961,4,Daytona,Daytona International Speedway,2.5,paved track,23.0,33.0,50.0,Ken Johnson,Charles French,'60 Ford,33.0,50.0,running,0.0
+1961,4,Daytona,Daytona International Speedway,2.5,paved track,24.0,31.0,15.0,Red Hollingsworth,Red Hollingsworth,'60 Chevrolet,33.0,50.0,running,0.0
+1961,4,Daytona,Daytona International Speedway,2.5,paved track,25.0,18.0,23.0,Sal Tovella,Bob Rose,'61 Ford,27.0,,running,0.0
+1961,4,Daytona,Daytona International Speedway,2.5,paved track,26.0,2.0,21.0,Curtis Turner,Courtesy (Wood Brothers),'61 Ford,21.0,,–,15.0
+1961,4,Daytona,Daytona International Speedway,2.5,paved track,27.0,23.0,1.0,Paul Lewis,Jess Potter,'61 Chevrolet,14.0,,–,0.0
+1961,4,Daytona,Daytona International Speedway,2.5,paved track,28.0,11.0,80.0,Tubby Gonzales,Independent Garageman's Association (Tubby Gonzales),'61 Ford,9.0,,–,0.0
+1961,4,Daytona,Daytona International Speedway,2.5,paved track,29.0,19.0,99.0,Wilbur Rakestraw,Joe Jones,'61 Ford,8.0,,–,0.0
+1961,4,Daytona,Daytona International Speedway,2.5,paved track,30.0,14.0,69.0,Johnny Allen,B.G. Holloway,'61 Chevrolet,6.0,,–,0.0
+1961,4,Daytona,Daytona International Speedway,2.5,paved track,31.0,32.0,36.0,Frank Secrist,Warner Brothers,'60 Ford,4.0,,–,0.0
+1961,4,Daytona,Daytona International Speedway,2.5,paved track,32.0,7.0,78.0,Brian Naylor,Fred Lovette,'60 Pontiac,1.0,,–,0.0
+1961,4,Daytona,Daytona International Speedway,2.5,paved track,33.0,17.0,77.0,Buzz McCann,McCann's Auto (Buzz McCann),'61 Ford,1.0,,–,0.0
+1961,5,Daytona,Daytona International Speedway,2.5,paved track,1.0,4.0,20.0,Marvin Panch,Smokey Yunick,'60 Pontiac,200.0,21050.0,running,13.0
+1961,5,Daytona,Daytona International Speedway,2.5,paved track,2.0,2.0,8.0,Joe Weatherly,Stephens Pontiac (Bud Moore),'61 Pontiac,200.0,9150.0,running,0.0
+1961,5,Daytona,Daytona International Speedway,2.5,paved track,3.0,17.0,31.0,Paul Goldsmith,Diesi Pontiac (Ray Nichels),'61 Pontiac,200.0,5900.0,running,0.0
+1961,5,Daytona,Daytona International Speedway,2.5,paved track,4.0,45.0,80.0,Fred Lorenzen,Independent Garageman's Association (Tubby Gonzales),'61 Ford,198.0,3825.0,running,0.0
+1961,5,Daytona,Daytona International Speedway,2.5,paved track,5.0,6.0,6.0,Cotton Owens,Hedges Pontiac (Cotton Owens),'61 Pontiac,198.0,2975.0,running,0.0
+1961,5,Daytona,Daytona International Speedway,2.5,paved track,6.0,5.0,47.0,Jack Smith,Jack Smith,'61 Pontiac,197.0,2075.0,running,0.0
+1961,5,Daytona,Daytona International Speedway,2.5,paved track,7.0,9.0,11.0,Ned Jarrett,Dash-Dash-Dash Corp. (B.G. Holloway),'61 Chevrolet,196.0,1550.0,running,0.0
+1961,5,Daytona,Daytona International Speedway,2.5,paved track,8.0,47.0,69.0,Johnny Allen,Win-Win-Win Corp. (B.G. Holloway),'61 Chevrolet,196.0,1050.0,running,0.0
+1961,5,Daytona,Daytona International Speedway,2.5,paved track,9.0,7.0,87.0,Buck Baker,Buck Baker,'61 Chrysler,196.0,850.0,running,0.0
+1961,5,Daytona,Daytona International Speedway,2.5,paved track,10.0,18.0,59.0,Tom Pistone,Go-Go-Go Corporation (B.G. Holloway),'61 Pontiac,196.0,750.0,running,0.0
+1961,5,Daytona,Daytona International Speedway,2.5,paved track,11.0,29.0,49.0,Bob Welborn,Bob Welborn,'61 Pontiac,194.0,600.0,running,0.0
+1961,5,Daytona,Daytona International Speedway,2.5,paved track,12.0,41.0,4.0,Rex White,Rex White,'61 Chevrolet,194.0,500.0,running,0.0
+1961,5,Daytona,Daytona International Speedway,2.5,paved track,13.0,16.0,7.0,Jim Reed,Royal Beach Motel (Jim Reed),'61 Chevrolet,194.0,400.0,running,0.0
+1961,5,Daytona,Daytona International Speedway,2.5,paved track,14.0,46.0,23.0,Sal Tovella,Sterling Harris Ford (Bob Rose),'61 Ford,191.0,350.0,running,0.0
+1961,5,Daytona,Daytona International Speedway,2.5,paved track,15.0,22.0,65.0,Charlie Glotzbach,Melvin Black,'61 Pontiac,191.0,350.0,running,0.0
+1961,5,Daytona,Daytona International Speedway,2.5,paved track,16.0,10.0,32.0,Darel Dieringer,Ray Nichels,'61 Pontiac,191.0,325.0,running,0.0
+1961,5,Daytona,Daytona International Speedway,2.5,paved track,17.0,32.0,52.0,Tom Dill,Julian Buesink,'61 Ford,190.0,325.0,running,0.0
+1961,5,Daytona,Daytona International Speedway,2.5,paved track,18.0,14.0,85.0,Emanuel Zervakis,Toots Transfer (Monroe Shook),'61 Chevrolet,189.0,300.0,running,0.0
+1961,5,Daytona,Daytona International Speedway,2.5,paved track,19.0,49.0,37.0,Joe Kelly,Don House,'61 Ford,188.0,300.0,running,0.0
+1961,5,Daytona,Daytona International Speedway,2.5,paved track,20.0,1.0,22.0,Fireball Roberts,Smokey Yunick,'61 Pontiac,187.0,4750.0,engine,170.0
+1961,5,Daytona,Daytona International Speedway,2.5,paved track,21.0,30.0,66.0,David Pearson,Tony Lavati,'61 Pontiac,186.0,200.0,running,0.0
+1961,5,Daytona,Daytona International Speedway,2.5,paved track,22.0,37.0,30.0,Friday Hassler,Fred Clark,'60 Chevrolet,186.0,200.0,running,0.0
+1961,5,Daytona,Daytona International Speedway,2.5,paved track,23.0,57.0,41.0,Elmo Henderson,Charlie Chapman,'60 Ford,184.0,200.0,running,0.0
+1961,5,Daytona,Daytona International Speedway,2.5,paved track,24.0,31.0,83.0,Tim Flock,Meilwain Ford (Jack Meeks),'61 Ford,184.0,200.0,running,0.0
+1961,5,Daytona,Daytona International Speedway,2.5,paved track,25.0,38.0,16.0,Elmo Langley,Happy Steigel,'59 Pontiac,184.0,200.0,running,0.0
+1961,5,Daytona,Daytona International Speedway,2.5,paved track,26.0,50.0,88.0,Harlan Richardson,Royal Beach Motel (Jim White),'61 Ford,184.0,200.0,running,0.0
+1961,5,Daytona,Daytona International Speedway,2.5,paved track,27.0,8.0,94.0,Banjo Matthews,Warrior Motel (Banjo Matthews),'61 Ford,181.0,250.0,crash,3.0
+1961,5,Daytona,Daytona International Speedway,2.5,paved track,28.0,26.0,91.0,Robert Roeber,R.G. Henschel,'60 Pontiac,180.0,200.0,running,0.0
+1961,5,Daytona,Daytona International Speedway,2.5,paved track,29.0,34.0,68.0,Ed Livingston,Curtis Crider,'60 Ford,177.0,200.0,running,0.0
+1961,5,Daytona,Daytona International Speedway,2.5,paved track,30.0,24.0,54.0,Jimmy Pardue,Fred Gaddy (Jimmy Pardue),'60 Chevrolet,176.0,200.0,engine,0.0
+1961,5,Daytona,Daytona International Speedway,2.5,paved track,31.0,36.0,40.0,Bobby Allison,Ralph Stark,'60 Chevrolet,175.0,200.0,running,0.0
+1961,5,Daytona,Daytona International Speedway,2.5,paved track,32.0,53.0,64.0,Paul Parks,Spook Crawford,'60 Ford,173.0,200.0,running,0.0
+1961,5,Daytona,Daytona International Speedway,2.5,paved track,33.0,27.0,24.0,Roscoe Thompson,James Turner,'60 Pontiac,169.0,200.0,timing chain,0.0
+1961,5,Daytona,Daytona International Speedway,2.5,paved track,34.0,39.0,19.0,Herman Beam,Herman Beam,'60 Ford,167.0,200.0,running,0.0
+1961,5,Daytona,Daytona International Speedway,2.5,paved track,35.0,40.0,33.0,Reb Wickersham,Flying Rebel Racing (Reb Wickersham),'60 Oldsmobile,158.0,200.0,engine,0.0
+1961,5,Daytona,Daytona International Speedway,2.5,paved track,36.0,15.0,53.0,Bob Burdick,McKenzie (Roy Burdick),'61 Pontiac,157.0,200.0,engine,0.0
+1961,5,Daytona,Daytona International Speedway,2.5,paved track,37.0,12.0,89.0,Joe Lee Johnson,Adcox-Kirby Chevrolet (Joe Lee Johnson),'61 Chevrolet,153.0,200.0,engine,0.0
+1961,5,Daytona,Daytona International Speedway,2.5,paved track,38.0,25.0,76.0,Larry Frank,Dick Wright,'60 Ford,152.0,200.0,fuel pump,0.0
+1961,5,Daytona,Daytona International Speedway,2.5,paved track,39.0,48.0,1.0,Paul Lewis,Scruggs Automotive (Jess Potter),'61 Chevrolet,149.0,200.0,running,0.0
+1961,5,Daytona,Daytona International Speedway,2.5,paved track,40.0,28.0,86.0,Buddy Baker,Buck Baker,'61 Chrysler,145.0,200.0,running,0.0
+1961,5,Daytona,Daytona International Speedway,2.5,paved track,41.0,54.0,39.0,Marshall Sargent,Marshall Sargent,'59 Pontiac,115.0,200.0,transmission,0.0
+1961,5,Daytona,Daytona International Speedway,2.5,paved track,42.0,58.0,36.0,Brian Naylor,Warner Brothers,'60 Ford,85.0,200.0,engine,0.0
+1961,5,Daytona,Daytona International Speedway,2.5,paved track,43.0,56.0,38.0,Ed Markstellar,Bunnell Motor Co. (Matt DeMatthews),'61 Ford,81.0,200.0,oil leak,0.0
+1961,5,Daytona,Daytona International Speedway,2.5,paved track,44.0,13.0,29.0,Nelson Stacy,Holt-Stacy (Dudley Farrell),'61 Ford,79.0,200.0,engine,7.0
+1961,5,Daytona,Daytona International Speedway,2.5,paved track,45.0,19.0,2.0,Tommy Irwin,Tom Daniels,'60 Chevrolet,67.0,200.0,engine,0.0
+1961,5,Daytona,Daytona International Speedway,2.5,paved track,46.0,35.0,18.0,Darrell Dake,Weldon Wagner,'61 Chevrolet,47.0,200.0,fuel pump,0.0
+1961,5,Daytona,Daytona International Speedway,2.5,paved track,47.0,43.0,27.0,Junior Johnson,Holly Farms (Rex Lovette),'60 Pontiac,44.0,300.0,engine,7.0
+1961,5,Daytona,Daytona International Speedway,2.5,paved track,48.0,51.0,15.0,Red Hollingsworth,Red Hollingsworth,'60 Chevrolet,35.0,200.0,rocker arm,0.0
+1961,5,Daytona,Daytona International Speedway,2.5,paved track,49.0,3.0,3.0,Jim Paschal,Daytona Kennel (John Masoni),'61 Pontiac,30.0,200.0,seal,0.0
+1961,5,Daytona,Daytona International Speedway,2.5,paved track,50.0,11.0,72.0,Bobby Johns,Shorty Johns,'61 Ford,26.0,200.0,overheating,0.0
+1961,5,Daytona,Daytona International Speedway,2.5,paved track,51.0,55.0,60.0,George Tet,Tetsuo Fuchigami,'60 Ford,24.0,200.0,valve,0.0
+1961,5,Daytona,Daytona International Speedway,2.5,paved track,52.0,21.0,10.0,T.C. Hunt,Fred Wheat,'60 Dodge,23.0,200.0,engine,0.0
+1961,5,Daytona,Daytona International Speedway,2.5,paved track,53.0,23.0,62.0,Curtis Crider,Curtis Crider,'60 Ford,12.0,200.0,oil pressure,0.0
+1961,5,Daytona,Daytona International Speedway,2.5,paved track,54.0,20.0,75.0,Don Odell,J.D. Braswell,'61 Pontiac,10.0,200.0,bearing,0.0
+1961,5,Daytona,Daytona International Speedway,2.5,paved track,55.0,33.0,21.0,Curtis Turner,Courtesy (Wood Brothers),'61 Ford,6.0,200.0,engine,0.0
+1961,5,Daytona,Daytona International Speedway,2.5,paved track,56.0,44.0,99.0,Wilbur Rakestraw,Joe Jones,'61 Ford,5.0,200.0,engine,0.0
+1961,5,Daytona,Daytona International Speedway,2.5,paved track,57.0,52.0,55.0,Ernie Gahan,Air Lift (John Koszela),'59 Chevrolet,3.0,200.0,water pump,0.0
+1961,5,Daytona,Daytona International Speedway,2.5,paved track,58.0,42.0,50.0,Ken Johnson,James French,'60 Ford,3.0,200.0,head gasket,0.0
+1961,6,Spartanburg,Piedmont Interstate Fairgrounds,0.5,dirt track,1.0,4.0,5.0,Cotton Owens,Justus Pontiac (Cotton Owens),'60 Pontiac,200.0,800.0,running,25.0
+1961,6,Spartanburg,Piedmont Interstate Fairgrounds,0.5,dirt track,2.0,3.0,43.0,Richard Petty,Petty Enterprises,'60 Plymouth,199.0,525.0,running,0.0
+1961,6,Spartanburg,Piedmont Interstate Fairgrounds,0.5,dirt track,3.0,6.0,67.0,David Pearson,David Pearson,'60 Chevrolet,197.0,375.0,running,0.0
+1961,6,Spartanburg,Piedmont Interstate Fairgrounds,0.5,dirt track,4.0,15.0,54.0,Jimmy Pardue,Jimmy Pardue,'59 Chevrolet,195.0,275.0,running,0.0
+1961,6,Spartanburg,Piedmont Interstate Fairgrounds,0.5,dirt track,5.0,12.0,23.0,Doug Yates,Raeford Johnson,'59 Plymouth,193.0,250.0,running,0.0
+1961,6,Spartanburg,Piedmont Interstate Fairgrounds,0.5,dirt track,6.0,10.0,55.0,Ernie Gahan,John Koszela,'59 Chevrolet,192.0,215.0,crash,0.0
+1961,6,Spartanburg,Piedmont Interstate Fairgrounds,0.5,dirt track,7.0,5.0,4.0,Rex White,Rex White,'60 Chevrolet,188.0,275.0,running,0.0
+1961,6,Spartanburg,Piedmont Interstate Fairgrounds,0.5,dirt track,8.0,11.0,19.0,Herman Beam,Herman Beam,'60 Ford,187.0,150.0,running,0.0
+1961,6,Spartanburg,Piedmont Interstate Fairgrounds,0.5,dirt track,9.0,14.0,97.0,Harry Leake,Harry Leake,'59 Chevrolet,183.0,140.0,running,0.0
+1961,6,Spartanburg,Piedmont Interstate Fairgrounds,0.5,dirt track,10.0,2.0,27.0,Junior Johnson,Holly Farms (Rex Lovette),'60 Pontiac,182.0,130.0,fuel line,175.0
+1961,6,Spartanburg,Piedmont Interstate Fairgrounds,0.5,dirt track,11.0,7.0,62.0,Curtis Crider,Curtis Crider,'60 Ford,180.0,125.0,running,0.0
+1961,6,Spartanburg,Piedmont Interstate Fairgrounds,0.5,dirt track,12.0,17.0,7.0,E.J. Trivette,M.J. Black,'59 Plymouth,173.0,110.0,running,0.0
+1961,6,Spartanburg,Piedmont Interstate Fairgrounds,0.5,dirt track,13.0,13.0,2.0,Tommy Irwin,Tom Daniels,'60 Chevrolet,162.0,100.0,sway bar,0.0
+1961,6,Spartanburg,Piedmont Interstate Fairgrounds,0.5,dirt track,14.0,16.0,68.0,Ed Livingston,Curtis Crider,'60 Ford,133.0,85.0,wheel,0.0
+1961,6,Spartanburg,Piedmont Interstate Fairgrounds,0.5,dirt track,15.0,18.0,65.0,Charlie Glotzbach,Melvin Black,'59 Chevrolet,92.0,70.0,carb fire,0.0
+1961,6,Spartanburg,Piedmont Interstate Fairgrounds,0.5,dirt track,16.0,1.0,11.0,Ned Jarrett,B.G. Holloway,'60 Ford,54.0,60.0,oil pressure,0.0
+1961,6,Spartanburg,Piedmont Interstate Fairgrounds,0.5,dirt track,17.0,9.0,87.0,Wendell Scott,Wendell Scott,'60 Chevrolet,52.0,50.0,oil pressure,0.0
+1961,6,Spartanburg,Piedmont Interstate Fairgrounds,0.5,dirt track,18.0,8.0,17.0,Fred Harb,Fred Harb,'59 Ford,29.0,50.0,overheating,0.0
+1961,7,Weaverville,Asheville-Weaverville Speedway,0.5,paved track,1.0,1.0,4.0,Rex White,Rex White,'61 Chevrolet,200.0,900.0,running,200.0
+1961,7,Weaverville,Asheville-Weaverville Speedway,0.5,paved track,2.0,4.0,5.0,Cotton Owens,Cotton Owens,'60 Pontiac,200.0,525.0,running,0.0
+1961,7,Weaverville,Asheville-Weaverville Speedway,0.5,paved track,3.0,9.0,11.0,Ned Jarrett,B.G. Holloway,'60 Ford,200.0,375.0,running,0.0
+1961,7,Weaverville,Asheville-Weaverville Speedway,0.5,paved track,4.0,10.0,43.0,Richard Petty,Petty Enterprises,'60 Plymouth,196.0,275.0,running,0.0
+1961,7,Weaverville,Asheville-Weaverville Speedway,0.5,paved track,5.0,5.0,85.0,Emanuel Zervakis,Monroe Shook,'61 Chevrolet,194.0,250.0,running,0.0
+1961,7,Weaverville,Asheville-Weaverville Speedway,0.5,paved track,6.0,8.0,54.0,Jimmy Pardue,Jimmy Pardue,'59 Chevrolet,194.0,215.0,running,0.0
+1961,7,Weaverville,Asheville-Weaverville Speedway,0.5,paved track,7.0,12.0,23.0,Doug Yates,Raeford Johnson,'59 Plymouth,191.0,175.0,running,0.0
+1961,7,Weaverville,Asheville-Weaverville Speedway,0.5,paved track,8.0,13.0,1.0,Paul Lewis,Jess Potter,'61 Chevrolet,190.0,150.0,running,0.0
+1961,7,Weaverville,Asheville-Weaverville Speedway,0.5,paved track,9.0,11.0,19.0,Herman Beam,Herman Beam,'60 Ford,186.0,140.0,running,0.0
+1961,7,Weaverville,Asheville-Weaverville Speedway,0.5,paved track,10.0,15.0,7.0,E.J. Trivette,M.J. Black,'59 Plymouth,135.0,130.0,rr axle,0.0
+1961,7,Weaverville,Asheville-Weaverville Speedway,0.5,paved track,11.0,2.0,27.0,Junior Johnson,Holly Farms (Rex Lovette),'60 Pontiac,91.0,125.0,rear end,0.0
+1961,7,Weaverville,Asheville-Weaverville Speedway,0.5,paved track,12.0,6.0,89.0,Joe Lee Johnson,Joe Lee Johnson,'61 Chevrolet,87.0,110.0,crankshaft,0.0
+1961,7,Weaverville,Asheville-Weaverville Speedway,0.5,paved track,13.0,3.0,42.0,Jim Paschal,Petty Enterprises,'60 Plymouth,25.0,100.0,steering,0.0
+1961,7,Weaverville,Asheville-Weaverville Speedway,0.5,paved track,14.0,7.0,2.0,Tommy Irwin,Tom Daniels,'60 Chevrolet,25.0,85.0,engine,0.0
+1961,7,Weaverville,Asheville-Weaverville Speedway,0.5,paved track,15.0,14.0,68.0,Curtis Crider,Curtis Crider,'60 Ford,3.0,70.0,crash,0.0
+1961,8,Hanford,Marchbanks Speedway,1.4,paved track,1.0,2.0,75,Fireball Roberts,J.D. Braswell,'61 Pontiac,178.0,2000.0,running,178.0
+1961,8,Hanford,Marchbanks Speedway,1.4,paved track,2.0,3.0,98,Eddie Gray,Eddie Gray,'61 Ford,176.0,1250.0,running,0.0
+1961,8,Hanford,Marchbanks Speedway,1.4,paved track,3.0,33.0,76,Danny Letner,Guy Kimball,'61 Ford,175.0,750.0,running,0.0
+1961,8,Hanford,Marchbanks Speedway,1.4,paved track,4.0,28.0,80,Tubby Gonzales,Tubby Gonzales,'61 Ford,168.0,600.0,running,0.0
+1961,8,Hanford,Marchbanks Speedway,1.4,paved track,5.0,7.0,45,Eddie Pagan,Bill Clinton,'61 Ford,168.0,575.0,running,0.0
+1961,8,Hanford,Marchbanks Speedway,1.4,paved track,6.0,14.0,47,Rex White,Rex White,'60 Chevrolet,167.0,550.0,running,0.0
+1961,8,Hanford,Marchbanks Speedway,1.4,paved track,7.0,18.0,0,Jim Cook,Floyd Johnson,'60 Dodge,166.0,525.0,running,0.0
+1961,8,Hanford,Marchbanks Speedway,1.4,paved track,8.0,6.0,4,Scotty Cain,Scotty Cain,'60 T-Bird,165.0,500.0,running,0.0
+1961,8,Hanford,Marchbanks Speedway,1.4,paved track,9.0,5.0,44,Lloyd Dane,Lloyd Dane,'61 Chevrolet,165.0,450.0,running,0.0
+1961,8,Hanford,Marchbanks Speedway,1.4,paved track,10.0,36.0,84,Bob Perry,Bob Perry,'60 Ford,159.0,425.0,running,0.0
+1961,8,Hanford,Marchbanks Speedway,1.4,paved track,11.0,23.0,77,Dick Santee,–,'59 Ford,159.0,400.0,running,0.0
+1961,8,Hanford,Marchbanks Speedway,1.4,paved track,12.0,10.0,7,Don Noel,Chuck Parkko,'61 Ford,157.0,400.0,oil pressure,0.0
+1961,8,Hanford,Marchbanks Speedway,1.4,paved track,13.0,25.0,91,Dick Cook,Jack Chatenay,'60 Plymouth,157.0,350.0,running,0.0
+1961,8,Hanford,Marchbanks Speedway,1.4,paved track,14.0,4.0,36,Frank Secrist,Warner Brothers,'60 Ford,146.0,350.0,running,0.0
+1961,8,Hanford,Marchbanks Speedway,1.4,paved track,15.0,34.0,00,Dick Getty,Dick Getty,'59 Chevrolet,135.0,300.0,running,0.0
+1961,8,Hanford,Marchbanks Speedway,1.4,paved track,16.0,27.0,20,Jack Norton,William Peach,'59 Chevrolet,134.0,300.0,running,0.0
+1961,8,Hanford,Marchbanks Speedway,1.4,paved track,17.0,12.0,61N,Dick Bown,Dick Bown,'59 Chevrolet,133.0,250.0,running,0.0
+1961,8,Hanford,Marchbanks Speedway,1.4,paved track,18.0,19.0,15,Marvin Heinis,–,'60 Ford,130.0,200.0,engine,0.0
+1961,8,Hanford,Marchbanks Speedway,1.4,paved track,19.0,31.0,38,Mike Saathoff,–,'59 Edsel,129.0,200.0,running,0.0
+1961,8,Hanford,Marchbanks Speedway,1.4,paved track,20.0,13.0,26N,Carl Joiner,Dean Thorne,'61 Chevrolet,125.0,100.0,running,0.0
+1961,8,Hanford,Marchbanks Speedway,1.4,paved track,21.0,29.0,11,Dick Carter,Jack Chatenay,'60 Plymouth,119.0,100.0,engine,0.0
+1961,8,Hanford,Marchbanks Speedway,1.4,paved track,22.0,17.0,14,Ed Negre,–,'59 Ford,116.0,100.0,engine,0.0
+1961,8,Hanford,Marchbanks Speedway,1.4,paved track,23.0,16.0,16,Danny Weinberg,Guy Kimball,'61 Ford,113.0,100.0,crash,0.0
+1961,8,Hanford,Marchbanks Speedway,1.4,paved track,24.0,21.0,10,Jim Blomgren,Bob Smith,'60 Ford,107.0,100.0,rear end,0.0
+1961,8,Hanford,Marchbanks Speedway,1.4,paved track,25.0,11.0,46,Marvin Porter,–,'60 Oldsmobile,95.0,100.0,lugs,0.0
+1961,8,Hanford,Marchbanks Speedway,1.4,paved track,26.0,8.0,22N,Art Watts,Art Watts,'60 Ford,85.0,100.0,engine,0.0
+1961,8,Hanford,Marchbanks Speedway,1.4,paved track,27.0,12.0,5,Bruce Worrell,Bob Smith,'60 Ford,66.0,100.0,rear end,0.0
+1961,8,Hanford,Marchbanks Speedway,1.4,paved track,28.0,15.0,94,Banjo Matthews,Banjo Matthews,'61 Ford,66.0,100.0,brakes,0.0
+1961,8,Hanford,Marchbanks Speedway,1.4,paved track,29.0,32.0,88,Harlan Richardson,Jim White,'61 Ford,44.0,100.0,engine,0.0
+1961,8,Hanford,Marchbanks Speedway,1.4,paved track,30.0,20.0,41,Charlie Chapman,Charlie Chapman,'60 Ford,35.0,100.0,fuel pump,0.0
+1961,8,Hanford,Marchbanks Speedway,1.4,paved track,31.0,9.0,2,Ron Hornaday,Frank Galpin,'60 Ford,34.0,,engine,0.0
+1961,8,Hanford,Marchbanks Speedway,1.4,paved track,32.0,30.0,23,Tom Guffey,Bob Perry,'59 Plymouth,29.0,,handling,0.0
+1961,8,Hanford,Marchbanks Speedway,1.4,paved track,33.0,35.0,12,Chuck Webb,Dick Wearing,'59 Ford,23.0,,rear end,0.0
+1961,8,Hanford,Marchbanks Speedway,1.4,paved track,34.0,1.0,51,Bob Ross,Bob Ross,'60 Ford,13.0,,crash,0.0
+1961,8,Hanford,Marchbanks Speedway,1.4,paved track,35.0,26.0,25,Al Brand,Jim McNeil,'60 Ford,11.0,,piston,0.0
+1961,8,Hanford,Marchbanks Speedway,1.4,paved track,36.0,24.0,17,Brownie Brown,Jay George,'59 Ford,6.0,,engine,0.0
+1961,9,Atlanta,Atlanta International Raceway,1.5,paved track,1.0,7.0,53.0,Bob Burdick,Roy Burdick,'61 Pontiac,334.0,15775.0,running,44.0
+1961,9,Atlanta,Atlanta International Raceway,1.5,paved track,2.0,4.0,4.0,Rex White,White-Clements (Rex White),'61 Chevrolet,334.0,8850.0,running,0.0
+1961,9,Atlanta,Atlanta International Raceway,1.5,paved track,3.0,13.0,6.0,Ralph Earnhardt,Hedge's Pontiac (Cotton Owens),'61 Pontiac,334.0,4850.0,running,0.0
+1961,9,Atlanta,Atlanta International Raceway,1.5,paved track,4.0,17.0,29.0,Nelson Stacy,Holt-Stacy (Dudley Farrell),'61 Ford,333.0,2475.0,running,0.0
+1961,9,Atlanta,Atlanta International Raceway,1.5,paved track,5.0,18.0,11.0,Ned Jarrett,B.G. Holloway,'61 Chevrolet,332.0,1775.0,running,0.0
+1961,9,Atlanta,Atlanta International Raceway,1.5,paved track,6.0,1.0,3.0,Marvin Panch,Daytona Kennel (John Masoni),'61 Pontiac,329.0,3035.0,running,127.0
+1961,9,Atlanta,Atlanta International Raceway,1.5,paved track,7.0,24.0,66.0,Reds Kagle,Cafe Burgundy (Ratus Walters),'60 Ford,326.0,1125.0,running,0.0
+1961,9,Atlanta,Atlanta International Raceway,1.5,paved track,8.0,14.0,59.0,Tom Pistone,B.G. Holloway,'61 Pontiac,325.0,1100.0,running,0.0
+1961,9,Atlanta,Atlanta International Raceway,1.5,paved track,9.0,19.0,85.0,Emanuel Zervakis,Monroe Shook,'61 Chevrolet,322.0,825.0,running,0.0
+1961,9,Atlanta,Atlanta International Raceway,1.5,paved track,10.0,21.0,2.0,Tommy Irwin,Tom Daniels,'60 Chevrolet,315.0,775.0,fuel,0.0
+1961,9,Atlanta,Atlanta International Raceway,1.5,paved track,11.0,12.0,54.0,Jimmy Pardue,Jimmy Pardue,'60 Chevrolet,312.0,700.0,running,0.0
+1961,9,Atlanta,Atlanta International Raceway,1.5,paved track,12.0,15.0,7.0,Jim Reed,Jim Reed,'61 Chevrolet,309.0,675.0,rear end,0.0
+1961,9,Atlanta,Atlanta International Raceway,1.5,paved track,13.0,6.0,49.0,Bob Welborn,Bob Welborn,'61 Pontiac,308.0,550.0,running,0.0
+1961,9,Atlanta,Atlanta International Raceway,1.5,paved track,14.0,39.0,62.0,Curtis Crider,Curtis Crider,'60 Ford,293.0,450.0,running,0.0
+1961,9,Atlanta,Atlanta International Raceway,1.5,paved track,15.0,40.0,86.0,Buck Baker,Buck Baker,'61 Chrysler,290.0,400.0,running,0.0
+1961,9,Atlanta,Atlanta International Raceway,1.5,paved track,16.0,10.0,94.0,Banjo Matthews,Warrior Motel (Banjo Matthews),'61 Ford,267.0,755.0,head gasket,38.0
+1961,9,Atlanta,Atlanta International Raceway,1.5,paved track,17.0,36.0,16.0,Elmo Langley,Happy Steigel,'59 Pontiac,233.0,300.0,lugs,0.0
+1961,9,Atlanta,Atlanta International Raceway,1.5,paved track,18.0,43.0,39.0,Marshall Sargent,Marshall Sargent,'59 Pontiac,233.0,250.0,rear end,0.0
+1961,9,Atlanta,Atlanta International Raceway,1.5,paved track,19.0,33.0,78.0,Darel Dieringer,Billie Ridgeway (W.J. Ridgeway),'60 Ford,231.0,250.0,crash,0.0
+1961,9,Atlanta,Atlanta International Raceway,1.5,paved track,20.0,9.0,21.0,Curtis Turner,Wood Brothers,'61 Ford,216.0,565.0,head gasket,29.0
+1961,9,Atlanta,Atlanta International Raceway,1.5,paved track,21.0,11.0,47.0,Jack Smith,Jack Smith,'61 Pontiac,212.0,225.0,engine,0.0
+1961,9,Atlanta,Atlanta International Raceway,1.5,paved track,22.0,5.0,8.0,Joe Weatherly,Bud Moore,'61 Pontiac,179.0,275.0,lugs,0.0
+1961,9,Atlanta,Atlanta International Raceway,1.5,paved track,23.0,34.0,56.0,Jim Hendrickson,Charles French,'60 Chevrolet,171.0,200.0,fuel pump,0.0
+1961,9,Atlanta,Atlanta International Raceway,1.5,paved track,24.0,22.0,43.0,Richard Petty,Petty Enterprises,'60 Plymouth,155.0,200.0,engine,0.0
+1961,9,Atlanta,Atlanta International Raceway,1.5,paved track,25.0,37.0,68.0,Ed Livingston,Curtis Crider,'60 Ford,151.0,200.0,bearings,0.0
+1961,9,Atlanta,Atlanta International Raceway,1.5,paved track,26.0,16.0,23.0,Sal Tovella,Bob Rose,'61 Ford,144.0,250.0,engine,0.0
+1961,9,Atlanta,Atlanta International Raceway,1.5,paved track,27.0,23.0,27.0,Junior Johnson,Holly Farms (Rex Lovette),'61 Pontiac,126.0,300.0,crash,0.0
+1961,9,Atlanta,Atlanta International Raceway,1.5,paved track,28.0,25.0,89.0,Joe Lee Johnson,Joe Lee Johnson,'61 Chevrolet,124.0,250.0,crash,0.0
+1961,9,Atlanta,Atlanta International Raceway,1.5,paved track,29.0,27.0,72.0,Bobby Johns,Shorty Johns,'61 Ford,124.0,250.0,crash,0.0
+1961,9,Atlanta,Atlanta International Raceway,1.5,paved track,30.0,20.0,10.0,T.C. Hunt,Fred Wheat,'61 Dodge,124.0,225.0,crash,0.0
+1961,9,Atlanta,Atlanta International Raceway,1.5,paved track,31.0,46.0,14.0,Freddy Fryar,Herb Adcox,'61 Chevrolet,116.0,200.0,engine,0.0
+1961,9,Atlanta,Atlanta International Raceway,1.5,paved track,32.0,38.0,9.0,Roy Tyner,Roy Tyner,'60 Ford,109.0,200.0,pulley,0.0
+1961,9,Atlanta,Atlanta International Raceway,1.5,paved track,33.0,3.0,28.0,Fred Lorenzen,Holman-Moody Racing,'61 Ford,106.0,1320.0,crash,87.0
+1961,9,Atlanta,Atlanta International Raceway,1.5,paved track,34.0,42.0,99.0,Wilbur Rakestraw,Joe Jones,'61 Ford,100.0,200.0,crash,0.0
+1961,9,Atlanta,Atlanta International Raceway,1.5,paved track,35.0,32.0,96.0,Johnny Allen,J.L. Cheatham,'60 Chevrolet,96.0,200.0,crash,0.0
+1961,9,Atlanta,Atlanta International Raceway,1.5,paved track,36.0,35.0,19.0,Herman Beam,Herman Beam,'60 Ford,94.0,200.0,crash,0.0
+1961,9,Atlanta,Atlanta International Raceway,1.5,paved track,37.0,31.0,40.0,Bobby Allison,Ralph Stark,'60 Chevrolet,94.0,200.0,crash,0.0
+1961,9,Atlanta,Atlanta International Raceway,1.5,paved track,38.0,8.0,76.0,Larry Frank,Dick Wright,'60 Ford,90.0,225.0,engine,0.0
+1961,9,Atlanta,Atlanta International Raceway,1.5,paved track,39.0,41.0,15.0,Tim Flock,Beau Morgan,'61 Ford,82.0,200.0,steering,0.0
+1961,9,Atlanta,Atlanta International Raceway,1.5,paved track,40.0,30.0,26.0,David Pearson,David Pearson,'61 Pontiac,80.0,200.0,engine,0.0
+1961,9,Atlanta,Atlanta International Raceway,1.5,paved track,41.0,29.0,30.0,Friday Hassler,Fred Clark,'60 Chevrolet,53.0,200.0,driveshaft,0.0
+1961,9,Atlanta,Atlanta International Raceway,1.5,paved track,42.0,2.0,22.0,Fireball Roberts,Smokey Yunick,'61 Pontiac,29.0,860.0,engine,9.0
+1961,9,Atlanta,Atlanta International Raceway,1.5,paved track,43.0,28.0,65.0,Charlie Glotzbach,Melvin Black,'61 Pontiac,23.0,200.0,engine,0.0
+1961,9,Atlanta,Atlanta International Raceway,1.5,paved track,44.0,26.0,88.0,Harlan Richardson,Jim White,'61 Ford,22.0,225.0,engine,0.0
+1961,9,Atlanta,Atlanta International Raceway,1.5,paved track,45.0,44.0,64.0,Johnny Sudderth,Spook Crawford,'60 Ford,22.0,200.0,rear end,0.0
+1961,9,Atlanta,Atlanta International Raceway,1.5,paved track,46.0,45.0,1.0,Paul Lewis,Jess Potter,'61 Chevrolet,1.0,200.0,engine,0.0
+1961,10,Greenville,Greenville-Pickens Speedway,0.5,dirt track,1.0,2.0,85.0,Emanuel Zervakis,Monroe Shook,'60 Chevrolet,200.0,800.0,running,25.0
+1961,10,Greenville,Greenville-Pickens Speedway,0.5,dirt track,2.0,5.0,43.0,Richard Petty,Petty Enterprises,'60 Plymouth,200.0,525.0,running,0.0
+1961,10,Greenville,Greenville-Pickens Speedway,0.5,dirt track,3.0,4.0,4.0,Rex White,White-Clements (Rex White),'60 Chevrolet,199.0,475.0,running,106.0
+1961,10,Greenville,Greenville-Pickens Speedway,0.5,dirt track,4.0,10.0,48.0,G.C. Spencer,G.C. Spencer,'60 Chevrolet,199.0,275.0,running,0.0
+1961,10,Greenville,Greenville-Pickens Speedway,0.5,dirt track,5.0,7.0,86.0,Buck Baker,Buck Baker,'61 Chrysler,196.0,250.0,running,0.0
+1961,10,Greenville,Greenville-Pickens Speedway,0.5,dirt track,6.0,11.0,54.0,Jimmy Pardue,Jimmy Pardue,'59 Chevrolet,195.0,215.0,running,0.0
+1961,10,Greenville,Greenville-Pickens Speedway,0.5,dirt track,7.0,13.0,17.0,Fred Harb,Fred Harb,'59 Ford,186.0,175.0,running,0.0
+1961,10,Greenville,Greenville-Pickens Speedway,0.5,dirt track,8.0,17.0,35.0,George Green,M.J. Black,'59 Plymouth,186.0,150.0,running,0.0
+1961,10,Greenville,Greenville-Pickens Speedway,0.5,dirt track,9.0,15.0,0.0,Bobby Waddell,Bobby Waddell,'59 Dodge,182.0,140.0,running,0.0
+1961,10,Greenville,Greenville-Pickens Speedway,0.5,dirt track,10.0,8.0,67.0,David Pearson,David Pearson,'60 Chevrolet,181.0,130.0,fuel,0.0
+1961,10,Greenville,Greenville-Pickens Speedway,0.5,dirt track,11.0,18.0,62.0,Curtis Crider,Curtis Crider,'60 Ford,177.0,125.0,running,0.0
+1961,10,Greenville,Greenville-Pickens Speedway,0.5,dirt track,12.0,21.0,30.0,Doug Cox,Doug Cox,'59 T-Bird,150.0,110.0,running,0.0
+1961,10,Greenville,Greenville-Pickens Speedway,0.5,dirt track,13.0,19.0,19.0,Herman Beam,Herman Beam,'60 Ford,149.0,100.0,axle,0.0
+1961,10,Greenville,Greenville-Pickens Speedway,0.5,dirt track,14.0,9.0,11.0,Ned Jarrett,B.G. Holloway,'60 Ford,100.0,85.0,overheating,0.0
+1961,10,Greenville,Greenville-Pickens Speedway,0.5,dirt track,15.0,14.0,9.0,Roy Tyner,Roy Tyner,'60 Ford,99.0,70.0,transmission,0.0
+1961,10,Greenville,Greenville-Pickens Speedway,0.5,dirt track,16.0,1.0,27.0,Junior Johnson,Holly Farms (Rex Lovette),'60 Pontiac,69.0,60.0,fuel pump,69.0
+1961,10,Greenville,Greenville-Pickens Speedway,0.5,dirt track,17.0,12.0,2.0,Tommy Irwin,Tom Daniels,'59 T-Bird,68.0,50.0,steering,0.0
+1961,10,Greenville,Greenville-Pickens Speedway,0.5,dirt track,18.0,20.0,71.0,Bob Barron,Bob Barron,'60 Dodge,54.0,50.0,clutch,0.0
+1961,10,Greenville,Greenville-Pickens Speedway,0.5,dirt track,19.0,3.0,47.0,Jack Smith,Jack Smith,'61 Pontiac,49.0,50.0,engine,0.0
+1961,10,Greenville,Greenville-Pickens Speedway,0.5,dirt track,20.0,16.0,1.0,Paul Lewis,Jess Potter,'61 Chevrolet,33.0,50.0,crash,0.0
+1961,10,Greenville,Greenville-Pickens Speedway,0.5,dirt track,21.0,6.0,23.0,Doug Yates,Raeford Johnson,'59 Plymouth,8.0,50.0,driveshaft,0.0
+1961,11,Hillsboro,Orange Speedway,0.9,dirt track,1.0,3.0,6.0,Cotton Owens,Cotton Owens,'60 Pontiac,110.0,800.0,running,20.0
+1961,11,Hillsboro,Orange Speedway,0.9,dirt track,2.0,4.0,42.0,Richard Petty,Petty Enterprises,'60 Plymouth,110.0,525.0,running,0.0
+1961,11,Hillsboro,Orange Speedway,0.9,dirt track,3.0,6.0,86.0,Buck Baker,Buck Baker,'61 Chrysler,110.0,375.0,running,0.0
+1961,11,Hillsboro,Orange Speedway,0.9,dirt track,4.0,2.0,27.0,Junior Johnson,Holly Farms (Rex Lovette),'60 Pontiac,109.0,275.0,running,81.0
+1961,11,Hillsboro,Orange Speedway,0.9,dirt track,5.0,11.0,4.0,Rex White,White-Clements (Rex White),'60 Chevrolet,109.0,350.0,running,0.0
+1961,11,Hillsboro,Orange Speedway,0.9,dirt track,6.0,8.0,54.0,Jimmy Pardue,Jimmy Pardue,'59 Chevrolet,108.0,215.0,running,0.0
+1961,11,Hillsboro,Orange Speedway,0.9,dirt track,7.0,9.0,2.0,Tommy Irwin,Tom Daniels,'59 T-Bird,108.0,175.0,running,0.0
+1961,11,Hillsboro,Orange Speedway,0.9,dirt track,8.0,5.0,23.0,Doug Yates,Raeford Johnson,'59 Plymouth,107.0,150.0,engine,0.0
+1961,11,Hillsboro,Orange Speedway,0.9,dirt track,9.0,10.0,48.0,G.C. Spencer,G.C. Spencer,'60 Chevrolet,106.0,140.0,running,0.0
+1961,11,Hillsboro,Orange Speedway,0.9,dirt track,10.0,20.0,9.0,Roy Tyner,Roy Tyner,'60 Ford,102.0,140.0,running,0.0
+1961,11,Hillsboro,Orange Speedway,0.9,dirt track,11.0,17.0,97.0,Harry Leake,Harry Leake,'60 Chevrolet,102.0,125.0,running,0.0
+1961,11,Hillsboro,Orange Speedway,0.9,dirt track,12.0,15.0,19.0,Herman Beam,Herman Beam,'60 Ford,99.0,110.0,running,0.0
+1961,11,Hillsboro,Orange Speedway,0.9,dirt track,13.0,18.0,34.0,Wendell Scott,Scott Racing (Wendell Scott),'60 Chevrolet,98.0,100.0,running,0.0
+1961,11,Hillsboro,Orange Speedway,0.9,dirt track,14.0,7.0,85.0,Emanuel Zervakis,Monroe Shook,'60 Chevrolet,90.0,85.0,running,0.0
+1961,11,Hillsboro,Orange Speedway,0.9,dirt track,15.0,12.0,43.0,Maurice Petty,Petty Enterprises,'60 Plymouth,83.0,70.0,a frame,0.0
+1961,11,Hillsboro,Orange Speedway,0.9,dirt track,16.0,13.0,17.0,Fred Harb,Fred Harb,'59 Ford,79.0,60.0,running,0.0
+1961,11,Hillsboro,Orange Speedway,0.9,dirt track,17.0,19.0,35.0,George Green,M.J. Black,'59 Plymouth,75.0,50.0,axle,0.0
+1961,11,Hillsboro,Orange Speedway,0.9,dirt track,18.0,16.0,0.0,Bobby Waddell,Bobby Waddell,'59 Dodge,39.0,50.0,engine,0.0
+1961,11,Hillsboro,Orange Speedway,0.9,dirt track,19.0,1.0,11.0,Ned Jarrett,B.G. Holloway,'61 Chevrolet,9.0,50.0,lr hub,9.0
+1961,11,Hillsboro,Orange Speedway,0.9,dirt track,20.0,14.0,62.0,Curtis Crider,Curtis Crider,'60 Ford,7.0,50.0,radiator,0.0
+1961,12,Winston-Salem,Bowman Gray Stadium,0.25,paved track,1.0,2.0,4.0,Rex White,White-Clements (Rex White),'60 Chevrolet,150.0,700.0,running,148.0
+1961,12,Winston-Salem,Bowman Gray Stadium,0.25,paved track,2.0,1.0,21.0,Glen Wood,Wood Brothers,'61 Ford,150.0,500.0,running,2.0
+1961,12,Winston-Salem,Bowman Gray Stadium,0.25,paved track,3.0,6.0,43.0,Richard Petty,Petty Enterprises,'60 Plymouth,147.0,375.0,running,0.0
+1961,12,Winston-Salem,Bowman Gray Stadium,0.25,paved track,4.0,4.0,17.0,Fred Harb,Fred Harb,'59 Ford,147.0,305.0,running,0.0
+1961,12,Winston-Salem,Bowman Gray Stadium,0.25,paved track,5.0,7.0,11.0,Ned Jarrett,B.G. Holloway,'61 Chevrolet,147.0,245.0,running,0.0
+1961,12,Winston-Salem,Bowman Gray Stadium,0.25,paved track,6.0,10.0,54.0,Jimmy Pardue,Jimmy Pardue,'59 Chevrolet,145.0,215.0,running,0.0
+1961,12,Winston-Salem,Bowman Gray Stadium,0.25,paved track,7.0,8.0,23.0,Doug Yates,Raeford Johnson,'59 Plymouth,145.0,200.0,running,0.0
+1961,12,Winston-Salem,Bowman Gray Stadium,0.25,paved track,8.0,5.0,27.0,Junior Johnson,Holly Farms (Rex Lovette),'60 Pontiac,145.0,185.0,running,0.0
+1961,12,Winston-Salem,Bowman Gray Stadium,0.25,paved track,9.0,9.0,36.0,Tommy Irwin,Tom Daniels,'59 T-Bird,144.0,165.0,running,0.0
+1961,12,Winston-Salem,Bowman Gray Stadium,0.25,paved track,10.0,16.0,48.0,G.C. Spencer,G.C. Spencer,'60 Chevrolet,143.0,155.0,running,0.0
+1961,12,Winston-Salem,Bowman Gray Stadium,0.25,paved track,11.0,12.0,34.0,Wendell Scott,Wendell Scott,'60 Chevrolet,141.0,130.0,running,0.0
+1961,12,Winston-Salem,Bowman Gray Stadium,0.25,paved track,12.0,13.0,19.0,Herman Beam,Herman Beam,'60 Ford,140.0,120.0,running,0.0
+1961,12,Winston-Salem,Bowman Gray Stadium,0.25,paved track,13.0,3.0,85.0,Emanuel Zervakis,Monroe Shook,'60 Chevrolet,136.0,140.0,running,0.0
+1961,12,Winston-Salem,Bowman Gray Stadium,0.25,paved track,14.0,15.0,42.0,Maurice Petty,Petty Enterprises,'60 Plymouth,135.0,115.0,running,0.0
+1961,12,Winston-Salem,Bowman Gray Stadium,0.25,paved track,15.0,11.0,62.0,Curtis Crider,Curtis Crider,'60 Ford,132.0,75.0,running,0.0
+1961,12,Winston-Salem,Bowman Gray Stadium,0.25,paved track,16.0,18.0,86.0,Buck Baker,Buck Baker,'61 Chrysler,129.0,75.0,axle,0.0
+1961,12,Winston-Salem,Bowman Gray Stadium,0.25,paved track,17.0,17.0,35.0,E.J. Trivette,Atlantic (M.J. Black),'59 Plymouth,129.0,75.0,running,0.0
+1961,12,Winston-Salem,Bowman Gray Stadium,0.25,paved track,18.0,14.0,97.0,Harry Leake,Harry Leake,'60 Chevrolet,3.0,60.0,engine,0.0
+1961,13,Martinsville,Martinsville Speedway,0.5,paved track,1.0,2.0,28.0,Fred Lorenzen,Holman-Moody Racing,'61 Ford,149.0,1150.0,running,31.0
+1961,13,Martinsville,Martinsville Speedway,0.5,paved track,2.0,1.0,4.0,Rex White,White-Clements (Rex White),'61 Chevrolet,149.0,1275.0,running,118.0
+1961,13,Martinsville,Martinsville Speedway,0.5,paved track,3.0,3.0,21.0,Glen Wood,Wood Brothers,'61 Ford,147.0,500.0,running,0.0
+1961,13,Martinsville,Martinsville Speedway,0.5,paved track,4.0,16.0,85.0,Emanuel Zervakis,Monroe Shook,'61 Chevrolet,147.0,325.0,running,0.0
+1961,13,Martinsville,Martinsville Speedway,0.5,paved track,5.0,5.0,11.0,Ned Jarrett,B.G. Holloway,'61 Chevrolet,147.0,450.0,running,0.0
+1961,13,Martinsville,Martinsville Speedway,0.5,paved track,6.0,6.0,27.0,Junior Johnson,Holly Farms (Rex Lovette),'61 Pontiac,146.0,315.0,running,0.0
+1961,13,Martinsville,Martinsville Speedway,0.5,paved track,7.0,23.0,69.0,Johnny Allen,B.G. Holloway,'61 Chevrolet,146.0,245.0,running,0.0
+1961,13,Martinsville,Martinsville Speedway,0.5,paved track,8.0,9.0,43.0,Richard Petty,Petty Enterprises,'61 Plymouth,146.0,175.0,running,0.0
+1961,13,Martinsville,Martinsville Speedway,0.5,paved track,9.0,8.0,15.0,Tim Flock,Beau Morgan,'61 Ford,146.0,215.0,running,0.0
+1961,13,Martinsville,Martinsville Speedway,0.5,paved track,10.0,22.0,2.0,Tommy Irwin,Tom Daniels,'60 Chevrolet,146.0,215.0,running,0.0
+1961,13,Martinsville,Martinsville Speedway,0.5,paved track,11.0,7.0,72.0,Bobby Johns,Shorty Johns,'61 Ford,145.0,150.0,running,0.0
+1961,13,Martinsville,Martinsville Speedway,0.5,paved track,12.0,13.0,86.0,Buck Baker,Buck Baker,'61 Chrysler,144.0,160.0,running,0.0
+1961,13,Martinsville,Martinsville Speedway,0.5,paved track,13.0,21.0,6.0,Cotton Owens,Cotton Owens,'60 Pontiac,143.0,300.0,running,0.0
+1961,13,Martinsville,Martinsville Speedway,0.5,paved track,14.0,12.0,87.0,Buddy Baker,Buck Baker,'61 Chrysler,142.0,120.0,running,0.0
+1961,13,Martinsville,Martinsville Speedway,0.5,paved track,15.0,25.0,48.0,G.C. Spencer,G.C. Spencer,'60 Chevrolet,141.0,95.0,running,0.0
+1961,13,Martinsville,Martinsville Speedway,0.5,paved track,16.0,15.0,55.0,Ernie Gahan,John Koszela,'59 Chevrolet,141.0,60.0,running,0.0
+1961,13,Martinsville,Martinsville Speedway,0.5,paved track,17.0,10.0,54.0,Jimmy Pardue,Jimmy Pardue,'59 Chevrolet,140.0,110.0,running,0.0
+1961,13,Martinsville,Martinsville Speedway,0.5,paved track,18.0,11.0,23.0,Doug Yates,Raeford Johnson,'59 Plymouth,139.0,85.0,running,0.0
+1961,13,Martinsville,Martinsville Speedway,0.5,paved track,19.0,17.0,19.0,Herman Beam,Herman Beam,'60 Ford,136.0,50.0,running,0.0
+1961,13,Martinsville,Martinsville Speedway,0.5,paved track,20.0,20.0,35.0,George Green,M.J. Black,'59 Plymouth,136.0,50.0,running,0.0
+1961,13,Martinsville,Martinsville Speedway,0.5,paved track,21.0,27.0,97.0,Harry Leake,Harry Leake,'60 Chevrolet,134.0,50.0,running,0.0
+1961,13,Martinsville,Martinsville Speedway,0.5,paved track,22.0,4.0,66.0,Reds Kagle,Cafe Burgundy (Ratus Walters),'60 Ford,117.0,150.0,fuel tank,0.0
+1961,13,Martinsville,Martinsville Speedway,0.5,paved track,23.0,24.0,17.0,Fred Harb,Fred Harb,'59 Ford,113.0,75.0,running,0.0
+1961,13,Martinsville,Martinsville Speedway,0.5,paved track,24.0,14.0,34.0,Wendell Scott,Wendell Scott,'60 Chevrolet,109.0,50.0,running,0.0
+1961,13,Martinsville,Martinsville Speedway,0.5,paved track,25.0,18.0,62.0,Curtis Crider,Curtis Crider,'60 Ford,102.0,50.0,running,0.0
+1961,13,Martinsville,Martinsville Speedway,0.5,paved track,26.0,19.0,9.0,Roy Tyner,Roy Tyner,'60 Ford,77.0,50.0,brakes,0.0
+1961,13,Martinsville,Martinsville Speedway,0.5,paved track,27.0,26.0,71.0,Bob Barron,Bob Barron,'60 Dodge,21.0,75.0,engine,0.0
+1961,14,North Wilkesboro,North Wilkesboro Speedway,0.625,paved track,1.0,2.0,4.0,Rex White,White-Clements (Rex White),'61 Chevrolet,400.0,2455.0,running,221.0
+1961,14,North Wilkesboro,North Wilkesboro Speedway,0.625,paved track,2.0,6.0,2.0,Tommy Irwin,Tom Daniels,'60 Chevrolet,398.0,1175.0,running,0.0
+1961,14,North Wilkesboro,North Wilkesboro Speedway,0.625,paved track,3.0,3.0,43.0,Richard Petty,Petty Enterprises,'61 Plymouth,396.0,900.0,running,0.0
+1961,14,North Wilkesboro,North Wilkesboro Speedway,0.625,paved track,4.0,20.0,22.0,Fireball Roberts,Smokey Yunick,'60 Pontiac,390.0,575.0,running,0.0
+1961,14,North Wilkesboro,North Wilkesboro Speedway,0.625,paved track,5.0,7.0,69.0,Johnny Allen,B.G. Holloway,'61 Chevrolet,387.0,575.0,crash,0.0
+1961,14,North Wilkesboro,North Wilkesboro Speedway,0.625,paved track,6.0,12.0,85.0,Emanuel Zervakis,Monroe Shook,'61 Chevrolet,385.0,475.0,running,0.0
+1961,14,North Wilkesboro,North Wilkesboro Speedway,0.625,paved track,7.0,10.0,87.0,Buddy Baker,Buck Baker,'61 Chrysler,369.0,375.0,transmission,0.0
+1961,14,North Wilkesboro,North Wilkesboro Speedway,0.625,paved track,8.0,13.0,17.0,Fred Harb,Fred Harb,'59 Ford,366.0,325.0,running,0.0
+1961,14,North Wilkesboro,North Wilkesboro Speedway,0.625,paved track,9.0,16.0,19.0,Herman Beam,Herman Beam,'60 Ford,346.0,325.0,running,0.0
+1961,14,North Wilkesboro,North Wilkesboro Speedway,0.625,paved track,10.0,22.0,33.0,Reb Wickersham,Reb Wickersham,'60 Oldsmobile,333.0,250.0,running,0.0
+1961,14,North Wilkesboro,North Wilkesboro Speedway,0.625,paved track,11.0,19.0,71.0,Bob Barron,Bob Barron,'60 Dodge,329.0,250.0,running,0.0
+1961,14,North Wilkesboro,North Wilkesboro Speedway,0.625,paved track,12.0,26.0,62.0,Curtis Crider,Curtis Crider,'60 Ford,319.0,175.0,running,0.0
+1961,14,North Wilkesboro,North Wilkesboro Speedway,0.625,paved track,13.0,18.0,35.0,George Green,M.J. Black,'59 Plymouth,310.0,175.0,running,0.0
+1961,14,North Wilkesboro,North Wilkesboro Speedway,0.625,paved track,14.0,4.0,21.0,Curtis Turner,Wood Brothers,'61 Ford,296.0,250.0,rear end,56.0
+1961,14,North Wilkesboro,North Wilkesboro Speedway,0.625,paved track,15.0,21.0,34.0,Wendell Scott,Wendell Scott,'60 Chevrolet,276.0,100.0,running,0.0
+1961,14,North Wilkesboro,North Wilkesboro Speedway,0.625,paved track,16.0,24.0,9.0,Roy Tyner,Roy Tyner,'60 Ford,252.0,100.0,clutch,0.0
+1961,14,North Wilkesboro,North Wilkesboro Speedway,0.625,paved track,17.0,8.0,54.0,Jimmy Pardue,Jimmy Pardue,'59 Chevrolet,230.0,125.0,pistons,0.0
+1961,14,North Wilkesboro,North Wilkesboro Speedway,0.625,paved track,18.0,15.0,48.0,G.C. Spencer,G.C. Spencer,'60 Chevrolet,168.0,125.0,rear end,0.0
+1961,14,North Wilkesboro,North Wilkesboro Speedway,0.625,paved track,19.0,5.0,28.0,Fred Lorenzen,Holman-Moody Racing,'61 Ford,123.0,210.0,rocker arm,61.0
+1961,14,North Wilkesboro,North Wilkesboro Speedway,0.625,paved track,20.0,17.0,0.0,Bobby Waddell,Bobby Waddell,'59 Dodge,109.0,125.0,rear end,0.0
+1961,14,North Wilkesboro,North Wilkesboro Speedway,0.625,paved track,21.0,25.0,1.0,Paul Lewis,Jess Potter,'61 Chevrolet,100.0,75.0,rocker arm,0.0
+1961,14,North Wilkesboro,North Wilkesboro Speedway,0.625,paved track,22.0,1.0,27.0,Junior Johnson,Holly Farms (Rex Lovette),'61 Pontiac,62.0,285.0,transmission,62.0
+1961,14,North Wilkesboro,North Wilkesboro Speedway,0.625,paved track,23.0,23.0,23.0,Doug Yates,Raeford Johnson,'59 Plymouth,30.0,75.0,rear end,0.0
+1961,14,North Wilkesboro,North Wilkesboro Speedway,0.625,paved track,24.0,9.0,11.0,Ned Jarrett,B.G. Holloway,'61 Chevrolet,29.0,100.0,pistons,0.0
+1961,14,North Wilkesboro,North Wilkesboro Speedway,0.625,paved track,25.0,11.0,86.0,Buck Baker,Buck Baker,'61 Chrysler,27.0,100.0,rear end,0.0
+1961,14,North Wilkesboro,North Wilkesboro Speedway,0.625,paved track,26.0,14.0,97.0,Harry Leake,Harry Leake,'59 Chevrolet,1.0,50.0,engine,0.0
+1961,15,Columbia,Columbia Speedway,0.5,dirt track,1.0,2.0,6.0,Cotton Owens,Cotton Owens,'60 Pontiac,200.0,950.0,running,4.0
+1961,15,Columbia,Columbia Speedway,0.5,dirt track,2.0,1.0,11.0,Ned Jarrett,B.G. Holloway,'61 Chevrolet,199.0,625.0,running,196.0
+1961,15,Columbia,Columbia Speedway,0.5,dirt track,3.0,3.0,85.0,Emanuel Zervakis,Monroe Shook,'60 Chevrolet,199.0,425.0,running,0.0
+1961,15,Columbia,Columbia Speedway,0.5,dirt track,4.0,12.0,48.0,G.C. Spencer,G.C. Spencer,'60 Chevrolet,197.0,275.0,running,0.0
+1961,15,Columbia,Columbia Speedway,0.5,dirt track,5.0,9.0,4.0,Rex White,White-Clements (Rex White),'60 Chevrolet,197.0,350.0,running,0.0
+1961,15,Columbia,Columbia Speedway,0.5,dirt track,6.0,7.0,43.0,Richard Petty,Petty Enterprises,'60 Plymouth,193.0,215.0,running,0.0
+1961,15,Columbia,Columbia Speedway,0.5,dirt track,7.0,6.0,17.0,Fred Harb,Fred Harb,'59 Ford,192.0,175.0,running,0.0
+1961,15,Columbia,Columbia Speedway,0.5,dirt track,8.0,11.0,62.0,Curtis Crider,Curtis Crider,'60 Ford,191.0,150.0,running,0.0
+1961,15,Columbia,Columbia Speedway,0.5,dirt track,9.0,15.0,97.0,Harry Leake,Harry Leake,'60 Chevrolet,182.0,140.0,running,0.0
+1961,15,Columbia,Columbia Speedway,0.5,dirt track,10.0,13.0,19.0,Herman Beam,Herman Beam,'60 Ford,171.0,130.0,running,0.0
+1961,15,Columbia,Columbia Speedway,0.5,dirt track,11.0,16.0,34.0,Wendell Scott,Wendell Scott,'60 Chevrolet,167.0,125.0,crash,0.0
+1961,15,Columbia,Columbia Speedway,0.5,dirt track,12.0,10.0,23.0,Doug Yates,Raeford Johnson,'59 Plymouth,167.0,110.0,fuel pump,0.0
+1961,15,Columbia,Columbia Speedway,0.5,dirt track,13.0,17.0,71.0,Bob Barron,Bob Barron,'60 Dodge,165.0,100.0,running,0.0
+1961,15,Columbia,Columbia Speedway,0.5,dirt track,14.0,5.0,67.0,David Pearson,David Pearson,'60 Chevrolet,149.0,85.0,a frame,0.0
+1961,15,Columbia,Columbia Speedway,0.5,dirt track,15.0,19.0,93.0,Lee Reitzel,Lee Reitzel,'60 Ford,122.0,70.0,running,0.0
+1961,15,Columbia,Columbia Speedway,0.5,dirt track,16.0,4.0,86.0,Buck Baker,Buck Baker,'61 Chrysler,103.0,60.0,axle,0.0
+1961,15,Columbia,Columbia Speedway,0.5,dirt track,17.0,21.0,30.0,Doug Cox,Doug Cox,'59 T-Bird,100.0,50.0,axle,0.0
+1961,15,Columbia,Columbia Speedway,0.5,dirt track,18.0,22.0,33.0,Bryant Wallace,Reb Wickersham,'60 Oldsmobile,72.0,50.0,brakes,0.0
+1961,15,Columbia,Columbia Speedway,0.5,dirt track,19.0,14.0,35.0,George Green,M.J. Black,'59 Plymouth,67.0,50.0,crash,0.0
+1961,15,Columbia,Columbia Speedway,0.5,dirt track,20.0,8.0,2.0,Tommy Irwin,Tom Daniels,'59 T-Bird,23.0,50.0,rear end,0.0
+1961,15,Columbia,Columbia Speedway,0.5,dirt track,21.0,18.0,47.0,Jack Smith,Jack Smith,'61 Pontiac,12.0,50.0,head,0.0
+1961,15,Columbia,Columbia Speedway,0.5,dirt track,22.0,20.0,54.0,Jimmy Pardue,Jimmy Pardue,'59 Chevrolet,5.0,50.0,push rod,0.0
+1961,16,Hickory,Hickory Speedway,0.4,dirt track,1.0,1.0,27.0,Junior Johnson,Holly Farms (Rex Lovette),'61 Pontiac,250.0,950.0,running,219.0
+1961,16,Hickory,Hickory Speedway,0.4,dirt track,2.0,8.0,86.0,Buck Baker,Buck Baker,'62 Chrysler,250.0,625.0,running,0.0
+1961,16,Hickory,Hickory Speedway,0.4,dirt track,3.0,7.0,4.0,Rex White,White-Clements (Rex White),'60 Chevrolet,245.0,525.0,running,0.0
+1961,16,Hickory,Hickory Speedway,0.4,dirt track,4.0,23.0,48.0,G.C. Spencer,G.C. Spencer,'60 Chevrolet,245.0,275.0,running,0.0
+1961,16,Hickory,Hickory Speedway,0.4,dirt track,5.0,14.0,54.0,Jimmy Pardue,Jimmy Pardue,'59 Chevrolet,242.0,250.0,running,0.0
+1961,16,Hickory,Hickory Speedway,0.4,dirt track,6.0,11.0,61.0,Elmo Langley,Doc White,'59 T-Bird,241.0,215.0,running,0.0
+1961,16,Hickory,Hickory Speedway,0.4,dirt track,7.0,10.0,1.0,Paul Lewis,Jess Potter,'61 Chevrolet,239.0,175.0,running,0.0
+1961,16,Hickory,Hickory Speedway,0.4,dirt track,8.0,6.0,69.0,Johnny Allen,B.G. Holloway,'60 Chevrolet,236.0,150.0,running,0.0
+1961,16,Hickory,Hickory Speedway,0.4,dirt track,9.0,15.0,0.0,Bobby Waddell,Bobby Waddell,'59 Dodge,235.0,140.0,running,0.0
+1961,16,Hickory,Hickory Speedway,0.4,dirt track,10.0,2.0,21.0,Curtis Turner,Holly Farms (Rex Lovette),'60 Pontiac,233.0,130.0,running,3.0
+1961,16,Hickory,Hickory Speedway,0.4,dirt track,11.0,17.0,97.0,Harry Leake,Harry Leake,'60 Chevrolet,232.0,125.0,running,0.0
+1961,16,Hickory,Hickory Speedway,0.4,dirt track,12.0,9.0,19.0,Herman Beam,Herman Beam,'60 Ford,229.0,110.0,running,0.0
+1961,16,Hickory,Hickory Speedway,0.4,dirt track,13.0,22.0,47.0,Jack Smith,Jack Smith,'61 Pontiac,228.0,110.0,running,0.0
+1961,16,Hickory,Hickory Speedway,0.4,dirt track,14.0,20.0,71.0,Bob Barron,Bob Barron,'60 Dodge,215.0,85.0,running,0.0
+1961,16,Hickory,Hickory Speedway,0.4,dirt track,15.0,21.0,35.0,George Green,M.J. Black,'59 Plymouth,210.0,70.0,running,0.0
+1961,16,Hickory,Hickory Speedway,0.4,dirt track,16.0,13.0,23.0,Doug Yates,Raeford Johnson,'59 Plymouth,195.0,60.0,transmission,0.0
+1961,16,Hickory,Hickory Speedway,0.4,dirt track,17.0,3.0,85.0,Emanuel Zervakis,Monroe Shook,'60 Chevrolet,190.0,50.0,crash,0.0
+1961,16,Hickory,Hickory Speedway,0.4,dirt track,18.0,19.0,93.0,Lee Reitzel,Lee Reitzel,'60 Ford,178.0,50.0,a frame,0.0
+1961,16,Hickory,Hickory Speedway,0.4,dirt track,19.0,5.0,11.0,Ned Jarrett,B.G. Holloway,'61 Chevrolet,138.0,50.0,a frame,0.0
+1961,16,Hickory,Hickory Speedway,0.4,dirt track,20.0,4.0,43.0,Richard Petty,Petty Enterprises,'60 Plymouth,100.0,50.0,radiator,28.0
+1961,16,Hickory,Hickory Speedway,0.4,dirt track,21.0,16.0,62.0,Curtis Crider,Curtis Crider,'60 Ford,47.0,50.0,rear end,0.0
+1961,16,Hickory,Hickory Speedway,0.4,dirt track,22.0,12.0,17.0,Fred Harb,Fred Harb,'59 Ford,20.0,50.0,a frame,0.0
+1961,16,Hickory,Hickory Speedway,0.4,dirt track,23.0,18.0,33.0,Bryant Wallace,Reb Wickersham,'60 Oldsmobile,9.0,50.0,handling,0.0
+1961,17,Richmond,Atlantic Rural Fairgrounds,0.5,dirt track,1.0,1.0,43.0,Richard Petty,Petty Enterprises,'60 Plymouth,200.0,950.0,running,182.0
+1961,17,Richmond,Atlantic Rural Fairgrounds,0.5,dirt track,2.0,4.0,6.0,Cotton Owens,Cotton Owens,'60 Pontiac,199.0,625.0,running,0.0
+1961,17,Richmond,Atlantic Rural Fairgrounds,0.5,dirt track,3.0,7.0,86.0,Buck Baker,Buck Baker,'61 Chrysler,193.0,425.0,running,0.0
+1961,17,Richmond,Atlantic Rural Fairgrounds,0.5,dirt track,4.0,2.0,11.0,Ned Jarrett,B.G. Holloway,'61 Chevrolet,186.0,275.0,running,18.0
+1961,17,Richmond,Atlantic Rural Fairgrounds,0.5,dirt track,5.0,8.0,61.0,Elmo Langley,Doc White,'59 T-Bird,186.0,250.0,running,0.0
+1961,17,Richmond,Atlantic Rural Fairgrounds,0.5,dirt track,6.0,6.0,48.0,G.C. Spencer,G.C. Spencer,'60 Chevrolet,176.0,215.0,running,0.0
+1961,17,Richmond,Atlantic Rural Fairgrounds,0.5,dirt track,7.0,11.0,19.0,Herman Beam,Herman Beam,'60 Ford,168.0,175.0,engine,0.0
+1961,17,Richmond,Atlantic Rural Fairgrounds,0.5,dirt track,8.0,12.0,71.0,Bob Barron,Bob Barron,'60 Dodge,159.0,150.0,a frame,0.0
+1961,17,Richmond,Atlantic Rural Fairgrounds,0.5,dirt track,9.0,10.0,35.0,George Green,M.J. Black,'59 Plymouth,146.0,140.0,engine,0.0
+1961,17,Richmond,Atlantic Rural Fairgrounds,0.5,dirt track,10.0,5.0,4.0,Rex White,White-Clements (Rex White),'60 Chevrolet,134.0,230.0,fuel pump,0.0
+1961,17,Richmond,Atlantic Rural Fairgrounds,0.5,dirt track,11.0,3.0,69.0,Johnny Allen,B.G. Holloway,'60 Chevrolet,128.0,125.0,a frame,0.0
+1961,17,Richmond,Atlantic Rural Fairgrounds,0.5,dirt track,12.0,9.0,54.0,Jimmy Pardue,Jimmy Pardue,'59 Chevrolet,123.0,110.0,a frame,0.0
+1961,18,Martinsville,Martinsville Speedway,0.5,paved track,1.0,17.0,27.0,Junior Johnson,Holly Farms (Rex Lovette),'61 Pontiac,500.0,2315.0,running,135.0
+1961,18,Martinsville,Martinsville Speedway,0.5,paved track,2.0,5.0,85.0,Emanuel Zervakis,Monroe Shook,'61 Chevrolet,496.0,1200.0,running,0.0
+1961,18,Martinsville,Martinsville Speedway,0.5,paved track,3.0,26.0,75.0,Fireball Roberts,Smokey Yunick,'61 Pontiac,496.0,825.0,running,0.0
+1961,18,Martinsville,Martinsville Speedway,0.5,paved track,4.0,21.0,2.0,Tommy Irwin,Tom Daniels,'60 Chevrolet,491.0,625.0,running,0.0
+1961,18,Martinsville,Martinsville Speedway,0.5,paved track,5.0,24.0,86.0,Buck Baker,Buck Baker,'61 Chrysler,491.0,550.0,running,0.0
+1961,18,Martinsville,Martinsville Speedway,0.5,paved track,6.0,4.0,11.0,Ned Jarrett,B.G. Holloway,'61 Chevrolet,484.0,500.0,running,0.0
+1961,18,Martinsville,Martinsville Speedway,0.5,paved track,7.0,7.0,15.0,Tim Flock,Beau Morgan,'61 Ford,479.0,375.0,running,0.0
+1961,18,Martinsville,Martinsville Speedway,0.5,paved track,8.0,22.0,97.0,Harry Leake,Harry Leake,'60 Chevrolet,475.0,325.0,running,0.0
+1961,18,Martinsville,Martinsville Speedway,0.5,paved track,9.0,1.0,4.0,Rex White,White-Clements (Rex White),'61 Chevrolet,474.0,580.0,running,31.0
+1961,18,Martinsville,Martinsville Speedway,0.5,paved track,10.0,6.0,29.0,Nelson Stacy,Holt-Stacy (Dudley Farrell),'61 Ford,465.0,300.0,rear end,0.0
+1961,18,Martinsville,Martinsville Speedway,0.5,paved track,11.0,2.0,28.0,Fred Lorenzen,Holman-Moody Racing,'61 Ford,465.0,705.0,running,334.0
+1961,18,Martinsville,Martinsville Speedway,0.5,paved track,12.0,10.0,19.0,Herman Beam,Herman Beam,'60 Ford,463.0,275.0,running,0.0
+1961,18,Martinsville,Martinsville Speedway,0.5,paved track,13.0,18.0,48.0,G.C. Spencer,G.C. Spencer,'60 Chevrolet,450.0,285.0,running,0.0
+1961,18,Martinsville,Martinsville Speedway,0.5,paved track,14.0,9.0,23.0,Doug Yates,Raeford Johnson,'59 Plymouth,442.0,225.0,running,0.0
+1961,18,Martinsville,Martinsville Speedway,0.5,paved track,15.0,15.0,34.0,Wendell Scott,Wendell Scott,'60 Chevrolet,432.0,175.0,running,0.0
+1961,18,Martinsville,Martinsville Speedway,0.5,paved track,16.0,28.0,69.0,Johnny Allen,B.G. Holloway,'60 Chevrolet,431.0,150.0,engine,0.0
+1961,18,Martinsville,Martinsville Speedway,0.5,paved track,17.0,29.0,74.0,L.D. Austin,L.D. Austin,'61 Chevrolet,417.0,150.0,running,0.0
+1961,18,Martinsville,Martinsville Speedway,0.5,paved track,18.0,27.0,9.0,Roy Tyner,Roy Tyner,'60 Ford,416.0,150.0,running,0.0
+1961,18,Martinsville,Martinsville Speedway,0.5,paved track,19.0,19.0,72.0,Bobby Johns,Bryan & Edwards (Shorty Johns),'61 Ford,414.0,175.0,running,0.0
+1961,18,Martinsville,Martinsville Speedway,0.5,paved track,20.0,23.0,93.0,Lee Reitzel,Lee Reitzel,'60 Ford,403.0,150.0,running,0.0
+1961,18,Martinsville,Martinsville Speedway,0.5,paved track,21.0,14.0,71.0,Bob Barron,Bob Barron,'60 Dodge,312.0,150.0,running,0.0
+1961,18,Martinsville,Martinsville Speedway,0.5,paved track,22.0,16.0,21.0,Glen Wood,Courtesy Ford (Wood Brothers),'61 Ford,266.0,225.0,rear end,0.0
+1961,18,Martinsville,Martinsville Speedway,0.5,paved track,23.0,3.0,43.0,Richard Petty,Petty Enterprises,'61 Plymouth,243.0,200.0,distributor,0.0
+1961,18,Martinsville,Martinsville Speedway,0.5,paved track,24.0,30.0,62.0,Curtis Crider,Blackwell Building Supply (Curtis Crider),'60 Ford,236.0,125.0,con rod,0.0
+1961,18,Martinsville,Martinsville Speedway,0.5,paved track,25.0,11.0,54.0,Jimmy Pardue,Jimmy Pardue,'59 Chevrolet,211.0,150.0,axle,0.0
+1961,18,Martinsville,Martinsville Speedway,0.5,paved track,26.0,20.0,1.0,Paul Lewis,Jess Potter,'61 Chevrolet,209.0,150.0,oil pressure,0.0
+1961,18,Martinsville,Martinsville Speedway,0.5,paved track,27.0,12.0,30.0,Bob Welborn,Fred Clark,'60 Chevrolet,112.0,150.0,piston,0.0
+1961,18,Martinsville,Martinsville Speedway,0.5,paved track,28.0,13.0,33.0,Reb Wickersham,Reb Wickersham,'60 Oldsmobile,48.0,150.0,handling,0.0
+1961,18,Martinsville,Martinsville Speedway,0.5,paved track,29.0,8.0,17.0,Fred Harb,Fred Harb,'59 Ford,35.0,150.0,handling,0.0
+1961,18,Martinsville,Martinsville Speedway,0.5,paved track,30.0,25.0,8.0,Allen Franklin,Allen Franklin,'60 Rambler,5.0,125.0,handling,0.0
+1961,19,Darlington,Darlington Raceway,1.375,paved track,1.0,1.0,28.0,Fred Lorenzen,Courtesy Ford (Holman-Moody Racing),'61 Ford,219.0,8420.0,running,69.0
+1961,19,Darlington,Darlington Raceway,1.375,paved track,2.0,8.0,21.0,Curtis Turner,LaFayette Motors (Wood Brothers),'61 Ford,219.0,4600.0,running,25.0
+1961,19,Darlington,Darlington Raceway,1.375,paved track,3.0,9.0,69.0,Johnny Allen,B.G. Holloway,'61 Chevrolet,218.0,3200.0,running,3.0
+1961,19,Darlington,Darlington Raceway,1.375,paved track,4.0,10.0,53.0,Bob Burdick,Roy Burdick,'61 Pontiac,218.0,2400.0,running,1.0
+1961,19,Darlington,Darlington Raceway,1.375,paved track,5.0,2.0,22.0,Fireball Roberts,Bud Moore's Garage (Smokey Yunick),'61 Pontiac,218.0,1665.0,running,108.0
+1961,19,Darlington,Darlington Raceway,1.375,paved track,6.0,17.0,3.0,Marvin Panch,Daytona Kennel (John Masoni),'61 Pontiac,217.0,1050.0,running,0.0
+1961,19,Darlington,Darlington Raceway,1.375,paved track,7.0,6.0,6.0,Ralph Earnhardt,Cotton Owens,'61 Pontiac,216.0,925.0,running,6.0
+1961,19,Darlington,Darlington Raceway,1.375,paved track,8.0,3.0,94.0,Banjo Matthews,Warrior Motel (Banjo Matthews),'61 Ford,215.0,865.0,running,1.0
+1961,19,Darlington,Darlington Raceway,1.375,paved track,9.0,5.0,72.0,Bobby Johns,Shorty Johns,'61 Ford,215.0,700.0,running,0.0
+1961,19,Darlington,Darlington Raceway,1.375,paved track,10.0,11.0,11.0,Ned Jarrett,B.G. Holloway,'61 Chevrolet,215.0,650.0,running,0.0
+1961,19,Darlington,Darlington Raceway,1.375,paved track,11.0,7.0,29.0,Nelson Stacy,Holt-Stacy (Dudley Farrell),'61 Ford,212.0,500.0,running,0.0
+1961,19,Darlington,Darlington Raceway,1.375,paved track,12.0,18.0,47.0,Larry Frank,Jack Smith,'61 Pontiac,212.0,400.0,running,0.0
+1961,19,Darlington,Darlington Raceway,1.375,paved track,13.0,14.0,85.0,Emanuel Zervakis,Monroe Shook,'61 Chevrolet,211.0,370.0,running,0.0
+1961,19,Darlington,Darlington Raceway,1.375,paved track,14.0,22.0,54.0,Jimmy Pardue,Fred Gaddy (Jimmy Pardue),'60 Chevrolet,209.0,300.0,running,0.0
+1961,19,Darlington,Darlington Raceway,1.375,paved track,15.0,4.0,8.0,Joe Weatherly,Stephens Pontiac (Bud Moore),'61 Pontiac,206.0,250.0,running,6.0
+1961,19,Darlington,Darlington Raceway,1.375,paved track,16.0,26.0,0.0,Dave Mader,Dave Mader,'61 Chevrolet,205.0,275.0,running,0.0
+1961,19,Darlington,Darlington Raceway,1.375,paved track,17.0,20.0,48.0,G.C. Spencer,G.C. Spencer,'60 Chevrolet,200.0,200.0,running,0.0
+1961,19,Darlington,Darlington Raceway,1.375,paved track,18.0,21.0,2.0,Tommy Irwin,Tom Daniels,'60 Chevrolet,200.0,200.0,running,0.0
+1961,19,Darlington,Darlington Raceway,1.375,paved track,19.0,25.0,82.0,Larry Flynn,–,'59 Chevrolet,195.0,200.0,running,0.0
+1961,19,Darlington,Darlington Raceway,1.375,paved track,20.0,13.0,87.0,Buck Baker,Buck Baker,'61 Chrysler,192.0,565.0,running,0.0
+1961,19,Darlington,Darlington Raceway,1.375,paved track,21.0,28.0,68.0,Ed Livingston,Curtis Crider,'60 Ford,187.0,200.0,running,0.0
+1961,19,Darlington,Darlington Raceway,1.375,paved track,22.0,32.0,62.0,Curtis Crider,Curtis Crider,'61 Mercury,181.0,500.0,running,0.0
+1961,19,Darlington,Darlington Raceway,1.375,paved track,23.0,29.0,38.0,Ed Markstellar,Matt DeMatthews,'61 Ford,177.0,200.0,running,0.0
+1961,19,Darlington,Darlington Raceway,1.375,paved track,24.0,12.0,4.0,Rex White,White-Clements (Rex White),'61 Chevrolet,173.0,340.0,crash,0.0
+1961,19,Darlington,Darlington Raceway,1.375,paved track,25.0,15.0,86.0,Buddy Baker,Headford Motors Inc. (Buck Baker),'61 Chrysler,115.0,200.0,crash,0.0
+1961,19,Darlington,Darlington Raceway,1.375,paved track,26.0,24.0,55.0,Jimmy Thompson,–,'59 T-Bird,62.0,200.0,crash,0.0
+1961,19,Darlington,Darlington Raceway,1.375,paved track,27.0,23.0,52.0,Tom Dill,Julian Buesink,'61 Ford,46.0,230.0,crash,0.0
+1961,19,Darlington,Darlington Raceway,1.375,paved track,28.0,19.0,1.0,Paul Lewis,Jess Potter,'61 Chevrolet,38.0,200.0,oil pressure,0.0
+1961,19,Darlington,Darlington Raceway,1.375,paved track,29.0,30.0,71.0,Bobby Waddell,Bob Barron,'60 Dodge,22.0,220.0,oil pressure,0.0
+1961,19,Darlington,Darlington Raceway,1.375,paved track,30.0,16.0,15.0,Tim Flock,Beau Morgan,'61 Ford,16.0,200.0,handling,0.0
+1961,19,Darlington,Darlington Raceway,1.375,paved track,31.0,27.0,61.0,Elmo Langley,Doc White,'59 T-Bird,14.0,200.0,handling,0.0
+1961,19,Darlington,Darlington Raceway,1.375,paved track,32.0,31.0,43.0,Richard Petty,Petty Enterprises,'61 Plymouth,11.0,200.0,engine,0.0
+1961,20,Charlotte,Charlotte Motor Speedway,1.5,paved track,1.0,7.0,43.0,Richard Petty,Petty Enterprises,'61 Plymouth,67.0,800.0,running,24.0
+1961,20,Charlotte,Charlotte Motor Speedway,1.5,paved track,2.0,3.0,6.0,Ralph Earnhardt,Cotton Owens,'61 Pontiac,67.0,525.0,running,9.0
+1961,20,Charlotte,Charlotte Motor Speedway,1.5,paved track,3.0,5.0,47.0,Bob Welborn,Jack Smith,'61 Pontiac,67.0,375.0,running,0.0
+1961,20,Charlotte,Charlotte Motor Speedway,1.5,paved track,4.0,4.0,72.0,Bobby Johns,Shorty Johns,'61 Ford,67.0,275.0,running,0.0
+1961,20,Charlotte,Charlotte Motor Speedway,1.5,paved track,5.0,1.0,28.0,Fred Lorenzen,Holman-Moody Racing,'61 Ford,67.0,250.0,running,34.0
+1961,20,Charlotte,Charlotte Motor Speedway,1.5,paved track,6.0,18.0,75.0,Fireball Roberts,Smokey Yunick,'61 Pontiac,66.0,215.0,running,0.0
+1961,20,Charlotte,Charlotte Motor Speedway,1.5,paved track,7.0,2.0,94.0,Banjo Matthews,Banjo Matthews,'61 Ford,66.0,175.0,running,0.0
+1961,20,Charlotte,Charlotte Motor Speedway,1.5,paved track,8.0,6.0,11.0,Ned Jarrett,B.G. Holloway,'61 Chevrolet,66.0,150.0,running,0.0
+1961,20,Charlotte,Charlotte Motor Speedway,1.5,paved track,9.0,8.0,69.0,Johnny Allen,B.G. Holloway,'61 Chevrolet,66.0,140.0,running,0.0
+1961,20,Charlotte,Charlotte Motor Speedway,1.5,paved track,10.0,10.0,48.0,G.C. Spencer,G.C. Spencer,'60 Chevrolet,65.0,130.0,running,0.0
+1961,20,Charlotte,Charlotte Motor Speedway,1.5,paved track,11.0,12.0,82.0,Joe Eubanks,Don Every,'61 Ford,64.0,125.0,running,0.0
+1961,20,Charlotte,Charlotte Motor Speedway,1.5,paved track,12.0,9.0,54.0,Jimmy Pardue,Jimmy Pardue,'60 Chevrolet,64.0,110.0,running,0.0
+1961,20,Charlotte,Charlotte Motor Speedway,1.5,paved track,13.0,16.0,97.0,E.J. Trivette,Harry Leake,'60 Chevrolet,56.0,100.0,running,0.0
+1961,20,Charlotte,Charlotte Motor Speedway,1.5,paved track,14.0,11.0,4.0,Rex White,White-Clements (Rex White),'61 Chevrolet,41.0,185.0,running,0.0
+1961,20,Charlotte,Charlotte Motor Speedway,1.5,paved track,15.0,13.0,85.0,Emanuel Zervakis,Monroe Shook,'61 Chevrolet,28.0,70.0,engine,0.0
+1961,20,Charlotte,Charlotte Motor Speedway,1.5,paved track,16.0,14.0,62.0,Curtis Crider,Curtis Crider,'61 Mercury,18.0,60.0,transmission,0.0
+1961,20,Charlotte,Charlotte Motor Speedway,1.5,paved track,17.0,17.0,35.0,Bobby Waddell,M.J. Black,'59 Plymouth,3.0,50.0,rear end,0.0
+1961,20,Charlotte,Charlotte Motor Speedway,1.5,paved track,18.0,15.0,27.0,Bobby Isaac,Holly Farms (Rex Lovette),'61 Pontiac,2.0,50.0,coil,0.0
+1961,20,Charlotte,Charlotte Motor Speedway,1.5,paved track,19.0,19.0,9.0,Roy Tyner,Roy Tyner,'60 Ford,1.0,50.0,handling,0.0
+1961,21,Charlotte,Charlotte Motor Speedway,1.5,paved track,1.0,3.0,8.0,Joe Weatherly,Bud Moore,'61 Pontiac,67.0,800.0,running,3.0
+1961,21,Charlotte,Charlotte Motor Speedway,1.5,paved track,2.0,1.0,3.0,Junior Johnson,Daytona Kennel (John Masoni),'61 Pontiac,67.0,525.0,running,12.0
+1961,21,Charlotte,Charlotte Motor Speedway,1.5,paved track,3.0,9.0,46.0,Jack Smith,Jack Smith,'61 Pontiac,66.0,375.0,running,0.0
+1961,21,Charlotte,Charlotte Motor Speedway,1.5,paved track,4.0,8.0,29.0,Nelson Stacy,Holt-Stacy (Dudley Farrell),'61 Ford,66.0,275.0,running,0.0
+1961,21,Charlotte,Charlotte Motor Speedway,1.5,paved track,5.0,11.0,44.0,Marvin Porter,–,'60 Plymouth,66.0,250.0,running,0.0
+1961,21,Charlotte,Charlotte Motor Speedway,1.5,paved track,6.0,6.0,15.0,Tim Flock,Beau Morgan,'61 Ford,65.0,215.0,running,0.0
+1961,21,Charlotte,Charlotte Motor Speedway,1.5,paved track,7.0,13.0,12.0,Buck Fulp,–,'61 Ford,65.0,175.0,running,0.0
+1961,21,Charlotte,Charlotte Motor Speedway,1.5,paved track,8.0,12.0,19.0,Herman Beam,Herman Beam,'60 Ford,60.0,150.0,running,0.0
+1961,21,Charlotte,Charlotte Motor Speedway,1.5,paved track,9.0,14.0,93.0,Lee Reitzel,Lee Reitzel,'60 Ford,59.0,140.0,running,0.0
+1961,21,Charlotte,Charlotte Motor Speedway,1.5,paved track,10.0,17.0,74.0,L.D. Austin,L.D. Austin,'61 Chevrolet,57.0,130.0,running,0.0
+1961,21,Charlotte,Charlotte Motor Speedway,1.5,paved track,11.0,2.0,21.0,Curtis Turner,Wood Brothers,'61 Ford,52.0,125.0,crash,52.0
+1961,21,Charlotte,Charlotte Motor Speedway,1.5,paved track,12.0,4.0,87.0,Buck Baker,Buck Baker,'61 Chrysler,39.0,110.0,cut tire,0.0
+1961,21,Charlotte,Charlotte Motor Speedway,1.5,paved track,13.0,15.0,71.0,Bob Barron,Bob Barron,'60 Dodge,18.0,100.0,rear end,0.0
+1961,21,Charlotte,Charlotte Motor Speedway,1.5,paved track,14.0,10.0,89.0,Joe Lee Johnson,Joe Lee Johnson,'61 Chevrolet,17.0,85.0,clutch,0.0
+1961,21,Charlotte,Charlotte Motor Speedway,1.5,paved track,15.0,19.0,86.0,Buddy Baker,Buck Baker,'61 Chrysler,12.0,70.0,clutch,0.0
+1961,21,Charlotte,Charlotte Motor Speedway,1.5,paved track,16.0,16.0,18.0,Cotton Owens,Bud Moore,'61 Pontiac,11.0,60.0,transmission,0.0
+1961,21,Charlotte,Charlotte Motor Speedway,1.5,paved track,17.0,5.0,16.0,Speedy Thompson,Beau Morgan,'61 Ford,2.0,50.0,crash,0.0
+1961,21,Charlotte,Charlotte Motor Speedway,1.5,paved track,18.0,7.0,2.0,Tommy Irwin,Tom Daniels,'60 Chevrolet,1.0,50.0,crash,0.0
+1961,21,Charlotte,Charlotte Motor Speedway,1.5,paved track,19.0,18.0,31.0,Gene Stokes,Gene Stokes,'61 Studebaker,1.0,50.0,fuel pump,0.0
+1961,22,Riverside,Riverside International Raceway,2.58,road course,1.0,2.0,44.0,Lloyd Dane,Lloyd Dane,'61 Chevrolet,39.0,825.0,running,27.0
+1961,22,Riverside,Riverside International Raceway,2.58,road course,2.0,7.0,7.0,Don Noel,Chuck Parkko,'61 Ford,39.0,505.0,running,0.0
+1961,22,Riverside,Riverside International Raceway,2.58,road course,3.0,8.0,18.0,Dick Smith,William Long,'60 Ford,38.0,350.0,running,0.0
+1961,22,Riverside,Riverside International Raceway,2.58,road course,4.0,4.0,0.0,Jim Cook,Floyd Johnson,'60 Dodge,38.0,290.0,running,0.0
+1961,22,Riverside,Riverside International Raceway,2.58,road course,5.0,9.0,84.0,Bob Perry,Bob Perry,'59 Ford,38.0,250.0,running,0.0
+1961,22,Riverside,Riverside International Raceway,2.58,road course,6.0,5.0,76.0,Danny Weinberg,Guy Kimball,'61 Ford,38.0,215.0,running,0.0
+1961,22,Riverside,Riverside International Raceway,2.58,road course,7.0,12.0,10.0,Jim Blomgren,Bob Smith,'60 Ford,38.0,160.0,running,0.0
+1961,22,Riverside,Riverside International Raceway,2.58,road course,8.0,3.0,45.0,Eddie Pagan,Bill Clinton,'61 Ford,38.0,160.0,running,0.0
+1961,22,Riverside,Riverside International Raceway,2.58,road course,9.0,10.0,5.0,Bruce Worrell,Bob Smith,'60 Ford,37.0,140.0,running,0.0
+1961,22,Riverside,Riverside International Raceway,2.58,road course,10.0,20.0,20.0,Jack Norton,William Peach,'59 Chevrolet,37.0,130.0,running,0.0
+1961,22,Riverside,Riverside International Raceway,2.58,road course,11.0,6.0,4.0,Scotty Cain,Scotty Cain,'60 T-Bird,37.0,130.0,running,0.0
+1961,22,Riverside,Riverside International Raceway,2.58,road course,12.0,13.0,41.0,Charlie Chapman,Charlie Chapman,'60 Ford,36.0,100.0,running,0.0
+1961,22,Riverside,Riverside International Raceway,2.58,road course,13.0,16.0,91.0,Dick Cook,Jack Chatenay,'59 Plymouth,36.0,90.0,running,0.0
+1961,22,Riverside,Riverside International Raceway,2.58,road course,14.0,15.0,27.0,Gus Newman,–,'59 Chevrolet,35.0,80.0,running,0.0
+1961,22,Riverside,Riverside International Raceway,2.58,road course,15.0,18.0,3.0,Dick Miller,–,'58 Ford,33.0,70.0,running,0.0
+1961,22,Riverside,Riverside International Raceway,2.58,road course,16.0,1.0,98.0,Eddie Gray,Eddie Gray,'61 Ford,33.0,85.0,running,12.0
+1961,22,Riverside,Riverside International Raceway,2.58,road course,17.0,17.0,25.0,Al Brand,–,'60 Ford,32.0,55.0,running,0.0
+1961,22,Riverside,Riverside International Raceway,2.58,road course,18.0,14.0,11.0,Cliff Hill,Jack Chatenay,'60 Plymouth,31.0,50.0,running,0.0
+1961,22,Riverside,Riverside International Raceway,2.58,road course,19.0,27.0,9.0,Bob Price,Fred Lauria,'59 Chevrolet,23.0,50.0,running,0.0
+1961,22,Riverside,Riverside International Raceway,2.58,road course,20.0,11.0,2.0,Ron Hornaday,Frank Galpin,'60 Ford,13.0,50.0,engine,0.0
+1961,22,Riverside,Riverside International Raceway,2.58,road course,21.0,26.0,0.0,Dick Getty,Dick Getty,'59 Chevrolet,5.0,50.0,fuel pump,0.0
+1961,22,Riverside,Riverside International Raceway,2.58,road course,22.0,23.0,35.0,Mike Mitchell,Jim McNeil,'58 Ford,5.0,50.0,overheating,0.0
+1961,22,Riverside,Riverside International Raceway,2.58,road course,23.0,21.0,21.0,Arley Scranton,Arley Scranton,'58 Ford,3.0,,overheating,0.0
+1961,22,Riverside,Riverside International Raceway,2.58,road course,24.0,25.0,75.0,Clem Proctor,–,'61 Corvair,3.0,,flagged,0.0
+1961,22,Riverside,Riverside International Raceway,2.58,road course,25.0,24.0,88.0,Joe Clark,–,'61 Chevrolet,3.0,,flagged,0.0
+1961,22,Riverside,Riverside International Raceway,2.58,road course,26.0,22.0,17.0,Marvin Heinis,–,'61 Chevrolet,2.0,,flagged,0.0
+1961,22,Riverside,Riverside International Raceway,2.58,road course,27.0,19.0,15.0,Bill Clinton,Bill Clinton,'60 Ford,1.0,,radiator,0.0
+1961,23,Los Angeles,Ascot Stadium,0.5,dirt track,1.0,2.0,98.0,Eddie Gray,Eddie Gray,'61 Ford,200.0,850.0,running,–
+1961,23,Los Angeles,Ascot Stadium,0.5,dirt track,2.0,7.0,7.0,Don Noel,Chuck Parkko,'61 Ford,199.0,500.0,running,–
+1961,23,Los Angeles,Ascot Stadium,0.5,dirt track,3.0,1.0,76.0,Danny Weinberg,Guy Kimball,'61 Ford,196.0,370.0,running,–
+1961,23,Los Angeles,Ascot Stadium,0.5,dirt track,4.0,4.0,10.0,Jim Blomgren,Bob Smith,'60 Ford,196.0,305.0,running,–
+1961,23,Los Angeles,Ascot Stadium,0.5,dirt track,5.0,9.0,2.0,Ron Hornaday,Frank Galpin,'60 Ford,196.0,250.0,running,–
+1961,23,Los Angeles,Ascot Stadium,0.5,dirt track,6.0,8.0,5.0,Bruce Worrell,Bob Smith,'60 Ford,194.0,200.0,running,–
+1961,23,Los Angeles,Ascot Stadium,0.5,dirt track,7.0,15.0,14.0,Ed Negre,–,'59 Ford,192.0,160.0,running,–
+1961,23,Los Angeles,Ascot Stadium,0.5,dirt track,8.0,11.0,45.0,Eddie Pagan,Bill Clinton,'61 Ford,192.0,150.0,running,–
+1961,23,Los Angeles,Ascot Stadium,0.5,dirt track,9.0,12.0,84.0,Bob Perry,Bob Perry,'59 Ford,191.0,140.0,running,–
+1961,23,Los Angeles,Ascot Stadium,0.5,dirt track,10.0,16.0,9.0,Bob Price,Fred Lauria,'59 Chevrolet,181.0,130.0,running,–
+1961,23,Los Angeles,Ascot Stadium,0.5,dirt track,11.0,20.0,15.0,Bill Clinton,Bill Clinton,'60 Ford,166.0,120.0,running,–
+1961,23,Los Angeles,Ascot Stadium,0.5,dirt track,12.0,18.0,25.0,Al Brand,–,'60 Ford,162.0,100.0,running,–
+1961,23,Los Angeles,Ascot Stadium,0.5,dirt track,13.0,5.0,44.0,Lloyd Dane,Lloyd Dane,'61 Chevrolet,161.0,90.0,running,–
+1961,23,Los Angeles,Ascot Stadium,0.5,dirt track,14.0,21.0,46.0,Bill Ferrier,–,'59 Ford,132.0,80.0,clutch,–
+1961,23,Los Angeles,Ascot Stadium,0.5,dirt track,15.0,17.0,3.0,Dick Miller,–,'58 Ford,101.0,70.0,engine,–
+1961,23,Los Angeles,Ascot Stadium,0.5,dirt track,16.0,19.0,20.0,Jack Norton,William Peach,'59 Chevrolet,93.0,60.0,rf hub,–
+1961,23,Los Angeles,Ascot Stadium,0.5,dirt track,17.0,14.0,0.0,Dick Getty,Dick Getty,'59 Chevrolet,81.0,50.0,running,–
+1961,23,Los Angeles,Ascot Stadium,0.5,dirt track,18.0,13.0,91.0,Dick Cook,Jack Chatenay,'60 Plymouth,80.0,50.0,transmission,–
+1961,23,Los Angeles,Ascot Stadium,0.5,dirt track,19.0,10.0,18.0,Dick Smith,William Long,'60 Ford,67.0,50.0,piston,–
+1961,23,Los Angeles,Ascot Stadium,0.5,dirt track,20.0,3.0,0.0,Jim Cook,Floyd Johnson,'60 Dodge,39.0,60.0,piston,–
+1961,23,Los Angeles,Ascot Stadium,0.5,dirt track,21.0,6.0,4.0,Scotty Cain,Scotty Cain,'60 T-Bird,14.0,50.0,piston,–
+1961,23,Los Angeles,Ascot Stadium,0.5,dirt track,22.0,22.0,27.0,Gus Newman,–,'59 Chevrolet,5.0,50.0,bearing,–
+1961,24,Charlotte,Charlotte Motor Speedway,1.5,paved track,1.0,3.0,3.0,David Pearson,Daytona Kennel (John Masoni),'61 Pontiac,400.0,24280.0,running,225.0
+1961,24,Charlotte,Charlotte Motor Speedway,1.5,paved track,2.0,10.0,22.0,Fireball Roberts,Packer Pontiac (Smokey Yunick),'61 Pontiac,398.0,9320.0,running,6.0
+1961,24,Charlotte,Charlotte Motor Speedway,1.5,paved track,3.0,8.0,4.0,Rex White,White-Clements (Rex White),'61 Chevrolet,397.0,7070.0,running,0.0
+1961,24,Charlotte,Charlotte Motor Speedway,1.5,paved track,4.0,11.0,11.0,Ned Jarrett,B.G. Holloway,'61 Chevrolet,397.0,4475.0,running,30.0
+1961,24,Charlotte,Charlotte Motor Speedway,1.5,paved track,5.0,25.0,14.0,Jim Paschal,Julian Petty,'61 Pontiac,394.0,3150.0,running,0.0
+1961,24,Charlotte,Charlotte Motor Speedway,1.5,paved track,6.0,39.0,30.0,Tiny Lund,Fred Clark,'60 Chevrolet,392.0,2450.0,running,0.0
+1961,24,Charlotte,Charlotte Motor Speedway,1.5,paved track,7.0,19.0,46.0,Jack Smith,Jack Smith,'61 Pontiac,392.0,1710.0,running,3.0
+1961,24,Charlotte,Charlotte Motor Speedway,1.5,paved track,8.0,14.0,47.0,Bob Welborn,Jack Smith,'61 Pontiac,392.0,1350.0,running,0.0
+1961,24,Charlotte,Charlotte Motor Speedway,1.5,paved track,9.0,23.0,27.0,Junior Johnson,Holly Farms (Rex Lovette),'61 Pontiac,390.0,1100.0,running,0.0
+1961,24,Charlotte,Charlotte Motor Speedway,1.5,paved track,10.0,2.0,8.0,Joe Weatherly,Bud Moore,'61 Pontiac,389.0,1040.0,running,14.0
+1961,24,Charlotte,Charlotte Motor Speedway,1.5,paved track,11.0,6.0,6.0,Ralph Earnhardt,Hedge's Pontiac (Cotton Owens),'61 Pontiac,386.0,1570.0,running,75.0
+1961,24,Charlotte,Charlotte Motor Speedway,1.5,paved track,12.0,30.0,1.0,Paul Lewis,Jess Potter,'61 Chevrolet,386.0,650.0,running,0.0
+1961,24,Charlotte,Charlotte Motor Speedway,1.5,paved track,13.0,33.0,82.0,Joe Eubanks,Don Every,'61 Ford,384.0,1350.0,running,0.0
+1961,24,Charlotte,Charlotte Motor Speedway,1.5,paved track,14.0,37.0,10.0,T.C. Hunt,Fred Wheat,'61 Dodge,376.0,1200.0,running,0.0
+1961,24,Charlotte,Charlotte Motor Speedway,1.5,paved track,15.0,17.0,85.0,Emanuel Zervakis,Monroe Shook,'61 Chevrolet,375.0,400.0,running,0.0
+1961,24,Charlotte,Charlotte Motor Speedway,1.5,paved track,16.0,54.0,93.0,Lee Reitzel,Pressley's Garage & Paint Shop (Lee Reitzel),'60 Ford,371.0,400.0,running,0.0
+1961,24,Charlotte,Charlotte Motor Speedway,1.5,paved track,17.0,44.0,61.0,Elmo Langley,Doc White,'59 T-Bird,371.0,400.0,running,0.0
+1961,24,Charlotte,Charlotte Motor Speedway,1.5,paved track,18.0,43.0,96.0,Friday Hassler,J.L. Cheatham,'60 Chevrolet,368.0,400.0,running,0.0
+1961,24,Charlotte,Charlotte Motor Speedway,1.5,paved track,19.0,12.0,72.0,Bobby Johns,Shorty Johns,'61 Ford,367.0,445.0,running,0.0
+1961,24,Charlotte,Charlotte Motor Speedway,1.5,paved track,20.0,7.0,18.0,Tommy Irwin,Stephens Pontiac (Bud Moore),'61 Pontiac,361.0,500.0,driveshaft,0.0
+1961,24,Charlotte,Charlotte Motor Speedway,1.5,paved track,21.0,38.0,5.0,Bobby Waddell,Bobby Waddell,'59 Chevrolet,361.0,300.0,running,0.0
+1961,24,Charlotte,Charlotte Motor Speedway,1.5,paved track,22.0,41.0,38.0,Ed Markstellar,Matt DeMatthews,'61 Ford,360.0,300.0,running,0.0
+1961,24,Charlotte,Charlotte Motor Speedway,1.5,paved track,23.0,48.0,23.0,Doug Yates,Raeford Johnson,'61 Plymouth,358.0,1100.0,running,0.0
+1961,24,Charlotte,Charlotte Motor Speedway,1.5,paved track,24.0,42.0,19.0,Herman Beam,Herman Beam,'60 Ford,357.0,250.0,running,0.0
+1961,24,Charlotte,Charlotte Motor Speedway,1.5,paved track,25.0,49.0,57.0,Wes Morgan,J.I. Divers,'61 Chevrolet,347.0,250.0,running,0.0
+1961,24,Charlotte,Charlotte Motor Speedway,1.5,paved track,26.0,32.0,86.0,Buddy Baker,Buck Baker,'61 Chrysler,342.0,1000.0,rear end,0.0
+1961,24,Charlotte,Charlotte Motor Speedway,1.5,paved track,27.0,13.0,53.0,Bob Burdick,Roy Burdick,'61 Pontiac,338.0,200.0,crash,0.0
+1961,24,Charlotte,Charlotte Motor Speedway,1.5,paved track,28.0,18.0,94.0,Banjo Matthews,Warrior Motel (Banjo Matthews),'61 Ford,336.0,250.0,engine,0.0
+1961,24,Charlotte,Charlotte Motor Speedway,1.5,paved track,29.0,36.0,80.0,Tubby Gonzales,Tubby Gonzales,'61 Ford,336.0,200.0,rear end,0.0
+1961,24,Charlotte,Charlotte Motor Speedway,1.5,paved track,30.0,1.0,43.0,Richard Petty,Petty Enterprises,'61 Plymouth,332.0,670.0,engine,47.0
+1961,24,Charlotte,Charlotte Motor Speedway,1.5,paved track,31.0,26.0,48.0,G.C. Spencer,G.C. Spencer,'60 Chevrolet,325.0,200.0,running,0.0
+1961,24,Charlotte,Charlotte Motor Speedway,1.5,paved track,32.0,55.0,71.0,Bob Barron,Bob Barron,'60 Dodge,291.0,200.0,flagged,0.0
+1961,24,Charlotte,Charlotte Motor Speedway,1.5,paved track,33.0,21.0,69.0,Johnny Allen,Win-Win-Win Corp. (B.G. Holloway),'61 Chevrolet,283.0,200.0,rear end,0.0
+1961,24,Charlotte,Charlotte Motor Speedway,1.5,paved track,34.0,29.0,2.0,Reds Kagle,Cafe Burgundy (Ratus Walters),'61 Ford,277.0,220.0,crash,0.0
+1961,24,Charlotte,Charlotte Motor Speedway,1.5,paved track,35.0,5.0,28.0,Fred Lorenzen,Holman-Moody Racing,'61 Ford,274.0,275.0,a frame,0.0
+1961,24,Charlotte,Charlotte Motor Speedway,1.5,paved track,36.0,50.0,9.0,Roy Tyner,Joe's Grill (Roy Tyner),'60 Ford,266.0,200.0,crash,0.0
+1961,24,Charlotte,Charlotte Motor Speedway,1.5,paved track,37.0,24.0,15.0,Tim Flock,Beau Morgan,'61 Ford,255.0,200.0,engine,0.0
+1961,24,Charlotte,Charlotte Motor Speedway,1.5,paved track,38.0,45.0,68.0,Ed Livingston,Curtis Crider,'60 Ford,254.0,200.0,engine,0.0
+1961,24,Charlotte,Charlotte Motor Speedway,1.5,paved track,39.0,35.0,54.0,Jimmy Pardue,Jimmy Pardue,'60 Chevrolet,221.0,200.0,bell housing,0.0
+1961,24,Charlotte,Charlotte Motor Speedway,1.5,paved track,40.0,46.0,62.0,Curtis Crider,Curtis Crider,'61 Mercury,203.0,1000.0,crankshaft,0.0
+1961,24,Charlotte,Charlotte Motor Speedway,1.5,paved track,41.0,9.0,16.0,Speedy Thompson,Beau Morgan,'61 Ford,186.0,225.0,camshaft,0.0
+1961,24,Charlotte,Charlotte Motor Speedway,1.5,paved track,42.0,15.0,87.0,Buck Baker,Buck Baker,'61 Chrysler,147.0,200.0,overheating,0.0
+1961,24,Charlotte,Charlotte Motor Speedway,1.5,paved track,43.0,4.0,20.0,Marvin Panch,Gillman Pontiac (Smokey Yunick),'60 Pontiac,140.0,230.0,crash,0.0
+1961,24,Charlotte,Charlotte Motor Speedway,1.5,paved track,44.0,20.0,21.0,Curtis Turner,Courtesy Ford (Wood Brothers),'61 Ford,139.0,220.0,crash,0.0
+1961,24,Charlotte,Charlotte Motor Speedway,1.5,paved track,45.0,31.0,44.0,Marvin Porter,Petty Enterprises,'60 Plymouth,136.0,200.0,engine,0.0
+1961,24,Charlotte,Charlotte Motor Speedway,1.5,paved track,46.0,22.0,29.0,Nelson Stacy,Holt-Stacy (Dudley Farrell),'61 Ford,128.0,200.0,bearing,0.0
+1961,24,Charlotte,Charlotte Motor Speedway,1.5,paved track,47.0,34.0,66.0,Jimmy Thompson,Cafe Burgundy (Ratus Walters),'60 Ford,113.0,200.0,axle,0.0
+1961,24,Charlotte,Charlotte Motor Speedway,1.5,paved track,48.0,53.0,31.0,Gene Stokes,Gene Stokes,'61 Studebaker,95.0,200.0,oil pressure,0.0
+1961,24,Charlotte,Charlotte Motor Speedway,1.5,paved track,49.0,27.0,7.0,Jim Reed,Jim Reed,'61 Chevrolet,93.0,250.0,valve spring,0.0
+1961,24,Charlotte,Charlotte Motor Speedway,1.5,paved track,50.0,16.0,24.0,Roscoe Thompson,James Turner,'60 Pontiac,70.0,200.0,clutch,0.0
+1961,24,Charlotte,Charlotte Motor Speedway,1.5,paved track,51.0,47.0,40.0,Bobby Allison,Ralph Stark,'60 Chevrolet,53.0,200.0,axle,0.0
+1961,24,Charlotte,Charlotte Motor Speedway,1.5,paved track,52.0,28.0,89.0,Joe Lee Johnson,Adcox Chevrolet (Joe Lee Johnson),'61 Chevrolet,40.0,230.0,crash,0.0
+1961,24,Charlotte,Charlotte Motor Speedway,1.5,paved track,53.0,40.0,75.0,Larry Frank,Lyle Stelter,'61 Pontiac,10.0,225.0,timing,0.0
+1961,24,Charlotte,Charlotte Motor Speedway,1.5,paved track,54.0,51.0,51.0,Doug Cox,Doug Cox,'59 T-Bird,6.0,200.0,engine,0.0
+1961,24,Charlotte,Charlotte Motor Speedway,1.5,paved track,55.0,52.0,35.0,E.J. Trivette,M.J. Black,'59 Plymouth,3.0,200.0,axle,0.0
+1961,25,Spartanburg,Piedmont Interstate Fairgrounds,0.5,dirt track,1.0,11.0,14.0,Jim Paschal,Julian Petty,'61 Pontiac,200.0,800.0,running,19.0
+1961,25,Spartanburg,Piedmont Interstate Fairgrounds,0.5,dirt track,2.0,2.0,6.0,Cotton Owens,Cotton Owens,'60 Pontiac,198.0,525.0,running,117.0
+1961,25,Spartanburg,Piedmont Interstate Fairgrounds,0.5,dirt track,3.0,19.0,42.0,Maurice Petty,Petty Enterprises,'60 Plymouth,197.0,375.0,running,0.0
+1961,25,Spartanburg,Piedmont Interstate Fairgrounds,0.5,dirt track,4.0,21.0,19.0,Herman Beam,Herman Beam,'60 Ford,188.0,275.0,running,0.0
+1961,25,Spartanburg,Piedmont Interstate Fairgrounds,0.5,dirt track,5.0,5.0,11.0,Ned Jarrett,B.G. Holloway,'61 Chevrolet,187.0,250.0,running,0.0
+1961,25,Spartanburg,Piedmont Interstate Fairgrounds,0.5,dirt track,6.0,12.0,54.0,Jimmy Pardue,Jimmy Pardue,'59 Chevrolet,187.0,215.0,running,0.0
+1961,25,Spartanburg,Piedmont Interstate Fairgrounds,0.5,dirt track,7.0,18.0,17.0,Fred Harb,Fred Harb,'59 Ford,177.0,175.0,engine,0.0
+1961,25,Spartanburg,Piedmont Interstate Fairgrounds,0.5,dirt track,8.0,13.0,48.0,G.C. Spencer,G.C. Spencer,'60 Chevrolet,130.0,150.0,running,0.0
+1961,25,Spartanburg,Piedmont Interstate Fairgrounds,0.5,dirt track,9.0,4.0,47.0,Jack Smith,Jack Smith,'61 Pontiac,125.0,140.0,running,0.0
+1961,25,Spartanburg,Piedmont Interstate Fairgrounds,0.5,dirt track,10.0,7.0,4.0,Rex White,White-Clements (Rex White),'60 Chevrolet,108.0,230.0,rear suspension,0.0
+1961,25,Spartanburg,Piedmont Interstate Fairgrounds,0.5,dirt track,11.0,3.0,86.0,Buck Baker,Buck Baker,'61 Chrysler,104.0,125.0,rear end,0.0
+1961,25,Spartanburg,Piedmont Interstate Fairgrounds,0.5,dirt track,12.0,14.0,55.0,Elmo Henderson,–,'59 T-Bird,84.0,110.0,crash,0.0
+1961,25,Spartanburg,Piedmont Interstate Fairgrounds,0.5,dirt track,13.0,9.0,51.0,Doug Cox,Doug Cox,'59 T-Bird,84.0,100.0,engine,0.0
+1961,25,Spartanburg,Piedmont Interstate Fairgrounds,0.5,dirt track,14.0,1.0,8.0,Joe Weatherly,Bud Moore,'61 Pontiac,70.0,85.0,crash,64.0
+1961,25,Spartanburg,Piedmont Interstate Fairgrounds,0.5,dirt track,15.0,8.0,43.0,Richard Petty,Petty Enterprises,'60 Plymouth,70.0,70.0,crash,0.0
+1961,25,Spartanburg,Piedmont Interstate Fairgrounds,0.5,dirt track,16.0,16.0,99.0,Wilbur Rakestraw,Joe Jones,'61 Ford,62.0,60.0,a frame,0.0
+1961,25,Spartanburg,Piedmont Interstate Fairgrounds,0.5,dirt track,17.0,17.0,67.0,David Pearson,David Pearson,'60 Chevrolet,37.0,50.0,overheating,0.0
+1961,25,Spartanburg,Piedmont Interstate Fairgrounds,0.5,dirt track,18.0,15.0,62.0,Curtis Crider,Curtis Crider,'60 Ford,24.0,50.0,running,0.0
+1961,25,Spartanburg,Piedmont Interstate Fairgrounds,0.5,dirt track,19.0,6.0,27.0,Junior Johnson,Holly Farms (Rex Lovette),'61 Pontiac,13.0,50.0,a frame,0.0
+1961,25,Spartanburg,Piedmont Interstate Fairgrounds,0.5,dirt track,20.0,20.0,71.0,Bob Barron,Bob Barron,'60 Dodge,5.0,50.0,overheating,0.0
+1961,25,Spartanburg,Piedmont Interstate Fairgrounds,0.5,dirt track,21.0,10.0,93.0,Darel Dieringer,Lee Reitzel,'60 Ford,1.0,50.0,spindle,0.0
+1961,26,Birmingham,Fairgrounds Raceway,0.5,dirt track,1.0,4.0,11.0,Ned Jarrett,B.G. Holloway,'61 Chevrolet,200.0,800.0,running,–
+1961,26,Birmingham,Fairgrounds Raceway,0.5,dirt track,2.0,6.0,14.0,Jim Paschal,Julian Petty,'61 Pontiac,198.0,525.0,running,–
+1961,26,Birmingham,Fairgrounds Raceway,0.5,dirt track,3.0,2.0,46.0,Jack Smith,Jack Smith,'61 Pontiac,198.0,375.0,running,–
+1961,26,Birmingham,Fairgrounds Raceway,0.5,dirt track,4.0,5.0,4.0,Rex White,White-Clements (Rex White),'60 Chevrolet,197.0,375.0,running,–
+1961,26,Birmingham,Fairgrounds Raceway,0.5,dirt track,5.0,10.0,39.0,Tommy Wells,–,'60 Chevrolet,192.0,250.0,running,–
+1961,26,Birmingham,Fairgrounds Raceway,0.5,dirt track,6.0,9.0,19.0,Herman Beam,Herman Beam,'60 Ford,190.0,215.0,running,–
+1961,26,Birmingham,Fairgrounds Raceway,0.5,dirt track,7.0,7.0,99.0,Wilbur Rakestraw,Joe Jones,'61 Ford,185.0,175.0,running,–
+1961,26,Birmingham,Fairgrounds Raceway,0.5,dirt track,8.0,13.0,71.0,Bob Barron,Bob Barron,'60 Dodge,168.0,150.0,running,–
+1961,26,Birmingham,Fairgrounds Raceway,0.5,dirt track,9.0,11.0,48.0,G.C. Spencer,G.C. Spencer,'60 Chevrolet,110.0,140.0,rear end,–
+1961,26,Birmingham,Fairgrounds Raceway,0.5,dirt track,10.0,1.0,69.0,Johnny Allen,B.G. Holloway,'61 Chevrolet,91.0,130.0,a frame,–
+1961,26,Birmingham,Fairgrounds Raceway,0.5,dirt track,11.0,3.0,86.0,Buck Baker,Buck Baker,'61 Chrysler,44.0,125.0,rf hub,–
+1961,26,Birmingham,Fairgrounds Raceway,0.5,dirt track,12.0,12.0,89.0,Bob Welborn,Joe Lee Johnson,'61 Chevrolet,7.0,110.0,con rod,–
+1961,26,Birmingham,Fairgrounds Raceway,0.5,dirt track,13.0,8.0,54.0,Jimmy Pardue,Jimmy Pardue,'59 Chevrolet,3.0,100.0,crash,–
+1961,27,Greenville,Greenville-Pickens Speedway,0.5,dirt track,1.0,7.0,47.0,Jack Smith,Jack Smith,'61 Pontiac,200.0,800.0,running,30.0
+1961,27,Greenville,Greenville-Pickens Speedway,0.5,dirt track,2.0,1.0,11.0,Ned Jarrett,B.G. Holloway,'61 Chevrolet,199.0,525.0,running,170.0
+1961,27,Greenville,Greenville-Pickens Speedway,0.5,dirt track,3.0,4.0,85.0,Emanuel Zervakis,Monroe Shook,'61 Chevrolet,198.0,375.0,running,0.0
+1961,27,Greenville,Greenville-Pickens Speedway,0.5,dirt track,4.0,10.0,8.0,Joe Weatherly,Bud Moore,'61 Pontiac,198.0,275.0,running,0.0
+1961,27,Greenville,Greenville-Pickens Speedway,0.5,dirt track,5.0,3.0,14.0,Jim Paschal,Julian Petty,'61 Pontiac,196.0,250.0,running,0.0
+1961,27,Greenville,Greenville-Pickens Speedway,0.5,dirt track,6.0,11.0,7.0,Elmo Henderson,–,'60 Pontiac,193.0,215.0,running,0.0
+1961,27,Greenville,Greenville-Pickens Speedway,0.5,dirt track,7.0,23.0,42.0,Maurice Petty,Petty Enterprises,'60 Plymouth,191.0,175.0,running,0.0
+1961,27,Greenville,Greenville-Pickens Speedway,0.5,dirt track,8.0,6.0,4.0,Rex White,White-Clements (Rex White),'61 Chevrolet,190.0,150.0,running,0.0
+1961,27,Greenville,Greenville-Pickens Speedway,0.5,dirt track,9.0,9.0,48.0,G.C. Spencer,G.C. Spencer,'60 Chevrolet,186.0,140.0,running,0.0
+1961,27,Greenville,Greenville-Pickens Speedway,0.5,dirt track,10.0,15.0,54.0,Jimmy Pardue,Jimmy Pardue,'59 Chevrolet,183.0,130.0,running,0.0
+1961,27,Greenville,Greenville-Pickens Speedway,0.5,dirt track,11.0,26.0,19.0,Herman Beam,Herman Beam,'60 Ford,181.0,125.0,running,0.0
+1961,27,Greenville,Greenville-Pickens Speedway,0.5,dirt track,12.0,22.0,62.0,Curtis Crider,Curtis Crider,'60 Ford,177.0,110.0,running,0.0
+1961,27,Greenville,Greenville-Pickens Speedway,0.5,dirt track,13.0,17.0,71.0,Bob Barron,Bob Barron,'60 Dodge,172.0,100.0,running,0.0
+1961,27,Greenville,Greenville-Pickens Speedway,0.5,dirt track,14.0,24.0,35.0,E.J. Trivette,M.J. Black,'59 Plymouth,171.0,85.0,running,0.0
+1961,27,Greenville,Greenville-Pickens Speedway,0.5,dirt track,15.0,18.0,93.0,Lee Reitzel,Lee Reitzel,'60 Ford,164.0,70.0,running,0.0
+1961,27,Greenville,Greenville-Pickens Speedway,0.5,dirt track,16.0,8.0,43.0,Richard Petty,Petty Enterprises,'60 Plymouth,130.0,60.0,a frame,0.0
+1961,27,Greenville,Greenville-Pickens Speedway,0.5,dirt track,17.0,5.0,67.0,David Pearson,David Pearson,'60 Chevrolet,123.0,50.0,steering,0.0
+1961,27,Greenville,Greenville-Pickens Speedway,0.5,dirt track,18.0,14.0,89.0,Bob Welborn,Joe Lee Johnson,'61 Chevrolet,110.0,50.0,rear end,0.0
+1961,27,Greenville,Greenville-Pickens Speedway,0.5,dirt track,19.0,19.0,58.0,Bunk Moore,–,'60 Ford,91.0,50.0,piston,0.0
+1961,27,Greenville,Greenville-Pickens Speedway,0.5,dirt track,20.0,12.0,17.0,Fred Harb,Fred Harb,'59 Ford,85.0,50.0,rear end,0.0
+1961,27,Greenville,Greenville-Pickens Speedway,0.5,dirt track,21.0,13.0,51.0,Doug Cox,Doug Cox,'59 T-Bird,27.0,50.0,crash,0.0
+1961,27,Greenville,Greenville-Pickens Speedway,0.5,dirt track,22.0,16.0,86.0,Buck Baker,Buck Baker,'61 Chrysler,23.0,50.0,crash,0.0
+1961,27,Greenville,Greenville-Pickens Speedway,0.5,dirt track,23.0,21.0,1.0,Paul Lewis,Jess Potter,'61 Chevrolet,23.0,,crash,0.0
+1961,27,Greenville,Greenville-Pickens Speedway,0.5,dirt track,24.0,25.0,55.0,Bob Gossett,–,'59 T-Bird,19.0,,oil pressure,0.0
+1961,27,Greenville,Greenville-Pickens Speedway,0.5,dirt track,25.0,2.0,27.0,Junior Johnson,Holly Farms (Rex Lovette),'61 Pontiac,13.0,,fan belt,0.0
+1961,27,Greenville,Greenville-Pickens Speedway,0.5,dirt track,26.0,20.0,99.0,George Alsobrook,Joe Jones,'61 Ford,8.0,,overheating,0.0
+1961,28,Winston-Salem,Bowman Gray Stadium,0.25,paved track,1.0,4.0,4.0,Rex White,White-Clements (Rex White),'60 Chevrolet,200.0,900.0,running,–
+1961,28,Winston-Salem,Bowman Gray Stadium,0.25,paved track,2.0,3.0,7.0,Jim Reed,Jim Reed,'61 Chevrolet,200.0,525.0,running,–
+1961,28,Winston-Salem,Bowman Gray Stadium,0.25,paved track,3.0,1.0,27.0,Junior Johnson,Holly Farms (Rex Lovette),'60 Pontiac,199.0,375.0,running,–
+1961,28,Winston-Salem,Bowman Gray Stadium,0.25,paved track,4.0,8.0,85.0,Emanuel Zervakis,Monroe Shook,'60 Chevrolet,198.0,275.0,running,–
+1961,28,Winston-Salem,Bowman Gray Stadium,0.25,paved track,5.0,6.0,43.0,Richard Petty,Petty Enterprises,'60 Plymouth,198.0,250.0,running,–
+1961,28,Winston-Salem,Bowman Gray Stadium,0.25,paved track,6.0,7.0,11.0,Ned Jarrett,B.G. Holloway,'61 Chevrolet,196.0,215.0,running,–
+1961,28,Winston-Salem,Bowman Gray Stadium,0.25,paved track,7.0,22.0,86.0,Buck Baker,Buck Baker,'61 Chrysler,195.0,175.0,running,–
+1961,28,Winston-Salem,Bowman Gray Stadium,0.25,paved track,8.0,20.0,48.0,G.C. Spencer,G.C. Spencer,'60 Chevrolet,193.0,150.0,running,–
+1961,28,Winston-Salem,Bowman Gray Stadium,0.25,paved track,9.0,18.0,54.0,Jimmy Pardue,Jimmy Pardue,'59 Chevrolet,192.0,140.0,running,–
+1961,28,Winston-Salem,Bowman Gray Stadium,0.25,paved track,10.0,13.0,23.0,Doug Yates,Raeford Johnson,'59 Plymouth,188.0,130.0,running,–
+1961,28,Winston-Salem,Bowman Gray Stadium,0.25,paved track,11.0,5.0,14.0,Jim Paschal,Julian Petty,'61 Pontiac,186.0,125.0,rr tire,–
+1961,28,Winston-Salem,Bowman Gray Stadium,0.25,paved track,12.0,11.0,68.0,Pete Boland,Curtis Crider,'60 Ford,185.0,110.0,running,–
+1961,28,Winston-Salem,Bowman Gray Stadium,0.25,paved track,13.0,10.0,42.0,Maurice Petty,Petty Enterprises,'60 Plymouth,184.0,100.0,running,–
+1961,28,Winston-Salem,Bowman Gray Stadium,0.25,paved track,14.0,15.0,19.0,Herman Beam,Herman Beam,'60 Ford,183.0,85.0,running,–
+1961,28,Winston-Salem,Bowman Gray Stadium,0.25,paved track,15.0,14.0,62.0,Curtis Crider,Curtis Crider,'60 Ford,181.0,70.0,running,–
+1961,28,Winston-Salem,Bowman Gray Stadium,0.25,paved track,16.0,19.0,71.0,Bob Barron,Bob Barron,'60 Dodge,174.0,60.0,running,–
+1961,28,Winston-Salem,Bowman Gray Stadium,0.25,paved track,17.0,21.0,8.0,Larry Thomas,–,'60 Chevrolet,150.0,50.0,rr tire,–
+1961,28,Winston-Salem,Bowman Gray Stadium,0.25,paved track,18.0,2.0,21.0,Glen Wood,Wood Brothers,'61 Ford,124.0,50.0,brakes,–
+1961,28,Winston-Salem,Bowman Gray Stadium,0.25,paved track,19.0,12.0,97.0,Harry Leake,Harry Leake,'59 Chevrolet,87.0,50.0,water hose,–
+1961,28,Winston-Salem,Bowman Gray Stadium,0.25,paved track,20.0,16.0,17.0,Fred Harb,Fred Harb,'59 Ford,83.0,50.0,door,–
+1961,28,Winston-Salem,Bowman Gray Stadium,0.25,paved track,21.0,9.0,34.0,Wendell Scott,Wendell Scott,'60 Chevrolet,78.0,50.0,brakes,–
+1961,28,Winston-Salem,Bowman Gray Stadium,0.25,paved track,22.0,17.0,93.0,Lee Reitzel,Lee Reitzel,'60 Ford,36.0,50.0,brakes,–
+1961,29,Norwood,Norwood Arena,0.25,paved track,1.0,3.0,85.0,Emanuel Zervakis,Monroe Shook,'60 Chevrolet,500.0,2250.0,running,361.0
+1961,29,Norwood,Norwood Arena,0.25,paved track,2.0,1.0,4.0,Rex White,White-Clements (Rex White),'60 Chevrolet,500.0,1000.0,running,125.0
+1961,29,Norwood,Norwood Arena,0.25,paved track,3.0,9.0,11.0,Ned Jarrett,B.G. Holloway,'61 Chevrolet,491.0,800.0,running,14.0
+1961,29,Norwood,Norwood Arena,0.25,paved track,4.0,5.0,86.0,Buck Baker,Buck Baker,'61 Chrysler,476.0,700.0,running,0.0
+1961,29,Norwood,Norwood Arena,0.25,paved track,5.0,4.0,7.0,Jim Reed,Jim Reed,'61 Chevrolet,473.0,600.0,running,0.0
+1961,29,Norwood,Norwood Arena,0.25,paved track,6.0,2.0,14.0,Jim Paschal,Julian Petty,'61 Pontiac,467.0,500.0,running,0.0
+1961,29,Norwood,Norwood Arena,0.25,paved track,7.0,11.0,90.0,Buzz Woodward,Buzz Woodward,'59 Ford,456.0,400.0,running,0.0
+1961,29,Norwood,Norwood Arena,0.25,paved track,8.0,14.0,27.0,Dominic Persicketti,Dominic Persicketti,'59 Ford,450.0,300.0,running,0.0
+1961,29,Norwood,Norwood Arena,0.25,paved track,9.0,13.0,38.0,Sammy Packard,Matt DeMatthews,'61 Ford,444.0,275.0,running,0.0
+1961,29,Norwood,Norwood Arena,0.25,paved track,10.0,8.0,34.0,Wendell Scott,Wendell Scott,'60 Chevrolet,426.0,250.0,running,0.0
+1961,29,Norwood,Norwood Arena,0.25,paved track,11.0,7.0,55.0,Ernie Gahan,John Koszela,'59 Chevrolet,335.0,225.0,running,0.0
+1961,29,Norwood,Norwood Arena,0.25,paved track,12.0,17.0,60.0,Eddie Flemke,–,'61 Dodge,231.0,175.0,axle,0.0
+1961,29,Norwood,Norwood Arena,0.25,paved track,13.0,12.0,56.0,Budd Olsen,Budd Olsen,'60 Chevrolet,168.0,175.0,disqualified,0.0
+1961,29,Norwood,Norwood Arena,0.25,paved track,14.0,15.0,64.0,Harold Wilcox,–,'59 Oldsmobile,112.0,150.0,wheel bearing,0.0
+1961,29,Norwood,Norwood Arena,0.25,paved track,15.0,10.0,24.0,Bob Devine,Walt Shutt,'61 Chevrolet,92.0,150.0,rocker arm,0.0
+1961,29,Norwood,Norwood Arena,0.25,paved track,16.0,16.0,54.0,Jimmy Pardue,Jimmy Pardue,'61 Chevrolet,2.0,150.0,piston,0.0
+1961,29,Norwood,Norwood Arena,0.25,paved track,17.0,6.0,66.0,Hoss Kagle,Cafe Burgundy (Ratus Walters),'60 Ford,2.0,125.0,engine,0.0
+1961,29,Norwood,Norwood Arena,0.25,paved track,18.0,18.0,57.0,Jimmy Mairs,–,'61 Chevrolet,2.0,125.0,con rod,0.0
+1961,30,Hartsville,Hartsville Speedway,0.333,dirt track,1.0,3.0,86.0,Buck Baker,Buck Baker,'61 Chrysler,150.0,760.0,running,–
+1961,30,Hartsville,Hartsville Speedway,0.333,dirt track,2.0,9.0,47.0,Jack Smith,Jack Smith,'61 Pontiac,150.0,520.0,running,–
+1961,30,Hartsville,Hartsville Speedway,0.333,dirt track,3.0,6.0,4.0,Rex White,White-Clements (Rex White),'60 Chevrolet,149.0,460.0,running,–
+1961,30,Hartsville,Hartsville Speedway,0.333,dirt track,4.0,7.0,67.0,David Pearson,David Pearson,'60 Chevrolet,148.0,265.0,running,–
+1961,30,Hartsville,Hartsville Speedway,0.333,dirt track,5.0,4.0,27.0,Junior Johnson,Holly Farms (Rex Lovette),'60 Pontiac,148.0,250.0,running,–
+1961,30,Hartsville,Hartsville Speedway,0.333,dirt track,6.0,2.0,11.0,Ned Jarrett,B.G. Holloway,'61 Chevrolet,147.0,220.0,running,–
+1961,30,Hartsville,Hartsville Speedway,0.333,dirt track,7.0,13.0,54.0,Jimmy Pardue,Jimmy Pardue,'60 Chevrolet,144.0,215.0,running,–
+1961,30,Hartsville,Hartsville Speedway,0.333,dirt track,8.0,16.0,97.0,Harry Leake,Harry Leake,'60 Chevrolet,138.0,150.0,running,–
+1961,30,Hartsville,Hartsville Speedway,0.333,dirt track,9.0,12.0,34.0,Wendell Scott,Wendell Scott,'60 Chevrolet,137.0,140.0,running,–
+1961,30,Hartsville,Hartsville Speedway,0.333,dirt track,10.0,14.0,93.0,Lee Reitzel,Lee Reitzel,'60 Ford,131.0,130.0,running,–
+1961,30,Hartsville,Hartsville Speedway,0.333,dirt track,11.0,17.0,19.0,Herman Beam,Herman Beam,'60 Ford,131.0,125.0,running,–
+1961,30,Hartsville,Hartsville Speedway,0.333,dirt track,12.0,11.0,62.0,Homer Galloway,Curtis Crider,'60 Ford,127.0,110.0,running,–
+1961,30,Hartsville,Hartsville Speedway,0.333,dirt track,13.0,8.0,68.0,Curtis Crider,Curtis Crider,'60 Ford,124.0,100.0,running,–
+1961,30,Hartsville,Hartsville Speedway,0.333,dirt track,14.0,15.0,71.0,Bob Barron,Bob Barron,'60 Dodge,120.0,85.0,running,–
+1961,30,Hartsville,Hartsville Speedway,0.333,dirt track,15.0,18.0,77.0,Joe Jones,Joe Jones,'60 Ford,118.0,70.0,rr axle,–
+1961,30,Hartsville,Hartsville Speedway,0.333,dirt track,16.0,1.0,85.0,Emanuel Zervakis,Monroe Shook,'60 Chevrolet,101.0,60.0,crash,–
+1961,30,Hartsville,Hartsville Speedway,0.333,dirt track,17.0,10.0,43.0,Richard Petty,Petty Enterprises,'61 Plymouth,69.0,65.0,engine,–
+1961,30,Hartsville,Hartsville Speedway,0.333,dirt track,18.0,5.0,17.0,Fred Harb,Fred Harb,'59 Ford,68.0,50.0,rr axle,–
+1961,31,Roanoke,Starkey Speedway,0.25,paved track,1.0,2.0,27.0,Junior Johnson,Holly Farms (Rex Lovette),'60 Pontiac,150.0,900.0,running,119.0
+1961,31,Roanoke,Starkey Speedway,0.25,paved track,2.0,1.0,4.0,Rex White,White-Clements (Rex White),'60 Chevrolet,149.0,725.0,running,20.0
+1961,31,Roanoke,Starkey Speedway,0.25,paved track,3.0,3.0,14.0,Jim Paschal,Julian Petty,'61 Pontiac,149.0,475.0,running,0.0
+1961,31,Roanoke,Starkey Speedway,0.25,paved track,4.0,4.0,43.0,Richard Petty,Petty Enterprises,'61 Plymouth,147.0,295.0,running,0.0
+1961,31,Roanoke,Starkey Speedway,0.25,paved track,5.0,18.0,85.0,Emanuel Zervakis,Monroe Shook,'60 Chevrolet,146.0,250.0,running,0.0
+1961,31,Roanoke,Starkey Speedway,0.25,paved track,6.0,20.0,23.0,Doug Yates,Raeford Johnson,'59 Plymouth,144.0,200.0,running,0.0
+1961,31,Roanoke,Starkey Speedway,0.25,paved track,7.0,9.0,48.0,G.C. Spencer,G.C. Spencer,'60 Chevrolet,144.0,175.0,running,0.0
+1961,31,Roanoke,Starkey Speedway,0.25,paved track,8.0,13.0,34.0,Wendell Scott,Wendell Scott,'60 Chevrolet,140.0,170.0,running,0.0
+1961,31,Roanoke,Starkey Speedway,0.25,paved track,9.0,10.0,86.0,Buck Baker,Buck Baker,'61 Chrysler,140.0,175.0,running,0.0
+1961,31,Roanoke,Starkey Speedway,0.25,paved track,10.0,14.0,57.0,Wes Morgan,J.I. Divers,'61 Chevrolet,139.0,155.0,running,0.0
+1961,31,Roanoke,Starkey Speedway,0.25,paved track,11.0,5.0,11.0,Ned Jarrett,B.G. Holloway,'61 Chevrolet,136.0,155.0,running,11.0
+1961,31,Roanoke,Starkey Speedway,0.25,paved track,12.0,17.0,71.0,Bob Barron,Bob Barron,'60 Dodge,134.0,120.0,running,0.0
+1961,31,Roanoke,Starkey Speedway,0.25,paved track,13.0,12.0,19.0,Herman Beam,Herman Beam,'60 Ford,134.0,110.0,running,0.0
+1961,31,Roanoke,Starkey Speedway,0.25,paved track,14.0,11.0,8.0,Larry Thomas,–,'60 Chevrolet,133.0,115.0,running,0.0
+1961,31,Roanoke,Starkey Speedway,0.25,paved track,15.0,15.0,62.0,Curtis Crider,Curtis Crider,'60 Ford,132.0,80.0,running,0.0
+1961,31,Roanoke,Starkey Speedway,0.25,paved track,16.0,19.0,93.0,Lee Reitzel,Lee Reitzel,'60 Ford,130.0,50.0,running,0.0
+1961,31,Roanoke,Starkey Speedway,0.25,paved track,17.0,16.0,77.0,Joe Jones,Joe Jones,'60 Ford,119.0,25.0,running,0.0
+1961,31,Roanoke,Starkey Speedway,0.25,paved track,18.0,8.0,97.0,Harry Leake,Harry Leake,'60 Chevrolet,113.0,35.0,rr axle,0.0
+1961,31,Roanoke,Starkey Speedway,0.25,paved track,19.0,6.0,68.0,Charles Williamson,Curtis Crider,'60 Ford,107.0,30.0,tires,0.0
+1961,31,Roanoke,Starkey Speedway,0.25,paved track,20.0,7.0,54.0,Jimmy Pardue,Jimmy Pardue,'59 Chevrolet,27.0,45.0,radiator,0.0
+1961,32,Daytona,Daytona International Speedway,2.5,paved track,1.0,2.0,3.0,David Pearson,Daytona Kennel (John Masoni),'61 Pontiac,100.0,8450.0,running,11.0
+1961,32,Daytona,Daytona International Speedway,2.5,paved track,2.0,7.0,28.0,Fred Lorenzen,Holman-Moody Racing,'61 Ford,100.0,4275.0,running,18.0
+1961,32,Daytona,Daytona International Speedway,2.5,paved track,3.0,10.0,46.0,Jack Smith,Jack Smith,'61 Pontiac,99.0,2700.0,running,0.0
+1961,32,Daytona,Daytona International Speedway,2.5,paved track,4.0,6.0,20.0,Marvin Panch,Smokey Yunick,'60 Pontiac,99.0,1525.0,running,0.0
+1961,32,Daytona,Daytona International Speedway,2.5,paved track,5.0,1.0,22.0,Fireball Roberts,Smokey Yunick,'61 Pontiac,98.0,1525.0,running,59.0
+1961,32,Daytona,Daytona International Speedway,2.5,paved track,6.0,3.0,8.0,Joe Weatherly,Bud Moore,'61 Pontiac,98.0,1250.0,running,6.0
+1961,32,Daytona,Daytona International Speedway,2.5,paved track,7.0,13.0,29.0,Nelson Stacy,Holt-Stacy (Dudley Farrell),'61 Ford,98.0,800.0,running,0.0
+1961,32,Daytona,Daytona International Speedway,2.5,paved track,8.0,11.0,24.0,Roscoe Thompson,James Turner,'60 Pontiac,97.0,825.0,running,0.0
+1961,32,Daytona,Daytona International Speedway,2.5,paved track,9.0,14.0,76.0,Larry Frank,LaFayette Motors (Dick Wright),'61 Ford,97.0,675.0,running,0.0
+1961,32,Daytona,Daytona International Speedway,2.5,paved track,10.0,8.0,6.0,Ralph Earnhardt,Cotton Owens,'61 Pontiac,96.0,700.0,running,0.0
+1961,32,Daytona,Daytona International Speedway,2.5,paved track,11.0,12.0,15.0,Jim Bennett,Beau Morgan,'61 Ford,96.0,500.0,running,0.0
+1961,32,Daytona,Daytona International Speedway,2.5,paved track,12.0,17.0,11.0,Ned Jarrett,B.G. Holloway,'61 Chevrolet,96.0,350.0,running,0.0
+1961,32,Daytona,Daytona International Speedway,2.5,paved track,13.0,19.0,69.0,Johnny Allen,B.G. Holloway,'61 Chevrolet,96.0,320.0,running,0.0
+1961,32,Daytona,Daytona International Speedway,2.5,paved track,14.0,21.0,89.0,Herb Tillman,Joe Lee Johnson,'61 Chevrolet,95.0,300.0,running,0.0
+1961,32,Daytona,Daytona International Speedway,2.5,paved track,15.0,5.0,72.0,Bobby Johns,Shorty Johns,'61 Ford,94.0,420.0,head gasket,3.0
+1961,32,Daytona,Daytona International Speedway,2.5,paved track,16.0,15.0,82.0,Marvin Porter,Henry Dunbar,'61 Ford,94.0,295.0,running,0.0
+1961,32,Daytona,Daytona International Speedway,2.5,paved track,17.0,9.0,27.0,Junior Johnson,Holly Farms (Rex Lovette),'61 Pontiac,93.0,300.0,running,0.0
+1961,32,Daytona,Daytona International Speedway,2.5,paved track,18.0,16.0,5.0,Woodie Wilson,Leroy Faucett,'61 Pontiac,92.0,275.0,running,0.0
+1961,32,Daytona,Daytona International Speedway,2.5,paved track,19.0,27.0,54.0,Jimmy Pardue,Jimmy Pardue,'60 Chevrolet,92.0,250.0,running,0.0
+1961,32,Daytona,Daytona International Speedway,2.5,paved track,20.0,28.0,75.0,Tiny Lund,J.D. Braswell,'61 Pontiac,91.0,250.0,running,0.0
+1961,32,Daytona,Daytona International Speedway,2.5,paved track,21.0,23.0,19.0,Herman Beam,Herman Beam,'60 Ford,91.0,250.0,running,0.0
+1961,32,Daytona,Daytona International Speedway,2.5,paved track,22.0,4.0,94.0,Banjo Matthews,Banjo Matthews,'61 Ford,82.0,600.0,engine,3.0
+1961,32,Daytona,Daytona International Speedway,2.5,paved track,23.0,26.0,4.0,Rex White,White-Clements (Rex White),'61 Chevrolet,63.0,350.0,con rod,0.0
+1961,32,Daytona,Daytona International Speedway,2.5,paved track,24.0,25.0,62.0,Curtis Crider,Curtis Crider,'61 Mercury,52.0,250.0,flagged,0.0
+1961,32,Daytona,Daytona International Speedway,2.5,paved track,25.0,30.0,33.0,Reb Wickersham,Reb Wickersham,'60 Oldsmobile,49.0,250.0,flagged,0.0
+1961,32,Daytona,Daytona International Speedway,2.5,paved track,26.0,18.0,99.0,George Alsobrook,Joe Jones,'61 Ford,27.0,150.0,con rod,0.0
+1961,32,Daytona,Daytona International Speedway,2.5,paved track,27.0,20.0,86.0,Buddy Baker,Buck Baker,'61 Chrysler,15.0,150.0,engine,0.0
+1961,32,Daytona,Daytona International Speedway,2.5,paved track,28.0,22.0,38.0,Roy Tyner,Matt DeMatthews,'61 Ford,8.0,150.0,engine,0.0
+1961,32,Daytona,Daytona International Speedway,2.5,paved track,29.0,24.0,85.0,Emanuel Zervakis,Monroe Shook,'61 Ford,4.0,150.0,camshaft,0.0
+1961,32,Daytona,Daytona International Speedway,2.5,paved track,30.0,29.0,87.0,Buck Baker,Buck Baker,'61 Chrysler,2.0,150.0,transmission,0.0
+1961,33,Atlanta,Atlanta International Raceway,1.5,paved track,1.0,5.0,28.0,Fred Lorenzen,Courtesy Ford (Holman-Moody Racing),'61 Ford,167.0,7085.0,running,52.0
+1961,33,Atlanta,Atlanta International Raceway,1.5,paved track,2.0,7.0,47.0,Bob Welborn,Jack Smith,'61 Pontiac,166.0,3580.0,running,26.0
+1961,33,Atlanta,Atlanta International Raceway,1.5,paved track,3.0,39.0,43.0,Richard Petty,Petty Enterprises,'61 Plymouth,164.0,2275.0,running,0.0
+1961,33,Atlanta,Atlanta International Raceway,1.5,paved track,4.0,21.0,85.0,Emanuel Zervakis,Monroe Shook,'61 Chevrolet,163.0,1475.0,running,0.0
+1961,33,Atlanta,Atlanta International Raceway,1.5,paved track,5.0,12.0,46.0,Jack Smith,Trotter Pontiac / Rodgers & Co. (Jack Smith),'61 Pontiac,161.0,1310.0,running,2.0
+1961,33,Atlanta,Atlanta International Raceway,1.5,paved track,6.0,19.0,87.0,Buck Baker,Buck Baker,'61 Chrysler,160.0,1150.0,running,0.0
+1961,33,Atlanta,Atlanta International Raceway,1.5,paved track,7.0,23.0,96.0,Friday Hassler,J.L. Cheatham,'60 Chevrolet,159.0,1025.0,running,0.0
+1961,33,Atlanta,Atlanta International Raceway,1.5,paved track,8.0,20.0,86.0,Buddy Baker,Buck Baker,'61 Chrysler,159.0,925.0,running,0.0
+1961,33,Atlanta,Atlanta International Raceway,1.5,paved track,9.0,30.0,48.0,G.C. Spencer,G.C. Spencer,'60 Chevrolet,158.0,850.0,running,0.0
+1961,33,Atlanta,Atlanta International Raceway,1.5,paved track,10.0,11.0,4.0,Rex White,White-Clements (Rex White),'61 Chevrolet,157.0,900.0,running,0.0
+1961,33,Atlanta,Atlanta International Raceway,1.5,paved track,11.0,8.0,6.0,Ralph Earnhardt,Cotton Owens,'61 Pontiac,157.0,750.0,running,0.0
+1961,33,Atlanta,Atlanta International Raceway,1.5,paved track,12.0,1.0,22.0,Fireball Roberts,Smokey Yunick,'61 Pontiac,155.0,1025.0,running,51.0
+1961,33,Atlanta,Atlanta International Raceway,1.5,paved track,13.0,18.0,82.0,Marvin Porter,Henry Dunbar,'61 Ford,154.0,625.0,running,0.0
+1961,33,Atlanta,Atlanta International Raceway,1.5,paved track,14.0,16.0,11.0,Ned Jarrett,B.G. Holloway,'61 Chevrolet,153.0,550.0,engine,0.0
+1961,33,Atlanta,Atlanta International Raceway,1.5,paved track,15.0,15.0,5.0,Woodie Wilson,Leroy Faucett,'61 Pontiac,153.0,550.0,running,0.0
+1961,33,Atlanta,Atlanta International Raceway,1.5,paved track,16.0,26.0,1.0,Paul Lewis,Jess Potter,'61 Chevrolet,152.0,450.0,running,0.0
+1961,33,Atlanta,Atlanta International Raceway,1.5,paved track,17.0,33.0,74.0,L.D. Austin,L.D. Austin,'61 Chevrolet,152.0,450.0,running,0.0
+1961,33,Atlanta,Atlanta International Raceway,1.5,paved track,18.0,24.0,19.0,Herman Beam,Herman Beam,'60 Ford,151.0,450.0,running,0.0
+1961,33,Atlanta,Atlanta International Raceway,1.5,paved track,19.0,38.0,38.0,Roy Tyner,Bunnell Motors (Matt DeMatthews),'61 Ford,150.0,450.0,running,0.0
+1961,33,Atlanta,Atlanta International Raceway,1.5,paved track,20.0,35.0,93.0,Lee Reitzel,Lee Reitzel,'60 Ford,149.0,450.0,running,0.0
+1961,33,Atlanta,Atlanta International Raceway,1.5,paved track,21.0,29.0,99.0,George Alsobrook,Joe Jones,'61 Ford,148.0,300.0,rocker arm,0.0
+1961,33,Atlanta,Atlanta International Raceway,1.5,paved track,22.0,28.0,30.0,Gene White,Fred Clark,'60 Chevrolet,147.0,300.0,running,0.0
+1961,33,Atlanta,Atlanta International Raceway,1.5,paved track,23.0,41.0,77.0,Hank Tillman,–,'60 Ford,146.0,300.0,running,0.0
+1961,33,Atlanta,Atlanta International Raceway,1.5,paved track,24.0,34.0,62.0,Curtis Crider,Curtis Crider,'61 Mercury,145.0,300.0,running,0.0
+1961,33,Atlanta,Atlanta International Raceway,1.5,paved track,25.0,36.0,39.0,Tommy Wells,–,'60 Chevrolet,143.0,300.0,running,0.0
+1961,33,Atlanta,Atlanta International Raceway,1.5,paved track,26.0,40.0,69.0,Johnny Allen,B.G. Holloway,'61 Chevrolet,140.0,300.0,engine,0.0
+1961,33,Atlanta,Atlanta International Raceway,1.5,paved track,27.0,31.0,2.0,Frank Graham,–,'60 Ford,140.0,300.0,running,0.0
+1961,33,Atlanta,Atlanta International Raceway,1.5,paved track,28.0,3.0,8.0,Joe Weatherly,Bud Moore,'61 Pontiac,133.0,490.0,engine,28.0
+1961,33,Atlanta,Atlanta International Raceway,1.5,paved track,29.0,37.0,71.0,Bob Barron,Bob Barron,'60 Dodge,123.0,300.0,rear end,0.0
+1961,33,Atlanta,Atlanta International Raceway,1.5,paved track,30.0,42.0,75.0,Tiny Lund,J.D. Braswell,'61 Pontiac,115.0,300.0,fuel pump,0.0
+1961,33,Atlanta,Atlanta International Raceway,1.5,paved track,31.0,9.0,27.0,Junior Johnson,Holly Farms (Rex Lovette),'61 Pontiac,109.0,5.0,timing,1.0
+1961,33,Atlanta,Atlanta International Raceway,1.5,paved track,32.0,32.0,64.0,Eddie Pagan,–,'60 Ford,89.0,,rear end,0.0
+1961,33,Atlanta,Atlanta International Raceway,1.5,paved track,33.0,6.0,94.0,Banjo Matthews,Banjo Matthews,'61 Ford,82.0,,axle,0.0
+1961,33,Atlanta,Atlanta International Raceway,1.5,paved track,34.0,17.0,15.0,Jim Bennett,Beau Morgan,'61 Ford,74.0,,head gasket,0.0
+1961,33,Atlanta,Atlanta International Raceway,1.5,paved track,35.0,13.0,72.0,Bobby Johns,Shorty Johns,'61 Ford,66.0,,engine,0.0
+1961,33,Atlanta,Atlanta International Raceway,1.5,paved track,36.0,22.0,23.0,Doug Yates,Raeford Johnson,'61 Plymouth,48.0,,engine,0.0
+1961,33,Atlanta,Atlanta International Raceway,1.5,paved track,37.0,4.0,29.0,Nelson Stacy,Holt-Stacy (Dudley Farrell),'61 Ford,36.0,60.0,engine,7.0
+1961,33,Atlanta,Atlanta International Raceway,1.5,paved track,38.0,25.0,54.0,Jimmy Pardue,Jimmy Pardue,'60 Chevrolet,28.0,,piston,0.0
+1961,33,Atlanta,Atlanta International Raceway,1.5,paved track,39.0,27.0,10.0,T.C. Hunt,Fred Wheat,'61 Dodge,20.0,,con rod,0.0
+1961,33,Atlanta,Atlanta International Raceway,1.5,paved track,40.0,2.0,3.0,David Pearson,Daytona Kennel (John Masoni),'61 Pontiac,3.0,75.0,crash,0.0
+1961,33,Atlanta,Atlanta International Raceway,1.5,paved track,41.0,10.0,24.0,Roscoe Thompson,James Turner,'60 Pontiac,1.0,,crash,0.0
+1961,33,Atlanta,Atlanta International Raceway,1.5,paved track,42.0,14.0,89.0,Herb Tillman,Joe Lee Johnson,'61 Chevrolet,1.0,,crash,0.0
+1961,34,Columbia,Columbia Speedway,0.5,dirt track,1.0,1.0,6.0,Cotton Owens,Cotton Owens,'60 Pontiac,200.0,950.0,running,8.0
+1961,34,Columbia,Columbia Speedway,0.5,dirt track,2.0,7.0,14.0,Jim Paschal,Julian Petty,'61 Chevrolet,200.0,625.0,running,142.0
+1961,34,Columbia,Columbia Speedway,0.5,dirt track,3.0,3.0,11.0,Ned Jarrett,B.G. Holloway,'61 Chevrolet,200.0,425.0,running,0.0
+1961,34,Columbia,Columbia Speedway,0.5,dirt track,4.0,14.0,27.0,Junior Johnson,Holly Farms (Rex Lovette),'60 Pontiac,198.0,275.0,running,0.0
+1961,34,Columbia,Columbia Speedway,0.5,dirt track,5.0,2.0,8.0,Joe Weatherly,Bud Moore,'61 Pontiac,198.0,250.0,running,50.0
+1961,34,Columbia,Columbia Speedway,0.5,dirt track,6.0,5.0,85.0,Emanuel Zervakis,Monroe Shook,'61 Chevrolet,197.0,215.0,running,0.0
+1961,34,Columbia,Columbia Speedway,0.5,dirt track,7.0,8.0,43.0,Richard Petty,Petty Enterprises,'60 Plymouth,194.0,175.0,running,0.0
+1961,34,Columbia,Columbia Speedway,0.5,dirt track,8.0,11.0,48.0,G.C. Spencer,G.C. Spencer,'60 Chevrolet,191.0,150.0,running,0.0
+1961,34,Columbia,Columbia Speedway,0.5,dirt track,9.0,16.0,74.0,L.D. Austin,L.D. Austin,'61 Chevrolet,188.0,140.0,running,0.0
+1961,34,Columbia,Columbia Speedway,0.5,dirt track,10.0,13.0,19.0,Herman Beam,Herman Beam,'61 Ford,186.0,130.0,running,0.0
+1961,34,Columbia,Columbia Speedway,0.5,dirt track,11.0,15.0,71.0,Bob Barron,Bob Barron,'60 Dodge,181.0,125.0,running,0.0
+1961,34,Columbia,Columbia Speedway,0.5,dirt track,12.0,19.0,18.0,Larry Thomas,Wade Younts,'60 Chevrolet,180.0,110.0,running,0.0
+1961,34,Columbia,Columbia Speedway,0.5,dirt track,13.0,9.0,63.0,Tiny Lund,Pete Boland,'60 Ford,175.0,100.0,running,0.0
+1961,34,Columbia,Columbia Speedway,0.5,dirt track,14.0,4.0,4.0,Rex White,White-Clements (Rex White),'60 Chevrolet,173.0,185.0,running,0.0
+1961,34,Columbia,Columbia Speedway,0.5,dirt track,15.0,12.0,86.0,Buck Baker,Buck Baker,'61 Chrysler,163.0,70.0,engine,0.0
+1961,34,Columbia,Columbia Speedway,0.5,dirt track,16.0,21.0,77.0,Jimmy Pardue,Jimmy Pardue,'60 Ford,119.0,60.0,driveshaft,0.0
+1961,34,Columbia,Columbia Speedway,0.5,dirt track,17.0,18.0,67.0,David Pearson,David Pearson,'60 Chevrolet,109.0,50.0,crash,0.0
+1961,34,Columbia,Columbia Speedway,0.5,dirt track,18.0,6.0,47.0,Jack Smith,Jack Smith,'61 Pontiac,95.0,50.0,oil leak,0.0
+1961,34,Columbia,Columbia Speedway,0.5,dirt track,19.0,10.0,23.0,Doug Yates,Raeford Johnson,'59 Plymouth,81.0,50.0,engine,0.0
+1961,34,Columbia,Columbia Speedway,0.5,dirt track,20.0,17.0,9.0,Bunkie Blackburn,Wildcat Williams,'60 Ford,64.0,50.0,air intake,0.0
+1961,34,Columbia,Columbia Speedway,0.5,dirt track,21.0,20.0,62.0,Curtis Crider,Curtis Crider,'61 Mercury,19.0,50.0,sway bar,0.0
+1961,35,Myrtle Beach,Rambi Raceway,0.5,dirt track,1.0,1.0,8.0,Joe Weatherly,Bud Moore,'61 Pontiac,200.0,950.0,running,80.0
+1961,35,Myrtle Beach,Rambi Raceway,0.5,dirt track,2.0,6.0,14.0,Jim Paschal,Julian Petty,'61 Pontiac,200.0,625.0,running,0.0
+1961,35,Myrtle Beach,Rambi Raceway,0.5,dirt track,3.0,5.0,11.0,Ned Jarrett,B.G. Holloway,'61 Chevrolet,199.0,426.0,running,9.0
+1961,35,Myrtle Beach,Rambi Raceway,0.5,dirt track,4.0,19.0,77.0,George Green,Joe Jones,'60 Ford,188.0,275.0,running,0.0
+1961,35,Myrtle Beach,Rambi Raceway,0.5,dirt track,5.0,13.0,85.0,Emanuel Zervakis,Monroe Shook,'61 Chevrolet,185.0,250.0,running,0.0
+1961,35,Myrtle Beach,Rambi Raceway,0.5,dirt track,6.0,18.0,19.0,Herman Beam,Herman Beam,'60 Ford,184.0,215.0,running,0.0
+1961,35,Myrtle Beach,Rambi Raceway,0.5,dirt track,7.0,20.0,74.0,L.D. Austin,L.D. Austin,'61 Chevrolet,184.0,175.0,running,0.0
+1961,35,Myrtle Beach,Rambi Raceway,0.5,dirt track,8.0,21.0,18.0,Larry Thomas,Wade Younts,'60 Chevrolet,178.0,150.0,running,0.0
+1961,35,Myrtle Beach,Rambi Raceway,0.5,dirt track,9.0,17.0,71.0,Bob Barron,Bob Barron,'60 Dodge,149.0,140.0,running,0.0
+1961,35,Myrtle Beach,Rambi Raceway,0.5,dirt track,10.0,9.0,4.0,Rex White,White-Clements (Rex White),'61 Chevrolet,145.0,230.0,lr hub,0.0
+1961,35,Myrtle Beach,Rambi Raceway,0.5,dirt track,11.0,22.0,54.0,Jimmy Pardue,Jimmy Pardue,'60 Chevrolet,145.0,125.0,running,0.0
+1961,35,Myrtle Beach,Rambi Raceway,0.5,dirt track,12.0,10.0,23.0,Doug Yates,Raeford Johnson,'61 Plymouth,126.0,110.0,rr lugs,0.0
+1961,35,Myrtle Beach,Rambi Raceway,0.5,dirt track,13.0,3.0,86.0,Buck Baker,Buck Baker,'61 Chrysler,111.0,100.0,rear end,111.0
+1961,35,Myrtle Beach,Rambi Raceway,0.5,dirt track,14.0,14.0,93.0,Lee Reitzel,Lee Reitzel,'60 Ford,104.0,185.0,running,0.0
+1961,35,Myrtle Beach,Rambi Raceway,0.5,dirt track,15.0,11.0,63.0,Tiny Lund,Pete Boland,'60 Ford,104.0,70.0,running,0.0
+1961,35,Myrtle Beach,Rambi Raceway,0.5,dirt track,16.0,8.0,48.0,G.C. Spencer,G.C. Spencer,'60 Chevrolet,52.0,60.0,engine,0.0
+1961,35,Myrtle Beach,Rambi Raceway,0.5,dirt track,17.0,4.0,43.0,Richard Petty,Petty Enterprises,'61 Plymouth,43.0,50.0,con rod,0.0
+1961,35,Myrtle Beach,Rambi Raceway,0.5,dirt track,18.0,15.0,42.0,Maurice Petty,Petty Enterprises,'60 Plymouth,40.0,50.0,clutch,0.0
+1961,35,Myrtle Beach,Rambi Raceway,0.5,dirt track,19.0,16.0,62.0,Curtis Crider,Curtis Crider,'60 Ford,36.0,50.0,overheating,0.0
+1961,35,Myrtle Beach,Rambi Raceway,0.5,dirt track,20.0,7.0,47.0,Jack Smith,Jack Smith,'61 Pontiac,30.0,50.0,oil leak,0.0
+1961,35,Myrtle Beach,Rambi Raceway,0.5,dirt track,21.0,12.0,127.0,Fireball Roberts,Holly Farms (Rex Lovette),'61 Pontiac,27.0,50.0,engine,0.0
+1961,35,Myrtle Beach,Rambi Raceway,0.5,dirt track,22.0,2.0,27.0,Junior Johnson,Holly Farms (Rex Lovette),'60 Pontiac,16.0,50.0,ball joint,0.0
+1961,36,Bristol,Bristol International Speedway,0.5,paved track,1.0,12.0,46.0,Jack Smith,Jack Smith,'61 Pontiac,500.0,3025.0,running,243.0
+1961,36,Bristol,Bristol International Speedway,0.5,paved track,2.0,16.0,22.0,Fireball Roberts,Smokey Yunick,'61 Pontiac,498.0,1325.0,running,0.0
+1961,36,Bristol,Bristol International Speedway,0.5,paved track,3.0,8.0,11.0,Ned Jarrett,B.G. Holloway,'61 Chevrolet,495.0,1125.0,running,0.0
+1961,36,Bristol,Bristol International Speedway,0.5,paved track,4.0,4.0,43.0,Richard Petty,Petty Enterprises,'61 Plymouth,493.0,800.0,running,19.0
+1961,36,Bristol,Bristol International Speedway,0.5,paved track,5.0,21.0,87.0,Buddy Baker,Buck Baker,'61 Chrysler,492.0,750.0,running,0.0
+1961,36,Bristol,Bristol International Speedway,0.5,paved track,6.0,11.0,8.0,Joe Weatherly,Bud Moore's Garage (Bud Moore),'61 Pontiac,491.0,725.0,running,0.0
+1961,36,Bristol,Bristol International Speedway,0.5,paved track,7.0,13.0,85.0,Emanuel Zervakis,Monroe Shook,'61 Chevrolet,490.0,575.0,running,0.0
+1961,36,Bristol,Bristol International Speedway,0.5,paved track,8.0,19.0,44.0,Jim Paschal,Neil Pontiac (Julian Petty),'61 Pontiac,485.0,525.0,running,0.0
+1961,36,Bristol,Bristol International Speedway,0.5,paved track,9.0,20.0,26.0,Sherman Utsman,Sherman Utsman,'61 Ford,481.0,450.0,running,0.0
+1961,36,Bristol,Bristol International Speedway,0.5,paved track,10.0,7.0,75.0,Tiny Lund,J.D. Braswell,'61 Pontiac,476.0,400.0,running,0.0
+1961,36,Bristol,Bristol International Speedway,0.5,paved track,11.0,18.0,1.0,Paul Lewis,Jess Potter,'61 Chevrolet,474.0,350.0,running,0.0
+1961,36,Bristol,Bristol International Speedway,0.5,paved track,12.0,30.0,74.0,L.D. Austin,L.D. Austin,'61 Chevrolet,465.0,275.0,running,0.0
+1961,36,Bristol,Bristol International Speedway,0.5,paved track,13.0,25.0,19.0,Herman Beam,Carter County Motor Co. (Herman Beam),'60 Ford,460.0,250.0,running,0.0
+1961,36,Bristol,Bristol International Speedway,0.5,paved track,14.0,36.0,36.0,Larry Thomas,Thomason Chevrolet (Wade Younts),'60 Chevrolet,434.0,225.0,running,0.0
+1961,36,Bristol,Bristol International Speedway,0.5,paved track,15.0,41.0,62.0,Curtis Crider,Curtis Crider,'60 Ford,425.0,150.0,running,0.0
+1961,36,Bristol,Bristol International Speedway,0.5,paved track,16.0,23.0,14.0,Herb Tillman,Adcox Chevrolet (Joe Lee Johnson),'61 Chevrolet,422.0,150.0,spun out,0.0
+1961,36,Bristol,Bristol International Speedway,0.5,paved track,17.0,35.0,71.0,Bob Barron,Bob Barron,'60 Dodge,422.0,150.0,running,0.0
+1961,36,Bristol,Bristol International Speedway,0.5,paved track,18.0,10.0,47.0,Bob Welborn,Boomershine Pontiac (Jack Smith),'61 Pontiac,416.0,150.0,studs,26.0
+1961,36,Bristol,Bristol International Speedway,0.5,paved track,19.0,26.0,23.0,Doug Yates,Yates Motor Co. (Raeford Johnson),'61 Plymouth,414.0,150.0,running,0.0
+1961,36,Bristol,Bristol International Speedway,0.5,paved track,20.0,40.0,33.0,Reb Wickersham,Reb Wickersham,'60 Oldsmobile,377.0,150.0,running,0.0
+1961,36,Bristol,Bristol International Speedway,0.5,paved track,21.0,22.0,54.0,Jimmy Pardue,Jimmy Pardue,'60 Chevrolet,348.0,125.0,running,0.0
+1961,36,Bristol,Bristol International Speedway,0.5,paved track,22.0,2.0,27.0,Junior Johnson,Holly Farms (Rex Lovette),'61 Pontiac,340.0,405.0,rear end,170.0
+1961,36,Bristol,Bristol International Speedway,0.5,paved track,23.0,42.0,12.0,Ken Rush,–,'59 Ford,332.0,125.0,crash,0.0
+1961,36,Bristol,Bristol International Speedway,0.5,paved track,24.0,31.0,34.0,Wendell Scott,Wendell Scott,'60 Chevrolet,319.0,125.0,rear end,0.0
+1961,36,Bristol,Bristol International Speedway,0.5,paved track,25.0,6.0,4.0,Rex White,White-Clements (Rex White),'61 Chevrolet,285.0,280.0,engine,42.0
+1961,36,Bristol,Bristol International Speedway,0.5,paved track,26.0,39.0,64.0,Bill Morton,Bill Morton,'60 Chevrolet,245.0,125.0,rocker arm,0.0
+1961,36,Bristol,Bristol International Speedway,0.5,paved track,27.0,28.0,71.0,George Green,Joe Jones,'60 Ford,236.0,125.0,con rod,0.0
+1961,36,Bristol,Bristol International Speedway,0.5,paved track,28.0,32.0,82.0,Marvin Porter,Henry Dunbar,'61 Ford,235.0,125.0,axle,0.0
+1961,36,Bristol,Bristol International Speedway,0.5,paved track,29.0,33.0,38.0,Dub Utsman,–,'61 Ford,200.0,125.0,rocker arm,0.0
+1961,36,Bristol,Bristol International Speedway,0.5,paved track,30.0,3.0,3.0,David Pearson,Daytona Kennel (John Masoni),'61 Pontiac,198.0,125.0,engine,0.0
+1961,36,Bristol,Bristol International Speedway,0.5,paved track,31.0,37.0,39.0,Tommy Wells,–,'60 Chevrolet,193.0,100.0,engine,0.0
+1961,36,Bristol,Bristol International Speedway,0.5,paved track,32.0,15.0,29.0,Nelson Stacy,Ron's Ford Sales / Holt-Stacy (Dudley Farrell),'61 Ford,182.0,125.0,crash,0.0
+1961,36,Bristol,Bristol International Speedway,0.5,paved track,33.0,1.0,28.0,Fred Lorenzen,Holman-Moody Racing,'61 Ford,175.0,250.0,rear end,0.0
+1961,36,Bristol,Bristol International Speedway,0.5,paved track,34.0,29.0,48.0,G.C. Spencer,G.C. Spencer,'60 Chevrolet,125.0,100.0,engine,0.0
+1961,36,Bristol,Bristol International Speedway,0.5,paved track,35.0,17.0,76.0,Larry Frank,LaFayette Motors (Dick Wright),'61 Ford,107.0,125.0,clutch,0.0
+1961,36,Bristol,Bristol International Speedway,0.5,paved track,36.0,34.0,69.0,Johnny Allen,B.G. Holloway,'61 Chevrolet,106.0,100.0,fire,0.0
+1961,36,Bristol,Bristol International Speedway,0.5,paved track,37.0,5.0,86.0,Buck Baker,Buck Baker,'61 Chrysler,78.0,150.0,valve,0.0
+1961,36,Bristol,Bristol International Speedway,0.5,paved track,38.0,27.0,99.0,George Alsobrook,Joe Jones,'61 Ford,59.0,100.0,axle,0.0
+1961,36,Bristol,Bristol International Speedway,0.5,paved track,39.0,9.0,2.0,Tommy Irwin,Tom Daniels,'60 Chevrolet,48.0,125.0,overheating,0.0
+1961,36,Bristol,Bristol International Speedway,0.5,paved track,40.0,14.0,6.0,Cotton Owens,Cotton Owens,'60 Pontiac,46.0,125.0,head gasket,0.0
+1961,36,Bristol,Bristol International Speedway,0.5,paved track,41.0,24.0,17.0,Fred Harb,Fred Harb,'61 Ford,35.0,100.0,handling,0.0
+1961,36,Bristol,Bristol International Speedway,0.5,paved track,42.0,38.0,25.0,Layman Utsman,–,'60 Dodge,35.0,100.0,handling,0.0
+1961,37,Nashville,Nashville Speedway,0.5,paved track,1.0,10.0,44.0,Jim Paschal,Julian Petty,'61 Pontiac,403.0,2523.0,running,41.0
+1961,37,Nashville,Nashville Speedway,0.5,paved track,2.0,4.0,11.0,Ned Jarrett,B.G. Holloway,'61 Chevrolet,403.0,1275.0,running,0.0
+1961,37,Nashville,Nashville Speedway,0.5,paved track,3.0,3.0,14.0,Johnny Allen,Joe Lee Johnson,'61 Chevrolet,401.0,975.0,running,0.0
+1961,37,Nashville,Nashville Speedway,0.5,paved track,4.0,5.0,86.0,Buck Baker,Buck Baker,'61 Chrysler,401.0,675.0,running,0.0
+1961,37,Nashville,Nashville Speedway,0.5,paved track,5.0,8.0,85.0,Emanuel Zervakis,Monroe Shook,'61 Chevrolet,397.0,575.0,running,0.0
+1961,37,Nashville,Nashville Speedway,0.5,paved track,6.0,12.0,99.0,George Alsobrook,Joe Jones,'61 Ford,397.0,450.0,running,0.0
+1961,37,Nashville,Nashville Speedway,0.5,paved track,7.0,9.0,54.0,Jimmy Pardue,Jimmy Pardue,'60 Chevrolet,397.0,400.0,running,0.0
+1961,37,Nashville,Nashville Speedway,0.5,paved track,8.0,14.0,48.0,G.C. Spencer,G.C. Spencer,'60 Chevrolet,386.0,350.0,axle,0.0
+1961,37,Nashville,Nashville Speedway,0.5,paved track,9.0,15.0,1.0,Paul Lewis,Jess Potter,'61 Chevrolet,383.0,300.0,running,0.0
+1961,37,Nashville,Nashville Speedway,0.5,paved track,10.0,18.0,74.0,L.D. Austin,L.D. Austin,'61 Chevrolet,381.0,225.0,running,0.0
+1961,37,Nashville,Nashville Speedway,0.5,paved track,11.0,17.0,19.0,Herman Beam,Herman Beam,'60 Ford,374.0,200.0,running,0.0
+1961,37,Nashville,Nashville Speedway,0.5,paved track,12.0,22.0,71.0,Bob Barron,Bob Barron,'60 Dodge,367.0,175.0,running,0.0
+1961,37,Nashville,Nashville Speedway,0.5,paved track,13.0,20.0,61.0,Crash Bond,–,'60 Ford,367.0,150.0,running,0.0
+1961,37,Nashville,Nashville Speedway,0.5,paved track,14.0,2.0,43.0,Richard Petty,Petty Enterprises,'61 Plymouth,366.0,1226.0,engine,362.0
+1961,37,Nashville,Nashville Speedway,0.5,paved track,15.0,6.0,46.0,Jack Smith,Jack Smith,'61 Pontiac,363.0,125.0,crash,0.0
+1961,37,Nashville,Nashville Speedway,0.5,paved track,16.0,21.0,62.0,Curtis Crider,Curtis Crider,'61 Mercury,356.0,110.0,running,0.0
+1961,37,Nashville,Nashville Speedway,0.5,paved track,17.0,24.0,41.0,Charlie Chapman,Charlie Chapman,'60 Ford,344.0,100.0,running,0.0
+1961,37,Nashville,Nashville Speedway,0.5,paved track,18.0,16.0,39.0,Tommy Wells,–,'60 Chevrolet,199.0,100.0,oil leak,0.0
+1961,37,Nashville,Nashville Speedway,0.5,paved track,19.0,7.0,27.0,Junior Johnson,Holly Farms (Rex Lovette),'60 Pontiac,134.0,100.0,studs,0.0
+1961,37,Nashville,Nashville Speedway,0.5,paved track,20.0,23.0,5.0,Bob Presnell,Bobby Waddell,'59 Chevrolet,104.0,100.0,steering,0.0
+1961,37,Nashville,Nashville Speedway,0.5,paved track,21.0,19.0,96.0,Dave Mader,J.L. Cheatham,'61 Chevrolet,50.0,75.0,wheel bearing,0.0
+1961,37,Nashville,Nashville Speedway,0.5,paved track,22.0,11.0,87.0,Buddy Baker,Buck Baker,'61 Chrysler,34.0,75.0,rear end,0.0
+1961,37,Nashville,Nashville Speedway,0.5,paved track,23.0,1.0,4.0,Rex White,White-Clements (Rex White),'61 Chevrolet,15.0,175.0,crash,0.0
+1961,37,Nashville,Nashville Speedway,0.5,paved track,24.0,13.0,23.0,Doug Yates,Raeford Johnson,'61 Plymouth,1.0,75.0,transmission,0.0
+1961,38,Winston-Salem,Bowman Gray Stadium,0.25,paved track,1.0,3.0,4,Rex White,White-Clements (Rex White),'60 Chevrolet,150.0,665.0,running,12.0
+1961,38,Winston-Salem,Bowman Gray Stadium,0.25,paved track,2.0,2.0,21,Glen Wood,Wood Brothers,'61 Ford,150.0,500.0,running,138.0
+1961,38,Winston-Salem,Bowman Gray Stadium,0.25,paved track,3.0,4.0,11,Ned Jarrett,B.G. Holloway,'61 Chevrolet,150.0,370.0,running,0.0
+1961,38,Winston-Salem,Bowman Gray Stadium,0.25,paved track,4.0,8.0,85,Emanuel Zervakis,Monroe Shook,'60 Chevrolet,149.0,305.0,running,0.0
+1961,38,Winston-Salem,Bowman Gray Stadium,0.25,paved track,5.0,6.0,43,Richard Petty,Petty Enterprises,'61 Plymouth,149.0,225.0,running,0.0
+1961,38,Winston-Salem,Bowman Gray Stadium,0.25,paved track,6.0,11.0,48,G.C. Spencer,G.C. Spencer,'60 Chevrolet,147.0,215.0,running,0.0
+1961,38,Winston-Salem,Bowman Gray Stadium,0.25,paved track,7.0,9.0,34,Wendell Scott,Wendell Scott,'60 Chevrolet,145.0,180.0,running,0.0
+1961,38,Winston-Salem,Bowman Gray Stadium,0.25,paved track,8.0,12.0,57,Jimmy Mairs,–,'61 Chevrolet,145.0,190.0,running,0.0
+1961,38,Winston-Salem,Bowman Gray Stadium,0.25,paved track,9.0,13.0,97,Harry Leake,Harry Leake,'60 Chevrolet,145.0,175.0,running,0.0
+1961,38,Winston-Salem,Bowman Gray Stadium,0.25,paved track,10.0,18.0,36,Larry Thomas,Wade Younts,'60 Chevrolet,143.0,165.0,running,0.0
+1961,38,Winston-Salem,Bowman Gray Stadium,0.25,paved track,11.0,14.0,71,Bob Barron,Bob Barron,'60 Dodge,140.0,145.0,running,0.0
+1961,38,Winston-Salem,Bowman Gray Stadium,0.25,paved track,12.0,16.0,5,Jimmy Pardue,–,'59 Chevrolet,139.0,120.0,running,0.0
+1961,38,Winston-Salem,Bowman Gray Stadium,0.25,paved track,13.0,17.0,32,Robert Berrier,–,'54 MG,137.0,110.0,running,0.0
+1961,38,Winston-Salem,Bowman Gray Stadium,0.25,paved track,14.0,20.0,62,Curtis Crider,Curtis Crider,'60 Ford,136.0,115.0,running,0.0
+1961,38,Winston-Salem,Bowman Gray Stadium,0.25,paved track,15.0,22.0,77,Doc Lee,–,'60 Austin Healey,135.0,75.0,running,0.0
+1961,38,Winston-Salem,Bowman Gray Stadium,0.25,paved track,16.0,5.0,23,Doug Yates,Raeford Johnson,'61 Plymouth,105.0,95.0,crash,0.0
+1961,38,Winston-Salem,Bowman Gray Stadium,0.25,paved track,17.0,19.0,12,T.R. Miller,–,'59 Ford,96.0,75.0,rf tire,0.0
+1961,38,Winston-Salem,Bowman Gray Stadium,0.25,paved track,18.0,21.0,71S,Jack Hart,–,'58 Austin Healey,52.0,60.0,overheating,0.0
+1961,38,Winston-Salem,Bowman Gray Stadium,0.25,paved track,19.0,1.0,27,Junior Johnson,Holly Farms (Rex Lovette),'60 Pontiac,44.0,100.0,crash,0.0
+1961,38,Winston-Salem,Bowman Gray Stadium,0.25,paved track,20.0,10.0,17X,Bill Whitley,–,'54 Corvette,39.0,50.0,crash,0.0
+1961,38,Winston-Salem,Bowman Gray Stadium,0.25,paved track,21.0,15.0,44,Maurice Petty,Petty Enterprises,'60 Valiant,32.0,25.0,clutch,0.0
+1961,38,Winston-Salem,Bowman Gray Stadium,0.25,paved track,22.0,7.0,17,Fred Harb,Fred Harb,'61 Ford,23.0,25.0,engine,0.0
+1961,38,Winston-Salem,Bowman Gray Stadium,0.25,paved track,23.0,23.0,75,Paul Lyons,–,'60 Sprite,4.0,,flagged,0.0
+1961,39,Weaverville,Asheville-Weaverville Speedway,0.5,paved track,1.0,2.0,27.0,Junior Johnson,Holly Farms (Rex Lovette),'60 Pontiac,258.0,2000.0,running,258.0
+1961,39,Weaverville,Asheville-Weaverville Speedway,0.5,paved track,2.0,5.0,8.0,Joe Weatherly,Bud Moore,'61 Pontiac,255.0,1400.0,running,0.0
+1961,39,Weaverville,Asheville-Weaverville Speedway,0.5,paved track,3.0,11.0,4.0,Rex White,White-Clements (Rex White),'61 Chevrolet,254.0,1100.0,running,0.0
+1961,39,Weaverville,Asheville-Weaverville Speedway,0.5,paved track,4.0,9.0,11.0,Ned Jarrett,B.G. Holloway,'61 Chevrolet,254.0,850.0,running,0.0
+1961,39,Weaverville,Asheville-Weaverville Speedway,0.5,paved track,5.0,7.0,85.0,Emanuel Zervakis,Monroe Shook,'61 Chevrolet,254.0,750.0,running,0.0
+1961,39,Weaverville,Asheville-Weaverville Speedway,0.5,paved track,6.0,1.0,44.0,Jim Paschal,Julian Petty,'61 Pontiac,254.0,650.0,running,0.0
+1961,39,Weaverville,Asheville-Weaverville Speedway,0.5,paved track,7.0,13.0,2.0,Tommy Irwin,Tom Daniels,'60 Chevrolet,253.0,600.0,running,0.0
+1961,39,Weaverville,Asheville-Weaverville Speedway,0.5,paved track,8.0,33.0,14.0,Johnny Allen,Joe Lee Johnson,'61 Chevrolet,253.0,550.0,running,0.0
+1961,39,Weaverville,Asheville-Weaverville Speedway,0.5,paved track,9.0,4.0,47.0,Jack Smith,Jack Smith,'61 Pontiac,252.0,455.0,running,0.0
+1961,39,Weaverville,Asheville-Weaverville Speedway,0.5,paved track,10.0,12.0,29.0,Nelson Stacy,Ron's Ford / Holt-Stacy (Dudley Farrell),'61 Ford,252.0,425.0,running,0.0
+1961,39,Weaverville,Asheville-Weaverville Speedway,0.5,paved track,11.0,8.0,43.0,Richard Petty,Petty Enterprises,'61 Plymouth,249.0,400.0,running,0.0
+1961,39,Weaverville,Asheville-Weaverville Speedway,0.5,paved track,12.0,15.0,99.0,George Alsobrook,Joe Jones,'61 Ford,234.0,375.0,crash,0.0
+1961,39,Weaverville,Asheville-Weaverville Speedway,0.5,paved track,13.0,17.0,19.0,Herman Beam,Herman Beam,'60 Ford,233.0,325.0,running,0.0
+1961,39,Weaverville,Asheville-Weaverville Speedway,0.5,paved track,14.0,18.0,82.0,Marvin Porter,Henry Dunbar,'61 Ford,231.0,275.0,running,0.0
+1961,39,Weaverville,Asheville-Weaverville Speedway,0.5,paved track,15.0,27.0,41.0,Charlie Chapman,Charlie Chapman,'60 Ford,228.0,250.0,running,0.0
+1961,39,Weaverville,Asheville-Weaverville Speedway,0.5,paved track,16.0,16.0,87.0,Buddy Baker,Buck Baker,'61 Chrysler,227.0,250.0,running,0.0
+1961,39,Weaverville,Asheville-Weaverville Speedway,0.5,paved track,17.0,21.0,74.0,L.D. Austin,L.D. Austin,'61 Chevrolet,227.0,250.0,running,0.0
+1961,39,Weaverville,Asheville-Weaverville Speedway,0.5,paved track,18.0,26.0,97.0,Harry Leake,Harry Leake,'59 Chevrolet,227.0,225.0,running,0.0
+1961,39,Weaverville,Asheville-Weaverville Speedway,0.5,paved track,19.0,20.0,54.0,Jimmy Pardue,Jimmy Pardue,'60 Chevrolet,225.0,225.0,running,0.0
+1961,39,Weaverville,Asheville-Weaverville Speedway,0.5,paved track,20.0,31.0,1.0,Paul Lewis,Jess Potter,'61 Chevrolet,218.0,220.0,running,0.0
+1961,39,Weaverville,Asheville-Weaverville Speedway,0.5,paved track,21.0,25.0,33.0,Reb Wickersham,Reb Wickersham,'60 Oldsmobile,217.0,210.0,running,0.0
+1961,39,Weaverville,Asheville-Weaverville Speedway,0.5,paved track,22.0,28.0,62.0,Curtis Crider,Curtis Crider,'60 Ford,214.0,200.0,running,0.0
+1961,39,Weaverville,Asheville-Weaverville Speedway,0.5,paved track,23.0,34.0,25.0,John Hamby,John Hamby,'60 Dodge,208.0,175.0,running,0.0
+1961,39,Weaverville,Asheville-Weaverville Speedway,0.5,paved track,24.0,35.0,34.0,Wendell Scott,Wendell Scott,'60 Chevrolet,204.0,150.0,running,0.0
+1961,39,Weaverville,Asheville-Weaverville Speedway,0.5,paved track,25.0,32.0,5.0,Bob Presnell,Bobby Waddell,'59 Chevrolet,200.0,140.0,running,0.0
+1961,39,Weaverville,Asheville-Weaverville Speedway,0.5,paved track,26.0,22.0,64.0,Bill Morton,Bill Morton,'60 Chevrolet,198.0,100.0,running,0.0
+1961,39,Weaverville,Asheville-Weaverville Speedway,0.5,paved track,27.0,19.0,48.0,G.C. Spencer,G.C. Spencer,'60 Chevrolet,196.0,100.0,fuel pump,0.0
+1961,39,Weaverville,Asheville-Weaverville Speedway,0.5,paved track,28.0,6.0,86.0,Buck Baker,Buck Baker,'61 Chrysler,185.0,100.0,running,0.0
+1961,39,Weaverville,Asheville-Weaverville Speedway,0.5,paved track,29.0,36.0,58.0,Bunk Moore,–,'60 Ford,182.0,100.0,crash,0.0
+1961,39,Weaverville,Asheville-Weaverville Speedway,0.5,paved track,30.0,29.0,148.0,Bill McDonald,–,'61 Chevrolet,180.0,100.0,too slow,0.0
+1961,39,Weaverville,Asheville-Weaverville Speedway,0.5,paved track,31.0,37.0,59.0,Fireball Roberts,B.G. Holloway,'61 Pontiac,144.0,,axle,0.0
+1961,39,Weaverville,Asheville-Weaverville Speedway,0.5,paved track,32.0,23.0,36.0,Larry Thomas,Wade Younts,'60 Chevrolet,136.0,,running,0.0
+1961,39,Weaverville,Asheville-Weaverville Speedway,0.5,paved track,33.0,3.0,17.0,Fred Harb,Fred Harb,'61 Ford,135.0,,running,0.0
+1961,39,Weaverville,Asheville-Weaverville Speedway,0.5,paved track,34.0,10.0,94.0,Banjo Matthews,Banjo Matthews,'61 Ford,102.0,,crash,0.0
+1961,39,Weaverville,Asheville-Weaverville Speedway,0.5,paved track,35.0,38.0,164.0,Earl Wilcox,–,'59 Oldsmobile,81.0,,too slow,0.0
+1961,39,Weaverville,Asheville-Weaverville Speedway,0.5,paved track,36.0,30.0,23.0,Doug Yates,Raeford Johnson,'61 Plymouth,75.0,,oil filter,0.0
+1961,39,Weaverville,Asheville-Weaverville Speedway,0.5,paved track,37.0,24.0,71.0,Bob Barron,Bob Barron,'60 Dodge,67.0,,rf hub,0.0
+1961,39,Weaverville,Asheville-Weaverville Speedway,0.5,paved track,38.0,14.0,96.0,Dave Mader,J.L. Cheatham,'61 Chevrolet,64.0,,rf wheel,0.0
+1961,40,Richmond,Southside Speedway,0.25,paved track,1.0,1.0,27.0,Junior Johnson,Holly Farms (Rex Lovette),'60 Pontiac,150.0,600.0,running,150.0
+1961,40,Richmond,Southside Speedway,0.25,paved track,2.0,5.0,11.0,Ned Jarrett,B.G. Holloway,'61 Chevrolet,149.0,475.0,running,0.0
+1961,40,Richmond,Southside Speedway,0.25,paved track,3.0,3.0,85.0,Emanuel Zervakis,Monroe Shook,'61 Chevrolet,149.0,380.0,running,0.0
+1961,40,Richmond,Southside Speedway,0.25,paved track,4.0,2.0,4.0,Rex White,White-Clements (Rex White),'60 Chevrolet,148.0,425.0,running,0.0
+1961,40,Richmond,Southside Speedway,0.25,paved track,5.0,6.0,54.0,Jimmy Pardue,Jimmy Pardue,'60 Chevrolet,148.0,225.0,running,0.0
+1961,40,Richmond,Southside Speedway,0.25,paved track,6.0,9.0,23.0,Doug Yates,Raeford Johnson,'60 Plymouth,147.0,215.0,running,0.0
+1961,40,Richmond,Southside Speedway,0.25,paved track,7.0,7.0,57.0,Jimmy Mairs,–,'61 Chevrolet,146.0,195.0,running,0.0
+1961,40,Richmond,Southside Speedway,0.25,paved track,8.0,19.0,61.0,Elmo Langley,Doc White,'59 T-Bird,143.0,160.0,running,0.0
+1961,40,Richmond,Southside Speedway,0.25,paved track,9.0,4.0,43.0,Richard Petty,Petty Enterprises,'61 Plymouth,143.0,180.0,running,0.0
+1961,40,Richmond,Southside Speedway,0.25,paved track,10.0,15.0,12.0,Fred Harb,Fred Harb,'59 Ford,141.0,140.0,running,0.0
+1961,40,Richmond,Southside Speedway,0.25,paved track,11.0,12.0,74.0,L.D. Austin,L.D. Austin,'61 Chevrolet,139.0,145.0,running,0.0
+1961,40,Richmond,Southside Speedway,0.25,paved track,12.0,8.0,5.0,Curtis Crider,Curtis Crider,'59 Chevrolet,136.0,120.0,running,0.0
+1961,40,Richmond,Southside Speedway,0.25,paved track,13.0,13.0,112.0,Ronnie Fones,–,'59 Chevrolet,135.0,110.0,running,0.0
+1961,40,Richmond,Southside Speedway,0.25,paved track,14.0,16.0,36.0,Larry Thomas,Wade Younts,'60 Chevrolet,132.0,125.0,running,0.0
+1961,40,Richmond,Southside Speedway,0.25,paved track,15.0,11.0,86.0,Buck Baker,Buck Baker,'61 Chrysler,117.0,95.0,engine,0.0
+1961,40,Richmond,Southside Speedway,0.25,paved track,16.0,10.0,34.0,Wendell Scott,Wendell Scott,'60 Chevrolet,90.0,95.0,fuel tank,0.0
+1961,40,Richmond,Southside Speedway,0.25,paved track,17.0,14.0,71.0,Bob Barron,Bob Barron,'60 Dodge,84.0,90.0,running,0.0
+1961,40,Richmond,Southside Speedway,0.25,paved track,18.0,17.0,41.0,Charlie Chapman,Charlie Chapman,'60 Ford,27.0,60.0,overheating,0.0
+1961,40,Richmond,Southside Speedway,0.25,paved track,19.0,18.0,62.0,Bob Presnell,Curtis Crider,'60 Ford,1.0,50.0,transmission,0.0
+1961,41,South Boston,South Boston Speedway,0.25,paved track,1.0,3.0,27.0,Junior Johnson,Holly Farms (Rex Lovette),'60 Pontiac,200.0,800.0,running,168.0
+1961,41,South Boston,South Boston Speedway,0.25,paved track,2.0,2.0,7.0,Jim Reed,Jim Reed,'61 Chevrolet,199.0,525.0,running,32.0
+1961,41,South Boston,South Boston Speedway,0.25,paved track,3.0,8.0,11.0,Ned Jarrett,B.G. Holloway,'61 Chevrolet,197.0,375.0,running,0.0
+1961,41,South Boston,South Boston Speedway,0.25,paved track,4.0,17.0,85.0,Emanuel Zervakis,Monroe Shook,'60 Chevrolet,196.0,275.0,running,0.0
+1961,41,South Boston,South Boston Speedway,0.25,paved track,5.0,5.0,4.0,Rex White,White-Clements (Rex White),'60 Chevrolet,195.0,350.0,running,0.0
+1961,41,South Boston,South Boston Speedway,0.25,paved track,6.0,9.0,54.0,Jimmy Pardue,Jimmy Pardue,'60 Chevrolet,192.0,215.0,running,0.0
+1961,41,South Boston,South Boston Speedway,0.25,paved track,7.0,15.0,36.0,Larry Thomas,Wade Younts,'60 Chevrolet,189.0,175.0,running,0.0
+1961,41,South Boston,South Boston Speedway,0.25,paved track,8.0,11.0,97.0,Harry Leake,Harry Leake,'60 Chevrolet,189.0,150.0,running,0.0
+1961,41,South Boston,South Boston Speedway,0.25,paved track,9.0,14.0,71.0,Bob Barron,Bob Barron,'60 Dodge,184.0,140.0,running,0.0
+1961,41,South Boston,South Boston Speedway,0.25,paved track,10.0,20.0,5.0,Bob Presnell,Bobby Waddell,'59 Chevrolet,184.0,130.0,running,0.0
+1961,41,South Boston,South Boston Speedway,0.25,paved track,11.0,12.0,57.0,Bill Morton,J.I. Divers,'61 Chevrolet,182.0,125.0,running,0.0
+1961,41,South Boston,South Boston Speedway,0.25,paved track,12.0,4.0,61.0,Elmo Langley,Doc White,'60 T-Bird,181.0,110.0,running,0.0
+1961,41,South Boston,South Boston Speedway,0.25,paved track,13.0,21.0,12.0,Harvey Hege,Bill Lloyd,'59 Ford,166.0,100.0,running,0.0
+1961,41,South Boston,South Boston Speedway,0.25,paved track,14.0,10.0,23.0,Doug Yates,Raeford Johnson,'59 Plymouth,158.0,85.0,crash,0.0
+1961,41,South Boston,South Boston Speedway,0.25,paved track,15.0,18.0,17.0,Fred Harb,Fred Harb,'61 Ford,117.0,70.0,engine,0.0
+1961,41,South Boston,South Boston Speedway,0.25,paved track,16.0,6.0,34.0,Wendell Scott,Wendell Scott,'60 Chevrolet,114.0,60.0,crash,0.0
+1961,41,South Boston,South Boston Speedway,0.25,paved track,17.0,1.0,6.0,Cotton Owens,Cotton Owens,'60 Pontiac,75.0,50.0,transmission,0.0
+1961,41,South Boston,South Boston Speedway,0.25,paved track,18.0,13.0,77.0,Joe Jones,Joe Jones,'60 Ford,71.0,50.0,engine,0.0
+1961,41,South Boston,South Boston Speedway,0.25,paved track,19.0,16.0,48.0,G.C. Spencer,G.C. Spencer,'60 Chevrolet,62.0,50.0,rear end,0.0
+1961,41,South Boston,South Boston Speedway,0.25,paved track,20.0,7.0,43.0,Richard Petty,Petty Enterprises,'60 Plymouth,32.0,50.0,engine,0.0
+1961,41,South Boston,South Boston Speedway,0.25,paved track,21.0,19.0,25.0,John Hamby,–,'60 Dodge,22.0,50.0,handling,0.0
+1961,42,Darlington,Darlington Raceway,1.375,paved track,1.0,3.0,29.0,Nelson Stacy,Ron's Ford Sales / Holt-Stacy (Dudley Farrell),'61 Ford,364.0,18430.0,running,72.0
+1961,42,Darlington,Darlington Raceway,1.375,paved track,2.0,1.0,22.0,Fireball Roberts,Smokey Yunick,'61 Pontiac,364.0,10670.0,running,180.0
+1961,42,Darlington,Darlington Raceway,1.375,paved track,3.0,9.0,3.0,David Pearson,Daytona Kennel (John Masoni),'61 Pontiac,363.0,5060.0,running,6.0
+1961,42,Darlington,Darlington Raceway,1.375,paved track,4.0,7.0,44.0,Jim Paschal,Julian Petty,'61 Pontiac,359.0,2625.0,running,0.0
+1961,42,Darlington,Darlington Raceway,1.375,paved track,5.0,20.0,85.0,Emanuel Zervakis,Monroe Shook,'61 Chevrolet,359.0,2450.0,running,0.0
+1961,42,Darlington,Darlington Raceway,1.375,paved track,6.0,33.0,11.0,Ned Jarrett,B.G. Holloway,'61 Chevrolet,354.0,1500.0,running,0.0
+1961,42,Darlington,Darlington Raceway,1.375,paved track,7.0,26.0,14.0,Johnny Allen,Joe Lee Johnson,'61 Chevrolet,348.0,1195.0,running,0.0
+1961,42,Darlington,Darlington Raceway,1.375,paved track,8.0,18.0,24.0,Roscoe Thompson,James Turner,'60 Pontiac,347.0,1195.0,running,0.0
+1961,42,Darlington,Darlington Raceway,1.375,paved track,9.0,6.0,6.0,Ralph Earnhardt,Cotton Owens,'61 Pontiac,346.0,875.0,engine,0.0
+1961,42,Darlington,Darlington Raceway,1.375,paved track,10.0,36.0,47.0,Rex White,Jack Smith,'61 Pontiac,345.0,925.0,running,0.0
+1961,42,Darlington,Darlington Raceway,1.375,paved track,11.0,12.0,72.0,Bobby Johns,Shorty Johns,'61 Ford,344.0,750.0,running,0.0
+1961,42,Darlington,Darlington Raceway,1.375,paved track,12.0,16.0,66.0,Bill Morgan,Cafe Burgundy (Ratus Walters),'61 Ford,342.0,700.0,running,0.0
+1961,42,Darlington,Darlington Raceway,1.375,paved track,13.0,32.0,30.0,Elmo Langley,Fred Clark,'60 Chevrolet,341.0,500.0,running,0.0
+1961,42,Darlington,Darlington Raceway,1.375,paved track,14.0,14.0,27.0,Junior Johnson,Holly Farms (Rex Lovette),'61 Pontiac,337.0,450.0,running,0.0
+1961,42,Darlington,Darlington Raceway,1.375,paved track,15.0,24.0,59.0,Tiny Lund,B.G. Holloway,'61 Pontiac,323.0,650.0,crash,0.0
+1961,42,Darlington,Darlington Raceway,1.375,paved track,16.0,40.0,74.0,L.D. Austin,L.D. Austin,'61 Chevrolet,321.0,350.0,running,0.0
+1961,42,Darlington,Darlington Raceway,1.375,paved track,17.0,35.0,54.0,Jimmy Pardue,Jimmy Pardue,'60 Chevrolet,316.0,300.0,running,0.0
+1961,42,Darlington,Darlington Raceway,1.375,paved track,18.0,39.0,62.0,Curtis Crider,Mims Amusement Co. (Curtis Crider),'61 Mercury,312.0,750.0,running,0.0
+1961,42,Darlington,Darlington Raceway,1.375,paved track,19.0,23.0,19.0,Herman Beam,Herman Beam,'60 Ford,312.0,250.0,running,0.0
+1961,42,Darlington,Darlington Raceway,1.375,paved track,20.0,17.0,46.0,Larry Frank,Jack Smith,'61 Pontiac,273.0,480.0,spindle,0.0
+1961,42,Darlington,Darlington Raceway,1.375,paved track,21.0,25.0,90.0,Dave Mader,Dave Mader,'61 Chevrolet,262.0,280.0,timing,0.0
+1961,42,Darlington,Darlington Raceway,1.375,paved track,22.0,4.0,8.0,Joe Weatherly,Bud Moore,'61 Pontiac,229.0,370.0,rf hub,13.0
+1961,42,Darlington,Darlington Raceway,1.375,paved track,23.0,31.0,7.0,Jim Reed,Jim Reed,'61 Chevrolet,228.0,200.0,brakes,0.0
+1961,42,Darlington,Darlington Raceway,1.375,paved track,24.0,15.0,86.0,Buddy Baker,Buck Baker,'61 Chrysler,221.0,700.0,bearings,0.0
+1961,42,Darlington,Darlington Raceway,1.375,paved track,25.0,34.0,10.0,T.C. Hunt,Fred Wheat,'61 Dodge,206.0,700.0,rear end,0.0
+1961,42,Darlington,Darlington Raceway,1.375,paved track,26.0,5.0,43.0,Richard Petty,Petty Enterprises,'61 Plymouth,201.0,1110.0,engine,41.0
+1961,42,Darlington,Darlington Raceway,1.375,paved track,27.0,11.0,87.0,Buck Baker,Buck Baker,'61 Chrysler,190.0,220.0,con rod,0.0
+1961,42,Darlington,Darlington Raceway,1.375,paved track,28.0,21.0,2.0,Tommy Irwin,Tom Daniels,'61 Chevrolet,164.0,200.0,rocker arm,0.0
+1961,42,Darlington,Darlington Raceway,1.375,paved track,29.0,2.0,28.0,Fred Lorenzen,Holman-Moody Racing,'61 Ford,158.0,950.0,throttle,52.0
+1961,42,Darlington,Darlington Raceway,1.375,paved track,30.0,19.0,52.0,Cale Yarborough,Julian Buesink,'61 Ford,135.0,200.0,engine,0.0
+1961,42,Darlington,Darlington Raceway,1.375,paved track,31.0,8.0,42.0,Marvin Panch,Petty Enterprises,'61 Plymouth,94.0,200.0,carburetor,0.0
+1961,42,Darlington,Darlington Raceway,1.375,paved track,32.0,28.0,82.0,Marvin Porter,Henry Dunbar,'61 Ford,85.0,200.0,crash,0.0
+1961,42,Darlington,Darlington Raceway,1.375,paved track,33.0,29.0,1.0,Paul Lewis,Jess Potter,'61 Chevrolet,81.0,200.0,crash,0.0
+1961,42,Darlington,Darlington Raceway,1.375,paved track,34.0,30.0,5.0,Woodie Wilson,Leroy Faucett,'61 Pontiac,79.0,200.0,crash,0.0
+1961,42,Darlington,Darlington Raceway,1.375,paved track,35.0,38.0,68.0,Ed Livingston,Curtis Crider,'61 Ford,79.0,200.0,head gasket,0.0
+1961,42,Darlington,Darlington Raceway,1.375,paved track,36.0,10.0,94.0,Banjo Matthews,Banjo Matthews,'61 Ford,65.0,430.0,engine,0.0
+1961,42,Darlington,Darlington Raceway,1.375,paved track,37.0,22.0,32.0,Joe Caspolich,J.L. Cheatham,'61 Ford,50.0,200.0,rear end,0.0
+1961,42,Darlington,Darlington Raceway,1.375,paved track,38.0,27.0,80.0,Darel Dieringer,Tubby Gonzales,'61 Ford,45.0,300.0,rear end,0.0
+1961,42,Darlington,Darlington Raceway,1.375,paved track,39.0,13.0,9.0,Bunkie Blackburn,Wildcat Williams,'61 Ford,34.0,200.0,head gasket,0.0
+1961,42,Darlington,Darlington Raceway,1.375,paved track,40.0,37.0,96.0,Friday Hassler,J.L. Cheatham,'60 Chevrolet,22.0,200.0,brakes,0.0
+1961,42,Darlington,Darlington Raceway,1.375,paved track,41.0,43.0,99.0,George Alsobrook,Joe Jones,'61 Ford,2.0,200.0,handling,0.0
+1961,42,Darlington,Darlington Raceway,1.375,paved track,42.0,41.0,75.0,Red Hollingsworth,J.D. Braswell,'60 Chevrolet,2.0,200.0,handling,0.0
+1961,42,Darlington,Darlington Raceway,1.375,paved track,43.0,42.0,93.0,Lee Reitzel,Lee Reitzel,'60 Ford,2.0,200.0,handling,0.0
+1961,43,Hickory,Hickory Speedway,0.4,dirt track,1.0,1.0,4.0,Rex White,White-Clements (Rex White),'61 Chevrolet,250.0,900.0,running,32.0
+1961,43,Hickory,Hickory Speedway,0.4,dirt track,2.0,13.0,47.0,Jack Smith,Jack Smith,'61 Pontiac,249.0,525.0,running,0.0
+1961,43,Hickory,Hickory Speedway,0.4,dirt track,3.0,5.0,86.0,Buck Baker,Buck Baker,'61 Chrysler,249.0,375.0,running,0.0
+1961,43,Hickory,Hickory Speedway,0.4,dirt track,4.0,8.0,6.0,Cotton Owens,Cotton Owens,'60 Pontiac,248.0,275.0,running,0.0
+1961,43,Hickory,Hickory Speedway,0.4,dirt track,5.0,11.0,85.0,Emanuel Zervakis,Monroe Shook,'60 Chevrolet,246.0,250.0,running,0.0
+1961,43,Hickory,Hickory Speedway,0.4,dirt track,6.0,12.0,48.0,G.C. Spencer,G.C. Spencer,'60 Chevrolet,242.0,215.0,running,0.0
+1961,43,Hickory,Hickory Speedway,0.4,dirt track,7.0,9.0,17.0,Fred Harb,Fred Harb,'61 Ford,240.0,175.0,running,0.0
+1961,43,Hickory,Hickory Speedway,0.4,dirt track,8.0,7.0,11.0,Ned Jarrett,B.G. Holloway,'61 Chevrolet,239.0,150.0,lr axle,160.0
+1961,43,Hickory,Hickory Speedway,0.4,dirt track,9.0,18.0,74.0,L.D. Austin,L.D. Austin,'61 Chevrolet,233.0,140.0,running,0.0
+1961,43,Hickory,Hickory Speedway,0.4,dirt track,10.0,15.0,93.0,Lee Reitzel,Lee Reitzel,'60 Ford,225.0,130.0,running,0.0
+1961,43,Hickory,Hickory Speedway,0.4,dirt track,11.0,16.0,3.0,Mark Hurley,–,'59 T-Bird,224.0,125.0,running,0.0
+1961,43,Hickory,Hickory Speedway,0.4,dirt track,12.0,19.0,5.0,Paul Lewis,–,'59 Chevrolet,222.0,110.0,running,0.0
+1961,43,Hickory,Hickory Speedway,0.4,dirt track,13.0,14.0,19.0,Herman Beam,Herman Beam,'60 Ford,221.0,100.0,running,0.0
+1961,43,Hickory,Hickory Speedway,0.4,dirt track,14.0,4.0,54.0,Jimmy Pardue,Jimmy Pardue,'60 Chevrolet,194.0,85.0,lr axle,0.0
+1961,43,Hickory,Hickory Speedway,0.4,dirt track,15.0,3.0,7.0,Joe Weatherly,Elmo Henderson,'60 Pontiac,189.0,70.0,ball joint,0.0
+1961,43,Hickory,Hickory Speedway,0.4,dirt track,16.0,20.0,71.0,Bob Barron,Bob Barron,'60 Dodge,162.0,60.0,rear end,0.0
+1961,43,Hickory,Hickory Speedway,0.4,dirt track,17.0,6.0,42.0,Richard Petty,Petty Enterprises,'61 Plymouth,102.0,60.0,rear end,0.0
+1961,43,Hickory,Hickory Speedway,0.4,dirt track,18.0,17.0,36.0,Larry Thomas,Wade Younts,'60 Chevrolet,89.0,50.0,rear end,0.0
+1961,43,Hickory,Hickory Speedway,0.4,dirt track,19.0,10.0,23.0,Doug Yates,Raeford Johnson,'59 Plymouth,61.0,50.0,clutch,0.0
+1961,43,Hickory,Hickory Speedway,0.4,dirt track,20.0,2.0,27.0,Junior Johnson,Holly Farms (Rex Lovette),'61 Pontiac,58.0,50.0,crash,58.0
+1961,44,Richmond,Atlantic Rural Fairgrounds,0.5,dirt track,1.0,7.0,8.0,Joe Weatherly,Bud Moore,'61 Pontiac,250.0,1350.0,running,101.0
+1961,44,Richmond,Atlantic Rural Fairgrounds,0.5,dirt track,2.0,1.0,27.0,Junior Johnson,Holly Farms (Rex Lovette),'60 Pontiac,250.0,850.0,running,120.0
+1961,44,Richmond,Atlantic Rural Fairgrounds,0.5,dirt track,3.0,5.0,4.0,Rex White,White-Clements (Rex White),'61 Chevrolet,249.0,750.0,running,0.0
+1961,44,Richmond,Atlantic Rural Fairgrounds,0.5,dirt track,4.0,2.0,11.0,Ned Jarrett,B.G. Holloway,'61 Chevrolet,249.0,450.0,running,0.0
+1961,44,Richmond,Atlantic Rural Fairgrounds,0.5,dirt track,5.0,12.0,44.0,Jim Paschal,Julian Petty,'61 Pontiac,248.0,300.0,running,28.0
+1961,44,Richmond,Atlantic Rural Fairgrounds,0.5,dirt track,6.0,4.0,85.0,Emanuel Zervakis,Monroe Shook,'60 Chevrolet,246.0,250.0,running,0.0
+1961,44,Richmond,Atlantic Rural Fairgrounds,0.5,dirt track,7.0,3.0,66.0,Bill Morgan,Cafe Burgundy (Ratus Walters),'60 Ford,239.0,225.0,running,0.0
+1961,44,Richmond,Atlantic Rural Fairgrounds,0.5,dirt track,8.0,19.0,61.0,Elmo Langley,Doc White,'59 T-Bird,224.0,200.0,running,0.0
+1961,44,Richmond,Atlantic Rural Fairgrounds,0.5,dirt track,9.0,9.0,19.0,Herman Beam,Herman Beam,'60 Ford,223.0,175.0,running,0.0
+1961,44,Richmond,Atlantic Rural Fairgrounds,0.5,dirt track,10.0,17.0,48.0,G.C. Spencer,G.C. Spencer,'60 Chevrolet,219.0,150.0,running,0.0
+1961,44,Richmond,Atlantic Rural Fairgrounds,0.5,dirt track,11.0,11.0,23.0,Doug Yates,Raeford Johnson,'61 Plymouth,217.0,150.0,running,0.0
+1961,44,Richmond,Atlantic Rural Fairgrounds,0.5,dirt track,12.0,23.0,17.0,Fred Harb,Fred Harb,'61 Ford,215.0,125.0,running,0.0
+1961,44,Richmond,Atlantic Rural Fairgrounds,0.5,dirt track,13.0,14.0,119.0,Al Disney,–,'59 Buick,214.0,125.0,running,0.0
+1961,44,Richmond,Atlantic Rural Fairgrounds,0.5,dirt track,14.0,10.0,34.0,Wendell Scott,Wendell Scott,'60 Chevrolet,201.0,110.0,running,0.0
+1961,44,Richmond,Atlantic Rural Fairgrounds,0.5,dirt track,15.0,13.0,86.0,Buck Baker,Buck Baker,'61 Chrysler,189.0,110.0,running,0.0
+1961,44,Richmond,Atlantic Rural Fairgrounds,0.5,dirt track,16.0,20.0,36.0,Larry Thomas,Wade Younts,'60 Chevrolet,176.0,100.0,rear end,0.0
+1961,44,Richmond,Atlantic Rural Fairgrounds,0.5,dirt track,17.0,6.0,6.0,Cotton Owens,Cotton Owens,'60 Pontiac,171.0,90.0,rear end,1.0
+1961,44,Richmond,Atlantic Rural Fairgrounds,0.5,dirt track,18.0,8.0,42.0,Richard Petty,Petty Enterprises,'61 Plymouth,157.0,80.0,engine,0.0
+1961,44,Richmond,Atlantic Rural Fairgrounds,0.5,dirt track,19.0,18.0,74.0,L.D. Austin,L.D. Austin,'61 Chevrolet,155.0,75.0,spindle,0.0
+1961,44,Richmond,Atlantic Rural Fairgrounds,0.5,dirt track,20.0,21.0,57.0,Harvey Henderson,J.I. Divers,'61 Chevrolet,153.0,75.0,brakes,0.0
+1961,44,Richmond,Atlantic Rural Fairgrounds,0.5,dirt track,21.0,15.0,90.0,Johnny Roberts,Junie Donlavey,'60 Ford,113.0,75.0,head gasket,0.0
+1961,44,Richmond,Atlantic Rural Fairgrounds,0.5,dirt track,22.0,22.0,112.0,Ronnie Fones,–,'59 Chevrolet,82.0,75.0,rear end,0.0
+1961,44,Richmond,Atlantic Rural Fairgrounds,0.5,dirt track,23.0,24.0,5.0,Jimmy Pardue,–,'59 Chevrolet,70.0,75.0,spindle,0.0
+1961,44,Richmond,Atlantic Rural Fairgrounds,0.5,dirt track,24.0,25.0,71.0,Bob Barron,Bob Barron,'60 Dodge,63.0,75.0,rear end,0.0
+1961,44,Richmond,Atlantic Rural Fairgrounds,0.5,dirt track,25.0,16.0,62.0,Curtis Crider,Curtis Crider,'61 Mercury,7.0,75.0,overheating,0.0
+1961,45,Sacramento,California State Fairgrounds,1.0,dirt track,1.0,–,98,Eddie Gray,Eddie Gray,'61 Ford,100.0,1300.0,running,75.0
+1961,45,Sacramento,California State Fairgrounds,1.0,dirt track,2.0,–,6,Bob Ross,–,'61 Oldsmobile,99.0,800.0,running,0.0
+1961,45,Sacramento,California State Fairgrounds,1.0,dirt track,3.0,–,76,Danny Weinberg,Guy Kimball,'61 Ford,99.0,500.0,running,0.0
+1961,45,Sacramento,California State Fairgrounds,1.0,dirt track,4.0,–,36,Frank Secrist,Frank Secrist,'60 Ford,99.0,400.0,running,0.0
+1961,45,Sacramento,California State Fairgrounds,1.0,dirt track,5.0,–,7,Don Noel,Chuck Parkko,'61 Ford,98.0,300.0,running,0.0
+1961,45,Sacramento,California State Fairgrounds,1.0,dirt track,6.0,–,41,Clem Proctor,Charlie Chapman,'60 Ford,97.0,250.0,running,0.0
+1961,45,Sacramento,California State Fairgrounds,1.0,dirt track,7.0,–,4,Chuck Webb,Dick Wearing,'59 Ford,97.0,200.0,running,0.0
+1961,45,Sacramento,California State Fairgrounds,1.0,dirt track,8.0,–,28,Kuzie Kuzmanich,Walt Palozi,'61 Pontiac,97.0,150.0,running,0.0
+1961,45,Sacramento,California State Fairgrounds,1.0,dirt track,9.0,–,26N,Carl Joiner,–,'61 Chevrolet,95.0,100.0,running,0.0
+1961,45,Sacramento,California State Fairgrounds,1.0,dirt track,10.0,–,45,Eddie Pagan,Bill Clinton,'61 Ford,94.0,100.0,running,0.0
+1961,45,Sacramento,California State Fairgrounds,1.0,dirt track,11.0,–,5,Bruce Worrell,Bob Smith,'60 Ford,94.0,100.0,running,0.0
+1961,45,Sacramento,California State Fairgrounds,1.0,dirt track,12.0,–,11,Jim Stewart,Jack Chatenay,'60 Plymouth,93.0,100.0,running,0.0
+1961,45,Sacramento,California State Fairgrounds,1.0,dirt track,13.0,–,00,Dick Getty,Dick Getty,'59 Chevrolet,89.0,100.0,running,0.0
+1961,45,Sacramento,California State Fairgrounds,1.0,dirt track,14.0,–,20,Jack Norton,William Peach,'59 Chevrolet,88.0,100.0,running,0.0
+1961,45,Sacramento,California State Fairgrounds,1.0,dirt track,15.0,–,18,Dick Smith,William Long,'60 Ford,86.0,75.0,running,0.0
+1961,45,Sacramento,California State Fairgrounds,1.0,dirt track,16.0,–,46,Bill Ferrier,–,'59 Ford,82.0,50.0,running,0.0
+1961,45,Sacramento,California State Fairgrounds,1.0,dirt track,17.0,–,94,Ed Brown,Ed Brown,'61 Ford,74.0,50.0,crash,0.0
+1961,45,Sacramento,California State Fairgrounds,1.0,dirt track,18.0,–,85,Keith Wilkinson,–,'61 Ford,74.0,50.0,running,0.0
+1961,45,Sacramento,California State Fairgrounds,1.0,dirt track,19.0,–,91,Oren Prosser,Jack Chatenay,'61 Plymouth,73.0,50.0,running,0.0
+1961,45,Sacramento,California State Fairgrounds,1.0,dirt track,20.0,–,0,Jim Cook,Floyd Johnson,'60 Dodge,71.0,50.0,running,0.0
+1961,45,Sacramento,California State Fairgrounds,1.0,dirt track,21.0,–,23,Bill Foster,–,'60 Ford,61.0,25.0,engine,0.0
+1961,45,Sacramento,California State Fairgrounds,1.0,dirt track,22.0,–,10,Jim Blomgren,Bob Smith,'61 Ford,60.0,25.0,transmission,0.0
+1961,45,Sacramento,California State Fairgrounds,1.0,dirt track,23.0,–,43,Joe Clark,–,'60 Ford,53.0,25.0,overheating,0.0
+1961,45,Sacramento,California State Fairgrounds,1.0,dirt track,24.0,–,2,Ron Hornaday,Frank Galpin,'60 Ford,40.0,25.0,running,0.0
+1961,45,Sacramento,California State Fairgrounds,1.0,dirt track,25.0,–,84,Bob Perry,Bob Perry,'59 Ford,36.0,25.0,bearing,0.0
+1961,45,Sacramento,California State Fairgrounds,1.0,dirt track,26.0,–,44,Lloyd Dane,Lloyd Dane,'61 Chevrolet,31.0,25.0,sway bar,0.0
+1961,45,Sacramento,California State Fairgrounds,1.0,dirt track,27.0,–,21,Jerry Plotts,–,'59 Ford,30.0,25.0,crash,0.0
+1961,45,Sacramento,California State Fairgrounds,1.0,dirt track,28.0,1,98N,Bill Amick,–,'60 Pontiac,25.0,25.0,rear end,25.0
+1961,45,Sacramento,California State Fairgrounds,1.0,dirt track,29.0,–,8,Clyde Palmer,–,'59 Dodge,16.0,25.0,fuel pump,0.0
+1961,45,Sacramento,California State Fairgrounds,1.0,dirt track,30.0,–,15,Bill Clinton,Bill Clinton,'60 Ford,16.0,25.0,crash,0.0
+1961,45,Sacramento,California State Fairgrounds,1.0,dirt track,31.0,–,61N,Dick Baron,–,'59 Chevrolet,5.0,25.0,axle,0.0
+1961,45,Sacramento,California State Fairgrounds,1.0,dirt track,32.0,–,12N,Scotty Cain,Scotty Cain,'60 T-Bird,2.0,25.0,crankshaft,0.0
+1961,46,Atlanta,Atlanta International Raceway,1.5,paved track,1.0,5.0,3.0,David Pearson,Daytona Kennel (John Masoni),'61 Pontiac,267.0,9330.0,running,2.0
+1961,46,Atlanta,Atlanta International Raceway,1.5,paved track,2.0,9.0,27.0,Junior Johnson,Holly Farms (Rex Lovette),'61 Pontiac,267.0,4795.0,running,0.0
+1961,46,Atlanta,Atlanta International Raceway,1.5,paved track,3.0,1.0,22.0,Fireball Roberts,Smokey Yunick,'61 Pontiac,267.0,3165.0,running,29.0
+1961,46,Atlanta,Atlanta International Raceway,1.5,paved track,4.0,13.0,47.0,Jack Smith,Jack Smith,'61 Pontiac,264.0,2250.0,running,0.0
+1961,46,Atlanta,Atlanta International Raceway,1.5,paved track,5.0,26.0,43.0,Richard Petty,Petty Enterprises,'61 Plymouth,264.0,1625.0,running,0.0
+1961,46,Atlanta,Atlanta International Raceway,1.5,paved track,6.0,24.0,14.0,Johnny Allen,Joe Lee Johnson,'61 Chevrolet,264.0,1325.0,running,0.0
+1961,46,Atlanta,Atlanta International Raceway,1.5,paved track,7.0,27.0,11.0,Ned Jarrett,B.G. Holloway,'61 Chevrolet,264.0,1225.0,running,0.0
+1961,46,Atlanta,Atlanta International Raceway,1.5,paved track,8.0,23.0,46.0,Bob Welborn,Jack Smith,'61 Pontiac,264.0,1100.0,running,0.0
+1961,46,Atlanta,Atlanta International Raceway,1.5,paved track,9.0,22.0,51.0,Woodie Wilson,Leroy Faucett,'61 Pontiac,262.0,1000.0,running,0.0
+1961,46,Atlanta,Atlanta International Raceway,1.5,paved track,10.0,11.0,6.0,Marvin Panch,Cotton Owens,'61 Pontiac,262.0,875.0,running,0.0
+1961,46,Atlanta,Atlanta International Raceway,1.5,paved track,11.0,7.0,94.0,Banjo Matthews,Banjo Matthews,'61 Ford,262.0,1485.0,engine,163.0
+1961,46,Atlanta,Atlanta International Raceway,1.5,paved track,12.0,8.0,72.0,Bobby Johns,Shorty Johns,'61 Ford,261.0,705.0,running,11.0
+1961,46,Atlanta,Atlanta International Raceway,1.5,paved track,13.0,14.0,44.0,Jim Paschal,Julian Petty,'61 Pontiac,260.0,650.0,running,0.0
+1961,46,Atlanta,Atlanta International Raceway,1.5,paved track,14.0,15.0,85.0,Emanuel Zervakis,Monroe Shook,'61 Chevrolet,259.0,575.0,running,0.0
+1961,46,Atlanta,Atlanta International Raceway,1.5,paved track,15.0,30.0,30.0,Tiny Lund,Fred Clark,'60 Chevrolet,259.0,550.0,running,0.0
+1961,46,Atlanta,Atlanta International Raceway,1.5,paved track,16.0,3.0,8.0,Joe Weatherly,Bud Moore,'61 Pontiac,256.0,520.0,running,4.0
+1961,46,Atlanta,Atlanta International Raceway,1.5,paved track,17.0,21.0,59.0,Ken Rush,B.G. Holloway,'61 Pontiac,255.0,450.0,running,0.0
+1961,46,Atlanta,Atlanta International Raceway,1.5,paved track,18.0,10.0,4.0,Rex White,White-Clements (Rex White),'61 Chevrolet,254.0,550.0,running,0.0
+1961,46,Atlanta,Atlanta International Raceway,1.5,paved track,19.0,2.0,29.0,Nelson Stacy,Holt-Stacy (Dudley Farrell),'61 Ford,243.0,845.0,engine,50.0
+1961,46,Atlanta,Atlanta International Raceway,1.5,paved track,20.0,6.0,24.0,Darel Dieringer,James Turner,'60 Pontiac,238.0,575.0,crash,0.0
+1961,46,Atlanta,Atlanta International Raceway,1.5,paved track,21.0,35.0,74.0,L.D. Austin,L.D. Austin,'61 Chevrolet,238.0,350.0,running,0.0
+1961,46,Atlanta,Atlanta International Raceway,1.5,paved track,22.0,37.0,19.0,Herman Beam,Herman Beam,'60 Ford,235.0,350.0,running,0.0
+1961,46,Atlanta,Atlanta International Raceway,1.5,paved track,23.0,25.0,68.0,Ed Livingston,Curtis Crider,'61 Ford,234.0,350.0,running,0.0
+1961,46,Atlanta,Atlanta International Raceway,1.5,paved track,24.0,36.0,93.0,Lee Reitzel,Lee Reitzel,'60 Ford,226.0,350.0,running,0.0
+1961,46,Atlanta,Atlanta International Raceway,1.5,paved track,25.0,16.0,87.0,Buck Baker,Buck Baker,'61 Chrysler,209.0,375.0,engine,0.0
+1961,46,Atlanta,Atlanta International Raceway,1.5,paved track,26.0,20.0,32.0,Bill Morgan,J.L. Cheatham,'61 Ford,203.0,325.0,piston,0.0
+1961,46,Atlanta,Atlanta International Raceway,1.5,paved track,27.0,32.0,78.0,J.C. Hendrix,Billie Ridgeway (W.J. Ridgeway),'60 Ford,202.0,300.0,con rod,0.0
+1961,46,Atlanta,Atlanta International Raceway,1.5,paved track,28.0,33.0,96.0,Elmo Langley,J.L. Cheatham,'60 Chevrolet,180.0,300.0,engine,0.0
+1961,46,Atlanta,Atlanta International Raceway,1.5,paved track,29.0,12.0,9.0,Bunkie Blackburn,Wildcat Williams,'61 Ford,174.0,375.0,engine,0.0
+1961,46,Atlanta,Atlanta International Raceway,1.5,paved track,30.0,28.0,10.0,T.C. Hunt,Fred Wheat,'61 Dodge,153.0,300.0,engine,0.0
+1961,46,Atlanta,Atlanta International Raceway,1.5,paved track,31.0,34.0,48.0,G.C. Spencer,G.C. Spencer,'60 Chevrolet,124.0,250.0,engine,0.0
+1961,46,Atlanta,Atlanta International Raceway,1.5,paved track,32.0,38.0,71.0,Bob Barron,Bob Barron,'60 Chevrolet,104.0,250.0,engine,0.0
+1961,46,Atlanta,Atlanta International Raceway,1.5,paved track,33.0,39.0,23.0,Doug Yates,Raeford Johnson,'61 Plymouth,65.0,250.0,oil pressure,0.0
+1961,46,Atlanta,Atlanta International Raceway,1.5,paved track,34.0,31.0,99.0,George Alsobrook,Joe Jones,'61 Ford,63.0,250.0,piston,0.0
+1961,46,Atlanta,Atlanta International Raceway,1.5,paved track,35.0,29.0,5.0,Ralph Earnhardt,Leroy Faucett,'60 Pontiac,62.0,250.0,transmission,0.0
+1961,46,Atlanta,Atlanta International Raceway,1.5,paved track,36.0,4.0,28.0,Fred Lorenzen,Holman-Moody Racing,'61 Ford,52.0,315.0,crash,8.0
+1961,46,Atlanta,Atlanta International Raceway,1.5,paved track,37.0,19.0,90.0,Dave Mader,Dave Mader,'61 Chevrolet,51.0,250.0,crash,0.0
+1961,46,Atlanta,Atlanta International Raceway,1.5,paved track,38.0,17.0,80.0,Tubby Gonzales,Tubby Gonzales,'61 Ford,47.0,250.0,engine,0.0
+1961,46,Atlanta,Atlanta International Raceway,1.5,paved track,39.0,18.0,86.0,Herb Tillman,Buck Baker,'61 Chrysler,46.0,275.0,oil pressure,0.0
+1961,46,Atlanta,Atlanta International Raceway,1.5,paved track,40.0,42.0,15.0,Jesse James Taylor,Beau Morgan,'61 Ford,10.0,250.0,engine,0.0
+1961,46,Atlanta,Atlanta International Raceway,1.5,paved track,41.0,41.0,62.0,Curtis Crider,Curtis Crider,'61 Mercury,3.0,200.0,bearing,0.0
+1961,46,Atlanta,Atlanta International Raceway,1.5,paved track,42.0,40.0,2.0,Tommy Irwin,Tom Daniels,'61 Chevrolet,0.0,200.0,piston,0.0
+1961,47,Martinsville,Martinsville Speedway,0.5,paved track,1.0,4.0,8.0,Joe Weatherly,Bud Moore,'61 Pontiac,500.0,3595.0,running,116.0
+1961,47,Martinsville,Martinsville Speedway,0.5,paved track,2.0,2.0,4.0,Rex White,White-Clements (Rex White),'61 Pontiac,500.0,2000.0,running,58.0
+1961,47,Martinsville,Martinsville Speedway,0.5,paved track,3.0,9.0,27.0,Junior Johnson,Holly Farms (Rex Lovette),'61 Pontiac,499.0,1570.0,running,259.0
+1961,47,Martinsville,Martinsville Speedway,0.5,paved track,4.0,8.0,6.0,Fireball Roberts,Cotton Owens,'61 Pontiac,496.0,850.0,running,2.0
+1961,47,Martinsville,Martinsville Speedway,0.5,paved track,5.0,16.0,59.0,Ken Rush,B.G. Holloway,'61 Pontiac,494.0,750.0,running,0.0
+1961,47,Martinsville,Martinsville Speedway,0.5,paved track,6.0,11.0,54.0,Jimmy Pardue,Jimmy Pardue,'60 Chevrolet,494.0,650.0,running,0.0
+1961,47,Martinsville,Martinsville Speedway,0.5,paved track,7.0,12.0,85.0,Emanuel Zervakis,Monroe Shook,'61 Chevrolet,492.0,550.0,running,0.0
+1961,47,Martinsville,Martinsville Speedway,0.5,paved track,8.0,15.0,42.0,Art Malone,Petty Enterprises,'61 Plymouth,484.0,500.0,running,0.0
+1961,47,Martinsville,Martinsville Speedway,0.5,paved track,9.0,24.0,36.0,Larry Thomas,Wade Younts,'60 Chevrolet,476.0,425.0,running,0.0
+1961,47,Martinsville,Martinsville Speedway,0.5,paved track,10.0,17.0,64.0,Bill Morton,Bill Morton,'60 Chevrolet,473.0,365.0,running,0.0
+1961,47,Martinsville,Martinsville Speedway,0.5,paved track,11.0,21.0,48.0,G.C. Spencer,G.C. Spencer,'60 Chevrolet,469.0,425.0,running,0.0
+1961,47,Martinsville,Martinsville Speedway,0.5,paved track,12.0,18.0,19.0,Herman Beam,Herman Beam,'60 Ford,464.0,275.0,running,0.0
+1961,47,Martinsville,Martinsville Speedway,0.5,paved track,13.0,6.0,11.0,Ned Jarrett,B.G. Holloway,'61 Chevrolet,407.0,285.0,engine,8.0
+1961,47,Martinsville,Martinsville Speedway,0.5,paved track,14.0,5.0,17.0,Fred Harb,Fred Harb,'61 Ford,407.0,275.0,running,0.0
+1961,47,Martinsville,Martinsville Speedway,0.5,paved track,15.0,19.0,23.0,Doug Yates,Raeford Johnson,'61 Plymouth,395.0,150.0,transmission,0.0
+1961,47,Martinsville,Martinsville Speedway,0.5,paved track,16.0,26.0,25.0,John Hamby,John Hamby,'61 Dodge,395.0,175.0,running,0.0
+1961,47,Martinsville,Martinsville Speedway,0.5,paved track,17.0,7.0,43.0,Richard Petty,Petty Enterprises,'61 Plymouth,319.0,175.0,engine,0.0
+1961,47,Martinsville,Martinsville Speedway,0.5,paved track,18.0,1.0,28.0,Fred Lorenzen,Holman-Moody Racing,'61 Ford,300.0,350.0,rear end,57.0
+1961,47,Martinsville,Martinsville Speedway,0.5,paved track,19.0,14.0,44.0,Jim Paschal,Julian Petty,'61 Pontiac,284.0,150.0,rear end,0.0
+1961,47,Martinsville,Martinsville Speedway,0.5,paved track,20.0,3.0,21.0,Glen Wood,Wood Brothers,'61 Ford,264.0,225.0,rear end,0.0
+1961,47,Martinsville,Martinsville Speedway,0.5,paved track,21.0,13.0,86.0,Buck Baker,Buck Baker,'61 Chrysler,214.0,100.0,rocker arm,0.0
+1961,47,Martinsville,Martinsville Speedway,0.5,paved track,22.0,22.0,74.0,L.D. Austin,L.D. Austin,'61 Chevrolet,179.0,150.0,engine,0.0
+1961,47,Martinsville,Martinsville Speedway,0.5,paved track,23.0,28.0,71.0,Bob Barron,Bob Barron,'60 Dodge,120.0,100.0,handling,0.0
+1961,47,Martinsville,Martinsville Speedway,0.5,paved track,24.0,25.0,12.0,Wayne Lambeth,Bill Lloyd,'59 Ford,117.0,125.0,fuel leak,0.0
+1961,47,Martinsville,Martinsville Speedway,0.5,paved track,25.0,23.0,62.0,Curtis Crider,Curtis Crider,'61 Mercury,17.0,135.0,overheating,0.0
+1961,47,Martinsville,Martinsville Speedway,0.5,paved track,26.0,27.0,5.0,Bob Presnell,Bobby Waddell,'59 Chevrolet,5.0,100.0,engine,0.0
+1961,47,Martinsville,Martinsville Speedway,0.5,paved track,27.0,10.0,2.0,Tommy Irwin,Tom Daniels,'61 Chevrolet,2.0,125.0,rocker arm,0.0
+1961,47,Martinsville,Martinsville Speedway,0.5,paved track,28.0,20.0,34.0,Wendell Scott,Wendell Scott,'60 Chevrolet,1.0,100.0,crash,0.0
+1961,47,Martinsville,Martinsville Speedway,0.5,paved track,29.0,29.0,77.0,Joe Jones,Joe Jones,'60 Ford,0.0,125.0,engine,0.0
+1961,48,North Wilkesboro,North Wilkesboro Speedway,0.625,paved track,1.0,3.0,4.0,Rex White,White-Clements (Rex White),'61 Chevrolet,320.0,3105.0,running,201.0
+1961,48,North Wilkesboro,North Wilkesboro Speedway,0.625,paved track,2.0,6.0,18.0,Fireball Roberts,Stephens Pontiac (Bud Moore),'61 Pontiac,319.0,1125.0,running,0.0
+1961,48,North Wilkesboro,North Wilkesboro Speedway,0.625,paved track,3.0,13.0,42.0,Richard Petty,Petty Enterprises,'61 Plymouth,316.0,850.0,running,0.0
+1961,48,North Wilkesboro,North Wilkesboro Speedway,0.625,paved track,4.0,1.0,27.0,Junior Johnson,Holly Farms (Rex Lovette),'61 Pontiac,315.0,1265.0,running,118.0
+1961,48,North Wilkesboro,North Wilkesboro Speedway,0.625,paved track,5.0,10.0,11.0,Ned Jarrett,B.G. Holloway,'61 Chevrolet,315.0,575.0,running,0.0
+1961,48,North Wilkesboro,North Wilkesboro Speedway,0.625,paved track,6.0,14.0,85.0,Emanuel Zervakis,Monroe Shook,'61 Chevrolet,312.0,450.0,running,0.0
+1961,48,North Wilkesboro,North Wilkesboro Speedway,0.625,paved track,7.0,24.0,54.0,Jimmy Pardue,Jimmy Pardue,'59 Chevrolet,312.0,400.0,running,0.0
+1961,48,North Wilkesboro,North Wilkesboro Speedway,0.625,paved track,8.0,5.0,8.0,Joe Weatherly,Stephens Pontiac (Bud Moore),'61 Pontiac,311.0,355.0,running,1.0
+1961,48,North Wilkesboro,North Wilkesboro Speedway,0.625,paved track,9.0,18.0,64.0,Bill Morton,Bill Morton,'60 Chevrolet,300.0,300.0,running,0.0
+1961,48,North Wilkesboro,North Wilkesboro Speedway,0.625,paved track,10.0,20.0,23.0,Doug Yates,Raeford Johnson,'61 Plymouth,299.0,225.0,running,0.0
+1961,48,North Wilkesboro,North Wilkesboro Speedway,0.625,paved track,11.0,8.0,2.0,Tommy Irwin,Tom Daniels,'61 Chevrolet,296.0,200.0,crash,0.0
+1961,48,North Wilkesboro,North Wilkesboro Speedway,0.625,paved track,12.0,19.0,36.0,Larry Thomas,Wade Younts,'60 Chevrolet,294.0,175.0,running,0.0
+1961,48,North Wilkesboro,North Wilkesboro Speedway,0.625,paved track,13.0,21.0,34.0,Wendell Scott,Wendell Scott,'60 Chevrolet,293.0,150.0,running,0.0
+1961,48,North Wilkesboro,North Wilkesboro Speedway,0.625,paved track,14.0,22.0,62.0,Curtis Crider,Curtis Crider,'61 Mercury,293.0,140.0,running,0.0
+1961,48,North Wilkesboro,North Wilkesboro Speedway,0.625,paved track,15.0,17.0,19.0,Herman Beam,Herman Beam,'60 Ford,291.0,125.0,running,0.0
+1961,48,North Wilkesboro,North Wilkesboro Speedway,0.625,paved track,16.0,26.0,20.0,Paul Lewis,–,'60 Chevrolet,262.0,110.0,running,0.0
+1961,48,North Wilkesboro,North Wilkesboro Speedway,0.625,paved track,17.0,27.0,74.0,L.D. Austin,L.D. Austin,'61 Chevrolet,253.0,100.0,overheating,0.0
+1961,48,North Wilkesboro,North Wilkesboro Speedway,0.625,paved track,18.0,12.0,17.0,Fred Harb,Fred Harb,'61 Ford,241.0,100.0,engine,0.0
+1961,48,North Wilkesboro,North Wilkesboro Speedway,0.625,paved track,19.0,23.0,71.0,Bob Barron,Bob Barron,'60 Dodge,218.0,100.0,running,0.0
+1961,48,North Wilkesboro,North Wilkesboro Speedway,0.625,paved track,20.0,2.0,21.0,Banjo Matthews,Wood Brothers,'61 Ford,202.0,100.0,rear end,0.0
+1961,48,North Wilkesboro,North Wilkesboro Speedway,0.625,paved track,21.0,4.0,44.0,Jim Paschal,Julian Petty,'61 Pontiac,200.0,75.0,driveshaft,0.0
+1961,48,North Wilkesboro,North Wilkesboro Speedway,0.625,paved track,22.0,15.0,14.0,Johnny Allen,Joe Lee Johnson,'61 Chevrolet,198.0,75.0,crash,0.0
+1961,48,North Wilkesboro,North Wilkesboro Speedway,0.625,paved track,23.0,16.0,48.0,G.C. Spencer,G.C. Spencer,'60 Chevrolet,194.0,75.0,crash,0.0
+1961,48,North Wilkesboro,North Wilkesboro Speedway,0.625,paved track,24.0,7.0,46.0,Jack Smith,Jack Smith,'61 Pontiac,190.0,75.0,piston,0.0
+1961,48,North Wilkesboro,North Wilkesboro Speedway,0.625,paved track,25.0,11.0,6.0,Cotton Owens,Cotton Owens,'61 Pontiac,189.0,75.0,oil pressure,0.0
+1961,48,North Wilkesboro,North Wilkesboro Speedway,0.625,paved track,26.0,28.0,25.0,John Hamby,John Hamby,'61 Dodge,120.0,50.0,transmission,0.0
+1961,48,North Wilkesboro,North Wilkesboro Speedway,0.625,paved track,27.0,9.0,86.0,Buck Baker,Liquid Basket (Buck Baker),'61 Chrysler,28.0,50.0,engine,0.0
+1961,48,North Wilkesboro,North Wilkesboro Speedway,0.625,paved track,28.0,29.0,97.0,Harry Leake,Harry Leake,'60 Chevrolet,26.0,50.0,engine,0.0
+1961,48,North Wilkesboro,North Wilkesboro Speedway,0.625,paved track,29.0,25.0,59.0,Ken Rush,B.G. Holloway,'61 Pontiac,8.0,50.0,engine,0.0
+1961,48,North Wilkesboro,North Wilkesboro Speedway,0.625,paved track,30.0,30.0,12.0,Joe Jones,Bill Lloyd,'59 Ford,2.0,50.0,handling,0.0
+1961,49,Charlotte,Charlotte Motor Speedway,1.5,paved track,1.0,6.0,8.0,Joe Weatherly,Bud Moore,'61 Pontiac,267.0,9510.0,running,5.0
+1961,49,Charlotte,Charlotte Motor Speedway,1.5,paved track,2.0,22.0,43.0,Richard Petty,Petty Enterprises,'61 Plymouth,267.0,4870.0,running,0.0
+1961,49,Charlotte,Charlotte Motor Speedway,1.5,paved track,3.0,14.0,18.0,Bob Welborn,Bud Moore,'61 Pontiac,267.0,3275.0,running,51.0
+1961,49,Charlotte,Charlotte Motor Speedway,1.5,paved track,4.0,21.0,6.0,Cotton Owens,Cotton Owens,'61 Pontiac,266.0,2275.0,running,0.0
+1961,49,Charlotte,Charlotte Motor Speedway,1.5,paved track,5.0,13.0,4.0,Rex White,White-Clements (Rex White),'61 Chevrolet,264.0,1800.0,running,0.0
+1961,49,Charlotte,Charlotte Motor Speedway,1.5,paved track,6.0,29.0,42.0,Darel Dieringer,Petty Enterprises,'61 Plymouth,263.0,1375.0,running,0.0
+1961,49,Charlotte,Charlotte Motor Speedway,1.5,paved track,7.0,24.0,85.0,Emanuel Zervakis,Monroe Shook,'61 Chevrolet,261.0,1250.0,running,0.0
+1961,49,Charlotte,Charlotte Motor Speedway,1.5,paved track,8.0,25.0,14.0,Joe Lee Johnson,Joe Lee Johnson,'61 Chevrolet,258.0,1125.0,running,0.0
+1961,49,Charlotte,Charlotte Motor Speedway,1.5,paved track,9.0,12.0,27.0,Junior Johnson,Holly Farms (Rex Lovette),'61 Pontiac,256.0,1535.0,wheel,100.0
+1961,49,Charlotte,Charlotte Motor Speedway,1.5,paved track,10.0,30.0,30.0,J.C. Hendrix,Fred Clark,'60 Chevrolet,254.0,875.0,running,0.0
+1961,49,Charlotte,Charlotte Motor Speedway,1.5,paved track,11.0,10.0,21.0,Speedy Thompson,Wood Brothers,'61 Ford,252.0,825.0,engine,0.0
+1961,49,Charlotte,Charlotte Motor Speedway,1.5,paved track,12.0,40.0,15.0,Johnny Allen,Beau Morgan,'61 Ford,249.0,650.0,running,0.0
+1961,49,Charlotte,Charlotte Motor Speedway,1.5,paved track,13.0,34.0,74.0,L.D. Austin,L.D. Austin,'61 Chevrolet,243.0,600.0,running,0.0
+1961,49,Charlotte,Charlotte Motor Speedway,1.5,paved track,14.0,26.0,5.0,Woodie Wilson,Leroy Faucett,'61 Pontiac,242.0,600.0,running,0.0
+1961,49,Charlotte,Charlotte Motor Speedway,1.5,paved track,15.0,36.0,96.0,Tiny Lund,J.L. Cheatham,'60 Chevrolet,234.0,550.0,running,0.0
+1961,49,Charlotte,Charlotte Motor Speedway,1.5,paved track,16.0,32.0,19.0,Herman Beam,Herman Beam,'60 Ford,233.0,450.0,running,0.0
+1961,49,Charlotte,Charlotte Motor Speedway,1.5,paved track,17.0,19.0,87.0,Buck Baker,Buck Baker,'61 Chrysler,232.0,525.0,running,0.0
+1961,49,Charlotte,Charlotte Motor Speedway,1.5,paved track,18.0,15.0,11.0,Ned Jarrett,B.G. Holloway,'61 Chevrolet,223.0,550.0,engine,0.0
+1961,49,Charlotte,Charlotte Motor Speedway,1.5,paved track,19.0,31.0,54.0,Jimmy Pardue,Jimmy Pardue,'59 Chevrolet,221.0,450.0,running,0.0
+1961,49,Charlotte,Charlotte Motor Speedway,1.5,paved track,20.0,33.0,77.0,Joe Jones,Joe Jones,'60 Ford,220.0,450.0,running,0.0
+1961,49,Charlotte,Charlotte Motor Speedway,1.5,paved track,21.0,1.0,3.0,David Pearson,Daytona Kennel (John Masoni),'61 Pontiac,217.0,470.0,fuel pump,4.0
+1961,49,Charlotte,Charlotte Motor Speedway,1.5,paved track,22.0,42.0,34.0,Wendell Scott,Wendell Scott,'60 Chevrolet,191.0,350.0,running,0.0
+1961,49,Charlotte,Charlotte Motor Speedway,1.5,paved track,23.0,43.0,1.0,George Green,Jess Potter,'61 Chevrolet,175.0,350.0,running,0.0
+1961,49,Charlotte,Charlotte Motor Speedway,1.5,paved track,24.0,18.0,32.0,Elmo Langley,J.L. Cheatham,'61 Ford,169.0,360.0,engine,0.0
+1961,49,Charlotte,Charlotte Motor Speedway,1.5,paved track,25.0,35.0,23.0,Doug Yates,Raeford Johnson,'61 Plymouth,140.0,350.0,driveshaft,0.0
+1961,49,Charlotte,Charlotte Motor Speedway,1.5,paved track,26.0,5.0,20.0,Marvin Panch,Smokey Yunick,'60 Pontiac,136.0,600.0,crash,0.0
+1961,49,Charlotte,Charlotte Motor Speedway,1.5,paved track,27.0,23.0,82.0,Elmo Henderson,Henry Dunbar,'61 Ford,122.0,310.0,running,0.0
+1961,49,Charlotte,Charlotte Motor Speedway,1.5,paved track,28.0,28.0,68.0,Ed Livingston,Curtis Crider,'60 Ford,121.0,310.0,running,0.0
+1961,49,Charlotte,Charlotte Motor Speedway,1.5,paved track,29.0,2.0,22.0,Fireball Roberts,Smokey Yunick,'61 Pontiac,113.0,1110.0,crash,107.0
+1961,49,Charlotte,Charlotte Motor Speedway,1.5,paved track,30.0,20.0,66.0,Bill Morgan,Cafe Burgundy (Ratus Walters),'61 Ford,111.0,300.0,crash,0.0
+1961,49,Charlotte,Charlotte Motor Speedway,1.5,paved track,31.0,4.0,28.0,Fred Lorenzen,Holman-Moody Racing,'61 Ford,104.0,275.0,head gasket,0.0
+1961,49,Charlotte,Charlotte Motor Speedway,1.5,paved track,32.0,8.0,72.0,Bobby Johns,Shorty Johns,'61 Ford,55.0,250.0,crash,0.0
+1961,49,Charlotte,Charlotte Motor Speedway,1.5,paved track,33.0,3.0,94.0,Banjo Matthews,Banjo Matthews,'61 Ford,54.0,300.0,engine,0.0
+1961,49,Charlotte,Charlotte Motor Speedway,1.5,paved track,34.0,27.0,86.0,Herb Tillman,Buck Baker,'61 Chrysler,45.0,275.0,rear end,0.0
+1961,49,Charlotte,Charlotte Motor Speedway,1.5,paved track,35.0,11.0,9.0,Bunkie Blackburn,Wildcat Williams,'61 Ford,42.0,325.0,crash,0.0
+1961,49,Charlotte,Charlotte Motor Speedway,1.5,paved track,36.0,41.0,80.0,Tubby Gonzales,Tubby Gonzales,'61 Ford,38.0,250.0,engine,0.0
+1961,49,Charlotte,Charlotte Motor Speedway,1.5,paved track,37.0,7.0,47.0,Jack Smith,Jack Smith,'61 Pontiac,34.0,550.0,fuel pump,0.0
+1961,49,Charlotte,Charlotte Motor Speedway,1.5,paved track,38.0,38.0,83.0,Sal Tovella,Jack Meeks,'61 Ford,31.0,250.0,distributor,0.0
+1961,49,Charlotte,Charlotte Motor Speedway,1.5,paved track,39.0,39.0,93.0,Lee Reitzel,Lee Reitzel,'60 Ford,31.0,250.0,head gasket,0.0
+1961,49,Charlotte,Charlotte Motor Speedway,1.5,paved track,40.0,37.0,62.0,Curtis Crider,Curtis Crider,'61 Mercury,27.0,250.0,engine,0.0
+1961,49,Charlotte,Charlotte Motor Speedway,1.5,paved track,41.0,9.0,29.0,Nelson Stacy,Holt-Stacy (Dudley Farrell),'61 Ford,27.0,400.0,overheating,0.0
+1961,49,Charlotte,Charlotte Motor Speedway,1.5,paved track,42.0,16.0,2.0,Tommy Irwin,Tom Daniels,'61 Chevrolet,20.0,350.0,rod,0.0
+1961,49,Charlotte,Charlotte Motor Speedway,1.5,paved track,43.0,17.0,59.0,Ken Rush,B.G. Holloway,'61 Pontiac,16.0,275.0,rocker arm,0.0
+1961,50,Bristol,Bristol International Speedway,0.5,paved track,1.0,2.0,8.0,Joe Weatherly,Bud Moore,'61 Pontiac,500.0,3680.0,running,82.0
+1961,50,Bristol,Bristol International Speedway,0.5,paved track,2.0,8.0,4.0,Rex White,White-Clements (Rex White),'61 Chevrolet,500.0,2365.0,running,24.0
+1961,50,Bristol,Bristol International Speedway,0.5,paved track,3.0,18.0,29.0,Nelson Stacy,Holt-Stacy (Dudley Farrell),'61 Ford,500.0,1525.0,running,0.0
+1961,50,Bristol,Bristol International Speedway,0.5,paved track,4.0,17.0,44.0,Jim Paschal,Julian Petty,'61 Pontiac,498.0,1125.0,running,0.0
+1961,50,Bristol,Bristol International Speedway,0.5,paved track,5.0,5.0,85.0,Emanuel Zervakis,Monroe Shook,'61 Chevrolet,495.0,950.0,running,0.0
+1961,50,Bristol,Bristol International Speedway,0.5,paved track,6.0,16.0,11.0,Ned Jarrett,B.G. Holloway,'61 Chevrolet,491.0,825.0,running,0.0
+1961,50,Bristol,Bristol International Speedway,0.5,paved track,7.0,13.0,54.0,Jimmy Pardue,Jimmy Pardue,'60 Chevrolet,482.0,725.0,running,0.0
+1961,50,Bristol,Bristol International Speedway,0.5,paved track,8.0,12.0,59.0,Ken Rush,B.G. Holloway,'61 Pontiac,481.0,675.0,running,0.0
+1961,50,Bristol,Bristol International Speedway,0.5,paved track,9.0,23.0,64.0,Bill Morton,Bill Morton,'60 Chevrolet,481.0,600.0,running,0.0
+1961,50,Bristol,Bristol International Speedway,0.5,paved track,10.0,3.0,18.0,Bob Welborn,Bud Moore,'61 Pontiac,480.0,585.0,running,0.0
+1961,50,Bristol,Bristol International Speedway,0.5,paved track,11.0,20.0,86.0,Buck Baker,Buck Baker,'61 Chrysler,480.0,450.0,running,0.0
+1961,50,Bristol,Bristol International Speedway,0.5,paved track,12.0,14.0,48.0,G.C. Spencer,G.C. Spencer,'60 Chevrolet,478.0,400.0,running,0.0
+1961,50,Bristol,Bristol International Speedway,0.5,paved track,13.0,30.0,74.0,L.D. Austin,L.D. Austin,'61 Chevrolet,474.0,325.0,running,0.0
+1961,50,Bristol,Bristol International Speedway,0.5,paved track,14.0,9.0,19.0,Herman Beam,Herman Beam,'60 Ford,471.0,325.0,running,0.0
+1961,50,Bristol,Bristol International Speedway,0.5,paved track,15.0,36.0,62.0,Curtis Crider,Curtis Crider,'61 Mercury,460.0,290.0,running,0.0
+1961,50,Bristol,Bristol International Speedway,0.5,paved track,16.0,33.0,34.0,Wendell Scott,Wendell Scott,'60 Chevrolet,459.0,280.0,running,0.0
+1961,50,Bristol,Bristol International Speedway,0.5,paved track,17.0,1.0,47.0,Bobby Johns,Jack Smith,'61 Pontiac,457.0,440.0,running,49.0
+1961,50,Bristol,Bristol International Speedway,0.5,paved track,18.0,28.0,16.0,Brownie King,–,'59 T-Bird,442.0,250.0,running,0.0
+1961,50,Bristol,Bristol International Speedway,0.5,paved track,19.0,31.0,69.0,Bill Latham,–,'60 Chevrolet,440.0,250.0,running,0.0
+1961,50,Bristol,Bristol International Speedway,0.5,paved track,20.0,21.0,17.0,Fred Harb,Fred Harb,'61 Ford,439.0,250.0,engine,0.0
+1961,50,Bristol,Bristol International Speedway,0.5,paved track,21.0,24.0,46.0,Jack Smith,Jack Smith,'61 Pontiac,421.0,240.0,wheel,0.0
+1961,50,Bristol,Bristol International Speedway,0.5,paved track,22.0,26.0,30.0,Tiny Lund,Fred Clark,'60 Chevrolet,414.0,225.0,rear end,0.0
+1961,50,Bristol,Bristol International Speedway,0.5,paved track,23.0,11.0,43.0,Richard Petty,Petty Enterprises,'61 Plymouth,394.0,246.0,rear end,0.0
+1961,50,Bristol,Bristol International Speedway,0.5,paved track,24.0,7.0,27.0,Junior Johnson,Holly Farms (Rex Lovette),'61 Pontiac,394.0,495.0,rear end,294.0
+1961,50,Bristol,Bristol International Speedway,0.5,paved track,25.0,15.0,14.0,Joe Lee Johnson,Joe Lee Johnson,'61 Chevrolet,370.0,225.0,engine,0.0
+1961,50,Bristol,Bristol International Speedway,0.5,paved track,26.0,4.0,22.0,Fireball Roberts,Holly Farms (Rex Lovette),'60 Pontiac,323.0,310.0,fuel pump,51.0
+1961,50,Bristol,Bristol International Speedway,0.5,paved track,27.0,19.0,32.0,Bill Morgan,J.L. Cheatham,'61 Ford,237.0,225.0,rear end,0.0
+1961,50,Bristol,Bristol International Speedway,0.5,paved track,28.0,38.0,1.0,George Green,Jess Potter,'60 Chevrolet,197.0,200.0,engine,0.0
+1961,50,Bristol,Bristol International Speedway,0.5,paved track,29.0,25.0,96.0,Johnny Allen,J.L. Cheatham,'60 Chevrolet,169.0,200.0,rear end,0.0
+1961,50,Bristol,Bristol International Speedway,0.5,paved track,30.0,10.0,9.0,Bunkie Blackburn,Wildcat Williams,'61 Ford,164.0,225.0,engine,0.0
+1961,50,Bristol,Bristol International Speedway,0.5,paved track,31.0,22.0,20.0,Paul Lewis,–,'61 Chevrolet,149.0,200.0,crash,0.0
+1961,50,Bristol,Bristol International Speedway,0.5,paved track,32.0,27.0,36.0,Larry Thomas,Wade Younts,'60 Chevrolet,120.0,200.0,crankshaft,0.0
+1961,50,Bristol,Bristol International Speedway,0.5,paved track,33.0,34.0,25.0,Gene Blackburn,–,'60 Dodge,117.0,100.0,axle,0.0
+1961,50,Bristol,Bristol International Speedway,0.5,paved track,34.0,32.0,39.0,Friday Hassler,–,'60 Chevrolet,115.0,100.0,rear end,0.0
+1961,50,Bristol,Bristol International Speedway,0.5,paved track,35.0,35.0,77.0,Joe Jones,Joe Jones,'60 Ford,111.0,100.0,rear end,0.0
+1961,50,Bristol,Bristol International Speedway,0.5,paved track,36.0,29.0,23.0,Doug Yates,Raeford Johnson,'61 Plymouth,35.0,100.0,fan belt,0.0
+1961,50,Bristol,Bristol International Speedway,0.5,paved track,37.0,6.0,2.0,Tommy Irwin,Tom Daniels,'61 Chevrolet,19.0,125.0,crash,0.0
+1961,50,Bristol,Bristol International Speedway,0.5,paved track,38.0,37.0,88.0,Allen Franklin,Allen Franklin,'59 Nash,3.0,100.0,too slow,0.0
+1961,51,Greenville,Greenville-Pickens Speedway,0.5,dirt track,1.0,3.0,27.0,Junior Johnson,Holly Farms (Rex Lovette),'61 Pontiac,200.0,950.0,running,26.0
+1961,51,Greenville,Greenville-Pickens Speedway,0.5,dirt track,2.0,2.0,8.0,Joe Weatherly,Bud Moore,'61 Pontiac,199.0,625.0,running,76.0
+1961,51,Greenville,Greenville-Pickens Speedway,0.5,dirt track,3.0,10.0,4.0,Rex White,White-Clements (Rex White),'61 Chevrolet,198.0,425.0,running,0.0
+1961,51,Greenville,Greenville-Pickens Speedway,0.5,dirt track,4.0,9.0,42.0,Richard Petty,Petty Enterprises,'61 Plymouth,195.0,275.0,running,0.0
+1961,51,Greenville,Greenville-Pickens Speedway,0.5,dirt track,5.0,16.0,62.0,Curtis Crider,Curtis Crider,'61 Mercury,192.0,250.0,running,0.0
+1961,51,Greenville,Greenville-Pickens Speedway,0.5,dirt track,6.0,6.0,11.0,Ned Jarrett,B.G. Holloway,'61 Chevrolet,191.0,215.0,running,0.0
+1961,51,Greenville,Greenville-Pickens Speedway,0.5,dirt track,7.0,15.0,43.0,Maurice Petty,Petty Enterprises,'61 Plymouth,190.0,175.0,running,0.0
+1961,51,Greenville,Greenville-Pickens Speedway,0.5,dirt track,8.0,2.0,34.0,Wendell Scott,Wendell Scott,'60 Chevrolet,190.0,150.0,running,0.0
+1961,51,Greenville,Greenville-Pickens Speedway,0.5,dirt track,9.0,11.0,14.0,Joe Lee Johnson,Joe Lee Johnson,'61 Chevrolet,188.0,140.0,running,0.0
+1961,51,Greenville,Greenville-Pickens Speedway,0.5,dirt track,10.0,8.0,44.0,Jim Paschal,Julian Petty,'61 Pontiac,183.0,130.0,rear end,0.0
+1961,51,Greenville,Greenville-Pickens Speedway,0.5,dirt track,11.0,13.0,19.0,Herman Beam,Herman Beam,'60 Ford,181.0,125.0,running,0.0
+1961,51,Greenville,Greenville-Pickens Speedway,0.5,dirt track,12.0,14.0,93.0,Lee Reitzel,Lee Reitzel,'60 Ford,181.0,110.0,running,0.0
+1961,51,Greenville,Greenville-Pickens Speedway,0.5,dirt track,13.0,18.0,17.0,Fred Harb,Fred Harb,'61 Ford,171.0,100.0,running,0.0
+1961,51,Greenville,Greenville-Pickens Speedway,0.5,dirt track,14.0,7.0,46.0,Jack Smith,Jack Smith,'61 Pontiac,169.0,85.0,crash,0.0
+1961,51,Greenville,Greenville-Pickens Speedway,0.5,dirt track,15.0,17.0,77.0,Joe Jones,Joe Jones,'60 Ford,159.0,70.0,running,0.0
+1961,51,Greenville,Greenville-Pickens Speedway,0.5,dirt track,16.0,5.0,22.0,Fireball Roberts,Holly Farms (Rex Lovette),'60 Pontiac,116.0,60.0,rear end,0.0
+1961,51,Greenville,Greenville-Pickens Speedway,0.5,dirt track,17.0,1.0,86.0,Buck Baker,Buck Baker,'61 Chrysler,98.0,50.0,clutch,98.0
+1961,51,Greenville,Greenville-Pickens Speedway,0.5,dirt track,18.0,4.0,54.0,Jimmy Pardue,Jimmy Pardue,'59 Chevrolet,51.0,50.0,distributor,0.0
+1961,52,Hillsboro,Orange Speedway,0.9,dirt track,1.0,1.0,8.0,Joe Weatherly,Bud Moore,'61 Pontiac,165.0,1150.0,running,164.0
+1961,52,Hillsboro,Orange Speedway,0.9,dirt track,2.0,2.0,4.0,Rex White,White-Clements (Rex White),'61 Chevrolet,164.0,850.0,running,0.0
+1961,52,Hillsboro,Orange Speedway,0.9,dirt track,3.0,6.0,11.0,Ned Jarrett,B.G. Holloway,'61 Chevrolet,163.0,475.0,running,0.0
+1961,52,Hillsboro,Orange Speedway,0.9,dirt track,4.0,10.0,42.0,Maurice Petty,Petty Enterprises,'61 Plymouth,155.0,375.0,running,0.0
+1961,52,Hillsboro,Orange Speedway,0.9,dirt track,5.0,4.0,22.0,Fireball Roberts,Holly Farms (Rex Lovette),'61 Pontiac,154.0,325.0,engine,0.0
+1961,52,Hillsboro,Orange Speedway,0.9,dirt track,6.0,16.0,17.0,Fred Harb,Fred Harb,'61 Ford,150.0,275.0,running,0.0
+1961,52,Hillsboro,Orange Speedway,0.9,dirt track,7.0,13.0,19.0,Herman Beam,Herman Beam,'60 Ford,147.0,225.0,running,0.0
+1961,52,Hillsboro,Orange Speedway,0.9,dirt track,8.0,12.0,74.0,L.D. Austin,L.D. Austin,'61 Chevrolet,142.0,200.0,running,0.0
+1961,52,Hillsboro,Orange Speedway,0.9,dirt track,9.0,15.0,97.0,Harry Leake,Harry Leake,'60 Chevrolet,139.0,200.0,running,0.0
+1961,52,Hillsboro,Orange Speedway,0.9,dirt track,10.0,5.0,43.0,Richard Petty,Petty Enterprises,'61 Plymouth,133.0,200.0,transmission,0.0
+1961,52,Hillsboro,Orange Speedway,0.9,dirt track,11.0,11.0,62.0,Curtis Crider,Curtis Crider,'61 Mercury,121.0,175.0,running,0.0
+1961,52,Hillsboro,Orange Speedway,0.9,dirt track,12.0,3.0,27.0,Junior Johnson,Holly Farms (Rex Lovette),'60 Pontiac,117.0,125.0,clutch,1.0
+1961,52,Hillsboro,Orange Speedway,0.9,dirt track,13.0,20.0,68.0,Ed Livingston,Curtis Crider,'61 Ford,104.0,150.0,overheating,0.0
+1961,52,Hillsboro,Orange Speedway,0.9,dirt track,14.0,7.0,85.0,Tommy Irwin,Monroe Shook,'61 Chevrolet,103.0,150.0,brakes,0.0
+1961,52,Hillsboro,Orange Speedway,0.9,dirt track,15.0,17.0,34.0,Wendell Scott,Wendell Scott,'60 Chevrolet,101.0,150.0,engine,0.0
+1961,52,Hillsboro,Orange Speedway,0.9,dirt track,16.0,19.0,77.0,Joe Jones,Joe Jones,'60 Ford,95.0,125.0,engine,0.0
+1961,52,Hillsboro,Orange Speedway,0.9,dirt track,17.0,9.0,86.0,Buck Baker,Buck Baker,'61 Chrysler,80.0,125.0,distributor,0.0
+1961,52,Hillsboro,Orange Speedway,0.9,dirt track,18.0,18.0,93.0,Lee Reitzel,Lee Reitzel,'60 Ford,54.0,125.0,overheating,0.0
+1961,52,Hillsboro,Orange Speedway,0.9,dirt track,19.0,14.0,23.0,Doug Yates,Raeford Johnson,'60 Plymouth,38.0,125.0,seals,0.0
+1961,52,Hillsboro,Orange Speedway,0.9,dirt track,20.0,8.0,44.0,Jim Paschal,Julian Petty,'61 Pontiac,6.0,100.0,rear end,0.0
