@@ -19,9 +19,9 @@ df = process_truck_data()
 import polars as pl
 import re
 
-from ..utils.season_stats import season_stats
-from ..utils.overall_stats import overall_stats
-from ..utils.driver_stats import season, overall
+from scraping.utils.season_stats import season_stats
+from scraping.utils.overall_stats import overall_stats
+from scraping.utils.driver_stats import season, overall
 
 
 # read in the main racing results CSV
