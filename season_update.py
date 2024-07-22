@@ -5,7 +5,7 @@ The race_results function takes a Selenium WebDriver instance, a race link, a se
 
 The series_racing function updates the season for the current calendar year. This will enable a chronjob or similar routine updating without the need to alter the script. It generates a list of race links for that season. For each race link, it attempts to load the page and get the race results up to 5 times, handling timeouts by quitting and restarting the driver. If all attempts fail, it stops the function. If the page loads successfully, it adds the race results to a list. After processing all races, it concatenates all race into a single DataFrame and returns it. The function also includes a delay between seasons to avoid being blocked by the website's robots.txt file.
 
-The run_script will access the data cleaning files withing the processing_scripts directory and execute each Python file for the respective series. This function is called once per series within the final update_all_series script. That script will combine all previously-mentioned functions into one whereby it will perform the scraping, update the current season CSV file, append the new results to the full race results for the respective series, clean & process the data for export to R, and provide user feedback throughout the process.
+The run_script will access the data cleaning files withing the processing directory and execute each Python file for the respective series. This function is called once per series within the final update_all_series script. That script will combine all previously-mentioned functions into one whereby it will perform the scraping, update the current season CSV file, append the new results to the full race results for the respective series, clean & process the data for export to R, and provide user feedback throughout the process.
 '''
 
 
@@ -22,8 +22,12 @@ import subprocess
 import sys
 
 
-# Add the project root to the Python path
-sys.path.insert(0, os.path.abspath(os.path.dirname(__file__)))
+# Get the absolute path to the project root
+project_root = os.path.abspath(os.path.dirname(__file__))
+
+# Add the project root to the Python path if it's not already there
+if project_root not in sys.path:
+    sys.path.insert(0, project_root)
 
 
 # function to get the race results informaton
@@ -184,27 +188,22 @@ def update_all_series(season):
     for series in series_list:
         print(f'Updating {series.capitalize()} series data for {season}...')
         
-        # Define paths
-        csv_path = f'scraping/data/{series}-series/scraped/{series}-series-full-import.csv'
-        processing_script = f'scraping/processing_scripts/{series}_processing.py'
-        
         # Read existing data
+        csv_path = f'scraping/data/{series}-series/scraped/{series}-series-full-import.csv'
         existing_df = pd.read_csv(csv_path, low_memory=False)
-        
         # Filter out rows where Season matches current season
         existing_df = existing_df[existing_df['Season'] != season]
         
         # Scrape new data
         new_df = series_racing(series, season)
-        
         # Concatenate existing and new data
         combined_df = pd.concat([existing_df, new_df], ignore_index=True)
-        
         # Save combined data back to CSV
         combined_df.to_csv(csv_path, index=False)
         
         # Run processing script
         print(f'Running {series.capitalize()} processing script...')
+        processing_script = f'scraping/processing/{series}.py'
         run_script(processing_script)
         
         print(f'{series.capitalize()} series data updated.')
@@ -217,7 +216,7 @@ update_all_series(season)
 
 
 # run the R script to write the new data to appropriate .rda file for the R package:
-subprocess.run(['Rscript', 'scraping/processing_scripts/write_rda_files.R'], check=True)
+subprocess.run(['Rscript', 'scraping/processing/write_rda_files.R'], check=True)
 
 
 
