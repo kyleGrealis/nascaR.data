@@ -29,7 +29,7 @@ Season,Race,Site,Track,Track_length,Track_type,Pos,St,#,Driver,Sponsor / Owner,T
 2024,1,Daytona,Daytona International Speedway,2.5,paved track,28.0,18.0,77.0,Chase Purdy,Bama Buggies (Spire Motorsports),Chevrolet,93.0,crash,1.0,9.0,0.0
 2024,1,Daytona,Daytona International Speedway,2.5,paved track,29.0,2.0,45.0,Johnny Sauter,Niece/IEDA (Al Niece),Chevrolet,79.0,crash,24.0,18.0,1.0
 2024,1,Daytona,Daytona International Speedway,2.5,paved track,30.0,24.0,99.0,Ben Rhodes,Ranch Fuel Energy Drink (Duke Thorson),Ford,71.0,crash,5.0,13.0,0.0
-2024,1,Daytona,Daytona International Speedway,2.5,paved track,31.0,36.0,27.0,Keith McGee,More Core (Rackley W.A.R.),Ford,44.0,crash,0.0,6.0,0.0
+2024,1,Daytona,Daytona International Speedway,2.5,paved track,31.0,36.0,27.0,Keith McGee,More Core (Josh Reaume),Ford,44.0,crash,0.0,6.0,0.0
 2024,1,Daytona,Daytona International Speedway,2.5,paved track,32.0,35.0,33.0,Lawless Alan,AUTOChargit Mobile (Josh Reaume),Ford,27.0,overheating,0.0,5.0,0.0
 2024,1,Daytona,Daytona International Speedway,2.5,paved track,33.0,21.0,38.0,Layne Riggs,Love's RV Stops (Bob Jenkins),Ford,13.0,dvp,0.0,4.0,0.0
 2024,1,Daytona,Daytona International Speedway,2.5,paved track,34.0,16.0,13.0,Jake Garcia,Quanta Services (Duke Thorson),Ford,6.0,crash,0.0,3.0,0.0
@@ -478,5 +478,40 @@ Season,Race,Site,Track,Track_length,Track_type,Pos,St,#,Driver,Sponsor / Owner,T
 2024,14,Pocono,Pocono Raceway,2.5,paved track,32.0,24.0,33.0,Lawless Alan,AUTODockit (Josh Reaume),Ford,68.0,running,0.0,5.0,0.0
 2024,14,Pocono,Pocono Raceway,2.5,paved track,33.0,33.0,21.0,Sage Karam,CRC Brakleen (Scott Osteen),Ford,67.0,running,0.0,0.0,0.0
 2024,14,Pocono,Pocono Raceway,2.5,paved track,34.0,34.0,28.0,Bryan Dauzat,FDNY Racing (Jim Rosenblum),Chevrolet,65.0,running,0.0,3.0,0.0
-2024,14,Pocono,Pocono Raceway,2.5,paved track,35.0,35.0,27.0,Stephen Mallozzi,NUGGETTRAP.COM (Rackley W.A.R.),Ford,22.0,transmission,0.0,2.0,0.0
+2024,14,Pocono,Pocono Raceway,2.5,paved track,35.0,35.0,27.0,Stephen Mallozzi,NUGGETTRAP.COM (Josh Reaume),Ford,22.0,transmission,0.0,2.0,0.0
 2024,14,Pocono,Pocono Raceway,2.5,paved track,36.0,23.0,76.0,Spencer Boyd,Erickson Manufacturing,Chevrolet,5.0,hub,0.0,1.0,0.0
+2024,15,IRP,Lucas Oil Indianapolis Raceway Park,0.686,paved track,1.0,4.0,98.0,Ty Majeski,Road Ranger (Mike Curb),Ford,200.0,running,56.0,48.0,5.0
+2024,15,IRP,Lucas Oil Indianapolis Raceway Park,0.686,paved track,2.0,6.0,19.0,Christian Eckes,NAPA AUTOCARE (Bill McAnally),Chevrolet,200.0,running,73.0,55.0,2.0
+2024,15,IRP,Lucas Oil Indianapolis Raceway Park,0.686,paved track,3.0,2.0,9.0,Grant Enfinger,Champion Power Equipment (Codie Rohrbaugh),Chevrolet,200.0,running,71.0,43.0,0.0
+2024,15,IRP,Lucas Oil Indianapolis Raceway Park,0.686,paved track,4.0,3.0,18.0,Tyler Ankrum,LiUNA! (Bill McAnally),Chevrolet,200.0,running,0.0,46.0,0.0
+2024,15,IRP,Lucas Oil Indianapolis Raceway Park,0.686,paved track,5.0,17.0,38.0,Layne Riggs,LONG JOHN SILVER'S (Bob Jenkins),Ford,200.0,running,0.0,36.0,0.0
+2024,15,IRP,Lucas Oil Indianapolis Raceway Park,0.686,paved track,6.0,12.0,7.0,Sammy Smith,Golden Harvest (Spire Motorsports),Chevrolet,200.0,running,0.0,0.0,0.0
+2024,15,IRP,Lucas Oil Indianapolis Raceway Park,0.686,paved track,7.0,14.0,66.0,Luke Fenhaus,Soda Sense (Duke Thorson),Ford,200.0,running,0.0,30.0,0.0
+2024,15,IRP,Lucas Oil Indianapolis Raceway Park,0.686,paved track,8.0,1.0,71.0,Rajah Caruth,HendrickCars.com (Spire Motorsports),Chevrolet,200.0,running,0.0,37.0,0.0
+2024,15,IRP,Lucas Oil Indianapolis Raceway Park,0.686,paved track,9.0,19.0,5.0,Dean Thompson,Thompson Pipe Group (David Gilliland),Toyota,200.0,running,0.0,34.0,0.0
+2024,15,IRP,Lucas Oil Indianapolis Raceway Park,0.686,paved track,10.0,11.0,2.0,Nick Sanchez,Gainbridge (Max Siegel),Chevrolet,200.0,running,0.0,32.0,0.0
+2024,15,IRP,Lucas Oil Indianapolis Raceway Park,0.686,paved track,11.0,16.0,45.0,Ross Chastain,Alliance Highway Safety (Al Niece),Chevrolet,200.0,running,0.0,0.0,0.0
+2024,15,IRP,Lucas Oil Indianapolis Raceway Park,0.686,paved track,12.0,26.0,1.0,William Sawalich,Starkey/Soundgear (David Gilliland),Toyota,200.0,running,0.0,25.0,0.0
+2024,15,IRP,Lucas Oil Indianapolis Raceway Park,0.686,paved track,13.0,10.0,77.0,Chase Purdy,Bama Buggies (Spire Motorsports),Chevrolet,200.0,running,0.0,24.0,0.0
+2024,15,IRP,Lucas Oil Indianapolis Raceway Park,0.686,paved track,14.0,22.0,41.0,Bayley Currey,Niece (Al Niece),Chevrolet,199.0,running,0.0,23.0,0.0
+2024,15,IRP,Lucas Oil Indianapolis Raceway Park,0.686,paved track,15.0,23.0,91.0,Jack Wood,Children's Museum Indianapolis (Bill McAnally),Chevrolet,199.0,running,0.0,22.0,0.0
+2024,15,IRP,Lucas Oil Indianapolis Raceway Park,0.686,paved track,16.0,13.0,17.0,Taylor Gray,JBL (David Gilliland),Toyota,199.0,running,0.0,21.0,0.0
+2024,15,IRP,Lucas Oil Indianapolis Raceway Park,0.686,paved track,17.0,9.0,11.0,Corey Heim,Safelite (David Gilliland),Toyota,199.0,running,0.0,37.0,0.0
+2024,15,IRP,Lucas Oil Indianapolis Raceway Park,0.686,paved track,18.0,20.0,25.0,Ty Dillon,Rackley Roofing (Rackley W.A.R.),Chevrolet,199.0,running,0.0,19.0,0.0
+2024,15,IRP,Lucas Oil Indianapolis Raceway Park,0.686,paved track,19.0,25.0,56.0,Timmy Hill,UNITS Storage (Timmy Hill),Toyota,199.0,running,0.0,18.0,0.0
+2024,15,IRP,Lucas Oil Indianapolis Raceway Park,0.686,paved track,20.0,21.0,15.0,Tanner Gray,Bucket Boss (David Gilliland),Toyota,199.0,running,0.0,17.0,0.0
+2024,15,IRP,Lucas Oil Indianapolis Raceway Park,0.686,paved track,21.0,15.0,99.0,Ben Rhodes,Campers Inn RV (Duke Thorson),Ford,199.0,running,0.0,16.0,0.0
+2024,15,IRP,Lucas Oil Indianapolis Raceway Park,0.686,paved track,22.0,34.0,42.0,Matt Mills,J.F. Electric/Utilitra (Al Niece),Chevrolet,199.0,running,0.0,15.0,0.0
+2024,15,IRP,Lucas Oil Indianapolis Raceway Park,0.686,paved track,23.0,28.0,16.0,Johnny Sauter,Aisin (Shigeaki Hattori),Toyota,199.0,running,0.0,14.0,0.0
+2024,15,IRP,Lucas Oil Indianapolis Raceway Park,0.686,paved track,24.0,5.0,88.0,Matt Crafton,Dutch Boy / Menards (Duke Thorson),Ford,199.0,running,0.0,20.0,0.0
+2024,15,IRP,Lucas Oil Indianapolis Raceway Park,0.686,paved track,25.0,29.0,4.0,Marco Andretti,Group1001 (Roper Racing),Chevrolet,199.0,running,0.0,12.0,0.0
+2024,15,IRP,Lucas Oil Indianapolis Raceway Park,0.686,paved track,26.0,30.0,32.0,Bret Holmes,Best Value Carriers (Stacy Holmes),Chevrolet,199.0,running,0.0,11.0,0.0
+2024,15,IRP,Lucas Oil Indianapolis Raceway Park,0.686,paved track,27.0,7.0,43.0,Daniel Dye,Bettenhausen Automotive (Bill McAnally),Chevrolet,198.0,running,0.0,11.0,0.0
+2024,15,IRP,Lucas Oil Indianapolis Raceway Park,0.686,paved track,28.0,24.0,33.0,Lawless Alan,AUTOChargit (Josh Reaume),Ford,198.0,running,0.0,9.0,0.0
+2024,15,IRP,Lucas Oil Indianapolis Raceway Park,0.686,paved track,29.0,35.0,44.0,Conor Daly,Power Plus (Al Niece),Chevrolet,197.0,running,0.0,0.0,0.0
+2024,15,IRP,Lucas Oil Indianapolis Raceway Park,0.686,paved track,30.0,18.0,13.0,Jake Garcia,Quanta Services (Duke Thorson),Ford,197.0,running,0.0,7.0,0.0
+2024,15,IRP,Lucas Oil Indianapolis Raceway Park,0.686,paved track,31.0,31.0,22.0,Tyler Tomassi,Levrack (Kevin Cywinski),Ford,197.0,running,0.0,6.0,0.0
+2024,15,IRP,Lucas Oil Indianapolis Raceway Park,0.686,paved track,32.0,33.0,46.0,Thad Moffitt,Tasty Duck (Lane Moore),Chevrolet,195.0,running,0.0,5.0,0.0
+2024,15,IRP,Lucas Oil Indianapolis Raceway Park,0.686,paved track,33.0,8.0,52.0,Stewart Friesen,Halmar International (Chris Larsen),Toyota,194.0,running,0.0,4.0,0.0
+2024,15,IRP,Lucas Oil Indianapolis Raceway Park,0.686,paved track,34.0,32.0,76.0,Spencer Boyd,KIR Ammo.com,Chevrolet,164.0,running,0.0,3.0,0.0
+2024,15,IRP,Lucas Oil Indianapolis Raceway Park,0.686,paved track,35.0,27.0,2.0,Mason Massey,Brunt (Randy Young),Chevrolet,44.0,crash,0.0,2.0,0.0

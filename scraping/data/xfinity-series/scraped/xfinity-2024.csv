@@ -422,7 +422,7 @@ Season,Race,Site,Track,Track_length,Track_type,Pos,St,#,Driver,Sponsor / Owner,C
 2024,12,Charlotte,Charlotte Motor Speedway,1.5,paved track,3.0,16.0,8.0,Sammy Smith,Pilot Flying J (JR Motorsports),Chevrolet,200.0,running,0.0,39.0,0.0
 2024,12,Charlotte,Charlotte Motor Speedway,1.5,paved track,4.0,13.0,1.0,Sam Mayer,Tire Pros (JR Motorsports),Chevrolet,200.0,running,44.0,40.0,0.0
 2024,12,Charlotte,Charlotte Motor Speedway,1.5,paved track,5.0,11.0,16.0,A.J. Allmendinger,LeafFilter Gutter Protection (Matthew Kaulig),Chevrolet,200.0,running,0.0,38.0,0.0
-2024,12,Charlotte,Charlotte Motor Speedway,1.5,paved track,6.0,2.0,33.0,Kyle Busch,BetMGM / Rebel Bourbon (Josh Reaume),Chevrolet,200.0,running,34.0,0.0,0.0
+2024,12,Charlotte,Charlotte Motor Speedway,1.5,paved track,6.0,2.0,33.0,Kyle Busch,BetMGM / Rebel Bourbon (Richard Childress),Chevrolet,200.0,running,34.0,0.0,0.0
 2024,12,Charlotte,Charlotte Motor Speedway,1.5,paved track,7.0,21.0,39.0,Ryan Sieg,Sci Aps (Rod Sieg),Ford,200.0,running,0.0,36.0,0.0
 2024,12,Charlotte,Charlotte Motor Speedway,1.5,paved track,8.0,36.0,11.0,Josh Williams,Alloy Employer Services (Matthew Kaulig),Chevrolet,200.0,running,0.0,29.0,0.0
 2024,12,Charlotte,Charlotte Motor Speedway,1.5,paved track,9.0,1.0,20.0,Ty Gibbs,He Gets Us (Joe Gibbs),Toyota,200.0,running,27.0,0.0,0.0
@@ -568,7 +568,7 @@ Season,Race,Site,Track,Track_length,Track_type,Pos,St,#,Driver,Sponsor / Owner,C
 2024,15,Iowa,Iowa Speedway,0.875,paved track,35.0,18.0,29.0,Blaine Perkins,AUTOPARKIT.com (Rod Sieg),Ford,86.0,crash,0.0,2.0,0.0
 2024,15,Iowa,Iowa Speedway,0.875,paved track,36.0,26.0,9.0,Brandon Jones,Menards/Pelonis (JR Motorsports),Chevrolet,38.0,engine,0.0,1.0,0.0
 2024,15,Iowa,Iowa Speedway,0.875,paved track,37.0,11.0,16.0,A.J. Allmendinger,Cirkul (Matthew Kaulig),Chevrolet,32.0,crash,0.0,1.0,0.0
-2024,15,Iowa,Iowa Speedway,0.875,paved track,38.0,38.0,53.0,,Emerling-Gase Motorsports,Chevrolet,20.0,carburetor,0.0,1.0,0.0
+2024,15,Iowa,Iowa Speedway,0.875,paved track,38.0,38.0,53.0,Glen Reen,Eternal Fan/Save-A-Lot Food Stores (Emerling-Gase Motorsports),Chevrolet,20.0,carburetor,0.0,1.0,0.0
 2024,16,Loudon,New Hampshire Motor Speedway,1.058,paved track,1.0,23.0,20.0,Christopher Bell,Mobil 1 (Joe Gibbs),Toyota,203.0,running,43.0,0.0,0.0
 2024,16,Loudon,New Hampshire Motor Speedway,1.058,paved track,2.0,5.0,18.0,Sheldon Creed,Friends of Jaclyn Foundation (Joe Gibbs),Toyota,203.0,running,1.0,42.0,0.0
 2024,16,Loudon,New Hampshire Motor Speedway,1.058,paved track,3.0,1.0,0.0,Cole Custer,Haas Automation (Stewart Haas Racing),Ford,203.0,running,114.0,42.0,0.0
@@ -721,3 +721,41 @@ Season,Race,Site,Track,Track_length,Track_type,Pos,St,#,Driver,Sponsor / Owner,C
 2024,19,Pocono,Pocono Raceway,2.5,paved track,36.0,30.0,43.0,Ryan Ellis,Sweetwater Construction Corp (Tommy Joe Martins),Chevrolet,47.0,crash,0.0,1.0,0.0
 2024,19,Pocono,Pocono Raceway,2.5,paved track,37.0,29.0,92.0,Josh Bilicki,Rita’s Ice (Mario Gosselin),Chevrolet,8.0,electrical,0.0,1.0,0.0
 2024,19,Pocono,Pocono Raceway,2.5,paved track,38.0,36.0,74.0,Dawson Cram,10 Mil Brewing Co. (Mike Harmon),Chevrolet,1.0,crash,0.0,0.0,0.0
+2024,20,Indianapolis,Indianapolis Motor Speedway,2.5,paved track,1.0,2.0,98.0,Riley Herbst,Monster Energy (Stewart Haas Racing),Ford,100.0,running,30.0,58.0,6.0
+2024,20,Indianapolis,Indianapolis Motor Speedway,2.5,paved track,2.0,1.0,0.0,Cole Custer,Haas Automation (Stewart Haas Racing),Ford,100.0,running,47.0,45.0,0.0
+2024,20,Indianapolis,Indianapolis Motor Speedway,2.5,paved track,3.0,3.0,20.0,Aric Almirola,He Gets Us (Joe Gibbs),Toyota,100.0,running,5.0,46.0,0.0
+2024,20,Indianapolis,Indianapolis Motor Speedway,2.5,paved track,4.0,23.0,97.0,Shane Van Gisbergen,WeatherTech (Matthew Kaulig),Chevrolet,100.0,running,0.0,37.0,0.0
+2024,20,Indianapolis,Indianapolis Motor Speedway,2.5,paved track,5.0,12.0,18.0,Sheldon Creed,Friends of Jaclyn Foundation (Joe Gibbs),Toyota,100.0,running,0.0,33.0,0.0
+2024,20,Indianapolis,Indianapolis Motor Speedway,2.5,paved track,6.0,14.0,21.0,Austin Hill,Bennett Transportation (Richard Childress),Chevrolet,100.0,running,0.0,34.0,0.0
+2024,20,Indianapolis,Indianapolis Motor Speedway,2.5,paved track,7.0,22.0,10.0,Daniel Dye,Black Widow Trucks (Matthew Kaulig),Chevrolet,100.0,running,0.0,0.0,0.0
+2024,20,Indianapolis,Indianapolis Motor Speedway,2.5,paved track,8.0,8.0,16.0,A.J. Allmendinger,Celsius (Matthew Kaulig),Chevrolet,100.0,running,4.0,45.0,0.0
+2024,20,Indianapolis,Indianapolis Motor Speedway,2.5,paved track,9.0,9.0,7.0,Justin Allgaier,Jarrett Logistics (JR Motorsports),Chevrolet,100.0,running,0.0,40.0,0.0
+2024,20,Indianapolis,Indianapolis Motor Speedway,2.5,paved track,10.0,7.0,88.0,Carson Kvapil,Clarience Technologies (JR Motorsports),Chevrolet,100.0,running,0.0,29.0,0.0
+2024,20,Indianapolis,Indianapolis Motor Speedway,2.5,paved track,11.0,27.0,39.0,Ryan Sieg,Sci Aps (Rod Sieg),Ford,100.0,running,4.0,44.0,1.0
+2024,20,Indianapolis,Indianapolis Motor Speedway,2.5,paved track,12.0,38.0,48.0,Parker Kligerman,Spiked Lite Tropical Coolers (Scott Borchetta),Chevrolet,100.0,running,0.0,29.0,0.0
+2024,20,Indianapolis,Indianapolis Motor Speedway,2.5,paved track,13.0,15.0,2.0,Jesse Love,Whelen / NLEOMF (Richard Childress),Chevrolet,100.0,running,0.0,24.0,0.0
+2024,20,Indianapolis,Indianapolis Motor Speedway,2.5,paved track,14.0,16.0,26.0,Conor Daly,Polkadot (Sam Hunt),Toyota,100.0,running,0.0,23.0,0.0
+2024,20,Indianapolis,Indianapolis Motor Speedway,2.5,paved track,15.0,6.0,9.0,Brandon Jones,Menards/Pennington (JR Motorsports),Chevrolet,100.0,running,10.0,29.0,0.0
+2024,20,Indianapolis,Indianapolis Motor Speedway,2.5,paved track,16.0,29.0,38.0,Matt DiBenedetto,Rema (Rod Sieg),Ford,100.0,running,0.0,22.0,0.0
+2024,20,Indianapolis,Indianapolis Motor Speedway,2.5,paved track,17.0,17.0,19.0,Joe Graf Jr,Toyota Gazoo Racing (Joe Gibbs),Toyota,100.0,running,0.0,20.0,0.0
+2024,20,Indianapolis,Indianapolis Motor Speedway,2.5,paved track,18.0,21.0,8.0,Sammy Smith,TMC Transportation (JR Motorsports),Chevrolet,100.0,running,0.0,19.0,0.0
+2024,20,Indianapolis,Indianapolis Motor Speedway,2.5,paved track,19.0,11.0,27.0,Jeb Burton,iHeart Media / Q95 Rocks (Jordan Anderson),Chevrolet,100.0,running,0.0,18.0,0.0
+2024,20,Indianapolis,Indianapolis Motor Speedway,2.5,paved track,20.0,25.0,42.0,Leland Honeyman,Distributor Wire & Cable Co (Randy Young),Chevrolet,100.0,running,0.0,19.0,0.0
+2024,20,Indianapolis,Indianapolis Motor Speedway,2.5,paved track,21.0,30.0,44.0,Brennan Poole,Macc Door Systems (Tommy Joe Martins),Chevrolet,100.0,running,0.0,16.0,0.0
+2024,20,Indianapolis,Indianapolis Motor Speedway,2.5,paved track,22.0,31.0,28.0,Kyle Sieg,Night Owl (Rod Sieg),Ford,100.0,running,0.0,15.0,0.0
+2024,20,Indianapolis,Indianapolis Motor Speedway,2.5,paved track,23.0,34.0,43.0,Ryan Ellis,Renascent Demolition (Tommy Joe Martins),Chevrolet,100.0,running,0.0,14.0,0.0
+2024,20,Indianapolis,Indianapolis Motor Speedway,2.5,paved track,24.0,35.0,35.0,Joey Gase,Bell Helmets (Emerling-Gase Motorsports),Chevrolet,100.0,running,0.0,13.0,0.0
+2024,20,Indianapolis,Indianapolis Motor Speedway,2.5,paved track,25.0,28.0,91.0,Kyle Weatherman,DriveSmartWarranty.com (Mario Gosselin),Chevrolet,100.0,running,0.0,12.0,0.0
+2024,20,Indianapolis,Indianapolis Motor Speedway,2.5,paved track,26.0,36.0,14.0,David Starr,SHAR (Bobby Dotter),Ford,100.0,running,0.0,11.0,0.0
+2024,20,Indianapolis,Indianapolis Motor Speedway,2.5,paved track,27.0,32.0,92.0,Josh Bilicki,Rita’s Ice (Mario Gosselin),Chevrolet,100.0,running,0.0,10.0,0.0
+2024,20,Indianapolis,Indianapolis Motor Speedway,2.5,paved track,28.0,33.0,13.0,B.J. McLeod,Falling In Reverse (Carl Long),Chevrolet,100.0,running,0.0,9.0,0.0
+2024,20,Indianapolis,Indianapolis Motor Speedway,2.5,paved track,29.0,24.0,29.0,Blaine Perkins,AUTOPARKIT.com (Rod Sieg),Ford,100.0,running,0.0,8.0,0.0
+2024,20,Indianapolis,Indianapolis Motor Speedway,2.5,paved track,30.0,18.0,51.0,Jeremy Clements,Wings Etc Grill & Pub (Jeremy Clements),Chevrolet,99.0,running,0.0,7.0,0.0
+2024,20,Indianapolis,Indianapolis Motor Speedway,2.5,paved track,31.0,26.0,45.0,Garrett Smithley,Trophy Tractor/RichMar Florist (Tommy Joe Martins),Chevrolet,97.0,running,0.0,6.0,0.0
+2024,20,Indianapolis,Indianapolis Motor Speedway,2.5,paved track,32.0,37.0,7.0,Greg Van Alst,CB Fabricating (Bobby Dotter),Chevrolet,91.0,ignition,0.0,5.0,0.0
+2024,20,Indianapolis,Indianapolis Motor Speedway,2.5,paved track,33.0,13.0,81.0,Chandler Smith,QuickTie (Joe Gibbs),Toyota,86.0,running,0.0,4.0,0.0
+2024,20,Indianapolis,Indianapolis Motor Speedway,2.5,paved track,34.0,5.0,5.0,Anthony Alfredo,Dude Mint Chill (Chris Our),Chevrolet,83.0,crash,0.0,3.0,0.0
+2024,20,Indianapolis,Indianapolis Motor Speedway,2.5,paved track,35.0,20.0,31.0,Parker Retzlaff,FUNKAWAY (Jordan Anderson),Chevrolet,83.0,crash,0.0,2.0,0.0
+2024,20,Indianapolis,Indianapolis Motor Speedway,2.5,paved track,36.0,19.0,11.0,Josh Williams,Alloy Employer Services (Matthew Kaulig),Chevrolet,83.0,crash,0.0,1.0,0.0
+2024,20,Indianapolis,Indianapolis Motor Speedway,2.5,paved track,37.0,4.0,1.0,Sam Mayer,Huck's Market (JR Motorsports),Chevrolet,0.0,crash,0.0,1.0,0.0
+2024,20,Indianapolis,Indianapolis Motor Speedway,2.5,paved track,38.0,10.0,15.0,Josh Berry,Klutch Vodka (Kevin Cywinski),Ford,0.0,crash,0.0,0.0,0.0

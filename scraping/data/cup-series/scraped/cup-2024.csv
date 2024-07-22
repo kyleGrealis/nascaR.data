@@ -213,7 +213,7 @@ Season,Race,Site,Track,Track_length,Track_type,Pos,St,#,Driver,Sponsor / Owner,C
 2024,6,Austin,Circuit of the Americas,3.41,road course,26.0,26.0,38.0,Todd Gilliland,Ruedebusch (Bob Jenkins),Ford,68.0,running,0.0,18.0,0.0
 2024,6,Austin,Circuit of the Americas,3.41,road course,27.0,23.0,15.0,Kaz Grala,N29 Capital Partners (Rick Ware),Ford,68.0,running,0.0,10.0,0.0
 2024,6,Austin,Circuit of the Americas,3.41,road course,28.0,30.0,47.0,Ricky Stenhouse Jr,Palmolive (JTG-Daugherty Racing),Chevrolet,68.0,running,0.0,14.0,0.0
-2024,6,Austin,Circuit of the Americas,3.41,road course,29.0,25.0,50.0,Kamui Kobayashi,Mobil 1 50th Anniversary (TMT Racing),Toyota,68.0,running,0.0,8.0,0.0
+2024,6,Austin,Circuit of the Americas,3.41,road course,29.0,25.0,50.0,Kamui Kobayashi,Mobil 1 50th Anniversary (23XI Racing),Toyota,68.0,running,0.0,8.0,0.0
 2024,6,Austin,Circuit of the Americas,3.41,road course,30.0,29.0,21.0,Harrison Burton,Motorcraft Quick Lane (Wood Brothers),Ford,68.0,running,0.0,7.0,0.0
 2024,6,Austin,Circuit of the Americas,3.41,road course,31.0,19.0,99.0,Daniel Suarez,Freeway Insurance (Trackhouse Racing),Chevrolet,68.0,running,0.0,15.0,0.0
 2024,6,Austin,Circuit of the Americas,3.41,road course,32.0,38.0,43.0,Erik Jones,Family Dollar (Legacy Motor Club),Toyota,68.0,running,0.0,5.0,0.0
@@ -397,7 +397,7 @@ Season,Race,Site,Track,Track_length,Track_type,Pos,St,#,Driver,Sponsor / Owner,C
 2024,11,Dover,Dover Motor Speedway,1.0,paved track,22.0,20.0,77.0,Carson Hocevar,Premier Security (Spire Motorsports),Chevrolet,397.0,running,0.0,15.0,0.0
 2024,11,Dover,Dover Motor Speedway,1.0,paved track,23.0,36.0,51.0,Justin Haley,Walmart Health & Wellness (Rick Ware),Ford,397.0,running,0.0,14.0,0.0
 2024,11,Dover,Dover Motor Speedway,1.0,paved track,24.0,37.0,71.0,Zane Smith,Focused Health (Spire Motorsports),Chevrolet,397.0,running,0.0,13.0,0.0
-2024,11,Dover,Dover Motor Speedway,1.0,paved track,25.0,32.0,43.0,Corey Heim,Dollar Tree / Petty 75th (Legacy Motor Club),Toyota,397.0,running,0.0,0.0,0.0
+2024,11,Dover,Dover Motor Speedway,1.0,paved track,25.0,32.0,43.0,Corey Heim,STP Fuel Additives / Dollar Tree / Petty 75th (Legacy Motor Club),Toyota,397.0,running,0.0,0.0,0.0
 2024,11,Dover,Dover Motor Speedway,1.0,paved track,26.0,26.0,21.0,Harrison Burton,DEX Imaging (Wood Brothers),Ford,397.0,running,0.0,11.0,0.0
 2024,11,Dover,Dover Motor Speedway,1.0,paved track,27.0,23.0,3.0,Austin Dillon,BREZTRI (Richard Childress),Chevrolet,396.0,running,0.0,10.0,0.0
 2024,11,Dover,Dover Motor Speedway,1.0,paved track,28.0,27.0,84.0,Jimmie Johnson,Dollar Tree/Family Dollar (Legacy Motor Club),Toyota,395.0,running,0.0,9.0,0.0
@@ -411,7 +411,7 @@ Season,Race,Site,Track,Track_length,Track_type,Pos,St,#,Driver,Sponsor / Owner,C
 2024,11,Dover,Dover Motor Speedway,1.0,paved track,36.0,8.0,34.0,Michael McDowell,The Pete Store (Bob Jenkins),Ford,285.0,hub,0.0,1.0,0.0
 2024,11,Dover,Dover Motor Speedway,1.0,paved track,37.0,28.0,41.0,Ryan Preece,Morton Buildings (Stewart Haas Racing),Ford,66.0,fire,0.0,1.0,0.0
 2024,12,Kansas,Kansas Speedway,1.5,paved track,1.0,4.0,5.0,Kyle Larson,HendrickCars.com (Rick Hendrick),Chevrolet,268.0,running,63.0,57.0,5.0
-2024,12,Kansas,Kansas Speedway,1.5,paved track,2.0,12.0,17.0,Chris Buescher,Castrol Edge (Jack Roush),Ford,268.0,running,54.0,51.0,1.0
+2024,12,Kansas,Kansas Speedway,1.5,paved track,2.0,12.0,17.0,Chris Buescher,Castrol Edge (Jack Roush),Ford,268.0,running,53.0,51.0,1.0
 2024,12,Kansas,Kansas Speedway,1.5,paved track,3.0,9.0,9.0,Chase Elliott,NAPA Auto Parts (Rick Hendrick),Chevrolet,268.0,running,0.0,35.0,0.0
 2024,12,Kansas,Kansas Speedway,1.5,paved track,4.0,13.0,19.0,Martin Truex Jr,Auto-Owners Insurance (Joe Gibbs),Toyota,268.0,running,0.0,43.0,0.0
 2024,12,Kansas,Kansas Speedway,1.5,paved track,5.0,14.0,11.0,Denny Hamlin,SportClips Haircuts (Joe Gibbs),Toyota,268.0,running,71.0,50.0,1.0
@@ -519,7 +519,7 @@ Season,Race,Site,Track,Track_length,Track_type,Pos,St,#,Driver,Sponsor / Owner,C
 2024,14,Charlotte,Charlotte Motor Speedway,1.5,paved track,33.0,25.0,71.0,Zane Smith,Focused Health (Spire Motorsports),Chevrolet,249.0,running,0.0,4.0,0.0
 2024,14,Charlotte,Charlotte Motor Speedway,1.5,paved track,34.0,33.0,15.0,Kaz Grala,N29 (Rick Ware),Ford,249.0,running,0.0,3.0,0.0
 2024,14,Charlotte,Charlotte Motor Speedway,1.5,paved track,35.0,21.0,7.0,Corey LaJoie,Chili's Catch-a-Rita (Spire Motorsports),Chevrolet,249.0,running,0.0,2.0,0.0
-2024,14,Charlotte,Charlotte Motor Speedway,1.5,paved track,36.0,38.0,50.0,Ty Dillon,AmeriVet Securities (TMT Racing),Chevrolet,247.0,running,0.0,0.0,0.0
+2024,14,Charlotte,Charlotte Motor Speedway,1.5,paved track,36.0,38.0,50.0,Ty Dillon,AmeriVet Securities (23XI Racing),Chevrolet,247.0,running,0.0,0.0,0.0
 2024,14,Charlotte,Charlotte Motor Speedway,1.5,paved track,37.0,37.0,66.0,B.J. McLeod,Truan Equipment (Carl Long),Ford,241.0,running,0.0,0.0,0.0
 2024,14,Charlotte,Charlotte Motor Speedway,1.5,paved track,38.0,19.0,10.0,Noah Gragson,Bass Pro Shops Winchester (Stewart Haas Racing),Ford,170.0,crash,0.0,1.0,0.0
 2024,14,Charlotte,Charlotte Motor Speedway,1.5,paved track,39.0,16.0,12.0,Ryan Blaney,BodyArmor Flash I.V. (Roger Penske),Ford,143.0,crash,0.0,5.0,0.0
@@ -698,7 +698,7 @@ Season,Race,Site,Track,Track_length,Track_type,Pos,St,#,Driver,Sponsor / Owner,C
 2024,19,Nashville,Nashville Superspeedway,1.333,paved track,26.0,2.0,4.0,Josh Berry,Overstock.com (Stewart Haas Racing),Ford,327.0,crash,0.0,11.0,0.0
 2024,19,Nashville,Nashville Superspeedway,1.333,paved track,27.0,27.0,8.0,Kyle Busch,zone / Thorntons (Richard Childress),Chevrolet,319.0,crash,0.0,10.0,0.0
 2024,19,Nashville,Nashville Superspeedway,1.333,paved track,28.0,25.0,21.0,Harrison Burton,DEX Imaging (Wood Brothers),Ford,312.0,crash,0.0,9.0,0.0
-2024,19,Nashville,Nashville Superspeedway,1.333,paved track,29.0,29.0,50.0,Corey Heim,Mobil 1 50th Anniversary (TMT Racing),Toyota,312.0,crash,0.0,0.0,0.0
+2024,19,Nashville,Nashville Superspeedway,1.333,paved track,29.0,29.0,50.0,Corey Heim,Mobil 1 50th Anniversary (23XI Racing),Toyota,312.0,crash,0.0,0.0,0.0
 2024,19,Nashville,Nashville Superspeedway,1.333,paved track,30.0,23.0,47.0,Ricky Stenhouse Jr,Artesano Hawaiian/Oscar Mayer (JTG-Daugherty Racing),Chevrolet,312.0,crash,0.0,7.0,0.0
 2024,19,Nashville,Nashville Superspeedway,1.333,paved track,31.0,35.0,42.0,John H. Nemechek,Massey Motor Freight (Legacy Motor Club),Toyota,306.0,crash,0.0,6.0,0.0
 2024,19,Nashville,Nashville Superspeedway,1.333,paved track,32.0,11.0,3.0,Austin Dillon,BREZTRI (Richard Childress),Chevrolet,305.0,crash,0.0,5.0,0.0
