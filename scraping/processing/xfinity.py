@@ -15,9 +15,13 @@ Example:
 df = process_xfinity_data()
 '''
 
-
+import os
 import polars as pl
 import re
+
+project_root = os.path.abspath(os.path.join(os.path.dirname(__file__), '..', '..'))
+if project_root not in sys.path:
+    sys.path.insert(0, project_root)
 
 from scraping.utils.season_stats import season_stats
 from scraping.utils.overall_stats import overall_stats
