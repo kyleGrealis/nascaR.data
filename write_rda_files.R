@@ -38,3 +38,6 @@ for (i in series) {
         rm(data)
     }
 }
+
+# clear R console
+rm(list=ls())
