@@ -785,3 +785,42 @@ Season,Race,Site,Track,Track_length,Track_type,Pos,St,#,Driver,Sponsor / Owner,C
 2024,21,Pocono,Pocono Raceway,2.5,paved track,35.0,37.0,44.0,J.J. Yeley,Ollie's Bargain Outlet (Johnathan Cohen),Chevrolet,112.0,fuel pump,0.0,0.0,0.0
 2024,21,Pocono,Pocono Raceway,2.5,paved track,36.0,19.0,1.0,Ross Chastain,Busch Light Peach (Trackhouse Racing),Chevrolet,53.0,crash,0.0,1.0,0.0
 2024,21,Pocono,Pocono Raceway,2.5,paved track,37.0,25.0,10.0,Noah Gragson,Overstock.com (Stewart Haas Racing),Ford,13.0,crash,0.0,1.0,0.0
+2024,22,Indianapolis,Indianapolis Motor Speedway,2.5,paved track,1.0,5.0,5.0,Kyle Larson,HendrickCars.com (Rick Hendrick),Chevrolet,167.0,running,8.0,49.0,5.0
+2024,22,Indianapolis,Indianapolis Motor Speedway,2.5,paved track,2.0,1.0,45.0,Tyler Reddick,The Beast Unleashed (23XI Racing),Toyota,167.0,running,40.0,46.0,0.0
+2024,22,Indianapolis,Indianapolis Motor Speedway,2.5,paved track,3.0,7.0,12.0,Ryan Blaney,Menards Atlas (Roger Penske),Ford,167.0,running,0.0,49.0,0.0
+2024,22,Indianapolis,Indianapolis Motor Speedway,2.5,paved track,4.0,18.0,20.0,Christopher Bell,Rheem (Joe Gibbs),Toyota,167.0,running,2.0,35.0,0.0
+2024,22,Indianapolis,Indianapolis Motor Speedway,2.5,paved track,5.0,17.0,23.0,Bubba Wallace,U.S. Air Force (23XI Racing),Toyota,167.0,running,26.0,42.0,1.0
+2024,22,Indianapolis,Indianapolis Motor Speedway,2.5,paved track,6.0,24.0,38.0,Todd Gilliland,gener8tor (Bob Jenkins),Ford,167.0,running,1.0,31.0,0.0
+2024,22,Indianapolis,Indianapolis Motor Speedway,2.5,paved track,7.0,38.0,2.0,Austin Cindric,Discount Tire (Roger Penske),Ford,167.0,running,0.0,30.0,0.0
+2024,22,Indianapolis,Indianapolis Motor Speedway,2.5,paved track,8.0,25.0,99.0,Daniel Suarez,Freeway Insurance (Trackhouse Racing),Chevrolet,167.0,running,0.0,29.0,0.0
+2024,22,Indianapolis,Indianapolis Motor Speedway,2.5,paved track,9.0,21.0,10.0,Noah Gragson,Bass Pro Shops Winchester (Stewart Haas Racing),Ford,167.0,running,3.0,29.0,0.0
+2024,22,Indianapolis,Indianapolis Motor Speedway,2.5,paved track,10.0,3.0,9.0,Chase Elliott,NAPA Auto Parts (Rick Hendrick),Chevrolet,167.0,running,1.0,36.0,0.0
+2024,22,Indianapolis,Indianapolis Motor Speedway,2.5,paved track,11.0,9.0,47.0,Ricky Stenhouse Jr,Kleenex 100Years/Donors Choose (JTG-Daugherty Racing),Chevrolet,167.0,running,0.0,32.0,0.0
+2024,22,Indianapolis,Indianapolis Motor Speedway,2.5,paved track,12.0,30.0,77.0,Carson Hocevar,Zeigler Auto Group (Spire Motorsports),Chevrolet,167.0,running,0.0,25.0,0.0
+2024,22,Indianapolis,Indianapolis Motor Speedway,2.5,paved track,13.0,11.0,3.0,Austin Dillon,SENIX (Richard Childress),Chevrolet,167.0,running,0.0,24.0,0.0
+2024,22,Indianapolis,Indianapolis Motor Speedway,2.5,paved track,14.0,19.0,7.0,Corey LaJoie,Gainbridge (Spire Motorsports),Chevrolet,167.0,running,0.0,23.0,0.0
+2024,22,Indianapolis,Indianapolis Motor Speedway,2.5,paved track,15.0,28.0,1.0,Ross Chastain,Moose Fraternity (Trackhouse Racing),Chevrolet,167.0,running,8.0,22.0,0.0
+2024,22,Indianapolis,Indianapolis Motor Speedway,2.5,paved track,16.0,8.0,34.0,Michael McDowell,Horizon Hobby (Bob Jenkins),Ford,167.0,running,1.0,26.0,0.0
+2024,22,Indianapolis,Indianapolis Motor Speedway,2.5,paved track,17.0,27.0,71.0,Zane Smith,Focused Health (Spire Motorsports),Chevrolet,167.0,running,0.0,20.0,0.0
+2024,22,Indianapolis,Indianapolis Motor Speedway,2.5,paved track,18.0,36.0,15.0,Cody Ware,Peoria TT (Rick Ware),Ford,167.0,running,0.0,19.0,0.0
+2024,22,Indianapolis,Indianapolis Motor Speedway,2.5,paved track,19.0,22.0,33.0,Ty Dillon,Titan Risk Solutions (Richard Childress),Chevrolet,167.0,running,0.0,0.0,0.0
+2024,22,Indianapolis,Indianapolis Motor Speedway,2.5,paved track,20.0,35.0,51.0,Justin Haley,Fraternal Order of Eagles (Rick Ware),Ford,167.0,running,0.0,17.0,0.0
+2024,22,Indianapolis,Indianapolis Motor Speedway,2.5,paved track,21.0,26.0,6.0,Brad Keselowski,Body Guard (Jack Roush),Ford,167.0,running,35.0,16.0,0.0
+2024,22,Indianapolis,Indianapolis Motor Speedway,2.5,paved track,22.0,23.0,17.0,Chris Buescher,Castrol Edge (Jack Roush),Ford,167.0,running,0.0,15.0,0.0
+2024,22,Indianapolis,Indianapolis Motor Speedway,2.5,paved track,23.0,6.0,54.0,Ty Gibbs,Monster Energy (Joe Gibbs),Toyota,167.0,running,0.0,17.0,0.0
+2024,22,Indianapolis,Indianapolis Motor Speedway,2.5,paved track,24.0,20.0,14.0,Chase Briscoe,HighPoint.com (Stewart Haas Racing),Ford,167.0,running,0.0,14.0,0.0
+2024,22,Indianapolis,Indianapolis Motor Speedway,2.5,paved track,25.0,34.0,8.0,Kyle Busch,Cheddar's Patriotic (Richard Childress),Chevrolet,166.0,running,5.0,12.0,0.0
+2024,22,Indianapolis,Indianapolis Motor Speedway,2.5,paved track,26.0,31.0,41.0,Ryan Preece,HaasTooling.com (Stewart Haas Racing),Ford,165.0,crash,0.0,11.0,0.0
+2024,22,Indianapolis,Indianapolis Motor Speedway,2.5,paved track,27.0,14.0,19.0,Martin Truex Jr,Auto-Owners Insurance (Joe Gibbs),Toyota,165.0,running,0.0,13.0,0.0
+2024,22,Indianapolis,Indianapolis Motor Speedway,2.5,paved track,28.0,29.0,43.0,Erik Jones,Dollar Tree (Legacy Motor Club),Toyota,165.0,running,0.0,9.0,0.0
+2024,22,Indianapolis,Indianapolis Motor Speedway,2.5,paved track,29.0,10.0,42.0,John H. Nemechek,Pye Barker Fire & Safety (Legacy Motor Club),Toyota,161.0,crash,16.0,14.0,0.0
+2024,22,Indianapolis,Indianapolis Motor Speedway,2.5,paved track,30.0,32.0,31.0,Daniel Hemric,Cirkul (Matthew Kaulig),Chevrolet,161.0,crash,0.0,7.0,0.0
+2024,22,Indianapolis,Indianapolis Motor Speedway,2.5,paved track,31.0,13.0,48.0,Alex Bowman,Ally (Rick Hendrick),Chevrolet,161.0,crash,0.0,10.0,0.0
+2024,22,Indianapolis,Indianapolis Motor Speedway,2.5,paved track,32.0,2.0,11.0,Denny Hamlin,SportClips Haircuts (Joe Gibbs),Toyota,161.0,crash,21.0,23.0,1.0
+2024,22,Indianapolis,Indianapolis Motor Speedway,2.5,paved track,33.0,33.0,84.0,Jimmie Johnson,Carvana (Legacy Motor Club),Toyota,110.0,crash,0.0,4.0,0.0
+2024,22,Indianapolis,Indianapolis Motor Speedway,2.5,paved track,34.0,12.0,22.0,Joey Logano,Shell Pennzoil (Roger Penske),Ford,109.0,crash,0.0,3.0,0.0
+2024,22,Indianapolis,Indianapolis Motor Speedway,2.5,paved track,35.0,37.0,4.0,Josh Berry,Panini / Caitlin Clark (Stewart Haas Racing),Ford,104.0,crash,0.0,2.0,0.0
+2024,22,Indianapolis,Indianapolis Motor Speedway,2.5,paved track,36.0,16.0,21.0,Harrison Burton,DRAIVER (Wood Brothers),Ford,74.0,crash,0.0,1.0,0.0
+2024,22,Indianapolis,Indianapolis Motor Speedway,2.5,paved track,37.0,15.0,16.0,A.J. Allmendinger,Campers Inn RV (Matthew Kaulig),Chevrolet,74.0,crash,0.0,0.0,0.0
+2024,22,Indianapolis,Indianapolis Motor Speedway,2.5,paved track,38.0,4.0,24.0,William Byron,Valvoline (Rick Hendrick),Chevrolet,73.0,crash,0.0,8.0,0.0
+2024,22,Indianapolis,Indianapolis Motor Speedway,2.5,paved track,39.0,39.0,66.0,B.J. McLeod,Coble Enterprises (Carl Long),Ford,15.0,engine,0.0,0.0,0.0
