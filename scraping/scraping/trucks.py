@@ -8,7 +8,7 @@ The trucks_racing function takes a start year and an optional stop year as argum
 NOTE: Combining all individual season CSV files will be handled in the data cleaning script. This has been separated so that quicker updateds can be applied mid-season. More specifically, there is no need to be redundant in scraping all the data. Rather, each updated iteration set can be separately cleaned and applied to the main dataset.
 '''
 
-# %%
+
 import numpy as np
 import pandas as pd
 from selenium import webdriver
@@ -20,7 +20,7 @@ import re
 import time
 from io import StringIO
 
-# %%
+
 # function to get the race results informaton
 def race_results(driver, race_link, season, race_num, site):
     # get the HTML of the page and parse with BeautifulSoup
@@ -146,7 +146,7 @@ def truck_racing(start, stop=None):
 
         # save the dataframe for the season to a CSV file
         season_df.to_csv(
-            os.path.join('data', 'truck-series', 'scraped', f'trucks-{season}.csv'),
+            f'scraping/data/truck-series/scraped/trucks-{season}.csv',
             index=False
         )
 
@@ -164,19 +164,19 @@ def truck_racing(start, stop=None):
 
     # save the main dataframe to a CSV file
     all_races_df.to_csv(
-        os.path.join('data', 'truck-series', 'scraped', 'truck-series-full-import.csv'),
+        'scraping/data/truck-series/scraped/truck-series-full-import.csv',
         index=False
     )
 
     return all_races_df
 
 
-# %%
+
 # test
 # truck = truck_racing(1995, 1995)
 
 
-# %%
+
 # import time
 # start_time = time.time()
 
