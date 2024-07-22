@@ -12,3 +12,6 @@
 ^CRAN-SUBMISSION$
 ^scraping$
 requirements.txt
+season_update.py
+nav_scripts.sh
+
