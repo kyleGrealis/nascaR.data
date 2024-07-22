@@ -164,11 +164,13 @@ def series_racing(series, season):
 # to help with debugging
 def run_script(script_path):
     try:
+        env = os.environ.copy()
+        env['PYTHONPATH'] = f"{project_root}:{env.get('PYTHONPATH', '')}"
         result = subprocess.run(
             [sys.executable, script_path],
             capture_output=True,
             text=True,
-            env=os.environ.copy()
+            env=env
         )
         if result.returncode != 0:
             print(f"Error running {script_path}:")
@@ -216,7 +218,7 @@ update_all_series(season)
 
 
 # run the R script to write the new data to appropriate .rda file for the R package:
-subprocess.run(['Rscript', 'scraping/processing/write_rda_files.R'], check=True)
+subprocess.run(['Rscript', 'write_rda_files.R'], check=True)
 
 
 
