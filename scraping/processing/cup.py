@@ -18,6 +18,7 @@ df = process_cup_data()
 import os
 import polars as pl
 import re
+import sys
 
 project_root = os.path.abspath(os.path.join(os.path.dirname(__file__), '..', '..'))
 if project_root not in sys.path:
