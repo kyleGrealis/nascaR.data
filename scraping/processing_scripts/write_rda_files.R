@@ -1,7 +1,7 @@
 library(tidyverse)
 library(glue)
 
-to_path <- '../data/data'
+to_path <- '../../data'
 
 series <- list('cup', 'xfinity', 'truck')
 

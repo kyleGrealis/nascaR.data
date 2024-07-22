@@ -17,26 +17,18 @@ df = process_cup_data()
 
 
 import polars as pl
-import os
 import re
-import sys
 
-# sys.path.append(
-#   os.path.abspath(
-#     os.path.join(os.path.dirname(__file__), '..')
-#   )
-# )
-
-# from utils.season_stats import *
-# from utils.overall_stats import *
-# from utils.driver_stats import *
+from ..utils.season_stats import season_stats
+from ..utils.overall_stats import overall_stats
+from ..utils.driver_stats import season, overall
 
 
 
 
 # read in the main racing results CSV
 df = pl.read_csv(
-  'data/cup-series/scraped/cup-series-full-import.csv', infer_schema_length=10000
+  'scraping/data/cup-series/scraped/cup-series-full-import.csv', infer_schema_length=10000
 )
 
 
@@ -157,22 +149,22 @@ def process_cup_data():
 cup = process_cup_data()
 del df
 
-# driver_season = season(cup)
-# driver_overall = overall(cup)
-# mfg_overall = overall_stats(cup, 'car', 'manufacturer')
-# owner_overall = overall_stats(cup, 'car', 'owner')
-# mfg_season = season_stats(cup, 'car', 'manufacturer')
-# owner_season = season_stats(cup, 'car', 'owner')
+driver_season = season(cup)
+driver_overall = overall(cup)
+mfg_overall = overall_stats(cup, 'car', 'manufacturer')
+owner_overall = overall_stats(cup, 'car', 'owner')
+mfg_season = season_stats(cup, 'car', 'manufacturer')
+owner_season = season_stats(cup, 'car', 'owner')
 
 
-cleaned_path = 'data/cup-series/cleaned'
+cleaned_path = 'scraping/data/cup-series/cleaned'
 
 cup.write_csv(f'{cleaned_path}/cup_race_data.csv')
-# driver_season.write_csv(f'{cleaned_path}/cup_driver_season.csv')
-# driver_overall.write_csv(f'{cleaned_path}/cup_driver_career.csv')
-# owner_season.write_csv(f'{cleaned_path}/cup_owner_season.csv')
-# owner_overall.write_csv(f'{cleaned_path}/cup_owner_career.csv')
-# mfg_season.write_csv(f'{cleaned_path}/cup_mfg_season.csv')
-# mfg_overall.write_csv(f'{cleaned_path}/cup_mfg_overall.csv')
+driver_season.write_csv(f'{cleaned_path}/cup_driver_season.csv')
+driver_overall.write_csv(f'{cleaned_path}/cup_driver_career.csv')
+owner_season.write_csv(f'{cleaned_path}/cup_owner_season.csv')
+owner_overall.write_csv(f'{cleaned_path}/cup_owner_career.csv')
+mfg_season.write_csv(f'{cleaned_path}/cup_mfg_season.csv')
+mfg_overall.write_csv(f'{cleaned_path}/cup_mfg_overall.csv')
 
 
