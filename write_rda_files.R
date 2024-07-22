@@ -18,9 +18,11 @@ for (i in series) {
         base_name <- tools::file_path_sans_ext(basename(j))
         print(base_name)
 
-        data <- read_csv(
-            glue::glue(
-                'scraping/data/{i}-series/cleaned/{j}'
+        data <- suppressMessages(
+            read_csv(
+                glue::glue(
+                    'scraping/data/{i}-series/cleaned/{j}'
+                )
             )
         )
 
