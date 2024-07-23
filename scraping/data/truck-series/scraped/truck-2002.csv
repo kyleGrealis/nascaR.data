@@ -1,0 +1,789 @@
+Season,Race,Site,Track,Track_length,Track_type,Pos,St,#,Driver,Sponsor / Owner,Truck,Laps,Money,Status,Led,Pts
+2002,1,Daytona,Daytona International Speedway,2.5,paved track,1.0,10.0,18.0,Robert Pressley,Dodge Motorsports (Bobby Hamilton Racing),Dodge,100.0,81635.0,running,50.0,185.0
+2002,1,Daytona,Daytona International Speedway,2.5,paved track,2.0,1.0,1.0,Ted Musgrave,Mopar Performance (Jim Smith),Dodge,100.0,54700.0,running,3.0,175.0
+2002,1,Daytona,Daytona International Speedway,2.5,paved track,3.0,4.0,4.0,Brian Rose,Sunclear Energy Team (Bobby Hamilton Racing),Dodge,100.0,39640.0,running,3.0,170.0
+2002,1,Daytona,Daytona International Speedway,2.5,paved track,4.0,15.0,79.0,Joe Ruttman,Obee's (Rodney Smith),Dodge,100.0,25800.0,running,1.0,165.0
+2002,1,Daytona,Daytona International Speedway,2.5,paved track,5.0,12.0,6.0,Rick Carelli,Harvick Motorsports (Kevin Harvick),Chevrolet,100.0,21700.0,running,16.0,160.0
+2002,1,Daytona,Daytona International Speedway,2.5,paved track,6.0,20.0,29.0,Terry Cook,Power Stroke Diesel (Bob Keselowski),Ford,100.0,20150.0,running,4.0,55.0
+2002,1,Daytona,Daytona International Speedway,2.5,paved track,7.0,13.0,75.0,David Starr,Spears Manufacturing (Wayne Spears),Chevrolet,100.0,19150.0,running,8.0,151.0
+2002,1,Daytona,Daytona International Speedway,2.5,paved track,8.0,6.0,43.0,Carlos Contreras,Hot Wheels (Petty Enterprises),Dodge,100.0,18150.0,running,0.0,142.0
+2002,1,Daytona,Daytona International Speedway,2.5,paved track,9.0,26.0,7.0,Jason Small,Sunbelt Rentals / Lucas Oil (Gene Christensen),Chevrolet,100.0,17150.0,running,0.0,138.0
+2002,1,Daytona,Daytona International Speedway,2.5,paved track,10.0,7.0,90.0,Lance Norick,Express Personnel Services (Ron Norick),Chevrolet,100.0,17450.0,running,0.0,134.0
+2002,1,Daytona,Daytona International Speedway,2.5,paved track,11.0,5.0,2.0,Jason Leffler,Team ASE Racing (Jim Smith),Dodge,100.0,16050.0,running,6.0,135.0
+2002,1,Daytona,Daytona International Speedway,2.5,paved track,12.0,2.0,24.0,"Ron Hornaday, Jr.",Wolverine Boots (Rick Hendrick),Chevrolet,99.0,15865.0,running,0.0,127.0
+2002,1,Daytona,Daytona International Speedway,2.5,paved track,13.0,18.0,62.0,Brendan Gaughan,NAPA Auto Parts (Michael Gaughan),Dodge,99.0,13515.0,running,0.0,124.0
+2002,1,Daytona,Daytona International Speedway,2.5,paved track,14.0,32.0,72.0,Randy MacDonald,Greenfield Truck Center (Doc MacDonald),Chevrolet,99.0,17165.0,running,0.0,121.0
+2002,1,Daytona,Daytona International Speedway,2.5,paved track,15.0,28.0,54.0,Brian Sockwell,Maddux Supply (Dennis Sockwell),Chevrolet,99.0,13615.0,running,0.0,118.0
+2002,1,Daytona,Daytona International Speedway,2.5,paved track,16.0,31.0,37.0,Matt Mullins,Folgers Jakada (Derrike Cope),Ford,99.0,13115.0,running,0.0,115.0
+2002,1,Daytona,Daytona International Speedway,2.5,paved track,17.0,33.0,61.0,Butch Miller,Delco Remy (Ed Rensi),Chevrolet,99.0,15265.0,running,0.0,112.0
+2002,1,Daytona,Daytona International Speedway,2.5,paved track,18.0,19.0,8.0,Bill Lester,Dodge Motorsports (Bobby Hamilton Racing),Dodge,98.0,15165.0,running,0.0,109.0
+2002,1,Daytona,Daytona International Speedway,2.5,paved track,19.0,36.0,19.0,Ricky Sanders,Pitboxes.com / Billet Race Products (James Murphy),Ford,98.0,15065.0,running,0.0,106.0
+2002,1,Daytona,Daytona International Speedway,2.5,paved track,20.0,8.0,60.0,Travis Kvapil,CAT Rental Stores (Mike Addington),Chevrolet,98.0,15215.0,running,2.0,108.0
+2002,1,Daytona,Daytona International Speedway,2.5,paved track,21.0,11.0,50.0,Jon Wood,Navy Racing (Jack Roush),Ford,97.0,14865.0,running,0.0,100.0
+2002,1,Daytona,Daytona International Speedway,2.5,paved track,22.0,25.0,5.0,Lance Hooper,Ware Racing Enterprises (Rick Ware),Dodge,94.0,14765.0,crash,1.0,102.0
+2002,1,Daytona,Daytona International Speedway,2.5,paved track,23.0,24.0,88.0,Matt Crafton,Menards / Sealmaster (Duke Thorson),Chevrolet,94.0,14640.0,crash,0.0,94.0
+2002,1,Daytona,Daytona International Speedway,2.5,paved track,24.0,22.0,14.0,Rick Crawford,Circle Bar Motel & RV Park (Tom Mitchell),Ford,94.0,14540.0,running,0.0,91.0
+2002,1,Daytona,Daytona International Speedway,2.5,paved track,25.0,30.0,81.0,Donnie Neuenberger,IHOP (Rick Ware),Dodge,90.0,13190.0,crash,0.0,88.0
+2002,1,Daytona,Daytona International Speedway,2.5,paved track,26.0,35.0,93.0,Randy Briggs,Chevy Duty / GS27 (Lonnie Troxell),Chevrolet,86.0,13090.0,engine,0.0,85.0
+2002,1,Daytona,Daytona International Speedway,2.5,paved track,27.0,23.0,99.0,Tim Fedewa,Roush Racing (Jack Roush),Ford,86.0,11990.0,running,0.0,82.0
+2002,1,Daytona,Daytona International Speedway,2.5,paved track,28.0,21.0,20.0,Coy Gibbs,MBNA (Joe Gibbs),Chevrolet,80.0,12890.0,crash,0.0,79.0
+2002,1,Daytona,Daytona International Speedway,2.5,paved track,29.0,34.0,55.0,Tom Powers,5 Star Lighting & Recreation (Tom Powers),Dodge,79.0,12790.0,running,0.0,76.0
+2002,1,Daytona,Daytona International Speedway,2.5,paved track,30.0,27.0,52.0,Mike Wallace,Federated Auto Parts (Ken Schrader),Chevrolet,69.0,11690.0,overheating,3.0,78.0
+2002,1,Daytona,Daytona International Speedway,2.5,paved track,31.0,17.0,63.0,Larry Gunselman,Waterloo Tool Storage (Mike Mittler),Ford,43.0,11640.0,engine,0.0,70.0
+2002,1,Daytona,Daytona International Speedway,2.5,paved track,32.0,16.0,39.0,Steve Portenga,Roto-Rooter (Steve Portenga),Chevrolet,40.0,11590.0,engine,0.0,67.0
+2002,1,Daytona,Daytona International Speedway,2.5,paved track,33.0,3.0,16.0,Mike Bliss,IWX Motor Express (Steve Coulter),Chevrolet,34.0,11540.0,engine,0.0,64.0
+2002,1,Daytona,Daytona International Speedway,2.5,paved track,34.0,9.0,46.0,Dennis Setzer,Acxiom / Computer Associates (David Dollar),Chevrolet,34.0,11490.0,engine,3.0,66.0
+2002,1,Daytona,Daytona International Speedway,2.5,paved track,35.0,29.0,86.0,Phil Bonifield,Red Line Oil / Motor State Perf. (Phil Bonifield),Chevrolet,33.0,11440.0,engine,0.0,58.0
+2002,1,Daytona,Daytona International Speedway,2.5,paved track,36.0,14.0,8.0,Bobby Dotter,Albertson's / CDS (Gene Christensen),Chevrolet,26.0,11340.0,engine,0.0,55.0
+2002,2,Darlington,Darlington Raceway,1.366,paved track,1.0,2.0,1.0,Ted Musgrave,Mopar Performance (Jim Smith),Dodge,147.0,39125.0,running,97.0,185.0
+2002,2,Darlington,Darlington Raceway,1.366,paved track,2.0,3.0,18.0,Robert Pressley,Hamilton Racing (Bobby Hamilton Racing),Dodge,147.0,25875.0,running,32.0,175.0
+2002,2,Darlington,Darlington Raceway,1.366,paved track,3.0,5.0,16.0,Mike Bliss,IWX Motor Express (Steve Coulter),Chevrolet,147.0,16100.0,running,0.0,165.0
+2002,2,Darlington,Darlington Raceway,1.366,paved track,4.0,11.0,6.0,Kevin Harvick,Harvick Motorsports (Kevin Harvick),Chevrolet,147.0,10475.0,running,0.0,160.0
+2002,2,Darlington,Darlington Raceway,1.366,paved track,5.0,12.0,14.0,Rick Crawford,Circle Bar Motel & RV Park (Tom Mitchell),Ford,147.0,11900.0,running,0.0,155.0
+2002,2,Darlington,Darlington Raceway,1.366,paved track,6.0,9.0,75.0,David Starr,Spears Manufacturing (Wayne Spears),Chevrolet,147.0,10225.0,running,0.0,150.0
+2002,2,Darlington,Darlington Raceway,1.366,paved track,7.0,6.0,60.0,Travis Kvapil,CAT Rental Stores (Mike Addington),Chevrolet,147.0,10025.0,running,0.0,146.0
+2002,2,Darlington,Darlington Raceway,1.366,paved track,8.0,18.0,4.0,Brian Rose,Sunclear Energy Team (Bobby Hamilton Racing),Dodge,147.0,9975.0,running,2.0,147.0
+2002,2,Darlington,Darlington Raceway,1.366,paved track,9.0,8.0,50.0,Jon Wood,Navy Racing (Jack Roush),Ford,147.0,9825.0,running,0.0,138.0
+2002,2,Darlington,Darlington Raceway,1.366,paved track,10.0,10.0,52.0,Ken Schrader,Federated Auto Parts (Ken Schrader),Chevrolet,147.0,8825.0,running,0.0,134.0
+2002,2,Darlington,Darlington Raceway,1.366,paved track,11.0,4.0,46.0,Dennis Setzer,Acxiom / Computer Associates (David Dollar),Chevrolet,147.0,9600.0,running,0.0,130.0
+2002,2,Darlington,Darlington Raceway,1.366,paved track,12.0,24.0,8.0,Bobby Dotter,Stop Terrorism / HomeFrontHeroes.com (Gene Christensen),Chevrolet,147.0,9465.0,running,0.0,127.0
+2002,2,Darlington,Darlington Raceway,1.366,paved track,13.0,20.0,90.0,Lance Norick,Express Personnel Services (Ron Norick),Chevrolet,146.0,9415.0,running,0.0,124.0
+2002,2,Darlington,Darlington Raceway,1.366,paved track,14.0,14.0,88.0,Matt Crafton,Menards / Sealmaster (Duke Thorson),Chevrolet,146.0,9365.0,running,0.0,121.0
+2002,2,Darlington,Darlington Raceway,1.366,paved track,15.0,15.0,15.0,Trent Owens,Dickies (Billy Ballew),Ford,146.0,8365.0,running,0.0,118.0
+2002,2,Darlington,Darlington Raceway,1.366,paved track,16.0,17.0,5.0,Lance Hooper,Diamond Cut Jeans / Blair5.com (Rick Ware),Dodge,146.0,9265.0,running,0.0,115.0
+2002,2,Darlington,Darlington Raceway,1.366,paved track,17.0,26.0,43.0,Carlos Contreras,Hot Wheels (Petty Enterprises),Dodge,146.0,9215.0,running,3.0,117.0
+2002,2,Darlington,Darlington Raceway,1.366,paved track,18.0,28.0,79.0,Jerry Hill,RDS Racing Engines (Rodney Smith),Dodge,146.0,6915.0,running,0.0,109.0
+2002,2,Darlington,Darlington Raceway,1.366,paved track,19.0,32.0,72.0,Randy MacDonald,Greenfield Truck Center (Doc MacDonald),Chevrolet,145.0,10615.0,running,0.0,106.0
+2002,2,Darlington,Darlington Raceway,1.366,paved track,20.0,16.0,62.0,Brendan Gaughan,NAPA Auto Parts (Michael Gaughan),Dodge,144.0,7065.0,running,0.0,103.0
+2002,2,Darlington,Darlington Raceway,1.366,paved track,21.0,19.0,7.0,Jason Small,Sunbelt Rentals / HomeFrontHeroes.com (Gene Christensen),Chevrolet,144.0,7990.0,running,0.0,100.0
+2002,2,Darlington,Darlington Raceway,1.366,paved track,22.0,22.0,51.0,Michael Dokken,OOIDA (Rick Ware),Dodge,143.0,7940.0,running,0.0,97.0
+2002,2,Darlington,Darlington Raceway,1.366,paved track,23.0,23.0,20.0,Coy Gibbs,MBNA (Joe Gibbs),Chevrolet,143.0,8840.0,running,0.0,94.0
+2002,2,Darlington,Darlington Raceway,1.366,paved track,24.0,31.0,0.0,Ryan McGlynn,Buyers Choice Auto Warranties (Raynard McGlynn),Chevrolet,141.0,6490.0,running,0.0,91.0
+2002,2,Darlington,Darlington Raceway,1.366,paved track,25.0,35.0,86.0,Wayne Edwards,Motor State Performance / Lane Automotive (Phil Bonifield),Chevrolet,141.0,8640.0,running,0.0,88.0
+2002,2,Darlington,Darlington Raceway,1.366,paved track,26.0,27.0,39.0,Steve Portenga,Roto-Rooter (Steve Portenga),Chevrolet,137.0,6290.0,running,0.0,85.0
+2002,2,Darlington,Darlington Raceway,1.366,paved track,27.0,34.0,55.0,Tom Powers,5 Star Lighting & Recreation (Tom Powers),Dodge,136.0,8440.0,running,0.0,82.0
+2002,2,Darlington,Darlington Raceway,1.366,paved track,28.0,13.0,8.0,Bill Lester,Dodge Motorsports (Bobby Hamilton Racing),Dodge,115.0,7090.0,running,0.0,79.0
+2002,2,Darlington,Darlington Raceway,1.366,paved track,29.0,7.0,29.0,Terry Cook,Power Stroke Diesel (Bob Keselowski),Ford,114.0,6990.0,engine,0.0,76.0
+2002,2,Darlington,Darlington Raceway,1.366,paved track,30.0,1.0,2.0,Jason Leffler,Team ASE / Carquest (Jim Smith),Dodge,103.0,8190.0,oil line,13.0,78.0
+2002,2,Darlington,Darlington Raceway,1.366,paved track,31.0,21.0,48.0,J.D. Gibbs,MBNA (Joe Gibbs),Chevrolet,102.0,5865.0,crash,0.0,70.0
+2002,2,Darlington,Darlington Raceway,1.366,paved track,32.0,36.0,63.0,Larry Gunselman,Waterloo Tool Storage (Mike Mittler),Ford,67.0,6840.0,crash,0.0,67.0
+2002,2,Darlington,Darlington Raceway,1.366,paved track,33.0,30.0,81.0,Jonathon Price,Subscriberbase (Rick Ware),Chevrolet,64.0,5815.0,crash,0.0,64.0
+2002,2,Darlington,Darlington Raceway,1.366,paved track,34.0,29.0,21.0,Morgan Shepherd,Dairy Queen (Morgan Shepherd),Ford,28.0,5790.0,handling,0.0,61.0
+2002,2,Darlington,Darlington Raceway,1.366,paved track,35.0,25.0,28.0,Joe Ruttman,UFA-FDNY (Jim Rosenblum),Chevrolet,11.0,5765.0,crash,0.0,58.0
+2002,2,Darlington,Darlington Raceway,1.366,paved track,36.0,33.0,73.0,Loni Richardson,Universal Technical Institute (Joey Sonntag),Chevrolet,2.0,5740.0,electrical,0.0,55.0
+2002,3,Martinsville,Martinsville Speedway,0.526,paved track,1.0,33.0,46.0,Dennis Setzer,Acxiom / Computer Associates (David Dollar),Chevrolet,250.0,41610.0,running,43.0,180.0
+2002,3,Martinsville,Martinsville Speedway,0.526,paved track,2.0,6.0,16.0,Mike Bliss,IWX Motor Express (Steve Coulter),Chevrolet,250.0,22450.0,running,10.0,175.0
+2002,3,Martinsville,Martinsville Speedway,0.526,paved track,3.0,4.0,14.0,Rick Crawford,Circle Bar Motel & RV Park (Tom Mitchell),Ford,250.0,18940.0,running,20.0,170.0
+2002,3,Martinsville,Martinsville Speedway,0.526,paved track,4.0,10.0,8.0,Bobby Dotter,Support Trooper (Gene Christensen),Chevrolet,250.0,12450.0,running,0.0,160.0
+2002,3,Martinsville,Martinsville Speedway,0.526,paved track,5.0,7.0,29.0,Terry Cook,Power Stroke Diesel (Bob Keselowski),Ford,250.0,11500.0,running,76.0,160.0
+2002,3,Martinsville,Martinsville Speedway,0.526,paved track,6.0,2.0,2.0,Jason Leffler,Team ASE / Carquest (Jim Smith),Dodge,250.0,10200.0,running,23.0,155.0
+2002,3,Martinsville,Martinsville Speedway,0.526,paved track,7.0,5.0,60.0,Travis Kvapil,CAT Rental Stores (Mike Addington),Chevrolet,250.0,10200.0,running,0.0,146.0
+2002,3,Martinsville,Martinsville Speedway,0.526,paved track,8.0,25.0,75.0,David Starr,Spears Manufacturing (Wayne Spears),Chevrolet,250.0,10000.0,running,0.0,142.0
+2002,3,Martinsville,Martinsville Speedway,0.526,paved track,9.0,32.0,62.0,Brendan Gaughan,NAPA Auto Parts (Michael Gaughan),Dodge,250.0,8700.0,running,0.0,138.0
+2002,3,Martinsville,Martinsville Speedway,0.526,paved track,10.0,8.0,50.0,Jon Wood,Navy Racing (Jack Roush),Ford,250.0,11450.0,running,0.0,134.0
+2002,3,Martinsville,Martinsville Speedway,0.526,paved track,11.0,15.0,52.0,Ken Schrader,Federated Auto Parts (Ken Schrader),Chevrolet,250.0,7600.0,running,0.0,130.0
+2002,3,Martinsville,Martinsville Speedway,0.526,paved track,12.0,11.0,90.0,Lance Norick,Express Personnel Services (Ron Norick),Chevrolet,250.0,9715.0,running,0.0,127.0
+2002,3,Martinsville,Martinsville Speedway,0.526,paved track,13.0,20.0,7.0,Jason Small,Sunbelt Rentals (Gene Christensen),Chevrolet,249.0,8665.0,running,0.0,124.0
+2002,3,Martinsville,Martinsville Speedway,0.526,paved track,14.0,17.0,18.0,Robert Pressley,Hamilton Racing (Bobby Hamilton Racing),Dodge,248.0,7365.0,running,0.0,121.0
+2002,3,Martinsville,Martinsville Speedway,0.526,paved track,15.0,19.0,68.0,Rodney Sawyers,Smirnoff Ice / Blue Mist Water (Rodney Sawyers),Dodge,248.0,8840.0,running,0.0,118.0
+2002,3,Martinsville,Martinsville Speedway,0.526,paved track,16.0,24.0,5.0,Lance Hooper,Diamond Cut Jeans / Blair5.com (Rick Ware),Dodge,248.0,9465.0,running,0.0,115.0
+2002,3,Martinsville,Martinsville Speedway,0.526,paved track,17.0,22.0,15.0,Trent Owens,Dickies (Billy Ballew),Ford,248.0,7165.0,running,0.0,112.0
+2002,3,Martinsville,Martinsville Speedway,0.526,paved track,18.0,31.0,61.0,Randy Tolsma,U.S. Marines (Ed Rensi),Chevrolet,247.0,9365.0,running,0.0,109.0
+2002,3,Martinsville,Martinsville Speedway,0.526,paved track,19.0,30.0,51.0,Michael Dokken,OOIDA (Rick Ware),Dodge,247.0,8315.0,running,0.0,106.0
+2002,3,Martinsville,Martinsville Speedway,0.526,paved track,20.0,28.0,88.0,Matt Crafton,Menards / Sealmaster (Duke Thorson),Chevrolet,247.0,9515.0,running,0.0,103.0
+2002,3,Martinsville,Martinsville Speedway,0.526,paved track,21.0,23.0,20.0,Coy Gibbs,MBNA (Joe Gibbs),Chevrolet,246.0,9240.0,running,0.0,100.0
+2002,3,Martinsville,Martinsville Speedway,0.526,paved track,22.0,27.0,79.0,Jerry Hill,RDS Racing Engines (Rodney Smith),Dodge,245.0,6965.0,running,0.0,97.0
+2002,3,Martinsville,Martinsville Speedway,0.526,paved track,23.0,34.0,81.0,Angie Wilson,TotalRaceBabe.com (Rick Ware),Dodge,234.0,9190.0,handling,0.0,94.0
+2002,3,Martinsville,Martinsville Speedway,0.526,paved track,24.0,1.0,1.0,Ted Musgrave,Mopar Performance (Jim Smith),Dodge,232.0,12465.0,running,78.0,101.0
+2002,3,Martinsville,Martinsville Speedway,0.526,paved track,25.0,13.0,8.0,Bill Lester,Dodge Motorsports (Bobby Hamilton Racing),Dodge,230.0,7865.0,crash,0.0,88.0
+2002,3,Martinsville,Martinsville Speedway,0.526,paved track,26.0,26.0,70.0,Jeff Finley,Bailey Excavating (James Bailey),Ford,230.0,6840.0,running,0.0,85.0
+2002,3,Martinsville,Martinsville Speedway,0.526,paved track,27.0,9.0,4.0,Brian Rose,Sunclear Energy Team (Bobby Hamilton Racing),Dodge,223.0,7815.0,running,0.0,82.0
+2002,3,Martinsville,Martinsville Speedway,0.526,paved track,28.0,14.0,43.0,Carlos Contreras,Hot Wheels (Petty Enterprises),Dodge,211.0,7790.0,rear end,0.0,79.0
+2002,3,Martinsville,Martinsville Speedway,0.526,paved track,29.0,12.0,6.0,Kevin Harvick,Harvick Motorsports (Kevin Harvick),Chevrolet,188.0,6740.0,parked,0.0,76.0
+2002,3,Martinsville,Martinsville Speedway,0.526,paved track,30.0,36.0,55.0,Tom Powers,Johnny Strader / University of NW Ohio (Tom Powers),Dodge,178.0,7715.0,running,0.0,73.0
+2002,3,Martinsville,Martinsville Speedway,0.526,paved track,31.0,3.0,33.0,Andy Petree,Preen 'N Green / Craftsman (Andy Petree),Chevrolet,174.0,6265.0,crash,0.0,70.0
+2002,3,Martinsville,Martinsville Speedway,0.526,paved track,32.0,29.0,72.0,Randy MacDonald,Greenfield Truck Center (Doc MacDonald),Chevrolet,158.0,7240.0,rear end,0.0,67.0
+2002,3,Martinsville,Martinsville Speedway,0.526,paved track,33.0,16.0,21.0,Morgan Shepherd,Dairy Queen (Morgan Shepherd),Ford,149.0,6215.0,handling,0.0,64.0
+2002,3,Martinsville,Martinsville Speedway,0.526,paved track,34.0,18.0,17.0,Darrell Waltrip,Duck Head Footwear (James Harris),Dodge,86.0,6190.0,rear end,0.0,61.0
+2002,3,Martinsville,Martinsville Speedway,0.526,paved track,35.0,21.0,84.0,Richard Landreth,Guest Construction (Robert Long),Ford,80.0,6165.0,engine,0.0,58.0
+2002,3,Martinsville,Martinsville Speedway,0.526,paved track,36.0,35.0,73.0,Loni Richardson,Intensitee Custom Racewear / UTI (Joey Sonntag),Chevrolet,62.0,6140.0,engine,0.0,55.0
+2002,4,Gateway,Gateway International Raceway,1.25,paved track,1.0,8.0,29.0,Terry Cook,Power Stroke Diesel (Bob Keselowski),Ford,160.0,52160.0,running,59.0,185.0
+2002,4,Gateway,Gateway International Raceway,1.25,paved track,2.0,5.0,2.0,Jason Leffler,Team ASE / Carquest (Jim Smith),Dodge,160.0,34650.0,running,42.0,175.0
+2002,4,Gateway,Gateway International Raceway,1.25,paved track,3.0,1.0,16.0,Mike Bliss,IWX Motor Express / Knights Inn (Steve Coulter),Chevrolet,160.0,27290.0,running,3.0,170.0
+2002,4,Gateway,Gateway International Raceway,1.25,paved track,4.0,4.0,14.0,Rick Crawford,Circle Bar Motel & RV Park (Tom Mitchell),Ford,160.0,21725.0,running,0.0,160.0
+2002,4,Gateway,Gateway International Raceway,1.25,paved track,5.0,13.0,75.0,David Starr,Spears Manufacturing (Wayne Spears),Chevrolet,160.0,18750.0,running,0.0,155.0
+2002,4,Gateway,Gateway International Raceway,1.25,paved track,6.0,2.0,46.0,Dennis Setzer,Acxiom / Computer Associates (David Dollar),Chevrolet,160.0,15900.0,running,35.0,155.0
+2002,4,Gateway,Gateway International Raceway,1.25,paved track,7.0,9.0,50.0,Jon Wood,Navy Racing (Jack Roush),Ford,160.0,14175.0,running,13.0,151.0
+2002,4,Gateway,Gateway International Raceway,1.25,paved track,8.0,27.0,4.0,Brian Rose,Perry Connection (Bobby Hamilton Racing),Dodge,160.0,14425.0,running,0.0,142.0
+2002,4,Gateway,Gateway International Raceway,1.25,paved track,9.0,15.0,90.0,Lance Norick,Express Personnel Services (Ron Norick),Chevrolet,159.0,12075.0,running,0.0,138.0
+2002,4,Gateway,Gateway International Raceway,1.25,paved track,10.0,18.0,88.0,Matt Crafton,Menards / Sealmaster (Duke Thorson),Chevrolet,159.0,13375.0,running,0.0,134.0
+2002,4,Gateway,Gateway International Raceway,1.25,paved track,11.0,19.0,62.0,Brendan Gaughan,NAPA Auto Parts (Michael Gaughan),Dodge,159.0,10225.0,running,0.0,130.0
+2002,4,Gateway,Gateway International Raceway,1.25,paved track,12.0,3.0,1.0,Ted Musgrave,Mopar Performance (Jim Smith),Dodge,159.0,11290.0,running,8.0,132.0
+2002,4,Gateway,Gateway International Raceway,1.25,paved track,13.0,10.0,5.0,Lance Hooper,Diamond Cut Jeans / Blair5.com (Rick Ware),Dodge,159.0,11240.0,running,0.0,124.0
+2002,4,Gateway,Gateway International Raceway,1.25,paved track,14.0,17.0,39.0,Steve Portenga,Roto-Rooter (Steve Portenga),Chevrolet,158.0,8940.0,running,0.0,121.0
+2002,4,Gateway,Gateway International Raceway,1.25,paved track,15.0,22.0,8.0,Bobby Dotter,Conquer Terrorism (Gene Christensen),Chevrolet,158.0,11440.0,running,0.0,118.0
+2002,4,Gateway,Gateway International Raceway,1.25,paved track,16.0,11.0,43.0,Carlos Contreras,Hot Wheels (Petty Enterprises),Dodge,158.0,10840.0,running,0.0,115.0
+2002,4,Gateway,Gateway International Raceway,1.25,paved track,17.0,12.0,8.0,Bill Lester,Dodge Motorsports (Bobby Hamilton Racing),Dodge,158.0,10790.0,running,0.0,112.0
+2002,4,Gateway,Gateway International Raceway,1.25,paved track,18.0,24.0,68.0,Rodney Sawyers,R & J Racing (Rodney Sawyers),Dodge,158.0,9615.0,running,0.0,109.0
+2002,4,Gateway,Gateway International Raceway,1.25,paved track,19.0,25.0,51.0,Michael Dokken,OOIDA (Rick Ware),Dodge,157.0,9515.0,running,0.0,106.0
+2002,4,Gateway,Gateway International Raceway,1.25,paved track,20.0,26.0,15.0,Trent Owens,Dickies (Billy Ballew),Ford,157.0,8490.0,running,0.0,103.0
+2002,4,Gateway,Gateway International Raceway,1.25,paved track,21.0,16.0,7.0,Jason Small,Sunbelt Rentals (Gene Christensen),Chevrolet,157.0,9465.0,running,0.0,100.0
+2002,4,Gateway,Gateway International Raceway,1.25,paved track,22.0,21.0,20.0,Coy Gibbs,MBNA (Joe Gibbs),Chevrolet,157.0,10440.0,running,0.0,97.0
+2002,4,Gateway,Gateway International Raceway,1.25,paved track,23.0,31.0,59.0,Joe Cooksey,Fuelvend (Don Fauerbach),Chevrolet,155.0,8165.0,running,0.0,94.0
+2002,4,Gateway,Gateway International Raceway,1.25,paved track,24.0,20.0,72.0,Randy MacDonald,U.S. Security / Greenfield Truck (Doc MacDonald),Chevrolet,153.0,9140.0,cylinder head,0.0,91.0
+2002,4,Gateway,Gateway International Raceway,1.25,paved track,25.0,30.0,81.0,Angie Wilson,TotalRaceBabe.com (Rick Ware),Dodge,153.0,9115.0,running,0.0,88.0
+2002,4,Gateway,Gateway International Raceway,1.25,paved track,26.0,33.0,73.0,Loni Richardson,Intensitee Custom Racewear / UTI (Joey Sonntag),Chevrolet,151.0,9090.0,running,0.0,85.0
+2002,4,Gateway,Gateway International Raceway,1.25,paved track,27.0,36.0,93.0,Aaron Daniel,Play Craft Boats (Lonnie Troxell),Ford,150.0,9065.0,running,0.0,82.0
+2002,4,Gateway,Gateway International Raceway,1.25,paved track,28.0,34.0,55.0,Tom Powers,University of Northwest Ohio (Tom Powers),Dodge,150.0,9040.0,running,0.0,79.0
+2002,4,Gateway,Gateway International Raceway,1.25,paved track,29.0,35.0,86.0,Dana White,Red Line Oil / Coverall Carports (Phil Bonifield),Chevrolet,150.0,8015.0,running,0.0,76.0
+2002,4,Gateway,Gateway International Raceway,1.25,paved track,30.0,32.0,63.0,Larry Gunselman,Waterloo Tool Storage (Mike Mittler),Ford,143.0,7995.0,running,0.0,73.0
+2002,4,Gateway,Gateway International Raceway,1.25,paved track,31.0,7.0,18.0,Robert Pressley,Hamilton Racing (Bobby Hamilton Racing),Dodge,141.0,7985.0,running,0.0,70.0
+2002,4,Gateway,Gateway International Raceway,1.25,paved track,32.0,28.0,89.0,Stan Boyd,NGK Spark Plugs (James Liguori),Chevrolet,109.0,7975.0,transmission,0.0,67.0
+2002,4,Gateway,Gateway International Raceway,1.25,paved track,33.0,6.0,60.0,Travis Kvapil,CAT Rental Stores (Mike Addington),Chevrolet,105.0,7965.0,running,0.0,64.0
+2002,4,Gateway,Gateway International Raceway,1.25,paved track,34.0,29.0,79.0,Jerry Hill,RDS Racing Engines (Rodney Smith),Dodge,37.0,7955.0,brakes,0.0,61.0
+2002,4,Gateway,Gateway International Raceway,1.25,paved track,35.0,14.0,52.0,Mike Wallace,Federated Auto Parts (Ken Schrader),Chevrolet,27.0,7945.0,ignition,0.0,58.0
+2002,4,Gateway,Gateway International Raceway,1.25,paved track,36.0,23.0,21.0,Morgan Shepherd,Shepherd Motorsports (Morgan Shepherd),Ford,25.0,7935.0,brakes,0.0,55.0
+2002,5,Pikes Peak,Pikes Peak International Raceway,1.0,paved track,1.0,3.0,16.0,Mike Bliss,IWX Motor Freight / Knights Inn (Steve Coulter),Chevrolet,200.0,45435.0,running,46.0,180.0
+2002,5,Pikes Peak,Pikes Peak International Raceway,1.0,paved track,2.0,1.0,2.0,Jason Leffler,Team ASE / Carquest (Jim Smith),Dodge,200.0,34425.0,running,95.0,180.0
+2002,5,Pikes Peak,Pikes Peak International Raceway,1.0,paved track,3.0,7.0,60.0,Travis Kvapil,CAT Rental Stores (Mike Addington),Chevrolet,200.0,21715.0,running,39.0,170.0
+2002,5,Pikes Peak,Pikes Peak International Raceway,1.0,paved track,4.0,4.0,29.0,Terry Cook,Power Stroke Diesel (Bob Keselowski),Ford,200.0,14625.0,running,0.0,160.0
+2002,5,Pikes Peak,Pikes Peak International Raceway,1.0,paved track,5.0,6.0,75.0,David Starr,Spears Manufacturing (Wayne Spears),Chevrolet,200.0,13400.0,running,0.0,155.0
+2002,5,Pikes Peak,Pikes Peak International Raceway,1.0,paved track,6.0,8.0,14.0,Rick Crawford,Circle Bar Motel & RV Park (Tom Mitchell),Ford,200.0,12850.0,running,0.0,150.0
+2002,5,Pikes Peak,Pikes Peak International Raceway,1.0,paved track,7.0,5.0,46.0,Dennis Setzer,Acxiom / Computer Associates (David Dollar),Chevrolet,200.0,12300.0,running,0.0,146.0
+2002,5,Pikes Peak,Pikes Peak International Raceway,1.0,paved track,8.0,25.0,39.0,Steve Portenga,Roto-Rooter (Steve Portenga),Chevrolet,200.0,13400.0,running,0.0,142.0
+2002,5,Pikes Peak,Pikes Peak International Raceway,1.0,paved track,9.0,11.0,20.0,Coy Gibbs,MBNA (Joe Gibbs),Chevrolet,200.0,12075.0,running,0.0,138.0
+2002,5,Pikes Peak,Pikes Peak International Raceway,1.0,paved track,10.0,13.0,4.0,Brian Rose,Perry Connection (Bobby Hamilton Racing),Dodge,200.0,12675.0,running,0.0,134.0
+2002,5,Pikes Peak,Pikes Peak International Raceway,1.0,paved track,11.0,14.0,90.0,Lance Norick,Express Personnel Services (Ron Norick),Chevrolet,200.0,12125.0,running,0.0,130.0
+2002,5,Pikes Peak,Pikes Peak International Raceway,1.0,paved track,12.0,17.0,50.0,Jon Wood,Navy Racing (Jack Roush),Ford,200.0,11590.0,running,0.0,127.0
+2002,5,Pikes Peak,Pikes Peak International Raceway,1.0,paved track,13.0,16.0,43.0,Carlos Contreras,Hot Wheels (Petty Enterprises),Dodge,200.0,11515.0,running,0.0,124.0
+2002,5,Pikes Peak,Pikes Peak International Raceway,1.0,paved track,14.0,12.0,15.0,Trent Owens,Dickies (Billy Ballew),Ford,199.0,12465.0,running,0.0,121.0
+2002,5,Pikes Peak,Pikes Peak International Raceway,1.0,paved track,15.0,9.0,8.0,Bill Lester,Dodge Motorsports (Bobby Hamilton Racing),Dodge,199.0,11690.0,running,0.0,118.0
+2002,5,Pikes Peak,Pikes Peak International Raceway,1.0,paved track,16.0,2.0,1.0,Ted Musgrave,Mopar Performance (Jim Smith),Dodge,199.0,11315.0,running,16.0,120.0
+2002,5,Pikes Peak,Pikes Peak International Raceway,1.0,paved track,17.0,15.0,51.0,Michael Ritch,OOIDA (Rick Ware),Dodge,199.0,11265.0,running,0.0,112.0
+2002,5,Pikes Peak,Pikes Peak International Raceway,1.0,paved track,18.0,20.0,5.0,Lance Hooper,Diamond Cut Jeans / Blair5.com (Rick Ware),Dodge,198.0,11215.0,running,0.0,109.0
+2002,5,Pikes Peak,Pikes Peak International Raceway,1.0,paved track,19.0,24.0,68.0,Rodney Sawyers,R & J Racing (Rodney Sawyers),Dodge,197.0,9915.0,running,0.0,106.0
+2002,5,Pikes Peak,Pikes Peak International Raceway,1.0,paved track,20.0,28.0,8.0,Bobby Dotter,People Against Drugs (Gene Christensen),Dodge,196.0,10115.0,running,0.0,103.0
+2002,5,Pikes Peak,Pikes Peak International Raceway,1.0,paved track,21.0,26.0,0.0,Stan Boyd,Intensitee Custom Racewear / UTI (Larry Richardson),Chevrolet,196.0,8840.0,running,4.0,0.0
+2002,5,Pikes Peak,Pikes Peak International Raceway,1.0,paved track,22.0,18.0,7.0,Jason Small,Sunbelt Rentals (Gene Christensen),Chevrolet,195.0,8815.0,running,0.0,97.0
+2002,5,Pikes Peak,Pikes Peak International Raceway,1.0,paved track,23.0,33.0,79.0,Jerry Hill,RDS Racing Engines (Rodney Smith),Dodge,193.0,8790.0,running,0.0,94.0
+2002,5,Pikes Peak,Pikes Peak International Raceway,1.0,paved track,24.0,22.0,72.0,Randy MacDonald,U.S. Security / Greenfield Truck (Doc MacDonald),Chevrolet,190.0,8765.0,running,0.0,91.0
+2002,5,Pikes Peak,Pikes Peak International Raceway,1.0,paved track,25.0,27.0,81.0,Angie Wilson,TotalRaceBabe.com (Rick Ware),Dodge,189.0,8740.0,running,0.0,88.0
+2002,5,Pikes Peak,Pikes Peak International Raceway,1.0,paved track,26.0,19.0,62.0,Brendan Gaughan,NAPA Auto Parts (Michael Gaughan),Dodge,189.0,8715.0,running,0.0,85.0
+2002,5,Pikes Peak,Pikes Peak International Raceway,1.0,paved track,27.0,32.0,93.0,"Jerry Allec, Jr.",Troxell Racing (Lonnie Troxell),Chevrolet,187.0,8690.0,running,0.0,82.0
+2002,5,Pikes Peak,Pikes Peak International Raceway,1.0,paved track,28.0,31.0,9.0,Mike Hamby,Hamby Textile Research (Judith Ann Midgley),Chevrolet,186.0,8665.0,running,0.0,79.0
+2002,5,Pikes Peak,Pikes Peak International Raceway,1.0,paved track,29.0,23.0,88.0,Matt Crafton,Menards / Sealmaster (Duke Thorson),Chevrolet,163.0,8615.0,engine,0.0,76.0
+2002,5,Pikes Peak,Pikes Peak International Raceway,1.0,paved track,30.0,10.0,18.0,Robert Pressley,Hamilton Racing (Bobby Hamilton Racing),Dodge,152.0,8590.0,engine,0.0,73.0
+2002,5,Pikes Peak,Pikes Peak International Raceway,1.0,paved track,31.0,30.0,58.0,Chris Horn,Hornengines.com (Fred Horn),Chevrolet,140.0,8565.0,rear end,0.0,70.0
+2002,5,Pikes Peak,Pikes Peak International Raceway,1.0,paved track,32.0,35.0,86.0,Dana White,Red Line Oil / Coverall Carports (Phil Bonifield),Chevrolet,55.0,8540.0,clutch,0.0,67.0
+2002,5,Pikes Peak,Pikes Peak International Raceway,1.0,paved track,33.0,34.0,55.0,Tom Powers,University of Northwest Ohio (Tom Powers),Dodge,38.0,8515.0,engine,0.0,64.0
+2002,5,Pikes Peak,Pikes Peak International Raceway,1.0,paved track,34.0,21.0,21.0,Morgan Shepherd,Shepherd Motorsports (Morgan Shepherd),Ford,25.0,8490.0,transmission,0.0,61.0
+2002,5,Pikes Peak,Pikes Peak International Raceway,1.0,paved track,35.0,29.0,23.0,Phil Bonifield,Red Line Oil / Motor State Perf. (Tom Mazzuchi),Chevrolet,18.0,8465.0,engine,0.0,58.0
+2002,5,Pikes Peak,Pikes Peak International Raceway,1.0,paved track,36.0,36.0,73.0,Loni Richardson,Intensitee Custom Racewear / UTI (Joey Sonntag),Chevrolet,16.0,8440.0,ignition,0.0,55.0
+2002,6,Dover,Dover International Speedway,1.0,paved track,1.0,2.0,1.0,Ted Musgrave,Mopar Performance (Jim Smith),Dodge,200.0,49785.0,running,135.0,185.0
+2002,6,Dover,Dover International Speedway,1.0,paved track,2.0,9.0,18.0,Robert Pressley,Hamilton Racing (Bobby Hamilton Racing),Dodge,200.0,32875.0,running,0.0,170.0
+2002,6,Dover,Dover International Speedway,1.0,paved track,3.0,1.0,14.0,Rick Crawford,Circle Bar Motel & RV Park (Tom Mitchell),Ford,200.0,25665.0,running,39.0,170.0
+2002,6,Dover,Dover International Speedway,1.0,paved track,4.0,6.0,75.0,David Starr,Spears Manufacturing (Wayne Spears),Chevrolet,200.0,17950.0,running,0.0,160.0
+2002,6,Dover,Dover International Speedway,1.0,paved track,5.0,10.0,16.0,Mike Bliss,IWX Motor Freight / Knights Inn (Steve Coulter),Chevrolet,200.0,17225.0,running,0.0,155.0
+2002,6,Dover,Dover International Speedway,1.0,paved track,6.0,8.0,20.0,Coy Gibbs,MBNA (Joe Gibbs),Chevrolet,200.0,15825.0,running,0.0,150.0
+2002,6,Dover,Dover International Speedway,1.0,paved track,7.0,13.0,62.0,Brendan Gaughan,NAPA Auto Parts (Michael Gaughan),Dodge,200.0,16075.0,running,0.0,146.0
+2002,6,Dover,Dover International Speedway,1.0,paved track,8.0,27.0,3.0,"Tom Carey, Jr.",EJP / Oakwood Homes (Steve Prescott),Chevrolet,200.0,12475.0,running,0.0,142.0
+2002,6,Dover,Dover International Speedway,1.0,paved track,9.0,3.0,2.0,Jason Leffler,Team ASE / Carquest (Jim Smith),Dodge,199.0,14175.0,running,26.0,143.0
+2002,6,Dover,Dover International Speedway,1.0,paved track,10.0,4.0,29.0,Terry Cook,Power Stroke Diesel (Bob Keselowski),Ford,199.0,15275.0,running,0.0,134.0
+2002,6,Dover,Dover International Speedway,1.0,paved track,11.0,12.0,46.0,Dennis Setzer,Acxiom / Computer Associates (David Dollar),Chevrolet,199.0,13750.0,running,0.0,130.0
+2002,6,Dover,Dover International Speedway,1.0,paved track,12.0,22.0,8.0,Bill Lester,Dodge Motorsports (Bobby Hamilton Racing),Dodge,197.0,13465.0,running,0.0,127.0
+2002,6,Dover,Dover International Speedway,1.0,paved track,13.0,33.0,39.0,Steve Portenga,Roto-Rooter (Steve Portenga),Chevrolet,196.0,14865.0,running,0.0,124.0
+2002,6,Dover,Dover International Speedway,1.0,paved track,14.0,23.0,8.0,Bobby Dotter,Acme Markets (Gene Christensen),Chevrolet,196.0,13265.0,running,0.0,121.0
+2002,6,Dover,Dover International Speedway,1.0,paved track,15.0,18.0,15.0,Trent Owens,Dickies (Billy Ballew),Ford,196.0,13465.0,running,0.0,118.0
+2002,6,Dover,Dover International Speedway,1.0,paved track,16.0,20.0,5.0,Lance Hooper,Diamond Cut Jeans / Blair5.com (Rick Ware),Dodge,195.0,13065.0,running,0.0,115.0
+2002,6,Dover,Dover International Speedway,1.0,paved track,17.0,26.0,51.0,Michael Ritch,IHOP / Simply Gourmet / OOIDA (Rick Ware),Dodge,194.0,12965.0,running,0.0,112.0
+2002,6,Dover,Dover International Speedway,1.0,paved track,18.0,31.0,79.0,Jerry Hill,RDS Racing Engines (Rodney Smith),Dodge,192.0,12865.0,running,0.0,109.0
+2002,6,Dover,Dover International Speedway,1.0,paved track,19.0,5.0,60.0,Travis Kvapil,CAT Rental Stores (Mike Addington),Chevrolet,191.0,12765.0,running,0.0,106.0
+2002,6,Dover,Dover International Speedway,1.0,paved track,20.0,36.0,55.0,Tom Powers,University of Northwest Ohio (Tom Powers),Dodge,185.0,11665.0,running,0.0,103.0
+2002,6,Dover,Dover International Speedway,1.0,paved track,21.0,19.0,7.0,Jason Small,Sunbelt Rentals (Gene Christensen),Chevrolet,175.0,11315.0,running,0.0,100.0
+2002,6,Dover,Dover International Speedway,1.0,paved track,22.0,25.0,72.0,Randy MacDonald,Greenfield Truck Center (Doc MacDonald),Chevrolet,146.0,10215.0,crash,0.0,97.0
+2002,6,Dover,Dover International Speedway,1.0,paved track,23.0,24.0,43.0,Carlos Contreras,Hot Wheels (Petty Enterprises),Dodge,135.0,10115.0,crash,0.0,94.0
+2002,6,Dover,Dover International Speedway,1.0,paved track,24.0,35.0,68.0,Rodney Sawyers,R & J Racing (Rodney Sawyers),Dodge,115.0,10015.0,engine,0.0,91.0
+2002,6,Dover,Dover International Speedway,1.0,paved track,25.0,32.0,93.0,Larry Gunselman,Troxell Racing (Lonnie Troxell),Chevrolet,103.0,9915.0,engine,0.0,88.0
+2002,6,Dover,Dover International Speedway,1.0,paved track,26.0,16.0,85.0,Carl Long,Noopco Paint Remover (Thee Dixon),Dodge,99.0,9815.0,transmission,0.0,0.0
+2002,6,Dover,Dover International Speedway,1.0,paved track,27.0,17.0,88.0,Matt Crafton,Menards / Sealmaster (Duke Thorson),Chevrolet,96.0,9715.0,crash,0.0,82.0
+2002,6,Dover,Dover International Speedway,1.0,paved track,28.0,28.0,25.0,Ronnie Hornaday,Air Jamaica Vacations / Arctic Cat (Phil Bonifield),Chevrolet,78.0,9615.0,engine,0.0,79.0
+2002,6,Dover,Dover International Speedway,1.0,paved track,29.0,11.0,50.0,Jon Wood,Navy Racing (Jack Roush),Ford,78.0,9515.0,rear end,0.0,76.0
+2002,6,Dover,Dover International Speedway,1.0,paved track,30.0,15.0,4.0,Brian Rose,Perry Connection (Bobby Hamilton Racing),Dodge,49.0,9415.0,running,0.0,73.0
+2002,6,Dover,Dover International Speedway,1.0,paved track,31.0,29.0,0.0,Stan Boyd,Intensitee Custom Racewear / UTI (Larry Richardson),Chevrolet,46.0,9315.0,vibration,0.0,70.0
+2002,6,Dover,Dover International Speedway,1.0,paved track,32.0,21.0,21.0,Morgan Shepherd,Shepherd Motorsports (Morgan Shepherd),Ford,39.0,9265.0,clutch,0.0,67.0
+2002,6,Dover,Dover International Speedway,1.0,paved track,33.0,7.0,52.0,Ken Schrader,Federated Auto Parts (Ken Schrader),Chevrolet,37.0,9240.0,crash,0.0,64.0
+2002,6,Dover,Dover International Speedway,1.0,paved track,34.0,34.0,81.0,Angie Wilson,TotalRaceBabe.com (Rick Ware),Dodge,14.0,9165.0,clutch,0.0,61.0
+2002,6,Dover,Dover International Speedway,1.0,paved track,35.0,30.0,32.0,Jerry Miller,Auto Trim Design (Jerry Miller),Chevrolet,11.0,9140.0,vibration,0.0,58.0
+2002,6,Dover,Dover International Speedway,1.0,paved track,36.0,14.0,90.0,Lance Norick,Express Personnel Services (Ron Norick),Chevrolet,1.0,9115.0,crash,0.0,55.0
+2002,7,Fort Worth,Texas Motor Speedway,1.5,paved track,1.0,10.0,62.0,Brendan Gaughan,NAPA Auto Parts (Michael Gaughan),Dodge,167.0,63000.0,running,60.0,185.0
+2002,7,Fort Worth,Texas Motor Speedway,1.5,paved track,2.0,6.0,60.0,Travis Kvapil,CAT Rental Stores (Mike Addington),Chevrolet,167.0,44475.0,running,7.0,175.0
+2002,7,Fort Worth,Texas Motor Speedway,1.5,paved track,3.0,2.0,75.0,David Starr,Spears Manufacturing (Wayne Spears),Chevrolet,167.0,31550.0,running,0.0,165.0
+2002,7,Fort Worth,Texas Motor Speedway,1.5,paved track,4.0,9.0,14.0,Rick Crawford,Circle Bar Motel & RV Park (Tom Mitchell),Ford,167.0,21350.0,running,30.0,165.0
+2002,7,Fort Worth,Texas Motor Speedway,1.5,paved track,5.0,4.0,1.0,Ted Musgrave,Mopar Performance (Jim Smith),Dodge,167.0,15500.0,running,10.0,160.0
+2002,7,Fort Worth,Texas Motor Speedway,1.5,paved track,6.0,3.0,18.0,Robert Pressley,Hamilton Racing (Bobby Hamilton Racing),Dodge,167.0,15500.0,running,8.0,155.0
+2002,7,Fort Worth,Texas Motor Speedway,1.5,paved track,7.0,8.0,88.0,Matt Crafton,Menards / Sealmaster (Duke Thorson),Chevrolet,166.0,14400.0,running,0.0,146.0
+2002,7,Fort Worth,Texas Motor Speedway,1.5,paved track,8.0,5.0,20.0,Coy Gibbs,MBNA (Joe Gibbs),Chevrolet,166.0,13650.0,running,0.0,142.0
+2002,7,Fort Worth,Texas Motor Speedway,1.5,paved track,9.0,12.0,50.0,Jon Wood,Navy Racing (Jack Roush),Ford,166.0,13550.0,running,0.0,138.0
+2002,7,Fort Worth,Texas Motor Speedway,1.5,paved track,10.0,11.0,90.0,Lance Norick,Express Personnel Services (Ron Norick),Chevrolet,166.0,14750.0,running,0.0,134.0
+2002,7,Fort Worth,Texas Motor Speedway,1.5,paved track,11.0,7.0,8.0,Bill Lester,Dodge Motorsports (Bobby Hamilton Racing),Dodge,166.0,13350.0,running,0.0,130.0
+2002,7,Fort Worth,Texas Motor Speedway,1.5,paved track,12.0,16.0,16.0,Mike Bliss,IWX Motor Freight / Knights Inn (Steve Coulter),Chevrolet,166.0,13165.0,running,7.0,132.0
+2002,7,Fort Worth,Texas Motor Speedway,1.5,paved track,13.0,18.0,29.0,Terry Cook,Power Stroke Diesel (Bob Keselowski),Ford,166.0,13065.0,running,0.0,124.0
+2002,7,Fort Worth,Texas Motor Speedway,1.5,paved track,14.0,13.0,46.0,Dennis Setzer,Acxiom / Computer Associates (David Dollar),Chevrolet,165.0,12965.0,running,0.0,121.0
+2002,7,Fort Worth,Texas Motor Speedway,1.5,paved track,15.0,15.0,5.0,Lance Hooper,Diamond Cut Jeans / Blair5.com (Rick Ware),Dodge,164.0,13165.0,running,0.0,118.0
+2002,7,Fort Worth,Texas Motor Speedway,1.5,paved track,16.0,24.0,89.0,Stan Boyd,Bars Leaks / O'Reilly (James Liguori),Chevrolet,164.0,10515.0,running,0.0,115.0
+2002,7,Fort Worth,Texas Motor Speedway,1.5,paved track,17.0,19.0,8.0,Bobby Dotter,Albertson's (Gene Christensen),Chevrolet,164.0,12665.0,running,0.0,112.0
+2002,7,Fort Worth,Texas Motor Speedway,1.5,paved track,18.0,22.0,43.0,Carlos Contreras,Hot Wheels (Petty Enterprises),Dodge,164.0,12565.0,running,0.0,109.0
+2002,7,Fort Worth,Texas Motor Speedway,1.5,paved track,19.0,31.0,11.0,Aaron Daniel,Athan Tax & Accounting (Steve Chick),Ford,162.0,11715.0,running,0.0,0.0
+2002,7,Fort Worth,Texas Motor Speedway,1.5,paved track,20.0,26.0,79.0,Jerry Hill,RDS Racing Engines (Rodney Smith),Dodge,162.0,12365.0,running,0.0,103.0
+2002,7,Fort Worth,Texas Motor Speedway,1.5,paved track,21.0,33.0,55.0,Tom Powers,University of Northwest Ohio (Tom Powers),Dodge,162.0,11265.0,running,0.0,100.0
+2002,7,Fort Worth,Texas Motor Speedway,1.5,paved track,22.0,34.0,0.0,Jason White,Intensitee Custom Racewear / UTI (Larry Richardson),Chevrolet,160.0,9915.0,running,0.0,97.0
+2002,7,Fort Worth,Texas Motor Speedway,1.5,paved track,23.0,23.0,72.0,Randy MacDonald,Greenfield Truck Center (Doc MacDonald),Chevrolet,160.0,10815.0,running,0.0,94.0
+2002,7,Fort Worth,Texas Motor Speedway,1.5,paved track,24.0,17.0,51.0,Michael Ritch,OOIDA (Rick Ware),Dodge,157.0,9715.0,running,0.0,91.0
+2002,7,Fort Worth,Texas Motor Speedway,1.5,paved track,25.0,21.0,7.0,Jason Small,Sunbelt Rentals (Gene Christensen),Chevrolet,139.0,9615.0,engine,0.0,88.0
+2002,7,Fort Worth,Texas Motor Speedway,1.5,paved track,26.0,25.0,15.0,Trent Owens,Dickies (Billy Ballew),Ford,111.0,9515.0,engine,0.0,85.0
+2002,7,Fort Worth,Texas Motor Speedway,1.5,paved track,27.0,1.0,2.0,Jason Leffler,Team ASE / Carquest (Jim Smith),Dodge,106.0,10715.0,crash,45.0,87.0
+2002,7,Fort Worth,Texas Motor Speedway,1.5,paved track,28.0,28.0,39.0,Steve Portenga,Roto-Rooter (Steve Portenga),Chevrolet,70.0,9315.0,crash,0.0,79.0
+2002,7,Fort Worth,Texas Motor Speedway,1.5,paved track,29.0,29.0,81.0,Donnie Neuenberger,IHOP / Simply Gourmet (Rick Ware),Dodge,60.0,9215.0,crash,0.0,76.0
+2002,7,Fort Worth,Texas Motor Speedway,1.5,paved track,30.0,32.0,73.0,Frog Hall,Intensitee Custom Racewear / UTI (Joey Sonntag),Chevrolet,30.0,9115.0,oil pressure,0.0,73.0
+2002,7,Fort Worth,Texas Motor Speedway,1.5,paved track,31.0,20.0,21.0,Morgan Shepherd,Shepherd Motorsports (Morgan Shepherd),Ford,11.0,8990.0,ignition,0.0,70.0
+2002,7,Fort Worth,Texas Motor Speedway,1.5,paved track,32.0,27.0,93.0,Randy Briggs,Amerisuites (Lonnie Troxell),Chevrolet,11.0,8890.0,vibration,0.0,67.0
+2002,7,Fort Worth,Texas Motor Speedway,1.5,paved track,33.0,35.0,38.0,Wayne Edwards,Roto-Rooter (Steve Portenga),Chevrolet,11.0,8790.0,vibration,0.0,64.0
+2002,7,Fort Worth,Texas Motor Speedway,1.5,paved track,34.0,30.0,86.0,Phil Bonifield,Red Line Oil / Coverall Carports (Phil Bonifield),Chevrolet,8.0,8765.0,engine,0.0,61.0
+2002,7,Fort Worth,Texas Motor Speedway,1.5,paved track,35.0,14.0,4.0,Brian Rose,Perry Connection (Bobby Hamilton Racing),Dodge,3.0,8740.0,crash,0.0,58.0
+2002,8,Memphis,Memphis Motorsports Park,0.75,paved track,1.0,3.0,60.0,Travis Kvapil,CAT Rental Stores (Mike Addington),Chevrolet,200.0,46575.0,running,117.0,185.0
+2002,8,Memphis,Memphis Motorsports Park,0.75,paved track,2.0,8.0,29.0,Terry Cook,Power Stroke Diesel (Bob Keselowski),Ford,200.0,29975.0,running,0.0,170.0
+2002,8,Memphis,Memphis Motorsports Park,0.75,paved track,3.0,6.0,1.0,Ted Musgrave,Mopar Performance (Jim Smith),Dodge,200.0,22150.0,running,0.0,165.0
+2002,8,Memphis,Memphis Motorsports Park,0.75,paved track,4.0,1.0,2.0,Jason Leffler,Team ASE / Carquest (Jim Smith),Dodge,200.0,17325.0,running,11.0,165.0
+2002,8,Memphis,Memphis Motorsports Park,0.75,paved track,5.0,2.0,46.0,Dennis Setzer,Acxiom / Computer Associates (David Dollar),Chevrolet,200.0,14925.0,running,41.0,160.0
+2002,8,Memphis,Memphis Motorsports Park,0.75,paved track,6.0,10.0,15.0,Rich Bickle,Dickies (Billy Ballew),Ford,200.0,11975.0,running,0.0,150.0
+2002,8,Memphis,Memphis Motorsports Park,0.75,paved track,7.0,9.0,75.0,David Starr,Spears Manufacturing (Wayne Spears),Chevrolet,200.0,11675.0,running,0.0,146.0
+2002,8,Memphis,Memphis Motorsports Park,0.75,paved track,8.0,21.0,20.0,Coy Gibbs,MBNA (Joe Gibbs),Chevrolet,200.0,11650.0,running,0.0,142.0
+2002,8,Memphis,Memphis Motorsports Park,0.75,paved track,9.0,4.0,14.0,Rick Crawford,Circle Bar Motel & RV Park (Tom Mitchell),Ford,200.0,11300.0,running,8.0,143.0
+2002,8,Memphis,Memphis Motorsports Park,0.75,paved track,10.0,13.0,4.0,Brian Rose,Perry Connection (Bobby Hamilton Racing),Dodge,200.0,12100.0,running,23.0,139.0
+2002,8,Memphis,Memphis Motorsports Park,0.75,paved track,11.0,19.0,50.0,Jon Wood,Navy Racing (Jack Roush),Ford,200.0,11500.0,running,0.0,130.0
+2002,8,Memphis,Memphis Motorsports Park,0.75,paved track,12.0,7.0,18.0,Robert Pressley,Hamilton Racing (Bobby Hamilton Racing),Dodge,200.0,10865.0,running,0.0,127.0
+2002,8,Memphis,Memphis Motorsports Park,0.75,paved track,13.0,11.0,62.0,Brendan Gaughan,NAPA Auto Parts (Michael Gaughan),Dodge,200.0,11815.0,running,0.0,124.0
+2002,8,Memphis,Memphis Motorsports Park,0.75,paved track,14.0,18.0,90.0,Lance Norick,Express Personnel Services (Ron Norick),Chevrolet,200.0,10765.0,running,0.0,121.0
+2002,8,Memphis,Memphis Motorsports Park,0.75,paved track,15.0,22.0,43.0,Carlos Contreras,Hot Wheels (Petty Enterprises),Dodge,200.0,11015.0,running,0.0,118.0
+2002,8,Memphis,Memphis Motorsports Park,0.75,paved track,16.0,20.0,5.0,Lance Hooper,Diamond Cut Jeans / Blair5.com (Rick Ware),Dodge,200.0,10665.0,running,0.0,115.0
+2002,8,Memphis,Memphis Motorsports Park,0.75,paved track,17.0,31.0,8.0,Bill Lester,Dodge Motorsports (Bobby Hamilton Racing),Dodge,200.0,12065.0,running,0.0,112.0
+2002,8,Memphis,Memphis Motorsports Park,0.75,paved track,18.0,5.0,16.0,Mike Bliss,IWX Motor Freight / Knights Inn (Steve Coulter),Chevrolet,200.0,10465.0,running,0.0,109.0
+2002,8,Memphis,Memphis Motorsports Park,0.75,paved track,19.0,27.0,8.0,Bobby Dotter,People Against Drugs (Gene Christensen),Chevrolet,200.0,9190.0,running,0.0,106.0
+2002,8,Memphis,Memphis Motorsports Park,0.75,paved track,20.0,12.0,93.0,Randy MacDonald,Pennzoil / Fairlee (Lonnie Troxell),Chevrolet,200.0,9415.0,running,0.0,103.0
+2002,8,Memphis,Memphis Motorsports Park,0.75,paved track,21.0,14.0,88.0,Matt Crafton,Menards / Sealmaster (Duke Thorson),Chevrolet,199.0,8140.0,running,0.0,100.0
+2002,8,Memphis,Memphis Motorsports Park,0.75,paved track,22.0,24.0,54.0,Brian Sockwell,Sockwell Motorsports (Dennis Sockwell),Chevrolet,199.0,8115.0,running,0.0,97.0
+2002,8,Memphis,Memphis Motorsports Park,0.75,paved track,23.0,16.0,63.0,Carl Edwards,Mittler Brothers Machine & Tool (Mike Mittler),Ford,198.0,8090.0,running,0.0,94.0
+2002,8,Memphis,Memphis Motorsports Park,0.75,paved track,24.0,29.0,68.0,Rodney Sawyers,R & J Racing (Rodney Sawyers),Dodge,196.0,8065.0,running,0.0,91.0
+2002,8,Memphis,Memphis Motorsports Park,0.75,paved track,25.0,30.0,79.0,Jerry Hill,RDS Racing Engines (Rodney Smith),Dodge,196.0,8015.0,running,0.0,88.0
+2002,8,Memphis,Memphis Motorsports Park,0.75,paved track,26.0,26.0,51.0,Ryan Hemphill,OOIDA (Rick Ware),Dodge,196.0,7990.0,running,0.0,85.0
+2002,8,Memphis,Memphis Motorsports Park,0.75,paved track,27.0,33.0,39.0,Steve Portenga,Roto-Rooter (Steve Portenga),Chevrolet,194.0,7965.0,running,0.0,82.0
+2002,8,Memphis,Memphis Motorsports Park,0.75,paved track,28.0,35.0,55.0,Tom Powers,University of Northwest Ohio (Tom Powers),Dodge,193.0,7940.0,running,0.0,79.0
+2002,8,Memphis,Memphis Motorsports Park,0.75,paved track,29.0,34.0,72.0,Teri MacDonald,Greenfield Truck Center (Doc MacDonald),Chevrolet,191.0,7915.0,running,0.0,76.0
+2002,8,Memphis,Memphis Motorsports Park,0.75,paved track,30.0,36.0,86.0,Dana White,Coverall Carports / Port-a-Fence (Phil Bonifield),Chevrolet,189.0,7890.0,running,0.0,73.0
+2002,8,Memphis,Memphis Motorsports Park,0.75,paved track,31.0,17.0,84.0,Jamey Caudill,"Southern Piping Co. / I ""Dig"" Pigs (Robert Long)",Ford,153.0,7865.0,crash,0.0,70.0
+2002,8,Memphis,Memphis Motorsports Park,0.75,paved track,32.0,23.0,87.0,Chad Chaffin,4 Lane Auto Salvage (Neil Chaffin),Ford,113.0,7840.0,header,0.0,67.0
+2002,8,Memphis,Memphis Motorsports Park,0.75,paved track,33.0,15.0,7.0,Jason Small,Sunbelt Rentals (Gene Christensen),Chevrolet,48.0,7815.0,crash,0.0,64.0
+2002,8,Memphis,Memphis Motorsports Park,0.75,paved track,34.0,32.0,23.0,Phil Bonifield,Red Line Oil (Tom Mazzuchi),Chevrolet,28.0,7790.0,brakes,0.0,61.0
+2002,8,Memphis,Memphis Motorsports Park,0.75,paved track,35.0,25.0,21.0,Morgan Shepherd,Shepherd Motorsports (Morgan Shepherd),Ford,9.0,7765.0,engine,0.0,58.0
+2002,8,Memphis,Memphis Motorsports Park,0.75,paved track,36.0,28.0,81.0,Michael Ritch,Ware Racing Enterprises (Rick Ware),Dodge,9.0,7740.0,engine,0.0,55.0
+2002,9,Milwaukee,Milwaukee Mile,1.0,paved track,1.0,1.0,29.0,Terry Cook,Power Stroke Diesel (Bob Keselowski),Ford,203.0,48960.0,running,131.0,185.0
+2002,9,Milwaukee,Milwaukee Mile,1.0,paved track,2.0,7.0,2.0,Jason Leffler,Team ASE / Carquest (Jim Smith),Dodge,203.0,29150.0,running,43.0,175.0
+2002,9,Milwaukee,Milwaukee Mile,1.0,paved track,3.0,3.0,20.0,Coy Gibbs,MBNA (Joe Gibbs),Chevrolet,203.0,22615.0,running,4.0,170.0
+2002,9,Milwaukee,Milwaukee Mile,1.0,paved track,4.0,10.0,62.0,Brendan Gaughan,NAPA Auto Parts (Michael Gaughan),Dodge,203.0,15125.0,running,4.0,165.0
+2002,9,Milwaukee,Milwaukee Mile,1.0,paved track,5.0,2.0,1.0,Ted Musgrave,Mopar Performance (Jim Smith),Dodge,203.0,13350.0,running,0.0,155.0
+2002,9,Milwaukee,Milwaukee Mile,1.0,paved track,6.0,9.0,75.0,David Starr,Spears Manufacturing (Wayne Spears),Chevrolet,203.0,12650.0,running,0.0,150.0
+2002,9,Milwaukee,Milwaukee Mile,1.0,paved track,7.0,8.0,18.0,Robert Pressley,Hamilton Racing (Bobby Hamilton Racing),Dodge,203.0,11775.0,running,0.0,146.0
+2002,9,Milwaukee,Milwaukee Mile,1.0,paved track,8.0,5.0,16.0,Mike Bliss,IWX / Hi Performance Racing Cards (Steve Coulter),Chevrolet,203.0,11075.0,running,21.0,147.0
+2002,9,Milwaukee,Milwaukee Mile,1.0,paved track,9.0,13.0,50.0,Jon Wood,Navy Racing (Jack Roush),Ford,203.0,11200.0,running,0.0,138.0
+2002,9,Milwaukee,Milwaukee Mile,1.0,paved track,10.0,4.0,60.0,Travis Kvapil,CAT Rental Stores (Mike Addington),Chevrolet,202.0,12300.0,running,0.0,134.0
+2002,9,Milwaukee,Milwaukee Mile,1.0,paved track,11.0,23.0,15.0,Rich Bickle,Dickies (Billy Ballew),Ford,202.0,10400.0,running,0.0,130.0
+2002,9,Milwaukee,Milwaukee Mile,1.0,paved track,12.0,19.0,8.0,Bobby Dotter,People Against Drugs (Gene Christensen),Chevrolet,202.0,10215.0,running,0.0,127.0
+2002,9,Milwaukee,Milwaukee Mile,1.0,paved track,13.0,17.0,90.0,Lance Norick,Express Personnel Services (Ron Norick),Chevrolet,202.0,10115.0,running,0.0,124.0
+2002,9,Milwaukee,Milwaukee Mile,1.0,paved track,14.0,6.0,14.0,Rick Crawford,Milwaukee Electric Tool (Tom Mitchell),Ford,201.0,10015.0,running,0.0,121.0
+2002,9,Milwaukee,Milwaukee Mile,1.0,paved track,15.0,11.0,46.0,Dennis Setzer,Acxiom / Computer Associates (David Dollar),Chevrolet,201.0,10215.0,running,0.0,118.0
+2002,9,Milwaukee,Milwaukee Mile,1.0,paved track,16.0,33.0,51.0,Ryan Hemphill,OOIDA (Rick Ware),Dodge,201.0,11315.0,running,0.0,115.0
+2002,9,Milwaukee,Milwaukee Mile,1.0,paved track,17.0,28.0,39.0,Steve Portenga,Roto-Rooter (Steve Portenga),Chevrolet,200.0,9765.0,running,0.0,112.0
+2002,9,Milwaukee,Milwaukee Mile,1.0,paved track,18.0,16.0,8.0,Bill Lester,Dodge Motorsports (Bobby Hamilton Racing),Dodge,200.0,9665.0,running,0.0,109.0
+2002,9,Milwaukee,Milwaukee Mile,1.0,paved track,19.0,12.0,4.0,Brian Rose,Perry Connection (Bobby Hamilton Racing),Dodge,200.0,8365.0,running,0.0,106.0
+2002,9,Milwaukee,Milwaukee Mile,1.0,paved track,20.0,18.0,72.0,Randy MacDonald,businessdriver.com (Doc MacDonald),Chevrolet,199.0,8565.0,running,0.0,103.0
+2002,9,Milwaukee,Milwaukee Mile,1.0,paved track,21.0,32.0,79.0,Jerry Hill,RDS Racing Engines (Rodney Smith),Dodge,198.0,7265.0,running,0.0,100.0
+2002,9,Milwaukee,Milwaukee Mile,1.0,paved track,22.0,22.0,43.0,Carlos Contreras,Hot Wheels (Petty Enterprises),Dodge,198.0,7215.0,running,0.0,97.0
+2002,9,Milwaukee,Milwaukee Mile,1.0,paved track,23.0,31.0,55.0,Tom Powers,University of Northwest Ohio (Tom Powers),Dodge,196.0,7165.0,running,0.0,94.0
+2002,9,Milwaukee,Milwaukee Mile,1.0,paved track,24.0,24.0,3.0,"Tom Carey, Jr.",EJP Inc. (Steve Prescott),Chevrolet,167.0,7140.0,engine,0.0,91.0
+2002,9,Milwaukee,Milwaukee Mile,1.0,paved track,25.0,35.0,86.0,Dana White,Coverall Carports / Port-a-Fence (Phil Bonifield),Chevrolet,149.0,7115.0,engine,0.0,88.0
+2002,9,Milwaukee,Milwaukee Mile,1.0,paved track,26.0,20.0,7.0,Jason Small,Sunbelt Rentals (Gene Christensen),Chevrolet,146.0,7090.0,engine,0.0,85.0
+2002,9,Milwaukee,Milwaukee Mile,1.0,paved track,27.0,30.0,68.0,Rodney Sawyers,R & J Racing (Rodney Sawyers),Dodge,117.0,7065.0,engine,0.0,82.0
+2002,9,Milwaukee,Milwaukee Mile,1.0,paved track,28.0,15.0,63.0,Carl Edwards,Mittler Brothers / In Memory of Jack Buck (Mike Mittler),Ford,116.0,7040.0,engine,0.0,79.0
+2002,9,Milwaukee,Milwaukee Mile,1.0,paved track,29.0,14.0,88.0,Matt Crafton,Colorpave / Menards (Duke Thorson),Chevrolet,110.0,7015.0,engine,0.0,76.0
+2002,9,Milwaukee,Milwaukee Mile,1.0,paved track,30.0,27.0,5.0,Lance Hooper,Diamond Cut Jeans / Blair5.com (Rick Ware),Dodge,51.0,6990.0,engine,0.0,73.0
+2002,9,Milwaukee,Milwaukee Mile,1.0,paved track,31.0,29.0,23.0,Phil Bonifield,Red Line Synthetic Oil (Tom Mazzuchi),Chevrolet,42.0,6965.0,transmission,0.0,70.0
+2002,9,Milwaukee,Milwaukee Mile,1.0,paved track,32.0,26.0,34.0,Eric Jones,Safelite Auto Glass (Ron Jones),Chevrolet,28.0,6940.0,electrical,0.0,67.0
+2002,9,Milwaukee,Milwaukee Mile,1.0,paved track,33.0,25.0,52.0,Ken Schrader,Federated Auto Parts (Ken Schrader),Chevrolet,27.0,6915.0,brakes,0.0,64.0
+2002,9,Milwaukee,Milwaukee Mile,1.0,paved track,34.0,21.0,93.0,Michael Dokken,Troxell Racing (Lonnie Troxell),Chevrolet,15.0,6890.0,clutch,0.0,61.0
+2002,9,Milwaukee,Milwaukee Mile,1.0,paved track,35.0,36.0,73.0,Frog Hall,Reward / Kenshire Ministries (Joey Sonntag),Chevrolet,12.0,6865.0,electrical,0.0,58.0
+2002,9,Milwaukee,Milwaukee Mile,1.0,paved track,36.0,34.0,81.0,Jason Thom,Ware Racing Enterprises (Rick Ware),Dodge,3.0,6840.0,vibration,0.0,55.0
+2002,10,Kansas,Kansas Speedway,1.5,paved track,1.0,4.0,16.0,Mike Bliss,IWX Motor Freight / Knights Inn (Steve Coulter),Chevrolet,167.0,46350.0,running,14.0,180.0
+2002,10,Kansas,Kansas Speedway,1.5,paved track,2.0,9.0,46.0,Dennis Setzer,Acxiom / Computer Associates (David Dollar),Chevrolet,167.0,33100.0,running,0.0,170.0
+2002,10,Kansas,Kansas Speedway,1.5,paved track,3.0,11.0,20.0,Coy Gibbs,MBNA (Joe Gibbs),Chevrolet,167.0,22440.0,running,0.0,165.0
+2002,10,Kansas,Kansas Speedway,1.5,paved track,4.0,1.0,2.0,Jason Leffler,Team ASE / Carquest (Jim Smith),Dodge,167.0,15950.0,running,14.0,165.0
+2002,10,Kansas,Kansas Speedway,1.5,paved track,5.0,2.0,1.0,Ted Musgrave,Mopar Performance (Jim Smith),Dodge,167.0,13500.0,running,11.0,160.0
+2002,10,Kansas,Kansas Speedway,1.5,paved track,6.0,8.0,29.0,Terry Cook,Power Stroke Diesel (Bob Keselowski),Ford,167.0,13750.0,running,0.0,150.0
+2002,10,Kansas,Kansas Speedway,1.5,paved track,7.0,7.0,18.0,Robert Pressley,Hamilton Racing (Bobby Hamilton Racing),Dodge,167.0,13125.0,running,1.0,151.0
+2002,10,Kansas,Kansas Speedway,1.5,paved track,8.0,15.0,63.0,Carl Edwards,Mittler Brothers / Blazin' Pits (Mike Mittler),Ford,167.0,11725.0,running,0.0,142.0
+2002,10,Kansas,Kansas Speedway,1.5,paved track,9.0,17.0,50.0,Jon Wood,Navy Racing (Jack Roush),Ford,167.0,12500.0,running,0.0,138.0
+2002,10,Kansas,Kansas Speedway,1.5,paved track,10.0,13.0,88.0,Matt Crafton,Menards / Sealmaster (Duke Thorson),Chevrolet,166.0,13750.0,running,0.0,134.0
+2002,10,Kansas,Kansas Speedway,1.5,paved track,11.0,21.0,39.0,Steve Portenga,Roto-Rooter (Steve Portenga),Chevrolet,166.0,12400.0,running,0.0,130.0
+2002,10,Kansas,Kansas Speedway,1.5,paved track,12.0,5.0,14.0,Rick Crawford,Circle Bar Motel & RV Park (Tom Mitchell),Ford,165.0,14265.0,rear end,127.0,137.0
+2002,10,Kansas,Kansas Speedway,1.5,paved track,13.0,19.0,15.0,Rich Bickle,Dickies (Billy Ballew),Ford,165.0,12190.0,running,0.0,124.0
+2002,10,Kansas,Kansas Speedway,1.5,paved track,14.0,30.0,58.0,Chris Horn,Hornengines.com (Fred Horn),Chevrolet,165.0,9890.0,running,0.0,121.0
+2002,10,Kansas,Kansas Speedway,1.5,paved track,15.0,33.0,8.0,Bobby Dotter,People Against Drugs (Gene Christensen),Chevrolet,165.0,13890.0,running,0.0,118.0
+2002,10,Kansas,Kansas Speedway,1.5,paved track,16.0,20.0,43.0,Carlos Contreras,Hot Wheels (Petty Enterprises),Dodge,164.0,12015.0,running,0.0,115.0
+2002,10,Kansas,Kansas Speedway,1.5,paved track,17.0,26.0,34.0,Eric Jones,Safelite Auto Glass (Ron Jones),Chevrolet,164.0,9690.0,running,0.0,112.0
+2002,10,Kansas,Kansas Speedway,1.5,paved track,18.0,32.0,72.0,Randy MacDonald,businessdriver.com (Doc MacDonald),Chevrolet,163.0,11890.0,running,0.0,109.0
+2002,10,Kansas,Kansas Speedway,1.5,paved track,19.0,27.0,79.0,Jerry Hill,RDS Racing Engines (Rodney Smith),Dodge,161.0,11840.0,running,0.0,106.0
+2002,10,Kansas,Kansas Speedway,1.5,paved track,20.0,35.0,55.0,Tom Powers,University of Northwest Ohio (Tom Powers),Dodge,160.0,12040.0,running,0.0,103.0
+2002,10,Kansas,Kansas Speedway,1.5,paved track,21.0,16.0,4.0,Brian Rose,Perry Connection (Bobby Hamilton Racing),Dodge,157.0,10515.0,crash,0.0,100.0
+2002,10,Kansas,Kansas Speedway,1.5,paved track,22.0,12.0,90.0,Lance Norick,Express Personnel Services (Ron Norick),Chevrolet,156.0,10490.0,engine,0.0,97.0
+2002,10,Kansas,Kansas Speedway,1.5,paved track,23.0,36.0,93.0,Randy Briggs,Extreme Grafix (Lonnie Troxell),Ford,153.0,11465.0,running,0.0,94.0
+2002,10,Kansas,Kansas Speedway,1.5,paved track,24.0,6.0,75.0,David Starr,Spears Manufacturing (Wayne Spears),Chevrolet,142.0,9440.0,engine,0.0,91.0
+2002,10,Kansas,Kansas Speedway,1.5,paved track,25.0,10.0,60.0,Travis Kvapil,CAT Rental Stores (Mike Addington),Chevrolet,136.0,9415.0,running,0.0,88.0
+2002,10,Kansas,Kansas Speedway,1.5,paved track,26.0,24.0,11.0,Aaron Daniel,NASCART / Cummins Tools (Steve Chick),Ford,132.0,9390.0,running,0.0,85.0
+2002,10,Kansas,Kansas Speedway,1.5,paved track,27.0,14.0,62.0,Brendan Gaughan,NAPA Auto Parts (Michael Gaughan),Dodge,112.0,9365.0,crash,0.0,82.0
+2002,10,Kansas,Kansas Speedway,1.5,paved track,28.0,31.0,27.0,Doug Keller,Price Chopper (Doug Keller),Chevrolet,108.0,9340.0,transmission,0.0,79.0
+2002,10,Kansas,Kansas Speedway,1.5,paved track,29.0,3.0,8.0,Bill Lester,Dodge Motorsports (Bobby Hamilton Racing),Dodge,87.0,9295.0,tire,0.0,76.0
+2002,10,Kansas,Kansas Speedway,1.5,paved track,30.0,34.0,7.0,Jason Small,Sunbelt Rentals (Gene Christensen),Chevrolet,28.0,9265.0,vibration,0.0,73.0
+2002,10,Kansas,Kansas Speedway,1.5,paved track,31.0,28.0,23.0,Phil Bonifield,Red Line Synthetic Oil (Tom Mazzuchi),Chevrolet,19.0,9240.0,engine,0.0,70.0
+2002,10,Kansas,Kansas Speedway,1.5,paved track,32.0,23.0,81.0,Morgan Shepherd,Ware Racing Enterprises (Rick Ware),Dodge,16.0,9215.0,handling,0.0,67.0
+2002,10,Kansas,Kansas Speedway,1.5,paved track,33.0,22.0,51.0,Donny Morelock,OOIDA (Rick Ware),Dodge,14.0,9195.0,engine,0.0,64.0
+2002,10,Kansas,Kansas Speedway,1.5,paved track,34.0,18.0,5.0,Lance Hooper,Diamond Cut Jeans / Blair5.com (Rick Ware),Dodge,6.0,9165.0,engine,0.0,61.0
+2002,10,Kansas,Kansas Speedway,1.5,paved track,35.0,29.0,89.0,Stan Boyd,Engineered Victories (James Liguori),Chevrolet,4.0,9140.0,electrical,0.0,58.0
+2002,10,Kansas,Kansas Speedway,1.5,paved track,36.0,25.0,86.0,Wayne Edwards,Coverall Carports / Port-a-Fence (Phil Bonifield),Chevrolet,3.0,9115.0,electrical,0.0,55.0
+2002,11,Kentucky,Kentucky Speedway,1.5,paved track,1.0,2.0,16.0,Mike Bliss,IWX Motor Freight / Knights Inn (Steve Coulter),Chevrolet,150.0,75800.0,running,94.0,185.0
+2002,11,Kentucky,Kentucky Speedway,1.5,paved track,2.0,11.0,46.0,Dennis Setzer,Acxiom / Computer Associates (David Dollar),Chevrolet,150.0,52500.0,running,18.0,175.0
+2002,11,Kentucky,Kentucky Speedway,1.5,paved track,3.0,13.0,18.0,Robert Pressley,Hamilton Racing (Bobby Hamilton Racing),Dodge,150.0,37875.0,running,1.0,170.0
+2002,11,Kentucky,Kentucky Speedway,1.5,paved track,4.0,12.0,14.0,Rick Crawford,Circle Bar Motel & RV Park (Tom Mitchell),Ford,150.0,26950.0,running,6.0,165.0
+2002,11,Kentucky,Kentucky Speedway,1.5,paved track,5.0,1.0,2.0,Jason Leffler,Team ASE / Carquest (Jim Smith),Dodge,150.0,23450.0,running,20.0,160.0
+2002,11,Kentucky,Kentucky Speedway,1.5,paved track,6.0,4.0,29.0,Terry Cook,Power Stroke Diesel (Bob Keselowski),Ford,150.0,19300.0,running,1.0,155.0
+2002,11,Kentucky,Kentucky Speedway,1.5,paved track,7.0,7.0,20.0,Coy Gibbs,MBNA (Joe Gibbs),Chevrolet,150.0,17825.0,running,10.0,151.0
+2002,11,Kentucky,Kentucky Speedway,1.5,paved track,8.0,6.0,75.0,David Starr,Spears Manufacturing (Wayne Spears),Chevrolet,150.0,16825.0,running,0.0,142.0
+2002,11,Kentucky,Kentucky Speedway,1.5,paved track,9.0,14.0,1.0,Ted Musgrave,Mopar Performance (Jim Smith),Dodge,149.0,15825.0,running,0.0,138.0
+2002,11,Kentucky,Kentucky Speedway,1.5,paved track,10.0,18.0,39.0,Steve Portenga,Roto-Rooter (Steve Portenga),Chevrolet,149.0,16525.0,running,0.0,134.0
+2002,11,Kentucky,Kentucky Speedway,1.5,paved track,11.0,9.0,62.0,Brendan Gaughan,NAPA Auto Parts (Michael Gaughan),Dodge,149.0,16125.0,running,0.0,130.0
+2002,11,Kentucky,Kentucky Speedway,1.5,paved track,12.0,15.0,90.0,Lance Norick,Express Personnel Services (Ron Norick),Chevrolet,149.0,14940.0,running,0.0,127.0
+2002,11,Kentucky,Kentucky Speedway,1.5,paved track,13.0,23.0,50.0,Jon Wood,Navy Racing (Jack Roush),Ford,149.0,14840.0,running,0.0,124.0
+2002,11,Kentucky,Kentucky Speedway,1.5,paved track,14.0,3.0,8.0,Bill Lester,Dodge Motorsports (Bobby Hamilton Racing),Dodge,149.0,14740.0,running,0.0,121.0
+2002,11,Kentucky,Kentucky Speedway,1.5,paved track,15.0,22.0,15.0,Rich Bickle,Dickies (Billy Ballew),Ford,148.0,14940.0,running,0.0,118.0
+2002,11,Kentucky,Kentucky Speedway,1.5,paved track,16.0,16.0,60.0,Travis Kvapil,CAT Rental Stores (Mike Addington),Chevrolet,148.0,14440.0,running,0.0,115.0
+2002,11,Kentucky,Kentucky Speedway,1.5,paved track,17.0,10.0,88.0,Matt Crafton,Menards / Sealmaster (Duke Thorson),Chevrolet,148.0,14340.0,running,0.0,112.0
+2002,11,Kentucky,Kentucky Speedway,1.5,paved track,18.0,8.0,63.0,Carl Edwards,Mittler Brothers / Blazin' Pits (Mike Mittler),Ford,147.0,13240.0,running,0.0,109.0
+2002,11,Kentucky,Kentucky Speedway,1.5,paved track,19.0,21.0,5.0,Lance Hooper,Diamond Cut Jeans / Blair5.com (Rick Ware),Dodge,147.0,12890.0,running,0.0,106.0
+2002,11,Kentucky,Kentucky Speedway,1.5,paved track,20.0,31.0,79.0,Jerry Hill,RDS Racing Engines (Rodney Smith),Dodge,147.0,14340.0,running,0.0,103.0
+2002,11,Kentucky,Kentucky Speedway,1.5,paved track,21.0,28.0,27.0,Doug Keller,Keller Motorsports (Doug Keller),Chevrolet,146.0,11790.0,running,0.0,100.0
+2002,11,Kentucky,Kentucky Speedway,1.5,paved track,22.0,20.0,43.0,Carlos Contreras,Hot Wheels (Petty Enterprises),Dodge,145.0,12990.0,running,0.0,97.0
+2002,11,Kentucky,Kentucky Speedway,1.5,paved track,23.0,33.0,72.0,Randy MacDonald,U.S. Security (Doc MacDonald),Chevrolet,145.0,11690.0,running,0.0,94.0
+2002,11,Kentucky,Kentucky Speedway,1.5,paved track,24.0,19.0,4.0,Brian Rose,Perry Connection (Bobby Hamilton Racing),Dodge,144.0,11640.0,running,0.0,91.0
+2002,11,Kentucky,Kentucky Speedway,1.5,paved track,25.0,29.0,11.0,Aaron Daniel,Jensen Enterprises (Steve Chick),Ford,143.0,11590.0,running,0.0,88.0
+2002,11,Kentucky,Kentucky Speedway,1.5,paved track,26.0,35.0,93.0,Randy Briggs,Clear Mountain Natural Spring Water (Lonnie Troxell),Ford,141.0,11540.0,running,0.0,85.0
+2002,11,Kentucky,Kentucky Speedway,1.5,paved track,27.0,24.0,8.0,Bobby Dotter,People Against Drugs (Gene Christensen),Chevrolet,89.0,11490.0,steering,0.0,82.0
+2002,11,Kentucky,Kentucky Speedway,1.5,paved track,28.0,27.0,89.0,Stan Boyd,Engineered Victories (James Liguori),Chevrolet,80.0,11390.0,vibration,0.0,79.0
+2002,11,Kentucky,Kentucky Speedway,1.5,paved track,29.0,26.0,7.0,Jason Small,Sunbelt Rentals (Gene Christensen),Chevrolet,74.0,11290.0,steering,0.0,76.0
+2002,11,Kentucky,Kentucky Speedway,1.5,paved track,30.0,25.0,34.0,Eric Jones,Safelite Auto Glass (Ron Jones),Chevrolet,47.0,11190.0,transmission,0.0,73.0
+2002,11,Kentucky,Kentucky Speedway,1.5,paved track,31.0,17.0,7.0,Bryan Reffner,Dusty's Collision (John Conely),Chevrolet,43.0,11090.0,engine,0.0,0.0
+2002,11,Kentucky,Kentucky Speedway,1.5,paved track,32.0,30.0,23.0,Phil Bonifield,Red Line Synthetic Oil (Tom Mazzuchi),Chevrolet,25.0,10990.0,engine,0.0,67.0
+2002,11,Kentucky,Kentucky Speedway,1.5,paved track,33.0,5.0,58.0,Chris Horn,Hornengines.com (Fred Horn),Chevrolet,24.0,10890.0,engine,0.0,64.0
+2002,11,Kentucky,Kentucky Speedway,1.5,paved track,34.0,36.0,81.0,Jason White,Ware Racing Enterprises (Rick Ware),Dodge,9.0,10790.0,electrical,0.0,61.0
+2002,11,Kentucky,Kentucky Speedway,1.5,paved track,35.0,34.0,51.0,Donny Morelock,OOIDA (Rick Ware),Dodge,9.0,10690.0,engine,0.0,58.0
+2002,11,Kentucky,Kentucky Speedway,1.5,paved track,36.0,32.0,25.0,Michael Dokken,Red Line Synthetic Oil (Phil Bonifield),Chevrolet,9.0,10590.0,ignition,0.0,55.0
+2002,12,Loudon,New Hampshire International Speedway,1.058,paved track,1.0,2.0,29.0,Terry Cook,Power Stroke Diesel (Bob Keselowski),Ford,207.0,48710.0,running,39.0,180.0
+2002,12,Loudon,New Hampshire International Speedway,1.058,paved track,2.0,23.0,46.0,Dennis Setzer,Acxiom / Computer Associates (David Dollar),Chevrolet,207.0,36500.0,running,0.0,170.0
+2002,12,Loudon,New Hampshire International Speedway,1.058,paved track,3.0,9.0,75.0,David Starr,Spears Manufacturing (Wayne Spears),Chevrolet,207.0,25940.0,running,0.0,165.0
+2002,12,Loudon,New Hampshire International Speedway,1.058,paved track,4.0,12.0,1.0,Ted Musgrave,Mopar Performance (Jim Smith),Dodge,207.0,16750.0,running,0.0,160.0
+2002,12,Loudon,New Hampshire International Speedway,1.058,paved track,5.0,4.0,62.0,Brendan Gaughan,NAPA Auto Parts (Michael Gaughan),Dodge,207.0,15000.0,running,0.0,155.0
+2002,12,Loudon,New Hampshire International Speedway,1.058,paved track,6.0,22.0,20.0,Coy Gibbs,MBNA (Joe Gibbs),Chevrolet,207.0,13225.0,running,0.0,150.0
+2002,12,Loudon,New Hampshire International Speedway,1.058,paved track,7.0,14.0,60.0,Travis Kvapil,CAT Rental Stores (Mike Addington),Chevrolet,207.0,11825.0,running,0.0,146.0
+2002,12,Loudon,New Hampshire International Speedway,1.058,paved track,8.0,3.0,6.0,Kevin Harvick,KevinHarvick.com (Kevin Harvick),Chevrolet,207.0,9625.0,running,89.0,152.0
+2002,12,Loudon,New Hampshire International Speedway,1.058,paved track,9.0,6.0,18.0,Robert Pressley,Hamilton Racing (Bobby Hamilton Racing),Dodge,207.0,11525.0,running,0.0,138.0
+2002,12,Loudon,New Hampshire International Speedway,1.058,paved track,10.0,5.0,16.0,Mike Bliss,IWX Motor Freight / Knights Inn (Steve Coulter),Chevrolet,207.0,12125.0,running,26.0,139.0
+2002,12,Loudon,New Hampshire International Speedway,1.058,paved track,11.0,7.0,50.0,Jon Wood,Navy Racing (Jack Roush),Ford,207.0,10175.0,running,0.0,130.0
+2002,12,Loudon,New Hampshire International Speedway,1.058,paved track,12.0,13.0,15.0,Rich Bickle,Dickies (Billy Ballew),Ford,205.0,10065.0,running,0.0,127.0
+2002,12,Loudon,New Hampshire International Speedway,1.058,paved track,13.0,17.0,88.0,Matt Crafton,Menards / Sealmaster (Duke Thorson),Chevrolet,205.0,10040.0,running,0.0,124.0
+2002,12,Loudon,New Hampshire International Speedway,1.058,paved track,14.0,20.0,8.0,Bill Lester,Dodge Motorsports (Bobby Hamilton Racing),Dodge,205.0,9990.0,running,0.0,121.0
+2002,12,Loudon,New Hampshire International Speedway,1.058,paved track,15.0,19.0,43.0,Carlos Contreras,Hot Wheels (Petty Enterprises),Dodge,205.0,10190.0,running,0.0,118.0
+2002,12,Loudon,New Hampshire International Speedway,1.058,paved track,16.0,25.0,39.0,Steve Portenga,Roto-Rooter (Steve Portenga),Chevrolet,205.0,9815.0,running,0.0,115.0
+2002,12,Loudon,New Hampshire International Speedway,1.058,paved track,17.0,11.0,14.0,Rick Crawford,Circle Bar Motel & RV Park (Tom Mitchell),Ford,204.0,9740.0,running,0.0,112.0
+2002,12,Loudon,New Hampshire International Speedway,1.058,paved track,18.0,15.0,90.0,Lance Norick,Express Personnel Services (Ron Norick),Chevrolet,204.0,9690.0,running,0.0,109.0
+2002,12,Loudon,New Hampshire International Speedway,1.058,paved track,19.0,26.0,8.0,Bobby Dotter,People Against Drugs (Gene Christensen),Chevrolet,204.0,9640.0,running,0.0,106.0
+2002,12,Loudon,New Hampshire International Speedway,1.058,paved track,20.0,32.0,79.0,Jerry Hill,RDS Racing Engines (Rodney Smith),Dodge,203.0,8340.0,running,0.0,103.0
+2002,12,Loudon,New Hampshire International Speedway,1.058,paved track,21.0,16.0,72.0,Randy MacDonald,Greenfield Truck Center (Doc MacDonald),Chevrolet,203.0,8340.0,running,0.0,100.0
+2002,12,Loudon,New Hampshire International Speedway,1.058,paved track,22.0,27.0,0.0,Ryan McGlynn,Buyers Choice Auto Warranties (Raynard McGlynn),Chevrolet,199.0,7090.0,running,0.0,97.0
+2002,12,Loudon,New Hampshire International Speedway,1.058,paved track,23.0,29.0,81.0,Jonathon Price,Ware Racing Enterprises (Rick Ware),Dodge,198.0,7065.0,running,0.0,94.0
+2002,12,Loudon,New Hampshire International Speedway,1.058,paved track,24.0,30.0,86.0,Dana White,Coverall Carports / Port-a-Fence (Phil Bonifield),Chevrolet,198.0,7040.0,running,0.0,91.0
+2002,12,Loudon,New Hampshire International Speedway,1.058,paved track,25.0,10.0,4.0,Brian Rose,Perry Connection (Bobby Hamilton Racing),Dodge,195.0,7015.0,crash,0.0,88.0
+2002,12,Loudon,New Hampshire International Speedway,1.058,paved track,26.0,31.0,93.0,Teri MacDonald,Troxell Racing (Lonnie Troxell),Chevrolet,195.0,6990.0,running,0.0,85.0
+2002,12,Loudon,New Hampshire International Speedway,1.058,paved track,27.0,1.0,2.0,Jason Leffler,Team ASE / Carquest (Jim Smith),Dodge,169.0,10265.0,crash,53.0,87.0
+2002,12,Loudon,New Hampshire International Speedway,1.058,paved track,28.0,24.0,3.0,"Tom Carey, Jr.",EJP Inc. (Steve Prescott),Chevrolet,166.0,6915.0,engine,0.0,79.0
+2002,12,Loudon,New Hampshire International Speedway,1.058,paved track,29.0,28.0,5.0,Lance Hooper,amihealthy.com (Rick Ware),Dodge,71.0,6940.0,crash,0.0,76.0
+2002,12,Loudon,New Hampshire International Speedway,1.058,paved track,30.0,21.0,51.0,Morgan Shepherd,Quality Metric (Rick Ware),Dodge,68.0,6895.0,rear end,0.0,73.0
+2002,12,Loudon,New Hampshire International Speedway,1.058,paved track,31.0,33.0,23.0,Emerson Newton-John,Steirwalt-Pirtle Racing (Tom Mazzuchi),Chevrolet,51.0,6885.0,engine,0.0,70.0
+2002,12,Loudon,New Hampshire International Speedway,1.058,paved track,32.0,18.0,7.0,Jason Small,Sunbelt Rentals (Gene Christensen),Chevrolet,37.0,6875.0,crash,0.0,67.0
+2002,12,Loudon,New Hampshire International Speedway,1.058,paved track,33.0,8.0,52.0,Ken Schrader,Federated Auto Parts (Ken Schrader),Chevrolet,27.0,6865.0,brakes,0.0,64.0
+2002,12,Loudon,New Hampshire International Speedway,1.058,paved track,34.0,34.0,74.0,Bobby Coffey,Bo-Co Performance (Bob Coffey),Chevrolet,3.0,6855.0,engine,0.0,61.0
+2002,13,Michigan,Michigan International Speedway,2.0,paved track,1.0,8.0,18.0,Robert Pressley,Square D / Dodge Dealers (Bobby Hamilton Racing),Dodge,100.0,48250.0,running,74.0,185.0
+2002,13,Michigan,Michigan International Speedway,2.0,paved track,2.0,7.0,2.0,Jason Leffler,Team ASE / Carquest (Jim Smith),Dodge,100.0,30800.0,running,0.0,170.0
+2002,13,Michigan,Michigan International Speedway,2.0,paved track,3.0,9.0,60.0,Travis Kvapil,CAT Rental Stores (Mike Addington),Chevrolet,100.0,22225.0,running,0.0,165.0
+2002,13,Michigan,Michigan International Speedway,2.0,paved track,4.0,2.0,16.0,Mike Bliss,IWX Motor Freight / Knights Inn (Steve Coulter),Chevrolet,100.0,14750.0,running,0.0,160.0
+2002,13,Michigan,Michigan International Speedway,2.0,paved track,5.0,3.0,75.0,David Starr,Spears Manufacturing (Wayne Spears),Chevrolet,100.0,13700.0,running,2.0,160.0
+2002,13,Michigan,Michigan International Speedway,2.0,paved track,6.0,5.0,29.0,Terry Cook,Power Stroke Diesel (Bob Keselowski),Ford,100.0,12775.0,running,1.0,155.0
+2002,13,Michigan,Michigan International Speedway,2.0,paved track,7.0,10.0,20.0,Coy Gibbs,MBNA (Joe Gibbs),Chevrolet,100.0,12825.0,running,4.0,151.0
+2002,13,Michigan,Michigan International Speedway,2.0,paved track,8.0,13.0,90.0,Lance Norick,Express Personnel Services (Ron Norick),Chevrolet,100.0,12650.0,running,0.0,142.0
+2002,13,Michigan,Michigan International Speedway,2.0,paved track,9.0,4.0,14.0,Rick Crawford,Circle Bar Motel & RV Park (Tom Mitchell),Ford,100.0,12350.0,running,11.0,143.0
+2002,13,Michigan,Michigan International Speedway,2.0,paved track,10.0,12.0,50.0,Jon Wood,Navy Racing (Jack Roush),Ford,100.0,13625.0,running,0.0,134.0
+2002,13,Michigan,Michigan International Speedway,2.0,paved track,11.0,20.0,39.0,Steve Portenga,Roto-Rooter (Steve Portenga),Chevrolet,100.0,12275.0,running,0.0,130.0
+2002,13,Michigan,Michigan International Speedway,2.0,paved track,12.0,14.0,15.0,Rich Bickle,Dickies (Billy Ballew),Ford,100.0,12140.0,running,0.0,127.0
+2002,13,Michigan,Michigan International Speedway,2.0,paved track,13.0,36.0,7.0,Bryan Reffner,SBC Ameritech (John Conely),Chevrolet,100.0,11315.0,running,0.0,124.0
+2002,13,Michigan,Michigan International Speedway,2.0,paved track,14.0,6.0,46.0,Dennis Setzer,Acxiom / Computer Associates (David Dollar),Chevrolet,100.0,12015.0,running,2.0,126.0
+2002,13,Michigan,Michigan International Speedway,2.0,paved track,15.0,19.0,8.0,Bill Lester,Dodge Motorsports (Bobby Hamilton Racing),Dodge,100.0,13215.0,running,0.0,118.0
+2002,13,Michigan,Michigan International Speedway,2.0,paved track,16.0,18.0,88.0,Matt Crafton,Menards / Sealmaster (Duke Thorson),Chevrolet,100.0,11940.0,running,0.0,115.0
+2002,13,Michigan,Michigan International Speedway,2.0,paved track,17.0,17.0,43.0,Carlos Contreras,Hot Wheels (Petty Enterprises),Dodge,99.0,11840.0,running,0.0,112.0
+2002,13,Michigan,Michigan International Speedway,2.0,paved track,18.0,11.0,62.0,Brendan Gaughan,NAPA Auto Parts (Michael Gaughan),Dodge,99.0,11815.0,running,0.0,109.0
+2002,13,Michigan,Michigan International Speedway,2.0,paved track,19.0,24.0,7.0,Jason Small,Sunbelt Rentals (Gene Christensen),Chevrolet,98.0,11765.0,running,0.0,106.0
+2002,13,Michigan,Michigan International Speedway,2.0,paved track,20.0,29.0,23.0,Lance Hooper,Red Line Synthetic Oil (Tom Mazzuchi),Chevrolet,98.0,9715.0,running,0.0,103.0
+2002,13,Michigan,Michigan International Speedway,2.0,paved track,21.0,21.0,79.0,Jerry Hill,RDS Racing Engines (Rodney Smith),Dodge,98.0,10465.0,running,0.0,100.0
+2002,13,Michigan,Michigan International Speedway,2.0,paved track,22.0,31.0,34.0,Eric Jones,Safelite Auto Glass (Ron Jones),Chevrolet,98.0,9415.0,running,0.0,97.0
+2002,13,Michigan,Michigan International Speedway,2.0,paved track,23.0,16.0,4.0,Brian Rose,Perry Connection (Bobby Hamilton Racing),Dodge,97.0,10390.0,running,0.0,94.0
+2002,13,Michigan,Michigan International Speedway,2.0,paved track,24.0,33.0,27.0,Doug Keller,Keller Motorsports (Doug Keller),Chevrolet,97.0,9365.0,running,0.0,91.0
+2002,13,Michigan,Michigan International Speedway,2.0,paved track,25.0,30.0,89.0,Stan Boyd,NGK / Auto Value (James Liguori),Chevrolet,97.0,9340.0,running,0.0,88.0
+2002,13,Michigan,Michigan International Speedway,2.0,paved track,26.0,25.0,51.0,Randy Briggs,Midwest Can (Rick Ware),Dodge,96.0,9315.0,running,0.0,85.0
+2002,13,Michigan,Michigan International Speedway,2.0,paved track,27.0,34.0,28.0,Conrad Burr,UFA-FDNY (Jim Rosenblum),Chevrolet,95.0,9290.0,running,0.0,82.0
+2002,13,Michigan,Michigan International Speedway,2.0,paved track,28.0,15.0,8.0,Bobby Dotter,People Against Drugs (Gene Christensen),Chevrolet,94.0,9265.0,running,0.0,79.0
+2002,13,Michigan,Michigan International Speedway,2.0,paved track,29.0,23.0,72.0,Randy MacDonald,BusinessDriver.com (Doc MacDonald),Chevrolet,85.0,9240.0,running,0.0,76.0
+2002,13,Michigan,Michigan International Speedway,2.0,paved track,30.0,32.0,58.0,Chris Horn,Hornengines.com (Fred Horn),Chevrolet,70.0,9215.0,engine,0.0,73.0
+2002,13,Michigan,Michigan International Speedway,2.0,paved track,31.0,22.0,5.0,Jason Hedlesky,Motor City Dodge / Superior Logistics (Rick Ware),Dodge,57.0,9190.0,suspension,0.0,70.0
+2002,13,Michigan,Michigan International Speedway,2.0,paved track,32.0,1.0,1.0,Ted Musgrave,Mopar Performance (Jim Smith),Dodge,37.0,9165.0,engine,6.0,72.0
+2002,13,Michigan,Michigan International Speedway,2.0,paved track,33.0,27.0,86.0,Phil Bonifield,Coverall Carports / Port-a-Fence (Phil Bonifield),Chevrolet,30.0,9140.0,ignition,0.0,64.0
+2002,13,Michigan,Michigan International Speedway,2.0,paved track,34.0,28.0,73.0,Frog Hall,Cellution / Intensitee Racewear (Joey Sonntag),Chevrolet,26.0,9115.0,overheating,0.0,61.0
+2002,13,Michigan,Michigan International Speedway,2.0,paved track,35.0,35.0,25.0,Brian Tyler,Motor State Performance (Phil Bonifield),Chevrolet,17.0,9090.0,water pump,0.0,58.0
+2002,13,Michigan,Michigan International Speedway,2.0,paved track,36.0,26.0,93.0,Michael Dokken,Troxell Racing (Lonnie Troxell),Chevrolet,2.0,9065.0,engine,0.0,55.0
+2002,14,IRP,Indianapolis Raceway Park,0.686,paved track,1.0,1.0,29.0,Terry Cook,Power Stroke Diesel (Bob Keselowski),Ford,200.0,48260.0,running,178.0,185.0
+2002,14,IRP,Indianapolis Raceway Park,0.686,paved track,2.0,2.0,2.0,Jason Leffler,Team ASE / Carquest (Jim Smith),Dodge,200.0,27600.0,running,9.0,175.0
+2002,14,IRP,Indianapolis Raceway Park,0.686,paved track,3.0,13.0,60.0,Travis Kvapil,CAT Rental Stores (Mike Addington),Chevrolet,200.0,21490.0,running,0.0,165.0
+2002,14,IRP,Indianapolis Raceway Park,0.686,paved track,4.0,9.0,52.0,Mike Wallace,Federated Auto Parts (Ken Schrader),Chevrolet,200.0,14250.0,running,0.0,160.0
+2002,14,IRP,Indianapolis Raceway Park,0.686,paved track,5.0,4.0,18.0,Robert Pressley,Dickies / Square D (Bobby Hamilton Racing),Dodge,200.0,14025.0,running,0.0,155.0
+2002,14,IRP,Indianapolis Raceway Park,0.686,paved track,6.0,14.0,17.0,Darrell Waltrip,Tide With Bleach (James Harris),Dodge,200.0,9650.0,running,0.0,150.0
+2002,14,IRP,Indianapolis Raceway Park,0.686,paved track,7.0,27.0,90.0,Lance Norick,Express Personnel Services (Ron Norick),Chevrolet,200.0,12475.0,running,0.0,146.0
+2002,14,IRP,Indianapolis Raceway Park,0.686,paved track,8.0,6.0,50.0,Jon Wood,Navy Racing (Jack Roush),Ford,200.0,10800.0,running,0.0,142.0
+2002,14,IRP,Indianapolis Raceway Park,0.686,paved track,9.0,21.0,8.0,Bobby Dotter,People Against Drugs (Gene Christensen),Chevrolet,200.0,10725.0,running,0.0,138.0
+2002,14,IRP,Indianapolis Raceway Park,0.686,paved track,10.0,15.0,88.0,Matt Crafton,Menards / Sealmaster (Duke Thorson),Chevrolet,200.0,11975.0,running,0.0,134.0
+2002,14,IRP,Indianapolis Raceway Park,0.686,paved track,11.0,8.0,14.0,Rick Crawford,Circle Bar Motel & RV Park (Tom Mitchell),Ford,200.0,10625.0,running,0.0,130.0
+2002,14,IRP,Indianapolis Raceway Park,0.686,paved track,12.0,18.0,33.0,Andy Petree,Monaco Coaches (Andy Petree),Chevrolet,200.0,8265.0,running,13.0,132.0
+2002,14,IRP,Indianapolis Raceway Park,0.686,paved track,13.0,17.0,46.0,Dennis Setzer,Acxiom / Computer Associates (David Dollar),Chevrolet,200.0,10490.0,running,0.0,124.0
+2002,14,IRP,Indianapolis Raceway Park,0.686,paved track,14.0,19.0,72.0,Randy MacDonald,businessdriver.com (Doc MacDonald),Chevrolet,200.0,10465.0,running,0.0,121.0
+2002,14,IRP,Indianapolis Raceway Park,0.686,paved track,15.0,3.0,16.0,Mike Bliss,IWX Motor Freight / Knights Inn (Steve Coulter),Chevrolet,200.0,10665.0,running,0.0,118.0
+2002,14,IRP,Indianapolis Raceway Park,0.686,paved track,16.0,7.0,1.0,Ted Musgrave,Mopar Performance (Jim Smith),Dodge,200.0,10115.0,running,0.0,115.0
+2002,14,IRP,Indianapolis Raceway Park,0.686,paved track,17.0,22.0,23.0,Lance Hooper,Motor State Performance (Tom Mazzuchi),Chevrolet,199.0,9065.0,running,0.0,112.0
+2002,14,IRP,Indianapolis Raceway Park,0.686,paved track,18.0,25.0,20.0,Coy Gibbs,MBNA (Joe Gibbs),Chevrolet,199.0,10015.0,running,0.0,109.0
+2002,14,IRP,Indianapolis Raceway Park,0.686,paved track,19.0,5.0,63.0,Carl Edwards,Mittler Brothers Machine / PolyDyn (Mike Mittler),Ford,199.0,8965.0,running,0.0,106.0
+2002,14,IRP,Indianapolis Raceway Park,0.686,paved track,20.0,32.0,15.0,Mark Gibson,Williams Brothers Lumber (Billy Ballew),Ford,198.0,10140.0,running,0.0,103.0
+2002,14,IRP,Indianapolis Raceway Park,0.686,paved track,21.0,33.0,51.0,Blake Mallory,Owlbuy.com / Mallory Screenprint (Rick Ware),Dodge,196.0,8365.0,running,0.0,100.0
+2002,14,IRP,Indianapolis Raceway Park,0.686,paved track,22.0,30.0,79.0,Jerry Hill,RDS Racing Engines (Rodney Smith),Dodge,196.0,8315.0,running,0.0,97.0
+2002,14,IRP,Indianapolis Raceway Park,0.686,paved track,23.0,20.0,39.0,Steve Portenga,Roto-Rooter (Steve Portenga),Chevrolet,195.0,8265.0,running,0.0,94.0
+2002,14,IRP,Indianapolis Raceway Park,0.686,paved track,24.0,35.0,86.0,Dana White,Coverall Carports / Port-a-Fence (Phil Bonifield),Chevrolet,189.0,9215.0,running,0.0,91.0
+2002,14,IRP,Indianapolis Raceway Park,0.686,paved track,25.0,23.0,7.0,Jason Small,Sunbelt Rentals (Gene Christensen),Chevrolet,189.0,7140.0,running,0.0,88.0
+2002,14,IRP,Indianapolis Raceway Park,0.686,paved track,26.0,16.0,70.0,Brian Ross,Bailey Excavating (James Bailey),Ford,188.0,7140.0,crash,0.0,85.0
+2002,14,IRP,Indianapolis Raceway Park,0.686,paved track,27.0,29.0,5.0,Andy Thurman,Akita Copy Products (Rick Ware),Dodge,186.0,7115.0,crash,0.0,82.0
+2002,14,IRP,Indianapolis Raceway Park,0.686,paved track,28.0,11.0,8.0,Bill Lester,Dodge Motorsports (Bobby Hamilton Racing),Dodge,185.0,7090.0,crash,0.0,79.0
+2002,14,IRP,Indianapolis Raceway Park,0.686,paved track,29.0,26.0,62.0,Brendan Gaughan,NAPA Auto Parts (Michael Gaughan),Dodge,178.0,7065.0,running,0.0,76.0
+2002,14,IRP,Indianapolis Raceway Park,0.686,paved track,30.0,10.0,4.0,Bobby Hamilton,Square D (Bobby Hamilton Racing),Dodge,170.0,7045.0,suspension,0.0,73.0
+2002,14,IRP,Indianapolis Raceway Park,0.686,paved track,31.0,24.0,43.0,Carlos Contreras,Hot Wheels (Petty Enterprises),Dodge,165.0,7035.0,crash,0.0,70.0
+2002,14,IRP,Indianapolis Raceway Park,0.686,paved track,32.0,28.0,77.0,Jody McCormick,Cook's Moving Service (Jody McCormick),Chevrolet,139.0,7025.0,crash,0.0,67.0
+2002,14,IRP,Indianapolis Raceway Park,0.686,paved track,33.0,31.0,4.0,Mike Cofer,Quality Motorsports (Jerry Spilsbury),Ford,131.0,7015.0,radiator,0.0,64.0
+2002,14,IRP,Indianapolis Raceway Park,0.686,paved track,34.0,12.0,75.0,David Starr,Spears Manufacturing (Wayne Spears),Chevrolet,126.0,7005.0,running,0.0,61.0
+2002,14,IRP,Indianapolis Raceway Park,0.686,paved track,35.0,36.0,73.0,Loni Richardson,Cellution / Intensitee Racewear (Joey Sonntag),Chevrolet,124.0,6720.0,handling,0.0,58.0
+2002,14,IRP,Indianapolis Raceway Park,0.686,paved track,36.0,34.0,93.0,Teri MacDonald,NRG (Lonnie Troxell),Chevrolet,32.0,6685.0,engine,0.0,55.0
+2002,15,Nashville,Nashville Superspeedway,1.333,paved track,1.0,1.0,16.0,Mike Bliss,IWX Motor Freight / Knights Inn (Steve Coulter),Chevrolet,151.0,45385.0,running,29.0,180.0
+2002,15,Nashville,Nashville Superspeedway,1.333,paved track,2.0,8.0,14.0,Rick Crawford,Circle Bar Motel & RV Park (Tom Mitchell),Ford,151.0,27900.0,running,46.0,175.0
+2002,15,Nashville,Nashville Superspeedway,1.333,paved track,3.0,3.0,1.0,Ted Musgrave,Mopar Performance (Jim Smith),Dodge,151.0,21515.0,running,66.0,175.0
+2002,15,Nashville,Nashville Superspeedway,1.333,paved track,4.0,7.0,4.0,"Bobby Hamilton, Jr.",Square D (Bobby Hamilton Racing),Dodge,151.0,10375.0,running,3.0,165.0
+2002,15,Nashville,Nashville Superspeedway,1.333,paved track,5.0,14.0,46.0,Dennis Setzer,Acxiom / Computer Associates (David Dollar),Chevrolet,151.0,11725.0,running,0.0,155.0
+2002,15,Nashville,Nashville Superspeedway,1.333,paved track,6.0,11.0,62.0,Brendan Gaughan,NAPA Auto Parts (Michael Gaughan),Dodge,150.0,10850.0,running,0.0,150.0
+2002,15,Nashville,Nashville Superspeedway,1.333,paved track,7.0,9.0,29.0,Terry Cook,Power Stroke Diesel (Bob Keselowski),Ford,150.0,9400.0,running,1.0,151.0
+2002,15,Nashville,Nashville Superspeedway,1.333,paved track,8.0,19.0,50.0,Jon Wood,Navy Racing (Jack Roush),Ford,150.0,9200.0,running,0.0,142.0
+2002,15,Nashville,Nashville Superspeedway,1.333,paved track,9.0,4.0,18.0,Robert Pressley,Dickies / Square D (Bobby Hamilton Racing),Dodge,150.0,9100.0,running,0.0,138.0
+2002,15,Nashville,Nashville Superspeedway,1.333,paved track,10.0,10.0,52.0,Mike Wallace,Federated Auto Parts (Ken Schrader),Chevrolet,149.0,9375.0,running,0.0,134.0
+2002,15,Nashville,Nashville Superspeedway,1.333,paved track,11.0,2.0,75.0,David Starr,Spears Manufacturing (Wayne Spears),Chevrolet,149.0,9000.0,running,1.0,135.0
+2002,15,Nashville,Nashville Superspeedway,1.333,paved track,12.0,20.0,20.0,Coy Gibbs,MBNA (Joe Gibbs),Chevrolet,149.0,8890.0,running,5.0,132.0
+2002,15,Nashville,Nashville Superspeedway,1.333,paved track,13.0,26.0,43.0,Carlos Contreras,Hot Wheels (Petty Enterprises),Dodge,149.0,10340.0,running,0.0,124.0
+2002,15,Nashville,Nashville Superspeedway,1.333,paved track,14.0,15.0,8.0,Bobby Dotter,People Against Drugs (Gene Christensen),Chevrolet,148.0,8815.0,running,0.0,121.0
+2002,15,Nashville,Nashville Superspeedway,1.333,paved track,15.0,24.0,7.0,Jason Small,Sunbelt Rentals (Gene Christensen),Chevrolet,148.0,8990.0,running,0.0,118.0
+2002,15,Nashville,Nashville Superspeedway,1.333,paved track,16.0,12.0,8.0,Bill Lester,Dodge Motorsports (Bobby Hamilton Racing),Dodge,148.0,8640.0,running,0.0,115.0
+2002,15,Nashville,Nashville Superspeedway,1.333,paved track,17.0,13.0,45.0,Joe Ruttman,Richard Petty Driving Experience (Petty Enterprises),Dodge,148.0,6340.0,running,0.0,112.0
+2002,15,Nashville,Nashville Superspeedway,1.333,paved track,18.0,22.0,88.0,Matt Crafton,Menards / Colorpave (Duke Thorson),Chevrolet,147.0,8540.0,running,0.0,109.0
+2002,15,Nashville,Nashville Superspeedway,1.333,paved track,19.0,28.0,86.0,Lance Hooper,Motor State Performance (Phil Bonifield),Chevrolet,147.0,8490.0,running,0.0,106.0
+2002,15,Nashville,Nashville Superspeedway,1.333,paved track,20.0,17.0,90.0,Lance Norick,Express Personnel Services (Ron Norick),Chevrolet,147.0,8665.0,running,0.0,103.0
+2002,15,Nashville,Nashville Superspeedway,1.333,paved track,21.0,29.0,5.0,Andy Thurman,Akita Copy Products / Citibank (Rick Ware),Dodge,147.0,6865.0,running,0.0,100.0
+2002,15,Nashville,Nashville Superspeedway,1.333,paved track,22.0,16.0,39.0,Steve Portenga,Roto-Rooter (Steve Portenga),Chevrolet,146.0,6815.0,running,0.0,97.0
+2002,15,Nashville,Nashville Superspeedway,1.333,paved track,23.0,31.0,15.0,Mark Gibson,Williams Brothers Lumber (Billy Ballew),Ford,146.0,6765.0,running,0.0,94.0
+2002,15,Nashville,Nashville Superspeedway,1.333,paved track,24.0,27.0,34.0,Eric Jones,Safelite Auto Glass (Ron Jones),Chevrolet,145.0,5715.0,crash,0.0,91.0
+2002,15,Nashville,Nashville Superspeedway,1.333,paved track,25.0,32.0,51.0,Brian Rose,Ware Racing Enterprises / OOIDA (Rick Ware),Dodge,144.0,5690.0,running,0.0,88.0
+2002,15,Nashville,Nashville Superspeedway,1.333,paved track,26.0,35.0,28.0,Conrad Burr,UFA-FDNY (Jim Rosenblum),Chevrolet,144.0,5640.0,running,0.0,85.0
+2002,15,Nashville,Nashville Superspeedway,1.333,paved track,27.0,34.0,73.0,Loni Richardson,Cellution / Intensitee Racewear (Joey Sonntag),Chevrolet,140.0,5615.0,running,0.0,82.0
+2002,15,Nashville,Nashville Superspeedway,1.333,paved track,28.0,6.0,2.0,Jason Leffler,Team ASE / Carquest (Jim Smith),Dodge,134.0,5590.0,crash,0.0,79.0
+2002,15,Nashville,Nashville Superspeedway,1.333,paved track,29.0,33.0,79.0,Jerry Hill,RDS Racing Engines (Rodney Smith),Dodge,79.0,5565.0,engine,0.0,76.0
+2002,15,Nashville,Nashville Superspeedway,1.333,paved track,30.0,5.0,60.0,Travis Kvapil,CAT Rental Stores (Mike Addington),Chevrolet,56.0,5545.0,engine,0.0,73.0
+2002,15,Nashville,Nashville Superspeedway,1.333,paved track,31.0,21.0,87.0,Chad Chaffin,Andy Kirby Children's Fund (Neil Chaffin),Ford,49.0,5535.0,timing chain,0.0,70.0
+2002,15,Nashville,Nashville Superspeedway,1.333,paved track,32.0,18.0,93.0,Norm Benning,Troxell Racing (Lonnie Troxell),Chevrolet,28.0,5525.0,vibration,0.0,67.0
+2002,15,Nashville,Nashville Superspeedway,1.333,paved track,33.0,25.0,89.0,Stan Boyd,NGK / Auto Value (James Liguori),Chevrolet,22.0,5515.0,vibration,0.0,64.0
+2002,15,Nashville,Nashville Superspeedway,1.333,paved track,34.0,36.0,25.0,Dana White,Red Line Synthetic Oil (Phil Bonifield),Chevrolet,22.0,5505.0,handling,0.0,61.0
+2002,15,Nashville,Nashville Superspeedway,1.333,paved track,35.0,23.0,21.0,Morgan Shepherd,Shepherd Motorsports (Morgan Shepherd),Ford,18.0,5470.0,ignition,0.0,0.0
+2002,15,Nashville,Nashville Superspeedway,1.333,paved track,36.0,30.0,72.0,Randy MacDonald,U.S. Security (Doc MacDonald),Chevrolet,6.0,5460.0,engine,0.0,55.0
+2002,16,Richmond,Richmond International Raceway,0.75,paved track,1.0,25.0,33.0,Tony Stewart,Monaco Coaches (Andy Petree),Chevrolet,200.0,34350.0,running,34.0,180.0
+2002,16,Richmond,Richmond International Raceway,0.75,paved track,2.0,6.0,6.0,Kevin Harvick,KevinHarvick.com (Kevin Harvick),Chevrolet,200.0,21200.0,running,23.0,175.0
+2002,16,Richmond,Richmond International Raceway,0.75,paved track,3.0,2.0,16.0,Mike Bliss,IWX Motor Freight / Knights Inn (Steve Coulter),Chevrolet,200.0,17425.0,running,0.0,165.0
+2002,16,Richmond,Richmond International Raceway,0.75,paved track,4.0,4.0,14.0,Rick Crawford,Circle Bar Motel & RV Park (Tom Mitchell),Ford,200.0,12650.0,running,58.0,165.0
+2002,16,Richmond,Richmond International Raceway,0.75,paved track,5.0,5.0,29.0,Terry Cook,Power Stroke Diesel (Bob Keselowski),Ford,200.0,10550.0,running,0.0,155.0
+2002,16,Richmond,Richmond International Raceway,0.75,paved track,6.0,31.0,20.0,Coy Gibbs,MBNA (Joe Gibbs),Chevrolet,200.0,11325.0,running,0.0,150.0
+2002,16,Richmond,Richmond International Raceway,0.75,paved track,7.0,3.0,1.0,Ted Musgrave,Mopar Performance (Jim Smith),Dodge,200.0,8975.0,running,0.0,146.0
+2002,16,Richmond,Richmond International Raceway,0.75,paved track,8.0,10.0,17.0,Stacy Compton,Duck Head Footwear / Harris Trucking Co. (James Harris),Dodge,200.0,6700.0,running,0.0,142.0
+2002,16,Richmond,Richmond International Raceway,0.75,paved track,9.0,20.0,8.0,Bobby Dotter,People Against Drugs (Gene Christensen),Chevrolet,200.0,8900.0,running,0.0,138.0
+2002,16,Richmond,Richmond International Raceway,0.75,paved track,10.0,14.0,52.0,Ken Schrader,Federated Auto Parts (Ken Schrader),Chevrolet,200.0,7900.0,running,0.0,134.0
+2002,16,Richmond,Richmond International Raceway,0.75,paved track,11.0,16.0,60.0,Travis Kvapil,CAT Rental Stores (Mike Addington),Chevrolet,200.0,8800.0,running,0.0,130.0
+2002,16,Richmond,Richmond International Raceway,0.75,paved track,12.0,1.0,2.0,Jason Leffler,Team ASE / Carquest (Jim Smith),Dodge,200.0,11965.0,running,85.0,137.0
+2002,16,Richmond,Richmond International Raceway,0.75,paved track,13.0,9.0,75.0,David Starr,Spears Manufacturing (Wayne Spears),Chevrolet,199.0,8615.0,crash,0.0,124.0
+2002,16,Richmond,Richmond International Raceway,0.75,paved track,14.0,7.0,4.0,Bobby Hamilton,Square D (Bobby Hamilton Racing),Dodge,199.0,6315.0,crash,0.0,121.0
+2002,16,Richmond,Richmond International Raceway,0.75,paved track,15.0,11.0,18.0,Robert Pressley,Dickies / Square D (Bobby Hamilton Racing),Dodge,199.0,8765.0,crash,0.0,118.0
+2002,16,Richmond,Richmond International Raceway,0.75,paved track,16.0,30.0,62.0,Brendan Gaughan,NAPA Auto Parts (Michael Gaughan),Dodge,199.0,8190.0,crash,0.0,115.0
+2002,16,Richmond,Richmond International Raceway,0.75,paved track,17.0,26.0,21.0,Morgan Shepherd,Racing With Jesus / Hitech Engines (Morgan Shepherd),Ford,199.0,7040.0,running,0.0,112.0
+2002,16,Richmond,Richmond International Raceway,0.75,paved track,18.0,24.0,86.0,Lance Hooper,Red Line Synthetic Oil (Phil Bonifield),Chevrolet,199.0,7990.0,running,0.0,109.0
+2002,16,Richmond,Richmond International Raceway,0.75,paved track,19.0,17.0,43.0,Carlos Contreras,Hot Wheels (Petty Enterprises),Dodge,199.0,7940.0,running,0.0,106.0
+2002,16,Richmond,Richmond International Raceway,0.75,paved track,20.0,8.0,46.0,Dennis Setzer,Acxiom / Computer Associates (David Dollar),Chevrolet,198.0,8115.0,running,0.0,103.0
+2002,16,Richmond,Richmond International Raceway,0.75,paved track,21.0,28.0,54.0,Brian Sockwell,Lowdermilk Electric (Dennis Sockwell),Chevrolet,198.0,5615.0,running,0.0,100.0
+2002,16,Richmond,Richmond International Raceway,0.75,paved track,22.0,13.0,90.0,Lance Norick,Express Personnel Services (Ron Norick),Chevrolet,198.0,7840.0,running,0.0,97.0
+2002,16,Richmond,Richmond International Raceway,0.75,paved track,23.0,15.0,45.0,Adam Clarke,Richard Petty Driving Experience (Petty Enterprises),Dodge,197.0,5565.0,running,0.0,94.0
+2002,16,Richmond,Richmond International Raceway,0.75,paved track,24.0,32.0,7.0,Jason Small,Sunbelt Rentals (Gene Christensen),Chevrolet,197.0,7790.0,running,0.0,91.0
+2002,16,Richmond,Richmond International Raceway,0.75,paved track,25.0,19.0,15.0,Brian Rose,Perry Connection (Billy Ballew),Ford,195.0,7765.0,running,0.0,88.0
+2002,16,Richmond,Richmond International Raceway,0.75,paved track,26.0,27.0,3.0,Barry Bodine,EJP Inc. (Steve Prescott),Chevrolet,193.0,5490.0,running,0.0,85.0
+2002,16,Richmond,Richmond International Raceway,0.75,paved track,27.0,22.0,72.0,Randy MacDonald,U.S. Security / Workforce Wizard (Doc MacDonald),Chevrolet,192.0,6465.0,running,0.0,82.0
+2002,16,Richmond,Richmond International Raceway,0.75,paved track,28.0,23.0,50.0,Jon Wood,Navy Racing (Jack Roush),Ford,173.0,6440.0,running,0.0,79.0
+2002,16,Richmond,Richmond International Raceway,0.75,paved track,29.0,33.0,39.0,Steve Portenga,Roto-Rooter (Steve Portenga),Chevrolet,103.0,6390.0,running,0.0,76.0
+2002,16,Richmond,Richmond International Raceway,0.75,paved track,30.0,21.0,51.0,Carl Long,Revival Soy (Rick Ware),Dodge,101.0,5365.0,crash,0.0,73.0
+2002,16,Richmond,Richmond International Raceway,0.75,paved track,31.0,29.0,70.0,Brian Ross,Bailey Excavating (James Bailey),Ford,77.0,5340.0,rear end,0.0,70.0
+2002,16,Richmond,Richmond International Raceway,0.75,paved track,32.0,12.0,88.0,Matt Crafton,Menards / Sealmaster (Duke Thorson),Chevrolet,70.0,5115.0,crash,0.0,67.0
+2002,16,Richmond,Richmond International Raceway,0.75,paved track,33.0,36.0,93.0,Jody Lavender,Lavender's Discount Carpets (Lonnie Troxell),Chevrolet,59.0,5290.0,rear end,0.0,64.0
+2002,16,Richmond,Richmond International Raceway,0.75,paved track,34.0,35.0,5.0,Scott Kuhn,Fieldcrest-Cannon / Vehicare (Rick Ware),Dodge,56.0,5265.0,crash,0.0,61.0
+2002,16,Richmond,Richmond International Raceway,0.75,paved track,35.0,34.0,79.0,Jerry Hill,RDS Racing Engines (Rodney Smith),Dodge,6.0,5240.0,engine,0.0,58.0
+2002,16,Richmond,Richmond International Raceway,0.75,paved track,36.0,18.0,8.0,Bill Lester,Dodge Motorsports (Bobby Hamilton Racing),Dodge,5.0,5215.0,crash,0.0,55.0
+2002,17,Fort Worth,Texas Motor Speedway,1.5,paved track,1.0,5.0,62.0,Brendan Gaughan,NAPA Auto Parts (Michael Gaughan),Dodge,146.0,58430.0,running,18.0,180.0
+2002,17,Fort Worth,Texas Motor Speedway,1.5,paved track,2.0,3.0,20.0,Coy Gibbs,MBNA (Joe Gibbs),Chevrolet,146.0,41525.0,running,25.0,175.0
+2002,17,Fort Worth,Texas Motor Speedway,1.5,paved track,3.0,2.0,75.0,David Starr,Spears Manufacturing (Wayne Spears),Chevrolet,146.0,28445.0,running,3.0,170.0
+2002,17,Fort Worth,Texas Motor Speedway,1.5,paved track,4.0,4.0,14.0,Rick Crawford,Circle Bar Motel & RV Park (Tom Mitchell),Ford,146.0,20920.0,running,56.0,170.0
+2002,17,Fort Worth,Texas Motor Speedway,1.5,paved track,5.0,20.0,60.0,Travis Kvapil,CAT Rental Stores (Mike Addington),Chevrolet,146.0,14870.0,running,0.0,155.0
+2002,17,Fort Worth,Texas Motor Speedway,1.5,paved track,6.0,7.0,1.0,Ted Musgrave,Mopar Performance (Jim Smith),Dodge,146.0,12495.0,running,44.0,155.0
+2002,17,Fort Worth,Texas Motor Speedway,1.5,paved track,7.0,11.0,18.0,Robert Pressley,Dickies / Square D (Bobby Hamilton Racing),Dodge,146.0,12295.0,running,0.0,146.0
+2002,17,Fort Worth,Texas Motor Speedway,1.5,paved track,8.0,8.0,2.0,Jason Leffler,Team ASE / Carquest (Jim Smith),Dodge,146.0,11245.0,running,0.0,142.0
+2002,17,Fort Worth,Texas Motor Speedway,1.5,paved track,9.0,1.0,16.0,Mike Bliss,IWX Motor Freight / Knights Inn (Steve Coulter),Chevrolet,146.0,12445.0,running,0.0,138.0
+2002,17,Fort Worth,Texas Motor Speedway,1.5,paved track,10.0,10.0,46.0,Dennis Setzer,Acxiom / Computer Associates (David Dollar),Chevrolet,146.0,12495.0,running,0.0,134.0
+2002,17,Fort Worth,Texas Motor Speedway,1.5,paved track,11.0,13.0,4.0,Joe Ruttman,Red Line Synthetic Oil (Bobby Hamilton Racing),Dodge,145.0,10945.0,running,0.0,130.0
+2002,17,Fort Worth,Texas Motor Speedway,1.5,paved track,12.0,14.0,50.0,Jon Wood,Navy Racing (Jack Roush),Ford,145.0,10760.0,running,0.0,127.0
+2002,17,Fort Worth,Texas Motor Speedway,1.5,paved track,13.0,15.0,90.0,Lance Norick,Express Personnel Services (Ron Norick),Chevrolet,144.0,10660.0,crash,0.0,124.0
+2002,17,Fort Worth,Texas Motor Speedway,1.5,paved track,14.0,18.0,7.0,Jason Small,Sunbelt Rentals (Gene Christensen),Chevrolet,144.0,10560.0,running,0.0,121.0
+2002,17,Fort Worth,Texas Motor Speedway,1.5,paved track,15.0,26.0,8.0,Bobby Dotter,Albertson's / People Against Drugs (Gene Christensen),Chevrolet,142.0,10710.0,running,0.0,118.0
+2002,17,Fort Worth,Texas Motor Speedway,1.5,paved track,16.0,28.0,15.0,Brian Rose,Perry Connection (Billy Ballew),Ford,142.0,10360.0,running,0.0,115.0
+2002,17,Fort Worth,Texas Motor Speedway,1.5,paved track,17.0,25.0,72.0,Randy MacDonald,businessdriver.com (Doc MacDonald),Chevrolet,142.0,10270.0,running,0.0,112.0
+2002,17,Fort Worth,Texas Motor Speedway,1.5,paved track,18.0,22.0,79.0,Jerry Hill,RDS Racing Engines (Rodney Smith),Dodge,141.0,10185.0,running,0.0,109.0
+2002,17,Fort Worth,Texas Motor Speedway,1.5,paved track,19.0,30.0,66.0,Lonnie Cox,Carnes-Cox-Higgs (Dan Higgs),Ford,140.0,7835.0,running,0.0,106.0
+2002,17,Fort Worth,Texas Motor Speedway,1.5,paved track,20.0,32.0,73.0,Frog Hall,Cellution / Intensitee Racewear (Joey Sonntag),Chevrolet,132.0,7960.0,running,0.0,103.0
+2002,17,Fort Worth,Texas Motor Speedway,1.5,paved track,21.0,29.0,11.0,Aaron Daniel,Athan Tax & Accounting / Jensen (Steve Chick),Ford,125.0,7635.0,engine,0.0,100.0
+2002,17,Fort Worth,Texas Motor Speedway,1.5,paved track,22.0,12.0,29.0,Terry Cook,Power Stroke Diesel (Bob Keselowski),Ford,115.0,8535.0,engine,0.0,97.0
+2002,17,Fort Worth,Texas Motor Speedway,1.5,paved track,23.0,17.0,88.0,Matt Crafton,Menards / Sealmaster (Duke Thorson),Chevrolet,103.0,8435.0,engine,0.0,94.0
+2002,17,Fort Worth,Texas Motor Speedway,1.5,paved track,24.0,9.0,63.0,Carl Edwards,Mittler Brothers / Smokin' K (Mike Mittler),Ford,98.0,7335.0,vibration,0.0,91.0
+2002,17,Fort Worth,Texas Motor Speedway,1.5,paved track,25.0,16.0,39.0,Steve Portenga,Roto-Rooter (Steve Portenga),Chevrolet,94.0,7235.0,valve,0.0,88.0
+2002,17,Fort Worth,Texas Motor Speedway,1.5,paved track,26.0,27.0,28.0,Conrad Burr,UFA-FDNY / National Peening (Jim Rosenblum),Chevrolet,79.0,7135.0,running,0.0,85.0
+2002,17,Fort Worth,Texas Motor Speedway,1.5,paved track,27.0,24.0,27.0,Doug Keller,Keller Motorsports (Doug Keller),Chevrolet,56.0,7035.0,valve,0.0,82.0
+2002,17,Fort Worth,Texas Motor Speedway,1.5,paved track,28.0,6.0,8.0,Bill Lester,Dodge Motorsports (Bobby Hamilton Racing),Dodge,49.0,6935.0,running,0.0,79.0
+2002,17,Fort Worth,Texas Motor Speedway,1.5,paved track,29.0,23.0,86.0,Lance Hooper,Red Line Synthetic Oil (Phil Bonifield),Chevrolet,37.0,6835.0,engine,0.0,76.0
+2002,17,Fort Worth,Texas Motor Speedway,1.5,paved track,30.0,21.0,43.0,Carlos Contreras,Hot Wheels (Petty Enterprises),Dodge,29.0,6735.0,engine,0.0,73.0
+2002,17,Fort Worth,Texas Motor Speedway,1.5,paved track,31.0,35.0,25.0,Barry Bodine,Red Line Oil / Lane Automotive (Phil Bonifield),Chevrolet,20.0,6645.0,overheating,0.0,70.0
+2002,17,Fort Worth,Texas Motor Speedway,1.5,paved track,32.0,33.0,93.0,Michael Dokken,Troxell Racing (Lonnie Troxell),Chevrolet,8.0,6635.0,rear end,0.0,67.0
+2002,17,Fort Worth,Texas Motor Speedway,1.5,paved track,33.0,31.0,23.0,Phil Bonifield,Red Line Oil / Motor State Perf. (Tom Mazzuchi),Chevrolet,7.0,6625.0,ignition,0.0,64.0
+2002,17,Fort Worth,Texas Motor Speedway,1.5,paved track,34.0,19.0,89.0,Stan Boyd,Engineered Victories (James Liguori),Chevrolet,6.0,6615.0,suspension,0.0,61.0
+2002,17,Fort Worth,Texas Motor Speedway,1.5,paved track,35.0,34.0,0.0,Patrick Lawler,Cellution / Intensitee Racewear (Larry Richardson),Chevrolet,0.0,6605.0,engine,0.0,58.0
+2002,18,South Boston,South Boston Speedway,0.4,paved track,1.0,2.0,16.0,Mike Bliss,IWX Motor Freight / Knights Inn (Steve Coulter),Chevrolet,257.0,41250.0,running,59.0,180.0
+2002,18,South Boston,South Boston Speedway,0.4,paved track,2.0,3.0,46.0,Dennis Setzer,Acxiom / Computer Associates (David Dollar),Chevrolet,257.0,25975.0,running,0.0,170.0
+2002,18,South Boston,South Boston Speedway,0.4,paved track,3.0,4.0,14.0,Rick Crawford,Circle Bar Motel & RV Park (Tom Mitchell),Ford,257.0,18875.0,running,0.0,165.0
+2002,18,South Boston,South Boston Speedway,0.4,paved track,4.0,9.0,20.0,Coy Gibbs,MBNA (Joe Gibbs),Chevrolet,257.0,11950.0,running,53.0,165.0
+2002,18,South Boston,South Boston Speedway,0.4,paved track,5.0,15.0,60.0,Travis Kvapil,CAT Rental Stores (Mike Addington),Chevrolet,257.0,10900.0,running,0.0,155.0
+2002,18,South Boston,South Boston Speedway,0.4,paved track,6.0,11.0,50.0,Jon Wood,Navy Racing (Jack Roush),Ford,257.0,9875.0,running,0.0,150.0
+2002,18,South Boston,South Boston Speedway,0.4,paved track,7.0,17.0,75.0,David Starr,Spears Manufacturing (Wayne Spears),Chevrolet,257.0,8975.0,running,53.0,151.0
+2002,18,South Boston,South Boston Speedway,0.4,paved track,8.0,18.0,8.0,Bobby Dotter,Albertson's / People Against Drugs (Gene Christensen),Chevrolet,257.0,8925.0,running,0.0,142.0
+2002,18,South Boston,South Boston Speedway,0.4,paved track,9.0,7.0,2.0,Jason Leffler,Team ASE / Carquest (Jim Smith),Dodge,257.0,8825.0,running,0.0,138.0
+2002,18,South Boston,South Boston Speedway,0.4,paved track,10.0,12.0,4.0,Ryan Hemphill,Hamilton Racing (Bobby Hamilton Racing),Dodge,257.0,10250.0,running,0.0,134.0
+2002,18,South Boston,South Boston Speedway,0.4,paved track,11.0,6.0,62.0,Brendan Gaughan,NAPA Auto Parts (Michael Gaughan),Dodge,257.0,9725.0,running,0.0,130.0
+2002,18,South Boston,South Boston Speedway,0.4,paved track,12.0,26.0,88.0,Matt Crafton,Menards / Sealmaster (Duke Thorson),Chevrolet,256.0,10115.0,running,0.0,127.0
+2002,18,South Boston,South Boston Speedway,0.4,paved track,13.0,13.0,39.0,Steve Portenga,Roto-Rooter (Steve Portenga),Chevrolet,256.0,8565.0,running,0.0,124.0
+2002,18,South Boston,South Boston Speedway,0.4,paved track,14.0,1.0,1.0,Ted Musgrave,Mopar Performance (Jim Smith),Dodge,256.0,11840.0,running,92.0,131.0
+2002,18,South Boston,South Boston Speedway,0.4,paved track,15.0,20.0,90.0,Lance Norick,Express Personnel Services (Ron Norick),Chevrolet,256.0,8715.0,running,0.0,118.0
+2002,18,South Boston,South Boston Speedway,0.4,paved track,16.0,25.0,86.0,Lance Hooper,Blair.com / Red Line Oil (Phil Bonifield),Chevrolet,256.0,8365.0,running,0.0,115.0
+2002,18,South Boston,South Boston Speedway,0.4,paved track,17.0,31.0,8.0,Bill Lester,Dodge Motorsports (Bobby Hamilton Racing),Dodge,255.0,8315.0,running,0.0,112.0
+2002,18,South Boston,South Boston Speedway,0.4,paved track,18.0,21.0,72.0,Randy MacDonald,businessdriver.com (Doc MacDonald),Chevrolet,254.0,8265.0,running,0.0,109.0
+2002,18,South Boston,South Boston Speedway,0.4,paved track,19.0,33.0,79.0,Jerry Hill,RDS Racing Engines (Rodney Smith),Dodge,254.0,6965.0,running,0.0,106.0
+2002,18,South Boston,South Boston Speedway,0.4,paved track,20.0,16.0,45.0,Adam Clarke,Richard Petty Driving Experience (Petty Enterprises),Dodge,251.0,6165.0,running,0.0,0.0
+2002,18,South Boston,South Boston Speedway,0.4,paved track,21.0,22.0,17.0,Andy Houston,Hardee's (James Harris),Dodge,250.0,5615.0,ignition,0.0,100.0
+2002,18,South Boston,South Boston Speedway,0.4,paved track,22.0,14.0,15.0,Brian Rose,Perry Connection (Billy Ballew),Ford,248.0,6565.0,running,0.0,97.0
+2002,18,South Boston,South Boston Speedway,0.4,paved track,23.0,23.0,43.0,Carlos Contreras,Hot Wheels (Petty Enterprises),Dodge,241.0,5515.0,running,0.0,94.0
+2002,18,South Boston,South Boston Speedway,0.4,paved track,24.0,8.0,18.0,Robert Pressley,Dickies / Square D (Bobby Hamilton Racing),Dodge,241.0,5465.0,running,0.0,91.0
+2002,18,South Boston,South Boston Speedway,0.4,paved track,25.0,5.0,29.0,Terry Cook,Power Stroke Diesel (Bob Keselowski),Ford,199.0,5440.0,running,0.0,88.0
+2002,18,South Boston,South Boston Speedway,0.4,paved track,26.0,19.0,59.0,Tommy Pistone,Pistone Race Cars & Parts (Tom Pistone),Ford,188.0,5390.0,crash,0.0,85.0
+2002,18,South Boston,South Boston Speedway,0.4,paved track,27.0,24.0,7.0,Jason Small,Sunbelt Rentals (Gene Christensen),Chevrolet,167.0,5365.0,running,0.0,82.0
+2002,18,South Boston,South Boston Speedway,0.4,paved track,28.0,30.0,41.0,Clay Collier,Col-Met (Jim Collier),Dodge,146.0,5340.0,crash,0.0,79.0
+2002,18,South Boston,South Boston Speedway,0.4,paved track,29.0,28.0,63.0,Regan Smith,Mittler Brothers Machine & Tool (Mike Mittler),Ford,123.0,5315.0,engine,0.0,76.0
+2002,18,South Boston,South Boston Speedway,0.4,paved track,30.0,35.0,23.0,Dana White,Red Line Oil / Motor State Perf. (Tom Mazzuchi),Chevrolet,86.0,5290.0,crash,0.0,73.0
+2002,18,South Boston,South Boston Speedway,0.4,paved track,31.0,29.0,54.0,Brian Sockwell,Lowdermilk Electric (Dennis Sockwell),Chevrolet,72.0,5265.0,crash,0.0,0.0
+2002,18,South Boston,South Boston Speedway,0.4,paved track,32.0,27.0,0.0,Ryan McGlynn,Pro Financial Services (Raynard McGlynn),Chevrolet,64.0,5240.0,crash,0.0,67.0
+2002,18,South Boston,South Boston Speedway,0.4,paved track,33.0,36.0,28.0,Conrad Burr,UFA-FDNY / National Peening (Jim Rosenblum),Chevrolet,55.0,5215.0,crash,0.0,64.0
+2002,18,South Boston,South Boston Speedway,0.4,paved track,34.0,10.0,84.0,Jamey Caudill,Bojangles' / Wayne Realty (Robert Long),Ford,54.0,5190.0,crash,0.0,0.0
+2002,18,South Boston,South Boston Speedway,0.4,paved track,35.0,32.0,5.0,Scott Kirkpatrick,Tums Antacid / Tums Cool Relief (Rick Ware),Dodge,18.0,5165.0,crash,0.0,58.0
+2002,18,South Boston,South Boston Speedway,0.4,paved track,36.0,34.0,93.0,Brad Bennett,Troxell Racing (Lonnie Troxell),Chevrolet,18.0,5140.0,rear end,0.0,55.0
+2002,19,Las Vegas,Las Vegas Motor Speedway,1.5,paved track,1.0,1.0,75.0,David Starr,Spears Manufacturing (Wayne Spears),Chevrolet,146.0,43200.0,running,28.0,180.0
+2002,19,Las Vegas,Las Vegas Motor Speedway,1.5,paved track,2.0,6.0,16.0,Mike Bliss,IWX Motor Freight / Knights Inn (Steve Coulter),Chevrolet,146.0,27850.0,running,66.0,180.0
+2002,19,Las Vegas,Las Vegas Motor Speedway,1.5,paved track,3.0,9.0,46.0,Dennis Setzer,Acxiom / Computer Associates (David Dollar),Chevrolet,146.0,12175.0,running,0.0,165.0
+2002,19,Las Vegas,Las Vegas Motor Speedway,1.5,paved track,4.0,11.0,60.0,Travis Kvapil,CAT Rental Stores (Mike Addington),Chevrolet,146.0,14800.0,running,2.0,165.0
+2002,19,Las Vegas,Las Vegas Motor Speedway,1.5,paved track,5.0,7.0,2.0,Jason Leffler,Team ASE / Carquest (Jim Smith),Dodge,146.0,13400.0,running,0.0,155.0
+2002,19,Las Vegas,Las Vegas Motor Speedway,1.5,paved track,6.0,3.0,14.0,Rick Crawford,Circle Bar Motel & RV Park (Tom Mitchell),Ford,146.0,12225.0,running,0.0,150.0
+2002,19,Las Vegas,Las Vegas Motor Speedway,1.5,paved track,7.0,15.0,18.0,Robert Pressley,Dickies / Square D (Bobby Hamilton Racing),Dodge,146.0,11075.0,running,0.0,146.0
+2002,19,Las Vegas,Las Vegas Motor Speedway,1.5,paved track,8.0,2.0,62.0,Brendan Gaughan,NAPA Auto Parts (Michael Gaughan),Dodge,145.0,11725.0,running,0.0,142.0
+2002,19,Las Vegas,Las Vegas Motor Speedway,1.5,paved track,9.0,5.0,1.0,Ted Musgrave,Mopar Performance (Jim Smith),Dodge,145.0,10675.0,running,44.0,143.0
+2002,19,Las Vegas,Las Vegas Motor Speedway,1.5,paved track,10.0,17.0,7.0,Jason Small,Sunbelt Rentals (Gene Christensen),Chevrolet,145.0,11925.0,running,0.0,134.0
+2002,19,Las Vegas,Las Vegas Motor Speedway,1.5,paved track,11.0,19.0,90.0,Lance Norick,Express Personnel Services (Ron Norick),Chevrolet,145.0,10575.0,running,0.0,130.0
+2002,19,Las Vegas,Las Vegas Motor Speedway,1.5,paved track,12.0,18.0,15.0,Andy Houston,Ballew Motorsports (Billy Ballew),Ford,145.0,10440.0,running,0.0,127.0
+2002,19,Las Vegas,Las Vegas Motor Speedway,1.5,paved track,13.0,20.0,43.0,Carlos Contreras,Hot Wheels (Petty Enterprises),Dodge,145.0,10390.0,running,0.0,124.0
+2002,19,Las Vegas,Las Vegas Motor Speedway,1.5,paved track,14.0,4.0,4.0,Ryan Hemphill,Hamilton Racing (Bobby Hamilton Racing),Dodge,144.0,10340.0,ignition,5.0,126.0
+2002,19,Las Vegas,Las Vegas Motor Speedway,1.5,paved track,15.0,8.0,20.0,Coy Gibbs,MBNA (Joe Gibbs),Chevrolet,144.0,10490.0,running,1.0,123.0
+2002,19,Las Vegas,Las Vegas Motor Speedway,1.5,paved track,16.0,31.0,8.0,Bobby Dotter,Albertson's / People Against Drugs (Gene Christensen),Chevrolet,144.0,11640.0,running,0.0,115.0
+2002,19,Las Vegas,Las Vegas Motor Speedway,1.5,paved track,17.0,12.0,8.0,Bill Lester,Dodge Motorsports (Bobby Hamilton Racing),Dodge,143.0,10040.0,running,0.0,112.0
+2002,19,Las Vegas,Las Vegas Motor Speedway,1.5,paved track,18.0,16.0,50.0,Jon Wood,Navy Racing (Jack Roush),Ford,143.0,9940.0,running,0.0,109.0
+2002,19,Las Vegas,Las Vegas Motor Speedway,1.5,paved track,19.0,27.0,66.0,Lonnie Cox,Carnes-Cox-Higgs (Dan Higgs),Ford,142.0,7590.0,running,0.0,106.0
+2002,19,Las Vegas,Las Vegas Motor Speedway,1.5,paved track,20.0,30.0,27.0,Doug Keller,Keller Motorsports (Doug Keller),Chevrolet,141.0,7765.0,running,0.0,103.0
+2002,19,Las Vegas,Las Vegas Motor Speedway,1.5,paved track,21.0,29.0,34.0,Eric Jones,Safelite Auto Glass (Ron Jones),Chevrolet,140.0,7390.0,running,0.0,100.0
+2002,19,Las Vegas,Las Vegas Motor Speedway,1.5,paved track,22.0,23.0,72.0,Randy MacDonald,TheGoal.com (Doc MacDonald),Chevrolet,136.0,8290.0,running,0.0,97.0
+2002,19,Las Vegas,Las Vegas Motor Speedway,1.5,paved track,23.0,34.0,28.0,Conrad Burr,"UFA-FDNY / New York, New York (Jim Rosenblum)",Chevrolet,134.0,7190.0,running,0.0,94.0
+2002,19,Las Vegas,Las Vegas Motor Speedway,1.5,paved track,24.0,32.0,79.0,Jerry Hill,RDS Racing Engines (Rodney Smith),Dodge,130.0,8090.0,running,0.0,91.0
+2002,19,Las Vegas,Las Vegas Motor Speedway,1.5,paved track,25.0,14.0,88.0,Matt Crafton,Menards / Sealmaster (Duke Thorson),Chevrolet,126.0,7065.0,running,0.0,88.0
+2002,19,Las Vegas,Las Vegas Motor Speedway,1.5,paved track,26.0,22.0,86.0,Lance Hooper,Red Line Oil (Phil Bonifield),Chevrolet,125.0,7040.0,running,0.0,85.0
+2002,19,Las Vegas,Las Vegas Motor Speedway,1.5,paved track,27.0,10.0,29.0,Terry Cook,Power Stroke Diesel (Bob Keselowski),Ford,121.0,7015.0,running,0.0,82.0
+2002,19,Las Vegas,Las Vegas Motor Speedway,1.5,paved track,28.0,24.0,39.0,Steve Portenga,Roto-Rooter (Steve Portenga),Chevrolet,108.0,6990.0,engine,0.0,79.0
+2002,19,Las Vegas,Las Vegas Motor Speedway,1.5,paved track,29.0,25.0,21.0,Morgan Shepherd,Shepherd Motorsports (Morgan Shepherd),Ford,66.0,6965.0,handling,0.0,76.0
+2002,19,Las Vegas,Las Vegas Motor Speedway,1.5,paved track,30.0,21.0,58.0,Chris Horn,Hornengines.com (Fred Horn),Chevrolet,63.0,6940.0,engine,0.0,73.0
+2002,19,Las Vegas,Las Vegas Motor Speedway,1.5,paved track,31.0,26.0,89.0,Stan Boyd,Engineered Victories (James Liguori),Chevrolet,48.0,6915.0,ignition,0.0,70.0
+2002,19,Las Vegas,Las Vegas Motor Speedway,1.5,paved track,32.0,36.0,19.0,Ricky Sanders,Pitboxes.com / Billet Race Products (James Murphy),Ford,28.0,6890.0,handling,0.0,67.0
+2002,19,Las Vegas,Las Vegas Motor Speedway,1.5,paved track,33.0,35.0,0.0,Loni Richardson,Cellution / Intensitee Racewear (Larry Richardson),Chevrolet,14.0,6865.0,engine,0.0,64.0
+2002,19,Las Vegas,Las Vegas Motor Speedway,1.5,paved track,34.0,33.0,23.0,Dana White,Coverall Carports (Tom Mazzuchi),Chevrolet,6.0,6840.0,handling,0.0,61.0
+2002,19,Las Vegas,Las Vegas Motor Speedway,1.5,paved track,35.0,28.0,25.0,Brian Rose,Circus-Circus (Phil Bonifield),Chevrolet,3.0,6815.0,electrical,0.0,58.0
+2002,19,Las Vegas,Las Vegas Motor Speedway,1.5,paved track,36.0,13.0,63.0,Carl Edwards,Mittler Brothers Machine & Tool (Mike Mittler),Ford,1.0,6790.0,engine,0.0,55.0
+2002,20,Fontana,California Speedway,2.0,paved track,1.0,11.0,1.0,Ted Musgrave,Mopar Performance (Jim Smith),Dodge,100.0,51835.0,running,51.0,185.0
+2002,20,Fontana,California Speedway,2.0,paved track,2.0,8.0,2.0,Jason Leffler,Team ASE / Carquest (Jim Smith),Dodge,100.0,36175.0,running,9.0,175.0
+2002,20,Fontana,California Speedway,2.0,paved track,3.0,9.0,62.0,Brendan Gaughan,NAPA Auto Parts (Michael Gaughan),Dodge,100.0,28015.0,running,5.0,170.0
+2002,20,Fontana,California Speedway,2.0,paved track,4.0,7.0,60.0,Travis Kvapil,CAT Rental Stores (Mike Addington),Chevrolet,100.0,18125.0,running,2.0,165.0
+2002,20,Fontana,California Speedway,2.0,paved track,5.0,10.0,14.0,Rick Crawford,Circle Bar Motel & RV Park (Tom Mitchell),Ford,100.0,17125.0,running,2.0,160.0
+2002,20,Fontana,California Speedway,2.0,paved track,6.0,2.0,20.0,Coy Gibbs,MBNA (Joe Gibbs),Chevrolet,100.0,14525.0,running,0.0,150.0
+2002,20,Fontana,California Speedway,2.0,paved track,7.0,5.0,18.0,Robert Pressley,Dickies / Square D (Bobby Hamilton Racing),Dodge,100.0,14450.0,running,17.0,151.0
+2002,20,Fontana,California Speedway,2.0,paved track,8.0,14.0,46.0,Dennis Setzer,Acxiom / Computer Associates / Makita (David Dollar),Chevrolet,100.0,14150.0,running,0.0,142.0
+2002,20,Fontana,California Speedway,2.0,paved track,9.0,4.0,16.0,Mike Bliss,IWX Motor Freight / Knights Inn (Steve Coulter),Chevrolet,100.0,13700.0,running,2.0,143.0
+2002,20,Fontana,California Speedway,2.0,paved track,10.0,13.0,29.0,Terry Cook,Power Stroke Diesel (Bob Keselowski),Ford,100.0,14800.0,running,0.0,134.0
+2002,20,Fontana,California Speedway,2.0,paved track,11.0,1.0,75.0,David Starr,Spears Manufacturing (Wayne Spears),Chevrolet,100.0,14500.0,running,12.0,135.0
+2002,20,Fontana,California Speedway,2.0,paved track,12.0,12.0,15.0,Andy Houston,Ballew Motorsports (Billy Ballew),Ford,100.0,13015.0,running,0.0,127.0
+2002,20,Fontana,California Speedway,2.0,paved track,13.0,15.0,50.0,Jon Wood,Navy Racing (Jack Roush),Ford,100.0,12965.0,running,0.0,124.0
+2002,20,Fontana,California Speedway,2.0,paved track,14.0,3.0,8.0,Bill Lester,Dodge Motorsports (Bobby Hamilton Racing),Dodge,100.0,12715.0,running,0.0,121.0
+2002,20,Fontana,California Speedway,2.0,paved track,15.0,25.0,8.0,Bobby Dotter,Albertson's / People Against Drugs (Gene Christensen),Chevrolet,99.0,12865.0,running,0.0,118.0
+2002,20,Fontana,California Speedway,2.0,paved track,16.0,21.0,90.0,Lance Norick,Express Personnel Services (Ron Norick),Chevrolet,99.0,12340.0,running,0.0,115.0
+2002,20,Fontana,California Speedway,2.0,paved track,17.0,17.0,88.0,Matt Crafton,Menards / Sealmaster (Duke Thorson),Chevrolet,99.0,12215.0,running,0.0,112.0
+2002,20,Fontana,California Speedway,2.0,paved track,18.0,20.0,43.0,Carlos Contreras,Hot Wheels (Petty Enterprises),Dodge,99.0,12190.0,running,0.0,109.0
+2002,20,Fontana,California Speedway,2.0,paved track,19.0,30.0,79.0,Jerry Hill,RDS Racing Engines (Rodney Smith),Dodge,98.0,10915.0,running,0.0,106.0
+2002,20,Fontana,California Speedway,2.0,paved track,20.0,35.0,93.0,Randy MacDonald,Troxell Racing (Lonnie Troxell),Chevrolet,97.0,12615.0,running,0.0,103.0
+2002,20,Fontana,California Speedway,2.0,paved track,21.0,29.0,19.0,Ricky Sanders,Pitboxes.com / Billet Race Products (James Murphy),Ford,95.0,9865.0,running,0.0,100.0
+2002,20,Fontana,California Speedway,2.0,paved track,22.0,23.0,34.0,Eric Jones,Safelite Auto Glass (Ron Jones),Chevrolet,84.0,9840.0,vibration,0.0,97.0
+2002,20,Fontana,California Speedway,2.0,paved track,23.0,26.0,89.0,Stan Boyd,Engineered Victories (James Liguori),Chevrolet,80.0,9815.0,suspension,0.0,94.0
+2002,20,Fontana,California Speedway,2.0,paved track,24.0,24.0,7.0,Jason Small,Small Motorsports (Gene Christensen),Chevrolet,65.0,9790.0,engine,0.0,91.0
+2002,20,Fontana,California Speedway,2.0,paved track,25.0,16.0,58.0,Chris Horn,Hornengines.com (Fred Horn),Chevrolet,62.0,9765.0,vibration,0.0,88.0
+2002,20,Fontana,California Speedway,2.0,paved track,26.0,19.0,39.0,Steve Portenga,Roto-Rooter (Steve Portenga),Chevrolet,53.0,9740.0,engine,0.0,85.0
+2002,20,Fontana,California Speedway,2.0,paved track,27.0,32.0,51.0,Brian Rose,Ware Racing Enterprises (Rick Ware),Dodge,36.0,9715.0,brakes,0.0,82.0
+2002,20,Fontana,California Speedway,2.0,paved track,28.0,18.0,21.0,Morgan Shepherd,Racing With Jesus / Red Line Oil (Morgan Shepherd),Ford,23.0,9690.0,handling,0.0,79.0
+2002,20,Fontana,California Speedway,2.0,paved track,29.0,28.0,72.0,Aaron Daniel,businessdriver.com (Doc MacDonald),Chevrolet,17.0,9665.0,vibration,0.0,76.0
+2002,20,Fontana,California Speedway,2.0,paved track,30.0,36.0,73.0,Frog Hall,Cellution / Intensitee Racewear (Joey Sonntag),Chevrolet,9.0,9645.0,vibration,0.0,73.0
+2002,20,Fontana,California Speedway,2.0,paved track,31.0,34.0,25.0,Phil Bonifield,Red Line Oil / Lane Automotive (Phil Bonifield),Chevrolet,8.0,9635.0,brakes,0.0,70.0
+2002,20,Fontana,California Speedway,2.0,paved track,32.0,33.0,23.0,Wayne Edwards,Red Line Oil / Motor State Perf. (Tom Mazzuchi),Chevrolet,8.0,9625.0,vibration,0.0,67.0
+2002,20,Fontana,California Speedway,2.0,paved track,33.0,31.0,66.0,Lonnie Cox,Carnes-Cox-Higgs (Dan Higgs),Ford,6.0,9615.0,valve,0.0,64.0
+2002,20,Fontana,California Speedway,2.0,paved track,34.0,27.0,86.0,Lance Hooper,Blair.com / Red Line Oil (Phil Bonifield),Chevrolet,5.0,9605.0,engine,0.0,61.0
+2002,20,Fontana,California Speedway,2.0,paved track,35.0,22.0,0.0,Michael Dokken,Cellution / Intensitee Racewear (Larry Richardson),Chevrolet,3.0,9570.0,vibration,0.0,58.0
+2002,20,Fontana,California Speedway,2.0,paved track,36.0,6.0,4.0,Rick Bogart,Hamilton Racing (Bobby Hamilton Racing),Dodge,2.0,9535.0,ignition,0.0,55.0
+2002,21,Phoenix,Phoenix International Raceway,1.0,paved track,1.0,3.0,6.0,Kevin Harvick,Harvick Motorsports (Kevin Harvick),Chevrolet,152.0,41015.0,running,77.0,185.0
+2002,21,Phoenix,Phoenix International Raceway,1.0,paved track,2.0,14.0,1.0,Ted Musgrave,Mopar Performance (Jim Smith),Dodge,152.0,27260.0,running,0.0,170.0
+2002,21,Phoenix,Phoenix International Raceway,1.0,paved track,3.0,1.0,14.0,Rick Crawford,Circle Bar Motel & RV Park (Tom Mitchell),Ford,152.0,23550.0,running,73.0,170.0
+2002,21,Phoenix,Phoenix International Raceway,1.0,paved track,4.0,17.0,60.0,Travis Kvapil,CAT Rental Stores (Mike Addington),Chevrolet,152.0,13025.0,running,0.0,160.0
+2002,21,Phoenix,Phoenix International Raceway,1.0,paved track,5.0,4.0,29.0,Terry Cook,Power Stroke Diesel (Bob Keselowski),Ford,152.0,12025.0,running,0.0,155.0
+2002,21,Phoenix,Phoenix International Raceway,1.0,paved track,6.0,28.0,20.0,Coy Gibbs,MBNA (Joe Gibbs),Chevrolet,152.0,12075.0,running,0.0,150.0
+2002,21,Phoenix,Phoenix International Raceway,1.0,paved track,7.0,15.0,52.0,Ken Schrader,Federated Auto Parts (Ken Schrader),Chevrolet,152.0,8275.0,running,0.0,146.0
+2002,21,Phoenix,Phoenix International Raceway,1.0,paved track,8.0,11.0,46.0,Dennis Setzer,Acxiom / Computer Associates / Makita (David Dollar),Chevrolet,152.0,10475.0,running,0.0,142.0
+2002,21,Phoenix,Phoenix International Raceway,1.0,paved track,9.0,9.0,88.0,Matt Crafton,Menards / Sealmaster (Duke Thorson),Chevrolet,152.0,10425.0,running,0.0,138.0
+2002,21,Phoenix,Phoenix International Raceway,1.0,paved track,10.0,5.0,16.0,Mike Bliss,IWX Motor Freight / Knights Inn (Steve Coulter),Chevrolet,152.0,11650.0,running,0.0,134.0
+2002,21,Phoenix,Phoenix International Raceway,1.0,paved track,11.0,16.0,50.0,Jon Wood,Navy Racing (Jack Roush),Ford,151.0,10175.0,running,0.0,130.0
+2002,21,Phoenix,Phoenix International Raceway,1.0,paved track,12.0,13.0,8.0,Bobby Dotter,Stanley Steemer (Gene Christensen),Chevrolet,151.0,10040.0,running,0.0,127.0
+2002,21,Phoenix,Phoenix International Raceway,1.0,paved track,13.0,23.0,62.0,Brendan Gaughan,NAPA Auto Parts (Michael Gaughan),Dodge,151.0,10990.0,running,0.0,124.0
+2002,21,Phoenix,Phoenix International Raceway,1.0,paved track,14.0,10.0,18.0,Robert Pressley,Dickies / Square D (Bobby Hamilton Racing),Dodge,151.0,9940.0,running,2.0,126.0
+2002,21,Phoenix,Phoenix International Raceway,1.0,paved track,15.0,2.0,8.0,Bill Lester,Dodge Motorsports (Bobby Hamilton Racing),Dodge,151.0,10140.0,running,0.0,118.0
+2002,21,Phoenix,Phoenix International Raceway,1.0,paved track,16.0,7.0,2.0,Jason Leffler,Team ASE / Carquest (Jim Smith),Dodge,151.0,9840.0,running,0.0,115.0
+2002,21,Phoenix,Phoenix International Raceway,1.0,paved track,17.0,19.0,15.0,Andy Houston,Ballew Motorsports (Billy Ballew),Ford,151.0,9790.0,running,0.0,112.0
+2002,21,Phoenix,Phoenix International Raceway,1.0,paved track,18.0,8.0,75.0,David Starr,Spears Manufacturing (Wayne Spears),Chevrolet,151.0,9740.0,running,0.0,109.0
+2002,21,Phoenix,Phoenix International Raceway,1.0,paved track,19.0,26.0,43.0,Carlos Contreras,Hot Wheels (Petty Enterprises),Dodge,150.0,9690.0,running,0.0,106.0
+2002,21,Phoenix,Phoenix International Raceway,1.0,paved track,20.0,31.0,93.0,Randy MacDonald,TheGoal.com (Lonnie Troxell),Chevrolet,149.0,9865.0,running,0.0,103.0
+2002,21,Phoenix,Phoenix International Raceway,1.0,paved track,21.0,30.0,4.0,Mike Cofer,North Texas Aircraft Services (Jerry Spilsbury),Ford,149.0,7315.0,running,0.0,100.0
+2002,21,Phoenix,Phoenix International Raceway,1.0,paved track,22.0,22.0,39.0,Steve Portenga,Roto-Rooter (Steve Portenga),Chevrolet,148.0,8265.0,running,0.0,97.0
+2002,21,Phoenix,Phoenix International Raceway,1.0,paved track,23.0,27.0,51.0,Brian Rose,Ware Racing Enterprises (Rick Ware),Dodge,148.0,7165.0,running,0.0,94.0
+2002,21,Phoenix,Phoenix International Raceway,1.0,paved track,24.0,21.0,89.0,Stan Boyd,NGK / Checker Auto Parts (James Liguori),Chevrolet,147.0,7065.0,running,0.0,91.0
+2002,21,Phoenix,Phoenix International Raceway,1.0,paved track,25.0,33.0,79.0,Jerry Hill,RDS Racing Engines (Rodney Smith),Dodge,146.0,7965.0,running,0.0,88.0
+2002,21,Phoenix,Phoenix International Raceway,1.0,paved track,26.0,20.0,4.0,Ryan Hemphill,Hamilton Racing (Bobby Hamilton Racing),Dodge,144.0,6865.0,crash,0.0,85.0
+2002,21,Phoenix,Phoenix International Raceway,1.0,paved track,27.0,34.0,72.0,Blake Mallory,Mobile Force Refueling (Doc MacDonald),Chevrolet,143.0,6765.0,running,0.0,82.0
+2002,21,Phoenix,Phoenix International Raceway,1.0,paved track,28.0,18.0,90.0,Lance Norick,Express Personnel Services (Ron Norick),Chevrolet,129.0,6665.0,running,0.0,79.0
+2002,21,Phoenix,Phoenix International Raceway,1.0,paved track,29.0,24.0,7.0,Jason Small,Small Motorsports (Gene Christensen),Chevrolet,122.0,6565.0,running,0.0,76.0
+2002,21,Phoenix,Phoenix International Raceway,1.0,paved track,30.0,12.0,63.0,Regan Smith,Diamond Cut Jeans / Mittler Brothers (Mike Mittler),Ford,117.0,6465.0,ignition,0.0,73.0
+2002,21,Phoenix,Phoenix International Raceway,1.0,paved track,31.0,32.0,98.0,Cory Kruseman,Agromin (Duke Thorson),Chevrolet,109.0,6430.0,engine,0.0,70.0
+2002,21,Phoenix,Phoenix International Raceway,1.0,paved track,32.0,6.0,17.0,Stacy Compton,Harris Trucking (James Harris),Dodge,70.0,6415.0,ignition,0.0,67.0
+2002,21,Phoenix,Phoenix International Raceway,1.0,paved track,33.0,25.0,21.0,Morgan Shepherd,Racing With Jesus / Red Line Oil (Morgan Shepherd),Ford,38.0,6390.0,handling,0.0,64.0
+2002,21,Phoenix,Phoenix International Raceway,1.0,paved track,34.0,35.0,23.0,Phil Bonifield,Red Line Oil / Motor State Perf. (Tom Mazzuchi),Chevrolet,10.0,6365.0,ignition,0.0,61.0
+2002,21,Phoenix,Phoenix International Raceway,1.0,paved track,35.0,36.0,34.0,Eric Jones,Safelite Auto Glass (Ron Jones),Chevrolet,3.0,6340.0,brakes,0.0,58.0
+2002,21,Phoenix,Phoenix International Raceway,1.0,paved track,36.0,29.0,86.0,Lance Hooper,Red Line Oil (Phil Bonifield),Chevrolet,2.0,6315.0,engine,0.0,55.0
+2002,22,Homestead,Homestead-Miami Speedway,1.5,paved track,1.0,5.0,11.0,"Ron Hornaday, Jr.",IWX Motor Freight / Knights Inn (David Fuge),Chevrolet,134.0,45250.0,running,21.0,180.0
+2002,22,Homestead,Homestead-Miami Speedway,1.5,paved track,2.0,2.0,1.0,Ted Musgrave,Mopar Performance (Jim Smith),Dodge,134.0,29300.0,running,96.0,180.0
+2002,22,Homestead,Homestead-Miami Speedway,1.5,paved track,3.0,3.0,2.0,Jason Leffler,Team ASE / Carquest (Jim Smith),Dodge,134.0,21875.0,running,0.0,165.0
+2002,22,Homestead,Homestead-Miami Speedway,1.5,paved track,4.0,33.0,18.0,Robert Pressley,Dickies (Bobby Hamilton Racing),Dodge,134.0,19425.0,running,0.0,160.0
+2002,22,Homestead,Homestead-Miami Speedway,1.5,paved track,5.0,1.0,16.0,Mike Bliss,IWX Motor Freight / Knights Inn (Steve Coulter),Chevrolet,134.0,17250.0,running,12.0,160.0
+2002,22,Homestead,Homestead-Miami Speedway,1.5,paved track,6.0,15.0,46.0,Dennis Setzer,Acxiom / Computer Associates / Makita (David Dollar),Chevrolet,134.0,15425.0,running,0.0,150.0
+2002,22,Homestead,Homestead-Miami Speedway,1.5,paved track,7.0,4.0,14.0,Rick Crawford,Circle Bar Motel & RV Park (Tom Mitchell),Ford,133.0,15175.0,running,0.0,146.0
+2002,22,Homestead,Homestead-Miami Speedway,1.5,paved track,8.0,12.0,75.0,David Starr,Spears Manufacturing (Wayne Spears),Chevrolet,133.0,14725.0,running,4.0,147.0
+2002,22,Homestead,Homestead-Miami Speedway,1.5,paved track,9.0,10.0,88.0,Matt Crafton,Menards / Agromin (Duke Thorson),Chevrolet,133.0,14675.0,running,0.0,138.0
+2002,22,Homestead,Homestead-Miami Speedway,1.5,paved track,10.0,7.0,29.0,Terry Cook,Power Stroke Diesel (Bob Keselowski),Ford,133.0,15625.0,running,0.0,134.0
+2002,22,Homestead,Homestead-Miami Speedway,1.5,paved track,11.0,13.0,62.0,Brendan Gaughan,NAPA Auto Parts (Michael Gaughan),Dodge,133.0,15225.0,running,0.0,130.0
+2002,22,Homestead,Homestead-Miami Speedway,1.5,paved track,12.0,11.0,20.0,Coy Gibbs,MBNA (Joe Gibbs),Chevrolet,133.0,14040.0,running,0.0,127.0
+2002,22,Homestead,Homestead-Miami Speedway,1.5,paved track,13.0,14.0,17.0,Stacy Compton,Harris Trucking (James Harris),Dodge,133.0,11665.0,running,0.0,124.0
+2002,22,Homestead,Homestead-Miami Speedway,1.5,paved track,14.0,19.0,50.0,Jon Wood,Navy Racing (Jack Roush),Ford,133.0,13815.0,running,0.0,121.0
+2002,22,Homestead,Homestead-Miami Speedway,1.5,paved track,15.0,6.0,60.0,Travis Kvapil,CAT Rental Stores (Mike Addington),Chevrolet,133.0,13865.0,running,1.0,123.0
+2002,22,Homestead,Homestead-Miami Speedway,1.5,paved track,16.0,23.0,3.0,Barry Bodine,Miccosukee Gaming Group (Steve Prescott),Chevrolet,133.0,11465.0,running,0.0,115.0
+2002,22,Homestead,Homestead-Miami Speedway,1.5,paved track,17.0,25.0,15.0,Andy Houston,Ballew Motorsports (Billy Ballew),Ford,132.0,13515.0,running,0.0,112.0
+2002,22,Homestead,Homestead-Miami Speedway,1.5,paved track,18.0,9.0,8.0,Bill Lester,Dodge Motorsports (Bobby Hamilton Racing),Dodge,132.0,13415.0,running,0.0,109.0
+2002,22,Homestead,Homestead-Miami Speedway,1.5,paved track,19.0,34.0,39.0,Steve Portenga,Roto-Rooter (Steve Portenga),Chevrolet,132.0,13315.0,running,0.0,106.0
+2002,22,Homestead,Homestead-Miami Speedway,1.5,paved track,20.0,21.0,8.0,Bobby Dotter,Stanley Steemer (Gene Christensen),Chevrolet,132.0,13440.0,running,0.0,103.0
+2002,22,Homestead,Homestead-Miami Speedway,1.5,paved track,21.0,22.0,90.0,Lance Norick,Express Personnel Services (Ron Norick),Chevrolet,131.0,13015.0,running,0.0,100.0
+2002,22,Homestead,Homestead-Miami Speedway,1.5,paved track,22.0,20.0,7.0,Jason Small,Small Motorsports (Gene Christensen),Chevrolet,131.0,11540.0,running,0.0,97.0
+2002,22,Homestead,Homestead-Miami Speedway,1.5,paved track,23.0,26.0,93.0,Randy MacDonald,TheGoal.com (Lonnie Troxell),Chevrolet,131.0,11415.0,running,0.0,94.0
+2002,22,Homestead,Homestead-Miami Speedway,1.5,paved track,24.0,30.0,43.0,Carlos Contreras,Hot Wheels (Petty Enterprises),Dodge,128.0,10115.0,running,0.0,91.0
+2002,22,Homestead,Homestead-Miami Speedway,1.5,paved track,25.0,32.0,79.0,Jerry Hill,RDS Racing Engines (Rodney Smith),Dodge,127.0,9915.0,running,0.0,88.0
+2002,22,Homestead,Homestead-Miami Speedway,1.5,paved track,26.0,36.0,5.0,Mike Cofer,Ware Racing Enterprises (Rick Ware),Dodge,122.0,9715.0,running,0.0,85.0
+2002,22,Homestead,Homestead-Miami Speedway,1.5,paved track,27.0,24.0,7.0,Bryan Reffner,Quality First Performance (John Conely),Chevrolet,116.0,9515.0,engine,0.0,82.0
+2002,22,Homestead,Homestead-Miami Speedway,1.5,paved track,28.0,8.0,4.0,Ryan Hemphill,Square D (Bobby Hamilton Racing),Dodge,93.0,9315.0,handling,0.0,79.0
+2002,22,Homestead,Homestead-Miami Speedway,1.5,paved track,29.0,28.0,54.0,Brian Sockwell,Lowdermilk Electric (Dennis Sockwell),Chevrolet,91.0,9115.0,engine,0.0,76.0
+2002,22,Homestead,Homestead-Miami Speedway,1.5,paved track,30.0,17.0,52.0,Ken Schrader,Federated Auto Parts (Ken Schrader),Chevrolet,87.0,8390.0,engine,0.0,73.0
+2002,22,Homestead,Homestead-Miami Speedway,1.5,paved track,31.0,18.0,86.0,Lance Hooper,Baker Custom Homes (Phil Bonifield),Chevrolet,76.0,8365.0,engine,0.0,70.0
+2002,22,Homestead,Homestead-Miami Speedway,1.5,paved track,32.0,16.0,21.0,Morgan Shepherd,Racing With Jesus / Red Line Oil (Morgan Shepherd),Ford,66.0,8340.0,handling,0.0,67.0
+2002,22,Homestead,Homestead-Miami Speedway,1.5,paved track,33.0,31.0,51.0,Brian Rose,Ware Racing Enterprises (Rick Ware),Dodge,65.0,8315.0,engine,0.0,64.0
+2002,22,Homestead,Homestead-Miami Speedway,1.5,paved track,34.0,35.0,72.0,Teri MacDonald,MacDonald Motorsports (Doc MacDonald),Chevrolet,53.0,8290.0,handling,0.0,61.0
+2002,22,Homestead,Homestead-Miami Speedway,1.5,paved track,35.0,29.0,89.0,Stan Boyd,NGK Spark Plugs (James Liguori),Chevrolet,3.0,8265.0,axle,0.0,58.0
+2002,22,Homestead,Homestead-Miami Speedway,1.5,paved track,36.0,27.0,34.0,Eric Jones,Safelite Auto Glass (Ron Jones),Chevrolet,2.0,8240.0,engine,0.0,55.0

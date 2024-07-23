@@ -1,0 +1,788 @@
+Season,Race,Site,Track,Track_length,Track_type,Pos,St,#,Driver,Sponsor / Owner,Truck,Laps,Money,Status,Led,Pts
+2012,1,Daytona,Daytona International Speedway,2.5,paved track,1.0,23.0,7.0,John King,Red Horse Racing (Tom DeLoach),Toyota,109.0,76525.0,running,6.0,47.0
+2012,1,Daytona,Daytona International Speedway,2.5,paved track,2.0,27.0,17.0,Timothy Peters,Tire Kingdom / Service Central (Tom DeLoach),Toyota,109.0,49490.0,running,0.0,42.0
+2012,1,Daytona,Daytona International Speedway,2.5,paved track,3.0,15.0,6.0,Justin Lofton,CollegeComplete.com (Eddie Sharp),Chevrolet,109.0,36285.0,running,0.0,41.0
+2012,1,Daytona,Daytona International Speedway,2.5,paved track,4.0,19.0,9.0,Travis Kvapil,Toyota Parts & Service / ToyotaRacing.com (Robby Benton),Toyota,109.0,23200.0,running,0.0,0.0
+2012,1,Daytona,Daytona International Speedway,2.5,paved track,5.0,8.0,23.0,Jason White,GunBroker.com (Jason White),Ford,109.0,23550.0,running,16.0,40.0
+2012,1,Daytona,Daytona International Speedway,2.5,paved track,6.0,10.0,11.0,Todd Bodine,Good Sam Roadside Assistance (Tom DeLoach),Toyota,109.0,16375.0,running,0.0,38.0
+2012,1,Daytona,Daytona International Speedway,2.5,paved track,7.0,22.0,84.0,Chris Fontaine,Glenden Enterprises / Ultra-Fit (Chris Fontaine),Toyota,109.0,15175.0,running,0.0,37.0
+2012,1,Daytona,Daytona International Speedway,2.5,paved track,8.0,25.0,27.0,Ward Burton,State Water Heaters (Mike Hillman),Chevrolet,109.0,16425.0,running,0.0,36.0
+2012,1,Daytona,Daytona International Speedway,2.5,paved track,9.0,4.0,3.0,Ty Dillon,Bass Pro Shops / Tracker Boats (Richard Childress),Chevrolet,109.0,15425.0,running,0.0,35.0
+2012,1,Daytona,Daytona International Speedway,2.5,paved track,10.0,26.0,68.0,Clay Greenfield,Lally Horse Stables/Dawn Stanfill Foundation (Bill Alger),RAM,109.0,15650.0,running,0.0,34.0
+2012,1,Daytona,Daytona International Speedway,2.5,paved track,11.0,28.0,29.0,Parker Kligerman,Cooper Standard (Brad Keselowski),RAM,109.0,14325.0,running,0.0,33.0
+2012,1,Daytona,Daytona International Speedway,2.5,paved track,12.0,21.0,82.0,Grant Enfinger,Preble-Rish Inc. (George Bragg),Ford,109.0,11900.0,running,0.0,32.0
+2012,1,Daytona,Daytona International Speedway,2.5,paved track,13.0,16.0,15.0,Dusty Davis,Thunderexhaust.com (Joey Arrington),RAM,109.0,11800.0,running,0.0,31.0
+2012,1,Daytona,Daytona International Speedway,2.5,paved track,14.0,12.0,9.0,"Ron Hornaday, Jr.",Anderson's Maple Syrup (Joe Dennette),Chevrolet,109.0,11675.0,running,0.0,30.0
+2012,1,Daytona,Daytona International Speedway,2.5,paved track,15.0,33.0,39.0,Ryan Sieg,Pull-A-Part / HomeSmart Storm Solutions (Rod Sieg),Chevrolet,109.0,14900.0,running,0.0,29.0
+2012,1,Daytona,Daytona International Speedway,2.5,paved track,16.0,35.0,93.0,Chris Cockrum,Advanced Communications Group / Accu-Tech (Rod Sieg),Chevrolet,109.0,13625.0,running,0.0,28.0
+2012,1,Daytona,Daytona International Speedway,2.5,paved track,17.0,3.0,31.0,James Buescher,AccuDoc Solutions (Steve Turner),Chevrolet,109.0,13520.0,running,10.0,28.0
+2012,1,Daytona,Daytona International Speedway,2.5,paved track,18.0,9.0,22.0,Joey Coulter,Mama Lucia Fully Cooked Meatballs (Richard Childress),Chevrolet,108.0,13400.0,crash,0.0,26.0
+2012,1,Daytona,Daytona International Speedway,2.5,paved track,19.0,14.0,5.0,Paulie Harraka,Phyzix / Nexemo (Richie Wauters),Ford,105.0,13300.0,running,0.0,25.0
+2012,1,Daytona,Daytona International Speedway,2.5,paved track,20.0,11.0,2.0,Brendan Gaughan,South Point Hotel & Casino (Richard Childress),Chevrolet,104.0,13825.0,crash,0.0,0.0
+2012,1,Daytona,Daytona International Speedway,2.5,paved track,21.0,17.0,81.0,David Starr,Zachry (Joey Arrington),Toyota,104.0,10850.0,crash,0.0,23.0
+2012,1,Daytona,Daytona International Speedway,2.5,paved track,22.0,2.0,30.0,"Nelson Piquet, Jr.",AutoTrac / Qualcomm (Steve Turner),Chevrolet,104.0,13000.0,crash,15.0,23.0
+2012,1,Daytona,Daytona International Speedway,2.5,paved track,23.0,30.0,88.0,Matt Crafton,Menards / Ideal Door (Duke Thorson),Toyota,104.0,12875.0,crash,0.0,21.0
+2012,1,Daytona,Daytona International Speedway,2.5,paved track,24.0,20.0,13.0,Johnny Sauter,Hot Honeys / Curb Records / 103.5 (Mike Curb),Toyota,104.0,13750.0,crash,4.0,21.0
+2012,1,Daytona,Daytona International Speedway,2.5,paved track,25.0,36.0,73.0,Rick Crawford,SuperSeal / Trans Pecos Trucking (Ron Crosby),Chevrolet,101.0,10550.0,crash,0.0,19.0
+2012,1,Daytona,Daytona International Speedway,2.5,paved track,26.0,29.0,24.0,Max Gresham,Made In USA Brand / PledgeForUSA.com (Joe Dennette),Chevrolet,100.0,12550.0,crash,0.0,18.0
+2012,1,Daytona,Daytona International Speedway,2.5,paved track,27.0,5.0,19.0,Brad Keselowski,Twitter / @cooper standard (Brad Keselowski),RAM,99.0,10175.0,crash,0.0,0.0
+2012,1,Daytona,Daytona International Speedway,2.5,paved track,28.0,24.0,8.0,Ross Chastain,National Watermelon Promotion Board (Bobby Dotter),Toyota,94.0,12325.0,crash,1.0,17.0
+2012,1,Daytona,Daytona International Speedway,2.5,paved track,29.0,32.0,99.0,Bryan Silas,Rockingham Speedway / Good Sam Club 200 (Chris Baluch),Ford,93.0,10975.0,crash,1.0,16.0
+2012,1,Daytona,Daytona International Speedway,2.5,paved track,30.0,1.0,32.0,Miguel Paludo,Duroline Brakes & Components (Steve Turner),Chevrolet,83.0,13675.0,crash,56.0,16.0
+2012,1,Daytona,Daytona International Speedway,2.5,paved track,31.0,34.0,7.0,T.J. Duke,Maco / Duke Masonry (Ken Smith),Chevrolet,62.0,9825.0,crash,0.0,13.0
+2012,1,Daytona,Daytona International Speedway,2.5,paved track,32.0,7.0,33.0,Cale Gale,Rheem (Eddie Sharp),Chevrolet,61.0,9775.0,crash,0.0,12.0
+2012,1,Daytona,Daytona International Speedway,2.5,paved track,33.0,13.0,8.0,Mike Skinner,Paytas Homes / American Auto (Eddie Sharp),Chevrolet,61.0,9725.0,crash,0.0,11.0
+2012,1,Daytona,Daytona International Speedway,2.5,paved track,34.0,31.0,60.0,J.R. Fitzpatrick,Equipment Express (Stacy Compton),Chevrolet,61.0,9670.0,crash,0.0,10.0
+2012,1,Daytona,Daytona International Speedway,2.5,paved track,35.0,18.0,98.0,Dakoda Armstrong,EverFi (Duke Thorson),Toyota,33.0,9620.0,crash,0.0,9.0
+2012,1,Daytona,Daytona International Speedway,2.5,paved track,36.0,6.0,18.0,Jason Leffler,Dollar General (Kyle Busch),Toyota,17.0,9535.0,crash,0.0,8.0
+2012,2,Martinsville,Martinsville Speedway,0.526,paved track,1.0,1.0,2.0,Kevin Harvick,Tide / Kroger (Richard Childress),Chevrolet,250.0,33300.0,running,248.0,0.0
+2012,2,Martinsville,Martinsville Speedway,0.526,paved track,2.0,2.0,3.0,Ty Dillon,Bass Pro Shops / Tracker Boats (Richard Childress),Chevrolet,250.0,25340.0,running,2.0,43.0
+2012,2,Martinsville,Martinsville Speedway,0.526,paved track,3.0,9.0,31.0,James Buescher,AccuDoc Solutions (Steve Turner),Chevrolet,250.0,18785.0,running,0.0,41.0
+2012,2,Martinsville,Martinsville Speedway,0.526,paved track,4.0,6.0,6.0,Justin Lofton,CollegeComplete.com (Eddie Sharp),Chevrolet,250.0,15300.0,running,0.0,40.0
+2012,2,Martinsville,Martinsville Speedway,0.526,paved track,5.0,3.0,17.0,Timothy Peters,NTB / Service Central (Tom DeLoach),Toyota,250.0,14200.0,running,0.0,39.0
+2012,2,Martinsville,Martinsville Speedway,0.526,paved track,6.0,16.0,30.0,"Nelson Piquet, Jr.",AutoTrac / Qualcomm (Steve Turner),Chevrolet,250.0,11675.0,running,0.0,38.0
+2012,2,Martinsville,Martinsville Speedway,0.526,paved track,7.0,17.0,8.0,Ross Chastain,Watermelon.org (Bobby Dotter),Toyota,250.0,14525.0,running,0.0,37.0
+2012,2,Martinsville,Martinsville Speedway,0.526,paved track,8.0,12.0,18.0,Jason Leffler,Dollar General / Kangaroo Express (Kyle Busch),Toyota,250.0,9225.0,running,0.0,36.0
+2012,2,Martinsville,Martinsville Speedway,0.526,paved track,9.0,32.0,7.0,John King,Toyota / Red Horse Racing (Tom DeLoach),Toyota,250.0,11425.0,running,0.0,35.0
+2012,2,Martinsville,Martinsville Speedway,0.526,paved track,10.0,22.0,23.0,Jason White,GunBroker.com (Jason White),Ford,250.0,12650.0,running,0.0,34.0
+2012,2,Martinsville,Martinsville Speedway,0.526,paved track,11.0,15.0,29.0,Parker Kligerman,Cooper Standard (Brad Keselowski),RAM,250.0,11325.0,running,0.0,33.0
+2012,2,Martinsville,Martinsville Speedway,0.526,paved track,12.0,20.0,60.0,J.R. Fitzpatrick,Equipment Express (Stacy Compton),Chevrolet,250.0,8950.0,running,0.0,32.0
+2012,2,Martinsville,Martinsville Speedway,0.526,paved track,13.0,7.0,27.0,Jeb Burton,State Water Heaters (Mike Hillman),Chevrolet,250.0,11150.0,running,0.0,31.0
+2012,2,Martinsville,Martinsville Speedway,0.526,paved track,14.0,27.0,81.0,David Starr,Zachry (Joey Arrington),Toyota,250.0,8850.0,running,0.0,30.0
+2012,2,Martinsville,Martinsville Speedway,0.526,paved track,15.0,4.0,33.0,Cale Gale,Rheem (Eddie Sharp),Chevrolet,250.0,12100.0,running,0.0,29.0
+2012,2,Martinsville,Martinsville Speedway,0.526,paved track,16.0,5.0,9.0,"Ron Hornaday, Jr.",Anderson's Maple Syrup / AMFM Energy (Joe Dennette),Chevrolet,250.0,8700.0,running,0.0,28.0
+2012,2,Martinsville,Martinsville Speedway,0.526,paved track,17.0,14.0,32.0,Miguel Paludo,Duroline Brakes & Components (Steve Turner),Chevrolet,250.0,10900.0,running,0.0,27.0
+2012,2,Martinsville,Martinsville Speedway,0.526,paved track,18.0,31.0,7.0,Jake Crum,Bandit Chippers (Ken Smith),Chevrolet,249.0,10850.0,running,0.0,26.0
+2012,2,Martinsville,Martinsville Speedway,0.526,paved track,19.0,26.0,24.0,Max Gresham,Made In USA Brand / PledgeForUSA.com (Joe Dennette),Chevrolet,249.0,10800.0,running,0.0,25.0
+2012,2,Martinsville,Martinsville Speedway,0.526,paved track,20.0,25.0,92.0,David Reutimann,FleetHQ.com / BTS Tire & Wheel Distributors (Ricky Benton),Chevrolet,249.0,9100.0,running,0.0,0.0
+2012,2,Martinsville,Martinsville Speedway,0.526,paved track,21.0,36.0,98.0,Dakoda Armstrong,EverFi.com (Duke Thorson),Toyota,248.0,8450.0,running,0.0,23.0
+2012,2,Martinsville,Martinsville Speedway,0.526,paved track,22.0,18.0,5.0,Paulie Harraka,MC10 (Richie Wauters),Ford,248.0,10675.0,running,0.0,22.0
+2012,2,Martinsville,Martinsville Speedway,0.526,paved track,23.0,30.0,9.0,John Wes Townley,RAB Racing (Robby Benton),Toyota,248.0,8400.0,running,0.0,21.0
+2012,2,Martinsville,Martinsville Speedway,0.526,paved track,24.0,11.0,88.0,Matt Crafton,Menards / Ideal Door (Duke Thorson),Toyota,246.0,10600.0,running,0.0,20.0
+2012,2,Martinsville,Martinsville Speedway,0.526,paved track,25.0,13.0,11.0,Todd Bodine,Toyota Tundra (Tom DeLoach),Toyota,246.0,8425.0,running,0.0,19.0
+2012,2,Martinsville,Martinsville Speedway,0.526,paved track,26.0,33.0,99.0,Bryan Silas,Rockingham Speedway (Chris Baluch),Ford,244.0,10475.0,running,0.0,18.0
+2012,2,Martinsville,Martinsville Speedway,0.526,paved track,27.0,35.0,93.0,Chris Cockrum,Advanced Communications Group (Rod Sieg),Chevrolet,241.0,10450.0,running,0.0,17.0
+2012,2,Martinsville,Martinsville Speedway,0.526,paved track,28.0,19.0,14.0,Brennan Newberry,NTS / Ironclad Performance Wear (Bob Newberry),Chevrolet,234.0,8175.0,crash,0.0,16.0
+2012,2,Martinsville,Martinsville Speedway,0.526,paved track,29.0,8.0,13.0,Johnny Sauter,Hot Honeys / Curb Records (Mike Curb),Toyota,231.0,10125.0,running,0.0,15.0
+2012,2,Martinsville,Martinsville Speedway,0.526,paved track,30.0,21.0,22.0,Joey Coulter,Steak-umm (Richard Childress),Chevrolet,228.0,9100.0,running,0.0,14.0
+2012,2,Martinsville,Martinsville Speedway,0.526,paved track,31.0,29.0,68.0,Clay Greenfield,Clay Greenfield Motorsports (Bill Alger),RAM,151.0,8155.0,suspension,0.0,13.0
+2012,2,Martinsville,Martinsville Speedway,0.526,paved track,32.0,28.0,39.0,Ryan Sieg,Pull A Part Used Auto Parts (Rod Sieg),Chevrolet,148.0,7625.0,oil line,0.0,12.0
+2012,2,Martinsville,Martinsville Speedway,0.526,paved track,33.0,24.0,15.0,Dusty Davis,Thunderexhaust.com (Joey Arrington),Toyota,104.0,7600.0,rear gear,0.0,11.0
+2012,2,Martinsville,Martinsville Speedway,0.526,paved track,34.0,34.0,8.0,Jennifer Jo Cobb,Driven2Honor.org (Jennifer Jo Cobb),RAM,95.0,7575.0,suspension,0.0,10.0
+2012,2,Martinsville,Martinsville Speedway,0.526,paved track,35.0,10.0,70.0,Jeff Agnew,Clarence's Steak House (Edward Asbury),Chevrolet,90.0,7550.0,crash,0.0,9.0
+2012,2,Martinsville,Martinsville Speedway,0.526,paved track,36.0,23.0,74.0,Rick Crawford,Koma Unwind Relaxation Drink (Mike Harmon),Chevrolet,6.0,7495.0,brakes,0.0,8.0
+2012,3,Rockingham,Rockingham Speedway,1.0,paved track,1.0,5.0,4.0,Kasey Kahne,Rockwell Tools (Steve Turner),Chevrolet,200.0,29000.0,running,46.0,0.0
+2012,3,Rockingham,Rockingham Speedway,1.0,paved track,2.0,16.0,31.0,James Buescher,Koike Aronson / Ransome (Steve Turner),Chevrolet,200.0,23840.0,running,0.0,42.0
+2012,3,Rockingham,Rockingham Speedway,1.0,paved track,3.0,8.0,88.0,Matt Crafton,Menards / Ideal Door (Duke Thorson),Toyota,200.0,17285.0,running,40.0,42.0
+2012,3,Rockingham,Rockingham Speedway,1.0,paved track,4.0,10.0,13.0,Johnny Sauter,Hot Honeys / Curb Records (Mike Curb),Toyota,200.0,17400.0,running,0.0,40.0
+2012,3,Rockingham,Rockingham Speedway,1.0,paved track,5.0,3.0,17.0,Timothy Peters,Toyota Trucks / Strutmasters (Tom DeLoach),Toyota,200.0,12200.0,running,7.0,40.0
+2012,3,Rockingham,Rockingham Speedway,1.0,paved track,6.0,17.0,22.0,Joey Coulter,Strutmasters (Richard Childress),Chevrolet,200.0,10450.0,running,0.0,38.0
+2012,3,Rockingham,Rockingham Speedway,1.0,paved track,7.0,1.0,30.0,"Nelson Piquet, Jr.",Qualcomm / Autotrac (Steve Turner),Chevrolet,200.0,14500.0,running,107.0,39.0
+2012,3,Rockingham,Rockingham Speedway,1.0,paved track,8.0,12.0,3.0,Ty Dillon,Bass Pro Shops / Tracker Boats (Richard Childress),Chevrolet,200.0,11250.0,running,0.0,36.0
+2012,3,Rockingham,Rockingham Speedway,1.0,paved track,9.0,6.0,29.0,Parker Kligerman,Draw-Tite / Mopar (Brad Keselowski),RAM,200.0,10200.0,running,0.0,35.0
+2012,3,Rockingham,Rockingham Speedway,1.0,paved track,10.0,19.0,6.0,Justin Lofton,CollegeComplete.com (Eddie Sharp),Chevrolet,200.0,11425.0,running,0.0,34.0
+2012,3,Rockingham,Rockingham Speedway,1.0,paved track,11.0,27.0,27.0,Jeb Burton,State Water Heaters (Mike Hillman),Chevrolet,200.0,10100.0,running,0.0,33.0
+2012,3,Rockingham,Rockingham Speedway,1.0,paved track,12.0,22.0,9.0,"Ron Hornaday, Jr.",Joe Denette Motorsports (Joe Dennette),Chevrolet,200.0,7725.0,running,0.0,32.0
+2012,3,Rockingham,Rockingham Speedway,1.0,paved track,13.0,21.0,81.0,David Starr,Zachry (Joey Arrington),Toyota,200.0,7675.0,running,0.0,31.0
+2012,3,Rockingham,Rockingham Speedway,1.0,paved track,14.0,11.0,98.0,Dakoda Armstrong,EverFi.com (Duke Thorson),Toyota,199.0,7625.0,running,0.0,30.0
+2012,3,Rockingham,Rockingham Speedway,1.0,paved track,15.0,23.0,32.0,Miguel Paludo,Duroline Brakes & Components (Steve Turner),Chevrolet,198.0,10850.0,running,0.0,29.0
+2012,3,Rockingham,Rockingham Speedway,1.0,paved track,16.0,29.0,2.0,"Tim George, Jr.",Applebee's (Richard Childress),Chevrolet,198.0,9700.0,running,0.0,28.0
+2012,3,Rockingham,Rockingham Speedway,1.0,paved track,17.0,13.0,33.0,Cale Gale,Rheem (Eddie Sharp),Chevrolet,197.0,9650.0,running,0.0,27.0
+2012,3,Rockingham,Rockingham Speedway,1.0,paved track,18.0,15.0,24.0,Max Gresham,Made In USA Brand / PledgeForUSA.com (Joe Dennette),Chevrolet,197.0,9600.0,running,0.0,26.0
+2012,3,Rockingham,Rockingham Speedway,1.0,paved track,19.0,18.0,92.0,David Reutimann,FleetHQ.com / BTS Tire / QMI (Ricky Benton),Chevrolet,197.0,7300.0,running,0.0,0.0
+2012,3,Rockingham,Rockingham Speedway,1.0,paved track,20.0,20.0,9.0,John Wes Townley,RAB Racing (Robby Benton),Toyota,197.0,7750.0,running,0.0,24.0
+2012,3,Rockingham,Rockingham Speedway,1.0,paved track,21.0,24.0,75.0,Caleb Holman,Food Country USA / Wise Snack Foods (Charlie Henderson),Chevrolet,197.0,7350.0,running,0.0,23.0
+2012,3,Rockingham,Rockingham Speedway,1.0,paved track,22.0,32.0,39.0,Ryan Sieg,RSS Racing (Rod Sieg),Chevrolet,197.0,9450.0,running,0.0,22.0
+2012,3,Rockingham,Rockingham Speedway,1.0,paved track,23.0,30.0,14.0,Brennan Newberry,NTS / Ironclad Performance Wear (Bob Newberry),Chevrolet,197.0,7175.0,running,0.0,21.0
+2012,3,Rockingham,Rockingham Speedway,1.0,paved track,24.0,28.0,23.0,Jason White,GunBroker.com (Jason White),Ford,196.0,9400.0,running,0.0,20.0
+2012,3,Rockingham,Rockingham Speedway,1.0,paved track,25.0,14.0,8.0,Ross Chastain,Florida Watermelon Association (Bobby Dotter),Toyota,196.0,9500.0,running,0.0,19.0
+2012,3,Rockingham,Rockingham Speedway,1.0,paved track,26.0,2.0,5.0,Paulie Harraka,Send a Soldier to the Rock (Richie Wauters),Ford,195.0,9325.0,running,0.0,18.0
+2012,3,Rockingham,Rockingham Speedway,1.0,paved track,27.0,36.0,70.0,Jeff Agnew,Team 7 Motorsports (Edward Asbury),Chevrolet,195.0,7000.0,running,0.0,17.0
+2012,3,Rockingham,Rockingham Speedway,1.0,paved track,28.0,26.0,2.0,Tyler Young,Young's Building Systems / Race City Diesel (Randy Young),Chevrolet,193.0,6975.0,running,0.0,16.0
+2012,3,Rockingham,Rockingham Speedway,1.0,paved track,29.0,33.0,93.0,Chris Cockrum,RSS Racing / Advanced Communications (Rod Sieg),Chevrolet,193.0,7925.0,running,0.0,15.0
+2012,3,Rockingham,Rockingham Speedway,1.0,paved track,30.0,35.0,57.0,Norm Benning,Ladybug Cleaning / G.L. Hubbard & Sons (Norm Benning),Chevrolet,189.0,8400.0,running,0.0,14.0
+2012,3,Rockingham,Rockingham Speedway,1.0,paved track,31.0,7.0,11.0,Todd Bodine,Toyota Care (Tom DeLoach),Toyota,135.0,6855.0,running,0.0,13.0
+2012,3,Rockingham,Rockingham Speedway,1.0,paved track,32.0,31.0,99.0,Bryan Silas,Fast Track Driving School / Rockingham Spdwy. (Chris Baluch),Ford,119.0,6800.0,crash,0.0,12.0
+2012,3,Rockingham,Rockingham Speedway,1.0,paved track,33.0,25.0,7.0,John King,Consol Energy (Tom DeLoach),Toyota,56.0,6775.0,handling,0.0,11.0
+2012,3,Rockingham,Rockingham Speedway,1.0,paved track,34.0,4.0,18.0,Jason Leffler,Dollar General (Kyle Busch),Toyota,19.0,6750.0,engine,0.0,10.0
+2012,3,Rockingham,Rockingham Speedway,1.0,paved track,35.0,34.0,7.0,Johnny Chapman,ASI Limited (Ken Smith),Toyota,13.0,6725.0,clutch,0.0,9.0
+2012,3,Rockingham,Rockingham Speedway,1.0,paved track,36.0,9.0,60.0,Grant Enfinger,Turn One Racing (Stacy Compton),Chevrolet,12.0,6702.0,transmission,0.0,8.0
+2012,4,Kansas,Kansas Speedway,1.5,paved track,1.0,6.0,31.0,James Buescher,Progenex (Steve Turner),Chevrolet,167.0,43150.0,running,103.0,48.0
+2012,4,Kansas,Kansas Speedway,1.5,paved track,2.0,10.0,17.0,Timothy Peters,Toyota Trucks / Strutmasters (Tom DeLoach),Toyota,167.0,31890.0,running,0.0,42.0
+2012,4,Kansas,Kansas Speedway,1.5,paved track,3.0,12.0,19.0,Brad Keselowski,Waste Management / Checkered Flag Foundation (Brad Keselowski),RAM,167.0,19985.0,running,19.0,0.0
+2012,4,Kansas,Kansas Speedway,1.5,paved track,4.0,8.0,30.0,"Nelson Piquet, Jr.",Qualcomm / Autotrac (Steve Turner),Chevrolet,167.0,17075.0,running,0.0,40.0
+2012,4,Kansas,Kansas Speedway,1.5,paved track,5.0,9.0,11.0,Todd Bodine,Toyota Care (Tom DeLoach),Toyota,167.0,15550.0,running,5.0,40.0
+2012,4,Kansas,Kansas Speedway,1.5,paved track,6.0,16.0,9.0,"Ron Hornaday, Jr.",Joe Denette Motorsports (Joe Dennette),Chevrolet,167.0,11925.0,running,4.0,39.0
+2012,4,Kansas,Kansas Speedway,1.5,paved track,7.0,3.0,6.0,Justin Lofton,CollegeComplete.com (Eddie Sharp),Chevrolet,167.0,14025.0,running,0.0,37.0
+2012,4,Kansas,Kansas Speedway,1.5,paved track,8.0,11.0,29.0,Parker Kligerman,Reese Towpower / O'Reilly Auto Parts (Brad Keselowski),RAM,167.0,13950.0,running,0.0,36.0
+2012,4,Kansas,Kansas Speedway,1.5,paved track,9.0,5.0,3.0,Ty Dillon,Bass Pro Shops / Allstate (Richard Childress),Chevrolet,167.0,14875.0,running,0.0,35.0
+2012,4,Kansas,Kansas Speedway,1.5,paved track,10.0,13.0,32.0,Miguel Paludo,Duroline Brakes & Components (Steve Turner),Chevrolet,167.0,15100.0,running,0.0,34.0
+2012,4,Kansas,Kansas Speedway,1.5,paved track,11.0,15.0,33.0,Cale Gale,Rheem (Eddie Sharp),Chevrolet,167.0,13775.0,running,0.0,33.0
+2012,4,Kansas,Kansas Speedway,1.5,paved track,12.0,17.0,88.0,Matt Crafton,Menards / Jeld-Wen (Duke Thorson),Toyota,167.0,13650.0,running,0.0,32.0
+2012,4,Kansas,Kansas Speedway,1.5,paved track,13.0,19.0,7.0,John King,Consol Energy (Tom DeLoach),Toyota,167.0,13575.0,running,0.0,31.0
+2012,4,Kansas,Kansas Speedway,1.5,paved track,14.0,7.0,22.0,Joey Coulter,Husky Liners (Richard Childress),Chevrolet,166.0,13525.0,running,0.0,30.0
+2012,4,Kansas,Kansas Speedway,1.5,paved track,15.0,20.0,98.0,Dakoda Armstrong,EverFi.com (Duke Thorson),Toyota,166.0,12100.0,running,1.0,30.0
+2012,4,Kansas,Kansas Speedway,1.5,paved track,16.0,18.0,9.0,John Wes Townley,RAB Racing (Robby Benton),Toyota,166.0,11350.0,running,0.0,28.0
+2012,4,Kansas,Kansas Speedway,1.5,paved track,17.0,1.0,2.0,"Tim George, Jr.",Applebee's (Richard Childress),Chevrolet,166.0,15625.0,running,0.0,27.0
+2012,4,Kansas,Kansas Speedway,1.5,paved track,18.0,2.0,18.0,Jason Leffler,Shore Lodge (Kyle Busch),Toyota,165.0,11025.0,running,5.0,27.0
+2012,4,Kansas,Kansas Speedway,1.5,paved track,19.0,4.0,23.0,Jason White,GunBroker.com (Jason White),Ford,164.0,13225.0,running,29.0,26.0
+2012,4,Kansas,Kansas Speedway,1.5,paved track,20.0,31.0,84.0,Chris Fontaine,Glenden Enterprises / Stingray Chevrolet (Chris Fontaine),Chevrolet,164.0,11525.0,running,0.0,24.0
+2012,4,Kansas,Kansas Speedway,1.5,paved track,21.0,29.0,99.0,Bryan Silas,Rockingham Speedway (Chris Baluch),Ford,164.0,13125.0,running,0.0,23.0
+2012,4,Kansas,Kansas Speedway,1.5,paved track,22.0,23.0,24.0,Max Gresham,Made In USA Brand / PledgeForUSA.com (Joe Dennette),Chevrolet,163.0,13100.0,running,0.0,22.0
+2012,4,Kansas,Kansas Speedway,1.5,paved track,23.0,32.0,65.0,Scott Stenzel,Yellow Stripes: Making The Driver (Mike Mittler),Chevrolet,163.0,10825.0,running,0.0,21.0
+2012,4,Kansas,Kansas Speedway,1.5,paved track,24.0,14.0,13.0,Johnny Sauter,Hot Honeys / Curb Records (Mike Curb),Toyota,162.0,14050.0,running,0.0,20.0
+2012,4,Kansas,Kansas Speedway,1.5,paved track,25.0,36.0,10.0,Jennifer Jo Cobb,Mark One Electric / Driven 2 Honor (Jennifer Jo Cobb),RAM,160.0,10925.0,running,0.0,19.0
+2012,4,Kansas,Kansas Speedway,1.5,paved track,26.0,34.0,93.0,Chris Cockrum,RSS Racing (Rod Sieg),Chevrolet,159.0,13000.0,running,0.0,18.0
+2012,4,Kansas,Kansas Speedway,1.5,paved track,27.0,27.0,5.0,Paulie Harraka,Wauters Motorsports (Richie Wauters),Ford,158.0,12975.0,running,0.0,17.0
+2012,4,Kansas,Kansas Speedway,1.5,paved track,28.0,35.0,57.0,Norm Benning,G.L. Hubbard & Sons Trucking / Ash Group (Norm Benning),Chevrolet,155.0,11700.0,running,0.0,16.0
+2012,4,Kansas,Kansas Speedway,1.5,paved track,29.0,30.0,39.0,Ryan Sieg,S&W Services (Rod Sieg),Chevrolet,128.0,11650.0,rear gear,0.0,15.0
+2012,4,Kansas,Kansas Speedway,1.5,paved track,30.0,28.0,60.0,Chad McCumbee,Turn One Racing (Stacy Compton),Chevrolet,54.0,11125.0,fuel pump,1.0,15.0
+2012,4,Kansas,Kansas Speedway,1.5,paved track,31.0,22.0,81.0,David Starr,AdvoCare (Joey Arrington),Toyota,41.0,10600.0,crash,0.0,13.0
+2012,4,Kansas,Kansas Speedway,1.5,paved track,32.0,26.0,14.0,Brennan Newberry,NTS / Ironclad Performance Wear (Bob Newberry),Chevrolet,40.0,10575.0,crash,0.0,12.0
+2012,4,Kansas,Kansas Speedway,1.5,paved track,33.0,21.0,12.0,Russ Dugger,JPO Absorbents (Mario Gosselin),Chevrolet,39.0,10550.0,crash,0.0,11.0
+2012,4,Kansas,Kansas Speedway,1.5,paved track,34.0,24.0,8.0,Ross Chastain,Florida Watermelon Association (Bobby Dotter),Toyota,17.0,10525.0,engine,0.0,10.0
+2012,4,Kansas,Kansas Speedway,1.5,paved track,35.0,33.0,7.0,Chris Jones,ASI Limited (Ken Smith),Toyota,14.0,10500.0,rear end,0.0,9.0
+2012,4,Kansas,Kansas Speedway,1.5,paved track,36.0,25.0,27.0,Jeb Burton,State Water Heaters (Mike Hillman),Chevrolet,2.0,10471.0,crash,0.0,8.0
+2012,5,Charlotte,Charlotte Motor Speedway,1.5,paved track,1.0,2.0,6.0,Justin Lofton,CollegeComplete.com / Speed Energy (Eddie Sharp),Chevrolet,134.0,42625.0,running,44.0,48.0
+2012,5,Charlotte,Charlotte Motor Speedway,1.5,paved track,2.0,9.0,19.0,Brad Keselowski,Cooper Standard (Brad Keselowski),RAM,134.0,25765.0,running,32.0,0.0
+2012,5,Charlotte,Charlotte Motor Speedway,1.5,paved track,3.0,17.0,11.0,Todd Bodine,Toyota Care (Tom DeLoach),Toyota,134.0,21235.0,running,0.0,41.0
+2012,5,Charlotte,Charlotte Motor Speedway,1.5,paved track,4.0,5.0,18.0,Jason Leffler,Dollar General (Kyle Busch),Toyota,134.0,15825.0,running,0.0,40.0
+2012,5,Charlotte,Charlotte Motor Speedway,1.5,paved track,5.0,15.0,9.0,"Ron Hornaday, Jr.",Great Play (Joe Dennette),Chevrolet,134.0,14900.0,running,1.0,40.0
+2012,5,Charlotte,Charlotte Motor Speedway,1.5,paved track,6.0,7.0,23.0,Jason White,JW Demolition / GunBroker.com (Jason White),Ford,134.0,12200.0,running,0.0,38.0
+2012,5,Charlotte,Charlotte Motor Speedway,1.5,paved track,7.0,3.0,22.0,Joey Coulter,Darrell Gwynn Foundation (Richard Childress),Chevrolet,134.0,11700.0,running,0.0,37.0
+2012,5,Charlotte,Charlotte Motor Speedway,1.5,paved track,8.0,21.0,27.0,Jeb Burton,State Water Heaters (Mike Hillman),Chevrolet,134.0,14800.0,running,0.0,36.0
+2012,5,Charlotte,Charlotte Motor Speedway,1.5,paved track,9.0,4.0,17.0,Timothy Peters,Tire Kingdom / Service Central (Tom DeLoach),Toyota,134.0,11475.0,running,17.0,36.0
+2012,5,Charlotte,Charlotte Motor Speedway,1.5,paved track,10.0,1.0,3.0,Ty Dillon,Bass Pro Shops / Natl. Wild Turkey Federation (Richard Childress),Chevrolet,134.0,14950.0,running,25.0,35.0
+2012,5,Charlotte,Charlotte Motor Speedway,1.5,paved track,11.0,14.0,29.0,Parker Kligerman,Draw-Tite / Mopar (Brad Keselowski),RAM,134.0,10950.0,running,0.0,33.0
+2012,5,Charlotte,Charlotte Motor Speedway,1.5,paved track,12.0,11.0,2.0,Brendan Gaughan,South Point Hotel & Casino (Richard Childress),Chevrolet,134.0,10775.0,running,0.0,0.0
+2012,5,Charlotte,Charlotte Motor Speedway,1.5,paved track,13.0,24.0,98.0,Dakoda Armstrong,EverFi.com (Duke Thorson),Toyota,134.0,10650.0,running,0.0,31.0
+2012,5,Charlotte,Charlotte Motor Speedway,1.5,paved track,14.0,12.0,32.0,Miguel Paludo,Duroline Brakes & Components (Steve Turner),Chevrolet,134.0,10550.0,running,0.0,30.0
+2012,5,Charlotte,Charlotte Motor Speedway,1.5,paved track,15.0,6.0,88.0,Matt Crafton,Menards / Fisher Nuts (Duke Thorson),Toyota,134.0,11325.0,running,0.0,29.0
+2012,5,Charlotte,Charlotte Motor Speedway,1.5,paved track,16.0,22.0,9.0,John Wes Townley,Toyota Save in May Sales Event (Robby Benton),Toyota,134.0,10550.0,running,0.0,28.0
+2012,5,Charlotte,Charlotte Motor Speedway,1.5,paved track,17.0,34.0,81.0,David Starr,Build Your Future / Zachry (Joey Arrington),Toyota,134.0,10300.0,running,0.0,27.0
+2012,5,Charlotte,Charlotte Motor Speedway,1.5,paved track,18.0,31.0,92.0,David Reutimann,FleetHQ.com / BTS Tire / Fatbacks Tire & Auto (Ricky Benton),Chevrolet,134.0,8000.0,running,0.0,0.0
+2012,5,Charlotte,Charlotte Motor Speedway,1.5,paved track,19.0,8.0,33.0,Cale Gale,Rheem (Eddie Sharp),Chevrolet,134.0,10200.0,running,0.0,25.0
+2012,5,Charlotte,Charlotte Motor Speedway,1.5,paved track,20.0,26.0,99.0,Bryan Silas,Martin Downs Animal Hospital/Rockingham Spdwy (Chris Baluch),Ford,134.0,10775.0,running,0.0,24.0
+2012,5,Charlotte,Charlotte Motor Speedway,1.5,paved track,21.0,35.0,75.0,Caleb Holman,Food Country USA / Morning Fresh Farms (Charlie Henderson),Chevrolet,134.0,7830.0,running,0.0,23.0
+2012,5,Charlotte,Charlotte Motor Speedway,1.5,paved track,22.0,10.0,31.0,James Buescher,Exide Batteries (Steve Turner),Chevrolet,134.0,8775.0,running,10.0,23.0
+2012,5,Charlotte,Charlotte Motor Speedway,1.5,paved track,23.0,28.0,1.0,Jake Crum,BanditChippers.com (Jake Crum),Chevrolet,132.0,7750.0,running,0.0,21.0
+2012,5,Charlotte,Charlotte Motor Speedway,1.5,paved track,24.0,23.0,24.0,Max Gresham,BugBand.net / Made in USA Brand (Joe Dennette),Chevrolet,131.0,8725.0,running,0.0,20.0
+2012,5,Charlotte,Charlotte Motor Speedway,1.5,paved track,25.0,13.0,13.0,Johnny Sauter,Hot Honeys / Curb Records (Mike Curb),Toyota,127.0,8825.0,running,0.0,19.0
+2012,5,Charlotte,Charlotte Motor Speedway,1.5,paved track,26.0,25.0,10.0,Jennifer Jo Cobb,Driven2Honor.org (Jennifer Jo Cobb),RAM,126.0,7650.0,running,0.0,18.0
+2012,5,Charlotte,Charlotte Motor Speedway,1.5,paved track,27.0,29.0,14.0,Brennan Newberry,Jeremy Staat Fndtn./WallToWallBicycleRide.com (Bob Newberry),Chevrolet,125.0,7625.0,running,0.0,17.0
+2012,5,Charlotte,Charlotte Motor Speedway,1.5,paved track,28.0,27.0,39.0,Ryan Sieg,Pull-A-Part Used Auto Parts (Rod Sieg),Chevrolet,101.0,7600.0,engine,5.0,17.0
+2012,5,Charlotte,Charlotte Motor Speedway,1.5,paved track,29.0,16.0,30.0,"Nelson Piquet, Jr.",Alpinestars (Steve Turner),Chevrolet,98.0,7550.0,crash,0.0,15.0
+2012,5,Charlotte,Charlotte Motor Speedway,1.5,paved track,30.0,20.0,5.0,Paulie Harraka,Child Help 1-800-4-A-Child (Richie Wauters),Ford,84.0,8025.0,crash,0.0,14.0
+2012,5,Charlotte,Charlotte Motor Speedway,1.5,paved track,31.0,30.0,60.0,Chad McCumbee,Turn One Racing (Stacy Compton),Chevrolet,61.0,7500.0,overheating,0.0,13.0
+2012,5,Charlotte,Charlotte Motor Speedway,1.5,paved track,32.0,32.0,84.0,Chris Fontaine,Glenden Enterprises (Chris Fontaine),Chevrolet,40.0,7450.0,engine,0.0,12.0
+2012,5,Charlotte,Charlotte Motor Speedway,1.5,paved track,33.0,19.0,7.0,John King,Consol Energy (Tom DeLoach),Toyota,24.0,7425.0,crash,0.0,11.0
+2012,5,Charlotte,Charlotte Motor Speedway,1.5,paved track,34.0,36.0,38.0,Dennis Setzer,RSS Racing (Rod Sieg),Chevrolet,19.0,7400.0,overheating,0.0,10.0
+2012,5,Charlotte,Charlotte Motor Speedway,1.5,paved track,35.0,18.0,8.0,Ross Chastain,Florida Watermelon Association (Bobby Dotter),Toyota,12.0,7370.0,engine,0.0,9.0
+2012,5,Charlotte,Charlotte Motor Speedway,1.5,paved track,36.0,33.0,68.0,Clay Greenfield,@ClayGreenfield (Bill Alger),RAM,6.0,7350.0,power steering,0.0,8.0
+2012,6,Dover,Dover International Speedway,1.0,paved track,1.0,13.0,11.0,Todd Bodine,Toyota Care (Tom DeLoach),Toyota,147.0,41000.0,running,20.0,47.0
+2012,6,Dover,Dover International Speedway,1.0,paved track,2.0,11.0,29.0,Parker Kligerman,Cooper Standard (Brad Keselowski),RAM,147.0,28190.0,running,1.0,43.0
+2012,6,Dover,Dover International Speedway,1.0,paved track,3.0,1.0,2.0,Kevin Harvick,Tide (Richard Childress),Chevrolet,147.0,23835.0,running,96.0,0.0
+2012,6,Dover,Dover International Speedway,1.0,paved track,4.0,18.0,30.0,"Nelson Piquet, Jr.",Turner Motorsports (Steve Turner),Chevrolet,147.0,20825.0,running,0.0,40.0
+2012,6,Dover,Dover International Speedway,1.0,paved track,5.0,5.0,33.0,Cale Gale,Rheem (Eddie Sharp),Chevrolet,147.0,18850.0,running,0.0,39.0
+2012,6,Dover,Dover International Speedway,1.0,paved track,6.0,6.0,3.0,Ty Dillon,Bass Pro Shops / Allstate (Richard Childress),Chevrolet,147.0,15825.0,running,0.0,38.0
+2012,6,Dover,Dover International Speedway,1.0,paved track,7.0,15.0,31.0,James Buescher,Koike Aronson / Ransome (Steve Turner),Chevrolet,147.0,15325.0,running,0.0,37.0
+2012,6,Dover,Dover International Speedway,1.0,paved track,8.0,10.0,88.0,Matt Crafton,Ideal Door / Menards (Duke Thorson),Toyota,147.0,14825.0,running,0.0,36.0
+2012,6,Dover,Dover International Speedway,1.0,paved track,9.0,8.0,17.0,Timothy Peters,Toyota / Strutmasters.com (Tom DeLoach),Toyota,147.0,14425.0,running,0.0,35.0
+2012,6,Dover,Dover International Speedway,1.0,paved track,10.0,16.0,6.0,Justin Lofton,CollegeComplete.com / Speed Energy (Eddie Sharp),Chevrolet,147.0,15475.0,running,22.0,35.0
+2012,6,Dover,Dover International Speedway,1.0,paved track,11.0,2.0,22.0,Joey Coulter,RCR / Darrell Gwynn Foundation (Richard Childress),Chevrolet,147.0,13975.0,running,0.0,33.0
+2012,6,Dover,Dover International Speedway,1.0,paved track,12.0,9.0,32.0,Miguel Paludo,Duroline Brakes & Components (Steve Turner),Chevrolet,147.0,13700.0,running,5.0,33.0
+2012,6,Dover,Dover International Speedway,1.0,paved track,13.0,17.0,18.0,Brian Scott,Shore Lodge (Kyle Busch),Toyota,147.0,11350.0,running,0.0,0.0
+2012,6,Dover,Dover International Speedway,1.0,paved track,14.0,24.0,81.0,David Starr,AdvoCare (Joey Arrington),Toyota,147.0,13500.0,running,3.0,31.0
+2012,6,Dover,Dover International Speedway,1.0,paved track,15.0,12.0,8.0,Ross Chastain,Georgia Watermelon Association (Bobby Dotter),Toyota,147.0,14475.0,running,0.0,29.0
+2012,6,Dover,Dover International Speedway,1.0,paved track,16.0,21.0,9.0,John Wes Townley,Barberitos (Robby Benton),Toyota,147.0,13300.0,running,0.0,28.0
+2012,6,Dover,Dover International Speedway,1.0,paved track,17.0,25.0,5.0,Paulie Harraka,Wauters Motorsports (Richie Wauters),Ford,147.0,13200.0,running,0.0,27.0
+2012,6,Dover,Dover International Speedway,1.0,paved track,18.0,30.0,75.0,Caleb Holman,Food Country USA / Galaxy Food Centers (Charlie Henderson),Chevrolet,147.0,10850.0,running,0.0,26.0
+2012,6,Dover,Dover International Speedway,1.0,paved track,19.0,7.0,27.0,Jeb Burton,State Water Heaters (Mike Hillman),Chevrolet,146.0,13000.0,running,0.0,25.0
+2012,6,Dover,Dover International Speedway,1.0,paved track,20.0,19.0,98.0,Dakoda Armstrong,EverFi.com (Duke Thorson),Toyota,145.0,13525.0,running,0.0,24.0
+2012,6,Dover,Dover International Speedway,1.0,paved track,21.0,27.0,70.0,Jeff Agnew,Team 7 Motorsports (Edward Asbury),Chevrolet,145.0,10550.0,running,0.0,23.0
+2012,6,Dover,Dover International Speedway,1.0,paved track,22.0,23.0,99.0,Bryan Silas,Rockingham Speedway (Chris Baluch),Ford,145.0,12700.0,running,0.0,22.0
+2012,6,Dover,Dover International Speedway,1.0,paved track,23.0,29.0,84.0,Chris Fontaine,Glenden Enterprises / Stingray Chevrolet (Chris Fontaine),Chevrolet,144.0,10350.0,running,0.0,21.0
+2012,6,Dover,Dover International Speedway,1.0,paved track,24.0,4.0,13.0,Johnny Sauter,Hot Honeys / Curb Records (Mike Curb),Toyota,143.0,12250.0,running,0.0,20.0
+2012,6,Dover,Dover International Speedway,1.0,paved track,25.0,35.0,57.0,Norm Benning,Norm Benning Racing (Norm Benning),Chevrolet,142.0,10300.0,running,0.0,19.0
+2012,6,Dover,Dover International Speedway,1.0,paved track,26.0,33.0,10.0,Jennifer Jo Cobb,Driven2Honor.org (Jennifer Jo Cobb),RAM,137.0,10050.0,running,0.0,18.0
+2012,6,Dover,Dover International Speedway,1.0,paved track,27.0,3.0,9.0,"Ron Hornaday, Jr.",Anderson's Maple Syrup (Joe Dennette),Chevrolet,136.0,10950.0,crash,0.0,17.0
+2012,6,Dover,Dover International Speedway,1.0,paved track,28.0,31.0,61.0,Wes Burton,Pearce Racing / Chesapeake Ford Truck Sales (Samuel Pearce),Ford,108.0,9850.0,crash,0.0,16.0
+2012,6,Dover,Dover International Speedway,1.0,paved track,29.0,22.0,39.0,Ryan Sieg,Pipeline Ridge Hunting Preserve (Rod Sieg),Chevrolet,95.0,9725.0,crash,0.0,15.0
+2012,6,Dover,Dover International Speedway,1.0,paved track,30.0,14.0,24.0,Max Gresham,Made in USA Brand / PledgeForUSA.com (Joe Dennette),Chevrolet,88.0,9625.0,crash,0.0,14.0
+2012,6,Dover,Dover International Speedway,1.0,paved track,31.0,28.0,7.0,Chris Jones,Wear Your Gear / bobber.info (Ken Smith),Toyota,17.0,10025.0,overheating,0.0,13.0
+2012,6,Dover,Dover International Speedway,1.0,paved track,32.0,32.0,93.0,Johnny Chapman,RSS Racing (Rod Sieg),Chevrolet,14.0,9425.0,ignition,0.0,12.0
+2012,6,Dover,Dover International Speedway,1.0,paved track,33.0,20.0,23.0,Jason White,GunBroker.com (Jason White),Ford,11.0,9400.0,engine,0.0,11.0
+2012,6,Dover,Dover International Speedway,1.0,paved track,34.0,34.0,74.0,Mike Harmon,Koma Unwind Relaxation Drink (Mike Harmon),Chevrolet,3.0,9325.0,ignition,0.0,0.0
+2012,6,Dover,Dover International Speedway,1.0,paved track,35.0,26.0,38.0,Dennis Setzer,RSS Racing (Rod Sieg),Chevrolet,2.0,9300.0,vibration,0.0,0.0
+2012,7,Fort Worth,Texas Motor Speedway,1.5,paved track,1.0,20.0,13.0,Johnny Sauter,Hot Honeys / Curb Records (Mike Curb),Toyota,167.0,58025.0,running,41.0,47.0
+2012,7,Fort Worth,Texas Motor Speedway,1.5,paved track,2.0,10.0,88.0,Matt Crafton,Menards / Goof Off (Duke Thorson),Toyota,167.0,39715.0,running,8.0,43.0
+2012,7,Fort Worth,Texas Motor Speedway,1.5,paved track,3.0,11.0,22.0,Joey Coulter,RCR / Darrell Gwynn Foundation (Richard Childress),Chevrolet,167.0,29085.0,running,0.0,41.0
+2012,7,Fort Worth,Texas Motor Speedway,1.5,paved track,4.0,6.0,2.0,Brendan Gaughan,South Point Hotel & Casino (Richard Childress),Chevrolet,167.0,21025.0,running,0.0,0.0
+2012,7,Fort Worth,Texas Motor Speedway,1.5,paved track,5.0,8.0,30.0,"Nelson Piquet, Jr.",Qualcomm / Autotrac (Steve Turner),Chevrolet,167.0,17050.0,running,0.0,39.0
+2012,7,Fort Worth,Texas Motor Speedway,1.5,paved track,6.0,18.0,18.0,Jason Leffler,Dollar General (Kyle Busch),Toyota,167.0,14825.0,running,0.0,38.0
+2012,7,Fort Worth,Texas Motor Speedway,1.5,paved track,7.0,3.0,3.0,Ty Dillon,Bass Pro Shops / Tracker Boats (Richard Childress),Chevrolet,167.0,14575.0,running,22.0,38.0
+2012,7,Fort Worth,Texas Motor Speedway,1.5,paved track,8.0,16.0,33.0,Cale Gale,Rheem (Eddie Sharp),Chevrolet,167.0,13075.0,running,0.0,36.0
+2012,7,Fort Worth,Texas Motor Speedway,1.5,paved track,9.0,1.0,6.0,Justin Lofton,College Complete / Speed Energy (Eddie Sharp),Chevrolet,167.0,12975.0,running,55.0,37.0
+2012,7,Fort Worth,Texas Motor Speedway,1.5,paved track,10.0,5.0,29.0,Parker Kligerman,Reese Towpower / Mopar (Brad Keselowski),RAM,167.0,14150.0,running,0.0,34.0
+2012,7,Fort Worth,Texas Motor Speedway,1.5,paved track,11.0,2.0,17.0,Timothy Peters,Toyota (Tom DeLoach),Toyota,167.0,12775.0,running,0.0,33.0
+2012,7,Fort Worth,Texas Motor Speedway,1.5,paved track,12.0,9.0,9.0,"Ron Hornaday, Jr.",SWM / AMFM Energy (Joe Dennette),Chevrolet,167.0,12600.0,running,0.0,32.0
+2012,7,Fort Worth,Texas Motor Speedway,1.5,paved track,13.0,17.0,81.0,David Starr,Zachry (Joey Arrington),Toyota,167.0,12500.0,running,0.0,31.0
+2012,7,Fort Worth,Texas Motor Speedway,1.5,paved track,14.0,15.0,32.0,Miguel Paludo,Unite for Diabetes / Duroline Brakes (Steve Turner),Chevrolet,167.0,12400.0,running,0.0,30.0
+2012,7,Fort Worth,Texas Motor Speedway,1.5,paved track,15.0,4.0,31.0,James Buescher,Koike Aronson / Ransome (Steve Turner),Chevrolet,167.0,13375.0,running,34.0,30.0
+2012,7,Fort Worth,Texas Motor Speedway,1.5,paved track,16.0,23.0,8.0,Ross Chastain,Watermelon / Holiday Inn Express (Bobby Dotter),Toyota,167.0,12200.0,running,0.0,28.0
+2012,7,Fort Worth,Texas Motor Speedway,1.5,paved track,17.0,13.0,23.0,Jason White,GunBroker.com (Jason White),Ford,167.0,12100.0,running,7.0,28.0
+2012,7,Fort Worth,Texas Motor Speedway,1.5,paved track,18.0,19.0,98.0,Dakoda Armstrong,Protect the Harvest / EverFi (Duke Thorson),Toyota,167.0,12000.0,running,0.0,26.0
+2012,7,Fort Worth,Texas Motor Speedway,1.5,paved track,19.0,25.0,39.0,Ryan Sieg,Pull-A-Part Used Auto Parts (Rod Sieg),Chevrolet,167.0,10600.0,running,0.0,25.0
+2012,7,Fort Worth,Texas Motor Speedway,1.5,paved track,20.0,34.0,14.0,Brandon Miller,NTS Motorsports (Bob Newberry),Chevrolet,167.0,9825.0,running,0.0,0.0
+2012,7,Fort Worth,Texas Motor Speedway,1.5,paved track,21.0,21.0,24.0,Max Gresham,Made in USA Brand / PledgeForUSA.com (Joe Dennette),Chevrolet,164.0,10700.0,running,0.0,23.0
+2012,7,Fort Worth,Texas Motor Speedway,1.5,paved track,22.0,30.0,57.0,Norm Benning,Norm Benning Racing (Norm Benning),Chevrolet,162.0,9300.0,running,0.0,22.0
+2012,7,Fort Worth,Texas Motor Speedway,1.5,paved track,23.0,26.0,84.0,B.J. McLeod,Boggy Creek Air Boat Rides (Chris Fontaine),Chevrolet,161.0,9200.0,running,0.0,21.0
+2012,7,Fort Worth,Texas Motor Speedway,1.5,paved track,24.0,31.0,65.0,Scott Stenzel,Yellow Stripes: Making The Driver (Mike Mittler),Chevrolet,160.0,9100.0,running,0.0,20.0
+2012,7,Fort Worth,Texas Motor Speedway,1.5,paved track,25.0,24.0,99.0,Bryan Silas,Rockingham Speedway (Chris Baluch),Ford,159.0,9150.0,running,0.0,19.0
+2012,7,Fort Worth,Texas Motor Speedway,1.5,paved track,26.0,27.0,93.0,Brent Raymer,RSS Racing (Rod Sieg),Chevrolet,139.0,8900.0,suspension,0.0,18.0
+2012,7,Fort Worth,Texas Motor Speedway,1.5,paved track,27.0,12.0,9.0,John Wes Townley,Toyota Care (Robby Benton),Toyota,128.0,8800.0,running,0.0,17.0
+2012,7,Fort Worth,Texas Motor Speedway,1.5,paved track,28.0,22.0,5.0,Paulie Harraka,Phyzix MV2 (Richie Wauters),Ford,69.0,8700.0,crash,0.0,16.0
+2012,7,Fort Worth,Texas Motor Speedway,1.5,paved track,29.0,32.0,73.0,Rick Crawford,Trans Pecos Trucking / SuperSeal (Ron Crosby),Chevrolet,52.0,8595.0,crash,0.0,15.0
+2012,7,Fort Worth,Texas Motor Speedway,1.5,paved track,30.0,7.0,11.0,Todd Bodine,Toyota Care (Tom DeLoach),Toyota,31.0,8995.0,oil pump,0.0,14.0
+2012,7,Fort Worth,Texas Motor Speedway,1.5,paved track,31.0,28.0,7.0,Johnny Chapman,Wear Your Gear / bobber.info (Ken Smith),Toyota,25.0,8370.0,overheating,0.0,13.0
+2012,7,Fort Worth,Texas Motor Speedway,1.5,paved track,32.0,29.0,10.0,Jennifer Jo Cobb,Driven2Honor.org (Jennifer Jo Cobb),RAM,10.0,8270.0,engine,0.0,12.0
+2012,7,Fort Worth,Texas Motor Speedway,1.5,paved track,33.0,33.0,74.0,Mike Harmon,Koma Unwind Relaxation Drink (Mike Harmon),Chevrolet,6.0,8195.0,overheating,0.0,0.0
+2012,7,Fort Worth,Texas Motor Speedway,1.5,paved track,34.0,35.0,0.0,Chris Lafferty,Driven2Honor.org (Jennifer Jo Cobb),RAM,3.0,8145.0,engine,0.0,0.0
+2012,7,Fort Worth,Texas Motor Speedway,1.5,paved track,35.0,14.0,27.0,Brandon Knupp,Hillman Racing (Mike Hillman),Chevrolet,2.0,8120.0,ignition,0.0,9.0
+2012,8,Kentucky,Kentucky Speedway,1.5,paved track,1.0,3.0,31.0,James Buescher,Exide Batteries (Steve Turner),Chevrolet,150.0,57095.0,running,119.0,48.0
+2012,8,Kentucky,Kentucky Speedway,1.5,paved track,2.0,17.0,19.0,Brad Keselowski,Brad Keselowski's Checkered Flag Foundation (Brad Keselowski),RAM,150.0,36960.0,running,0.0,0.0
+2012,8,Kentucky,Kentucky Speedway,1.5,paved track,3.0,4.0,3.0,Ty Dillon,Bass Pro Shops / Tracker Boats (Richard Childress),Chevrolet,150.0,28155.0,running,3.0,42.0
+2012,8,Kentucky,Kentucky Speedway,1.5,paved track,4.0,1.0,88.0,Matt Crafton,Menards / Great Lakes Wood Floors (Duke Thorson),Toyota,150.0,21420.0,running,27.0,41.0
+2012,8,Kentucky,Kentucky Speedway,1.5,paved track,5.0,7.0,17.0,Timothy Peters,Toyota (Tom DeLoach),Toyota,150.0,14345.0,running,0.0,39.0
+2012,8,Kentucky,Kentucky Speedway,1.5,paved track,6.0,6.0,13.0,Johnny Sauter,Hot Honeys / Curb Records (Mike Curb),Toyota,150.0,13820.0,running,0.0,38.0
+2012,8,Kentucky,Kentucky Speedway,1.5,paved track,7.0,16.0,22.0,Joey Coulter,Steak-umm (Richard Childress),Chevrolet,150.0,12320.0,running,0.0,37.0
+2012,8,Kentucky,Kentucky Speedway,1.5,paved track,8.0,18.0,18.0,Jason Leffler,Dollar General (Kyle Busch),Toyota,150.0,11820.0,running,0.0,36.0
+2012,8,Kentucky,Kentucky Speedway,1.5,paved track,9.0,11.0,9.0,"Ron Hornaday, Jr.",Hollywood Casino (Joe Dennette),Chevrolet,150.0,11720.0,running,0.0,35.0
+2012,8,Kentucky,Kentucky Speedway,1.5,paved track,10.0,25.0,4.0,Kyle Larson,Chip Ganassi Racing Teams Mobile App (Steve Turner),Chevrolet,150.0,10620.0,running,0.0,34.0
+2012,8,Kentucky,Kentucky Speedway,1.5,paved track,11.0,12.0,23.0,Jason White,GunBroker.com (Jason White),Ford,150.0,11495.0,running,0.0,33.0
+2012,8,Kentucky,Kentucky Speedway,1.5,paved track,12.0,5.0,32.0,Miguel Paludo,Duroline Brakes & Components (Steve Turner),Chevrolet,150.0,11320.0,running,0.0,32.0
+2012,8,Kentucky,Kentucky Speedway,1.5,paved track,13.0,26.0,98.0,Dakoda Armstrong,EverFi.com (Duke Thorson),Toyota,150.0,11220.0,running,0.0,31.0
+2012,8,Kentucky,Kentucky Speedway,1.5,paved track,14.0,10.0,6.0,Justin Lofton,College Complete (Eddie Sharp),Chevrolet,150.0,11120.0,running,0.0,30.0
+2012,8,Kentucky,Kentucky Speedway,1.5,paved track,15.0,24.0,81.0,David Starr,Zachry (Joey Arrington),Toyota,150.0,12070.0,running,0.0,29.0
+2012,8,Kentucky,Kentucky Speedway,1.5,paved track,16.0,29.0,39.0,Ryan Sieg,RSS Racing (Rod Sieg),Chevrolet,150.0,10895.0,running,0.0,28.0
+2012,8,Kentucky,Kentucky Speedway,1.5,paved track,17.0,23.0,5.0,Paulie Harraka,Wauters Motorsports (Richie Wauters),Ford,150.0,10795.0,running,0.0,27.0
+2012,8,Kentucky,Kentucky Speedway,1.5,paved track,18.0,21.0,68.0,Clay Greenfield,@ClayGreenfield (Bill Alger),RAM,149.0,8445.0,running,0.0,26.0
+2012,8,Kentucky,Kentucky Speedway,1.5,paved track,19.0,8.0,29.0,Parker Kligerman,Draw-Tite / Mopar (Brad Keselowski),RAM,149.0,10595.0,running,0.0,25.0
+2012,8,Kentucky,Kentucky Speedway,1.5,paved track,20.0,36.0,84.0,Chris Fontaine,Glenden Enterprises (Chris Fontaine),Chevrolet,148.0,11120.0,running,0.0,24.0
+2012,8,Kentucky,Kentucky Speedway,1.5,paved track,21.0,33.0,75.0,Caleb Holman,Lay's / Food Country USA (Charlie Henderson),Chevrolet,147.0,8145.0,running,0.0,23.0
+2012,8,Kentucky,Kentucky Speedway,1.5,paved track,22.0,31.0,14.0,Brennan Newberry,NTS / Ironclad Performance Wear (Bob Newberry),Chevrolet,147.0,8045.0,running,0.0,22.0
+2012,8,Kentucky,Kentucky Speedway,1.5,paved track,23.0,34.0,2.0,Tyler Young,RandCo (Randy Young),Chevrolet,145.0,7945.0,running,0.0,21.0
+2012,8,Kentucky,Kentucky Speedway,1.5,paved track,24.0,15.0,2.0,"Tim George, Jr.",Applebee's Thank You Movement (Richard Childress),Chevrolet,143.0,10095.0,running,0.0,20.0
+2012,8,Kentucky,Kentucky Speedway,1.5,paved track,25.0,9.0,33.0,Cale Gale,Rheem (Eddie Sharp),Chevrolet,140.0,8895.0,running,0.0,19.0
+2012,8,Kentucky,Kentucky Speedway,1.5,paved track,26.0,28.0,99.0,Bryan Silas,Advantage / Rockingham Speedway (Chris Baluch),Ford,134.0,8645.0,running,1.0,19.0
+2012,8,Kentucky,Kentucky Speedway,1.5,paved track,27.0,30.0,7.0,Jeff Agnew,Wear Your Gear / bobber.info (Ken Smith),Chevrolet,104.0,7545.0,vibration,0.0,17.0
+2012,8,Kentucky,Kentucky Speedway,1.5,paved track,28.0,13.0,11.0,Todd Bodine,Toyota Care (Tom DeLoach),Toyota,69.0,7440.0,crash,0.0,16.0
+2012,8,Kentucky,Kentucky Speedway,1.5,paved track,29.0,2.0,30.0,"Nelson Piquet, Jr.",Magic Brasil (Steve Turner),Chevrolet,68.0,7340.0,crash,0.0,15.0
+2012,8,Kentucky,Kentucky Speedway,1.5,paved track,30.0,19.0,24.0,Max Gresham,Made in USA Brand (Joe Dennette),Chevrolet,63.0,7240.0,engine,0.0,14.0
+2012,8,Kentucky,Kentucky Speedway,1.5,paved track,31.0,20.0,1.0,Jake Crum,Bandit Chippers (Jake Crum),Chevrolet,27.0,7665.0,crash,0.0,13.0
+2012,8,Kentucky,Kentucky Speedway,1.5,paved track,32.0,22.0,9.0,John Wes Townley,RAB Racing (Robby Benton),Toyota,16.0,7140.0,crash,0.0,12.0
+2012,8,Kentucky,Kentucky Speedway,1.5,paved track,33.0,14.0,8.0,Ross Chastain,South Carolina Watermelon Association (Bobby Dotter),Toyota,7.0,7125.0,engine,0.0,11.0
+2012,8,Kentucky,Kentucky Speedway,1.5,paved track,34.0,35.0,27.0,C.E. Falk,Boggy Creek Air Boat Rides (Mike Hillman),Chevrolet,6.0,7115.0,handling,0.0,10.0
+2012,8,Kentucky,Kentucky Speedway,1.5,paved track,35.0,27.0,93.0,Dennis Setzer,RSS Racing (Rod Sieg),Chevrolet,4.0,7100.0,transmission,0.0,9.0
+2012,8,Kentucky,Kentucky Speedway,1.5,paved track,36.0,32.0,86.0,Scott Riggs,@ClayGreenfield (Bill Alger),RAM,3.0,7070.0,overheating,0.0,0.0
+2012,9,Iowa,Iowa Speedway,0.875,paved track,1.0,1.0,17.0,Timothy Peters,Toyota (Tom DeLoach),Toyota,200.0,41400.0,running,87.0,47.0
+2012,9,Iowa,Iowa Speedway,0.875,paved track,2.0,8.0,9.0,"Ron Hornaday, Jr.",Anderson's Pure Maple Syrup (Joe Dennette),Chevrolet,200.0,21965.0,running,22.0,43.0
+2012,9,Iowa,Iowa Speedway,0.875,paved track,3.0,7.0,88.0,Matt Crafton,Menards / Ideal Door (Duke Thorson),Toyota,200.0,18510.0,running,0.0,41.0
+2012,9,Iowa,Iowa Speedway,0.875,paved track,4.0,5.0,13.0,Johnny Sauter,Hot Honeys / Curb Records (Mike Curb),Toyota,200.0,16200.0,running,0.0,40.0
+2012,9,Iowa,Iowa Speedway,0.875,paved track,5.0,3.0,6.0,Justin Lofton,J.D. Heiskell & Co. (Eddie Sharp),Chevrolet,200.0,15275.0,running,0.0,39.0
+2012,9,Iowa,Iowa Speedway,0.875,paved track,6.0,9.0,18.0,Jason Leffler,Shore Lodge (Kyle Busch),Toyota,200.0,11950.0,running,0.0,38.0
+2012,9,Iowa,Iowa Speedway,0.875,paved track,7.0,15.0,3.0,Ty Dillon,Bass Pro Shops / Tracker Boats (Richard Childress),Chevrolet,200.0,12150.0,running,0.0,37.0
+2012,9,Iowa,Iowa Speedway,0.875,paved track,8.0,12.0,22.0,Joey Coulter,American Ethanol (Richard Childress),Chevrolet,200.0,10925.0,running,0.0,36.0
+2012,9,Iowa,Iowa Speedway,0.875,paved track,9.0,2.0,30.0,"Nelson Piquet, Jr.",AutoTrac (Steve Turner),Chevrolet,200.0,13075.0,running,0.0,35.0
+2012,9,Iowa,Iowa Speedway,0.875,paved track,10.0,14.0,29.0,Parker Kligerman,Reese Towpower / Mopar (Brad Keselowski),RAM,200.0,12100.0,running,0.0,34.0
+2012,9,Iowa,Iowa Speedway,0.875,paved track,11.0,17.0,97.0,Jeff Choquette,Adrian Carriers (Gary Adrian),Chevrolet,200.0,8525.0,running,0.0,33.0
+2012,9,Iowa,Iowa Speedway,0.875,paved track,12.0,11.0,11.0,Todd Bodine,Toyota Care (Tom DeLoach),Toyota,200.0,10650.0,running,0.0,32.0
+2012,9,Iowa,Iowa Speedway,0.875,paved track,13.0,10.0,32.0,Miguel Paludo,Duroline Brakes & Components (Steve Turner),Chevrolet,200.0,10600.0,running,0.0,31.0
+2012,9,Iowa,Iowa Speedway,0.875,paved track,14.0,22.0,23.0,Jason White,GunBroker.com (Jason White),Ford,200.0,10550.0,running,0.0,30.0
+2012,9,Iowa,Iowa Speedway,0.875,paved track,15.0,18.0,2.0,"Tim George, Jr.",Applebee's (Richard Childress),Chevrolet,200.0,11500.0,running,0.0,29.0
+2012,9,Iowa,Iowa Speedway,0.875,paved track,16.0,20.0,8.0,Ross Chastain,South Carolina Watermelon Association (Bobby Dotter),Toyota,200.0,10325.0,running,0.0,28.0
+2012,9,Iowa,Iowa Speedway,0.875,paved track,17.0,25.0,39.0,Ryan Sieg,RSS Racing (Rod Sieg),Chevrolet,199.0,10225.0,running,0.0,27.0
+2012,9,Iowa,Iowa Speedway,0.875,paved track,18.0,23.0,75.0,Caleb Holman,Food Country USA (Charlie Henderson),Chevrolet,199.0,7850.0,running,0.0,26.0
+2012,9,Iowa,Iowa Speedway,0.875,paved track,19.0,30.0,93.0,Dennis Setzer,RSS Racing (Rod Sieg),Chevrolet,199.0,10000.0,running,0.0,25.0
+2012,9,Iowa,Iowa Speedway,0.875,paved track,20.0,29.0,9.0,John Wes Townley,Barberitos (Robby Benton),Toyota,197.0,10450.0,running,0.0,24.0
+2012,9,Iowa,Iowa Speedway,0.875,paved track,21.0,21.0,7.0,Jeff Agnew,SS Green Light Racing (Ken Smith),Chevrolet,197.0,8675.0,running,0.0,23.0
+2012,9,Iowa,Iowa Speedway,0.875,paved track,22.0,28.0,99.0,Bryan Silas,Rockingham Speedway (Chris Baluch),Ford,197.0,8450.0,running,0.0,22.0
+2012,9,Iowa,Iowa Speedway,0.875,paved track,23.0,31.0,65.0,Justin Jennings,LG Seeds (Mike Mittler),Ford,196.0,7325.0,running,0.0,21.0
+2012,9,Iowa,Iowa Speedway,0.875,paved track,24.0,33.0,57.0,Norm Benning,Norm Benning Racing (Norm Benning),Chevrolet,192.0,7250.0,running,0.0,20.0
+2012,9,Iowa,Iowa Speedway,0.875,paved track,25.0,32.0,84.0,Chris Fontaine,Glenden Enterprises (Chris Fontaine),Chevrolet,189.0,7375.0,running,0.0,19.0
+2012,9,Iowa,Iowa Speedway,0.875,paved track,26.0,6.0,33.0,Cale Gale,Rheem (Eddie Sharp),Chevrolet,181.0,7200.0,crash,0.0,18.0
+2012,9,Iowa,Iowa Speedway,0.875,paved track,27.0,16.0,98.0,Dakoda Armstrong,EverFi.com (Duke Thorson),Toyota,181.0,7150.0,crash,0.0,17.0
+2012,9,Iowa,Iowa Speedway,0.875,paved track,28.0,19.0,81.0,David Starr,Zachry (Joey Arrington),Toyota,165.0,7125.0,oil leak,0.0,16.0
+2012,9,Iowa,Iowa Speedway,0.875,paved track,29.0,36.0,10.0,Jennifer Jo Cobb,Driven2Honor.org (Jennifer Jo Cobb),RAM,155.0,7100.0,running,0.0,15.0
+2012,9,Iowa,Iowa Speedway,0.875,paved track,30.0,4.0,31.0,James Buescher,AccuDoc Solutions (Steve Turner),Chevrolet,135.0,7575.0,crash,91.0,16.0
+2012,9,Iowa,Iowa Speedway,0.875,paved track,31.0,26.0,27.0,Travis Miller,HotTorque.com (Mike Hillman),Chevrolet,132.0,7050.0,running,0.0,13.0
+2012,9,Iowa,Iowa Speedway,0.875,paved track,32.0,35.0,15.0,Todd Shafer,Thunderexhaust.com (Billy Ballew),Toyota,71.0,7025.0,crash,0.0,12.0
+2012,9,Iowa,Iowa Speedway,0.875,paved track,33.0,13.0,5.0,Paulie Harraka,Wauters Motorsports (Richie Wauters),Ford,49.0,7000.0,crash,0.0,11.0
+2012,9,Iowa,Iowa Speedway,0.875,paved track,34.0,34.0,0.0,Chris Lafferty,Driven2Honor.org (Jennifer Jo Cobb),RAM,11.0,6975.0,power steering,0.0,10.0
+2012,9,Iowa,Iowa Speedway,0.875,paved track,35.0,27.0,38.0,Chris Jones,RSS Racing (Rod Sieg),Chevrolet,9.0,6950.0,brakes,0.0,9.0
+2012,9,Iowa,Iowa Speedway,0.875,paved track,36.0,24.0,14.0,Brennan Newberry,NTS Motorsports (Bob Newberry),Chevrolet,5.0,6909.0,crash,0.0,8.0
+2012,10,Chicago,Chicagoland Speedway,1.5,paved track,1.0,11.0,31.0,James Buescher,Fresh from Florida Gulf Seafood (Steve Turner),Chevrolet,150.0,44850.0,running,6.0,47.0
+2012,10,Chicago,Chicagoland Speedway,1.5,paved track,2.0,6.0,2.0,Brendan Gaughan,South Point Hotel & Casino (Richard Childress),Chevrolet,150.0,32240.0,running,83.0,0.0
+2012,10,Chicago,Chicagoland Speedway,1.5,paved track,3.0,4.0,17.0,Timothy Peters,Toyota Tundra (Tom DeLoach),Toyota,150.0,23210.0,running,3.0,42.0
+2012,10,Chicago,Chicagoland Speedway,1.5,paved track,4.0,9.0,88.0,Matt Crafton,Schrock Cabinetry / Menards (Duke Thorson),Toyota,150.0,17325.0,running,0.0,40.0
+2012,10,Chicago,Chicagoland Speedway,1.5,paved track,5.0,17.0,29.0,Parker Kligerman,PlanitDiy.com / Laitner (Brad Keselowski),RAM,150.0,15850.0,running,6.0,40.0
+2012,10,Chicago,Chicagoland Speedway,1.5,paved track,6.0,8.0,33.0,Cale Gale,Rheem (Eddie Sharp),Chevrolet,150.0,15425.0,running,0.0,38.0
+2012,10,Chicago,Chicagoland Speedway,1.5,paved track,7.0,14.0,9.0,"Ron Hornaday, Jr.",Anderson's Maple Syrup (Joe Dennette),Chevrolet,150.0,14275.0,running,1.0,38.0
+2012,10,Chicago,Chicagoland Speedway,1.5,paved track,8.0,5.0,18.0,Jason Leffler,Dollar General / M&M's (Kyle Busch),Toyota,150.0,14200.0,running,0.0,36.0
+2012,10,Chicago,Chicagoland Speedway,1.5,paved track,9.0,13.0,23.0,Jason White,GunBroker.com (Jason White),Ford,150.0,14125.0,running,0.0,35.0
+2012,10,Chicago,Chicagoland Speedway,1.5,paved track,10.0,21.0,81.0,David Starr,NCCER / BYF (Joey Arrington),Toyota,150.0,15350.0,running,0.0,34.0
+2012,10,Chicago,Chicagoland Speedway,1.5,paved track,11.0,22.0,73.0,Rick Crawford,SuperSeal SuperPro Coatings (Ron Crosby),Chevrolet,150.0,11725.0,running,0.0,33.0
+2012,10,Chicago,Chicagoland Speedway,1.5,paved track,12.0,3.0,3.0,Ty Dillon,Bass Pro Shops / Allstate (Richard Childress),Chevrolet,150.0,13850.0,running,17.0,33.0
+2012,10,Chicago,Chicagoland Speedway,1.5,paved track,13.0,19.0,8.0,Ross Chastain,Illiana Watermelon Association (Bobby Dotter),Toyota,150.0,13825.0,running,0.0,31.0
+2012,10,Chicago,Chicagoland Speedway,1.5,paved track,14.0,16.0,9.0,John Wes Townley,Family Farmers (Robby Benton),Toyota,150.0,13775.0,running,0.0,30.0
+2012,10,Chicago,Chicagoland Speedway,1.5,paved track,15.0,2.0,22.0,Joey Coulter,Darrell Gwynn Foundation / RCR (Richard Childress),Chevrolet,150.0,14800.0,running,3.0,30.0
+2012,10,Chicago,Chicagoland Speedway,1.5,paved track,16.0,20.0,98.0,Dakoda Armstrong,EverFi / mudd.com (Duke Thorson),Toyota,150.0,13650.0,running,0.0,28.0
+2012,10,Chicago,Chicagoland Speedway,1.5,paved track,17.0,10.0,32.0,Miguel Paludo,Duroline Brakes & Components (Steve Turner),Chevrolet,150.0,13575.0,running,5.0,28.0
+2012,10,Chicago,Chicagoland Speedway,1.5,paved track,18.0,7.0,11.0,Todd Bodine,Toyota Care (Tom DeLoach),Toyota,150.0,13525.0,running,0.0,26.0
+2012,10,Chicago,Chicagoland Speedway,1.5,paved track,19.0,18.0,5.0,Paulie Harraka,Wauters Motorsports (Richie Wauters),Ford,150.0,13475.0,running,2.0,26.0
+2012,10,Chicago,Chicagoland Speedway,1.5,paved track,20.0,28.0,92.0,Chad McCumbee,FleetHQ / Black's Tire & Wheel (Ricky Benton),Chevrolet,150.0,11775.0,running,0.0,24.0
+2012,10,Chicago,Chicagoland Speedway,1.5,paved track,21.0,1.0,6.0,Justin Lofton,Lofton Cattle (Eddie Sharp),Chevrolet,150.0,14425.0,running,24.0,24.0
+2012,10,Chicago,Chicagoland Speedway,1.5,paved track,22.0,15.0,13.0,Johnny Sauter,Hot Honeys / Curb Records (Mike Curb),Toyota,149.0,13100.0,running,0.0,22.0
+2012,10,Chicago,Chicagoland Speedway,1.5,paved track,23.0,34.0,10.0,Jennifer Jo Cobb,Driven2Honor.org (Jennifer Jo Cobb),RAM,144.0,11075.0,running,0.0,21.0
+2012,10,Chicago,Chicagoland Speedway,1.5,paved track,24.0,23.0,99.0,Bryan Silas,Rockingham Speedway (Chris Baluch),Ford,142.0,11050.0,running,0.0,20.0
+2012,10,Chicago,Chicagoland Speedway,1.5,paved track,25.0,36.0,57.0,Norm Benning,Norm Benning Racing (Norm Benning),Chevrolet,142.0,11175.0,running,0.0,19.0
+2012,10,Chicago,Chicagoland Speedway,1.5,paved track,26.0,12.0,30.0,"Nelson Piquet, Jr.",Polen Designs / AutoTrac (Steve Turner),Chevrolet,94.0,11000.0,crash,0.0,18.0
+2012,10,Chicago,Chicagoland Speedway,1.5,paved track,27.0,33.0,84.0,Chris Fontaine,Glenden Enterprises (Chris Fontaine),Chevrolet,92.0,10975.0,crash,0.0,17.0
+2012,10,Chicago,Chicagoland Speedway,1.5,paved track,28.0,25.0,68.0,Clay Greenfield,CGM / @ClayGreenfield (Bill Alger),RAM,90.0,10950.0,brakes,0.0,16.0
+2012,10,Chicago,Chicagoland Speedway,1.5,paved track,29.0,29.0,27.0,C.E. Falk,HotTorque.com (Mike Hillman),Chevrolet,72.0,10900.0,vibration,0.0,15.0
+2012,10,Chicago,Chicagoland Speedway,1.5,paved track,30.0,24.0,93.0,Ryan Sieg,RSS Racing (Rod Sieg),Chevrolet,45.0,11375.0,engine,0.0,14.0
+2012,10,Chicago,Chicagoland Speedway,1.5,paved track,31.0,30.0,39.0,Chris Jones,RSS Racing (Rod Sieg),Chevrolet,25.0,10850.0,engine,0.0,13.0
+2012,10,Chicago,Chicagoland Speedway,1.5,paved track,32.0,31.0,86.0,Blake Koch,CGM / @ClayGreenfield (Bill Alger),RAM,13.0,10825.0,vibration,0.0,0.0
+2012,10,Chicago,Chicagoland Speedway,1.5,paved track,33.0,27.0,38.0,Dennis Setzer,RSS Racing (Rod Sieg),Chevrolet,10.0,10800.0,electrical,0.0,0.0
+2012,10,Chicago,Chicagoland Speedway,1.5,paved track,34.0,35.0,0.0,T.J. Bell,Driven2Honor.org (Jennifer Jo Cobb),RAM,3.0,10775.0,vibration,0.0,0.0
+2012,10,Chicago,Chicagoland Speedway,1.5,paved track,35.0,26.0,37.0,Jeff Green,RSS Racing (Rod Sieg),Chevrolet,2.0,10750.0,rear gear,0.0,0.0
+2012,10,Chicago,Chicagoland Speedway,1.5,paved track,36.0,32.0,7.0,Johnny Chapman,Wear Your Gear / bobber.info (Ken Smith),Toyota,2.0,10716.0,vibration,0.0,8.0
+2012,11,Pocono,Pocono Raceway,2.5,paved track,1.0,4.0,22.0,Joey Coulter,Darrell Gwynn Foundation / RCR (Richard Childress),Chevrolet,50.0,34800.0,running,7.0,47.0
+2012,11,Pocono,Pocono Raceway,2.5,paved track,2.0,5.0,31.0,James Buescher,Koike Aronson / Ransome (Steve Turner),Chevrolet,50.0,24565.0,running,6.0,43.0
+2012,11,Pocono,Pocono Raceway,2.5,paved track,3.0,1.0,30.0,"Nelson Piquet, Jr.",AutoTrac (Steve Turner),Chevrolet,50.0,25685.0,running,33.0,43.0
+2012,11,Pocono,Pocono Raceway,2.5,paved track,4.0,9.0,88.0,Matt Crafton,Jeld Wen / Menards (Duke Thorson),Toyota,50.0,14950.0,running,0.0,40.0
+2012,11,Pocono,Pocono Raceway,2.5,paved track,5.0,16.0,18.0,Denny Hamlin,GNC Live Well / M&M's (Kyle Busch),Toyota,50.0,11475.0,running,0.0,0.0
+2012,11,Pocono,Pocono Raceway,2.5,paved track,6.0,2.0,3.0,Ty Dillon,Bass Pro Shops / Tracker Boats (Richard Childress),Chevrolet,50.0,12400.0,running,0.0,38.0
+2012,11,Pocono,Pocono Raceway,2.5,paved track,7.0,17.0,29.0,Parker Kligerman,Cooper Standard (Brad Keselowski),RAM,50.0,10900.0,running,0.0,37.0
+2012,11,Pocono,Pocono Raceway,2.5,paved track,8.0,11.0,9.0,John Wes Townley,Toyota Care (Robby Benton),Toyota,50.0,10675.0,running,0.0,36.0
+2012,11,Pocono,Pocono Raceway,2.5,paved track,9.0,35.0,6.0,Justin Lofton,Millennium Private Jet Svc. / Lofton Cattle (Eddie Sharp),Chevrolet,50.0,10625.0,running,0.0,35.0
+2012,11,Pocono,Pocono Raceway,2.5,paved track,10.0,20.0,8.0,Ross Chastain,Melon 1 / SC Watermelon Association (Bobby Dotter),Toyota,50.0,11825.0,running,0.0,34.0
+2012,11,Pocono,Pocono Raceway,2.5,paved track,11.0,14.0,23.0,Jason White,GunBroker.com (Jason White),Ford,50.0,10500.0,running,2.0,34.0
+2012,11,Pocono,Pocono Raceway,2.5,paved track,12.0,18.0,98.0,Dakoda Armstrong,EverFi.com (Duke Thorson),Toyota,50.0,10375.0,running,0.0,32.0
+2012,11,Pocono,Pocono Raceway,2.5,paved track,13.0,3.0,32.0,Miguel Paludo,Duroline Brakes & Components (Steve Turner),Chevrolet,50.0,10325.0,running,0.0,31.0
+2012,11,Pocono,Pocono Raceway,2.5,paved track,14.0,15.0,33.0,Cale Gale,Rheem (Eddie Sharp),Chevrolet,50.0,10275.0,running,0.0,30.0
+2012,11,Pocono,Pocono Raceway,2.5,paved track,15.0,6.0,2.0,"Tim George, Jr.",Applebee's (Richard Childress),Chevrolet,50.0,11225.0,running,0.0,29.0
+2012,11,Pocono,Pocono Raceway,2.5,paved track,16.0,25.0,27.0,C.E. Falk,HotTorque.com (Mike Hillman),Chevrolet,49.0,10050.0,running,0.0,28.0
+2012,11,Pocono,Pocono Raceway,2.5,paved track,17.0,19.0,99.0,Bryan Silas,Rockingham Speedway (Chris Baluch),Ford,49.0,9950.0,running,0.0,27.0
+2012,11,Pocono,Pocono Raceway,2.5,paved track,18.0,23.0,84.0,Chris Fontaine,Glenden Enterprises (Chris Fontaine),Chevrolet,49.0,9825.0,running,0.0,26.0
+2012,11,Pocono,Pocono Raceway,2.5,paved track,19.0,10.0,9.0,"Ron Hornaday, Jr.",Joe Denette Motorsports (Joe Dennette),Chevrolet,47.0,9725.0,running,0.0,25.0
+2012,11,Pocono,Pocono Raceway,2.5,paved track,20.0,34.0,57.0,Norm Benning,Norm Benning Racing (Norm Benning),Chevrolet,47.0,8050.0,running,0.0,24.0
+2012,11,Pocono,Pocono Raceway,2.5,paved track,21.0,32.0,59.0,Kyle Martel,PA Breast Cancer Coalition (William Martel),Chevrolet,47.0,7275.0,running,0.0,0.0
+2012,11,Pocono,Pocono Raceway,2.5,paved track,22.0,8.0,17.0,Timothy Peters,Toyota / Red Horse Racing (Tom DeLoach),Toyota,40.0,8175.0,running,2.0,23.0
+2012,11,Pocono,Pocono Raceway,2.5,paved track,23.0,27.0,28.0,Wes Burton,FDNY Racing (Jim Rosenblum),Chevrolet,39.0,7075.0,crash,0.0,21.0
+2012,11,Pocono,Pocono Raceway,2.5,paved track,24.0,7.0,5.0,Paulie Harraka,Wauters Motorsports (Richie Wauters),Ford,38.0,8000.0,crash,0.0,20.0
+2012,11,Pocono,Pocono Raceway,2.5,paved track,25.0,30.0,82.0,Sean Corr,Leonard Bus Sales / American Heroes Racing (John Corr),Ford,37.0,7115.0,crash,0.0,19.0
+2012,11,Pocono,Pocono Raceway,2.5,paved track,26.0,12.0,11.0,Todd Bodine,Northeast PA Toyota Dealers (Tom DeLoach),Toyota,33.0,6925.0,crash,0.0,18.0
+2012,11,Pocono,Pocono Raceway,2.5,paved track,27.0,13.0,13.0,Johnny Sauter,Hot Honeys / Curb Records (Mike Curb),Toyota,28.0,7900.0,running,0.0,17.0
+2012,11,Pocono,Pocono Raceway,2.5,paved track,28.0,21.0,93.0,Dennis Setzer,RSS Racing (Rod Sieg),Chevrolet,18.0,6875.0,handling,0.0,16.0
+2012,11,Pocono,Pocono Raceway,2.5,paved track,29.0,26.0,39.0,Ryan Sieg,RSS Racing (Rod Sieg),Chevrolet,11.0,6850.0,engine,0.0,15.0
+2012,11,Pocono,Pocono Raceway,2.5,paved track,30.0,31.0,25.0,Brandon Knupp,Hillman Racing (Mike Hillman),Chevrolet,8.0,7325.0,vibration,0.0,0.0
+2012,11,Pocono,Pocono Raceway,2.5,paved track,31.0,22.0,7.0,Jeff Agnew,Wear Your Gear / bobber.info (Ken Smith),Toyota,7.0,6800.0,vibration,0.0,13.0
+2012,11,Pocono,Pocono Raceway,2.5,paved track,32.0,29.0,74.0,Scott Riggs,Koma Unwind Relaxation Drink (Mike Harmon),Chevrolet,6.0,6775.0,overheating,0.0,0.0
+2012,11,Pocono,Pocono Raceway,2.5,paved track,33.0,36.0,75.0,Adam Edwards,Norm Benning Racing (Norm Benning),Chevrolet,5.0,6750.0,vibration,0.0,11.0
+2012,11,Pocono,Pocono Raceway,2.5,paved track,34.0,28.0,38.0,Chris Jones,RSS Racing (Rod Sieg),Chevrolet,3.0,6725.0,vibration,0.0,10.0
+2012,11,Pocono,Pocono Raceway,2.5,paved track,35.0,33.0,0.0,Chris Lafferty,Driven2Honor.org (Jennifer Jo Cobb),RAM,1.0,6700.0,crash,0.0,9.0
+2012,11,Pocono,Pocono Raceway,2.5,paved track,36.0,24.0,10.0,Jennifer Jo Cobb,Driven2Honor.org (Jennifer Jo Cobb),RAM,0.0,6672.0,engine,0.0,8.0
+2012,12,Michigan,Michigan International Speedway,2.0,paved track,1.0,2.0,30.0,"Nelson Piquet, Jr.",AutoTrac (Steve Turner),Chevrolet,100.0,40450.0,running,26.0,47.0
+2012,12,Michigan,Michigan International Speedway,2.0,paved track,2.0,12.0,23.0,Jason White,GunBroker.com (Jason White),Ford,100.0,32315.0,running,0.0,42.0
+2012,12,Michigan,Michigan International Speedway,2.0,paved track,3.0,20.0,98.0,Dakoda Armstrong,EverFi.com (Duke Thorson),Toyota,100.0,19485.0,running,0.0,41.0
+2012,12,Michigan,Michigan International Speedway,2.0,paved track,4.0,11.0,7.0,Parker Kligerman,Toyota (Tom DeLoach),Toyota,100.0,14950.0,running,2.0,41.0
+2012,12,Michigan,Michigan International Speedway,2.0,paved track,5.0,8.0,31.0,James Buescher,Wolf Pack Rentals (Steve Turner),Chevrolet,100.0,13075.0,running,5.0,40.0
+2012,12,Michigan,Michigan International Speedway,2.0,paved track,6.0,5.0,3.0,Ty Dillon,Bass Pro Shops / Tracker Boats (Richard Childress),Chevrolet,100.0,11550.0,running,3.0,39.0
+2012,12,Michigan,Michigan International Speedway,2.0,paved track,7.0,1.0,22.0,Joey Coulter,Rip It Energy Fuel (Richard Childress),Chevrolet,100.0,13700.0,running,0.0,37.0
+2012,12,Michigan,Michigan International Speedway,2.0,paved track,8.0,10.0,29.0,Brad Keselowski,Cooper Standard (Brad Keselowski),RAM,100.0,9075.0,running,3.0,0.0
+2012,12,Michigan,Michigan International Speedway,2.0,paved track,9.0,4.0,18.0,Kurt Busch,Shore Lodge (Kyle Busch),Toyota,100.0,9025.0,running,57.0,0.0
+2012,12,Michigan,Michigan International Speedway,2.0,paved track,10.0,3.0,32.0,Miguel Paludo,Duroline (Steve Turner),Chevrolet,100.0,12525.0,running,0.0,34.0
+2012,12,Michigan,Michigan International Speedway,2.0,paved track,11.0,6.0,13.0,Johnny Sauter,Hot Honeys / Curb Records (Mike Curb),Toyota,100.0,14400.0,running,0.0,33.0
+2012,12,Michigan,Michigan International Speedway,2.0,paved track,12.0,14.0,6.0,Justin Lofton,Lofton Cattle (Eddie Sharp),Chevrolet,100.0,11050.0,running,0.0,32.0
+2012,12,Michigan,Michigan International Speedway,2.0,paved track,13.0,9.0,17.0,Timothy Peters,Toyota (Tom DeLoach),Toyota,100.0,10975.0,running,0.0,31.0
+2012,12,Michigan,Michigan International Speedway,2.0,paved track,14.0,23.0,99.0,Bryan Silas,Rockingham Speedway (Chris Baluch),Ford,100.0,10925.0,running,0.0,30.0
+2012,12,Michigan,Michigan International Speedway,2.0,paved track,15.0,25.0,39.0,Ryan Sieg,RSS Racing (Rod Sieg),Chevrolet,100.0,11950.0,running,0.0,29.0
+2012,12,Michigan,Michigan International Speedway,2.0,paved track,16.0,13.0,88.0,Matt Crafton,Ideal Door / Menards (Duke Thorson),Toyota,100.0,10850.0,running,0.0,28.0
+2012,12,Michigan,Michigan International Speedway,2.0,paved track,17.0,22.0,9.0,"Ron Hornaday, Jr.",AMFM Energy (Joe Dennette),Chevrolet,100.0,10750.0,running,0.0,27.0
+2012,12,Michigan,Michigan International Speedway,2.0,paved track,18.0,21.0,8.0,Ross Chastain,Melon 1 / Engine Parts Plus (Bobby Dotter),Toyota,99.0,10725.0,running,0.0,26.0
+2012,12,Michigan,Michigan International Speedway,2.0,paved track,19.0,18.0,14.0,Brennan Newberry,NTS / Ironclad Performance Wear (Bob Newberry),Chevrolet,99.0,8425.0,running,0.0,25.0
+2012,12,Michigan,Michigan International Speedway,2.0,paved track,20.0,17.0,33.0,Cale Gale,Rheem (Eddie Sharp),Chevrolet,99.0,11275.0,running,0.0,24.0
+2012,12,Michigan,Michigan International Speedway,2.0,paved track,21.0,7.0,2.0,"Tim George, Jr.",Applebee's (Richard Childress),Chevrolet,98.0,10625.0,running,0.0,23.0
+2012,12,Michigan,Michigan International Speedway,2.0,paved track,22.0,29.0,10.0,Jennifer Jo Cobb,Driven2Honor.org (Jennifer Jo Cobb),RAM,96.0,8325.0,running,0.0,22.0
+2012,12,Michigan,Michigan International Speedway,2.0,paved track,23.0,34.0,57.0,Norm Benning,Norm Benning Racing (Norm Benning),Chevrolet,94.0,8300.0,running,0.0,21.0
+2012,12,Michigan,Michigan International Speedway,2.0,paved track,24.0,15.0,11.0,Todd Bodine,Toyota Care (Tom DeLoach),Toyota,49.0,9275.0,crash,4.0,21.0
+2012,12,Michigan,Michigan International Speedway,2.0,paved track,25.0,16.0,9.0,John Wes Townley,Toyota Care (Robby Benton),Toyota,45.0,9400.0,crash,0.0,19.0
+2012,12,Michigan,Michigan International Speedway,2.0,paved track,26.0,26.0,7.0,Johnny Chapman,Wear Your Gear / bobber.info (Ken Smith),Toyota,15.0,8225.0,overheating,0.0,18.0
+2012,12,Michigan,Michigan International Speedway,2.0,paved track,27.0,32.0,27.0,Brandon Knupp,Hillman Racing (Mike Hillman),Chevrolet,10.0,8200.0,transmission,0.0,17.0
+2012,12,Michigan,Michigan International Speedway,2.0,paved track,28.0,31.0,74.0,Mike Harmon,Koma Unwind Relaxation Drink (Mike Harmon),Chevrolet,9.0,8175.0,overheating,0.0,0.0
+2012,12,Michigan,Michigan International Speedway,2.0,paved track,29.0,24.0,84.0,Chris Fontaine,Glenden Enterprises (Chris Fontaine),Chevrolet,6.0,8125.0,vibration,0.0,15.0
+2012,12,Michigan,Michigan International Speedway,2.0,paved track,30.0,30.0,25.0,Stephen Leicht,Hillman Racing (Mike Hillman),Chevrolet,6.0,8600.0,transmission,0.0,0.0
+2012,12,Michigan,Michigan International Speedway,2.0,paved track,31.0,28.0,93.0,Dennis Setzer,RSS Racing (Rod Sieg),Chevrolet,6.0,8075.0,overheating,0.0,13.0
+2012,12,Michigan,Michigan International Speedway,2.0,paved track,32.0,19.0,5.0,Scott Riggs,RSS Racing (Rod Sieg),Chevrolet,4.0,8050.0,engine,0.0,0.0
+2012,12,Michigan,Michigan International Speedway,2.0,paved track,33.0,27.0,38.0,Chris Jones,RSS Racing (Rod Sieg),Chevrolet,4.0,8025.0,rear gear,0.0,11.0
+2012,12,Michigan,Michigan International Speedway,2.0,paved track,34.0,35.0,75.0,Josh Wise,Norm Benning Racing (Norm Benning),Chevrolet,1.0,7975.0,vibration,0.0,0.0
+2012,12,Michigan,Michigan International Speedway,2.0,paved track,35.0,33.0,0.0,T.J. Bell,Driven2Honor.org (Jennifer Jo Cobb),Ford,1.0,7950.0,transmission,0.0,0.0
+2012,13,Bristol,Bristol Motor Speedway,0.533,paved track,1.0,2.0,17.0,Timothy Peters,Toyota (Tom DeLoach),Toyota,204.0,36525.0,running,204.0,48.0
+2012,13,Bristol,Bristol Motor Speedway,0.533,paved track,2.0,9.0,7.0,Parker Kligerman,Toyota (Tom DeLoach),Toyota,204.0,23915.0,running,0.0,42.0
+2012,13,Bristol,Bristol Motor Speedway,0.533,paved track,3.0,15.0,8.0,Ross Chastain,Melon 1 (Bobby Dotter),Toyota,204.0,20460.0,running,0.0,41.0
+2012,13,Bristol,Bristol Motor Speedway,0.533,paved track,4.0,8.0,22.0,Joey Coulter,Steak-umm (Richard Childress),Chevrolet,204.0,14200.0,running,0.0,40.0
+2012,13,Bristol,Bristol Motor Speedway,0.533,paved track,5.0,11.0,2.0,Brendan Gaughan,South Point Hotel & Casino (Richard Childress),Chevrolet,204.0,12700.0,running,0.0,0.0
+2012,13,Bristol,Bristol Motor Speedway,0.533,paved track,6.0,5.0,19.0,Ryan Blaney,Cooper Standard (Brad Keselowski),RAM,204.0,9025.0,running,0.0,0.0
+2012,13,Bristol,Bristol Motor Speedway,0.533,paved track,7.0,28.0,31.0,James Buescher,Exide Batteries (Steve Turner),Chevrolet,204.0,11125.0,running,0.0,37.0
+2012,13,Bristol,Bristol Motor Speedway,0.533,paved track,8.0,17.0,9.0,"Ron Hornaday, Jr.",Anderson's Pure Maple Syrup (Joe Dennette),Chevrolet,204.0,11075.0,running,0.0,36.0
+2012,13,Bristol,Bristol Motor Speedway,0.533,paved track,9.0,7.0,88.0,Matt Crafton,Menards / Great Lakes Wood Floors (Duke Thorson),Toyota,204.0,11025.0,running,0.0,35.0
+2012,13,Bristol,Bristol Motor Speedway,0.533,paved track,10.0,32.0,6.0,Justin Lofton,Millennium Private Jet Svc. / Lofton Cattle (Eddie Sharp),Chevrolet,204.0,12250.0,running,0.0,34.0
+2012,13,Bristol,Bristol Motor Speedway,0.533,paved track,11.0,10.0,13.0,Johnny Sauter,Hot Honeys / Curb Records (Mike Curb),Toyota,204.0,11925.0,running,0.0,33.0
+2012,13,Bristol,Bristol Motor Speedway,0.533,paved track,12.0,21.0,39.0,Ryan Sieg,RSS Racing (Rod Sieg),Chevrolet,204.0,10775.0,running,0.0,32.0
+2012,13,Bristol,Bristol Motor Speedway,0.533,paved track,13.0,19.0,81.0,David Starr,Chasco / Zachry (Joey Arrington),Toyota,204.0,10725.0,running,0.0,31.0
+2012,13,Bristol,Bristol Motor Speedway,0.533,paved track,14.0,27.0,23.0,Jason White,GunBroker.com (Jason White),Ford,204.0,10675.0,running,0.0,30.0
+2012,13,Bristol,Bristol Motor Speedway,0.533,paved track,15.0,23.0,27.0,B.J. McLeod,Boggy Creek Air Boat Rides (Mike Hillman),Chevrolet,204.0,11675.0,running,0.0,29.0
+2012,13,Bristol,Bristol Motor Speedway,0.533,paved track,16.0,29.0,32.0,Miguel Paludo,Duroline Brakes & Components (Steve Turner),Chevrolet,204.0,10525.0,running,0.0,28.0
+2012,13,Bristol,Bristol Motor Speedway,0.533,paved track,17.0,22.0,18.0,Brian Scott,Dollar General (Kyle Busch),Toyota,204.0,8220.0,running,0.0,0.0
+2012,13,Bristol,Bristol Motor Speedway,0.533,paved track,18.0,6.0,30.0,"Nelson Piquet, Jr.",Drink B (Steve Turner),Chevrolet,204.0,10400.0,running,0.0,26.0
+2012,13,Bristol,Bristol Motor Speedway,0.533,paved track,19.0,20.0,75.0,Caleb Holman,Food Country USA / Wise Snacks (Charlie Henderson),Chevrolet,204.0,8100.0,running,0.0,25.0
+2012,13,Bristol,Bristol Motor Speedway,0.533,paved track,20.0,13.0,2.0,Tyler Young,RandCo (Randy Young),Chevrolet,203.0,8675.0,running,0.0,24.0
+2012,13,Bristol,Bristol Motor Speedway,0.533,paved track,21.0,12.0,3.0,Ty Dillon,Bass Pro Shops / Tracker Boats (Richard Childress),Chevrolet,202.0,10250.0,running,0.0,23.0
+2012,13,Bristol,Bristol Motor Speedway,0.533,paved track,22.0,30.0,99.0,Bryan Silas,T3R Motorsports (Chris Baluch),Ford,202.0,10225.0,running,0.0,22.0
+2012,13,Bristol,Bristol Motor Speedway,0.533,paved track,23.0,24.0,92.0,Chad McCumbee,FleetHQ.com / Black's Tire & Wheel (Ricky Benton),Chevrolet,202.0,7950.0,running,0.0,21.0
+2012,13,Bristol,Bristol Motor Speedway,0.533,paved track,24.0,25.0,9.0,John Wes Townley,Zaxby's (Robby Benton),Toyota,202.0,8925.0,running,0.0,20.0
+2012,13,Bristol,Bristol Motor Speedway,0.533,paved track,25.0,4.0,29.0,Brad Keselowski,Reese Towpower / Mopar (Brad Keselowski),RAM,201.0,8025.0,running,0.0,0.0
+2012,13,Bristol,Bristol Motor Speedway,0.533,paved track,26.0,35.0,84.0,Russ Dugger,JPO Absorbents (Chris Fontaine),Chevrolet,200.0,8825.0,running,0.0,18.0
+2012,13,Bristol,Bristol Motor Speedway,0.533,paved track,27.0,36.0,57.0,Norm Benning,Norm Benning Racing (Norm Benning),Chevrolet,196.0,7800.0,running,0.0,17.0
+2012,13,Bristol,Bristol Motor Speedway,0.533,paved track,28.0,1.0,33.0,Cale Gale,Rheem (Eddie Sharp),Chevrolet,193.0,10075.0,crash,0.0,16.0
+2012,13,Bristol,Bristol Motor Speedway,0.533,paved track,29.0,16.0,1.0,Jake Crum,Bandit Chippers (Jake Crum),Chevrolet,187.0,7725.0,crash,0.0,15.0
+2012,13,Bristol,Bristol Motor Speedway,0.533,paved track,30.0,18.0,98.0,Dakoda Armstrong,EverFi.com (Duke Thorson),Toyota,168.0,7700.0,running,0.0,14.0
+2012,13,Bristol,Bristol Motor Speedway,0.533,paved track,31.0,3.0,11.0,Todd Bodine,Toyota Care (Tom DeLoach),Toyota,159.0,7765.0,crash,0.0,13.0
+2012,13,Bristol,Bristol Motor Speedway,0.533,paved track,32.0,26.0,7.0,Jeff Agnew,SS Green Light Racing (Ken Smith),Chevrolet,91.0,7200.0,crash,0.0,12.0
+2012,13,Bristol,Bristol Motor Speedway,0.533,paved track,33.0,34.0,93.0,Chris Jones,RSS Racing (Rod Sieg),Chevrolet,81.0,7175.0,crash,0.0,11.0
+2012,13,Bristol,Bristol Motor Speedway,0.533,paved track,34.0,14.0,86.0,Clay Greenfield,Titan Tool / Star Road-Guard (Bill Alger),RAM,53.0,7150.0,brakes,0.0,10.0
+2012,13,Bristol,Bristol Motor Speedway,0.533,paved track,35.0,31.0,38.0,Dennis Setzer,RSS Racing (Rod Sieg),Chevrolet,4.0,7125.0,brakes,0.0,9.0
+2012,13,Bristol,Bristol Motor Speedway,0.533,paved track,36.0,33.0,5.0,Johnny Chapman,RSS Racing (Rod Sieg),Chevrolet,2.0,7089.0,electrical,0.0,8.0
+2012,14,Atlanta,Atlanta Motor Speedway,1.54,paved track,1.0,1.0,3.0,Ty Dillon,Bass Pro Shops / NRA Museum (Richard Childress),Chevrolet,130.0,45885.0,running,40.0,47.0
+2012,14,Atlanta,Atlanta Motor Speedway,1.54,paved track,2.0,4.0,18.0,Kyle Busch,Dollar General (Kyle Busch),Toyota,130.0,25925.0,running,75.0,0.0
+2012,14,Atlanta,Atlanta Motor Speedway,1.54,paved track,3.0,3.0,31.0,James Buescher,Central Wire (Steve Turner),Chevrolet,130.0,21620.0,running,6.0,42.0
+2012,14,Atlanta,Atlanta Motor Speedway,1.54,paved track,4.0,9.0,7.0,Parker Kligerman,Toyota (Tom DeLoach),Toyota,130.0,15435.0,running,1.0,41.0
+2012,14,Atlanta,Atlanta Motor Speedway,1.54,paved track,5.0,13.0,5.0,Aric Almirola,Courtesy Ford / Jordan Truck Sales (Richie Wauters),Ford,130.0,12185.0,running,1.0,0.0
+2012,14,Atlanta,Atlanta Motor Speedway,1.54,paved track,6.0,17.0,4.0,Kyle Larson,Chip Ganassi Racing Teams Mobile App (Steve Turner),Chevrolet,130.0,9810.0,running,0.0,38.0
+2012,14,Atlanta,Atlanta Motor Speedway,1.54,paved track,7.0,14.0,22.0,Joey Coulter,Armour (Richard Childress),Chevrolet,130.0,11540.0,running,1.0,38.0
+2012,14,Atlanta,Atlanta Motor Speedway,1.54,paved track,8.0,5.0,30.0,"Nelson Piquet, Jr.",Drink B (Steve Turner),Chevrolet,130.0,11440.0,running,0.0,36.0
+2012,14,Atlanta,Atlanta Motor Speedway,1.54,paved track,9.0,10.0,88.0,Matt Crafton,Roto-Rooter / Menards (Duke Thorson),Toyota,130.0,11310.0,running,0.0,35.0
+2012,14,Atlanta,Atlanta Motor Speedway,1.54,paved track,10.0,15.0,51.0,Kurt Busch,Bill Holt Chevrolet (Billy Ballew),Chevrolet,130.0,10235.0,running,0.0,0.0
+2012,14,Atlanta,Atlanta Motor Speedway,1.54,paved track,11.0,12.0,29.0,Ryan Blaney,Cooper Standard (Brad Keselowski),RAM,130.0,10785.0,running,0.0,33.0
+2012,14,Atlanta,Atlanta Motor Speedway,1.54,paved track,12.0,6.0,13.0,Johnny Sauter,Hot Honeys / Curb Records (Mike Curb),Toyota,130.0,11585.0,running,0.0,32.0
+2012,14,Atlanta,Atlanta Motor Speedway,1.54,paved track,13.0,8.0,17.0,Timothy Peters,Toyota (Tom DeLoach),Toyota,130.0,10485.0,running,0.0,31.0
+2012,14,Atlanta,Atlanta Motor Speedway,1.54,paved track,14.0,20.0,6.0,Justin Lofton,J6INK (Eddie Sharp),Chevrolet,130.0,10385.0,running,5.0,31.0
+2012,14,Atlanta,Atlanta Motor Speedway,1.54,paved track,15.0,18.0,33.0,Cale Gale,Ruud Heating & Cooling (Eddie Sharp),Chevrolet,130.0,11360.0,running,1.0,30.0
+2012,14,Atlanta,Atlanta Motor Speedway,1.54,paved track,16.0,7.0,32.0,Miguel Paludo,Duroline Brakes (Steve Turner),Chevrolet,130.0,10185.0,running,0.0,28.0
+2012,14,Atlanta,Atlanta Motor Speedway,1.54,paved track,17.0,23.0,39.0,Ryan Sieg,Pull-A-Part Used Auto Parts (Rod Sieg),Chevrolet,130.0,10130.0,running,0.0,27.0
+2012,14,Atlanta,Atlanta Motor Speedway,1.54,paved track,18.0,24.0,81.0,David Starr,AdvoCare (Joey Arrington),Toyota,130.0,10005.0,running,0.0,26.0
+2012,14,Atlanta,Atlanta Motor Speedway,1.54,paved track,19.0,22.0,9.0,John Wes Townley,Zaxby's (Robby Benton),Toyota,129.0,9955.0,running,0.0,25.0
+2012,14,Atlanta,Atlanta Motor Speedway,1.54,paved track,20.0,16.0,8.0,Ross Chastain,Melon 1 (Bobby Dotter),Toyota,129.0,10530.0,running,0.0,24.0
+2012,14,Atlanta,Atlanta Motor Speedway,1.54,paved track,21.0,21.0,11.0,Todd Bodine,Toyota Care (Tom DeLoach),Toyota,129.0,9855.0,running,0.0,23.0
+2012,14,Atlanta,Atlanta Motor Speedway,1.54,paved track,22.0,30.0,8.0,Max Gresham,Made in the USA Brand / BugBand.net (Eddie Sharp),Chevrolet,129.0,7555.0,running,0.0,22.0
+2012,14,Atlanta,Atlanta Motor Speedway,1.54,paved track,23.0,29.0,98.0,Dakoda Armstrong,EverFi.com (Duke Thorson),Toyota,128.0,9755.0,running,0.0,21.0
+2012,14,Atlanta,Atlanta Motor Speedway,1.54,paved track,24.0,28.0,99.0,Bryan Silas,Rockingham Speedway (Chris Baluch),Ford,127.0,8480.0,running,0.0,20.0
+2012,14,Atlanta,Atlanta Motor Speedway,1.54,paved track,25.0,26.0,92.0,Chad McCumbee,FleetHQ.com / Black's Tire & Wheel (Ricky Benton),Chevrolet,127.0,7605.0,running,0.0,19.0
+2012,14,Atlanta,Atlanta Motor Speedway,1.54,paved track,26.0,33.0,84.0,Chris Fontaine,Stingray Chevrolet / Glenden Enterprises (Chris Fontaine),Chevrolet,126.0,8405.0,running,0.0,18.0
+2012,14,Atlanta,Atlanta Motor Speedway,1.54,paved track,27.0,31.0,75.0,Caleb Holman,Food Country USA / Sunset Farm Foods (Charlie Henderson),Chevrolet,74.0,7380.0,engine,0.0,17.0
+2012,14,Atlanta,Atlanta Motor Speedway,1.54,paved track,28.0,2.0,2.0,"Tim George, Jr.",Applebee's (Richard Childress),Chevrolet,63.0,7350.0,crash,0.0,16.0
+2012,14,Atlanta,Atlanta Motor Speedway,1.54,paved track,29.0,11.0,23.0,Jason White,GunBroker.com (Jason White),Ford,45.0,7325.0,crash,0.0,15.0
+2012,14,Atlanta,Atlanta Motor Speedway,1.54,paved track,30.0,19.0,9.0,"Ron Hornaday, Jr.",AMFMEnergy.com / Anderson's Maple Syrup (Joe Dennette),Chevrolet,43.0,7300.0,crash,0.0,14.0
+2012,14,Atlanta,Atlanta Motor Speedway,1.54,paved track,31.0,35.0,93.0,Chris Jones,RSS Racing (Rod Sieg),Chevrolet,25.0,7775.0,transmission,0.0,13.0
+2012,14,Atlanta,Atlanta Motor Speedway,1.54,paved track,32.0,25.0,7.0,Johnny Chapman,Wear Your Gear / bobber.info (Ken Smith),Toyota,17.0,7250.0,radiator,0.0,12.0
+2012,14,Atlanta,Atlanta Motor Speedway,1.54,paved track,33.0,27.0,74.0,Scott Riggs,Koma Unwind Relaxation Drink (Mike Harmon),Chevrolet,11.0,7225.0,ignition,0.0,0.0
+2012,14,Atlanta,Atlanta Motor Speedway,1.54,paved track,34.0,34.0,27.0,Stephen Leicht,Boggy Creek Air Boat Rides (Mike Hillman),Chevrolet,4.0,7175.0,engine,0.0,0.0
+2012,14,Atlanta,Atlanta Motor Speedway,1.54,paved track,35.0,32.0,0.0,Blake Koch,RameyCars.com (Jennifer Jo Cobb),Ford,2.0,7145.0,overheating,0.0,0.0
+2012,14,Atlanta,Atlanta Motor Speedway,1.54,paved track,36.0,36.0,38.0,Dennis Setzer,RSS Racing (Rod Sieg),Chevrolet,2.0,7106.0,rear gear,0.0,8.0
+2012,15,Iowa,Iowa Speedway,0.875,paved track,1.0,2.0,29.0,Ryan Blaney,Cooper Standard (Brad Keselowski),RAM,200.0,37600.0,running,50.0,47.0
+2012,15,Iowa,Iowa Speedway,0.875,paved track,2.0,9.0,3.0,Ty Dillon,Bass Pro Shops / NRA (Richard Childress),Chevrolet,200.0,25065.0,running,0.0,42.0
+2012,15,Iowa,Iowa Speedway,0.875,paved track,3.0,15.0,11.0,Todd Bodine,Toyota Care (Tom DeLoach),Toyota,200.0,21710.0,running,0.0,41.0
+2012,15,Iowa,Iowa Speedway,0.875,paved track,4.0,4.0,13.0,Johnny Sauter,Hot Honeys / Curb Records (Mike Curb),Toyota,200.0,16200.0,running,12.0,41.0
+2012,15,Iowa,Iowa Speedway,0.875,paved track,5.0,6.0,33.0,Cale Gale,Rheem (Eddie Sharp),Chevrolet,200.0,13975.0,running,0.0,39.0
+2012,15,Iowa,Iowa Speedway,0.875,paved track,6.0,3.0,30.0,"Nelson Piquet, Jr.",DrinkB.com (Steve Turner),Chevrolet,200.0,11650.0,running,0.0,38.0
+2012,15,Iowa,Iowa Speedway,0.875,paved track,7.0,17.0,18.0,Drew Herring,Toyota / Dollar General (Kyle Busch),Toyota,200.0,11150.0,running,19.0,0.0
+2012,15,Iowa,Iowa Speedway,0.875,paved track,8.0,18.0,97.0,Jeff Choquette,Adrian Carriers / Liz Girl Logistics (Gary Adrian),Chevrolet,200.0,8675.0,running,0.0,36.0
+2012,15,Iowa,Iowa Speedway,0.875,paved track,9.0,12.0,88.0,Matt Crafton,Rip It Energy Fuel / Menards (Duke Thorson),Toyota,200.0,10875.0,running,0.0,35.0
+2012,15,Iowa,Iowa Speedway,0.875,paved track,10.0,8.0,32.0,Miguel Paludo,Duroline (Steve Turner),Chevrolet,200.0,12100.0,running,0.0,34.0
+2012,15,Iowa,Iowa Speedway,0.875,paved track,11.0,22.0,8.0,Ross Chastain,South Carolina Watermelon Association (Bobby Dotter),Toyota,200.0,10775.0,running,0.0,33.0
+2012,15,Iowa,Iowa Speedway,0.875,paved track,12.0,19.0,23.0,Jason White,GunBroker.com (Jason White),Ford,200.0,10650.0,running,0.0,32.0
+2012,15,Iowa,Iowa Speedway,0.875,paved track,13.0,14.0,22.0,Joey Coulter,RCR / Darrell Gwynn Foundation (Richard Childress),Chevrolet,199.0,10600.0,running,0.0,31.0
+2012,15,Iowa,Iowa Speedway,0.875,paved track,14.0,21.0,39.0,Ryan Sieg,RSS Racing (Rod Sieg),Chevrolet,199.0,10550.0,running,0.0,30.0
+2012,15,Iowa,Iowa Speedway,0.875,paved track,15.0,16.0,9.0,John Wes Townley,Zaxby's (Robby Benton),Toyota,199.0,11275.0,running,0.0,29.0
+2012,15,Iowa,Iowa Speedway,0.875,paved track,16.0,11.0,19.0,David Mayhew,MMI Wireless Services (Brad Keselowski),RAM,199.0,10550.0,running,0.0,0.0
+2012,15,Iowa,Iowa Speedway,0.875,paved track,17.0,5.0,31.0,James Buescher,Wolf Pack Rentals (Steve Turner),Chevrolet,199.0,10225.0,running,7.0,28.0
+2012,15,Iowa,Iowa Speedway,0.875,paved track,18.0,24.0,99.0,Bryan Silas,Rockingham Speedway (Chris Baluch),Ford,198.0,10100.0,running,0.0,26.0
+2012,15,Iowa,Iowa Speedway,0.875,paved track,19.0,10.0,17.0,Timothy Peters,Toyota / Red Horse Racing (Tom DeLoach),Toyota,198.0,10000.0,running,0.0,25.0
+2012,15,Iowa,Iowa Speedway,0.875,paved track,20.0,26.0,65.0,Justin Jennings,LGSeeds.com (Mike Mittler),Ford,198.0,8325.0,running,0.0,24.0
+2012,15,Iowa,Iowa Speedway,0.875,paved track,21.0,23.0,14.0,Brennan Newberry,NTS / Ironclad Performance Wear (Bob Newberry),Chevrolet,198.0,7550.0,running,0.0,23.0
+2012,15,Iowa,Iowa Speedway,0.875,paved track,22.0,25.0,2.0,"Tim George, Jr.",Applebee's (Richard Childress),Chevrolet,197.0,8450.0,running,0.0,22.0
+2012,15,Iowa,Iowa Speedway,0.875,paved track,23.0,1.0,7.0,Parker Kligerman,Toyota (Tom DeLoach),Toyota,197.0,10625.0,running,107.0,23.0
+2012,15,Iowa,Iowa Speedway,0.875,paved track,24.0,32.0,84.0,Wayne Edwards,ENSEVA (Chris Fontaine),Chevrolet,196.0,7250.0,running,0.0,20.0
+2012,15,Iowa,Iowa Speedway,0.875,paved track,25.0,34.0,57.0,Norm Benning,Norm Benning Racing (Norm Benning),Chevrolet,194.0,7375.0,running,0.0,19.0
+2012,15,Iowa,Iowa Speedway,0.875,paved track,26.0,35.0,47.0,Benjamin Reynolds,Diversified Consulting Solutions (Donald Reynolds),Chevrolet,194.0,7200.0,running,0.0,18.0
+2012,15,Iowa,Iowa Speedway,0.875,paved track,27.0,20.0,4.0,Augie Grill,Turner Motorsports (Steve Turner),Chevrolet,188.0,7150.0,battery,0.0,17.0
+2012,15,Iowa,Iowa Speedway,0.875,paved track,28.0,33.0,96.0,Todd Peck,Stopain / Arthritis Foundation (Michael Peck),Chevrolet,179.0,7125.0,oil leak,0.0,16.0
+2012,15,Iowa,Iowa Speedway,0.875,paved track,29.0,27.0,27.0,Ryan Lynch,BlankHood.com (Mike Hillman),Chevrolet,173.0,7100.0,running,0.0,15.0
+2012,15,Iowa,Iowa Speedway,0.875,paved track,30.0,31.0,10.0,Jennifer Jo Cobb,Horejsi Graphics / Driven2Honor.org (Jennifer Jo Cobb),RAM,171.0,7575.0,radiator,0.0,14.0
+2012,15,Iowa,Iowa Speedway,0.875,paved track,31.0,13.0,6.0,Justin Lofton,Lofton Cattle (Eddie Sharp),Chevrolet,94.0,7050.0,crash,5.0,14.0
+2012,15,Iowa,Iowa Speedway,0.875,paved track,32.0,28.0,7.0,Caleb Roark,Bennigans / Montana Mike's (Ken Smith),Chevrolet,94.0,7025.0,crash,0.0,12.0
+2012,15,Iowa,Iowa Speedway,0.875,paved track,33.0,7.0,9.0,"Ron Hornaday, Jr.",Smokey Mountain Herbal Snuff (Joe Dennette),Chevrolet,68.0,7000.0,crash,0.0,11.0
+2012,15,Iowa,Iowa Speedway,0.875,paved track,34.0,30.0,93.0,Chris Jones,RSS Racing (Rod Sieg),Chevrolet,5.0,6975.0,brakes,0.0,10.0
+2012,15,Iowa,Iowa Speedway,0.875,paved track,35.0,36.0,0.0,Chris Lafferty,Horejsi Graphics (Jennifer Jo Cobb),Ford,3.0,6950.0,transmission,0.0,9.0
+2012,15,Iowa,Iowa Speedway,0.875,paved track,36.0,29.0,38.0,Dennis Setzer,RSS Racing (Rod Sieg),Chevrolet,2.0,6909.0,overheating,0.0,0.0
+2012,16,Kentucky,Kentucky Speedway,1.5,paved track,1.0,8.0,31.0,James Buescher,Fraternal Order of Eagles (Steve Turner),Chevrolet,134.0,48865.0,running,64.0,48.0
+2012,16,Kentucky,Kentucky Speedway,1.5,paved track,2.0,5.0,7.0,Parker Kligerman,Toyota (Tom DeLoach),Toyota,134.0,30390.0,running,0.0,42.0
+2012,16,Kentucky,Kentucky Speedway,1.5,paved track,3.0,3.0,3.0,Ty Dillon,Bass Pro Shops / Tracker Boats (Richard Childress),Chevrolet,134.0,19635.0,running,0.0,41.0
+2012,16,Kentucky,Kentucky Speedway,1.5,paved track,4.0,1.0,22.0,Joey Coulter,Darrell Gwynn Foundation / RCR (Richard Childress),Chevrolet,134.0,18125.0,running,39.0,41.0
+2012,16,Kentucky,Kentucky Speedway,1.5,paved track,5.0,10.0,18.0,Brian Scott,Dollar General (Kyle Busch),Toyota,134.0,12350.0,running,14.0,0.0
+2012,16,Kentucky,Kentucky Speedway,1.5,paved track,6.0,2.0,13.0,Johnny Sauter,Hot Honeys / Curb Records (Mike Curb),Toyota,134.0,13275.0,running,0.0,38.0
+2012,16,Kentucky,Kentucky Speedway,1.5,paved track,7.0,14.0,6.0,Justin Lofton,Weekend Warrior Productions / Lofton Cattle (Eddie Sharp),Chevrolet,134.0,13975.0,running,0.0,37.0
+2012,16,Kentucky,Kentucky Speedway,1.5,paved track,8.0,12.0,32.0,Miguel Paludo,Duroline Brakes (Steve Turner),Chevrolet,134.0,11550.0,running,0.0,36.0
+2012,16,Kentucky,Kentucky Speedway,1.5,paved track,9.0,11.0,88.0,Matt Crafton,Menards / Ideal Door (Duke Thorson),Toyota,134.0,11500.0,running,0.0,35.0
+2012,16,Kentucky,Kentucky Speedway,1.5,paved track,10.0,23.0,9.0,John Wes Townley,Zaxby's (Robby Benton),Toyota,134.0,12400.0,running,0.0,34.0
+2012,16,Kentucky,Kentucky Speedway,1.5,paved track,11.0,16.0,29.0,Ryan Blaney,Cooper Standard (Brad Keselowski),RAM,134.0,11725.0,running,13.0,34.0
+2012,16,Kentucky,Kentucky Speedway,1.5,paved track,12.0,6.0,30.0,"Nelson Piquet, Jr.",DrinkB.com (Steve Turner),Chevrolet,134.0,11275.0,running,0.0,32.0
+2012,16,Kentucky,Kentucky Speedway,1.5,paved track,13.0,25.0,1.0,Jake Crum,Bandit Chippers (Jake Crum),Chevrolet,134.0,8975.0,running,0.0,31.0
+2012,16,Kentucky,Kentucky Speedway,1.5,paved track,14.0,22.0,9.0,"Ron Hornaday, Jr.",Chevy Truck Month (Joe Dennette),Chevrolet,134.0,11175.0,running,0.0,30.0
+2012,16,Kentucky,Kentucky Speedway,1.5,paved track,15.0,34.0,57.0,Norm Benning,Norm Benning Racing (Norm Benning),Chevrolet,133.0,12125.0,running,0.0,29.0
+2012,16,Kentucky,Kentucky Speedway,1.5,paved track,16.0,30.0,10.0,Jennifer Jo Cobb,Driven2Honor.org / RameyCars.com (Jennifer Jo Cobb),RAM,127.0,8675.0,running,0.0,28.0
+2012,16,Kentucky,Kentucky Speedway,1.5,paved track,17.0,29.0,7.0,Jeff Agnew,SS Green Light Racing (Ken Smith),Chevrolet,123.0,10825.0,oil pump,1.0,28.0
+2012,16,Kentucky,Kentucky Speedway,1.5,paved track,18.0,17.0,2.0,"Tim George, Jr.",Applebee's (Richard Childress),Chevrolet,118.0,10700.0,running,0.0,26.0
+2012,16,Kentucky,Kentucky Speedway,1.5,paved track,19.0,4.0,33.0,Cale Gale,Rheem (Eddie Sharp),Chevrolet,115.0,10600.0,running,0.0,25.0
+2012,16,Kentucky,Kentucky Speedway,1.5,paved track,20.0,19.0,23.0,Jason White,GunBroker.com (Jason White),Ford,105.0,11175.0,crash,0.0,24.0
+2012,16,Kentucky,Kentucky Speedway,1.5,paved track,21.0,13.0,17.0,Timothy Peters,Toyota (Tom DeLoach),Toyota,66.0,10400.0,crash,0.0,23.0
+2012,16,Kentucky,Kentucky Speedway,1.5,paved track,22.0,28.0,39.0,Ryan Sieg,RSS Racing (Rod Sieg),Chevrolet,65.0,9050.0,engine,0.0,22.0
+2012,16,Kentucky,Kentucky Speedway,1.5,paved track,23.0,9.0,8.0,Max Gresham,PledgeForUSA.com (Eddie Sharp),Chevrolet,62.0,7950.0,crash,0.0,21.0
+2012,16,Kentucky,Kentucky Speedway,1.5,paved track,24.0,33.0,27.0,Travis Miller,Hillman Racing (Mike Hillman),Chevrolet,54.0,8850.0,vibration,0.0,20.0
+2012,16,Kentucky,Kentucky Speedway,1.5,paved track,25.0,24.0,5.0,John King,Food City / Fairway Ford (Richie Wauters),Ford,53.0,7975.0,crash,0.0,19.0
+2012,16,Kentucky,Kentucky Speedway,1.5,paved track,26.0,15.0,19.0,David Mayhew,MMI Wireless Services / Steak & Grape (Brad Keselowski),RAM,53.0,7800.0,brakes,0.0,0.0
+2012,16,Kentucky,Kentucky Speedway,1.5,paved track,27.0,18.0,14.0,Brennan Newberry,NTS Motorsports (Bob Newberry),Chevrolet,46.0,7750.0,crash,0.0,17.0
+2012,16,Kentucky,Kentucky Speedway,1.5,paved track,28.0,27.0,8.0,Ross Chastain,SS-Green Light Racing (Bobby Dotter),Toyota,35.0,7725.0,vibration,1.0,17.0
+2012,16,Kentucky,Kentucky Speedway,1.5,paved track,29.0,26.0,99.0,Bryan Silas,Rockingham Speedway (Chris Baluch),Ford,33.0,7700.0,crash,2.0,16.0
+2012,16,Kentucky,Kentucky Speedway,1.5,paved track,30.0,7.0,11.0,Todd Bodine,Toyota Care (Tom DeLoach),Toyota,21.0,8175.0,crash,0.0,14.0
+2012,16,Kentucky,Kentucky Speedway,1.5,paved track,31.0,20.0,4.0,Dakoda Armstrong,Drive for Savings / Mudd Advertising (Steve Turner),Chevrolet,16.0,7650.0,engine,0.0,13.0
+2012,16,Kentucky,Kentucky Speedway,1.5,paved track,32.0,32.0,93.0,Johnny Chapman,RSS Racing (Rod Sieg),Chevrolet,16.0,7625.0,rear end,0.0,12.0
+2012,16,Kentucky,Kentucky Speedway,1.5,paved track,33.0,21.0,38.0,Chris Jones,RSS Racing (Rod Sieg),Chevrolet,4.0,7600.0,rear end,0.0,11.0
+2012,16,Kentucky,Kentucky Speedway,1.5,paved track,34.0,35.0,84.0,Chris Fontaine,JPO Absorbents (Chris Fontaine),Chevrolet,3.0,7580.0,engine,0.0,10.0
+2012,16,Kentucky,Kentucky Speedway,1.5,paved track,35.0,36.0,37.0,Dennis Setzer,RSS Racing (Rod Sieg),Chevrolet,3.0,7550.0,vibration,0.0,0.0
+2012,16,Kentucky,Kentucky Speedway,1.5,paved track,36.0,31.0,0.0,Blake Koch,Driven2Honor.org (Jennifer Jo Cobb),Ford,0.0,7509.0,transmission,0.0,0.0
+2012,17,Las Vegas,Las Vegas Motor Speedway,1.5,paved track,1.0,13.0,30.0,"Nelson Piquet, Jr.",OmniTracs / Iceberg / tdm transportes (Steve Turner),Chevrolet,146.0,37825.0,running,30.0,47.0
+2012,17,Las Vegas,Las Vegas Motor Speedway,1.5,paved track,2.0,4.0,88.0,Matt Crafton,Menards / Rip It Energy Drink (Duke Thorson),Toyota,146.0,23390.0,running,15.0,43.0
+2012,17,Las Vegas,Las Vegas Motor Speedway,1.5,paved track,3.0,1.0,22.0,Joey Coulter,RCR / Darrell Gwynn Foundation (Richard Childress),Chevrolet,146.0,23135.0,running,40.0,43.0
+2012,17,Las Vegas,Las Vegas Motor Speedway,1.5,paved track,4.0,6.0,2.0,Brendan Gaughan,South Point Hotel & Casino (Richard Childress),Chevrolet,146.0,16125.0,running,0.0,0.0
+2012,17,Las Vegas,Las Vegas Motor Speedway,1.5,paved track,5.0,10.0,11.0,Todd Bodine,Toyota Care (Tom DeLoach),Toyota,146.0,17500.0,running,0.0,39.0
+2012,17,Las Vegas,Las Vegas Motor Speedway,1.5,paved track,6.0,15.0,31.0,James Buescher,Great Clips (Steve Turner),Chevrolet,146.0,12275.0,running,0.0,38.0
+2012,17,Las Vegas,Las Vegas Motor Speedway,1.5,paved track,7.0,12.0,33.0,Cale Gale,Rheem (Eddie Sharp),Chevrolet,146.0,12775.0,running,0.0,37.0
+2012,17,Las Vegas,Las Vegas Motor Speedway,1.5,paved track,8.0,2.0,17.0,Timothy Peters,Toyota (Tom DeLoach),Toyota,146.0,11550.0,running,18.0,37.0
+2012,17,Las Vegas,Las Vegas Motor Speedway,1.5,paved track,9.0,3.0,18.0,David Mayhew,Dollar General (Kyle Busch),Toyota,146.0,11500.0,running,1.0,0.0
+2012,17,Las Vegas,Las Vegas Motor Speedway,1.5,paved track,10.0,5.0,3.0,Ty Dillon,Bass Pro Shops / Tracker Boats (Richard Childress),Chevrolet,146.0,12725.0,running,5.0,35.0
+2012,17,Las Vegas,Las Vegas Motor Speedway,1.5,paved track,11.0,7.0,32.0,Miguel Paludo,Duroline Brakes (Steve Turner),Chevrolet,146.0,11400.0,running,0.0,33.0
+2012,17,Las Vegas,Las Vegas Motor Speedway,1.5,paved track,12.0,9.0,29.0,Grant Enfinger,Reese Towpower (Brad Keselowski),RAM,146.0,11275.0,running,1.0,33.0
+2012,17,Las Vegas,Las Vegas Motor Speedway,1.5,paved track,13.0,16.0,23.0,Jason White,GunBroker.com (Jason White),Ford,146.0,11225.0,running,0.0,31.0
+2012,17,Las Vegas,Las Vegas Motor Speedway,1.5,paved track,14.0,19.0,9.0,John Wes Townley,Zaxby's (Robby Benton),Toyota,146.0,11175.0,running,0.0,30.0
+2012,17,Las Vegas,Las Vegas Motor Speedway,1.5,paved track,15.0,17.0,98.0,Travis Pastrana,AM/PM (Duke Thorson),Toyota,146.0,9675.0,running,0.0,0.0
+2012,17,Las Vegas,Las Vegas Motor Speedway,1.5,paved track,16.0,21.0,99.0,Bryan Silas,Rockingham Speedway (Chris Baluch),Ford,146.0,11125.0,running,1.0,28.0
+2012,17,Las Vegas,Las Vegas Motor Speedway,1.5,paved track,17.0,18.0,5.0,Ryan Reed,Racehard.com / RyansMission.org (Richie Wauters),Ford,145.0,10825.0,running,0.0,27.0
+2012,17,Las Vegas,Las Vegas Motor Speedway,1.5,paved track,18.0,33.0,57.0,Norm Benning,Norm Benning Racing (Norm Benning),Chevrolet,135.0,10700.0,running,0.0,26.0
+2012,17,Las Vegas,Las Vegas Motor Speedway,1.5,paved track,19.0,14.0,7.0,Parker Kligerman,Toyota (Tom DeLoach),Toyota,126.0,10600.0,crash,35.0,26.0
+2012,17,Las Vegas,Las Vegas Motor Speedway,1.5,paved track,20.0,8.0,6.0,Justin Lofton,Imperial Valley Full Plate (Eddie Sharp),Chevrolet,114.0,9925.0,crash,0.0,24.0
+2012,17,Las Vegas,Las Vegas Motor Speedway,1.5,paved track,21.0,11.0,13.0,Johnny Sauter,SealMaster (Mike Curb),Toyota,114.0,10150.0,crash,0.0,23.0
+2012,17,Las Vegas,Las Vegas Motor Speedway,1.5,paved track,22.0,24.0,39.0,Ryan Sieg,RSS Racing (Rod Sieg),Chevrolet,111.0,8050.0,alternator,0.0,22.0
+2012,17,Las Vegas,Las Vegas Motor Speedway,1.5,paved track,23.0,22.0,14.0,Brennan Newberry,NTS Motorsports (Bob Newberry),Chevrolet,102.0,7950.0,crash,0.0,21.0
+2012,17,Las Vegas,Las Vegas Motor Speedway,1.5,paved track,24.0,32.0,65.0,Chris Lafferty,SuperSeal Construction Products (Mike Mittler),Chevrolet,27.0,7850.0,crash,0.0,20.0
+2012,17,Las Vegas,Las Vegas Motor Speedway,1.5,paved track,25.0,23.0,8.0,Ross Chastain,South Carolina Watermelon Association (Bobby Dotter),Toyota,26.0,7975.0,suspension,0.0,19.0
+2012,17,Las Vegas,Las Vegas Motor Speedway,1.5,paved track,26.0,28.0,27.0,Travis Miller,Hillman Racing (Mike Hillman),Chevrolet,23.0,7800.0,overheating,0.0,18.0
+2012,17,Las Vegas,Las Vegas Motor Speedway,1.5,paved track,27.0,20.0,9.0,"Ron Hornaday, Jr.",Smokey Mountain Herbal Snuff (Joe Dennette),Chevrolet,20.0,7750.0,engine,0.0,17.0
+2012,17,Las Vegas,Las Vegas Motor Speedway,1.5,paved track,28.0,30.0,10.0,Jennifer Jo Cobb,Horejsi Graphics (Jennifer Jo Cobb),RAM,19.0,7725.0,clutch,0.0,16.0
+2012,17,Las Vegas,Las Vegas Motor Speedway,1.5,paved track,29.0,34.0,84.0,Chris Fontaine,Glenden Enterprises (Chris Fontaine),Chevrolet,13.0,7700.0,transmission,0.0,15.0
+2012,17,Las Vegas,Las Vegas Motor Speedway,1.5,paved track,30.0,25.0,7.0,Johnny Chapman,Wear Your Gear / bobber.info (Ken Smith),Toyota,11.0,8175.0,rear gear,0.0,14.0
+2012,17,Las Vegas,Las Vegas Motor Speedway,1.5,paved track,31.0,27.0,93.0,Dennis Setzer,RSS Racing (Rod Sieg),Chevrolet,7.0,7650.0,vibration,0.0,13.0
+2012,17,Las Vegas,Las Vegas Motor Speedway,1.5,paved track,32.0,26.0,25.0,B.J. McLeod,Boggy Creek Air Boat Rides (Mike Hillman),Chevrolet,5.0,7625.0,overheating,0.0,0.0
+2012,17,Las Vegas,Las Vegas Motor Speedway,1.5,paved track,33.0,29.0,38.0,Chris Jones,RSS Racing (Rod Sieg),Chevrolet,4.0,7600.0,vibration,0.0,11.0
+2012,17,Las Vegas,Las Vegas Motor Speedway,1.5,paved track,34.0,31.0,0.0,Clay Greenfield,Obregon Construction (Rick Lind),Ford,3.0,7580.0,overheating,0.0,10.0
+2012,18,Talladega,Talladega Superspeedway,2.66,paved track,1.0,9.0,7.0,Parker Kligerman,Camp Horsin' Around / Toyota (Tom DeLoach),Toyota,94.0,56000.0,running,2.0,47.0
+2012,18,Talladega,Talladega Superspeedway,2.66,paved track,2.0,29.0,13.0,Johnny Sauter,Hot Honeys / Curb Records (Mike Curb),Toyota,94.0,43990.0,running,3.0,43.0
+2012,18,Talladega,Talladega Superspeedway,2.66,paved track,3.0,3.0,31.0,James Buescher,Koike Aronson / Ransome (Steve Turner),Chevrolet,94.0,30560.0,running,13.0,42.0
+2012,18,Talladega,Talladega Superspeedway,2.66,paved track,4.0,1.0,3.0,Ty Dillon,Bass Pro Shops / Tracker Boats (Richard Childress),Chevrolet,94.0,26975.0,running,25.0,42.0
+2012,18,Talladega,Talladega Superspeedway,2.66,paved track,5.0,8.0,17.0,Timothy Peters,Toyota (Tom DeLoach),Toyota,94.0,16700.0,running,2.0,40.0
+2012,18,Talladega,Talladega Superspeedway,2.66,paved track,6.0,19.0,29.0,Ryan Blaney,Draw-Tite / Mopar (Brad Keselowski),RAM,94.0,15175.0,running,3.0,39.0
+2012,18,Talladega,Talladega Superspeedway,2.66,paved track,7.0,6.0,18.0,Kurt Busch,Dollar General (Kyle Busch),Toyota,94.0,12375.0,running,2.0,0.0
+2012,18,Talladega,Talladega Superspeedway,2.66,paved track,8.0,23.0,51.0,German Quiroga,NET 10 Wireless (Kyle Busch),Toyota,94.0,11875.0,running,0.0,36.0
+2012,18,Talladega,Talladega Superspeedway,2.66,paved track,9.0,16.0,2.0,"Tim George, Jr.","Applebee's ""Driven 2 Serve"" (Richard Childress)",Chevrolet,94.0,14025.0,running,0.0,35.0
+2012,18,Talladega,Talladega Superspeedway,2.66,paved track,10.0,5.0,33.0,Cale Gale,"Rheem ""Chasing the Cure"" (Eddie Sharp)",Chevrolet,94.0,15200.0,running,0.0,34.0
+2012,18,Talladega,Talladega Superspeedway,2.66,paved track,11.0,32.0,39.0,Ryan Sieg,Pull-A-Part Used Auto Parts (Rod Sieg),Chevrolet,94.0,13825.0,running,0.0,33.0
+2012,18,Talladega,Talladega Superspeedway,2.66,paved track,12.0,15.0,99.0,Bryan Silas,Rockingham Speedway (Chris Baluch),Ford,94.0,13650.0,running,0.0,32.0
+2012,18,Talladega,Talladega Superspeedway,2.66,paved track,13.0,27.0,27.0,Cole Whitt,Hillman Racing (Mike Hillman),Chevrolet,94.0,11300.0,running,0.0,0.0
+2012,18,Talladega,Talladega Superspeedway,2.66,paved track,14.0,11.0,22.0,Joey Coulter,Husky Liners (Richard Childress),Chevrolet,94.0,13450.0,running,0.0,30.0
+2012,18,Talladega,Talladega Superspeedway,2.66,paved track,15.0,31.0,57.0,Norm Benning,Norm Benning Racing (Norm Benning),Chevrolet,94.0,14425.0,running,0.0,29.0
+2012,18,Talladega,Talladega Superspeedway,2.66,paved track,16.0,22.0,68.0,Clay Greenfield,TitanTool.com (Bill Alger),RAM,94.0,11000.0,running,0.0,28.0
+2012,18,Talladega,Talladega Superspeedway,2.66,paved track,17.0,30.0,76.0,Ryan Hackett,J & R Supply (Ray Hackett),Ford,94.0,10900.0,running,0.0,27.0
+2012,18,Talladega,Talladega Superspeedway,2.66,paved track,18.0,25.0,88.0,Matt Crafton,Goof Off / Menards (Duke Thorson),Toyota,94.0,13050.0,running,1.0,27.0
+2012,18,Talladega,Talladega Superspeedway,2.66,paved track,19.0,21.0,32.0,Miguel Paludo,Duroline Brakes (Steve Turner),Chevrolet,94.0,12925.0,running,0.0,25.0
+2012,18,Talladega,Talladega Superspeedway,2.66,paved track,20.0,2.0,23.0,Jason White,GunBroker.com (Jason White),Ford,94.0,13450.0,running,11.0,25.0
+2012,18,Talladega,Talladega Superspeedway,2.66,paved track,21.0,35.0,93.0,Chris Jones,RSS Racing (Rod Sieg),Chevrolet,94.0,12725.0,running,0.0,23.0
+2012,18,Talladega,Talladega Superspeedway,2.66,paved track,22.0,17.0,81.0,David Starr,Zachry (Joey Arrington),Toyota,93.0,12625.0,crash,0.0,22.0
+2012,18,Talladega,Talladega Superspeedway,2.66,paved track,23.0,20.0,20.0,Rick Crawford,BRG Motorsports / BlankHood.com (George Bragg),Toyota,93.0,10275.0,crash,0.0,21.0
+2012,18,Talladega,Talladega Superspeedway,2.66,paved track,24.0,13.0,6.0,Justin Lofton,Weekend Warrior Productions / Lofton Cattle (Eddie Sharp),Chevrolet,93.0,12425.0,crash,20.0,21.0
+2012,18,Talladega,Talladega Superspeedway,2.66,paved track,25.0,18.0,9.0,John Wes Townley,Zaxby's (Robby Benton),Toyota,93.0,11225.0,running,0.0,19.0
+2012,18,Talladega,Talladega Superspeedway,2.66,paved track,26.0,4.0,5.0,Aric Almirola,Jordan Truck Sales / Bullet Liner (Richie Wauters),Ford,91.0,9975.0,running,8.0,0.0
+2012,18,Talladega,Talladega Superspeedway,2.66,paved track,27.0,36.0,10.0,Jennifer Jo Cobb,Driven2Honor.org / Koma Unwind (Jennifer Jo Cobb),RAM,90.0,9875.0,running,0.0,17.0
+2012,18,Talladega,Talladega Superspeedway,2.66,paved track,28.0,10.0,9.0,"Ron Hornaday, Jr.",Anderson's Pure Maple Syrup / Fred's (Joe Dennette),Chevrolet,90.0,10775.0,running,0.0,16.0
+2012,18,Talladega,Talladega Superspeedway,2.66,paved track,29.0,12.0,84.0,Chris Fontaine,Glenden Enterprises (Chris Fontaine),Toyota,61.0,9675.0,crash,0.0,15.0
+2012,18,Talladega,Talladega Superspeedway,2.66,paved track,30.0,24.0,1.0,Donnie Neuenberger,Eagle Convenience Stores (Rick Ware),Chevrolet,59.0,9575.0,crash,2.0,0.0
+2012,18,Talladega,Talladega Superspeedway,2.66,paved track,31.0,14.0,30.0,"Nelson Piquet, Jr.",Alpinestars / Breast Cancer Awareness (Steve Turner),Chevrolet,59.0,9950.0,crash,0.0,13.0
+2012,18,Talladega,Talladega Superspeedway,2.66,paved track,32.0,34.0,7.0,Johnny Chapman,Wear Your Gear / bobber.info (Ken Smith),Toyota,47.0,9350.0,crash,2.0,13.0
+2012,18,Talladega,Talladega Superspeedway,2.66,paved track,33.0,7.0,11.0,Todd Bodine,Toyota Care (Tom DeLoach),Toyota,46.0,9250.0,crash,0.0,11.0
+2012,18,Talladega,Talladega Superspeedway,2.66,paved track,34.0,33.0,8.0,Ross Chastain,Melon 1 (Bobby Dotter),Toyota,45.0,9200.0,crash,0.0,10.0
+2012,18,Talladega,Talladega Superspeedway,2.66,paved track,35.0,26.0,74.0,Mike Harmon,Mike Harmon Racing (Mike Harmon),Chevrolet,33.0,9155.0,fuel pump,0.0,0.0
+2012,18,Talladega,Talladega Superspeedway,2.66,paved track,36.0,28.0,25.0,Brandon Knupp,Hillman Racing (Mike Hillman),Chevrolet,2.0,9109.0,overheating,0.0,0.0
+2012,19,Martinsville,Martinsville Speedway,0.526,paved track,1.0,5.0,51.0,Denny Hamlin,Toyota (Kyle Busch),Toyota,200.0,32000.0,running,6.0,0.0
+2012,19,Martinsville,Martinsville Speedway,0.526,paved track,2.0,4.0,30.0,"Nelson Piquet, Jr.",AutoTrac / Qualcomm (Steve Turner),Chevrolet,200.0,26840.0,running,0.0,42.0
+2012,19,Martinsville,Martinsville Speedway,0.526,paved track,3.0,15.0,22.0,Joey Coulter,RCR / Darrell Gwynn Foundation (Richard Childress),Chevrolet,200.0,16485.0,running,0.0,41.0
+2012,19,Martinsville,Martinsville Speedway,0.526,paved track,4.0,7.0,88.0,Matt Crafton,Zecol / Menards (Duke Thorson),Toyota,200.0,13400.0,running,33.0,41.0
+2012,19,Martinsville,Martinsville Speedway,0.526,paved track,5.0,23.0,92.0,Scott Riggs,FleetHQ.com / BTS Tire & Wheel Distributors (Ricky Benton),Chevrolet,200.0,9650.0,running,0.0,0.0
+2012,19,Martinsville,Martinsville Speedway,0.526,paved track,6.0,10.0,31.0,James Buescher,Great Clips (Steve Turner),Chevrolet,200.0,10450.0,running,0.0,38.0
+2012,19,Martinsville,Martinsville Speedway,0.526,paved track,7.0,1.0,17.0,Timothy Peters,Toyota / Strutmasters.com (Tom DeLoach),Toyota,200.0,12600.0,running,59.0,38.0
+2012,19,Martinsville,Martinsville Speedway,0.526,paved track,8.0,11.0,29.0,Ryan Blaney,Draw-Tite / Mopar (Brad Keselowski),RAM,200.0,10250.0,running,0.0,36.0
+2012,19,Martinsville,Martinsville Speedway,0.526,paved track,9.0,13.0,7.0,Parker Kligerman,Camp Horsin' Around / Toyota (Tom DeLoach),Toyota,200.0,10200.0,running,0.0,35.0
+2012,19,Martinsville,Martinsville Speedway,0.526,paved track,10.0,3.0,18.0,Brian Scott,Shore Lodge (Kyle Busch),Toyota,200.0,9175.0,running,0.0,0.0
+2012,19,Martinsville,Martinsville Speedway,0.526,paved track,11.0,21.0,8.0,Max Gresham,PledgeForUSA.com / Breast Cancer Awareness (Eddie Sharp),Chevrolet,200.0,8850.0,running,0.0,33.0
+2012,19,Martinsville,Martinsville Speedway,0.526,paved track,12.0,2.0,2.0,Kevin Harvick,Tide Pods (Richard Childress),Chevrolet,200.0,7725.0,running,101.0,0.0
+2012,19,Martinsville,Martinsville Speedway,0.526,paved track,13.0,27.0,23.0,Jason White,Grime Boss (Jason White),Ford,200.0,9925.0,running,0.0,31.0
+2012,19,Martinsville,Martinsville Speedway,0.526,paved track,14.0,8.0,13.0,Johnny Sauter,SealMaster / Curb Records (Mike Curb),Toyota,200.0,10875.0,running,1.0,31.0
+2012,19,Martinsville,Martinsville Speedway,0.526,paved track,15.0,20.0,32.0,Miguel Paludo,Duroline Brakes (Steve Turner),Chevrolet,200.0,10850.0,running,0.0,29.0
+2012,19,Martinsville,Martinsville Speedway,0.526,paved track,16.0,19.0,81.0,David Starr,Zachry (Joey Arrington),Toyota,200.0,9700.0,running,0.0,28.0
+2012,19,Martinsville,Martinsville Speedway,0.526,paved track,17.0,24.0,5.0,Josh Richards,Jordan Truck Sales / BulletLiner.com (Richie Wauters),Ford,200.0,7400.0,running,0.0,0.0
+2012,19,Martinsville,Martinsville Speedway,0.526,paved track,18.0,26.0,9.0,John Wes Townley,Romney-Ryan (Robby Benton),Toyota,200.0,9600.0,running,0.0,26.0
+2012,19,Martinsville,Martinsville Speedway,0.526,paved track,19.0,14.0,6.0,Justin Lofton,Weekend Warrior Productions / Lofton Cattle (Eddie Sharp),Chevrolet,200.0,9550.0,running,0.0,25.0
+2012,19,Martinsville,Martinsville Speedway,0.526,paved track,20.0,36.0,60.0,Peyton Sellers,St. Lawrence Radiology / N Fab (Stacy Compton),Chevrolet,199.0,7875.0,running,0.0,24.0
+2012,19,Martinsville,Martinsville Speedway,0.526,paved track,21.0,9.0,7.0,Jeff Agnew,Mark 4 Suzuki (Ken Smith),Chevrolet,199.0,9475.0,running,0.0,23.0
+2012,19,Martinsville,Martinsville Speedway,0.526,paved track,22.0,12.0,11.0,Todd Bodine,Toyota Care (Tom DeLoach),Toyota,198.0,9450.0,running,0.0,22.0
+2012,19,Martinsville,Martinsville Speedway,0.526,paved track,23.0,31.0,8.0,Ross Chastain,JDI Racing (Bobby Dotter),Toyota,198.0,9425.0,running,0.0,21.0
+2012,19,Martinsville,Martinsville Speedway,0.526,paved track,24.0,29.0,75.0,Caleb Holman,Food Country USA / Sunset Farm Foods (Charlie Henderson),Chevrolet,198.0,7150.0,running,0.0,20.0
+2012,19,Martinsville,Martinsville Speedway,0.526,paved track,25.0,30.0,68.0,Clay Greenfield,Star Road-Guard (Bill Alger),RAM,198.0,7250.0,running,0.0,19.0
+2012,19,Martinsville,Martinsville Speedway,0.526,paved track,26.0,28.0,39.0,Ryan Sieg,Pull-A-Part Used Auto Parts (Rod Sieg),Chevrolet,197.0,9325.0,running,0.0,18.0
+2012,19,Martinsville,Martinsville Speedway,0.526,paved track,27.0,33.0,93.0,"Tim George, Jr.",Applebee's (Rod Sieg),Chevrolet,197.0,9250.0,running,0.0,17.0
+2012,19,Martinsville,Martinsville Speedway,0.526,paved track,28.0,6.0,3.0,Ty Dillon,Bass Pro Shops / Tracker Boats (Richard Childress),Chevrolet,194.0,7975.0,running,0.0,16.0
+2012,19,Martinsville,Martinsville Speedway,0.526,paved track,29.0,32.0,99.0,Bryan Silas,The 3 Classic / Rockingham Speedway (Chris Baluch),Ford,193.0,7925.0,running,0.0,15.0
+2012,19,Martinsville,Martinsville Speedway,0.526,paved track,30.0,25.0,2.0,Tyler Young,Young's Building Systems / Randco Industries (Randy Young),Chevrolet,189.0,7400.0,running,0.0,14.0
+2012,19,Martinsville,Martinsville Speedway,0.526,paved track,31.0,35.0,57.0,Norm Benning,Norm Benning Racing (Norm Benning),Chevrolet,188.0,6450.0,running,0.0,13.0
+2012,19,Martinsville,Martinsville Speedway,0.526,paved track,32.0,17.0,27.0,Ryan Truex,The 3 Classic at The Rock (Mike Hillman),Chevrolet,158.0,6425.0,transmission,0.0,0.0
+2012,19,Martinsville,Martinsville Speedway,0.526,paved track,33.0,16.0,9.0,"Ron Hornaday, Jr.",AMFMEnergy / Pellet & Wood Stoves / Armour (Joe Dennette),Chevrolet,136.0,6400.0,oil pump,0.0,11.0
+2012,19,Martinsville,Martinsville Speedway,0.526,paved track,34.0,18.0,35.0,Matt Merrell,Win-Tron Racing (Kevin Cywinski),Chevrolet,35.0,6350.0,transmission,0.0,10.0
+2012,19,Martinsville,Martinsville Speedway,0.526,paved track,35.0,22.0,33.0,Cale Gale,"Rheem ""Chasing the Cure"" (Eddie Sharp)",Chevrolet,7.0,6325.0,transmission,0.0,9.0
+2012,19,Martinsville,Martinsville Speedway,0.526,paved track,36.0,34.0,84.0,Chris Fontaine,Stingray Chevrolet / Glenden Enterprises (Chris Fontaine),Chevrolet,5.0,6292.0,clutch,0.0,8.0
+2012,20,Fort Worth,Texas Motor Speedway,1.5,paved track,1.0,13.0,13.0,Johnny Sauter,SealMaster / Curb Records (Mike Curb),Toyota,147.0,52500.0,running,28.0,47.0
+2012,20,Fort Worth,Texas Motor Speedway,1.5,paved track,2.0,10.0,7.0,Parker Kligerman,Camp Horsin' Around / Toyota (Tom DeLoach),Toyota,147.0,40415.0,running,16.0,43.0
+2012,20,Fort Worth,Texas Motor Speedway,1.5,paved track,3.0,1.0,30.0,"Nelson Piquet, Jr.",TAG Heuer Avant-Garde Eyewear (Steve Turner),Chevrolet,147.0,32860.0,running,65.0,43.0
+2012,20,Fort Worth,Texas Motor Speedway,1.5,paved track,4.0,3.0,18.0,Kyle Busch,Dollar General (Kyle Busch),Toyota,147.0,17700.0,running,0.0,0.0
+2012,20,Fort Worth,Texas Motor Speedway,1.5,paved track,5.0,9.0,3.0,Ty Dillon,Bass Pro Shops / Tracker Boats (Richard Childress),Chevrolet,147.0,18075.0,running,1.0,40.0
+2012,20,Fort Worth,Texas Motor Speedway,1.5,paved track,6.0,11.0,88.0,Matt Crafton,Menards / Tough Built (Duke Thorson),Toyota,147.0,13350.0,running,1.0,39.0
+2012,20,Fort Worth,Texas Motor Speedway,1.5,paved track,7.0,5.0,22.0,Joey Coulter,OneMain Financial (Richard Childress),Chevrolet,147.0,12850.0,running,0.0,37.0
+2012,20,Fort Worth,Texas Motor Speedway,1.5,paved track,8.0,19.0,11.0,Todd Bodine,Toyota Care (Tom DeLoach),Toyota,147.0,12350.0,running,0.0,36.0
+2012,20,Fort Worth,Texas Motor Speedway,1.5,paved track,9.0,7.0,5.0,Aric Almirola,Rimrock Design (Richie Wauters),Ford,147.0,10000.0,running,0.0,0.0
+2012,20,Fort Worth,Texas Motor Speedway,1.5,paved track,10.0,14.0,17.0,Timothy Peters,Toyota (Tom DeLoach),Toyota,147.0,13400.0,running,0.0,34.0
+2012,20,Fort Worth,Texas Motor Speedway,1.5,paved track,11.0,2.0,31.0,James Buescher,Great Clips (Steve Turner),Chevrolet,147.0,12025.0,running,31.0,34.0
+2012,20,Fort Worth,Texas Motor Speedway,1.5,paved track,12.0,21.0,8.0,Max Gresham,PledgeForUSA.com (Eddie Sharp),Chevrolet,146.0,9600.0,running,0.0,32.0
+2012,20,Fort Worth,Texas Motor Speedway,1.5,paved track,13.0,18.0,39.0,Ryan Sieg,Pull A Part Used Auto Parts (Rod Sieg),Chevrolet,146.0,11750.0,running,0.0,31.0
+2012,20,Fort Worth,Texas Motor Speedway,1.5,paved track,14.0,4.0,32.0,Miguel Paludo,World Diabetes Day / Duroline (Steve Turner),Chevrolet,146.0,11650.0,running,1.0,31.0
+2012,20,Fort Worth,Texas Motor Speedway,1.5,paved track,15.0,12.0,33.0,Cale Gale,Ruud Heating & Cooling (Eddie Sharp),Chevrolet,146.0,12600.0,running,3.0,30.0
+2012,20,Fort Worth,Texas Motor Speedway,1.5,paved track,16.0,8.0,9.0,John Wes Townley,Zaxby's (Robby Benton),Toyota,146.0,11425.0,running,0.0,28.0
+2012,20,Fort Worth,Texas Motor Speedway,1.5,paved track,17.0,15.0,2.0,Brendan Gaughan,South Point Hotel & Casino (Richard Childress),Chevrolet,146.0,11325.0,running,0.0,0.0
+2012,20,Fort Worth,Texas Motor Speedway,1.5,paved track,18.0,17.0,4.0,Brandon McReynolds,Wolf Pack Rentals (Steve Turner),Chevrolet,146.0,8975.0,running,0.0,26.0
+2012,20,Fort Worth,Texas Motor Speedway,1.5,paved track,19.0,20.0,23.0,Jason White,Grime Boss / GunBroker.com (Jason White),Ford,146.0,11125.0,running,1.0,26.0
+2012,20,Fort Worth,Texas Motor Speedway,1.5,paved track,20.0,22.0,9.0,"Ron Hornaday, Jr.",Smokey Mountain Herbal Snuff (Joe Dennette),Chevrolet,145.0,11650.0,running,0.0,24.0
+2012,20,Fort Worth,Texas Motor Speedway,1.5,paved track,21.0,27.0,81.0,David Starr,Zachry (Joey Arrington),Toyota,145.0,10925.0,running,0.0,23.0
+2012,20,Fort Worth,Texas Motor Speedway,1.5,paved track,22.0,23.0,6.0,Justin Lofton,Weekend Warrior Productions / Lofton Cattle (Eddie Sharp),Chevrolet,145.0,10825.0,running,0.0,22.0
+2012,20,Fort Worth,Texas Motor Speedway,1.5,paved track,23.0,25.0,99.0,Bryan Silas,Rockingham Speedway (Chris Baluch),Ford,144.0,9475.0,running,0.0,21.0
+2012,20,Fort Worth,Texas Motor Speedway,1.5,paved track,24.0,6.0,19.0,David Mayhew,MMI Wireless Services / Steak & Grape (Brad Keselowski),RAM,144.0,9375.0,running,0.0,0.0
+2012,20,Fort Worth,Texas Motor Speedway,1.5,paved track,25.0,26.0,7.0,Jeff Agnew,Mark 4 Suzuki (Ken Smith),Chevrolet,142.0,8425.0,running,0.0,19.0
+2012,20,Fort Worth,Texas Motor Speedway,1.5,paved track,26.0,34.0,57.0,Norm Benning,New York Subs (Norm Benning),Chevrolet,136.0,8175.0,running,0.0,18.0
+2012,20,Fort Worth,Texas Motor Speedway,1.5,paved track,27.0,36.0,10.0,Jennifer Jo Cobb,Driven2Honor.org (Jennifer Jo Cobb),RAM,69.0,8075.0,rear axle,0.0,17.0
+2012,20,Fort Worth,Texas Motor Speedway,1.5,paved track,28.0,24.0,51.0,German Quiroga,NET 10 Wireless (Kyle Busch),Toyota,64.0,7975.0,engine,0.0,16.0
+2012,20,Fort Worth,Texas Motor Speedway,1.5,paved track,29.0,35.0,84.0,Russ Dugger,Vacuworx / JPO Absorbents (Chris Fontaine),Chevrolet,37.0,7850.0,rear gear,0.0,15.0
+2012,20,Fort Worth,Texas Motor Speedway,1.5,paved track,30.0,16.0,29.0,Ryan Blaney,Cooper Standard (Brad Keselowski),RAM,31.0,8250.0,crash,0.0,14.0
+2012,20,Fort Worth,Texas Motor Speedway,1.5,paved track,31.0,31.0,8.0,Ross Chastain,Wear Your Gear / bobber.info (Bobby Dotter),Toyota,26.0,7675.0,suspension,0.0,13.0
+2012,20,Fort Worth,Texas Motor Speedway,1.5,paved track,32.0,33.0,27.0,Stephen Leicht,Hillman Racing (Mike Hillman),Chevrolet,15.0,7650.0,brakes,0.0,0.0
+2012,20,Fort Worth,Texas Motor Speedway,1.5,paved track,33.0,29.0,25.0,B.J. McLeod,Boggy Creek Air Boat Rides (Mike Hillman),Chevrolet,9.0,7635.0,brakes,0.0,0.0
+2012,20,Fort Worth,Texas Motor Speedway,1.5,paved track,34.0,30.0,74.0,Scott Riggs,Koma Unwind Relaxation Drink (Mike Harmon),Chevrolet,8.0,7625.0,rear gear,0.0,0.0
+2012,20,Fort Worth,Texas Motor Speedway,1.5,paved track,35.0,32.0,93.0,Dennis Setzer,RSS Racing (Rod Sieg),Chevrolet,6.0,7615.0,vibration,0.0,9.0
+2012,20,Fort Worth,Texas Motor Speedway,1.5,paved track,36.0,28.0,38.0,Chris Jones,RSS Racing (Rod Sieg),Chevrolet,3.0,7589.0,vibration,0.0,8.0
+2012,21,Phoenix,Phoenix International Raceway,1.0,paved track,1.0,3.0,18.0,Brian Scott,Dollar General (Kyle Busch),Toyota,153.0,35675.0,running,48.0,0.0
+2012,21,Phoenix,Phoenix International Raceway,1.0,paved track,2.0,6.0,4.0,Kyle Larson,Chip Ganassi Racing Teams Mobile App (Steve Turner),Chevrolet,153.0,25590.0,running,43.0,43.0
+2012,21,Phoenix,Phoenix International Raceway,1.0,paved track,3.0,17.0,22.0,Joey Coulter,American Eurocopter (Richard Childress),Chevrolet,153.0,18285.0,running,0.0,41.0
+2012,21,Phoenix,Phoenix International Raceway,1.0,paved track,4.0,8.0,17.0,Timothy Peters,Toyota (Tom DeLoach),Toyota,153.0,14100.0,running,3.0,41.0
+2012,21,Phoenix,Phoenix International Raceway,1.0,paved track,5.0,2.0,29.0,Ryan Blaney,Draw-Tite / Mopar (Brad Keselowski),RAM,153.0,15325.0,running,0.0,39.0
+2012,21,Phoenix,Phoenix International Raceway,1.0,paved track,6.0,14.0,39.0,Ryan Sieg,RSS Racing (Rod Sieg),Chevrolet,153.0,11425.0,running,0.0,38.0
+2012,21,Phoenix,Phoenix International Raceway,1.0,paved track,7.0,4.0,33.0,Cale Gale,"Rheem Heating, Cooling & Water Heating (Eddie Sharp)",Chevrolet,153.0,12375.0,running,0.0,37.0
+2012,21,Phoenix,Phoenix International Raceway,1.0,paved track,8.0,1.0,30.0,"Nelson Piquet, Jr.",Qualcomm / Autotrac (Steve Turner),Chevrolet,153.0,13625.0,running,8.0,37.0
+2012,21,Phoenix,Phoenix International Raceway,1.0,paved track,9.0,11.0,27.0,Ryan Truex,Sandy NJ Relief Fund (Mike Hillman),Chevrolet,153.0,9025.0,running,22.0,0.0
+2012,21,Phoenix,Phoenix International Raceway,1.0,paved track,10.0,22.0,6.0,Justin Lofton,Justin Lofton Golf Tournament / Lofton Cattle (Eddie Sharp),Chevrolet,153.0,12475.0,running,8.0,35.0
+2012,21,Phoenix,Phoenix International Raceway,1.0,paved track,11.0,23.0,35.0,Matt Merrell,Win-Tron Racing / Merrell Lease Service (Kevin Cywinski),Chevrolet,153.0,8775.0,running,0.0,33.0
+2012,21,Phoenix,Phoenix International Raceway,1.0,paved track,12.0,13.0,19.0,David Mayhew,MMI Wireless Services / Steak & Grape (Brad Keselowski),RAM,153.0,10900.0,running,0.0,0.0
+2012,21,Phoenix,Phoenix International Raceway,1.0,paved track,13.0,27.0,9.0,John Wes Townley,Zaxby's (Robby Benton),Toyota,153.0,10850.0,running,0.0,31.0
+2012,21,Phoenix,Phoenix International Raceway,1.0,paved track,14.0,15.0,32.0,Miguel Paludo,World Diabetes Day / Duroline (Steve Turner),Chevrolet,152.0,10775.0,running,0.0,30.0
+2012,21,Phoenix,Phoenix International Raceway,1.0,paved track,15.0,21.0,3.0,Ty Dillon,Bass Pro Shops / Tracker Boats / Allstate (Richard Childress),Chevrolet,152.0,11800.0,running,21.0,30.0
+2012,21,Phoenix,Phoenix International Raceway,1.0,paved track,16.0,32.0,99.0,Bryan Silas,Rockingham Speedway (Chris Baluch),Ford,152.0,10650.0,running,0.0,28.0
+2012,21,Phoenix,Phoenix International Raceway,1.0,paved track,17.0,9.0,31.0,James Buescher,Exide Batteries (Steve Turner),Chevrolet,152.0,10600.0,running,0.0,27.0
+2012,21,Phoenix,Phoenix International Raceway,1.0,paved track,18.0,33.0,8.0,Todd Peck,Stopain Cold / Arthritis Foundation (Bobby Dotter),Chevrolet,149.0,10550.0,running,0.0,26.0
+2012,21,Phoenix,Phoenix International Raceway,1.0,paved track,19.0,34.0,57.0,Norm Benning,Norm Benning Racing (Norm Benning),Chevrolet,148.0,10500.0,running,0.0,25.0
+2012,21,Phoenix,Phoenix International Raceway,1.0,paved track,20.0,5.0,88.0,Matt Crafton,Fisher Nuts / Menards (Duke Thorson),Toyota,144.0,11075.0,running,0.0,24.0
+2012,21,Phoenix,Phoenix International Raceway,1.0,paved track,21.0,26.0,23.0,Jason White,GunBroker.com / Grime Boss (Jason White),Ford,136.0,10375.0,crash,0.0,23.0
+2012,21,Phoenix,Phoenix International Raceway,1.0,paved track,22.0,10.0,9.0,"Ron Hornaday, Jr.",Anderson's Pure Maple Syrup / Bashas' (Joe Dennette),Chevrolet,111.0,10325.0,running,0.0,22.0
+2012,21,Phoenix,Phoenix International Raceway,1.0,paved track,23.0,19.0,2.0,Brendan Gaughan,South Point Hotel & Casino (Richard Childress),Chevrolet,109.0,8975.0,crash,0.0,0.0
+2012,21,Phoenix,Phoenix International Raceway,1.0,paved track,24.0,18.0,51.0,German Quiroga,NET 10 Wireless (Kyle Busch),Toyota,109.0,7875.0,crash,0.0,20.0
+2012,21,Phoenix,Phoenix International Raceway,1.0,paved track,25.0,16.0,13.0,Johnny Sauter,SealMaster Pavement Products / Curb Records (Mike Curb),Toyota,104.0,9925.0,running,0.0,19.0
+2012,21,Phoenix,Phoenix International Raceway,1.0,paved track,26.0,30.0,74.0,Brian Weber,Koma Unwind Relaxation Drink (Mike Harmon),Chevrolet,95.0,7675.0,rear gear,0.0,18.0
+2012,21,Phoenix,Phoenix International Raceway,1.0,paved track,27.0,7.0,7.0,Parker Kligerman,Camp Horsin' Around / Toyota (Tom DeLoach),Toyota,78.0,7550.0,crash,0.0,17.0
+2012,21,Phoenix,Phoenix International Raceway,1.0,paved track,28.0,12.0,11.0,Todd Bodine,Toyota Care (Tom DeLoach),Toyota,48.0,7450.0,crash,0.0,16.0
+2012,21,Phoenix,Phoenix International Raceway,1.0,paved track,29.0,36.0,5.0,John King,Fairway Ford (Richie Wauters),Ford,43.0,7350.0,crash,0.0,15.0
+2012,21,Phoenix,Phoenix International Raceway,1.0,paved track,30.0,20.0,97.0,Jeff Choquette,Adrian Carriers / Liz Girl Logistics (Gary Adrian),Chevrolet,34.0,7750.0,crash,0.0,14.0
+2012,21,Phoenix,Phoenix International Raceway,1.0,paved track,31.0,24.0,25.0,Stephen Leicht,Boggy Creek Air Boat Rides (Mike Hillman),Chevrolet,22.0,7200.0,brakes,0.0,0.0
+2012,21,Phoenix,Phoenix International Raceway,1.0,paved track,32.0,31.0,93.0,Dennis Setzer,RSS Racing (Rod Sieg),Chevrolet,8.0,7175.0,brakes,0.0,12.0
+2012,21,Phoenix,Phoenix International Raceway,1.0,paved track,33.0,25.0,7.0,Ross Chastain,Watermelon.org (Ken Smith),Chevrolet,7.0,7150.0,ignition,0.0,11.0
+2012,21,Phoenix,Phoenix International Raceway,1.0,paved track,34.0,35.0,84.0,Chris Fontaine,Glenden Enterprises (Chris Fontaine),Chevrolet,6.0,7125.0,brakes,0.0,10.0
+2012,21,Phoenix,Phoenix International Raceway,1.0,paved track,35.0,28.0,38.0,Chris Jones,RSS Racing (Rod Sieg),Chevrolet,4.0,7090.0,ignition,0.0,9.0
+2012,21,Phoenix,Phoenix International Raceway,1.0,paved track,36.0,29.0,0.0,Blake Koch,Koma Unwind Relaxation Drink (Jennifer Jo Cobb),Ford,2.0,7054.0,suspension,0.0,0.0
+2012,22,Homestead,Homestead-Miami Speedway,1.5,paved track,1.0,5.0,33.0,Cale Gale,Rheem (Eddie Sharp),Chevrolet,140.0,45025.0,running,1.0,47.0
+2012,22,Homestead,Homestead-Miami Speedway,1.5,paved track,2.0,6.0,18.0,Kyle Busch,Dollar General (Kyle Busch),Toyota,140.0,23190.0,running,45.0,0.0
+2012,22,Homestead,Homestead-Miami Speedway,1.5,paved track,3.0,11.0,22.0,Joey Coulter,Rip It Energy Tribute (Richard Childress),Chevrolet,140.0,19410.0,running,0.0,41.0
+2012,22,Homestead,Homestead-Miami Speedway,1.5,paved track,4.0,4.0,30.0,"Nelson Piquet, Jr.",Florida Lottery 25th Anniversary (Steve Turner),Chevrolet,140.0,17825.0,running,33.0,41.0
+2012,22,Homestead,Homestead-Miami Speedway,1.5,paved track,5.0,7.0,32.0,Miguel Paludo,World Diabetes Day / Duroline (Steve Turner),Chevrolet,140.0,16500.0,running,0.0,39.0
+2012,22,Homestead,Homestead-Miami Speedway,1.5,paved track,6.0,10.0,13.0,Johnny Sauter,SealMaster / Curb Records (Mike Curb),Toyota,140.0,16275.0,running,4.0,39.0
+2012,22,Homestead,Homestead-Miami Speedway,1.5,paved track,7.0,1.0,7.0,Parker Kligerman,Toyota (Tom DeLoach),Toyota,140.0,17375.0,running,5.0,38.0
+2012,22,Homestead,Homestead-Miami Speedway,1.5,paved track,8.0,14.0,17.0,Timothy Peters,Camp Horsin' Around / Toyota (Tom DeLoach),Toyota,140.0,14875.0,running,0.0,36.0
+2012,22,Homestead,Homestead-Miami Speedway,1.5,paved track,9.0,12.0,6.0,Justin Lofton,Mercury Marine / Walker's Marine (Eddie Sharp),Chevrolet,140.0,14675.0,running,0.0,35.0
+2012,22,Homestead,Homestead-Miami Speedway,1.5,paved track,10.0,18.0,8.0,Ross Chastain,Custom Cooling & Heating (Bobby Dotter),Toyota,140.0,17950.0,running,0.0,34.0
+2012,22,Homestead,Homestead-Miami Speedway,1.5,paved track,11.0,19.0,11.0,Todd Bodine,Toyota Tundra Endeavor (Tom DeLoach),Toyota,140.0,14375.0,running,4.0,34.0
+2012,22,Homestead,Homestead-Miami Speedway,1.5,paved track,12.0,9.0,88.0,Matt Crafton,Menards / Ideal Door (Duke Thorson),Toyota,140.0,14200.0,running,0.0,32.0
+2012,22,Homestead,Homestead-Miami Speedway,1.5,paved track,13.0,17.0,31.0,James Buescher,Great Clips (Steve Turner),Chevrolet,140.0,14075.0,running,0.0,31.0
+2012,22,Homestead,Homestead-Miami Speedway,1.5,paved track,14.0,21.0,39.0,Ryan Sieg,Pull-A-Part Used Auto Parts (Rod Sieg),Chevrolet,140.0,13975.0,running,0.0,30.0
+2012,22,Homestead,Homestead-Miami Speedway,1.5,paved track,15.0,28.0,51.0,German Quiroga,NET 10 Wireless (Kyle Busch),Toyota,139.0,12700.0,running,0.0,29.0
+2012,22,Homestead,Homestead-Miami Speedway,1.5,paved track,16.0,29.0,81.0,David Starr,Zachry (Joey Arrington),Toyota,139.0,13750.0,running,0.0,28.0
+2012,22,Homestead,Homestead-Miami Speedway,1.5,paved track,17.0,22.0,23.0,Jason White,Gunbroker.com (Jason White),Ford,139.0,13650.0,running,0.0,27.0
+2012,22,Homestead,Homestead-Miami Speedway,1.5,paved track,18.0,30.0,2.0,"Tim George, Jr.",Appelbee's (Richard Childress),Chevrolet,139.0,13550.0,running,0.0,26.0
+2012,22,Homestead,Homestead-Miami Speedway,1.5,paved track,19.0,25.0,27.0,Jason Leffler,Sandy NJ Relief Fund (Mike Hillman),Chevrolet,138.0,13450.0,running,0.0,25.0
+2012,22,Homestead,Homestead-Miami Speedway,1.5,paved track,20.0,8.0,9.0,"Ron Hornaday, Jr.",Smokey Mountain Herbal Snuff (Joe Dennette),Chevrolet,138.0,13975.0,running,0.0,24.0
+2012,22,Homestead,Homestead-Miami Speedway,1.5,paved track,21.0,24.0,84.0,Mario Gosselin,Carport Empire / ProBuilt Buildings (Chris Fontaine),Chevrolet,138.0,11900.0,running,0.0,23.0
+2012,22,Homestead,Homestead-Miami Speedway,1.5,paved track,22.0,20.0,1.0,Jake Crum,Bandit Chippers (Jake Crum),Chevrolet,137.0,10650.0,running,0.0,22.0
+2012,22,Homestead,Homestead-Miami Speedway,1.5,paved track,23.0,13.0,8.0,Max Gresham,Made In the USA Brand / PledgeForUSA.com (Eddie Sharp),Chevrolet,137.0,10525.0,running,0.0,21.0
+2012,22,Homestead,Homestead-Miami Speedway,1.5,paved track,24.0,26.0,7.0,Jeff Agnew,SS Green Light Racing (Ken Smith),Chevrolet,136.0,11225.0,running,0.0,20.0
+2012,22,Homestead,Homestead-Miami Speedway,1.5,paved track,25.0,3.0,3.0,Ty Dillon,Bass Pro Shops / Tracker Boats (Richard Childress),Chevrolet,135.0,10175.0,running,0.0,19.0
+2012,22,Homestead,Homestead-Miami Speedway,1.5,paved track,26.0,36.0,25.0,Travis Miller,Hillman Racing (Mike Hillman),Chevrolet,135.0,9825.0,running,0.0,0.0
+2012,22,Homestead,Homestead-Miami Speedway,1.5,paved track,27.0,2.0,4.0,Kyle Larson,Thermo Fisher Scientific (Steve Turner),Chevrolet,131.0,9625.0,crash,48.0,19.0
+2012,22,Homestead,Homestead-Miami Speedway,1.5,paved track,28.0,16.0,29.0,Ryan Blaney,Cooper Standard Performance Products (Brad Keselowski),RAM,131.0,9425.0,crash,0.0,16.0
+2012,22,Homestead,Homestead-Miami Speedway,1.5,paved track,29.0,35.0,57.0,Norm Benning,Gardner Motor Group (Norm Benning),Chevrolet,131.0,9200.0,running,0.0,15.0
+2012,22,Homestead,Homestead-Miami Speedway,1.5,paved track,30.0,34.0,93.0,Ryan Lynch,BlankHood.com (Rod Sieg),Chevrolet,130.0,9000.0,running,0.0,14.0
+2012,22,Homestead,Homestead-Miami Speedway,1.5,paved track,31.0,32.0,10.0,Jennifer Jo Cobb,Franky & Louie's / Koma Unwind (Jennifer Jo Cobb),RAM,129.0,8450.0,running,0.0,13.0
+2012,22,Homestead,Homestead-Miami Speedway,1.5,paved track,32.0,15.0,9.0,John Wes Townley,Zaxby's (Robby Benton),Toyota,118.0,8425.0,running,0.0,12.0
+2012,22,Homestead,Homestead-Miami Speedway,1.5,paved track,33.0,33.0,99.0,Bryan Silas,GLHomes.com / Rockingham Speedway (Chris Baluch),Ford,43.0,8400.0,crash,0.0,11.0
+2012,22,Homestead,Homestead-Miami Speedway,1.5,paved track,34.0,23.0,20.0,Dusty Davis,Speedy Metal Polish / Thunder Exhaust (George Bragg),Toyota,28.0,8375.0,clutch,0.0,10.0
+2012,22,Homestead,Homestead-Miami Speedway,1.5,paved track,35.0,27.0,38.0,Chris Jones,RSS Racing (Rod Sieg),Chevrolet,10.0,8350.0,brakes,0.0,9.0
+2012,22,Homestead,Homestead-Miami Speedway,1.5,paved track,36.0,31.0,0.0,Blake Koch,Driven2Honor.org (Jennifer Jo Cobb),Ford,3.0,8264.0,transmission,0.0,0.0
