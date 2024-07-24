@@ -1,8 +1,7 @@
 
 # nascaR.data
 
-![nascaR.data Logo](inst/images/hex-logo.png)
-
+<img src="inst/images/hex-logo.png" alt="nascaR.data Logo" width="200" height="auto"/>
 
 ----
 
