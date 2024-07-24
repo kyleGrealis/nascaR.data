@@ -1,7 +1,7 @@
 
 # nascaR.data
 
-![NASCAR Logo](inst/images/NASCAR-Bar-mark.jpg)
+![nascaR.data Logo](inst/images/hex-logo.png)
 
 
 ----
