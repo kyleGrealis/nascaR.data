@@ -14,7 +14,7 @@ find_similar_owner <- function(name) {
 
 # Aggregate owner information
 # type: career, season, summary
-filter_owner_info <- function(the_owner, type = 'summary') {
+filter_owner_info <- function(the_owner, type) {
 
   race_results <- 
     cup_series |>
@@ -45,7 +45,7 @@ filter_owner_info <- function(the_owner, type = 'summary') {
       summarize(
         total_drivers = n_distinct(driver),
         number_of_seasons = n_distinct(season),
-        career_races = nrow(race_results),
+        total_races = nrow(race_results),
         best_finish = min(finish),
         average_finish = round(mean(finish, na.rm = TRUE), 1),
         laps_raced = sum(laps, na.rm = TRUE),
@@ -58,7 +58,8 @@ filter_owner_info <- function(the_owner, type = 'summary') {
   # return(owner_table)
 }
 
-get_owner_info <- function(name, type) {
+get_owner_info <- function(name, type = 'summary') {
+  name <- str_to_title(name)
   if (find_similar_owner(name) != name) {
     # Get user input if the entered name does not match available owners
     answer <- readline(
@@ -80,6 +81,7 @@ get_owner_info <- function(name, type) {
   }
 }
 
-get_owner_info('jack rush', type = 'season')
-get_owner_info('jack rush', type = 'career')
-get_owner_info('jack rush', type = 'summary')
+# get_owner_info('jack rush', type = 'season')
+# get_owner_info('jack rush', type = 'career')
+# get_owner_info('jack rush', type = 'summary')
+# get_owner_info('Jack Roush', type = 'summary')

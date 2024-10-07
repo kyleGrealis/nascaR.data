@@ -14,7 +14,7 @@ find_similar_manufacturer <- function(name) {
 
 # Aggregate manufacturer information
 # type: career, season, summary
-filter_manufacturer_info <- function(the_manufacturer, type = 'summary') {
+filter_manufacturer_info <- function(the_manufacturer, type) {
 
   race_results <- 
     cup_series |>
@@ -45,7 +45,7 @@ filter_manufacturer_info <- function(the_manufacturer, type = 'summary') {
       summarize(
         number_of_seasons = n_distinct(season),
         number_of_drivers = n_distinct(driver),
-        career_races = nrow(race_results),
+        total_races = nrow(race_results),
         best_finish = min(finish),
         average_finish = round(mean(finish, na.rm = TRUE), 1),
         laps_raced = sum(laps, na.rm = TRUE),
@@ -58,12 +58,13 @@ filter_manufacturer_info <- function(the_manufacturer, type = 'summary') {
   # return(manufacturer_table)
 }
 
-get_manufacturer_info <- function(name, type) {
+get_manufacturer_info <- function(name, type = 'summary') {
+  name <- str_to_title(name)
   if (find_similar_manufacturer(name) != name) {
     # Get user input if the entered name does not match available manufacturers
     answer <- readline(
       glue::glue(
-        '\n\nI was unable to find "{name}" but found {find_similar_manufacturer(name)}. \nIs this who you meant? [y/n] '
+        '\n\nI was unable to find "{name}" but found {find_similar_manufacturer(name)}. \nIs this what you meant? [y/n] '
       )
     )
     if (str_to_lower(answer) %in% c('y', 'yes', 'ye', 'yeah', 'yup')) {
@@ -80,6 +81,7 @@ get_manufacturer_info <- function(name, type) {
   }
 }
 
-get_manufacturer_info('Toyota', type = 'season')
-get_manufacturer_info('Toyota', type = 'career')
-get_manufacturer_info('Toyota', type = 'summary')
+# get_manufacturer_info('Toyota', type = 'season')
+# get_manufacturer_info('Toyota', type = 'career')
+# get_manufacturer_info('toyata', type = 'summary')
+# get_manufacturer_info('Chevrolet', type = 'summary')
