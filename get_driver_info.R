@@ -39,7 +39,8 @@ filter_driver_info <- function(the_driver, race_series, type) {
   # Filter race data based on selected driver
   race_results <- 
     race_data |>
-    filter(driver == the_driver)
+    filter(driver == the_driver) |>
+    mutate(win = if_else(finish == 1, 1, 0))
 
   # Return 
   if (type == 'season') {
@@ -48,6 +49,7 @@ filter_driver_info <- function(the_driver, race_series, type) {
       group_by(series, season) |>
       summarize(
         season_races = n_distinct(race_name),
+        wins = sum(win, na.rm = TRUE),
         best_finish = min(finish),
         average_finish = round(mean(finish, na.rm = TRUE), 1),
         laps_raced = sum(laps, na.rm = TRUE),
@@ -62,6 +64,7 @@ filter_driver_info <- function(the_driver, race_series, type) {
       summarize(
         number_of_seasons = n_distinct(season),
         career_races = n(),
+        wins = sum(win, na.rm = TRUE),
         best_finish = min(finish),
         average_finish = round(mean(finish, na.rm = TRUE), 1),
         laps_raced = sum(laps, na.rm = TRUE),
