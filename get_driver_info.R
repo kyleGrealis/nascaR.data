@@ -1,48 +1,75 @@
 library(tidyverse)
 
-# First write a function to fuzzy find a driver.
-# Example: "Jimmy Johnson" or "Jimmi Jahnsen" would get "Jimmie Johnson"
-find_similar_driver <- function(name) {
-  name <- str_to_lower(name)
-  driver_list <- cup_series |> 
-    mutate(driver = str_to_lower(driver)) |> 
-    pull(driver)
-  distances <- stringdist::stringdist(name, driver_list, method = 'lv')
-  closest_match <- driver_list[which.min(distances)]
-  return(str_to_title(closest_match))
-}
-
-return_selected_series <- function(series = 'all') {
+# Filter all data into the user's selected race series: Cup, Xfinity, Truck, or all
+selected_series_data <- function(series) {
+  the_series <- str_to_lower(series)
+  all_race_results <- rbind(cup_series, xfinity_series, truck_series)
   if (series == 'all') {
-    # Return combined datasets that can be filtered in driver info
-    return(rbind(cup_series, xfinity_series, truck_series))
+    return(all_race_results)
+  } else if (the_series %in% c('cup', 'xfinity', 'truck')) {
+    filtered <- all_race_results |> 
+      mutate(series = str_to_lower(series)) |>
+      filter(series == the_series)
+    return(filtered)
   } else {
-    series_name <- paste0(series, '_series')
-    if (exists(series_name)) {
-      return(get(series_name))
-    }
-    else{
-      stop(paste(series, 'series does not exist.'))
-    }
+    stop(paste(str_to_title(series), 'series does not exist.'))
   }
 }
 
-# Aggregate driver information
-# type: career, season, summary
-filter_driver_info <- function(the_driver, race_series, type) {
+# Fuzzy find a driver.
+# Example: "Jimmy Johnson" or "Jimmi Jahnsen" would get "Jimmie Johnson"
+find_driver <- function(df, driver) {
+  
+  # Create a list of drivers
+  driver_list <- df |> 
+    mutate(driver = str_to_lower(driver)) |> 
+    pull(driver)
 
-  # Return race series information:
-  # 'all': search across all series
-  # 'cup', 'xfinity', 'truck': search respective series only
-  race_data <- return_selected_series(race_series)
+  # Calculate distance of entered name and those in list of driveres
+  entered_name <- str_to_lower(driver)
+  distances <- stringdist::stringdist(entered_name, driver_list, method = 'lv')
+  closest_match <- driver_list[which.min(distances)]
 
-  # Filter race data based on selected driver
+  if (entered_name != str_to_lower(closest_match)) {
+    # Get user input if the entered name does not match available drivers
+    entered_name <- str_to_title(entered_name)
+    found_name <- str_to_title(closest_match)
+    answer <- str_to_lower(readline(
+      glue::glue(
+        '\n\nI was unable to find "{entered_name}" but found {found_name}. \nIs this who you meant? [y/n] '
+      )
+    ))
+    if (answer %in% c('y', 'yes', 'ye', 'yeah', 'yup')) {
+      return(closest_match)
+    } else {
+      stop('\nPlease check the spelling & try your search function again.')
+    }
+  }
+  return(closest_match)
+}
+
+
+
+# Filter race data based on selected driver
+filter_data <- function(race_data, the_driver) {
   race_results <- 
     race_data |>
-    filter(driver == the_driver) |>
+    filter(driver == str_to_title(the_driver)) |>
     mutate(win = if_else(finish == 1, 1, 0))
+  return(race_results)  
+}
 
-  # Return 
+
+
+
+get_driver_info <- function(driver, series = 'all', type = 'summary') {
+
+  race_series <- selected_series_data(series = series)
+  the_driver <- find_driver(df = race_series, driver = driver)
+  race_results <- filter_data(race_data = race_series, the_driver = the_driver)
+
+  message(str_to_title(the_driver))
+
   if (type == 'season') {
     driver_table <- 
       race_results |>
@@ -72,32 +99,10 @@ filter_driver_info <- function(the_driver, race_series, type) {
         total_money = scales::dollar(sum(money, na.rm = TRUE))
       )
       return(driver_table)
-  } else {  
-    # type == 'all'
+  } else if (type == 'all') {  
     # table of career across all series
     return(race_results)
-  }
-}
-
-get_driver_info <- function(name, race_series = 'all', type = 'summary') {
-  name <- str_to_title(name)
-  if (find_similar_driver(name) != name) {
-    # Get user input if the entered name does not match available drivers
-    answer <- readline(
-      glue::glue(
-        '\n\nI was unable to find "{name}" but found {find_similar_driver(name)}. \nIs this who you meant? [y/n] '
-      )
-    )
-    if (str_to_lower(answer) %in% c('y', 'yes', 'ye', 'yeah', 'yup')) {
-      name <- find_similar_driver(name)
-      message(name)
-      filter_driver_info(name, race_series = race_series, type = type)
-    } else {
-      message('\nPlease check the spelling & try your search function again.')
-    }
   } else {
-    # this will return the list of the driver information
-    message(name)
-    filter_driver_info(name, race_series = race_series, type = type)
+    stop(paste('Unknown `type =', type, '` entered. Please try again.'))
   }
 }
