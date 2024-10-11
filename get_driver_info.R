@@ -12,23 +12,40 @@ find_similar_driver <- function(name) {
   return(str_to_title(closest_match))
 }
 
+return_selected_series <- function(series = 'all') {
+  if (series == 'all') {
+    # Return combined datasets that can be filtered in driver info
+    return(rbind(cup_series, xfinity_series, truck_series))
+  } else {
+    series_name <- paste0(series, '_series')
+    if (exists(series_name)) {
+      return(get(series_name))
+    }
+    else{
+      stop(paste(series, 'series does not exist.'))
+    }
+  }
+}
+
 # Aggregate driver information
 # type: career, season, summary
-filter_driver_info <- function(the_driver, type) {
+filter_driver_info <- function(the_driver, race_series, type) {
 
+  # Return race series information:
+  # 'all': search across all series
+  # 'cup', 'xfinity', 'truck': search respective series only
+  race_data <- return_selected_series(race_series)
+
+  # Filter race data based on selected driver
   race_results <- 
-    cup_series |>
+    race_data |>
     filter(driver == the_driver)
 
-  if (type == 'career') {
-    driver_table <<- race_results
-    glue::glue(
-      "{the_driver}'s results have been saved to the global environment as `driver_table`."
-    )
-  } else if (type == 'season') {
+  # Return 
+  if (type == 'season') {
     driver_table <- 
       race_results |>
-      group_by(season) |>
+      group_by(series, season) |>
       summarize(
         season_races = n_distinct(race_name),
         best_finish = min(finish),
@@ -41,9 +58,10 @@ filter_driver_info <- function(the_driver, type) {
   } else if (type == 'summary') {
     driver_table <- 
       race_results |>
+      group_by(series) |>
       summarize(
         number_of_seasons = n_distinct(season),
-        career_races = nrow(race_results),
+        career_races = n(),
         best_finish = min(finish),
         average_finish = round(mean(finish, na.rm = TRUE), 1),
         laps_raced = sum(laps, na.rm = TRUE),
@@ -51,12 +69,14 @@ filter_driver_info <- function(the_driver, type) {
         total_money = scales::dollar(sum(money, na.rm = TRUE))
       )
       return(driver_table)
+  } else {  
+    # type == 'all'
+    # table of career across all series
+    return(race_results)
   }
-  
-  # return(driver_table)
 }
 
-get_driver_info <- function(name, type = 'summary') {
+get_driver_info <- function(name, race_series = 'all', type = 'summary') {
   name <- str_to_title(name)
   if (find_similar_driver(name) != name) {
     # Get user input if the entered name does not match available drivers
@@ -68,18 +88,13 @@ get_driver_info <- function(name, type = 'summary') {
     if (str_to_lower(answer) %in% c('y', 'yes', 'ye', 'yeah', 'yup')) {
       name <- find_similar_driver(name)
       message(name)
-      filter_driver_info(name, type = type)
+      filter_driver_info(name, race_series = race_series, type = type)
     } else {
       message('\nPlease check the spelling & try your search function again.')
     }
   } else {
     # this will return the list of the driver information
     message(name)
-    filter_driver_info(name, type = type)
+    filter_driver_info(name, race_series = race_series, type = type)
   }
 }
-
-# get_driver_info('Jimmie Johnsen', type = 'season')
-# get_driver_info('Jimmie Johnsen', type = 'career')
-# get_driver_info('Jimmie Johnsen', type = 'summary')
-# get_driver_info('Jimmie Johnson', type = 'summary')
