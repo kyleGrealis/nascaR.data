@@ -1,20 +1,4 @@
-library(tidyverse)
 
-# Filter all data into the user's selected race series: Cup, Xfinity, Truck, or all
-selected_series_data <- function(series) {
-  the_series <- str_to_lower(series)
-  all_race_results <- rbind(cup_series, xfinity_series, truck_series)
-  if (series == 'all') {
-    return(all_race_results)
-  } else if (the_series %in% c('cup', 'xfinity', 'truck')) {
-    filtered <- all_race_results |> 
-      mutate(series = str_to_lower(series)) |>
-      filter(series == the_series)
-    return(filtered)
-  } else {
-    stop(paste(str_to_title(series), 'series does not exist.'))
-  }
-}
 
 # Fuzzy find a manufacturer.
 find_manufacturer <- function(df, manufacturer) {
