@@ -4,12 +4,12 @@
 \alias{find_driver}
 \title{Fuzzy find a driver}
 \usage{
-find_driver(df, driver)
+find_driver(df, the_driver)
 }
 \arguments{
 \item{df}{A data frame containing driver information.}
 
-\item{driver}{A string containing the driver's name to search for.}
+\item{the_driver}{A string containing the driver's name to search for.}
 }
 \value{
 The closest matching driver name as a string.

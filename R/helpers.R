@@ -56,7 +56,7 @@ NULL
 #' @name find_driver
 #' @keywords internal
 #' @param df A data frame containing driver information.
-#' @param driver A string containing the driver's name to search for.
+#' @param the_driver A string containing the driver's name to search for.
 #' @return The closest matching driver name as a string.
 #' @examples
 #' \dontrun{
@@ -66,7 +66,7 @@ NULL
 #' # Is this who you meant? [y/n] 
 #' }
 
-find_driver <- function(df, driver) {
+find_driver <- function(df, the_driver) {
   
   # Create a list of drivers
   driver_list <- df |> 
@@ -74,7 +74,7 @@ find_driver <- function(df, driver) {
     pull(driver)
 
   # Calculate distance of user-supplied name and those in list of driveres
-  entered_name <- str_to_lower(driver)
+  entered_name <- str_to_lower(the_driver)
   distances <- stringdist(entered_name, driver_list, method = 'lv')
   # Find the closest match by distance
   closest_match <- driver_list[which.min(distances)]
