@@ -4,14 +4,7 @@
 
 
 
-# Filter race data based on selected driver
-filter_driver_data <- function(race_data, the_driver) {
-  race_results <- 
-    race_data |>
-    filter(driver == str_to_title(the_driver)) |>
-    mutate(win = if_else(finish == 1, 1, 0))
-  return(race_results)  
-}
+
 
 
 
