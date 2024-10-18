@@ -20,7 +20,7 @@ If an exact match is not found, it prompts the user for confirmation.
 }
 \examples{
 \dontrun{
-# Example: "Jimmy Johnson" or "Jimmi Jahnsen" would get "Jimmie Johnson"
+# Example: "Jimmy Johnson" or "Jimmi Jahnsen" would find "Jimmie Johnson"
 find_driver(driver_data, "Jimmy Johnson")
 # I was unable to find "Jimmy Johnson" but found Jimmie Johnson. 
 # Is this who you meant? [y/n] 
