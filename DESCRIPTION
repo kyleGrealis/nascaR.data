@@ -29,8 +29,7 @@ Imports:
     dplyr,
     glue,
     stringdist,
-    stringr,
-    utils
+    stringr
 Suggests: 
     conflicted,
     ggtext,
