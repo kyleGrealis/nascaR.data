@@ -2,6 +2,7 @@
 
 importFrom(dplyr,bind_rows)
 importFrom(dplyr,filter)
+importFrom(dplyr,if_else)
 importFrom(dplyr,mutate)
 importFrom(dplyr,pull)
 importFrom(glue,glue)
