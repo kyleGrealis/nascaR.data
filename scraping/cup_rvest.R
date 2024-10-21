@@ -156,15 +156,3 @@ save(cup_track_info, file = 'data/cup_track_info.rda')
 
 message(paste('\nTotal process time:', round(Sys.time() - start, 2)))
 
-
-
-
-
-
-
-
-
-
-
-
-
