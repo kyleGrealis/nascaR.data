@@ -1,7 +1,7 @@
 
 
 # Fuzzy find a owner.
-find_owner <- function(df, owner) {
+find_owner <- function(df, the_owner) {
   
   # Create a list of owners
   owner_list <- df |> 
@@ -9,7 +9,7 @@ find_owner <- function(df, owner) {
     pull(owner)
 
   # Calculate distance of entered name and those in list of owneres
-  entered_name <- str_to_lower(owner)
+  entered_name <- str_to_lower(the_owner)
   distances <- stringdist::stringdist(entered_name, owner_list, method = 'lv')
   closest_match <- owner_list[which.min(distances)]
 
