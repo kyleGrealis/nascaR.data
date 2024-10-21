@@ -13,6 +13,39 @@ seasons <- c(1949)
 # truck race: https://www.driveraverages.com/nascar_truckseries/race.php?sked_id=2024701
 
 
+# create function for potential timeout handling
+get_page_with_retry <- function(url) {
+  attempts <- 0
+  wait_time <- 3 # in seconds
+  while (attempts < 5) {
+    result <- tryCatch(
+      {
+        read_html(url)
+      },
+      error = function(e) {
+        if (grepl('SSL connection timeout', e$message, ignore.case = TRUE)) {
+          message(paste('SSL timeout occurred. Retrying in', wait_time, 'seconds...'))
+          Sys.sleep(wait_time)
+          wait_time <<- wait_time * 1.5  # increase wait time for next potential error
+          return(NULL)
+        } else {
+          stop(e)  # Rethrow error if it's not an SSL timeout
+        }
+      }
+    )
+
+    if (!is.null(result)) {
+      return(result)  # Page success!
+    }
+
+    attempts <- attempts + 1  # increase attempts counter
+  }
+
+  beepr::beep_on_error(sound = 9)  # sound output
+  stop(paste('Failed to retrieve the page after 5 attempts.'))
+}
+
+
 base_url <- 'https://www.driveraverages.com/nascar/'
 season_url <- 'year.php?yr_id='
 seasons <- 1949:2024
@@ -42,7 +75,8 @@ for (season in seasons) {
   # 3. iterate over links and build results
   for (i in 1:length(links)) {
 
-    page <- read_html(paste0(base_url, links[i]))
+    # page <- read_html(paste0(base_url, links[i]))
+    page <- get_page_with_retry(paste0(base_url, links[i]))
 
     # get race name & location
     details <- page |> 
@@ -79,6 +113,8 @@ for (season in seasons) {
       select(-S1, -S2, -S3)
 
     results <- bind_rows(results, result)
+
+    save(results, file = 'data/rvest/test_results.rda')
 
   }
 
