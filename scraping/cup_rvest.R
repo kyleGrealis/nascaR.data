@@ -145,11 +145,13 @@ save(cup, file = 'data/cup_series.rda')
 # it will be necessary to store the data with the year as well
 cup_track_info <- cup |>
   select(Season, Race, Track, Length, Surface) |>
-  filter(Season >= 2024) |>
+  filter(Season >= 2020) |>
   distinct(Track, Length, Surface, .keep_all = TRUE) |>
   filter(!is.na(Length)) |>
   arrange(Track) |>
-  select(-c(Race))
+  select(-c(Race)) |>
+  filter(Length != 2.14) |>  # 2023 Chicage street course was changed
+  filter(Length != 2.52)  # Sonoma Raceway was changed
 save(cup_track_info, file = 'data/cup_track_info.rda')
 
 
