@@ -110,7 +110,7 @@ for (season in seasons) {
       ) |> 
       mutate(`Seg Points` = S1 + S2, .after = 'Team') |> 
       mutate(Win = if_else(Finish == 1, 1, 0)) |> 
-      select(-S1, -S2, -S3)
+      select(-S1, -S2)
 
     results <- bind_rows(results, result)
 
@@ -130,34 +130,29 @@ message(paste('\nScraping time:', round(Sys.time() - start, 2)))
 
 ###### merge old cup data with new table
 # 1. reduce the original data to season, race number, length, & surface
-load('data/cup_series.rda')
-reduced_cup <- cup_series |>
+load('data/rvest/xfinity_series.rda')
+reduced_x <- xfinity_series |>
   select(season, race_number, track_surface, track_length) |>
   distinct(season, race_number, .keep_all = TRUE)
 # 2. join selected variables to newly scraped data
-cup <- results |>
-  left_join(reduced_cup, by = c('Season' = 'season', 'Race' = 'race_number')) |>
+xfinity <- results |>
+  left_join(reduced_x, by = c('Season' = 'season', 'Race' = 'race_number')) |>
   relocate(c(track_length, track_surface), .after = 'Name') |>
   rename(Length = track_length, Surface = track_surface)
+save(xfinity, file = 'data/xfinity_series.rda')
 # 3. create data of track, length, & surface for future merging
 # to consider: track length & surface may have changed throughout the years, so
 # it will be necessary to store the data with the year as well
-
+xfinity_track_info <- xfinity |>
+  select(Season, Race, Track, Length, Surface) |>
+  filter(Season >= 2020) |>
+  distinct(Track, Length, Surface, .keep_all = TRUE) |>
+  filter(!is.na(Length)) |>
+  arrange(Track) |>
+  select(-c(Race))
+save(xfinity_track_info, file = 'data/xfinity_track_info.rda')
 
 
 
 message(paste('\nTotal process time:', round(Sys.time() - start, 2)))
 
-
-
-
-
-
-
-
-
-
-
-
-
-# save(cup_series, file = 'data/rvest/cup_series.rda')
