@@ -50,12 +50,12 @@ NASCAR is one of the top-tier racing sports in North America and competes agains
 library(nascaR.data)
 ```
 
-Use `?nascaR.data::cup_race_data` to view a list of variable descriptions. This package has been designed to swap `cup` for `xfinity` or `truck` to see the same data structure (variables) for the respective series. Would you rather inspect driver-specific results listed by season or their overall career? No problem... this is an easy pit stop: `cup_driver_career` or `xfinity_owner_season` or `truck_mfg_overall`.
+Use `?nascaR.data::cup_race_data` to view a list of variable descriptions. This package has been designed to swap `cup` for `xfinity` or `truck` to see the same data structure (variables) for the respective series. Would you rather inspect driver-specific results listed by season or their overall career? No problem... this is an easy pit stop: `cup_series` or `xfinity_owner_season` or `truck_mfg_overall`.
 
 ::: {.callout-note}
 Manufacturer (`mfg`) results use the term "overall" instead of "career" as is used for driver and owner. 
 
-`cup_mfg_overall` vs `cup_driver_career`
+`cup_mfg_overall` vs `cup_series`
 :::
 
 ## Green Flag!
@@ -67,7 +67,10 @@ First, organize the drivers in descending order by win. Then, subset to keep the
 ```{r}
 #| echo: true
 #| eval: false
-cup_driver_career |>
+cup_series |>
+  mutate(win = if_else(finish == 1, 1, 0)) |>
+  group_by(driver) |>
+  summarize(career_wins = sum(win, na.rm = TRUE)) |>
   arrange(desc(career_wins)) |>
   slice_head(n = 5) |>
   ggplot(aes(driver, career_wins)) +
@@ -87,7 +90,10 @@ driver_colors = c(
   'Darrell Waltrip' = '#24987a'
 )
 
-cup_driver_career |>
+cup_series |>
+  mutate(win = if_else(finish == 1, 1, 0)) |>
+  group_by(driver) |>
+  summarize(career_wins = sum(win, na.rm = TRUE)) |>
   arrange(desc(career_wins)) |>
   slice_head(n = 5) |>
   ggplot(aes(fct_reorder(driver, career_wins), career_wins, fill = driver)) +
@@ -126,7 +132,10 @@ Wow! This doesn't even look like a close race. Richard Petty clearly leads the f
 ```{r}
 #| echo: true
 #| eval: false
-cup_driver_career |>
+cup_series |>
+  mutate(win = if_else(finish == 1, 1, 0)) |>
+  group_by(driver) |>
+  summarize(career_wins = sum(win, na.rm = TRUE)) |>
   arrange(desc(career_wins)) |>
   slice_head(n = 5) |>
   ggplot(aes(driver, career_win_pct)) +
@@ -136,7 +145,11 @@ cup_driver_career |>
 
 ```{r}
 #| echo: false
-cup_driver_career |>
+#| eval: false
+cup_series |>
+  mutate(win = if_else(finish == 1, 1, 0)) |>
+  group_by(driver) |>
+  summarize(career_wins = sum(win, na.rm = TRUE)) |>
   arrange(desc(career_wins)) |>
   slice_head(n = 5) |>
   mutate(career_win_pct = round(career_win_pct, 3)) |>
@@ -173,16 +186,17 @@ cup_driver_career |>
 
 ```{r}
 #| echo: false
-petty <- cup_driver_career |>
+#| eval: false
+petty <- cup_series |>
   filter(driver == 'Richard Petty') |>
   pull(career_races)
 
-pearson <- cup_driver_career |>
+pearson <- cup_series |>
   filter(driver == 'David Pearson') |>
   pull(career_races)
 ```
 
-Accounting for Richard Petty's `r petty` races to David Pearson's `r pearson` races, imagine how many more wins Pearson would have if he competed in as many races as The King.
+Accounting for Richard Petty's XXX add number races to David Pearson's XXX add number races, imagine how many more wins Pearson would have if he competed in as many races as The King.
 
 ## The Garage Area
 
@@ -200,6 +214,7 @@ truck_mfg_season |>
 
 ```{r}
 #| echo: false
+#| eval: false
 mfg_colors = c(
   'Chevrolet' = '#c5b358',
   'Dodge' = 'darkcyan',
@@ -268,6 +283,7 @@ bind_rows(cup, xfinity, truck) |>
 
 ```{r}
 #| echo: false
+#| eval: false
 flags = c(
   'Cup' = 'darkgreen',
   'Xfinity' = 'gold',

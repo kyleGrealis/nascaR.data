@@ -24,11 +24,15 @@ License: CC BY 4.0
 Depends: R (>= 3.5.0)
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
-RoxygenNote: 7.3.1
+RoxygenNote: 7.3.2
+Imports:
+    dplyr,
+    glue,
+    stringdist,
+    stringr
 Suggests: 
     conflicted,
     ggtext,
-    glue,
     gtsummary,
     here,
     knitr,
@@ -36,8 +40,7 @@ Suggests:
     rmarkdown,
     roxygen2,
     rUM,
-    scales,
-    tidyverse
+    scales
 VignetteBuilder: quarto
 URL: https://github.com/kyleGrealis/nascaR.data/, https://kylegrealis.github.io/nascaR.data/
 BugReports: https://github.com/kyleGrealis/nascaR.data/issues
