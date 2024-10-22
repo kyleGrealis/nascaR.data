@@ -114,7 +114,7 @@ for (season in seasons) {
 
     results <- bind_rows(results, result)
 
-    save(results, file = 'data/rvest/test_x_results.rda')
+    save(results, file = 'data/rvest/xfinity_initial_scrape.rda')
 
   }
 
