@@ -110,7 +110,7 @@ for (season in seasons) {
       ) |> 
       mutate(`Seg Points` = S1 + S2, .after = 'Team') |> 
       mutate(Win = if_else(Finish == 1, 1, 0)) |> 
-      select(-S1, -S2, -S3)
+      select(-S1, -S2)
 
     results <- bind_rows(results, result)
 
@@ -128,36 +128,33 @@ doParallel::stopImplicitCluster()
 message(paste('\nScraping time:', round(Sys.time() - start, 2)))
 
 
-###### merge old cup data with new table
+###### merge old truck data with new table
 # 1. reduce the original data to season, race number, length, & surface
-load('data/cup_series.rda')
-reduced_cup <- cup_series |>
+load('data/rvest/truck_series.rda')
+reduced_truck <- truck_series |>
   select(season, race_number, track_surface, track_length) |>
   distinct(season, race_number, .keep_all = TRUE)
 # 2. join selected variables to newly scraped data
-cup <- results |>
-  left_join(reduced_cup, by = c('Season' = 'season', 'Race' = 'race_number')) |>
+truck <- results |>
+  left_join(reduced_truck, by = c('Season' = 'season', 'Race' = 'race_number')) |>
   relocate(c(track_length, track_surface), .after = 'Name') |>
   rename(Length = track_length, Surface = track_surface)
+save(truck, file = 'data/truck_series.rda')
 # 3. create data of track, length, & surface for future merging
 # to consider: track length & surface may have changed throughout the years, so
 # it will be necessary to store the data with the year as well
-
+truck_track_info <- truck |>
+  select(Season, Race, Track, Length, Surface) |>
+  filter(Season >= 2020) |>
+  distinct(Track, Length, Surface, .keep_all = TRUE) |>
+  filter(!is.na(Length)) |>
+  arrange(Track) |>
+  select(-c(Race)) |>
+  filter(Length != 2.14) |>  # 2023 Chicage street course was changed
+  filter(Length != 2.52)  # Sonoma Raceway was changed
+save(truck_track_info, file = 'data/truck_track_info.rda')
 
 
 
 message(paste('\nTotal process time:', round(Sys.time() - start, 2)))
 
-
-
-
-
-
-
-
-
-
-
-
-
-# save(cup_series, file = 'data/rvest/cup_series.rda')
