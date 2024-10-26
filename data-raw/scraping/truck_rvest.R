@@ -41,7 +41,6 @@ get_page_with_retry <- function(url) {
     attempts <- attempts + 1  # increase attempts counter
   }
 
-  beepr::beep_on_error(sound = 9)  # sound output
   stop(paste('Failed to retrieve the page after 5 attempts.'))
 }
 
@@ -120,8 +119,6 @@ for (season in seasons) {
 
   
 }
-
-beepr::beep(5)
 
 doParallel::stopImplicitCluster()
 

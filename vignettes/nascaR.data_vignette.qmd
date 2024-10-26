@@ -16,8 +16,6 @@ knitr:
     dpi: 100         # image resolution (typically 300 for publication)
     fig-width: 6.5   # figure width
     fig-height: 4.0  # figure height
-bibliography: [references.bib, packages.bib]
-csl: the-new-england-journal-of-medicine.csl
 ---
 
 ```{r}

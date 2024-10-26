@@ -31,16 +31,9 @@ Imports:
     stringdist,
     stringr
 Suggests: 
-    conflicted,
-    ggtext,
-    gtsummary,
     here,
-    knitr,
-    quarto (>= 1.3.12),
-    rmarkdown,
+    purrr,
+    rlang,
     roxygen2,
-    rUM,
+    rvest,
     scales
-VignetteBuilder: quarto
-URL: https://github.com/kyleGrealis/nascaR.data/, https://kylegrealis.github.io/nascaR.data/
-BugReports: https://github.com/kyleGrealis/nascaR.data/issues

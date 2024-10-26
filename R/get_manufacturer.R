@@ -1,6 +1,10 @@
-
-
-# Fuzzy find a manufacturer.
+#' Find closest matching manufacturer name
+#'
+#' @param df A tibble containing NASCAR race data
+#' @param manufacturer Character string of manufacturer name to search for
+#' @return Character string of the matched manufacturer name
+#' @keywords internal
+#' @noRd
 find_manufacturer <- function(df, manufacturer) {
   if (manufacturer %in% c('Chevy', 'chevy')) {
     manufacturer <- 'chevrolet'
@@ -10,12 +14,12 @@ find_manufacturer <- function(df, manufacturer) {
   manufacturer_list <- df |> 
     mutate(manufacturer = str_to_lower(manufacturer)) |> 
     pull(manufacturer)
-
+ 
   # Calculate distance of entered name and those in list of manufacturers
   entered_name <- str_to_lower(manufacturer)
   distances <- stringdist::stringdist(entered_name, manufacturer_list, method = 'lv')
   closest_match <- manufacturer_list[which.min(distances)]
-
+ 
   if (entered_name != str_to_lower(closest_match)) {
     # Get user input if the entered name does not match available manufacturers
     entered_name <- str_to_title(entered_name)
@@ -33,10 +37,14 @@ find_manufacturer <- function(df, manufacturer) {
   }
   return(closest_match)
 }
-
-
-
-# Filter race data based on selected manufacturer
+ 
+#' Filter race data for a specific manufacturer
+#'
+#' @param race_data A tibble containing NASCAR race data
+#' @param the_manufacturer Character string of manufacturer name
+#' @return A tibble filtered for the specified manufacturer with win column added
+#' @keywords internal
+#' @noRd
 filter_manufacturer_data <- function(race_data, the_manufacturer) {
   race_results <- 
     race_data |>
@@ -44,18 +52,47 @@ filter_manufacturer_data <- function(race_data, the_manufacturer) {
     mutate(win = if_else(finish == 1, 1, 0))
   return(race_results)  
 }
-
-
-
+ 
+#' Get NASCAR manufacturer statistics
+#'
+#' Retrieves and summarizes NASCAR race statistics for a specified manufacturer across
+#' different racing series. The function provides flexibility in viewing career
+#' summaries, season-by-season breakdowns, or complete race-by-race data.
+#'
+#' @param manufacturer Character string specifying a manufacturer name (case-insensitive, fuzzy matching
+#'   available)
+#' @param series Character string specifying the racing series to analyze. Must be
+#'   one of 'all' (default), 'cup', 'xfinity', or 'truck'
+#' @param type Character string specifying the type of summary to return. Must be
+#'   one of:
+#'   * 'summary' (default): Career statistics grouped by series
+#'   * 'season': Season-by-season statistics for each series
+#'   * 'all': Complete race-by-race data
+#'
+#' @return A tibble containing manufacturer statistics based on the specified type:
+#'   * For type = 'summary': Career statistics grouped by series
+#'   * For type = 'season': Season-by-season breakdown
+#'   * For type = 'all': Complete race-by-race data
+#'
+#' @export
+#'
+#' @examples
+#' # Get career summary for Toyota across all series
+#' get_manufacturer_info("Toyota")
+#'
+#' # Get Cup series statistics only
+#' get_manufacturer_info("Ford", series = "cup")
+#'
+#' # Get season-by-season breakdown for Truck series
+#' get_manufacturer_info("Chevrolet", series = "truck", type = "season")
 
 get_manufacturer_info <- function(manufacturer, series = 'all', type = 'summary') {
-
   race_series <- selected_series_data(series = series)
   the_manufacturer <- find_manufacturer(df = race_series, manufacturer = manufacturer)
   race_results <- filter_manufacturer_data(race_data = race_series, the_manufacturer = the_manufacturer)
-
+ 
   message(str_to_title(the_manufacturer))
-
+ 
   if (type == 'season') {
     manufacturer_table <- 
       race_results |>

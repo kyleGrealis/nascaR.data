@@ -7,7 +7,7 @@ doParallel::registerDoParallel(cores = parallel::detectCores() - 1)
 # TEST: time counter
 start <- Sys.time()
 # TESTING:
-seasons <- c(1982)
+seasons <- c(1949)
 
 # xfinity race: https://www.driveraverages.com/nascar_xfinityseries/race.php?sked_id=2024501
 # truck race: https://www.driveraverages.com/nascar_truckseries/race.php?sked_id=2024701
@@ -41,14 +41,13 @@ get_page_with_retry <- function(url) {
     attempts <- attempts + 1  # increase attempts counter
   }
 
-  beepr::beep_on_error(sound = 9)  # sound output
   stop(paste('Failed to retrieve the page after 5 attempts.'))
 }
 
 
-base_url <- 'https://www.driveraverages.com/nascar_xfinityseries/'
+base_url <- 'https://www.driveraverages.com/nascar/'
 season_url <- 'year.php?yr_id='
-seasons <- 1982:2024
+seasons <- 1949:2024
 
 # 1. set empty dataframe
 results <- NULL
@@ -110,18 +109,16 @@ for (season in seasons) {
       ) |> 
       mutate(`Seg Points` = S1 + S2, .after = 'Team') |> 
       mutate(Win = if_else(Finish == 1, 1, 0)) |> 
-      select(-S1, -S2)
+      select(-S1, -S2, -S3)
 
     results <- bind_rows(results, result)
 
-    save(results, file = 'data/rvest/xfinity_initial_scrape.rda')
+    save(results, file = 'data/rvest/cup_initial_scrape.rda')
 
   }
 
   
 }
-
-beepr::beep(5)
 
 doParallel::stopImplicitCluster()
 
@@ -130,27 +127,29 @@ message(paste('\nScraping time:', round(Sys.time() - start, 2)))
 
 ###### merge old cup data with new table
 # 1. reduce the original data to season, race number, length, & surface
-load('data/rvest/xfinity_series.rda')
-reduced_x <- xfinity_series |>
+load('data/rvest/cup_series.rda')
+reduced_cup <- cup_series |>
   select(season, race_number, track_surface, track_length) |>
   distinct(season, race_number, .keep_all = TRUE)
 # 2. join selected variables to newly scraped data
-xfinity <- results |>
-  left_join(reduced_x, by = c('Season' = 'season', 'Race' = 'race_number')) |>
+cup <- results |>
+  left_join(reduced_cup, by = c('Season' = 'season', 'Race' = 'race_number')) |>
   relocate(c(track_length, track_surface), .after = 'Name') |>
   rename(Length = track_length, Surface = track_surface)
-save(xfinity, file = 'data/xfinity_series.rda')
+save(cup, file = 'data/cup_series.rda')
 # 3. create data of track, length, & surface for future merging
 # to consider: track length & surface may have changed throughout the years, so
 # it will be necessary to store the data with the year as well
-xfinity_track_info <- xfinity |>
+cup_track_info <- cup |>
   select(Season, Race, Track, Length, Surface) |>
   filter(Season >= 2020) |>
   distinct(Track, Length, Surface, .keep_all = TRUE) |>
   filter(!is.na(Length)) |>
   arrange(Track) |>
-  select(-c(Race))
-save(xfinity_track_info, file = 'data/xfinity_track_info.rda')
+  select(-c(Race)) |>
+  filter(Length != 2.14) |>  # 2023 Chicage street course was changed
+  filter(Length != 2.52)  # Sonoma Raceway was changed
+save(cup_track_info, file = 'data/cup_track_info.rda')
 
 
 

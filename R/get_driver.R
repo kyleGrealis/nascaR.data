@@ -1,29 +1,11 @@
-
-selected_series_data <- function(series) {
-  the_series <- str_to_lower(series)
-  
-  if (series == 'all') {
-    all_race_results <- bind_rows(
-      cup_series, 
-      xfinity_series, 
-      truck_series
-    )
-    return(all_race_results)
-
-  } else if (the_series %in% c('cup', 'xfinity', 'truck')) {
-    filtered <- all_race_results |> 
-      mutate(series = str_to_lower(series)) |>
-      filter(series == the_series)
-    return(filtered)
-
-  } else {
-    stop(paste(str_to_title(series), 'series does not exist.'))
-  }
-}
-
-
+#' Find closest matching driver name
+#'
+#' @param df A tibble containing NASCAR race data
+#' @param the_driver Character string of driver name to search for
+#' @return Character string of the matched driver name
+#' @keywords internal
+#' @noRd
 find_driver <- function(df, the_driver) {
-  
   # Create a list of drivers
   driver_list <- df |> 
     mutate(driver = str_to_lower(driver)) |> 
@@ -56,7 +38,13 @@ find_driver <- function(df, the_driver) {
   return(closest_match)
 }
 
-
+#' Filter race data for a specific driver
+#'
+#' @param race_data A tibble containing NASCAR race data
+#' @param the_driver Character string of driver name
+#' @return A tibble filtered for the specified driver with win column added
+#' @keywords internal
+#' @noRd
 filter_driver_data <- function(race_data, the_driver) {
   race_results <- 
     race_data |>
@@ -65,10 +53,39 @@ filter_driver_data <- function(race_data, the_driver) {
   return(race_results)  
 }
 
-
-
+#' Get NASCAR driver statistics
+#'
+#' Retrieves and summarizes NASCAR race statistics for a specified driver across
+#' different racing series. The function provides flexibility in viewing career
+#' summaries, season-by-season breakdowns, or complete race-by-race data.
+#'
+#' @param driver Character string of driver name (case-insensitive, fuzzy matching
+#'   available)
+#' @param series Character string specifying the racing series to analyze. Must be
+#'   one of 'all' (default), 'cup', 'xfinity', or 'truck'
+#' @param type Character string specifying the type of summary to return. Must be
+#'   one of:
+#'   * 'summary' (default): Career statistics grouped by series
+#'   * 'season': Season-by-season statistics for each series
+#'   * 'all': Complete race-by-race data
+#'
+#' @return A tibble containing driver statistics based on the specified type:
+#'   * For type = 'summary': Career statistics grouped by series
+#'   * For type = 'season': Season-by-season breakdown
+#'   * For type = 'all': Complete race-by-race data
+#'
+#' @export
+#'
+#' @examples
+#' # Get career summary for Kyle Busch across all series
+#' get_driver_info("Kyle Busch")
+#'
+#' # Get Cup series statistics only
+#' get_driver_info("Kyle Busch", series = "cup")
+#'
+#' # Get season-by-season breakdown for Truck series
+#' get_driver_info("Kyle Busch", series = "truck", type = "season")
 get_driver_info <- function(driver, series = 'all', type = 'summary') {
-
   race_series <- selected_series_data(series = series)
   the_driver <- find_driver(df = race_series, driver = driver)
   race_results <- filter_driver_data(race_data = race_series, the_driver = the_driver)

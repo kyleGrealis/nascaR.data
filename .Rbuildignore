@@ -10,8 +10,6 @@
 ^nascaR\.data\.Rcheck$
 ^\.github$
 ^CRAN-SUBMISSION$
-^scraping$
-requirements.txt
-season_*
-nav_scripts.sh
-write_rda_files.R
+^data-raw$
+^img$
+

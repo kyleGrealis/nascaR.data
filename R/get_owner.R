@@ -1,18 +1,21 @@
-
-
-# Fuzzy find a owner.
+#' Find closest matching owner name
+#'
+#' @param df A tibble containing NASCAR race data
+#' @param the_owner Character string of owner name to search for
+#' @return Character string of the matched owner name
+#' @keywords internal
+#' @noRd
 find_owner <- function(df, the_owner) {
-  
   # Create a list of owners
   owner_list <- df |> 
     mutate(owner = str_to_lower(owner)) |> 
     pull(owner)
-
+ 
   # Calculate distance of entered name and those in list of owneres
   entered_name <- str_to_lower(the_owner)
   distances <- stringdist::stringdist(entered_name, owner_list, method = 'lv')
   closest_match <- owner_list[which.min(distances)]
-
+ 
   if (entered_name != str_to_lower(closest_match)) {
     # Get user input if the entered name does not match available owners
     entered_name <- str_to_title(entered_name)
@@ -31,9 +34,13 @@ find_owner <- function(df, the_owner) {
   return(closest_match)
 }
 
-
-
-# Filter race data based on selected owner
+#' Filter race data for a specific owner
+#'
+#' @param race_data A tibble containing NASCAR race data
+#' @param the_owner Character string of owner name
+#' @return A tibble filtered for the specified owner with win column added
+#' @keywords internal
+#' @noRd
 filter_owner_data <- function(race_data, the_owner) {
   race_results <- 
     race_data |>
@@ -42,17 +49,46 @@ filter_owner_data <- function(race_data, the_owner) {
   return(race_results)  
 }
 
-
-
+#' Get NASCAR owner statistics
+#'
+#' Retrieves and summarizes NASCAR race statistics for a specified owner across
+#' different racing series. The function provides flexibility in viewing career
+#' summaries, season-by-season breakdowns, or complete race-by-race data.
+#'
+#' @param owner Character string specifying an owner name (case-insensitive, fuzzy matching
+#'   available)
+#' @param series Character string specifying the racing series to analyze. Must be
+#'   one of 'all' (default), 'cup', 'xfinity', or 'truck'
+#' @param type Character string specifying the type of summary to return. Must be
+#'   one of:
+#'   * 'summary' (default): Career statistics grouped by series
+#'   * 'season': Season-by-season statistics for each series
+#'   * 'all': Complete race-by-race data
+#'
+#' @return A tibble containing owner statistics based on the specified type:
+#'   * For type = 'summary': Career statistics grouped by series
+#'   * For type = 'season': Season-by-season breakdown
+#'   * For type = 'all': Complete race-by-race data
+#'
+#' @export
+#'
+#' @examples
+#' # Get career summary for Joe Gibbs Racing across all series
+#' get_owner_info("Joe Gibbs")
+#'
+#' # Get Cup series statistics only
+#' get_owner_info("Joe Gibbs", series = "cup")
+#'
+#' # Get season-by-season breakdown for Truck series
+#' get_owner_info("Kyle Busch", series = "truck", type = "season")
 
 get_owner_info <- function(owner, series = 'all', type = 'summary') {
-
   race_series <- selected_series_data(series = series)
   the_owner <- find_owner(df = race_series, owner = owner)
   race_results <- filter_owner_data(race_data = race_series, the_owner = the_owner)
-
+ 
   message(str_to_title(the_owner))
-
+ 
   if (type == 'season') {
     owner_table <- 
       race_results |>
