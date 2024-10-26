@@ -28,12 +28,12 @@ RoxygenNote: 7.3.2
 Imports:
     dplyr,
     glue,
+    purrr,
+    rlang,
+    rvest,
     stringdist,
     stringr
 Suggests: 
     here,
-    purrr,
-    rlang,
     roxygen2,
-    rvest,
     scales
