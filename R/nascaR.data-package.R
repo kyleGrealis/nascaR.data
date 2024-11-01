@@ -11,9 +11,9 @@
 "_PACKAGE"
 
 ## usethis namespace: start
-#' @importFrom dplyr bind_rows filter if_else mutate pull
+#' @importFrom dplyr bind_rows filter if_else mutate n_distinct pull
 #' @importFrom glue glue
-#' @importFrom purrr pluck walk
+#' @importFrom purrr keep map_dfr pluck walk
 #' @importFrom rlang abort
 #' @importFrom rvest html_attr html_elements html_element html_table html_text2 read_html
 #' @importFrom stringdist stringdist
