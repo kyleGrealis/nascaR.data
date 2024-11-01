@@ -8,6 +8,9 @@ update_nascar_data <- function(debug = FALSE, target_year = NULL, target_race = 
   if (debug && (is.null(target_year) || is.null(target_race))) {
     stop("When debug is TRUE, both target_year and target_race must be specified")
   }
+
+  # Clear debug data files
+  if (debug) { unlink('data/debug/*') }
  
   # Add debug path logic
   get_file_path <- function(original_path, is_debug) {
@@ -86,8 +89,8 @@ update_nascar_data <- function(debug = FALSE, target_year = NULL, target_race = 
       }
     }, error = function(e) {
       # If file doesn't exist, create empty data frame with required columns
-      message("No existing data found. Creating new dataset...")
-      existing_data <<- NULL
+      message("No existing data found. Creating debug dataset...")
+      # existing_data <- NULL
       # existing_data <<- data.frame(
       #   Season = numeric(),
       #   Race = numeric(),
@@ -187,9 +190,11 @@ update_nascar_data <- function(debug = FALSE, target_year = NULL, target_race = 
         pluck(3)
       
       # Process race results with consistent structure
-      result <- race |> 
+      result <- race |>
         rename(Car = `#`) |> 
         mutate(
+          Season = as.integer(Season),
+          Race = as.integer(Race),
           Car = str_remove(Car, '#'),
           Season = current_year,
           Race = current_race + seq_along(new_links)[which(new_links == link)],
@@ -212,7 +217,7 @@ update_nascar_data <- function(debug = FALSE, target_year = NULL, target_race = 
         # Then select columns in the right order
         select(
           Season, Race, Track, Name, Length, Surface,
-          Finish, Car, Driver, Team, Start, Make,
+          Finish, Start, Car, Driver, Team, Make,
           Pts, Laps, Led, Status, `Seg Points`,
           Rating, Win
         )
@@ -223,6 +228,7 @@ update_nascar_data <- function(debug = FALSE, target_year = NULL, target_race = 
     
     # Combine and save with proper race counting
     if (nrow(new_results) > 0) {
+      if (debug) { existing_data <- NULL }
       updated_data <- bind_rows(existing_data, new_results)
       
       # Count unique races instead of rows
