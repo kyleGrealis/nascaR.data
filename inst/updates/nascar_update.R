@@ -68,8 +68,15 @@ update_nascar_data <- function(debug = FALSE, target_year = NULL, target_race = 
  
   # Update function for each series
   update_series <- function(series_name, config) {
-    message(paste("\nUpdating", toupper(series_name), "Series data...", 
-                 if(debug) "(DEBUG MODE)" else ""))
+    message(
+      # "Updating Cup Series data..." or
+      # "Updating Cup Series data... (DEBUG MODE)"
+      paste(
+        "\nUpdating", toupper(series_name), 
+        "Series data...",
+        if(debug) "(DEBUG MODE)" else ""
+      )
+    )
     
     # Load existing data from real path, not debug path
     real_data_file <- gsub("^data/debug/", "data/", config$data_file)
@@ -90,31 +97,6 @@ update_nascar_data <- function(debug = FALSE, target_year = NULL, target_race = 
     }, error = function(e) {
       # If file doesn't exist, create empty data frame with required columns
       message("No existing data found. Creating debug dataset...")
-      # existing_data <- NULL
-      # existing_data <<- data.frame(
-      #   Season = numeric(),
-      #   Race = numeric(),
-      #   Track = character(),
-      #   Name = character(),
-      #   Length = numeric(),
-      #   Surface = character(),
-      #   Finish = numeric(),
-      #   Car = character(),
-      #   Driver = character(),
-      #   Team = character(),
-      #   Start = integer(),
-      #   Make = character(),
-      #   Pts = integer(),
-      #   Laps = integer(),
-      #   Led = integer(),
-      #   Status = character(),
-      #   S1 = integer(),
-      #   S2 = integer(),
-      #   S3 = logical(),
-      #   Rating = numeric(),
-      #   Win = numeric(),
-      #   stringsAsFactors = FALSE
-      # )
     })
     
     # Try to load track info, with error handling
@@ -181,8 +163,8 @@ update_nascar_data <- function(debug = FALSE, target_year = NULL, target_race = 
       race_name <- parts[1]
       track_name <- parts[2]
       
-      message(paste("Race:", race_name))
-      # message(paste("Track:", track_name))
+      # message(paste("Race:", race_name))
+      message(paste("Track:", track_name))
       
       # Get race data
       race <- page |> 
@@ -242,11 +224,19 @@ update_nascar_data <- function(debug = FALSE, target_year = NULL, target_race = 
         save(truck_series, file = config$data_file)
       }
       
-      message(paste("Added", n_new_races, "new races to", series_name, 
-                   "series", if(debug) "(saved to debug directory)" else ""))
+      message(
+        paste(
+          "Added", n_new_races, "new races to", series_name, "series", 
+          if(debug) "(saved to debug directory)" else ""
+        )
+      )
     } else {
-      message(paste("No new races found for", series_name, "series", 
-                   if(debug) "(DEBUG MODE)" else ""))
+      message(
+        paste(
+          "No new races found for", series_name, "series", 
+          if(debug) "(DEBUG MODE)" else ""
+        )
+      )
     }
   }
   
