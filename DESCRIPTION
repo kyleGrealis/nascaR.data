@@ -34,6 +34,5 @@ Imports:
     stringdist,
     stringr
 Suggests: 
-    here,
     roxygen2,
     scales
