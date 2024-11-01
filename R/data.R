@@ -1,3 +1,19 @@
+#' @keywords internal
+"_PACKAGE"
+
+# Declare global variables used in dplyr/tidyr operations
+utils::globalVariables(c(
+  "Driver",
+  "Finish", 
+  "Laps",
+  "Led",
+  "Make",
+  "Name",
+  "Season",
+  "Series",
+  "Team",
+  "Win"
+))
 #' NASCAR Cup Series Race Data
 #' 
 #' Historical race results for NASCAR Cup Series races from 1949-present. Includes finishing position,
