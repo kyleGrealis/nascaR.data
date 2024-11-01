@@ -1,4 +1,12 @@
 #' Update NASCAR race data
+#' 
+#' This function is designed to pull the last value of Season and Race from the
+#' most-recent scrape as a starting point for new data. If the function is ran in
+#' debug mode, the output is saved to \code{data/debug}, otherwise it is appended
+#' to the full data for the respective series.
+#' 
+#' Debug mode allows to review scraping process and output of new races before 
+#' configuring automated GitHub Actions.
 #'
 #' @param debug Logical. If TRUE, uses manual target year and race
 #' @param target_year Numeric. Specify year when debug is TRUE
