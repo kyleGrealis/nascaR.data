@@ -97,7 +97,7 @@ get_manufacturer_info <- function(manufacturer, series = 'all', type = 'summary'
       race_results |>
       group_by(Series, Season) |>
       summarize(
-        Races = n_distinct(race_name),
+        Races = n_distinct(Name),
         Wins = sum(Win, na.rm = TRUE),
         `Best Finish` = min(Finish),
         `Avg Finish` = round(mean(Finish, na.rm = TRUE), 1),
