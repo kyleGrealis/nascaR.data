@@ -257,7 +257,4 @@ update_nascar_data <- function(debug = FALSE, target_year = NULL, target_race = 
 # update_nascar_data()
 
 # Debug mode:
-update_nascar_data(debug = TRUE, target_year = 2024, target_race = 15)
-# load('inst/extdata/debug/cup_series.rda')
-# load('inst/extdata/debug/xfinity_series.rda')
-load('inst/extdata/debug/truck_series.rda')
+# update_nascar_data(debug = TRUE, target_year = 2024, target_race = 15)
