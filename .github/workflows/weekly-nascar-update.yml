@@ -11,6 +11,9 @@ on:
 jobs:
   update-nascar-data:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      issues: write    # This is needed for creating issues
     env:
       GITHUB_PAT: ${{ secrets.GITHUB_TOKEN }}
     steps:
