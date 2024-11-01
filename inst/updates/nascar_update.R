@@ -37,17 +37,17 @@ update_nascar_data <- function(debug = FALSE, target_year = NULL, target_race = 
     cup = list(
       base_url = "https://www.driveraverages.com/nascar/",
       data_file = get_file_path("data/cup_series.rda", debug),
-      track_info = "data/cup_track_info.rda"  # Track info always loads from real data
+      track_info = "inst/updates/cup_track_info.rda"
     ),
     xfinity = list(
       base_url = "https://www.driveraverages.com/nascar_xfinityseries/",
       data_file = get_file_path("data/xfinity_series.rda", debug),
-      track_info = "data/xfinity_track_info.rda"
+      track_info = "inst/updates/xfinity_track_info.rda"
     ),
     truck = list(
       base_url = "https://www.driveraverages.com/nascar_truckseries/",
       data_file = get_file_path("data/truck_series.rda", debug),
-      track_info = "data/truck_track_info.rda"
+      track_info = "inst/updates/truck_track_info.rda"
     )
   )
   
