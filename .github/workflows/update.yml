@@ -5,7 +5,7 @@ on:
     - cron: '0 0 * * 1'
   workflow_dispatch:
 
-name: update-nascar-race-results
+# name: update-nascar-race-results
 
 jobs:
   update-nascar-data:
