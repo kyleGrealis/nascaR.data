@@ -13,13 +13,15 @@ NULL
 #' @keywords internal
 selected_series_data <- function(series) {
   the_series <- str_to_lower(series)
+
+  # Series type is needed for get_* functions to filter properly
+  all_race_results <- bind_rows(
+    cup <- cup |> mutate(series = 'cup'),
+    xfinity <- xfinity |> mutate(series = 'xfinity'),
+    truck <- truck |> mutate(series = 'truck')
+  )
   
   if (series == 'all') {
-    all_race_results <- bind_rows(
-      cup_series, 
-      xfinity_series, 
-      truck_series
-    )
     return(all_race_results)
 
   } else if (the_series %in% c('cup', 'xfinity', 'truck')) {
