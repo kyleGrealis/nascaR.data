@@ -6,6 +6,12 @@
 #   target_race = 15
 # )
 
+# Load required packages
+library(purrr)      # for walk, map_dfr, keep
+library(rvest)      # for read_html, html_elements, html_table
+library(dplyr)      # for mutate, select, left_join, rename
+library(stringr)    # for str_detect, str_remove, str_split
+
 source("inst/updates/nascar_update.R")
 current_month <- as.numeric(format(Sys.Date(), "%m"))
 
