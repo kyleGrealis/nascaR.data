@@ -51,16 +51,16 @@ jobs:
             body: 'The debug run of the NASCAR data update script failed. Please check the GitHub Actions logs.'
           })
 
-    - name: Production Run
-      if: steps.debug-run.outcome == 'success'
-      run: |
-        Rscript inst/updates/run_update.R
+    # - name: Production Run
+    #   if: steps.debug-run.outcome == 'success'
+    #   run: |
+    #     Rscript inst/updates/run_update.R
 
-    - name: Commit and Push Changes
-      if: steps.debug-run.outcome == 'success'
-      run: |
-        git config --local user.email "actions@github.com"
-        git config --local user.name "GitHub Actions"
-        git add data/*.rda
-        git commit -m "Update NASCAR data [automated]" || echo "No changes to commit"
-        git push
+    # - name: Commit and Push Changes
+    #   if: steps.debug-run.outcome == 'success'
+    #   run: |
+    #     git config --local user.email "actions@github.com"
+    #     git config --local user.name "GitHub Actions"
+    #     git add data/*.rda
+    #     git commit -m "Update NASCAR data [automated]" || echo "No changes to commit"
+    #     git push
