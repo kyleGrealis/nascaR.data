@@ -11,8 +11,8 @@
 "_PACKAGE"
 
 ## usethis namespace: start
-#' @importFrom dplyr bind_rows filter if_else left_join mutate 
-#' @importFrom dplyr n_distinct pull rename select
+#' @importFrom dplyr bind_rows filter group_by if_else left_join mutate 
+#' @importFrom dplyr n n_distinct pull rename select summarize
 #' @importFrom glue glue
 #' @importFrom purrr keep map_dfr pluck walk
 #' @importFrom rlang abort
