@@ -14,6 +14,7 @@ jobs:
     permissions:
       contents: write
       issues: write    # This is needed for creating issues
+      
     env:
       GITHUB_PAT: ${{ secrets.GITHUB_TOKEN }}
     steps:
@@ -42,6 +43,13 @@ jobs:
         continue-on-error: true
         run: |
           Rscript inst/updates/run_debug.R
+
+      - name: Upload Debug Files
+        if: always()
+        uses: actions/upload-artifact@v3
+        with:
+          name: debug-files
+          path: inst/extdata/debug/
 
       - name: Create Issue on Debug Failure
         if: steps.debug-run.outcome == 'failure'
