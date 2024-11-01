@@ -20,7 +20,7 @@ if (current_month >= 2 && current_month <= 11) {
   update_nascar_data(
     debug = TRUE, 
     target_year = as.numeric(format(Sys.Date(), "%Y")),
-    target_race = 1
+    target_race = 0
   )
 } else {
   message("Currently in off-season. No updates needed.")
