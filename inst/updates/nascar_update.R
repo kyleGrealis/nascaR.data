@@ -193,20 +193,16 @@ update_nascar_data <- function(debug = FALSE, target_year = NULL, target_race = 
       result <- race |>
         rename(Car = `#`) |> 
         mutate(
-          Season = as.integer(Season),
-          Race = as.integer(Race),
+          Season = as.integer(current_year),
+          Race = as.integer(
+            current_race + seq_along(new_links)[which(new_links == link)]
+          ),
           Car = str_remove(Car, '#'),
-          Season = current_year,
-          Race = current_race + seq_along(new_links)[which(new_links == link)],
           Track = track_name,
           Name = race_name,
-          .before = 'Finish'
-        ) |> 
-        mutate(
           `Seg Points` = S1 + S2,
-          .after = 'Team'
-        ) |> 
-        mutate(Win = if_else(Finish == 1, 1, 0))
+          Win = if_else(Finish == 1, 1, 0)
+        )
       
       # Merge track info first
       result <- result |> 
@@ -266,4 +262,4 @@ update_nascar_data <- function(debug = FALSE, target_year = NULL, target_race = 
 update_nascar_data(debug = TRUE, target_year = 2024, target_race = 15)
 # load('data/debug/cup_series.rda')
 # load('data/debug/xfinity_series.rda')
-# load('data/debug/truck_series.rda')
+load('data/debug/truck_series.rda')
