@@ -1,67 +1,64 @@
 name: Weekly NASCAR Data Update
 
 on:
- schedule:
-   - cron: '0 0 * * 1'  # Runs at 00:00 on Monday
- workflow_dispatch:    # Allows manual triggering for testing
+  schedule:
+    - cron: '0 0 * * 1'
+  workflow_dispatch:
 
 jobs:
- update-data:
-   runs-on: ubuntu-latest
-   
-   env:
-     GITHUB_PAT: ${{ secrets.GITHUB_TOKEN }}
-     
-   steps:
-   - uses: actions/checkout@v3
-   
-   - uses: r-lib/actions/setup-r@v2
-     with:
-       use-public-rspm: true
+  update-data:
+    runs-on: ubuntu-latest
+    env:
+      GITHUB_PAT: ${{ secrets.GITHUB_TOKEN }}
+    steps:
+      - uses: actions/checkout@v3
+      
+      - uses: r-lib/actions/setup-r@v2
+        with:
+          use-public-rspm: true
 
-   - uses: r-lib/actions/setup-r-dependencies@v2
-     with:
-       extra-packages: |
-         any::devtools
-         any::dplyr
-         any::glue
-         any::purrr
-         any::rlang
-         any::rvest
-         any::stringdist
-         any::stringr
-         any::roxygen2
-         any::scales
+      - uses: r-lib/actions/setup-r-dependencies@v2
+        with:
+          extra-packages: |
+            any::devtools
+            any::dplyr
+            any::glue
+            any::purrr
+            any::rlang
+            any::rvest
+            any::stringdist
+            any::stringr
+            any::roxygen2
+            any::scales
 
-   - name: Debug Run
-     id: debug-run
-     continue-on-error: true
-     run: |
-       Rscript inst/updates/run_debug.R
+      - name: Debug Run
+        id: debug-run
+        continue-on-error: true
+        run: |
+          Rscript inst/updates/run_debug.R
 
-   - name: Create Issue on Debug Failure
-     if: steps.debug-run.outcome == 'failure'
-     uses: actions/github-script@v6
-     with:
-       script: |
-         github.rest.issues.create({
-           owner: context.repo.owner,
-           repo: context.repo.repo,
-           title: 'NASCAR Data Update Debug Run Failed',
-           body: 'The debug run of the NASCAR data update script failed. Please check the GitHub Actions logs.'
-         })
+      - name: Create Issue on Debug Failure
+        if: steps.debug-run.outcome == 'failure'
+        uses: actions/github-script@v6
+        with:
+          script: |
+            github.rest.issues.create({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              title: 'NASCAR Data Update Debug Run Failed',
+              body: 'The debug run of the NASCAR data update script failed. Please check the GitHub Actions logs.'
+            })
 
-# Commenting out production steps for initial testing
-#    - name: Production Run
-#      if: steps.debug-run.outcome == 'success'
-#      run: |
-#        Rscript inst/updates/run_update.R
+#      - name: Production Run
+#        if: steps.debug-run.outcome == 'success'
+#        run: |
+#          Rscript inst/updates/run_update.R
 #
-#    - name: Commit and Push Changes
-#      if: steps.debug-run.outcome == 'success'
-#      run: |
-#        git config --local user.email "actions@github.com"
-#        git config --local user.name "GitHub Actions"
-#        git add data/*.rda
-#        git commit -m "Update NASCAR data [automated]" || echo "No changes to commit"
-#        git push
+#      - name: Commit and Push Changes
+#        if: steps.debug-run.outcome == 'success'
+#        run: |
+#          git config --local user.email "actions@github.com"
+#          git config --local user.name "GitHub Actions"
+#          git add data/*.rda
+#          git commit -m "Update NASCAR data [automated]" || echo "No changes to commit"
+#          git push
