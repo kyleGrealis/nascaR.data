@@ -2,8 +2,8 @@
 #' 
 #' This function is designed to pull the last value of Season and Race from the
 #' most-recent scrape as a starting point for new data. If the function is ran in
-#' debug mode, the output is saved to \code{data/debug}, otherwise it is appended
-#' to the full data for the respective series.
+#' debug mode, the output is saved to \code{inst/extdata/debug}, otherwise it is 
+#' appended to the full data for the respective series.
 #' 
 #' Debug mode allows to review scraping process and output of new races before 
 #' configuring automated GitHub Actions.
@@ -18,15 +18,15 @@ update_nascar_data <- function(debug = FALSE, target_year = NULL, target_race = 
   }
 
   # Clear debug data files
-  if (debug) { unlink('data/debug/*') }
+  if (debug) { unlink('inst/extdata/debug/*') }
  
   # Add debug path logic
   get_file_path <- function(original_path, is_debug) {
     if (is_debug) {
       # Create debug directory if it doesn't exist
-      dir.create("data/debug", showWarnings = FALSE, recursive = TRUE)
-      # Replace data/ with data/debug/ in the path
-      gsub("^data/", "data/debug/", original_path)
+      dir.create("inst/extdata/debug", showWarnings = FALSE, recursive = TRUE)
+      # Replace data/ with inst/extdata/debug/ in the path
+      gsub("^data/", "inst/extdata/debug/", original_path)
     } else {
       original_path
     }
@@ -87,7 +87,7 @@ update_nascar_data <- function(debug = FALSE, target_year = NULL, target_race = 
     )
     
     # Load existing data from real path, not debug path
-    real_data_file <- gsub("^data/debug/", "data/", config$data_file)
+    real_data_file <- gsub("^inst/extdata/debug/", "data/", config$data_file)
     
     # Try to load the data, with error handling
     tryCatch({
@@ -258,6 +258,6 @@ update_nascar_data <- function(debug = FALSE, target_year = NULL, target_race = 
 
 # Debug mode:
 update_nascar_data(debug = TRUE, target_year = 2024, target_race = 15)
-# load('data/debug/cup_series.rda')
-# load('data/debug/xfinity_series.rda')
-load('data/debug/truck_series.rda')
+# load('inst/extdata/debug/cup_series.rda')
+# load('inst/extdata/debug/xfinity_series.rda')
+load('inst/extdata/debug/truck_series.rda')
