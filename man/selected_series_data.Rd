@@ -4,10 +4,10 @@
 \alias{selected_series_data}
 \title{Filter race data by series}
 \usage{
-selected_series_data(series)
+selected_series_data(the_series)
 }
 \arguments{
-\item{series}{A string specifying the race series. Must be one of
+\item{the_series}{A string specifying the race series. Must be one of
 'cup', 'xfinity', 'truck', or 'all'.}
 }
 \value{

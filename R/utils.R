@@ -7,34 +7,34 @@ NULL
 
 #' Filter race data by series
 #'
-#' @param series A string specifying the race series. Must be one of 
+#' @param the_series A string specifying the race series. Must be one of 
 #'   'cup', 'xfinity', 'truck', or 'all'.
 #' @return A tibble containing race results for the specified series.
 #' @keywords internal
-selected_series_data <- function(series) {
-  the_series <- str_to_lower(series)
-
+selected_series_data <- function(the_series) {
+  
   # Series type is needed for get_* functions to filter properly
   all_race_results <- bind_rows(
-    cup <- cup |> mutate(series = 'cup'),
-    xfinity <- xfinity |> mutate(series = 'xfinity'),
-    truck <- truck |> mutate(series = 'truck')
+    cup <- cup |> mutate(Series = 'Cup'),
+    xfinity <- xfinity |> mutate(Series = 'Xfinity'),
+    truck <- truck |> mutate(Series = 'Truck')
   )
   
-  if (series == 'all') {
+  selected <- str_to_title(the_series)
+
+  if (selected == 'All') {
     return(all_race_results)
 
-  } else if (the_series %in% c('cup', 'xfinity', 'truck')) {
+  } else if (selected %in% c('Cup', 'Xfinity', 'Truck')) {
     filtered <- all_race_results |> 
-      mutate(series = str_to_lower(series)) |>
-      filter(series == the_series)
+      filter(Series == selected)
     return(filtered)
 
   } else {
     rlang::abort(
-      message = paste(str_to_title(series), "series does not exist."),
+      message = paste(str_to_title(the_series), "series does not exist."),
       class = "nascaR_invalid_series",
-      series = series,
+      series = the_series,
       valid_series = c("cup", "xfinity", "truck", "all")
     )
   }

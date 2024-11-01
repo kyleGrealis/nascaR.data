@@ -12,8 +12,8 @@ find_manufacturer <- function(df, manufacturer) {
   
   # Create a list of manufacturers
   manufacturer_list <- df |> 
-    mutate(manufacturer = str_to_lower(manufacturer)) |> 
-    pull(manufacturer)
+    mutate(Make = str_to_lower(Make)) |> 
+    pull(Make)
  
   # Calculate distance of entered name and those in list of manufacturers
   entered_name <- str_to_lower(manufacturer)
@@ -42,14 +42,13 @@ find_manufacturer <- function(df, manufacturer) {
 #'
 #' @param race_data A tibble containing NASCAR race data
 #' @param the_manufacturer Character string of manufacturer name
-#' @return A tibble filtered for the specified manufacturer with win column added
+#' @return A tibble filtered for the specified manufacturer 
 #' @keywords internal
 #' @noRd
 filter_manufacturer_data <- function(race_data, the_manufacturer) {
   race_results <- 
     race_data |>
-    filter(manufacturer == str_to_title(the_manufacturer)) |>
-    mutate(win = if_else(finish == 1, 1, 0))
+    filter(Make == str_to_title(the_manufacturer))
   return(race_results)  
 }
  
@@ -87,7 +86,7 @@ filter_manufacturer_data <- function(race_data, the_manufacturer) {
 #' get_manufacturer_info("Chevrolet", series = "truck", type = "season")
 
 get_manufacturer_info <- function(manufacturer, series = 'all', type = 'summary') {
-  race_series <- selected_series_data(series = series)
+  race_series <- selected_series_data(the_series = series)
   the_manufacturer <- find_manufacturer(df = race_series, manufacturer = manufacturer)
   race_results <- filter_manufacturer_data(race_data = race_series, the_manufacturer = the_manufacturer)
  
@@ -96,30 +95,28 @@ get_manufacturer_info <- function(manufacturer, series = 'all', type = 'summary'
   if (type == 'season') {
     manufacturer_table <- 
       race_results |>
-      group_by(series, season) |>
+      group_by(Series, Season) |>
       summarize(
-        season_races = n_distinct(race_name),
-        wins = sum(win, na.rm = TRUE),
-        best_finish = min(finish),
-        average_finish = round(mean(finish, na.rm = TRUE), 1),
-        laps_raced = sum(laps, na.rm = TRUE),
-        laps_led = sum(led, na.rm = TRUE),
-        total_money = scales::dollar(sum(money, na.rm = TRUE))
+        Races = n_distinct(race_name),
+        Wins = sum(Win, na.rm = TRUE),
+        `Best Finish` = min(Finish),
+        `Avg Finish` = round(mean(Finish, na.rm = TRUE), 1),
+        `Laps Raced` = sum(Laps, na.rm = TRUE),
+        `Laps Led` = sum(Led, na.rm = TRUE)
       )
       return(manufacturer_table)
   } else if (type == 'summary') {
     manufacturer_table <- 
       race_results |>
-      group_by(series) |>
+      group_by(Series) |>
       summarize(
-        number_of_seasons = n_distinct(season),
-        manufacturer_races = n(),
-        wins = sum(win, na.rm = TRUE),
-        best_finish = min(finish),
-        average_finish = round(mean(finish, na.rm = TRUE), 1),
-        laps_raced = sum(laps, na.rm = TRUE),
-        laps_led = sum(led, na.rm = TRUE),
-        total_money = scales::dollar(sum(money, na.rm = TRUE))
+        Seasons = n_distinct(Season),
+        Races = n(),
+        Wins = sum(Win, na.rm = TRUE),
+        `Best Finish` = min(Finish, na.rm = TRUE),
+        `Avg Finish` = round(mean(Finish, na.rm = TRUE), 1),
+        `Laps Raced` = sum(Laps, na.rm = TRUE),
+        `Laps Led` = sum(Led, na.rm = TRUE)
       )
       return(manufacturer_table)
   } else if (type == 'all') {  
