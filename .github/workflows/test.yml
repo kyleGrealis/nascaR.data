@@ -1,7 +1,10 @@
 name: Test NASCAR Update
 
 on:
-  workflow_dispatch:    # Just manual triggering for now
+  workflow_dispatch:    # Manual triggering for now
+  push:
+    branches:
+      - dev            # Explicitly allow running on dev branch
 
 jobs:
   test:
