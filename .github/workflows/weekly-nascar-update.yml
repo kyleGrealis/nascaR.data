@@ -63,28 +63,28 @@ jobs:
               body: 'The debug run of the NASCAR data update script failed. Please check the GitHub Actions logs.'
             })
 
-    #  - name: Production Run
-    #    if: steps.debug-run.outcome == 'success'
-    #    run: |
-    #      Rscript inst/updates/run_update.R
+      - name: Production Run
+        if: steps.debug-run.outcome == 'success'
+        run: |
+          Rscript inst/updates/run_update.R
 
-    #  - name: Commit and Push Changes
-    #    if: steps.debug-run.outcome == 'success'
-    #    run: |
-    #      git config --local user.email "actions@github.com"
-    #      git config --local user.name "GitHub Actions"
-    #      git add data/*.rda
-    #      git commit -m "Update NASCAR data [automated]" || echo "No changes to commit"
-    #      git push
+      - name: Commit and Push Changes
+        if: steps.debug-run.outcome == 'success'
+        run: |
+          git config --local user.email "actions@github.com"
+          git config --local user.name "GitHub Actions"
+          git add data/*.rda
+          git commit -m "Update NASCAR data [automated]" || echo "No changes to commit"
+          git push
       
-    # - name: Create Issue on Production Failure
-    #     if: steps.production-run.outcome == 'failure'
-    #     uses: actions/github-script@v6
-    #     with:
-    #       script: |
-    #         github.rest.issues.create({
-    #           owner: context.repo.owner,
-    #           repo: context.repo.repo,
-    #           title: 'NASCAR Data Production Update Failed',
-    #           body: 'The production run failed after successful debug. Please check the GitHub Actions logs.'
-    #         })
+      - name: Create Issue on Production Failure
+        if: steps.production-run.outcome == 'failure'
+        uses: actions/github-script@v6
+        with:
+          script: |
+            github.rest.issues.create({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              title: 'NASCAR Data Production Update Failed',
+              body: 'The production run failed after successful debug. Please check the GitHub Actions logs.'
+            })
