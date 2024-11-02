@@ -93,14 +93,14 @@ update_nascar_data <- function(debug = FALSE, target_year = NULL, target_race = 
     tryCatch({
       # Load the specific dataset based on series name
       if (series_name == "cup") {
-        load(real_data_file)  # Loads cup_series
-        existing_data <- cup_series
+        load(real_data_file)
+        existing_data <- cup
       } else if (series_name == "xfinity") {
-        load(real_data_file)  # Loads xfinity_series
-        existing_data <- xfinity_series
+        load(real_data_file)
+        existing_data <- xfinity
       } else if (series_name == "truck") {
-        load(real_data_file)  # Loads truck_series
-        existing_data <- truck_series
+        load(real_data_file)
+        existing_data <- truck
       }
     }, error = function(e) {
       # If file doesn't exist, create empty data frame with required columns
