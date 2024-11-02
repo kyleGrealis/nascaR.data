@@ -1,13 +1,12 @@
+
+# Normal update mode:
+# update_nascar_data()
+
 # Load required packages
 library(purrr)      # for walk, map_dfr, keep
 library(rvest)      # for read_html, html_elements, html_table
 library(dplyr)      # for mutate, select, left_join, rename
 library(stringr)    # for str_detect, str_remove, str_split
-
-# Load existing datasets
-load("data/cup_series.rda")
-load("data/xfinity_series.rda")
-load("data/truck_series.rda")
 
 source("inst/updates/nascar_update.R")
 current_month <- as.numeric(format(Sys.Date(), "%m"))
