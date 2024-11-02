@@ -1,4 +1,0 @@
-url: https://kylegrealis.github.io/nascaR.data/
-template:
-  bootstrap: 5
-  package: docs/nascaR.data_vignette.qmd
