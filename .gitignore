@@ -172,4 +172,4 @@ docs
 nascaR.data.Rcheck
 cran-comments*
 CRAN-SUBMISSION*
-data/debug
+inst/extdata/debug/
