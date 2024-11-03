@@ -14,7 +14,7 @@
 #' @noRd
 update_nascar_data <- function(debug = FALSE, target_year = NULL, target_race = NULL) {
   if (debug && (is.null(target_year) || is.null(target_race))) {
-    stop("When debug is TRUE, both target_year and target_race must be specified")
+    stop('When debug is TRUE, both target_year and target_race must be specified')
   }
 
   # Clear debug data files
@@ -24,9 +24,9 @@ update_nascar_data <- function(debug = FALSE, target_year = NULL, target_race = 
   get_file_path <- function(original_path, is_debug) {
     if (is_debug) {
       # Create debug directory if it doesn't exist
-      dir.create("inst/extdata/debug", showWarnings = FALSE, recursive = TRUE)
+      dir.create('inst/extdata/debug', showWarnings = FALSE, recursive = TRUE)
       # Replace data/ with inst/extdata/debug/ in the path
-      gsub("^data/", "inst/extdata/debug/", original_path)
+      gsub('^data/', 'inst/extdata/debug/', original_path)
     } else {
       original_path
     }
@@ -35,19 +35,19 @@ update_nascar_data <- function(debug = FALSE, target_year = NULL, target_race = 
   # Series configurations with debug paths
   series_config <- list(
     cup = list(
-      base_url = "https://www.driveraverages.com/nascar/",
-      data_file = get_file_path("data/cup_series.rda", debug),
-      track_info = "inst/updates/cup_track_info.rda"
+      base_url = 'https://www.driveraverages.com/nascar/',
+      data_file = get_file_path('data/cup_series.rda', debug),
+      track_info = 'inst/updates/cup_track_info.rda'
     ),
     xfinity = list(
-      base_url = "https://www.driveraverages.com/nascar_xfinityseries/",
-      data_file = get_file_path("data/xfinity_series.rda", debug),
-      track_info = "inst/updates/xfinity_track_info.rda"
+      base_url = 'https://www.driveraverages.com/nascar_xfinityseries/',
+      data_file = get_file_path('data/xfinity_series.rda', debug),
+      track_info = 'inst/updates/xfinity_track_info.rda'
     ),
     truck = list(
-      base_url = "https://www.driveraverages.com/nascar_truckseries/",
-      data_file = get_file_path("data/truck_series.rda", debug),
-      track_info = "inst/updates/truck_track_info.rda"
+      base_url = 'https://www.driveraverages.com/nascar_truckseries/',
+      data_file = get_file_path('data/truck_series.rda', debug),
+      track_info = 'inst/updates/truck_track_info.rda'
     )
   )
   
@@ -77,50 +77,50 @@ update_nascar_data <- function(debug = FALSE, target_year = NULL, target_race = 
   # Update function for each series
   update_series <- function(series_name, config) {
     message(
-      # "Updating Cup Series data..." or
-      # "Updating Cup Series data... (DEBUG MODE)"
+      # 'Updating Cup Series data...' or
+      # 'Updating Cup Series data... (DEBUG MODE)'
       paste(
-        "\nUpdating", toupper(series_name), 
-        "Series data...",
-        if(debug) "(DEBUG MODE)" else ""
+        '\nUpdating', toupper(series_name), 
+        'Series data...',
+        if(debug) '(DEBUG MODE)' else ''
       )
     )
     
     # Load existing data from real path, not debug path
-    real_data_file <- gsub("^inst/extdata/debug/", "data/", config$data_file)
+    real_data_file <- gsub('^inst/extdata/debug/', 'data/', config$data_file)
     
     # Try to load the data, with error handling
     tryCatch({
       # Load the specific dataset based on series name
-      if (series_name == "cup") {
+      if (series_name == 'cup') {
         load(real_data_file)
         existing_data <- cup_series
-      } else if (series_name == "xfinity") {
+      } else if (series_name == 'xfinity') {
         load(real_data_file)
         existing_data <- xfinity_series
-      } else if (series_name == "truck") {
+      } else if (series_name == 'truck') {
         load(real_data_file)
         existing_data <- truck_series
       }
     }, error = function(e) {
       # If file doesn't exist, create empty data frame with required columns
-      message("No existing data found. Creating debug dataset...")
+      message('No existing data found. Creating debug dataset...')
     })
     
     # Try to load track info, with error handling
     tryCatch({
-      if (series_name == "cup") {
+      if (series_name == 'cup') {
         load(config$track_info)  # Loads cup_track_info
         track_info_data <- cup_track_info
-      } else if (series_name == "xfinity") {
+      } else if (series_name == 'xfinity') {
         load(config$track_info)  # Loads xfinity_track_info
         track_info_data <- xfinity_track_info
-      } else if (series_name == "truck") {
+      } else if (series_name == 'truck') {
         load(config$track_info)  # Loads truck_track_info
         track_info_data <- truck_track_info
       }
     }, error = function(e) {
-      message("No track info found. Proceeding without track data...")
+      message('No track info found. Proceeding without track data...')
       track_info_data <<- data.frame(
         Track = character(),
         Length = numeric(),
@@ -139,22 +139,34 @@ update_nascar_data <- function(debug = FALSE, target_year = NULL, target_race = 
     }
     
     # Get new race data
-    season_url <- paste0(config$base_url, "year.php?yr_id=", current_year)
+    season_url <- paste0(config$base_url, 'year.php?yr_id=', current_year)
     
     new_links <- get_page_with_retry(season_url) |> 
       html_elements('div#Div2Nav ul a') |> 
       html_attr('href') |> 
       keep(~str_detect(., 'race.php?'))
     
-    message(paste("Found", length(new_links), "total races"))
-    message(paste("Processing races after race number:", current_race))
+    message(paste('Found', length(new_links), 'total races'))
+    message(paste('Processing races after race number:', current_race))
+
+    # Add check for being up to date
+    if (length(new_links) <= current_race) {
+      message(
+        paste(
+          # Cup Series is up to date with 20 races
+          str_to_title(series_name), 'Series is up-to-date with', 
+          current_race, 'races!'
+        )
+      )
+      return()
+    }
     
     # Only process races after current_race
     new_links <- new_links[(current_race + 1):length(new_links)]
     
     # Add check for empty links
     if (length(new_links) == 0) {
-      message("No new races found to process")
+      message('No new races found to process')
       return()
     }
     
@@ -171,8 +183,8 @@ update_nascar_data <- function(debug = FALSE, target_year = NULL, target_race = 
       race_name <- parts[1]
       track_name <- parts[2]
       
-      # message(paste("Race:", race_name))
-      message(paste("Track:", track_name))
+      # message(paste('Race:', race_name))
+      message(paste('Track:', track_name))
       
       # Get race data
       race <- page |> 
@@ -198,7 +210,7 @@ update_nascar_data <- function(debug = FALSE, target_year = NULL, target_race = 
       result <- result |> 
         left_join(
           track_info_data |> select(Track, Length, Surface),
-          by = "Track"
+          by = 'Track'
         ) |> 
         # Then select columns in the right order
         select(
@@ -208,7 +220,7 @@ update_nascar_data <- function(debug = FALSE, target_year = NULL, target_race = 
           Rating, Win
         )
       
-      message(paste("Processed", nrow(result), "results for this race\n"))
+      message(paste('Processed', nrow(result), 'results for this race\n'))
       return(result)
     })
     
@@ -221,28 +233,28 @@ update_nascar_data <- function(debug = FALSE, target_year = NULL, target_race = 
       n_new_races <- n_distinct(new_results$Race)
       
       # Save with appropriate name based on series
-      if (series_name == "cup") {
+      if (series_name == 'cup') {
         cup_series <- updated_data
         save(cup_series, file = config$data_file)
-      } else if (series_name == "xfinity") {
+      } else if (series_name == 'xfinity') {
         xfinity_series <- updated_data
         save(xfinity_series, file = config$data_file)
-      } else if (series_name == "truck") {
+      } else if (series_name == 'truck') {
         truck_series <- updated_data
         save(truck_series, file = config$data_file)
       }
       
       message(
         paste(
-          "Added", n_new_races, "new races to", series_name, "series", 
-          if(debug) "(saved to debug directory)" else ""
+          'Added', n_new_races, 'new races to', series_name, 'series', 
+          if(debug) '(saved to debug directory)' else ''
         )
       )
     } else {
       message(
         paste(
-          "No new races found for", series_name, "series", 
-          if(debug) "(DEBUG MODE)" else ""
+          'No new races found for', series_name, 'series', 
+          if(debug) '(DEBUG MODE)' else ''
         )
       )
     }
