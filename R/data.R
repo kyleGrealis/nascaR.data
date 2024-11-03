@@ -42,7 +42,7 @@ utils::globalVariables(c(
 #'   \item{Win}{Binary indicator if driver won the race (1 = yes, 0 = no)}
 #' }
 #' @source Data scraped from Driver Averages (https://www.driveraverages.com)
-"cup"
+"cup_series"
 
 #' NASCAR Xfinity Series Race Data
 #' 
@@ -72,7 +72,7 @@ utils::globalVariables(c(
 #'   \item{Win}{Binary indicator if driver won the race (1 = yes, 0 = no)}
 #' }
 #' @source Data scraped from Driver Averages (https://www.driveraverages.com)
-"xfinity"
+"xfinity_series"
 
 #' NASCAR Truck Series Race Data
 #' 
@@ -102,4 +102,4 @@ utils::globalVariables(c(
 #'   \item{Win}{Binary indicator if driver won the race (1 = yes, 0 = no)}
 #' }
 #' @source Data scraped from Driver Averages (https://www.driveraverages.com)
-"truck"
+"truck_series"

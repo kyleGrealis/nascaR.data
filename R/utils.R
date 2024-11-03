@@ -15,9 +15,9 @@ selected_series_data <- function(the_series) {
   
   # Series type is needed for get_* functions to filter properly
   all_race_results <- bind_rows(
-    cup <- cup |> mutate(Series = 'Cup'),
-    xfinity <- xfinity |> mutate(Series = 'Xfinity'),
-    truck <- truck |> mutate(Series = 'Truck')
+    cup_series <- cup_series |> mutate(Series = 'Cup'),
+    xfinity_series <- xfinity_series |> mutate(Series = 'Xfinity'),
+    truck_series <- truck_series |> mutate(Series = 'Truck')
   )
   
   selected <- str_to_title(the_series)
