@@ -4,10 +4,10 @@ on:
   schedule:
     - cron: '0 0 * * 1'  # Runs at 00:00 on Monday
   workflow_dispatch:      # Manual triggering for testing
-  push:
-    branches:
-      - dev              # Explicitly allow running on dev branch
-      - main
+  # push:
+  #   branches:
+  #     - dev              # Explicitly allow running on dev branch
+  #     - main
 
 jobs:
   update-nascar-data:
