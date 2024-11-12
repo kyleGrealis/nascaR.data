@@ -2,7 +2,7 @@ name: Weekly NASCAR Data Update
 
 on:
   schedule:
-    - cron: '0 0 * * 1'  # Runs at 00:00 on Monday
+    - cron: '0 10 * * 1'  # Runs at 00:00 on Monday
   workflow_dispatch:      # Manual triggering for testing
   # push:
   #   branches:
