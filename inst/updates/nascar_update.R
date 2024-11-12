@@ -134,7 +134,8 @@ update_nascar_data <- function(debug = FALSE, target_year = NULL, target_race = 
       current_year <- target_year
       current_race <- target_race
     } else {
-      current_year <- max(existing_data$Season)
+      # current_year <- max(existing_data$Season)
+      current_year <- as.numeric(format(Sys.Date(), '%Y'))
       current_race <- max(existing_data$Race[existing_data$Season == current_year])
     }
     
@@ -266,7 +267,7 @@ update_nascar_data <- function(debug = FALSE, target_year = NULL, target_race = 
 
 # Usage example:
 # Normal update mode:
-# update_nascar_data()
+update_nascar_data()
 
 # Debug mode:
 # update_nascar_data(debug = TRUE, target_year = 2024, target_race = 15)
