@@ -141,11 +141,12 @@ update_nascar_data <- function(debug = FALSE, target_year = NULL, target_race = 
 
     browser()
 
-    # Add check for being out of season or site not updated
+    # Add check for being off-season or site not updated
     if (is.infinite(current_race) || current_race < 1) {
       message(
         paste(
-          str_to_title(series_name), 'Series is up-to-date. It may be out of season right now.'
+          str_to_title(series_name), 
+          'Series is up-to-date. It may be off-season right now.'
         )
       )
       return(NULL)
