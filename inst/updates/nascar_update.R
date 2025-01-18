@@ -8,11 +8,20 @@
 #' Debug mode allows to review scraping process and output of new races before 
 #' configuring automated GitHub Actions.
 #'
-#' @param debug Logical. If TRUE, uses manual target year and race
-#' @param target_year Numeric. Specify year when debug is TRUE
-#' @param target_race Numeric. Specify race number when debug is TRUE
+#' @param debug Logical. Enables debug mode to allow safe testing of data updates 
+#' without modifying production datasets.
+#' @param target_year Numeric. (Debug mode only) Specifies the year to scrape manually.
+#' @param target_race Numeric. (Debug mode only) Specifies the race number to scrape manually.
+
 #' @noRd
 update_nascar_data <- function(debug = FALSE, target_year = NULL, target_race = NULL) {
+
+  # Storage directories
+  debug_dir <- 'inst/extdata/debug'
+  data_dir <- 'data'
+  updates_dir <- 'inst/updates'
+
+  
   if (debug && (is.null(target_year) || is.null(target_race))) {
     stop('When debug is TRUE, both target_year and target_race must be specified')
   }
@@ -20,36 +29,38 @@ update_nascar_data <- function(debug = FALSE, target_year = NULL, target_race = 
   # Clear debug data files
   if (debug) { unlink('inst/extdata/debug/*') }
  
-  # Add debug path logic
+  # Helper function to build file paths based on debug mode
   get_file_path <- function(original_path, is_debug) {
     if (is_debug) {
       # Create debug directory if it doesn't exist
-      dir.create('inst/extdata/debug', showWarnings = FALSE, recursive = TRUE)
+      dir.create(debug_dir, showWarnings = FALSE, recursive = TRUE)
       # Replace data/ with inst/extdata/debug/ in the path
-      gsub('^data/', 'inst/extdata/debug/', original_path)
+      gsub(paste0('^', data_dir, '/'), paste0(debug_dir, '/'), original_path)
     } else {
       original_path
     }
   }
   
-  # Series configurations with debug paths
+  ### Series Configuration ###
+  # Define URLs and file paths for each series, including debug versions.
   series_config <- list(
     cup = list(
       base_url = 'https://www.driveraverages.com/nascar/',
-      data_file = get_file_path('data/cup_series.rda', debug),
-      track_info = 'inst/updates/cup_track_info.rda'
+      data_file = get_file_path(file.path(data_dir, 'cup_series.rda'), debug),
+      track_info = file.path(updates_dir, 'cup_track_info.rda')
     ),
     xfinity = list(
       base_url = 'https://www.driveraverages.com/nascar_xfinityseries/',
-      data_file = get_file_path('data/xfinity_series.rda', debug),
-      track_info = 'inst/updates/xfinity_track_info.rda'
+      data_file = get_file_path(file.path(data_dir, 'xfinity_series.rda'), debug),
+      track_info = file.path(updates_dir, 'xfinity_track_info.rda')
     ),
     truck = list(
       base_url = 'https://www.driveraverages.com/nascar_truckseries/',
-      data_file = get_file_path('data/truck_series.rda', debug),
-      track_info = 'inst/updates/truck_track_info.rda'
+      data_file = get_file_path(file.path(data_dir, 'truck_series.rda'), debug),
+      track_info = file.path(updates_dir, 'truck_track_info.rda')
     )
   )
+  
   
   # Helper function for page retry logic
   get_page_with_retry <- function(url) {
@@ -57,14 +68,17 @@ update_nascar_data <- function(debug = FALSE, target_year = NULL, target_race = 
     wait_time <- 3
     while (attempts < 5) {
       result <- tryCatch({
+        # Attempt to read the page
         read_html(url)
       }, error = function(e) {
         if (grepl('SSL connection timeout', e$message, ignore.case = TRUE)) {
+          # Retry on SSL timeouts with exponential backoff
           message(paste('SSL timeout occurred. Retrying in', wait_time, 'seconds...'))
           Sys.sleep(wait_time)
           wait_time <<- wait_time * 1.5
           return(NULL)
         } else {
+          # Stop for unexpected errors
           stop(e)
         }
       })
@@ -89,7 +103,7 @@ update_nascar_data <- function(debug = FALSE, target_year = NULL, target_race = 
     # Load existing data from real path, not debug path
     real_data_file <- gsub('^inst/extdata/debug/', 'data/', config$data_file)
     
-    # Try to load the data, with error handling
+    # Load existing data. If the file doesn't exist, a new dataset will be created.
     tryCatch({
       # Load the specific dataset based on series name
       if (series_name == 'cup') {
@@ -103,7 +117,7 @@ update_nascar_data <- function(debug = FALSE, target_year = NULL, target_race = 
         existing_data <- truck_series
       }
     }, error = function(e) {
-      # If file doesn't exist, create empty data frame with required columns
+      # If data doesn't exist, initialize an empty dataset.
       message('No existing data found. Creating debug dataset...')
     })
     
@@ -139,8 +153,6 @@ update_nascar_data <- function(debug = FALSE, target_year = NULL, target_race = 
       current_race <- max(existing_data$Race[existing_data$Season == current_year])
     }
 
-    browser()
-
     # Add check for being off-season or site not updated
     if (is.infinite(current_race) || current_race < 1) {
       message(
@@ -151,6 +163,29 @@ update_nascar_data <- function(debug = FALSE, target_year = NULL, target_race = 
       )
       return(NULL)
     }
+
+    ###################################################################################
+    # DriverAverages.com will sometimes add 1 row for the next week's race. This has 
+    # created issues for this script in the past where this function "thinks" that
+    # there's a race that occurred and skips without processing new data. This check
+    # ensures that new race data can be processed as intended.
+
+    # Drop placeholder rows added for the next week's race.
+    # These rows cause issues when processing new data because they aren't real results.
+    if(
+      nrow(
+        existing_data |> 
+          filter(Season == current_year, Race == current_race)
+      ) == 1
+    ) {
+      # Drop place-holder row and proceed
+      existing_data <- existing_data |> 
+        filter(row_number() <= n() - 1)
+
+      message('\n\nNOTE: 1 row dropped from existing data. See script!!!\n\n')
+    }
+    ###################################################################################
+    ###################################################################################
     
     # Get new race data
     season_url <- paste0(config$base_url, 'year.php?yr_id=', current_year)
@@ -184,11 +219,11 @@ update_nascar_data <- function(debug = FALSE, target_year = NULL, target_race = 
       return()
     }
     
-    # Process new races
+    # Process new race data
     new_results <- map_dfr(new_links, function(link) {
       page <- get_page_with_retry(paste0(config$base_url, link))
       
-      # Extract race details
+      # Extract race & track details
       details <- page |> 
         html_element('td.td-left span.td-bold') |> 
         html_text2()
@@ -200,12 +235,11 @@ update_nascar_data <- function(debug = FALSE, target_year = NULL, target_race = 
       # message(paste('Race:', race_name))
       message(paste('Track:', track_name))
       
-      # Get race data
+      # Extract race table and clean data
       race <- page |> 
         html_table(header = TRUE) |> 
         pluck(3)
       
-      # Process race results with consistent structure
       result <- race |>
         rename(Car = `#`) |> 
         mutate(
