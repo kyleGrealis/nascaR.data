@@ -138,6 +138,18 @@ update_nascar_data <- function(debug = FALSE, target_year = NULL, target_race = 
       current_year <- as.numeric(format(Sys.Date(), '%Y'))
       current_race <- max(existing_data$Race[existing_data$Season == current_year])
     }
+
+    browser()
+
+    # Add check for being out of season or site not updated
+    if (is.infinite(current_race) || current_race < 1) {
+      message(
+        paste(
+          str_to_title(series_name), 'Series is up-to-date. It may be out of season right now.'
+        )
+      )
+      return(NULL)
+    }
     
     # Get new race data
     season_url <- paste0(config$base_url, 'year.php?yr_id=', current_year)
@@ -267,7 +279,7 @@ update_nascar_data <- function(debug = FALSE, target_year = NULL, target_race = 
 
 # Usage example:
 # Normal update mode:
-update_nascar_data()
+# update_nascar_data()
 
 # Debug mode:
 # update_nascar_data(debug = TRUE, target_year = 2024, target_race = 15)
