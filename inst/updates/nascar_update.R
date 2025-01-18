@@ -13,6 +13,7 @@
 #' @param target_race Numeric. Specify race number when debug is TRUE
 #' @noRd
 update_nascar_data <- function(debug = FALSE, target_year = NULL, target_race = NULL) {
+  
   if (debug && (is.null(target_year) || is.null(target_race))) {
     stop('When debug is TRUE, both target_year and target_race must be specified')
   }
@@ -139,8 +140,6 @@ update_nascar_data <- function(debug = FALSE, target_year = NULL, target_race = 
       current_race <- max(existing_data$Race[existing_data$Season == current_year])
     }
 
-    browser()
-
     # Add check for being off-season or site not updated
     if (is.infinite(current_race) || current_race < 1) {
       message(
@@ -151,6 +150,26 @@ update_nascar_data <- function(debug = FALSE, target_year = NULL, target_race = 
       )
       return(NULL)
     }
+
+    ###################################################################################
+    # DriverAverages.com will sometimes add 1 row for the next week's race. This has 
+    # created issues for this script in the past where this function "thinks" that
+    # there's a race that occurred and skips without processing new data. This check
+    # ensures that new race data can be processed as intended.
+    if(
+      nrow(
+        existing_data |> 
+          filter(Season == current_year, Race == current_race)
+      ) == 1
+    ) {
+      # Drop place-holder row and proceed
+      existing_data <- existing_data |> 
+        filter(row_number() <= n() - 1)
+
+      message('\n\nNOTE: 1 row dropped from existing data. See script!!!\n\n')
+    }
+    ###################################################################################
+    ###################################################################################
     
     # Get new race data
     season_url <- paste0(config$base_url, 'year.php?yr_id=', current_year)
