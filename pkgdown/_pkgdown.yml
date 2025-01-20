@@ -1,0 +1,36 @@
+url: https://kylegrealis.github.io/nascaR.data/
+template:
+  bootstrap: 5
+  light-switch: true
+  bslib:
+    font-size: 0.9rem
+    border-radius: 0.5rem
+    btn-border-radius: 0.25rem
+
+navbar:
+  structure:
+    left: [intro, reference, articles, news]
+    right: [search, github]
+  components:
+    new:
+      text: Changelog
+      href: news/index.html
+  
+articles:
+  - title: Green Flag
+
+reference:
+  - title: "Data"
+    desc: "nascaR.data available datasets"
+    contents:
+      - cup_series
+      - xfinity_series
+      - truck_series
+  
+  - title: "Explorer functions"
+    desc: "Find race performance results"
+    contents:
+      - get_driver_info
+      - get_team_info
+      - get_manufacturer_info
+
