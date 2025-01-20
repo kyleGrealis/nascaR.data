@@ -31,7 +31,9 @@ find_driver <- function(df, the_driver) {
     if (answer %in% c('y', 'yes', 'ye', 'yeah', 'yup')) {
       return(closest_match)
     } else {
-      stop('\nPlease check the spelling & try your search function again.')
+      message('\nEither the spelling is incorrect or that driver does not compete in that series.')
+      message('Please check the spelling & try your search function again.')
+      return(NULL)
     }
   }
   return(closest_match)
@@ -60,7 +62,11 @@ filter_driver_data <- function(race_data, the_driver) {
 #' @param driver Character string of driver name (case-insensitive, fuzzy matching
 #'   available)
 #' @param series Character string specifying the racing series to analyze. Must be
-#'   one of 'all' (default), 'cup', 'xfinity', or 'truck'
+#'   one of:
+#'   * 'all' (default)
+#'   * 'Cup' 
+#'   * 'Xfinity'
+#'   * 'Truck'
 #' @param type Character string specifying the type of summary to return. Must be
 #'   one of:
 #'   * 'summary' (default): Career statistics grouped by series
@@ -72,8 +78,6 @@ filter_driver_data <- function(race_data, the_driver) {
 #'   * For type = 'season': Season-by-season breakdown
 #'   * For type = 'all': Complete race-by-race data
 #'
-#' @export
-#'
 #' @examples
 #' # Get career summary for Kyle Busch across all series
 #' get_driver_info("Kyle Busch")
@@ -83,12 +87,29 @@ filter_driver_data <- function(race_data, the_driver) {
 #'
 #' # Get season-by-season breakdown for Truck series
 #' get_driver_info("Kyle Busch", series = "truck", type = "season")
+#' 
+#' @export
 get_driver_info <- function(driver, series = 'all', type = 'summary') {
+
+  # Input validation:
+  if (is.null(driver) || is.null(series) || is.null(summary)) {
+    stop('Please enter correct values. See `?get_driver_info`')
+  }
+  if (!str_to_lower(series) %in% c('cup', 'xfinity', 'truck', 'all')) {
+    stop('Invalid `series`. See `?get_driver_info`')
+  }
+  if (!str_to_lower(type) %in% c('summary', 'season', 'all')) {
+    stop('Invalid `type`. See `?get_driver_info`')
+  }
 
   # Filter all race data for selected series
   race_series <- selected_series_data(the_series = series)
   # Find driver name
   the_driver <- find_driver(df = race_series, the_driver = driver)
+
+  # Handle when either not who the user was looking for or no data for specified driver
+  if (is.null(the_driver)) return(invisible(NULL))
+  
   # Get all driver's data
   race_results <- filter_driver_data(race_data = race_series, the_driver = the_driver)
 
@@ -118,8 +139,7 @@ get_driver_info <- function(driver, series = 'all', type = 'summary') {
         `Best Finish` = min(Finish, na.rm = TRUE),
         `Avg Finish` = round(mean(Finish, na.rm = TRUE), 1),
         `Laps Raced` = sum(Laps, na.rm = TRUE),
-        `Laps Led` = sum(Led, na.rm = TRUE),
-        # total_money = scales::dollar(sum(money, na.rm = TRUE))
+        `Laps Led` = sum(Led, na.rm = TRUE)
       )
       return(driver_table)
   } else if (type == 'all') {  

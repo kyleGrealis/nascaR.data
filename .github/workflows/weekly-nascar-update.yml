@@ -1,30 +1,41 @@
 name: Weekly NASCAR Data Update
 
 on:
+  # Schedule the workflow to run weekly at 10:00 UTC (5AM) every Monday
   schedule:
-    - cron: '0 10 * * 1'  # Runs at 00:00 on Monday
-  workflow_dispatch:      # Manual triggering for testing
+    - cron: '0 10 * * 1'
+  
+  # Allow manual triggering for testing & debugging
+  workflow_dispatch:
+
+  # Uncomment the following to allow the workflow to run only when changes are pushed
+  # to specific branches (optional)
   # push:
   #   branches:
-  #     - dev              # Explicitly allow running on dev branch
   #     - main
+  #     - weekly
 
 jobs:
   update-nascar-data:
     runs-on: ubuntu-latest
     permissions:
-      contents: write
-      issues: write    # This is needed for creating issues
+      contents: write  # Required to commit & push changes
+      issues: write    # Needed to create GitHub Issues on failures
       
     env:
-      GITHUB_PAT: ${{ secrets.GITHUB_TOKEN }}
+      GITHUB_PAT: ${{ secrets.GITHUB_TOKEN }}  # Token for repository actions
+
     steps:
+
+      # Step 1: Checkout the repository code
       - uses: actions/checkout@v3
       
+      # Step 2: Set up the R environment
       - uses: r-lib/actions/setup-r@v2
         with:
-          use-public-rspm: true
+          use-public-rspm: true  # Use RStudio's public package manager for dependencies
 
+      # Step 3: Install R package dependencies
       - uses: r-lib/actions/setup-r-dependencies@v2
         with:
           extra-packages: |
@@ -39,21 +50,24 @@ jobs:
             any::roxygen2
             any::scales
 
+      # Step 4: Run the debug script to verify the scraper
       - name: Debug Run
         id: debug-run
         continue-on-error: true
         run: |
           Rscript inst/updates/run_debug.R
 
+      # Step 5: Upload debug files for review in case of failures
       - name: Upload Debug Files
-        if: always()
+        if: always()  # Always upload the debug artifacts regardless of outcome
         uses: actions/upload-artifact@v3
         with:
           name: debug-files
           path: inst/extdata/debug/
 
+      # Step 6: Create a GitHub Issue if the debug script fails
       - name: Create Issue on Debug Failure
-        if: steps.debug-run.outcome == 'failure'
+        if: steps.debug-run.outcome == 'failure'  # Identifies if debug failed
         uses: actions/github-script@v6
         with:
           script: |
@@ -64,23 +78,27 @@ jobs:
               body: 'The debug run of the NASCAR data update script failed. Please check the GitHub Actions logs.'
             })
 
+      # Step 7: Run the production script only if the debug script succeeds
       - name: Production Run
         if: steps.debug-run.outcome == 'success'
         run: |
           Rscript inst/updates/run_update.R
 
+      # Step 8: Commit & push changes to the 'weekly' branch
       - name: Commit and Push Changes
         id: production-run
         if: steps.debug-run.outcome == 'success'
         run: |
           git config --local user.email "actions@github.com"
           git config --local user.name "GitHub Actions"
+          git checkout -b weekly || git checkout weekly
           git add data/*.rda
           git commit -m "Update NASCAR data [automated]" || echo "No changes to commit"
-          git push
+          git push origin weekly || true
       
+      # Step 9: Create a GitHub Issue if the production script fails
       - name: Create Issue on Production Failure
-        if: steps.production-run.outcome == 'failure'
+        if: steps.production-run.outcome == 'failure'  # Identifies if production failed
         uses: actions/github-script@v6
         with:
           script: |

@@ -142,19 +142,23 @@ update_nascar_data <- function(debug = FALSE, target_year = NULL, target_race = 
         stringsAsFactors = FALSE
       )
     })
+
+    # browser()
     
     # Determine where to start scraping
+    # current_year = year as determined by Sys.Date()
+    # last_completed_race = number index of race
     if (debug) {
       current_year <- target_year
-      current_race <- target_race
+      last_completed_race <- target_race
     } else {
-      # current_year <- max(existing_data$Season)
-      current_year <- as.numeric(format(Sys.Date(), '%Y'))
-      current_race <- max(existing_data$Race[existing_data$Season == current_year])
+      current_year <- 2024  # hard-coding year for debugging
+      # current_year <- as.numeric(format(Sys.Date(), '%Y'))
+      last_completed_race <- max(existing_data$Race[existing_data$Season == current_year])
     }
 
     # Add check for being off-season or site not updated
-    if (is.infinite(current_race) || current_race < 1) {
+    if (is.infinite(last_completed_race) || last_completed_race < 1) {
       message(
         paste(
           str_to_title(series_name), 
@@ -175,14 +179,20 @@ update_nascar_data <- function(debug = FALSE, target_year = NULL, target_race = 
     if(
       nrow(
         existing_data |> 
-          filter(Season == current_year, Race == current_race)
+          filter(Season == current_year, Race == last_completed_race)
       ) == 1
     ) {
-      # Drop place-holder row and proceed
+      # Drop place-holder row signifying that the race wasn't actually completed 
+      # and proceed with processing. Also, decrease the last_completed_race index
+      # by 1 so it reflects the true index for the last completed race.
       existing_data <- existing_data |> 
         filter(row_number() <= n() - 1)
 
-      message('\n\nNOTE: 1 row dropped from existing data. See script!!!\n\n')
+      last_completed_race = last_completed_race - 1
+
+      message(
+        '\n\nNOTE: 1 row dropped from existing data & index updated. See script!!!\n\n'
+      )
     }
     ###################################################################################
     ###################################################################################
@@ -196,22 +206,22 @@ update_nascar_data <- function(debug = FALSE, target_year = NULL, target_race = 
       keep(~str_detect(., 'race.php?'))
     
     message(paste('Found', length(new_links), 'total races'))
-    message(paste('Processing races after race number:', current_race))
+    message(paste('Processing races after race number:', last_completed_race))
 
     # Add check for being up to date
-    if (length(new_links) <= current_race) {
+    if (length(new_links) <= last_completed_race) {
       message(
         paste(
           # Cup Series is up to date with 20 races
           str_to_title(series_name), 'Series is up-to-date with', 
-          current_race, 'races!'
+          last_completed_race, 'races!'
         )
       )
       return()
     }
     
-    # Only process races after current_race
-    new_links <- new_links[(current_race + 1):length(new_links)]
+    # Only process races after last_completed_race
+    new_links <- new_links[(last_completed_race + 1):length(new_links)]
     
     # Add check for empty links
     if (length(new_links) == 0) {
@@ -245,7 +255,7 @@ update_nascar_data <- function(debug = FALSE, target_year = NULL, target_race = 
         mutate(
           Season = as.integer(current_year),
           Race = as.integer(
-            current_race + seq_along(new_links)[which(new_links == link)]
+            last_completed_race + seq_along(new_links)[which(new_links == link)]
           ),
           Car = str_remove(Car, '#'),
           Track = track_name,
