@@ -1,0 +1,8 @@
+pandoc: 3.1.11
+pkgdown: 2.1.1
+pkgdown_sha: ~
+articles: {}
+last_built: 2025-01-20T21:50Z
+urls:
+  reference: https://kylegrealis.github.io/nascaR.data/reference
+  article: https://kylegrealis.github.io/nascaR.data/articles
