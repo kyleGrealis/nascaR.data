@@ -1,4 +1,4 @@
-# nascaR.data <img src="inst/images/hex-logo.png" alt="nascaR.data Logo" align="right" height="130"/>
+# nascaR.data <a href="https://kylegrealis.github.io/nascaR.data/"><img src="man/figures/logo.svg" align="right" height="139" alt="nascaR.data website" /></a>
 
 
 [![R-CMD-check](https://img.shields.io/badge/R--CMD--check-passing-brightgreen)](https://github.com/kyleGrealis/nascaR.data/actions)
