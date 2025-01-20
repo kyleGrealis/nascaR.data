@@ -32,7 +32,9 @@ find_manufacturer <- function(df, manufacturer) {
     if (answer %in% c('y', 'yes', 'ye', 'yeah', 'yup')) {
       return(closest_match)
     } else {
-      stop('\nPlease check the spelling & try your search function again.')
+      message('\nEither the spelling is incorrect or that manufacturer does not compete in that series.')
+      message('Please check the spelling & try your search function again.')
+      return(NULL)
     }
   }
   return(closest_match)
@@ -61,7 +63,11 @@ filter_manufacturer_data <- function(race_data, the_manufacturer) {
 #' @param manufacturer Character string specifying a manufacturer name (case-insensitive, fuzzy matching
 #'   available)
 #' @param series Character string specifying the racing series to analyze. Must be
-#'   one of 'all' (default), 'cup', 'xfinity', or 'truck'
+#'   one of:
+#'   * 'all' (default)
+#'   * 'Cup' 
+#'   * 'Xfinity'
+#'   * 'Truck'
 #' @param type Character string specifying the type of summary to return. Must be
 #'   one of:
 #'   * 'summary' (default): Career statistics grouped by series
@@ -73,8 +79,6 @@ filter_manufacturer_data <- function(race_data, the_manufacturer) {
 #'   * For type = 'season': Season-by-season breakdown
 #'   * For type = 'all': Complete race-by-race data
 #'
-#' @export
-#'
 #' @examples
 #' # Get career summary for Toyota across all series
 #' get_manufacturer_info("Toyota")
@@ -84,10 +88,31 @@ filter_manufacturer_data <- function(race_data, the_manufacturer) {
 #'
 #' # Get season-by-season breakdown for Truck series
 #' get_manufacturer_info("Chevrolet", series = "truck", type = "season")
+#'
+#' @export
 
 get_manufacturer_info <- function(manufacturer, series = 'all', type = 'summary') {
+
+  # Input validation:
+  if (is.null(manufacturer) || is.null(series) || is.null(summary)) {
+    stop('Please enter correct values. See `?get_manufacturer_info`')
+  }
+  if (!str_to_lower(series) %in% c('cup', 'xfinity', 'truck', 'all')) {
+    stop('Invalid `series`. See `?get_manufacturer_info`')
+  }
+  if (!str_to_lower(type) %in% c('summary', 'season', 'all')) {
+    stop('Invalid `type`. See `?get_manufacturer_info`')
+  }
+  
+  # Filter all race data for selected series
   race_series <- selected_series_data(the_series = series)
+  # Find manufacturer name
   the_manufacturer <- find_manufacturer(df = race_series, manufacturer = manufacturer)
+
+  # Handle when either not who the user was looking for or no data for specified manufacturer
+  if (is.null(the_manufacturer)) return(invisible(NULL))
+  
+  # Get all manufacturer's data
   race_results <- filter_manufacturer_data(race_data = race_series, the_manufacturer = the_manufacturer)
  
   message(str_to_title(the_manufacturer))

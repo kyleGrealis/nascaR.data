@@ -31,7 +31,9 @@ find_team <- function(df, the_team) {
     if (answer %in% c('y', 'yes', 'ye', 'yeah', 'yup')) {
       return(closest_match)
     } else {
-      stop('\nPlease check the spelling & try your search function again.')
+      message('\nEither the spelling is incorrect or that team does not compete in that series.')
+      message('Please check the spelling & try your search function again.')
+      return(NULL)
     }
   }
   return(closest_match)
@@ -60,7 +62,11 @@ filter_team_data <- function(race_data, the_team) {
 #' @param team Character string specifying an team name (case-insensitive, fuzzy matching
 #'   available)
 #' @param series Character string specifying the racing series to analyze. Must be
-#'   one of 'all' (default), 'cup', 'xfinity', or 'truck'
+#'   one of:
+#'   * 'all' (default)
+#'   * 'Cup' 
+#'   * 'Xfinity'
+#'   * 'Truck'
 #' @param type Character string specifying the type of summary to return. Must be
 #'   one of:
 #'   * 'summary' (default): Career statistics grouped by series
@@ -72,8 +78,6 @@ filter_team_data <- function(race_data, the_team) {
 #'   * For type = 'season': Season-by-season breakdown
 #'   * For type = 'all': Complete race-by-race data
 #'
-#' @export
-#'
 #' @examples
 #' # Get career summary for Joe Gibbs Racing across all series
 #' get_team_info("Joe Gibbs Racing")
@@ -83,13 +87,30 @@ filter_team_data <- function(race_data, the_team) {
 #'
 #' # Get season-by-season breakdown for Truck series
 #' get_team_info("Joe Gibbs Racing", series = "truck", type = "season")
+#'
+#' @export
 
 get_team_info <- function(team, series = 'all', type = 'summary') {
+
+  # Input validation:
+  if (is.null(team) || is.null(series) || is.null(summary)) {
+    stop('Please enter correct values. See `?get_team_info`')
+  }
+  if (!str_to_lower(series) %in% c('cup', 'xfinity', 'truck', 'all')) {
+    stop('Invalid `series`. See `?get_team_info`')
+  }
+  if (!str_to_lower(type) %in% c('summary', 'season', 'all')) {
+    stop('Invalid `type`. See `?get_team_info`')
+  }
 
   # Filter all race data for selected series
   race_series <- selected_series_data(the_series = series)
   # Find team name
   the_team <- find_team(df = race_series, the_team = team)
+
+  # Handle when either not who the user was looking for or no data for specified team
+  if (is.null(the_team)) return(invisible(NULL))
+  
   # Get all team's data
   race_results <- filter_team_data(race_data = race_series, the_team = the_team)
  

@@ -11,7 +11,13 @@ get_team_info(team, series = "all", type = "summary")
 available)}
 
 \item{series}{Character string specifying the racing series to analyze. Must be
-one of 'all' (default), 'cup', 'xfinity', or 'truck'}
+one of:
+\itemize{
+\item 'all' (default)
+\item 'Cup'
+\item 'Xfinity'
+\item 'Truck'
+}}
 
 \item{type}{Character string specifying the type of summary to return. Must be
 one of:
@@ -43,4 +49,5 @@ get_team_info("Joe Gibbs Racing", series = "cup")
 
 # Get season-by-season breakdown for Truck series
 get_team_info("Joe Gibbs Racing", series = "truck", type = "season")
+
 }
