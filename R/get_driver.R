@@ -89,6 +89,7 @@ filter_driver_data <- function(race_data, the_driver) {
 #' get_driver_info("Kyle Busch", series = "truck", type = "season")
 #' 
 #' @export
+
 get_driver_info <- function(driver, series = 'all', type = 'summary') {
 
   # Input validation:
