@@ -13,11 +13,14 @@
 ^data-raw$
 ^img$
 
-^dev_vignettes$
+dev_vignettes/
+data-raw/
+docs/
+cran-comments.md
 project_notes.md
 .gitignore
-..Rcheck
+..Rcheck/
 .github/
 .git/
 .git*
-
+pkgdown/
