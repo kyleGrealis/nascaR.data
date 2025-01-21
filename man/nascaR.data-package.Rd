@@ -12,6 +12,7 @@ A collection of NASCAR race, driver, owner and manufacturer data across the thre
 Useful links:
 \itemize{
   \item \url{https://kylegrealis.github.io/nascaR.data/}
+  \item Report bugs at \url{https://github.com/kyleGrealis/nascaR.data/issues}
 }
 
 }

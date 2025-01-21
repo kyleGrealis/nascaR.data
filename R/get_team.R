@@ -79,15 +79,17 @@ filter_team_data <- function(race_data, the_team) {
 #'   * For type = 'all': Complete race-by-race data
 #'
 #' @examples
-#' # Get career summary for Joe Gibbs Racing across all series
-#' get_team_info("Joe Gibbs Racing")
+#' if (interactive()) {
+#'   # Get career summary for Joe Gibbs Racing across all series
+#'   get_team_info("Joe Gibbs Racing")
 #'
-#' # Get Cup series statistics only
-#' get_team_info("Joe Gibbs Racing", series = "cup")
+#'   # Get Cup series statistics only
+#'   get_team_info("Joe Gibbs Racing", series = "cup")
 #'
-#' # Get season-by-season breakdown for Truck series
-#' get_team_info("Joe Gibbs Racing", series = "truck", type = "season")
-#'
+#'   # Get season-by-season breakdown for Truck series
+#'   get_team_info("Joe Gibbs Racing", series = "truck", type = "season")
+#' }
+#' 
 #' @export
 
 get_team_info <- function(team, series = 'all', type = 'summary') {

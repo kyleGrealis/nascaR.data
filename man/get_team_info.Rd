@@ -41,13 +41,15 @@ different racing series. The function provides flexibility in viewing career
 summaries, season-by-season breakdowns, or complete race-by-race data.
 }
 \examples{
-# Get career summary for Joe Gibbs Racing across all series
-get_team_info("Joe Gibbs Racing")
+if (interactive()) {
+  # Get career summary for Joe Gibbs Racing across all series
+  get_team_info("Joe Gibbs Racing")
 
-# Get Cup series statistics only
-get_team_info("Joe Gibbs Racing", series = "cup")
+  # Get Cup series statistics only
+  get_team_info("Joe Gibbs Racing", series = "cup")
 
-# Get season-by-season breakdown for Truck series
-get_team_info("Joe Gibbs Racing", series = "truck", type = "season")
+  # Get season-by-season breakdown for Truck series
+  get_team_info("Joe Gibbs Racing", series = "truck", type = "season")
+}
 
 }

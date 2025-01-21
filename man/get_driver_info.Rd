@@ -41,13 +41,15 @@ different racing series. The function provides flexibility in viewing career
 summaries, season-by-season breakdowns, or complete race-by-race data.
 }
 \examples{
-# Get career summary for Kyle Busch across all series
-get_driver_info("Kyle Busch")
+if (interactive()) {
+  # Get career summary for Kyle Busch across all series
+  get_driver_info("Kyle Busch")
 
-# Get Cup series statistics only
-get_driver_info("Kyle Busch", series = "cup")
+  # Get Cup series statistics only
+  get_driver_info("Kyle Busch", series = "cup")
 
-# Get season-by-season breakdown for Truck series
-get_driver_info("Kyle Busch", series = "truck", type = "season")
+  # Get season-by-season breakdown for Truck series
+  get_driver_info("Kyle Busch", series = "truck", type = "season")
+}
 
 }
