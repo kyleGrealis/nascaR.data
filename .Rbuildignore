@@ -18,4 +18,6 @@ project_notes.md
 .gitignore
 ..Rcheck
 .github/
-.git
+.git/
+.git*
+
