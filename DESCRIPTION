@@ -1,6 +1,6 @@
 Package: nascaR.data
 Title: NASCAR Race Data
-Version: 2.1.0
+Version: 2.2.0
 Authors@R: 
     c(
         person(
@@ -9,6 +9,12 @@ Authors@R:
             email = "kylegrealis@icloud.com", 
             role = c("aut", "cre"),
             comment = c(ORCID = "0000-0002-9223-8854")
+        ),
+        person(
+            given = "Nick",
+            family = "Triplett",
+            role = "ctb",
+            email = "nicholas.triplett@siu.edu"
         ),
         person(
             given = "Gabriel",
