@@ -60,7 +60,7 @@ jobs:
       # Step 5: Upload debug files for review in case of failures
       - name: Upload Debug Files
         if: always()  # Always upload the debug artifacts regardless of outcome
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v4
         with:
           name: debug-files
           path: inst/extdata/debug/
