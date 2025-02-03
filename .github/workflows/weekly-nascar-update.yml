@@ -28,7 +28,7 @@ jobs:
     steps:
 
       # Step 1: Checkout the repository code
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
       
       # Step 2: Set up the R environment
       - uses: r-lib/actions/setup-r@v2
