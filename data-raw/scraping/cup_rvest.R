@@ -47,8 +47,7 @@ get_page_with_retry <- function(url) {
 
 base_url <- 'https://www.driveraverages.com/nascar/'
 season_url <- 'year.php?yr_id='
-# seasons <- 1949:2024
-seasons <- 2007:2009
+seasons <- 1949:2024
 
 # 1. set empty dataframe
 results <- NULL
@@ -112,24 +111,30 @@ for (season in seasons) {
       # NOTE: fix this
       # Segment position is opposite of what the points should be:
       # S1 == 1 should be 10 pts and S1 == 10 is 1 pt
-      mutate(`Seg Points` = S1 + S2, .after = 'Team') |> 
+      # mutate(`Seg Points` = S1 + S2, .after = 'Team') |> 
       
       
-      mutate(Win = if_else(Finish == 1, 1, 0)) |> 
-      select(-S1, -S2)
+      mutate(Win = if_else(Finish == 1, 1, 0))# |> 
+      # select(-S1, -S2)
 
     results <- bind_rows(results, result)
 
-    save(results, file = 'data/rvest/cup_initial_scrape.rda')
+    save(results, file = glue::glue('data/cup/cup_season_{season}.rda'))
 
   }
 
-  
 }
 
 doParallel::stopImplicitCluster()
 
 message(paste('\nScraping time:', round(Sys.time() - start, 2)))
+
+
+
+
+
+
+
 
 
 ###### merge old cup data with new table

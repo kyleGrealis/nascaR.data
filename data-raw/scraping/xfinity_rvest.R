@@ -107,13 +107,13 @@ for (season in seasons) {
         Name = race_name,
         .before = 'Finish'
       ) |> 
-      mutate(`Seg Points` = S1 + S2, .after = 'Team') |> 
-      mutate(Win = if_else(Finish == 1, 1, 0)) |> 
-      select(-S1, -S2)
+      # mutate(`Seg Points` = S1 + S2, .after = 'Team') |> 
+      mutate(Win = if_else(Finish == 1, 1, 0))# |> 
+      # select(-S1, -S2)
 
     results <- bind_rows(results, result)
 
-    save(results, file = 'data/rvest/xfinity_initial_scrape.rda')
+    save(results, file = glue::glue('data/xfinity/xfinity_season_{season}.rda'))
 
   }
 
@@ -123,6 +123,11 @@ for (season in seasons) {
 doParallel::stopImplicitCluster()
 
 message(paste('\nScraping time:', round(Sys.time() - start, 2)))
+
+
+
+
+
 
 
 ###### merge old cup data with new table
