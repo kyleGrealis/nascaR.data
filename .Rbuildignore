@@ -11,6 +11,7 @@
 ^\.github$
 ^CRAN-SUBMISSION$
 ^data-raw$
+^original-scraping-scripts$
 ^img$
 
 ^dev_vignettes$
