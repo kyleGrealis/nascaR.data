@@ -20,6 +20,7 @@ Useful links:
 
 Other contributors:
 \itemize{
+  \item Nick Triplett \email{nicholas.triplett@siu.edu} [contributor]
   \item Gabriel Odom \email{gabriel.odom@fiu.edu} (\href{https://orcid.org/0000-0003-1341-4555}{ORCID}) [contributor]
 }
 
