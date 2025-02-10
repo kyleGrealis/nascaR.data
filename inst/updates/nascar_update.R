@@ -158,7 +158,7 @@ update_nascar_data <- function(debug = FALSE, target_year = NULL, target_race = 
     }
 
     # Add check for being off-season or site not updated
-    if (is.infinite(last_completed_race) || last_completed_race < 1) {
+    if (is.infinite(last_completed_race) || is.na(last_completed_race) || last_completed_race < 1) {
       message(
         paste(
           str_to_title(series_name), 
