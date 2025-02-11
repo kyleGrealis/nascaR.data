@@ -16,4 +16,6 @@
 
 ^dev_vignettes$
 project_notes.md
-data/by-year
+data/by-year/
+..Rcheck/
+.git/
