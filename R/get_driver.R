@@ -79,14 +79,16 @@ filter_driver_data <- function(race_data, the_driver) {
 #'   * For type = 'all': Complete race-by-race data
 #'
 #' @examples
-#' # Get career summary for Kyle Busch across all series
-#' get_driver_info("Kyle Busch")
+#' if (interactive()) {
+#'   # Get career summary for Kyle Busch across all series
+#'   get_driver_info("Kyle Busch")
 #'
-#' # Get Cup series statistics only
-#' get_driver_info("Kyle Busch", series = "cup")
+#'   # Get Cup series statistics only
+#'   get_driver_info("Kyle Busch", series = "cup")
 #'
-#' # Get season-by-season breakdown for Truck series
-#' get_driver_info("Kyle Busch", series = "truck", type = "season")
+#'   # Get season-by-season breakdown for Truck series
+#'   get_driver_info("Kyle Busch", series = "truck", type = "season")
+#' }
 #' 
 #' @export
 get_driver_info <- function(driver, series = 'all', type = 'summary') {
