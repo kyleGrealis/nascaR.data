@@ -11,7 +11,7 @@ A collection of NASCAR race, driver, owner and manufacturer data across the thre
 \seealso{
 Useful links:
 \itemize{
-  \item \url{https://kylegrealis.github.io/nascaR.data/}
+  \item \url{https://azimuth-project.tech/nascaR.data/}
   \item Report bugs at \url{https://github.com/kyleGrealis/nascaR.data/issues}
 }
 
@@ -21,6 +21,7 @@ Useful links:
 
 Other contributors:
 \itemize{
+  \item Nick Triplett \email{nicholas.triplett@siu.edu} [contributor]
   \item Gabriel Odom \email{gabriel.odom@fiu.edu} (\href{https://orcid.org/0000-0003-1341-4555}{ORCID}) [contributor]
 }
 
