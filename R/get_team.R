@@ -89,7 +89,7 @@ filter_team_data <- function(race_data, the_team) {
 #'   # Get season-by-season breakdown for Truck series
 #'   get_team_info("Joe Gibbs Racing", series = "truck", type = "season")
 #' }
-#'
+#' 
 #' @export
 
 get_team_info <- function(team, series = 'all', type = 'summary') {

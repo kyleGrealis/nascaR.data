@@ -91,6 +91,7 @@ filter_driver_data <- function(race_data, the_driver) {
 #' }
 #' 
 #' @export
+
 get_driver_info <- function(driver, series = 'all', type = 'summary') {
 
   # Input validation:

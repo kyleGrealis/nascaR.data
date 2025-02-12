@@ -14,8 +14,14 @@
 ^original-scraping-scripts$
 ^img$
 
-^dev_vignettes$
+dev_vignettes/
+data-raw/
+docs/
+cran-comments.md
 project_notes.md
-data/by-year/
+.gitignore
 ..Rcheck/
+.github/
 .git/
+.git*
+pkgdown/
