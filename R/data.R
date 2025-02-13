@@ -37,7 +37,8 @@ utils::globalVariables(c(
 #'   \item{Laps}{Number of laps completed}
 #'   \item{Led}{Number of laps led}
 #'   \item{Status}{Race completion status (e.g., "running", "crash")}
-#'   \item{Seg Points}{Points earned in race segments}
+#'   \item{S1}{Segment 1 finish position}
+#'   \item{S2}{Segment 2 finish position}
 #'   \item{Rating}{Driver rating for the race}
 #'   \item{Win}{Binary indicator if driver won the race (1 = yes, 0 = no)}
 #' }
@@ -67,7 +68,8 @@ utils::globalVariables(c(
 #'   \item{Laps}{Number of laps completed}
 #'   \item{Led}{Number of laps led}
 #'   \item{Status}{Race completion status (e.g., "running", "crash")}
-#'   \item{Seg Points}{Points earned in race segments}
+#'   \item{S1}{Segment 1 finish position}
+#'   \item{S2}{Segment 2 finish position}
 #'   \item{Rating}{Driver rating for the race}
 #'   \item{Win}{Binary indicator if driver won the race (1 = yes, 0 = no)}
 #' }
@@ -97,7 +99,8 @@ utils::globalVariables(c(
 #'   \item{Laps}{Number of laps completed}
 #'   \item{Led}{Number of laps led}
 #'   \item{Status}{Race completion status (e.g., "running", "crash")}
-#'   \item{Seg Points}{Points earned in race segments}
+#'   \item{S1}{Segment 1 finish position}
+#'   \item{S2}{Segment 2 finish position}
 #'   \item{Rating}{Driver rating for the race}
 #'   \item{Win}{Binary indicator if driver won the race (1 = yes, 0 = no)}
 #' }

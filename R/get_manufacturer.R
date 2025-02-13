@@ -80,14 +80,16 @@ filter_manufacturer_data <- function(race_data, the_manufacturer) {
 #'   * For type = 'all': Complete race-by-race data
 #'
 #' @examples
-#' # Get career summary for Toyota across all series
-#' get_manufacturer_info("Toyota")
+#' if (interactive()) {
+#'   # Get career summary for Toyota across all series
+#'   get_manufacturer_info("Toyota")
 #'
-#' # Get Cup series statistics only
-#' get_manufacturer_info("Ford", series = "cup")
+#'   # Get Cup series statistics only
+#'   get_manufacturer_info("Ford", series = "cup")
 #'
-#' # Get season-by-season breakdown for Truck series
-#' get_manufacturer_info("Chevrolet", series = "truck", type = "season")
+#'   # Get season-by-season breakdown for Truck series
+#'   get_manufacturer_info("Chevrolet", series = "truck", type = "season")
+#' }
 #'
 #' @export
 

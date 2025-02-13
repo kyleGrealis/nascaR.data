@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-0.05 -0.05 1.83 2.12" width="1.83in" height="2.12in">
+  <defs>
+    <!-- Larger checkered pattern -->
+    <pattern id="checkered" x="0" y="0" width="0.35" height="0.35" patternUnits="userSpaceOnUse">
+      <rect x="0" y="0" width="0.175" height="0.175" fill="white"/>
+      <rect x="0.175" y="0" width="0.175" height="0.175" fill="black"/>
+      <rect x="0" y="0.175" width="0.175" height="0.175" fill="black"/>
+      <rect x="0.175" y="0.175" width="0.175" height="0.175" fill="white"/>
+    </pattern>
+    <!-- Reduced blur filter for background -->
+    <filter id="background-blur" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="0.015" />
+    </filter>
+  </defs>
+  
+  <!-- Slightly blurred checkered background with proper hexagon shape -->
+  <path d="M0.865,0.01 L1.73,0.515 L1.73,1.505 L0.865,2.01 L0,1.505 L0,0.515 Z" fill="url(#checkered)" filter="url(#background-blur)"/>
+  
+  <!-- Charcoal border around proper hexagon with thicker stroke, now fully visible -->
+  <path d="M0.865,0.01 L1.73,0.515 L1.73,1.505 L0.865,2.01 L0,1.505 L0,0.515 Z" fill="none" stroke="#333333" stroke-width="0.04"/>
+  
+  <!-- R syntax phrase with correct spacing and thicker arrow -->
+  <g font-family="Arial, sans-serif" font-size="0.14" fill="#E0E0E0" font-style="italic" font-weight="900" stroke="#333333" stroke-width="0.005">
+    <text x="0.865" y="0.65" text-anchor="middle">
+      race_on_Sunday
+      <!-- Thicker Arrow symbol -->
+      <tspan dx="0.02" font-size="0.16" font-weight="bolder">←</tspan>
+    </text>
+    
+    <text x="0.865" y="1.3" text-anchor="middle"><tspan font-weight="bolder">|&gt;</tspan></text>
+    <text x="0.865" y="1.45" text-anchor="middle"><tspan font-weight="bolder">{</tspan>analyze on Monday<tspan font-weight="bolder">}</tspan></text>
+  </g>
+  
+  <!-- Sharp, focused package name with NASCAR colors, no spaces, x-coordinate at 0.845 -->
+  <text x="0.845" y="1.01" font-family="'Impact', sans-serif" font-size="0.32" font-style="italic" font-weight="bold" text-anchor="middle" dominant-baseline="middle">
+    <tspan fill="#FCB131" stroke="#333333" stroke-width="0.015">nas</tspan><tspan fill="#E4002B" stroke="#333333" stroke-width="0.015">caR.</tspan><tspan fill="#007AC9" stroke="#333333" stroke-width="0.015">data</tspan>
+  </text>
+  
+  <!-- GitHub link in racing flag green with border -->
+  <text x="1.3" y="1.72" font-family="Arial, sans-serif" font-size="0.048" font-weight="bold" fill="#009E60" stroke="#333333" stroke-width="0.002" text-anchor="middle" transform="rotate(-30, 1.3, 1.73)">
+    github.com/kyleGrealis/nascaR.data
+  </text>
+</svg>
