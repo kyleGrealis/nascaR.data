@@ -154,11 +154,17 @@ update_nascar_data <- function(debug = FALSE, target_year = NULL, target_race = 
     } else {
       # current_year <- 2024  # hard-coding year for debugging
       current_year <- as.numeric(format(Sys.Date(), '%Y'))
-      last_completed_race <- max(existing_data$Race[existing_data$Season == current_year])
+      # check if the current year is the current race season (affects first race of the year)
+      if (current_year == max(existing_data$Season) {
+        last_completed_race <- 
+          max(existing_data$Race[existing_data$Season == current_year])
+      } else {
+        last_completed_race <- 0
+      }
     }
 
     # Add check for being off-season or site not updated
-    if (is.infinite(last_completed_race) || is.na(last_completed_race) || last_completed_race < 1) {
+    if (last_completed_race == 0) {
       message(
         paste(
           str_to_title(series_name), 
