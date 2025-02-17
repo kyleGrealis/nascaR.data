@@ -160,18 +160,13 @@ update_nascar_data <- function(debug = FALSE, target_year = NULL, target_race = 
           max(existing_data$Race[existing_data$Season == current_year])
       } else {
         last_completed_race <- 0
-      }
-    }
-
-    # Add check for being off-season or site not updated
-    if (last_completed_race == 0) {
-      message(
-        paste(
-          str_to_title(series_name), 
-          'Series is up-to-date. It may be off-season right now.'
+        message(
+          paste(
+            str_to_title(series_name), 
+            'No races completed yet for this season. Continuing...'
+          )
         )
-      )
-      return(NULL)
+      }
     }
 
     ###################################################################################
