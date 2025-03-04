@@ -95,7 +95,7 @@ jobs:
           git pull origin weekly --rebase || true
           git add data/*.rda
           git commit -m "Update NASCAR data [automated]" || echo "No changes to commit"
-          git push origin weekly || true
+          git push -f origin weekly
       
       # Step 9: Create a GitHub Issue if the production script fails
       - name: Create Issue on Production Failure
