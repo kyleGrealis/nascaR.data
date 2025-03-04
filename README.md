@@ -16,6 +16,12 @@
 
 ## Installation
 
+For the most up-to-date results, install the weekly updated version. This branch updates every Monday:
+
+```r
+remotes::install_github('kyleGrealis/nascaR.data@weekly')
+```
+
 Install the stable CRAN version (through 2024 season):
 ```r
 install.packages('nascaR.data')
@@ -24,11 +30,8 @@ remotes::install_cran('nascaR.data')
 # or
 remotes::install_github('kyleGrealis/nascaR.data')
 ```
-Install the weekly updated version:
 
-```r
-remotes::install_github('kyleGrealis/nascaR.data@weekly')
-```
+> Stable CRAN package updates are planned sporadically throughtout the season.
 
 ---
 
