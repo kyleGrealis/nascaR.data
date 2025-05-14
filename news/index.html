@@ -7,7 +7,7 @@
 
     <a class="navbar-brand me-2" href="../index.html">nascaR.data</a>
 
-    <small class="nav-text text-muted me-auto" data-bs-toggle="tooltip" data-bs-placement="bottom" title="">2.2.0.9999</small>
+    <small class="nav-text text-muted me-auto" data-bs-toggle="tooltip" data-bs-placement="bottom" title="">2.2.1</small>
 
 
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbar" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
@@ -32,6 +32,28 @@
       <small>Source: <a href="https://github.com/kyleGrealis/nascaR.data/blob/main/NEWS.md" class="external-link"><code>NEWS.md</code></a></small>
     </div>
 
+    <div class="section level2">
+<h2 class="pkg-version" data-toc-text="2.2.1" id="nascardata-221">nascar.data 2.2.1<a class="anchor" aria-label="anchor" href="#nascardata-221"></a></h2>
+<p><strong>Patch fix</strong>: closing issue <a href="https://github.com/kyleGrealis/nascaR.data/issues/26" class="external-link">#26</a> ### Problem Description</p>
+<p>When calling package functions using the <code>::</code> operator (e.g., <code><a href="../reference/get_driver_info.html">nascaR.data::get_driver_info()</a></code>) without first loading the package via <code><a href="https://rdrr.io/r/base/library.html" class="external-link">library()</a></code>, the function would fail with the error:</p>
+<pre><code>Error in `selected_series_data()`:
+! object 'cup_series' not found</code></pre>
+<p>This occurred because the lazy-loaded data objects (<code>cup_series</code>, <code>xfinity_series</code>, <code>truck_series</code>) were not being loaded into the package namespace when functions were accessed directly via <code>::</code>. The data would only load when <code><a href="https://azimuth-project.tech/nascaR.data/" class="external-link">library(nascaR.data)</a></code> was called.</p>
+<div class="section level4">
+<h4 id="root-cause-2-2-1">Root Cause<a class="anchor" aria-label="anchor" href="#root-cause-2-2-1"></a></h4>
+<p>The <code><a href="../reference/selected_series_data.html">selected_series_data()</a></code> function in <code>utils.R</code> was directly referencing data objects without ensuring they were loaded. When using <code>::</code> notation, R loads the function but doesn’t trigger lazy data loading, causing the data objects to be unavailable.</p>
+</div>
+<div class="section level3">
+<h3 id="solution-2-2-1">Solution<a class="anchor" aria-label="anchor" href="#solution-2-2-1"></a></h3>
+<p>Modified the <code><a href="../reference/selected_series_data.html">selected_series_data()</a></code> function to explicitly load the required data objects using the <code><a href="https://rdrr.io/r/utils/data.html" class="external-link">data()</a></code> function:</p>
+<div class="sourceCode" id="cb2"><pre class="downlit sourceCode r">
+<code class="sourceCode R"><span><span class="co"># Ensure data is loaded even when using :: notation</span></span>
+<span><span class="fu"><a href="https://rdrr.io/r/utils/data.html" class="external-link">data</a></span><span class="op">(</span><span class="st">"cup_series"</span>, package <span class="op">=</span> <span class="st">"nascaR.data"</span>, envir <span class="op">=</span> <span class="fu"><a href="https://rdrr.io/r/base/environment.html" class="external-link">environment</a></span><span class="op">(</span><span class="op">)</span><span class="op">)</span></span>
+<span><span class="fu"><a href="https://rdrr.io/r/utils/data.html" class="external-link">data</a></span><span class="op">(</span><span class="st">"xfinity_series"</span>, package <span class="op">=</span> <span class="st">"nascaR.data"</span>, envir <span class="op">=</span> <span class="fu"><a href="https://rdrr.io/r/base/environment.html" class="external-link">environment</a></span><span class="op">(</span><span class="op">)</span><span class="op">)</span></span>
+<span><span class="fu"><a href="https://rdrr.io/r/utils/data.html" class="external-link">data</a></span><span class="op">(</span><span class="st">"truck_series"</span>, package <span class="op">=</span> <span class="st">"nascaR.data"</span>, envir <span class="op">=</span> <span class="fu"><a href="https://rdrr.io/r/base/environment.html" class="external-link">environment</a></span><span class="op">(</span><span class="op">)</span><span class="op">)</span></span></code></pre></div>
+<p>This ensures the data is available regardless of how the function is accessed, making the package more robust for users who prefer the <code>::</code> notation without loading the entire package namespace.</p>
+</div>
+</div>
     <div class="section level2">
 <h2 class="pkg-version" data-toc-text="2.2.0" id="nascardata-220">nascar.data 2.2.0<a class="anchor" aria-label="anchor" href="#nascardata-220"></a></h2><p class="text-muted">CRAN release: 2025-02-12</p>
 <div class="section level3">
