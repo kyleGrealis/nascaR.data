@@ -1,3 +1,36 @@
+# nascar.data 2.2.1
+
+**Patch fix**: closing issue #26
+### Problem Description
+
+When calling package functions using the `::` operator (e.g., `nascaR.data::get_driver_info()`) without first loading the package via `library()`, the function would fail with the error:
+
+```
+Error in `selected_series_data()`:
+! object 'cup_series' not found
+```
+
+This occurred because the lazy-loaded data objects (`cup_series`, `xfinity_series`, `truck_series`) were not being loaded into the package namespace when functions were accessed directly via `::`. The data would only load when `library(nascaR.data)` was called.
+
+### Root Cause
+
+The `selected_series_data()` function in `utils.R` was directly referencing data objects without ensuring they were loaded. When using `::` notation, R loads the function but doesn't trigger lazy data loading, causing the data objects to be unavailable.
+
+## Solution
+
+Modified the `selected_series_data()` function to explicitly load the required data objects using the `data()` function:
+
+```r
+# Ensure data is loaded even when using :: notation
+data("cup_series", package = "nascaR.data", envir = environment())
+data("xfinity_series", package = "nascaR.data", envir = environment())
+data("truck_series", package = "nascaR.data", envir = environment())
+```
+
+This ensures the data is available regardless of how the function is accessed, making the package more robust for users who prefer the `::` notation without loading the entire package namespace.
+
+
+
 # nascar.data 2.2.0
 
 ## Enhancements
