@@ -1,6 +1,6 @@
 Package: nascaR.data
 Title: NASCAR Race Data
-Version: 2.2.1
+Version: 2.2.1.9999
 Authors@R: 
     c(
         person(
