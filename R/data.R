@@ -4,7 +4,7 @@
 # Declare global variables used in dplyr/tidyr operations
 utils::globalVariables(c(
   "Driver",
-  "Finish", 
+  "Finish",
   "Laps",
   "Led",
   "Make",
@@ -15,10 +15,10 @@ utils::globalVariables(c(
   "Win"
 ))
 #' NASCAR Cup Series Race Data
-#' 
+#'
 #' Historical race results for NASCAR Cup Series races from 1949-present. Includes finishing position,
 #' driver and car information, track details, and performance metrics for each entry.
-#' 
+#'
 #' @format A data frame with rows representing each car/driver entry and 19 columns:
 #' \describe{
 #'   \item{Season}{Race season year}
@@ -46,10 +46,10 @@ utils::globalVariables(c(
 "cup_series"
 
 #' NASCAR Xfinity Series Race Data
-#' 
+#'
 #' Historical race results for NASCAR Xfinity Series races from 1982-present. Includes finishing position,
 #' driver and car information, track details, and performance metrics for each entry.
-#' 
+#'
 #' @format A data frame with rows representing each car/driver entry and 19 columns:
 #' \describe{
 #'   \item{Season}{Race season year}
@@ -70,6 +70,7 @@ utils::globalVariables(c(
 #'   \item{Status}{Race completion status (e.g., "running", "crash")}
 #'   \item{S1}{Segment 1 finish position}
 #'   \item{S2}{Segment 2 finish position}
+#'   \item{Seg Points}{Segment points}
 #'   \item{Rating}{Driver rating for the race}
 #'   \item{Win}{Binary indicator if driver won the race (1 = yes, 0 = no)}
 #' }
@@ -77,10 +78,10 @@ utils::globalVariables(c(
 "xfinity_series"
 
 #' NASCAR Truck Series Race Data
-#' 
+#'
 #' Historical race results for NASCAR Truck Series races from 1995-present. Includes finishing position,
 #' driver and car information, track details, and performance metrics for each entry.
-#' 
+#'
 #' @format A data frame with rows representing each car/driver entry and 19 columns:
 #' \describe{
 #'   \item{Season}{Race season year}
