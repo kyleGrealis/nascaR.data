@@ -179,6 +179,7 @@ get_series_data <- function(series) {
 #' @param search_term Character string to search for
 #' @param data Tibble containing NASCAR race data
 #' @param max_results Maximum number of matches to return
+#' @param interactive Logical. Is the session interactive?
 #' @return Character vector of matching driver names
 #' @export
 find_driver <- function(
@@ -264,6 +265,7 @@ find_driver <- function(
 #' @param search_term Character string to search for
 #' @param data Tibble containing NASCAR race data or series specification
 #' @param max_results Maximum number of matches to return
+#' @param interactive Logical. Is the session interactive?
 #' @return Character vector of matching team names
 #' @export
 find_team <- function(
@@ -347,6 +349,7 @@ find_team <- function(
 #' @param search_term Character string to search for
 #' @param data Tibble containing NASCAR race data or series specification
 #' @param max_results Maximum number of matches to return
+#' @param interactive Logical. Is the session interactive?
 #' @return Character vector of matching manufacturer names
 #' @export
 find_manufacturer <- function(
@@ -437,6 +440,7 @@ find_manufacturer <- function(
 #' @param driver Character string of driver name to search for
 #' @param series Either character string ("cup", "xfinity", "truck", "all") or data frame
 #' @param type Character string specifying return type ("summary", "season", "all")
+#' @param interactive Logical. Is the session interactive?
 #' @return Tibble with driver statistics or NULL if no exact match
 #' @export
 get_driver_info <- function(
@@ -558,6 +562,7 @@ get_driver_info <- function(
 #' @param team Character string of team name to search for
 #' @param series Either character string ("cup", "xfinity", "truck", "all") or data frame
 #' @param type Character string specifying return type ("summary", "season", "all")
+#' @param interactive Logical. Is the session interactive?
 #' @return Tibble with team statistics or NULL if no exact match
 #' @export
 get_team_info <- function(
@@ -676,6 +681,7 @@ get_team_info <- function(
 #' @param manufacturer Character string of manufacturer name to search for
 #' @param series Either character string ("cup", "xfinity", "truck", "all") or data frame
 #' @param type Character string specifying return type ("summary", "season", "all")
+#' @param interactive Logical. Is the session interactive?
 #' @return Tibble with manufacturer statistics or NULL if no exact match
 #' @export
 get_manufacturer_info <- function(
