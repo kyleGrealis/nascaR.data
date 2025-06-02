@@ -15,9 +15,9 @@ suppressPackageStartupMessages({
 })
 
 # Run all three series updates
-message("\n", "=" * 50)
+message("\n", paste(rep("=", 50), collapse = ""))
 message("STARTING ALL NASCAR SERIES UPDATES")
-message("=" * 50)
+message(paste(rep("=", 50), collapse = ""))
 
 tryCatch(
   {
@@ -28,7 +28,7 @@ tryCatch(
   }
 )
 
-message("\n", "=" * 50)
+message("\n", paste(rep("=", 50), collapse = ""))
 
 tryCatch(
   {
@@ -39,7 +39,7 @@ tryCatch(
   }
 )
 
-message("\n", "=" * 50)
+message("\n", paste(rep("=", 50), collapse = ""))
 
 tryCatch(
   {
@@ -50,7 +50,7 @@ tryCatch(
   }
 )
 
-message("\n", "=" * 50)
+message("\n", paste(rep("=", 50), collapse = ""))
 message("ALL NASCAR SERIES UPDATES COMPLETED!")
-message("=" * 50)
+message(paste(rep("=", 50), collapse = ""))
 message(paste("Finished at:", Sys.time()))
