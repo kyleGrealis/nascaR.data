@@ -21,3 +21,20 @@ Tibble with team statistics or NULL if no exact match
 \description{
 Enhanced Get Team Info with Smart Matching
 }
+\examples{
+\dontrun{
+# Get Joe Gibbs Racing career summary
+get_team_info("Joe Gibbs Racing")
+
+# Handle partial name - will prompt for selection
+get_team_info("joe gib racing")
+# Found 1 teams matching 'joe gib racing':
+#  1 - Joe Gibbs Racing
+# Select team number: 1
+# Team: Joe Gibbs Racing
+# Returns summary table
+
+# Get season-by-season data for Cup series only
+get_team_info("Joe Gibbs Racing", series = "cup", type = "season")
+}
+}

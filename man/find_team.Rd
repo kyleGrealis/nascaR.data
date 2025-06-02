@@ -21,3 +21,13 @@ Character vector of matching team names
 \description{
 Find Team Matches
 }
+\examples{
+# Find exact match
+find_team("Joe Gibbs Racing")
+
+# Find partial matches
+find_team("gibbs")
+
+# Non-interactive mode for scripts
+find_team("hendrick", interactive = FALSE)
+}

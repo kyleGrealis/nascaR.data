@@ -26,3 +26,20 @@ Tibble with manufacturer statistics or NULL if no exact match
 \description{
 Enhanced Get Manufacturer Info with Smart Matching
 }
+\examples{
+\dontrun{
+# Get Toyota career summary
+get_manufacturer_info("Toyota")
+
+# Handle misspelling - will prompt for selection
+get_manufacturer_info("toyoda")
+# Found 1 manufacturers matching 'toyoda':
+#  1 - Toyota
+# Select manufacturer number: 1
+# Manufacturer: Toyota
+# Returns summary table
+
+# Get season-by-season data for Cup series only
+get_manufacturer_info("Toyota", series = "cup", type = "season")
+}
+}
