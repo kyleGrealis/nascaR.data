@@ -26,3 +26,13 @@ Character vector of matching manufacturer names
 \description{
 Find Manufacturer Matches
 }
+\examples{
+# Find exact match
+find_manufacturer("Toyota")
+
+# Find with common alias
+find_manufacturer("chevy")
+
+# Non-interactive mode for scripts
+find_manufacturer("ford", interactive = FALSE)
+}

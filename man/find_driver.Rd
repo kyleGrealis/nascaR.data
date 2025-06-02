@@ -21,3 +21,13 @@ Character vector of matching driver names
 \description{
 Find Driver Matches
 }
+\examples{
+# Find exact match
+find_driver("Christopher Bell")
+
+# Find partial matches
+find_driver("bell")
+
+# Non-interactive mode for scripts
+find_driver("kyle", interactive = FALSE)
+}

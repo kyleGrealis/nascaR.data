@@ -181,6 +181,15 @@ get_series_data <- function(series) {
 #' @param max_results Maximum number of matches to return
 #' @param interactive Logical. Is the session interactive?
 #' @return Character vector of matching driver names
+#' @examples
+#' # Find exact match
+#' find_driver("Christopher Bell")
+#'
+#' # Find partial matches
+#' find_driver("bell")
+#'
+#' # Non-interactive mode for scripts
+#' find_driver("kyle", interactive = FALSE)
 #' @export
 find_driver <- function(
   search_term,
@@ -267,6 +276,15 @@ find_driver <- function(
 #' @param max_results Maximum number of matches to return
 #' @param interactive Logical. Is the session interactive?
 #' @return Character vector of matching team names
+#' @examples
+#' # Find exact match
+#' find_team("Joe Gibbs Racing")
+#'
+#' # Find partial matches
+#' find_team("gibbs")
+#'
+#' # Non-interactive mode for scripts
+#' find_team("hendrick", interactive = FALSE)
 #' @export
 find_team <- function(
   search_term,
@@ -351,6 +369,15 @@ find_team <- function(
 #' @param max_results Maximum number of matches to return
 #' @param interactive Logical. Is the session interactive?
 #' @return Character vector of matching manufacturer names
+#' @examples
+#' # Find exact match
+#' find_manufacturer("Toyota")
+#'
+#' # Find with common alias
+#' find_manufacturer("chevy")
+#'
+#' # Non-interactive mode for scripts
+#' find_manufacturer("ford", interactive = FALSE)
 #' @export
 find_manufacturer <- function(
   search_term,
@@ -442,6 +469,22 @@ find_manufacturer <- function(
 #' @param type Character string specifying return type ("summary", "season", "all")
 #' @param interactive Logical. Is the session interactive?
 #' @return Tibble with driver statistics or NULL if no exact match
+#' @examples
+#' \dontrun{
+#' # Get Christopher Bell's career summary
+#' get_driver_info("Christopher Bell")
+#'
+#' # Handle misspelling - will prompt for selection
+#' get_driver_info("cristopher bell")
+#' # Found 1 drivers matching 'cristopher bell':
+#' #  1 - Christopher Bell
+#' # Select driver number: 1
+#' # Driver: Christopher Bell
+#' # Returns summary table
+#'
+#' # Get season-by-season data for Cup series only
+#' get_driver_info("Christopher Bell", series = "cup", type = "season")
+#' }
 #' @export
 get_driver_info <- function(
   driver,
@@ -564,6 +607,22 @@ get_driver_info <- function(
 #' @param type Character string specifying return type ("summary", "season", "all")
 #' @param interactive Logical. Is the session interactive?
 #' @return Tibble with team statistics or NULL if no exact match
+#' @examples
+#' \dontrun{
+#' # Get Joe Gibbs Racing career summary
+#' get_team_info("Joe Gibbs Racing")
+#'
+#' # Handle partial name - will prompt for selection
+#' get_team_info("joe gib racing")
+#' # Found 1 teams matching 'joe gib racing':
+#' #  1 - Joe Gibbs Racing
+#' # Select team number: 1
+#' # Team: Joe Gibbs Racing
+#' # Returns summary table
+#'
+#' # Get season-by-season data for Cup series only
+#' get_team_info("Joe Gibbs Racing", series = "cup", type = "season")
+#' }
 #' @export
 get_team_info <- function(
   team,
@@ -683,6 +742,22 @@ get_team_info <- function(
 #' @param type Character string specifying return type ("summary", "season", "all")
 #' @param interactive Logical. Is the session interactive?
 #' @return Tibble with manufacturer statistics or NULL if no exact match
+#' @examples
+#' \dontrun{
+#' # Get Toyota career summary
+#' get_manufacturer_info("Toyota")
+#'
+#' # Handle misspelling - will prompt for selection
+#' get_manufacturer_info("toyoda")
+#' # Found 1 manufacturers matching 'toyoda':
+#' #  1 - Toyota
+#' # Select manufacturer number: 1
+#' # Manufacturer: Toyota
+#' # Returns summary table
+#'
+#' # Get season-by-season data for Cup series only
+#' get_manufacturer_info("Toyota", series = "cup", type = "season")
+#' }
 #' @export
 get_manufacturer_info <- function(
   manufacturer,

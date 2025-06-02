@@ -21,3 +21,20 @@ Tibble with driver statistics or NULL if no exact match
 \description{
 Enhanced Get Driver Info with Smart Matching
 }
+\examples{
+\dontrun{
+# Get Christopher Bell's career summary
+get_driver_info("Christopher Bell")
+
+# Handle misspelling - will prompt for selection
+get_driver_info("cristopher bell")
+# Found 1 drivers matching 'cristopher bell':
+#  1 - Christopher Bell
+# Select driver number: 1
+# Driver: Christopher Bell
+# Returns summary table
+
+# Get season-by-season data for Cup series only
+get_driver_info("Christopher Bell", series = "cup", type = "season")
+}
+}
