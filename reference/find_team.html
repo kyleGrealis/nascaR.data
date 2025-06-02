@@ -7,7 +7,7 @@
 
     <a class="navbar-brand me-2" href="../index.html">nascaR.data</a>
 
-    <small class="nav-text text-muted me-auto" data-bs-toggle="tooltip" data-bs-placement="bottom" title="">2.2.2</small>
+    <small class="nav-text text-muted me-auto" data-bs-toggle="tooltip" data-bs-placement="bottom" title="">2.2.2.9999</small>
 
 
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbar" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
@@ -67,6 +67,34 @@
     <p>Character vector of matching team names</p>
     </div>
 
+    <div class="section level2">
+    <h2 id="ref-examples">Examples<a class="anchor" aria-label="anchor" href="#ref-examples"></a></h2>
+    <div class="sourceCode"><pre class="sourceCode r"><code><span class="r-in"><span><span class="co"># Find exact match</span></span></span>
+<span class="r-in"><span><span class="fu">find_team</span><span class="op">(</span><span class="st">"Joe Gibbs Racing"</span><span class="op">)</span></span></span>
+<span class="r-out co"><span class="r-pr">#&gt;</span> [1] "Joe Gibbs Racing"</span>
+<span class="r-in"><span></span></span>
+<span class="r-in"><span><span class="co"># Find partial matches</span></span></span>
+<span class="r-in"><span><span class="fu">find_team</span><span class="op">(</span><span class="st">"gibbs"</span><span class="op">)</span></span></span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> Found 4 teams matching 'gibbs':</span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> To get specific team data, use exact name from:</span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span>   1 - Shorty Gibbs (Owner)</span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span>   2 - Don Gibbs Racing</span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span>   3 - Joe Gibbs Racing</span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span>   4 - Peter Gibbons (Owner)</span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> </span>
+<span class="r-out co"><span class="r-pr">#&gt;</span> [1] "Shorty Gibbs (Owner)"  "Don Gibbs Racing"      "Joe Gibbs Racing"     </span>
+<span class="r-out co"><span class="r-pr">#&gt;</span> [4] "Peter Gibbons (Owner)"</span>
+<span class="r-in"><span></span></span>
+<span class="r-in"><span><span class="co"># Non-interactive mode for scripts</span></span></span>
+<span class="r-in"><span><span class="fu">find_team</span><span class="op">(</span><span class="st">"hendrick"</span>, interactive <span class="op">=</span> <span class="cn">FALSE</span><span class="op">)</span></span></span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> Found 2 teams matching 'hendrick':</span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> To get specific team data, use exact name from:</span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span>   1 - Hendrick Motorsports</span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span>   2 - Larry Hedrick Motorsports</span>
+<span class="r-msg co"><span class="r-pr">#&gt;</span> </span>
+<span class="r-out co"><span class="r-pr">#&gt;</span> [1] "Hendrick Motorsports"      "Larry Hedrick Motorsports"</span>
+</code></pre></div>
+    </div>
   </main><aside class="col-md-3"><nav id="toc" aria-label="Table of contents"><h2>On this page</h2>
     </nav></aside></div>
 
