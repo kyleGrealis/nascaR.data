@@ -17,6 +17,8 @@ find_manufacturer(
 \item{data}{Tibble containing NASCAR race data or series specification}
 
 \item{max_results}{Maximum number of matches to return}
+
+\item{interactive}{Logical. Is the session interactive?}
 }
 \value{
 Character vector of matching manufacturer names

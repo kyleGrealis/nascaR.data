@@ -17,6 +17,8 @@ get_manufacturer_info(
 \item{series}{Either character string ("cup", "xfinity", "truck", "all") or data frame}
 
 \item{type}{Character string specifying return type ("summary", "season", "all")}
+
+\item{interactive}{Logical. Is the session interactive?}
 }
 \value{
 Tibble with manufacturer statistics or NULL if no exact match

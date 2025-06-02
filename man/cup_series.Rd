@@ -25,6 +25,7 @@ A data frame with rows representing each car/driver entry and 19 columns:
 \item{Status}{Race completion status (e.g., "running", "crash")}
 \item{S1}{Segment 1 finish position}
 \item{S2}{Segment 2 finish position}
+\item{Seg Points}{Segment points -- deprecated}
 \item{Rating}{Driver rating for the race}
 \item{Win}{Binary indicator if driver won the race (1 = yes, 0 = no)}
 }

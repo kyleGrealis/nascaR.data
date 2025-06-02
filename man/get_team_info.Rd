@@ -12,6 +12,8 @@ get_team_info(team, series = "all", type = "summary", interactive = TRUE)
 \item{series}{Either character string ("cup", "xfinity", "truck", "all") or data frame}
 
 \item{type}{Character string specifying return type ("summary", "season", "all")}
+
+\item{interactive}{Logical. Is the session interactive?}
 }
 \value{
 Tibble with team statistics or NULL if no exact match

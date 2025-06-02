@@ -12,6 +12,8 @@ get_driver_info(driver, series = "all", type = "summary", interactive = TRUE)
 \item{series}{Either character string ("cup", "xfinity", "truck", "all") or data frame}
 
 \item{type}{Character string specifying return type ("summary", "season", "all")}
+
+\item{interactive}{Logical. Is the session interactive?}
 }
 \value{
 Tibble with driver statistics or NULL if no exact match

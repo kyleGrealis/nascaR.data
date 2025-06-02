@@ -12,6 +12,8 @@ find_driver(search_term, data = NULL, max_results = 5, interactive = TRUE)
 \item{data}{Tibble containing NASCAR race data}
 
 \item{max_results}{Maximum number of matches to return}
+
+\item{interactive}{Logical. Is the session interactive?}
 }
 \value{
 Character vector of matching driver names

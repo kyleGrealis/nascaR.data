@@ -33,4 +33,11 @@ reference:
       - get_driver_info
       - get_team_info
       - get_manufacturer_info
+  
+  - title: "Helper functions"
+    desc: "Get correct spellings of drivers, teams, or manufacturers"
+    contents:
+      - find_driver
+      - find_team
+      - find_manufacturer
 
