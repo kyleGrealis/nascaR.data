@@ -24,7 +24,7 @@ For the most up-to-date results, install the from the `main` branch. This branch
 remotes::install_github('kyleGrealis/nascaR.data')
 ```
 
-Install the stable CRAN version (through 2024 season):
+Install the stable CRAN version (through Nashville race of the 2025 season):
 ```r
 install.packages('nascaR.data')
 # or
