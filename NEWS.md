@@ -1,5 +1,11 @@
 # nascaR.data 2.2.2
 
+> Deprecating the `weekly` branch! Weekly race results will be added to the `main` branch. CRAN-stable version is available via CRAN:
+```r
+install.packages("nascaR.data")
+remotes::install_github("kyleGrealis/nascaR.data") # please do not use "@weekly"
+```
+
 ## Major Enhancement: Complete Fuzzy Matching System Overhaul
 
 ### New Features
