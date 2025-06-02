@@ -1,37 +1,43 @@
-# nascar.data 2.2.1
+# nascaR.data 2.2.2
 
-**Patch fix**: closing issue #26
-### Problem Description
+## Major Enhancement: Complete Fuzzy Matching System Overhaul
 
-When calling package functions using the `::` operator (e.g., `nascaR.data::get_driver_info()`) without first loading the package via `library()`, the function would fail with the error:
+### New Features
+- **Interactive driver/team/manufacturer selection**: When multiple matches are found, users can now select from a numbered list
+- **Intelligent fuzzy matching**: Dramatically improved search algorithm that handles typos, partial names, and word boundaries
+  - `find_driver("kyle")` → returns Kyle Busch, Kyle Larson, Kyle Petty, etc.
+  - `find_team("gibbs")` → finds Joe Gibbs Racing
+  - `find_driver("earnhart")` → correctly finds Earnhardt family drivers
+- **Flexible series input**: All functions now accept both character strings AND data frames
+  - `get_driver_info("kyle", "cup")` ✓
+  - `get_driver_info("kyle", "Cup Series")` ✓  
+  - `get_driver_info("kyle", cup_series)` ✓
+- **Smart string matching**: Handles variations like "cup", "Cup Series", "xfinity", "Xfinity Series" automatically
 
-```
-Error in `selected_series_data()`:
-! object 'cup_series' not found
-```
+### Technical Improvements
+- **Consolidated codebase**: Replaced three separate fuzzy matching files with one unified system
+- **Priority-based matching**: Exact matches > starts with > contains > word boundaries > fuzzy similarity
+- **Non-interactive mode**: Dashboard/script developers can set `interactive = FALSE` to get list returns
+- **Removed dependency on problematic Levenshtein distance calculations**
+- **Eliminated interactive prompts that broke in non-interactive environments**
 
-This occurred because the lazy-loaded data objects (`cup_series`, `xfinity_series`, `truck_series`) were not being loaded into the package namespace when functions were accessed directly via `::`. The data would only load when `library(nascaR.data)` was called.
+### User Experience
+- **Typo tolerance**: Common misspellings now find correct matches
+- **One-step workflow**: Search and select in the same function call
+- **Clear feedback**: Better messaging when multiple options are available
 
-### Root Cause
+### Breaking Changes
+- None! All existing function calls continue to work as before
+- New `interactive` parameter defaults to `TRUE` for better user experience
 
-The `selected_series_data()` function in `utils.R` was directly referencing data objects without ensuring they were loaded. When using `::` notation, R loads the function but doesn't trigger lazy data loading, causing the data objects to be unavailable.
-
-## Solution
-
-Modified the `selected_series_data()` function to explicitly load the required data objects using the `data()` function:
-
-```r
-# Ensure data is loaded even when using :: notation
-data("cup_series", package = "nascaR.data", envir = environment())
-data("xfinity_series", package = "nascaR.data", envir = environment())
-data("truck_series", package = "nascaR.data", envir = environment())
-```
-
-This ensures the data is available regardless of how the function is accessed, making the package more robust for users who prefer the `::` notation without loading the entire package namespace.
+### Bug Fixes
+- Fixed fuzzy matching returning irrelevant results
+- Resolved cases where obvious matches weren't found due to strict string matching
+- Eliminated interactive readline prompts that failed in scripts and R Markdown
 
 
 
-# nascar.data 2.2.0
+# nascaR.data 2.2.1
 
 ## Enhancements
 * Added missing races. The Cup Series season finale was omitted for a number of years from 2002 to 2022. Thank you to Nick Triplett for the catching the mistake!
