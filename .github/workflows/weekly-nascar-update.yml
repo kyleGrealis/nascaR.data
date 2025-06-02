@@ -50,7 +50,7 @@ jobs:
      # Step 4: Run the update script
      - name: Update NASCAR data
        run: |
-         Rscript inst/updates/run_update.R
+         Rscript inst/updates/run_all_updates.R
          
      # Step 5: Commit and push changes (if any)
      - name: Commit changes
