@@ -33,38 +33,78 @@
     </div>
 
     <div class="section level2">
-<h2 class="pkg-version" data-toc-text="2.2.1" id="nascardata-221">nascar.data 2.2.1<a class="anchor" aria-label="anchor" href="#nascardata-221"></a></h2><p class="text-muted">CRAN release: 2025-05-15</p>
-<p><strong>Patch fix</strong>: closing issue <a href="https://github.com/kyleGrealis/nascaR.data/issues/26" class="external-link">#26</a> ### Problem Description</p>
-<p>When calling package functions using the <code>::</code> operator (e.g., <code><a href="../reference/get_driver_info.html">nascaR.data::get_driver_info()</a></code>) without first loading the package via <code><a href="https://rdrr.io/r/base/library.html" class="external-link">library()</a></code>, the function would fail with the error:</p>
-<pre><code>Error in `selected_series_data()`:
-! object 'cup_series' not found</code></pre>
-<p>This occurred because the lazy-loaded data objects (<code>cup_series</code>, <code>xfinity_series</code>, <code>truck_series</code>) were not being loaded into the package namespace when functions were accessed directly via <code>::</code>. The data would only load when <code><a href="https://azimuth-project.tech/nascaR.data/" class="external-link">library(nascaR.data)</a></code> was called.</p>
-<div class="section level4">
-<h4 id="root-cause-2-2-1">Root Cause<a class="anchor" aria-label="anchor" href="#root-cause-2-2-1"></a></h4>
-<p>The <code><a href="../reference/selected_series_data.html">selected_series_data()</a></code> function in <code>utils.R</code> was directly referencing data objects without ensuring they were loaded. When using <code>::</code> notation, R loads the function but doesn’t trigger lazy data loading, causing the data objects to be unavailable.</p>
-</div>
+<h2 class="pkg-version" data-toc-text="2.2.2" id="nascardata-222">nascaR.data 2.2.2<a class="anchor" aria-label="anchor" href="#nascardata-222"></a></h2>
 <div class="section level3">
-<h3 id="solution-2-2-1">Solution<a class="anchor" aria-label="anchor" href="#solution-2-2-1"></a></h3>
-<p>Modified the <code><a href="../reference/selected_series_data.html">selected_series_data()</a></code> function to explicitly load the required data objects using the <code><a href="https://rdrr.io/r/utils/data.html" class="external-link">data()</a></code> function:</p>
-<div class="sourceCode" id="cb2"><pre class="downlit sourceCode r">
-<code class="sourceCode R"><span><span class="co"># Ensure data is loaded even when using :: notation</span></span>
-<span><span class="fu"><a href="https://rdrr.io/r/utils/data.html" class="external-link">data</a></span><span class="op">(</span><span class="st">"cup_series"</span>, package <span class="op">=</span> <span class="st">"nascaR.data"</span>, envir <span class="op">=</span> <span class="fu"><a href="https://rdrr.io/r/base/environment.html" class="external-link">environment</a></span><span class="op">(</span><span class="op">)</span><span class="op">)</span></span>
-<span><span class="fu"><a href="https://rdrr.io/r/utils/data.html" class="external-link">data</a></span><span class="op">(</span><span class="st">"xfinity_series"</span>, package <span class="op">=</span> <span class="st">"nascaR.data"</span>, envir <span class="op">=</span> <span class="fu"><a href="https://rdrr.io/r/base/environment.html" class="external-link">environment</a></span><span class="op">(</span><span class="op">)</span><span class="op">)</span></span>
-<span><span class="fu"><a href="https://rdrr.io/r/utils/data.html" class="external-link">data</a></span><span class="op">(</span><span class="st">"truck_series"</span>, package <span class="op">=</span> <span class="st">"nascaR.data"</span>, envir <span class="op">=</span> <span class="fu"><a href="https://rdrr.io/r/base/environment.html" class="external-link">environment</a></span><span class="op">(</span><span class="op">)</span><span class="op">)</span></span></code></pre></div>
-<p>This ensures the data is available regardless of how the function is accessed, making the package more robust for users who prefer the <code>::</code> notation without loading the entire package namespace.</p>
+<h3 id="major-enhancement-complete-fuzzy-matching-system-overhaul-2-2-2">Major Enhancement: Complete Fuzzy Matching System Overhaul<a class="anchor" aria-label="anchor" href="#major-enhancement-complete-fuzzy-matching-system-overhaul-2-2-2"></a></h3>
+<div class="section level4">
+<h4 id="new-features-2-2-2">New Features<a class="anchor" aria-label="anchor" href="#new-features-2-2-2"></a></h4>
+<ul><li>
+<strong>Interactive driver/team/manufacturer selection</strong>: When multiple matches are found, users can now select from a numbered list</li>
+<li>
+<strong>Intelligent fuzzy matching</strong>: Dramatically improved search algorithm that handles typos, partial names, and word boundaries
+<ul><li>
+<code>find_driver("kyle")</code> → returns Kyle Busch, Kyle Larson, Kyle Petty, etc.</li>
+<li>
+<code>find_team("gibbs")</code> → finds Joe Gibbs Racing</li>
+<li>
+<code>find_driver("earnhart")</code> → correctly finds Earnhardt family drivers</li>
+</ul></li>
+<li>
+<strong>Flexible series input</strong>: All functions now accept both character strings AND data frames
+<ul><li>
+<code>get_driver_info("kyle", "cup")</code> ✓</li>
+<li>
+<code>get_driver_info("kyle", "Cup Series")</code> ✓<br></li>
+<li>
+<code>get_driver_info("kyle", cup_series)</code> ✓</li>
+</ul></li>
+<li>
+<strong>Smart string matching</strong>: Handles variations like “cup”, “Cup Series”, “xfinity”, “Xfinity Series” automatically</li>
+</ul></div>
+<div class="section level4">
+<h4 id="technical-improvements-2-2-2">Technical Improvements<a class="anchor" aria-label="anchor" href="#technical-improvements-2-2-2"></a></h4>
+<ul><li>
+<strong>Consolidated codebase</strong>: Replaced three separate fuzzy matching files with one unified system</li>
+<li>
+<strong>Priority-based matching</strong>: Exact matches &gt; starts with &gt; contains &gt; word boundaries &gt; fuzzy similarity</li>
+<li>
+<strong>Non-interactive mode</strong>: Dashboard/script developers can set <code>interactive = FALSE</code> to get list returns</li>
+<li><strong>Removed dependency on problematic Levenshtein distance calculations</strong></li>
+<li><strong>Eliminated interactive prompts that broke in non-interactive environments</strong></li>
+</ul></div>
+<div class="section level4">
+<h4 id="user-experience-2-2-2">User Experience<a class="anchor" aria-label="anchor" href="#user-experience-2-2-2"></a></h4>
+<ul><li>
+<strong>Typo tolerance</strong>: Common misspellings now find correct matches</li>
+<li>
+<strong>One-step workflow</strong>: Search and select in the same function call</li>
+<li>
+<strong>Clear feedback</strong>: Better messaging when multiple options are available</li>
+</ul></div>
+<div class="section level4">
+<h4 id="breaking-changes-2-2-2">Breaking Changes<a class="anchor" aria-label="anchor" href="#breaking-changes-2-2-2"></a></h4>
+<ul><li>None! All existing function calls continue to work as before</li>
+<li>New <code>interactive</code> parameter defaults to <code>TRUE</code> for better user experience</li>
+</ul></div>
+<div class="section level4">
+<h4 id="bug-fixes-2-2-2">Bug Fixes<a class="anchor" aria-label="anchor" href="#bug-fixes-2-2-2"></a></h4>
+<ul><li>Fixed fuzzy matching returning irrelevant results</li>
+<li>Resolved cases where obvious matches weren’t found due to strict string matching</li>
+<li>Eliminated interactive readline prompts that failed in scripts and R Markdown</li>
+</ul></div>
 </div>
 </div>
     <div class="section level2">
-<h2 class="pkg-version" data-toc-text="2.2.0" id="nascardata-220">nascar.data 2.2.0<a class="anchor" aria-label="anchor" href="#nascardata-220"></a></h2><p class="text-muted">CRAN release: 2025-02-12</p>
+<h2 class="pkg-version" data-toc-text="2.2.1" id="nascardata-221">nascaR.data 2.2.1<a class="anchor" aria-label="anchor" href="#nascardata-221"></a></h2><p class="text-muted">CRAN release: 2025-05-15</p>
 <div class="section level3">
-<h3 id="enhancements-2-2-0">Enhancements<a class="anchor" aria-label="anchor" href="#enhancements-2-2-0"></a></h3>
+<h3 id="enhancements-2-2-1">Enhancements<a class="anchor" aria-label="anchor" href="#enhancements-2-2-1"></a></h3>
 <ul><li>Added missing races. The Cup Series season finale was omitted for a number of years from 2002 to 2022. Thank you to Nick Triplett for the catching the mistake!</li>
 <li>
 <code>Seg Points</code> has been removed. Instead, <code>S1</code> &amp; <code>S2</code> variables correspond to the driver’s finishing position during each segment.</li>
 <li>Updated missing track information (length, surface type) for 32 Cup races with varying years, mostly pre-2000s.</li>
 </ul></div>
 <div class="section level3">
-<h3 id="documentation-2-2-0">Documentation<a class="anchor" aria-label="anchor" href="#documentation-2-2-0"></a></h3>
+<h3 id="documentation-2-2-1">Documentation<a class="anchor" aria-label="anchor" href="#documentation-2-2-1"></a></h3>
 <ul><li>Updated <code>S1</code> &amp; <code>S2</code> documentation.</li>
 </ul></div>
 </div>
