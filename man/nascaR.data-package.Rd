@@ -11,7 +11,7 @@ A collection of NASCAR race, driver, owner and manufacturer data across the thre
 \seealso{
 Useful links:
 \itemize{
-  \item \url{https://azimuth-project.tech/nascaR.data/}
+  \item \url{https://www.kyleGrealis.com/nascaR.data/}
   \item Report bugs at \url{https://github.com/kyleGrealis/nascaR.data/issues}
 }
 
