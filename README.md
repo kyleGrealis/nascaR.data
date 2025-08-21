@@ -22,7 +22,7 @@ For the most up-to-date results, install the weekly updated version. This branch
 remotes::install_github('kyleGrealis/nascaR.data@weekly')
 ```
 
-Install the stable CRAN version (through 2024 season):
+Install the stable CRAN version (through 2025 Richmond summer race):
 ```r
 install.packages('nascaR.data')
 # or
