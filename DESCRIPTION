@@ -44,5 +44,5 @@ Imports:
 Suggests: 
     roxygen2,
     scales
-URL: https://azimuth-project.tech/nascaR.data/
+URL: https://www.kyleGrealis.com/nascaR.data/
 BugReports: https://github.com/kyleGrealis/nascaR.data/issues
