@@ -1,3 +1,8 @@
+# nascaR.data 2.2.3
+
++ Adding season updates for all divisions
+
+
 # nascaR.data 2.2.2
 
 > Deprecating the `weekly` branch! Weekly race results will be added to the `main` branch. CRAN-stable version is available via CRAN:
