@@ -25,3 +25,5 @@ project_notes.md
 .git/
 .git*
 pkgdown/
+
+flake.*
