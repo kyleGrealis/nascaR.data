@@ -17,7 +17,7 @@ Useful links:
 
 }
 \author{
-\strong{Maintainer}: Kyle Grealis \email{kylegrealis@icloud.com} (\href{https://orcid.org/0000-0002-9223-8854}{ORCID})
+\strong{Maintainer}: Kyle Grealis \email{kylegrealis@proton.me} (\href{https://orcid.org/0000-0002-9223-8854}{ORCID})
 
 Other contributors:
 \itemize{
