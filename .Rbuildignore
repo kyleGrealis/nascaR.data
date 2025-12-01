@@ -26,4 +26,4 @@ project_notes.md
 .git*
 pkgdown/
 
-flake.*
+.claude/

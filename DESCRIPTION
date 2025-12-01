@@ -1,6 +1,6 @@
 Package: nascaR.data
 Title: NASCAR Race Data
-Version: 2.2.3
+Version: 2.3.0.9000
 Authors@R: 
     c(
         person(
@@ -25,7 +25,7 @@ Authors@R:
         )
     )
 Maintainer: Kyle Grealis <kylegrealis@proton.me>
-Description: A collection of NASCAR race, driver, owner and manufacturer data across the three major NASCAR divisions: NASCAR Cup Series, NASCAR Xfinity Series, and NASCAR Craftsman Truck Series. The curated data begins with the 1949 season and extends through the end of the 2024 season. Explore race, season, or career performance for drivers, teams, and manufacturers throughout NASCAR's history. Data was sourced with permission from DriverAverages.com.
+Description: A collection of NASCAR race, driver, owner and manufacturer data across the three major NASCAR divisions: NASCAR Cup Series, NASCAR Xfinity Series, and NASCAR Craftsman Truck Series. The curated data begins with the 1949 season and extends through the end of the 2025 season. Explore race, season, or career performance for drivers, teams, and manufacturers throughout NASCAR's history. Data was sourced with permission from DriverAverages.com.
 LazyData: true
 LazyDataCompression: bzip2
 License: GPL (>= 3)
@@ -36,13 +36,15 @@ RoxygenNote: 7.3.3
 Imports:
     dplyr,
     glue,
+    httr,
     purrr,
     rlang,
     rvest,
     stringdist,
     stringr
-Suggests: 
+Suggests:
     roxygen2,
-    scales
+    scales,
+    testthat (>= 3.0.0)
 URL: https://www.kyleGrealis.com/nascaR.data/
 BugReports: https://github.com/kyleGrealis/nascaR.data/issues

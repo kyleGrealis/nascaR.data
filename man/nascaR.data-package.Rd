@@ -6,7 +6,7 @@
 \alias{nascaR.data-package}
 \title{nascaR.data: NASCAR Race Data}
 \description{
-A collection of NASCAR race, driver, owner and manufacturer data across the three major NASCAR divisions: NASCAR Cup Series, NASCAR Xfinity Series, and NASCAR Craftsman Truck Series. The curated data begins with the 1949 season and extends through the end of the 2024 season. Explore race, season, or career performance for drivers, teams, and manufacturers throughout NASCAR's history. Data was sourced with permission from DriverAverages.com.
+A collection of NASCAR race, driver, owner and manufacturer data across the three major NASCAR divisions: NASCAR Cup Series, NASCAR Xfinity Series, and NASCAR Craftsman Truck Series. The curated data begins with the 1949 season and extends through the end of the 2025 season. Explore race, season, or career performance for drivers, teams, and manufacturers throughout NASCAR's history. Data was sourced with permission from DriverAverages.com.
 }
 \seealso{
 Useful links:
