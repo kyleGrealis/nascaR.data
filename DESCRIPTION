@@ -43,8 +43,11 @@ Imports:
     stringdist,
     stringr
 Suggests:
+    knitr,
+    rmarkdown,
     roxygen2,
     scales,
     testthat (>= 3.0.0)
+VignetteBuilder: knitr
 URL: https://www.kyleGrealis.com/nascaR.data/
 BugReports: https://github.com/kyleGrealis/nascaR.data/issues
