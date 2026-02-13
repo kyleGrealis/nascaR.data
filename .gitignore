@@ -176,3 +176,5 @@ inst/extdata/debug/
 ..Rcheck
 
 **/*.quarto_ipynb
+.claude/
+CLAUDE.md

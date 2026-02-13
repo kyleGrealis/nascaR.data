@@ -18,7 +18,8 @@
 #' @importFrom rlang abort
 #' @importFrom rvest html_attr html_elements html_element html_table html_text2 read_html
 #' @importFrom stringdist stringdist
-#' @importFrom stringr fixed str_detect str_remove str_split str_to_lower str_to_title str_starts str_trim
-#' @importFrom utils data head
+#' @importFrom stringr fixed str_detect str_remove str_split
+#' @importFrom stringr str_to_lower str_to_title str_starts str_trim
+#' @importFrom utils head
 ## usethis namespace: end
 NULL

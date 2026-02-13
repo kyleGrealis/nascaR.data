@@ -12,16 +12,18 @@ get_manufacturer_info(
 )
 }
 \arguments{
-\item{manufacturer}{Character string of manufacturer name to search for}
+\item{manufacturer}{Character string of manufacturer name}
 
-\item{series}{Either character string ("cup", "xfinity", "truck", "all") or data frame}
+\item{series}{Either character string
+("cup", "xfinity", "truck", "all") or data frame}
 
-\item{type}{Character string specifying return type ("summary", "season", "all")}
+\item{type}{Character string specifying return type
+("summary", "season", "all")}
 
 \item{interactive}{Logical. Is the session interactive?}
 }
 \value{
-Tibble with manufacturer statistics or NULL if no exact match
+Tibble with manufacturer statistics or NULL
 }
 \description{
 Enhanced Get Manufacturer Info with Smart Matching
@@ -31,15 +33,11 @@ Enhanced Get Manufacturer Info with Smart Matching
 # Get Toyota career summary
 get_manufacturer_info("Toyota")
 
-# Handle misspelling - will prompt for selection
-get_manufacturer_info("toyoda")
-# Found 1 manufacturers matching 'toyoda':
-#  1 - Toyota
-# Select manufacturer number: 1
-# Manufacturer: Toyota
-# Returns summary table
-
 # Get season-by-season data for Cup series only
-get_manufacturer_info("Toyota", series = "cup", type = "season")
+get_manufacturer_info(
+  "Toyota",
+  series = "cup",
+  type = "season"
+)
 }
 }

@@ -12,7 +12,12 @@
       "Bash(git branch:*)",
       "Bash(git checkout:*)",
       "Bash(Rscript:*)",
-      "Bash(tree:*)"
+      "Bash(tree:*)",
+      "mcp__claude_ai_Cloudflare_Developer_Platform__accounts_list",
+      "mcp__claude_ai_Cloudflare_Developer_Platform__set_active_account",
+      "mcp__claude_ai_Cloudflare_Developer_Platform__r2_buckets_list",
+      "mcp__claude_ai_Cloudflare_Developer_Platform__r2_bucket_get",
+      "Bash(ls:*)"
     ],
     "deny": [],
     "ask": []

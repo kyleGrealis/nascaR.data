@@ -27,3 +27,9 @@ project_notes.md
 pkgdown/
 
 .claude/
+^CLAUDE.md
+^.lintr
+^.pre-commit-config.yaml
+^\.checksums\.json$
+^MAINTAINER\.md$
+^data$

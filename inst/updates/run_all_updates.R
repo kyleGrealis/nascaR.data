@@ -3,58 +3,61 @@
 #' Orchestrator script that updates all three NASCAR series.
 #' Called by GitHub Actions every Monday morning.
 
-message('Starting NASCAR series updates...')
-message(paste('Current time:', Sys.time()))
+message("Starting NASCAR series updates...")
+message(paste("Current time:", Sys.time()))
 
 # Load all required libraries once
 suppressPackageStartupMessages({
+  library(arrow)
   library(dplyr)
   library(rvest)
   library(stringr)
   library(purrr)
-  library(httr)
+  library(httr2)
+  library(paws.storage)
 })
 
-# Source the consolidated scraper
-source('inst/updates/scraper.R')
+# Source the R2 upload function and consolidated scraper
+source("R/r2_upload.R")
+source("inst/updates/scraper.R")
 
 # Run all three series updates
-message('\n', paste(rep('=', 50), collapse = ''))
-message('STARTING ALL NASCAR SERIES UPDATES')
-message(paste(rep('=', 50), collapse = ''))
+message("\n", paste(rep("=", 50), collapse = ""))
+message("STARTING ALL NASCAR SERIES UPDATES")
+message(paste(rep("=", 50), collapse = ""))
 
 tryCatch(
   {
-    update_nascar_series('cup')
+    update_nascar_series("cup")
   },
   error = function(e) {
-    message('ERROR in Cup Series update: ', e$message)
+    message("ERROR in Cup Series update: ", e$message)
   }
 )
 
-message('\n', paste(rep('=', 50), collapse = ''))
+message("\n", paste(rep("=", 50), collapse = ""))
 
 tryCatch(
   {
-    update_nascar_series('xfinity')
+    update_nascar_series("xfinity")
   },
   error = function(e) {
-    message('ERROR in Xfinity Series update: ', e$message)
+    message("ERROR in Xfinity Series update: ", e$message)
   }
 )
 
-message('\n', paste(rep('=', 50), collapse = ''))
+message("\n", paste(rep("=", 50), collapse = ""))
 
 tryCatch(
   {
-    update_nascar_series('truck')
+    update_nascar_series("truck")
   },
   error = function(e) {
-    message('ERROR in Truck Series update: ', e$message)
+    message("ERROR in Truck Series update: ", e$message)
   }
 )
 
-message('\n', paste(rep('=', 50), collapse = ''))
-message('ALL NASCAR SERIES UPDATES COMPLETED!')
-message(paste(rep('=', 50), collapse = ''))
-message(paste('Finished at:', Sys.time()))
+message("\n", paste(rep("=", 50), collapse = ""))
+message("ALL NASCAR SERIES UPDATES COMPLETED!")
+message(paste(rep("=", 50), collapse = ""))
+message(paste("Finished at:", Sys.time()))

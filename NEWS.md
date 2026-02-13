@@ -1,13 +1,48 @@
-# nascaR.data 2.3.0.9000 (development version)
+# nascaR.data 3.0.0
 
-* Consolidated web scraping infrastructure for improved maintainability and
-  consistency across all NASCAR series.
+## Breaking Changes
 
-* Implemented comprehensive data validation system to ensure data quality and
-  integrity.
+* **Bundled data removed.** The `cup_series`, `xfinity_series`, and
+  `truck_series` datasets are no longer shipped with the package. All data
+  is now served from Cloudflare R2. Use `load_series()` to access data:
+  ```r
+  cup <- load_series("cup")
+  xfinity <- load_series("xfinity")
+  truck <- load_series("truck")
+  ```
 
-* Moved vignettes from development to production directory for improved
-  documentation accessibility.
+* **`arrow` is now a required dependency** (moved from Suggests to Imports)
+  since all data access goes through parquet files on R2.
+
+* **`data("cup_series")` no longer works.** Replace all `data()` calls with
+  `load_series()`. The old lazy-loaded dataset names are gone.
+
+* **Migrated from `httr` to `httr2`** for HTTP requests. The scraper now
+  uses `httr2::request()` with built-in retry logic (`req_retry()`).
+
+## New Features
+
+* **`load_series()`**: Two-tier caching (memory + disk). First call downloads
+  from R2 and caches locally. Subsequent calls are instant. Use
+  `refresh = TRUE` to force re-download.
+
+* **`clear_cache()`**: New exported function to wipe cached data from memory
+  and disk. Disk cache uses the CRAN-approved `tools::R_user_dir()` location.
+
+* **R2-canonical pipeline**: The weekly GitHub Actions scraper now reads
+  existing data from R2, appends new races, and uploads back to R2.
+  No local rda files are generated or committed.
+
+## Improvements
+
+* Consolidated web scraping with `httr2`, `imap_dfr()` indexing, explicit
+  column type coercion, placeholder detection, and empty table guards.
+
+* Data validation framework for schema, integrity, and value checks.
+
+* Code quality enforced with `styler` and `lintr` (zero warnings).
+
+* All `stop()` calls in package code replaced with `rlang::abort()`.
 
 
 # nascaR.data 2.2.3
@@ -30,14 +65,14 @@ remotes::install_github("kyleGrealis/nascaR.data") # please do not use "@weekly"
 * **Interactive driver/team/manufacturer selection**: When multiple matches are found, users can now select from a numbered list
 
 * **Intelligent fuzzy matching**: Dramatically improved search algorithm that handles typos, partial names, and word boundaries
-  * `find_driver("kyle")` → returns Kyle Busch, Kyle Larson, Kyle Petty, etc.
-  * `find_team("gibbs")` → finds Joe Gibbs Racing
-  * `find_driver("earnhart")` → correctly finds Earnhardt family drivers
+  * `find_driver("kyle")` -> returns Kyle Busch, Kyle Larson, Kyle Petty, etc.
+  * `find_team("gibbs")` -> finds Joe Gibbs Racing
+  * `find_driver("earnhart")` -> correctly finds Earnhardt family drivers
 
 * **Flexible series input**: All functions now accept both character strings AND data frames
-  * `get_driver_info("kyle", "cup")` ✓
-  * `get_driver_info("kyle", "Cup Series")` ✓
-  * `get_driver_info("kyle", cup_series)` ✓
+  * `get_driver_info("kyle", "cup")` check
+  * `get_driver_info("kyle", "Cup Series")` check
+  * `get_driver_info("kyle", cup_series)` check
 
 * **Smart string matching**: Handles variations like "cup", "Cup Series", "xfinity", "Xfinity Series" automatically
 

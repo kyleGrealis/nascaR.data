@@ -24,11 +24,15 @@ knitr:
 library(conflicted)
 library(ggtext)
 library(glue)
+library(nascaR.data)
 library(tidyverse)
 
-conflicted::conflict_prefer('filter', 'dplyr')
+conflicted::conflict_prefer("filter", "dplyr")
 # suppress "`summarise()` has grouped output by " messages
 options(dplyr.summarise.inform = FALSE)
+
+# Load Cup Series data for use throughout the vignette
+cup_series <- load_series("cup")
 ```
 
 ## In the Pits
@@ -44,14 +48,17 @@ NASCAR is one of the top-tier racing sports in North America and competes agains
 ```{r}
 #| echo: true
 library(nascaR.data)
+
+# Load data from cloud storage
+cup_series <- load_series("cup")
 ```
 
-The package includes three main datasets:  
-- `cup_series`: NASCAR Cup Series races from 1949-present  
-- `xfinity_series`: NASCAR Xfinity Series races from 1982-present  
-- `truck_series`: NASCAR Truck Series races from 1995-present  
+The package provides data for three series via `load_series()`:
+- `load_series("cup")`: NASCAR Cup Series races from 1949-present
+- `load_series("xfinity")`: NASCAR Xfinity Series races from 1982-present
+- `load_series("truck")`: NASCAR Truck Series races from 1995-present
 
-Each dataset contains race results with 19 columns including driver, team, manufacturer, finishing position, laps led, and more. Use `?cup_series` to view a complete list of variable descriptions.
+Each dataset contains race results with 19 columns including driver, team, manufacturer, finishing position, laps led, and more. Use `?load_series` to view a complete list of variable descriptions.
 
 The package also provides helper functions to quickly find and analyze drivers, teams, and manufacturers:  
 - `find_driver()`, `find_team()`, `find_manufacturer()`: Search for exact names  
@@ -72,7 +79,7 @@ cup_series |>
   arrange(desc(career_wins)) |>
   slice_head(n = 5) |>
   ggplot(aes(Driver, career_wins)) +
-  geom_bar(stat = 'identity') +
+  geom_bar(stat = "identity") +
   coord_flip()
 ```
 
@@ -80,12 +87,12 @@ cup_series |>
 #| echo: false
 #| warning: false
 
-driver_colors = c(
-  'Richard Petty' = '#04aeec',
-  'David Pearson' = '#630727',
-  'Jeff Gordon' = '#fc3812',
-  'Bobby Allison' = '#e4be8f',
-  'Darrell Waltrip' = '#24987a'
+driver_colors <- c(
+  "Richard Petty" = "#04aeec",
+  "David Pearson" = "#630727",
+  "Jeff Gordon" = "#fc3812",
+  "Bobby Allison" = "#e4be8f",
+  "Darrell Waltrip" = "#24987a"
 )
 
 cup_series |>
@@ -94,30 +101,31 @@ cup_series |>
   arrange(desc(career_wins)) |>
   slice_head(n = 5) |>
   ggplot(aes(fct_reorder(Driver, career_wins), career_wins, fill = Driver)) +
-  geom_bar(stat = 'identity', color = 'black', alpha = 0.8) +
+  geom_bar(stat = "identity", color = "black", alpha = 0.8) +
   geom_text(
-    aes(label = career_wins), vjust = 0.65, color = 'black',
+    aes(label = career_wins),
+    vjust = 0.65, color = "black",
     size = 3.5, hjust = 1.4
   ) +
   coord_flip() +
   theme_minimal() +
   scale_fill_manual(values = driver_colors) +
   labs(
-    title = 'NASCAR Cup Series Top 5 winning drivers',
-    subtitle = 'Career wins',
-    caption = 'Source: nascaR.data package',
+    title = "NASCAR Cup Series Top 5 winning drivers",
+    subtitle = "Career wins",
+    caption = "Source: nascaR.data package",
     x = NULL,
-    y = 'Career Wins'
+    y = "Career Wins"
   ) +
   theme(
-    legend.position = 'none',
+    legend.position = "none",
     plot.title = element_text(
-      color = 'black', face = 'bold', size = rel(1.5)
+      color = "black", face = "bold", size = rel(1.5)
     ),
     plot.subtitle = element_text(
-      color = 'black', size = rel(1.1)
+      color = "black", size = rel(1.1)
     ),
-    axis.text = element_text(color = 'black'),
+    axis.text = element_text(color = "black"),
     axis.text.x = element_blank()
   )
 ```
@@ -137,7 +145,7 @@ cup_series |>
   arrange(desc(career_wins)) |>
   slice_head(n = 5) |>
   ggplot(aes(Driver, win_pct)) +
-  geom_bar(stat = 'identity') +
+  geom_bar(stat = "identity") +
   coord_flip()
 ```
 
@@ -153,31 +161,31 @@ cup_series |>
   arrange(desc(career_wins)) |>
   slice_head(n = 5) |>
   ggplot(aes(fct_reorder(Driver, win_pct), win_pct, fill = Driver)) +
-  geom_bar(stat = 'identity', color = 'black', alpha = 0.8) +
+  geom_bar(stat = "identity", color = "black", alpha = 0.8) +
   geom_text(
     aes(label = scales::percent(win_pct, accuracy = 0.1)),
-    vjust = 0.65, color = 'black',
+    vjust = 0.65, color = "black",
     size = 3.5, hjust = 1.1
   ) +
   coord_flip() +
   theme_minimal() +
   scale_fill_manual(values = driver_colors) +
   labs(
-    title = 'NASCAR Cup Series Top 5 winning drivers',
-    subtitle = 'Career win percentage',
-    caption = 'Source: nascaR.data package',
+    title = "NASCAR Cup Series Top 5 winning drivers",
+    subtitle = "Career win percentage",
+    caption = "Source: nascaR.data package",
     x = NULL,
-    y = 'Career Win Percentage'
+    y = "Career Win Percentage"
   ) +
   theme(
-    legend.position = 'none',
+    legend.position = "none",
     plot.title = element_text(
-      color = 'black', face = 'bold', size = rel(1.5)
+      color = "black", face = "bold", size = rel(1.5)
     ),
     plot.subtitle = element_text(
-      color = 'black', size = rel(1.1)
+      color = "black", size = rel(1.1)
     ),
-    axis.text = element_text(color = 'black'),
+    axis.text = element_text(color = "black"),
     axis.text.x = element_blank()
   )
 ```
@@ -192,7 +200,7 @@ Let's shift gears and look at how modern drivers stack up. The `Win` column in o
 #| echo: true
 # Get all wins for a specific driver
 bell_wins <- cup_series |>
-  filter(Driver == 'Christopher Bell', Win == 1) |>
+  filter(Driver == "Christopher Bell", Win == 1) |>
   arrange(desc(Season))
 
 # How many Cup Series wins?
@@ -210,7 +218,7 @@ Christopher Bell has `r bell_total` Cup Series victories. Let's compare his perf
 #| echo: true
 # Average finish by track surface
 cup_series |>
-  filter(Driver == 'Christopher Bell', Season >= 2020) |>
+  filter(Driver == "Christopher Bell", Season >= 2020) |>
   group_by(Surface) |>
   summarize(
     races = n(),
@@ -228,15 +236,15 @@ Road courses show a strong average finish, but let's visualize performance trend
 #| eval: false
 # Visualize season-by-season performance
 cup_series |>
-  filter(Driver == 'Christopher Bell', Season >= 2020) |>
+  filter(Driver == "Christopher Bell", Season >= 2020) |>
   group_by(Season) |>
   summarize(
     avg_finish = mean(Finish, na.rm = TRUE),
     wins = sum(Win, na.rm = TRUE)
   ) |>
   ggplot(aes(Season, avg_finish)) +
-  geom_line(color = '#fb9f00', size = 1.2) +
-  geom_point(aes(size = wins), color = '#fb9f00') +
+  geom_line(color = "#fb9f00", size = 1.2) +
+  geom_point(aes(size = wins), color = "#fb9f00") +
   scale_y_reverse() +
   theme_minimal()
 ```
@@ -244,30 +252,30 @@ cup_series |>
 ```{r}
 #| echo: false
 cup_series |>
-  filter(Driver == 'Christopher Bell', Season >= 2020) |>
+  filter(Driver == "Christopher Bell", Season >= 2020) |>
   group_by(Season) |>
   summarize(
     avg_finish = mean(Finish, na.rm = TRUE),
     wins = sum(Win, na.rm = TRUE)
   ) |>
   ggplot(aes(Season, avg_finish)) +
-  geom_line(color = '#fb9f00', size = 1.2) +
-  geom_point(aes(size = wins), color = '#fb9f00', alpha = 0.7) +
+  geom_line(color = "#fb9f00", size = 1.2) +
+  geom_point(aes(size = wins), color = "#fb9f00", alpha = 0.7) +
   scale_y_reverse(limits = c(20, 5)) +
   scale_size_continuous(range = c(3, 8)) +
   theme_minimal() +
   labs(
-    title = 'Christopher Bell Cup Series Performance',
-    subtitle = 'Average finish position by season (2020-present)',
-    caption = 'Source: nascaR.data package\nPoint size = wins',
+    title = "Christopher Bell Cup Series Performance",
+    subtitle = "Average finish position by season (2020-present)",
+    caption = "Source: nascaR.data package\nPoint size = wins",
     x = NULL,
-    y = 'Average Finish Position'
+    y = "Average Finish Position"
   ) +
   theme(
-    legend.position = 'none',
-    plot.title = element_text(color = 'black', face = 'bold', size = rel(1.3)),
-    plot.subtitle = element_text(color = 'black', size = rel(1.0)),
-    axis.text = element_text(color = 'black'),
+    legend.position = "none",
+    plot.title = element_text(color = "black", face = "bold", size = rel(1.3)),
+    plot.subtitle = element_text(color = "black", size = rel(1.0)),
+    axis.text = element_text(color = "black"),
     panel.grid.minor = element_blank()
   )
 ```
@@ -295,17 +303,17 @@ cup_series |>
 
 ```{r}
 #| echo: false
-mfg_colors = c(
-  'Chevrolet' = '#c5b358',
-  'Dodge' = 'darkcyan',
-  'Ford' = '#003478',
-  'Toyota' = '#eb0a1e'
+mfg_colors <- c(
+  "Chevrolet" = "#c5b358",
+  "Dodge" = "darkcyan",
+  "Ford" = "#003478",
+  "Toyota" = "#eb0a1e"
 )
 
 cup_series |>
   filter(Season >= 2010) |>
   group_by(Season, Make) |>
-  summarize(avg_finish = mean(Finish, na.rm = TRUE), .groups = 'drop') |>
+  summarize(avg_finish = mean(Finish, na.rm = TRUE), .groups = "drop") |>
   ggplot(aes(Season, avg_finish, group = Make, color = Make)) +
   geom_line(alpha = 0.8, size = 1) +
   geom_point(size = 2) +
@@ -313,21 +321,21 @@ cup_series |>
   theme_minimal() +
   scale_color_manual(values = mfg_colors) +
   labs(
-    title = 'NASCAR Cup Series Manufacturer Performance',
-    subtitle = 'Average finish position by season (2010-present)',
-    caption = 'Source: nascaR.data package',
-    x = NULL, y = 'Average Finish Position'
+    title = "NASCAR Cup Series Manufacturer Performance",
+    subtitle = "Average finish position by season (2010-present)",
+    caption = "Source: nascaR.data package",
+    x = NULL, y = "Average Finish Position"
   ) +
   theme(
-    legend.position = 'top',
+    legend.position = "top",
     legend.title = element_blank(),
     plot.title = element_text(
-      color = 'black', face = 'bold', size = rel(1.35)
+      color = "black", face = "bold", size = rel(1.35)
     ),
     plot.subtitle = element_text(
-      color = 'black', size = rel(1.0)
+      color = "black", size = rel(1.0)
     ),
-    axis.text = element_text(color = 'black'),
+    axis.text = element_text(color = "black"),
     panel.grid.minor = element_blank()
   )
 ```
@@ -341,13 +349,13 @@ How do top teams compare when driving for different manufacturers? Let's look at
 ```{r}
 #| echo: true
 cup_series |>
-  filter(Team == 'Joe Gibbs Racing', Season >= 2000) |>
+  filter(Team == "Joe Gibbs Racing", Season >= 2000) |>
   group_by(Season, Make) |>
   summarize(
     races = n(),
     wins = sum(Win, na.rm = TRUE),
     avg_finish = round(mean(Finish, na.rm = TRUE), 1),
-    .groups = 'drop'
+    .groups = "drop"
   ) |>
   select(Season, Make, races, wins, avg_finish)
 ```
@@ -364,7 +372,7 @@ The `nascaR.data` package includes helper functions to make data exploration eas
 #| echo: true
 #| eval: false
 # Find a driver (handles partial matching)
-find_driver('bell')
+find_driver("bell")
 ```
 
 The `find_driver()` function returns exact matches if available, or suggests close matches if your search term is ambiguous.
@@ -373,7 +381,7 @@ The `find_driver()` function returns exact matches if available, or suggests clo
 #| echo: true
 #| eval: false
 # Get comprehensive driver statistics
-get_driver_info('Christopher Bell', series = 'cup', type = 'summary')
+get_driver_info("Christopher Bell", series = "cup", type = "summary")
 ```
 
 The `get_driver_info()` function provides three types of output:  
@@ -385,7 +393,7 @@ The `get_driver_info()` function provides three types of output:
 #| echo: true
 #| eval: false
 # Season-by-season performance
-get_driver_info('Christopher Bell', series = 'cup', type = 'season')
+get_driver_info("Christopher Bell", series = "cup", type = "season")
 ```
 
 ### Analyzing teams and manufacturers
@@ -396,16 +404,16 @@ The same helper functions work for teams and manufacturers:
 #| echo: true
 #| eval: false
 # Find team (handles partial names)
-find_team('gibbs')
+find_team("gibbs")
 
 # Get team statistics
-get_team_info('Joe Gibbs Racing', series = 'cup', type = 'summary')
+get_team_info("Joe Gibbs Racing", series = "cup", type = "summary")
 
 # Find manufacturer
-find_manufacturer('toyota')
+find_manufacturer("toyota")
 
 # Get manufacturer performance
-get_manufacturer_info('Toyota', series = 'all', type = 'season')
+get_manufacturer_info("Toyota", series = "all", type = "season")
 ```
 
 These functions make it quick to explore the data without memorizing exact spellings or worrying about capitalization.
@@ -417,12 +425,12 @@ Let's use the helper functions to compare several drivers' performance at a spec
 ```{r}
 #| echo: true
 # Compare drivers at Martinsville (short track)
-drivers_to_compare <- c('Christopher Bell', 'Kyle Larson', 'William Byron')
+drivers_to_compare <- c("Christopher Bell", "Kyle Larson", "William Byron")
 
 martinsville_comparison <- cup_series |>
   filter(
     Driver %in% drivers_to_compare,
-    Track == 'Martinsville Speedway',
+    Track == "Martinsville Speedway",
     Season >= 2020
   ) |>
   group_by(Driver) |>
@@ -442,7 +450,7 @@ This comparison shows how different drivers perform at the same track, accountin
 
 ## The Backstretch
 
-This vignette gives you a foundation for exploring NASCAR data with the `nascaR.data` package. The three datasets (`cup_series`, `xfinity_series`, `truck_series`) provide comprehensive race results, while the helper functions (`find_driver()`, `get_driver_info()`, and their team/manufacturer equivalents) make data exploration straightforward.
+This vignette gives you a foundation for exploring NASCAR data with the `nascaR.data` package. Use `load_series()` to access comprehensive race results for all three series, while the helper functions (`find_driver()`, `get_driver_info()`, and their team/manufacturer equivalents) make data exploration straightforward.
 
 There's plenty of opportunity to further analyze the data:  
 - Compare performance at different track types (oval, road course, superspeedway)  
