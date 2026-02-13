@@ -28,11 +28,13 @@ knitr::opts_chunk$set(eval = curl::has_internet())
 ```{r}
 #| label: load_packages
 #| echo: false
-library(conflicted)
-library(ggtext)
-library(glue)
-library(nascaR.data)
-library(tidyverse)
+suppressPackageStartupMessages({
+  library(conflicted)
+  library(ggtext)
+  library(glue)
+  library(nascaR.data)
+  library(tidyverse)
+})
 
 conflicted::conflict_prefer("filter", "dplyr")
 # suppress "`summarise()` has grouped output by " messages
