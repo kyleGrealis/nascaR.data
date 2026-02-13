@@ -1,0 +1,466 @@
+---
+title: "A Race Winning Strategy"
+author: 'Kyle Grealis'
+date: 'December 1, 2024'
+output: rmarkdown::html_vignette
+vignette: >
+  %\VignetteIndexEntry{A Race Winning Strategy}
+  %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteEncoding{UTF-8}
+knitr:
+  opts_chunk:
+    message: false
+    warning: false
+    error: false
+    comment: ""      # don't show ## with printed output
+    dpi: 100         # image resolution (typically 300 for publication)
+    fig-width: 6.5   # figure width
+    fig-height: 4.0  # figure height
+---
+
+```{r}
+#| label: load_packages
+#| echo: false
+library(conflicted)
+library(ggtext)
+library(glue)
+library(nascaR.data)
+library(tidyverse)
+
+conflicted::conflict_prefer("filter", "dplyr")
+# suppress "`summarise()` has grouped output by " messages
+options(dplyr.summarise.inform = FALSE)
+
+# Load Cup Series data for use throughout the vignette
+cup_series <- load_series("cup")
+```
+
+## In the Pits
+
+NASCAR is one of the top-tier racing sports in North America and competes against F1 and IndyCar for the top viewership spot. Approximately 3.22 million people watch a race on any given weekend throughout the season. The `nascaR.data` package is the result of wanting to share a passion for the sport and provide an option to the typical go-to packages when learning new data visualization tools.
+
+`nascaR.data` is packed full of NASCAR results dating back to the first Daytona Beach race in 1949! Use this package to discover race trends across the NASCAR Cup Series, Xfinity Series, and Craftsman Truck Series. Answer questions like "which driver has the best average finish at short tracks?", "how has a team's performance changed over time?", or see which manufacturer has dominated which series in a certain season. It's all here, so let's strap in to our race seats, fire up those engines, and let's take some warm-up laps.
+
+## Warming up the tires
+
+`nascaR.data` provides access to 3 datasets with race-by-race results for each NASCAR series, plus 6 helper functions to make exploring the data easier. Let's check our gauges and see what's under the hood:
+
+```{r}
+#| echo: true
+library(nascaR.data)
+
+# Load data from cloud storage
+cup_series <- load_series("cup")
+```
+
+The package provides data for three series via `load_series()`:
+- `load_series("cup")`: NASCAR Cup Series races from 1949-present
+- `load_series("xfinity")`: NASCAR Xfinity Series races from 1982-present
+- `load_series("truck")`: NASCAR Truck Series races from 1995-present
+
+Each dataset contains race results with 19 columns including driver, team, manufacturer, finishing position, laps led, and more. Use `?load_series` to view a complete list of variable descriptions.
+
+The package also provides helper functions to quickly find and analyze drivers, teams, and manufacturers:  
+- `find_driver()`, `find_team()`, `find_manufacturer()`: Search for exact names  
+- `get_driver_info()`, `get_team_info()`, `get_manufacturer_info()`: Get career statistics  
+
+## Green Flag!
+
+### Which drivers are in the Top 5 for wins in the NASCAR Cup Series?
+
+First, calculate total wins for each driver. Then, organize the drivers in descending order by wins, subset to keep the Top 5 winningest drivers, and feed the data into a horizontal bar chart (some other tweaks will be applied to enhance the visual output).
+
+```{r}
+#| echo: true
+#| eval: false
+cup_series |>
+  group_by(Driver) |>
+  summarize(career_wins = sum(Win, na.rm = TRUE)) |>
+  arrange(desc(career_wins)) |>
+  slice_head(n = 5) |>
+  ggplot(aes(Driver, career_wins)) +
+  geom_bar(stat = "identity") +
+  coord_flip()
+```
+
+```{r}
+#| echo: false
+#| warning: false
+
+driver_colors <- c(
+  "Richard Petty" = "#04aeec",
+  "David Pearson" = "#630727",
+  "Jeff Gordon" = "#fc3812",
+  "Bobby Allison" = "#e4be8f",
+  "Darrell Waltrip" = "#24987a"
+)
+
+cup_series |>
+  group_by(Driver) |>
+  summarize(career_wins = sum(Win, na.rm = TRUE)) |>
+  arrange(desc(career_wins)) |>
+  slice_head(n = 5) |>
+  ggplot(aes(fct_reorder(Driver, career_wins), career_wins, fill = Driver)) +
+  geom_bar(stat = "identity", color = "black", alpha = 0.8) +
+  geom_text(
+    aes(label = career_wins),
+    vjust = 0.65, color = "black",
+    size = 3.5, hjust = 1.4
+  ) +
+  coord_flip() +
+  theme_minimal() +
+  scale_fill_manual(values = driver_colors) +
+  labs(
+    title = "NASCAR Cup Series Top 5 winning drivers",
+    subtitle = "Career wins",
+    caption = "Source: nascaR.data package",
+    x = NULL,
+    y = "Career Wins"
+  ) +
+  theme(
+    legend.position = "none",
+    plot.title = element_text(
+      color = "black", face = "bold", size = rel(1.5)
+    ),
+    plot.subtitle = element_text(
+      color = "black", size = rel(1.1)
+    ),
+    axis.text = element_text(color = "black"),
+    axis.text.x = element_blank()
+  )
+```
+
+Wow! This doesn't even look like a close race. Richard Petty clearly leads the field with 200 wins. However, let's take a drive a little deeper into the turn and account for the number of races each driver competed in. What if we compare these same five drivers by win percentage?
+
+```{r}
+#| echo: true
+#| eval: false
+cup_series |>
+  group_by(Driver) |>
+  summarize(
+    career_wins = sum(Win, na.rm = TRUE),
+    total_races = n(),
+    win_pct = career_wins / total_races
+  ) |>
+  arrange(desc(career_wins)) |>
+  slice_head(n = 5) |>
+  ggplot(aes(Driver, win_pct)) +
+  geom_bar(stat = "identity") +
+  coord_flip()
+```
+
+```{r}
+#| echo: false
+cup_series |>
+  group_by(Driver) |>
+  summarize(
+    career_wins = sum(Win, na.rm = TRUE),
+    total_races = n(),
+    win_pct = career_wins / total_races
+  ) |>
+  arrange(desc(career_wins)) |>
+  slice_head(n = 5) |>
+  ggplot(aes(fct_reorder(Driver, win_pct), win_pct, fill = Driver)) +
+  geom_bar(stat = "identity", color = "black", alpha = 0.8) +
+  geom_text(
+    aes(label = scales::percent(win_pct, accuracy = 0.1)),
+    vjust = 0.65, color = "black",
+    size = 3.5, hjust = 1.1
+  ) +
+  coord_flip() +
+  theme_minimal() +
+  scale_fill_manual(values = driver_colors) +
+  labs(
+    title = "NASCAR Cup Series Top 5 winning drivers",
+    subtitle = "Career win percentage",
+    caption = "Source: nascaR.data package",
+    x = NULL,
+    y = "Career Win Percentage"
+  ) +
+  theme(
+    legend.position = "none",
+    plot.title = element_text(
+      color = "black", face = "bold", size = rel(1.5)
+    ),
+    plot.subtitle = element_text(
+      color = "black", size = rel(1.1)
+    ),
+    axis.text = element_text(color = "black"),
+    axis.text.x = element_blank()
+  )
+```
+
+Accounting for total races run, we see a different story emerge. David Pearson's win percentage leads the pack at 18.3%, followed by Richard Petty at 16.9%. Imagine how many more wins Pearson would have accumulated if he had competed in as many races as The King.
+
+### Modern driver performance: Analyzing race results
+
+Let's shift gears and look at how modern drivers stack up. The `Win` column in our datasets makes it easy to filter for race victories and analyze performance trends.
+
+```{r}
+#| echo: true
+# Get all wins for a specific driver
+bell_wins <- cup_series |>
+  filter(Driver == "Christopher Bell", Win == 1) |>
+  arrange(desc(Season))
+
+# How many Cup Series wins?
+nrow(bell_wins)
+```
+
+```{r}
+#| echo: false
+bell_total <- nrow(bell_wins)
+```
+
+Christopher Bell has `r bell_total` Cup Series victories. Let's compare his performance across different track types to see where he excels.
+
+```{r}
+#| echo: true
+# Average finish by track surface
+cup_series |>
+  filter(Driver == "Christopher Bell", Season >= 2020) |>
+  group_by(Surface) |>
+  summarize(
+    races = n(),
+    avg_finish = round(mean(Finish, na.rm = TRUE), 1),
+    wins = sum(Win, na.rm = TRUE),
+    laps_led = sum(Led, na.rm = TRUE)
+  ) |>
+  arrange(avg_finish)
+```
+
+Road courses show a strong average finish, but let's visualize performance trends over time to see the full picture.
+
+```{r}
+#| echo: true
+#| eval: false
+# Visualize season-by-season performance
+cup_series |>
+  filter(Driver == "Christopher Bell", Season >= 2020) |>
+  group_by(Season) |>
+  summarize(
+    avg_finish = mean(Finish, na.rm = TRUE),
+    wins = sum(Win, na.rm = TRUE)
+  ) |>
+  ggplot(aes(Season, avg_finish)) +
+  geom_line(color = "#fb9f00", size = 1.2) +
+  geom_point(aes(size = wins), color = "#fb9f00") +
+  scale_y_reverse() +
+  theme_minimal()
+```
+
+```{r}
+#| echo: false
+cup_series |>
+  filter(Driver == "Christopher Bell", Season >= 2020) |>
+  group_by(Season) |>
+  summarize(
+    avg_finish = mean(Finish, na.rm = TRUE),
+    wins = sum(Win, na.rm = TRUE)
+  ) |>
+  ggplot(aes(Season, avg_finish)) +
+  geom_line(color = "#fb9f00", size = 1.2) +
+  geom_point(aes(size = wins), color = "#fb9f00", alpha = 0.7) +
+  scale_y_reverse(limits = c(20, 5)) +
+  scale_size_continuous(range = c(3, 8)) +
+  theme_minimal() +
+  labs(
+    title = "Christopher Bell Cup Series Performance",
+    subtitle = "Average finish position by season (2020-present)",
+    caption = "Source: nascaR.data package\nPoint size = wins",
+    x = NULL,
+    y = "Average Finish Position"
+  ) +
+  theme(
+    legend.position = "none",
+    plot.title = element_text(color = "black", face = "bold", size = rel(1.3)),
+    plot.subtitle = element_text(color = "black", size = rel(1.0)),
+    axis.text = element_text(color = "black"),
+    panel.grid.minor = element_blank()
+  )
+```
+
+The trend shows consistent improvement, with better average finishes in recent seasons. Lower numbers are better — a reversed y-axis makes this clearer.
+
+## The Garage Area
+
+### Which manufacturer has the best performance by season?
+
+Let's go behind the pit wall and see what the manufacturers are up to in the Cup Series. We'll look at average finish position to get a comprehensive view of performance.
+
+```{r}
+#| echo: true
+#| eval: false
+cup_series |>
+  filter(Season >= 2010) |>
+  group_by(Season, Make) |>
+  summarize(avg_finish = mean(Finish, na.rm = TRUE)) |>
+  ggplot(aes(Season, avg_finish, group = Make, color = Make)) +
+  geom_line() +
+  geom_point() +
+  scale_y_reverse()
+```
+
+```{r}
+#| echo: false
+mfg_colors <- c(
+  "Chevrolet" = "#c5b358",
+  "Dodge" = "darkcyan",
+  "Ford" = "#003478",
+  "Toyota" = "#eb0a1e"
+)
+
+cup_series |>
+  filter(Season >= 2010) |>
+  group_by(Season, Make) |>
+  summarize(avg_finish = mean(Finish, na.rm = TRUE), .groups = "drop") |>
+  ggplot(aes(Season, avg_finish, group = Make, color = Make)) +
+  geom_line(alpha = 0.8, size = 1) +
+  geom_point(size = 2) +
+  scale_y_reverse() +
+  theme_minimal() +
+  scale_color_manual(values = mfg_colors) +
+  labs(
+    title = "NASCAR Cup Series Manufacturer Performance",
+    subtitle = "Average finish position by season (2010-present)",
+    caption = "Source: nascaR.data package",
+    x = NULL, y = "Average Finish Position"
+  ) +
+  theme(
+    legend.position = "top",
+    legend.title = element_blank(),
+    plot.title = element_text(
+      color = "black", face = "bold", size = rel(1.35)
+    ),
+    plot.subtitle = element_text(
+      color = "black", size = rel(1.0)
+    ),
+    axis.text = element_text(color = "black"),
+    panel.grid.minor = element_blank()
+  )
+```
+
+Toyota and Chevrolet have been trading competitive positions, with both showing strong performance in recent years. Ford has shown improvement since 2015, while Dodge exited the series after 2012.
+
+### Comparing team performance across manufacturers
+
+How do top teams compare when driving for different manufacturers? Let's look at Joe Gibbs Racing's transition from Chevrolet to Toyota.
+
+```{r}
+#| echo: true
+cup_series |>
+  filter(Team == "Joe Gibbs Racing", Season >= 2000) |>
+  group_by(Season, Make) |>
+  summarize(
+    races = n(),
+    wins = sum(Win, na.rm = TRUE),
+    avg_finish = round(mean(Finish, na.rm = TRUE), 1),
+    .groups = "drop"
+  ) |>
+  select(Season, Make, races, wins, avg_finish)
+```
+
+Joe Gibbs Racing switched to Toyota in 2008, and the performance data tells the story of that partnership's success over the following years.
+
+## Using the Helper Functions
+
+The `nascaR.data` package includes helper functions to make data exploration easier. These functions handle fuzzy matching, so you don't need to type exact names.
+
+### Finding drivers and getting their statistics
+
+```{r}
+#| echo: true
+#| eval: false
+# Find a driver (handles partial matching)
+find_driver("bell")
+```
+
+The `find_driver()` function returns exact matches if available, or suggests close matches if your search term is ambiguous.
+
+```{r}
+#| echo: true
+#| eval: false
+# Get comprehensive driver statistics
+get_driver_info("Christopher Bell", series = "cup", type = "summary")
+```
+
+The `get_driver_info()` function provides three types of output:  
+- `'summary'`: Career totals by series  
+- `'season'`: Season-by-season breakdown  
+- `'all'`: Complete race-by-race results  
+
+```{r}
+#| echo: true
+#| eval: false
+# Season-by-season performance
+get_driver_info("Christopher Bell", series = "cup", type = "season")
+```
+
+### Analyzing teams and manufacturers
+
+The same helper functions work for teams and manufacturers:
+
+```{r}
+#| echo: true
+#| eval: false
+# Find team (handles partial names)
+find_team("gibbs")
+
+# Get team statistics
+get_team_info("Joe Gibbs Racing", series = "cup", type = "summary")
+
+# Find manufacturer
+find_manufacturer("toyota")
+
+# Get manufacturer performance
+get_manufacturer_info("Toyota", series = "all", type = "season")
+```
+
+These functions make it quick to explore the data without memorizing exact spellings or worrying about capitalization.
+
+### Practical example: Comparing multiple drivers
+
+Let's use the helper functions to compare several drivers' performance at a specific track.
+
+```{r}
+#| echo: true
+# Compare drivers at Martinsville (short track)
+drivers_to_compare <- c("Christopher Bell", "Kyle Larson", "William Byron")
+
+martinsville_comparison <- cup_series |>
+  filter(
+    Driver %in% drivers_to_compare,
+    Track == "Martinsville Speedway",
+    Season >= 2020
+  ) |>
+  group_by(Driver) |>
+  summarize(
+    races = n(),
+    wins = sum(Win, na.rm = TRUE),
+    avg_finish = round(mean(Finish, na.rm = TRUE), 1),
+    avg_start = round(mean(Start, na.rm = TRUE), 1),
+    laps_led = sum(Led, na.rm = TRUE)
+  ) |>
+  arrange(avg_finish)
+
+martinsville_comparison
+```
+
+This comparison shows how different drivers perform at the same track, accounting for starting position, finishing position, and laps led.
+
+## The Backstretch
+
+This vignette gives you a foundation for exploring NASCAR data with the `nascaR.data` package. Use `load_series()` to access comprehensive race results for all three series, while the helper functions (`find_driver()`, `get_driver_info()`, and their team/manufacturer equivalents) make data exploration straightforward.
+
+There's plenty of opportunity to further analyze the data:  
+- Compare performance at different track types (oval, road course, superspeedway)  
+- Analyze how rule changes affected competition  
+- Track the evolution of manufacturer dominance over decades  
+- Examine the relationship between qualifying position and race results  
+- Study how teams perform with different drivers  
+
+The data is updated regularly throughout the season, so you'll always have access to the latest race results. Whether you're creating visualizations, building models, or just exploring NASCAR history, this package has you covered.
+
+## Toolbox
+
+`nascaR.data` was built with `r stringr::word(R.Version()$version.string, 1, 3)` with the `tidyverse` (`r packageVersion("tidyverse")`) and `ggtext` (`r packageVersion("ggtext")`) packages used to preprocess and summarize data.

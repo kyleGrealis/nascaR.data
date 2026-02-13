@@ -1,4 +1,4 @@
-url: https://kylegrealis.github.io/nascaR.data/
+url: https://www.kyleGrealis.com/nascaR.data/
 template:
   bootstrap: 5
   light-switch: true
@@ -7,17 +7,11 @@ template:
     border-radius: 0.5rem
     btn-border-radius: 0.25rem
 
-navbar:
-  structure:
-    left: [intro, reference, articles, news]
-    right: [search, github]
-  components:
-    new:
-      text: Changelog
-      href: news/index.html
-  
 articles:
   - title: Green Flag
+    navbar: ~
+    contents:
+      - a-race-winning-strategy
 
 reference:
   - title: "Data"

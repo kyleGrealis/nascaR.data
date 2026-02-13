@@ -8,11 +8,18 @@ message(paste("Current time:", Sys.time()))
 
 # Load all required libraries once
 suppressPackageStartupMessages({
+  library(arrow)
   library(dplyr)
   library(rvest)
   library(stringr)
   library(purrr)
+  library(httr2)
+  library(paws.storage)
 })
+
+# Source the R2 upload function and consolidated scraper
+source("R/r2_upload.R")
+source("inst/updates/scraper.R")
 
 # Run all three series updates
 message("\n", paste(rep("=", 50), collapse = ""))
@@ -21,7 +28,7 @@ message(paste(rep("=", 50), collapse = ""))
 
 tryCatch(
   {
-    source("inst/updates/update_cup.R")
+    update_nascar_series("cup")
   },
   error = function(e) {
     message("ERROR in Cup Series update: ", e$message)
@@ -32,7 +39,7 @@ message("\n", paste(rep("=", 50), collapse = ""))
 
 tryCatch(
   {
-    source("inst/updates/update_xfinity.R")
+    update_nascar_series("xfinity")
   },
   error = function(e) {
     message("ERROR in Xfinity Series update: ", e$message)
@@ -43,7 +50,7 @@ message("\n", paste(rep("=", 50), collapse = ""))
 
 tryCatch(
   {
-    source("inst/updates/update_truck.R")
+    update_nascar_series("truck")
   },
   error = function(e) {
     message("ERROR in Truck Series update: ", e$message)

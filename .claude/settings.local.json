@@ -1,0 +1,25 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git -C /home/kyle/dev/nascaR.data log --oneline -20)",
+      "Bash(git -C /home/kyle/dev/nascaR.data branch:*)",
+      "Bash(git -C /home/kyle/dev/nascaR.data log --grep=\"automated\" --oneline)",
+      "Bash(git -C /home/kyle/dev/nascaR.data diff main..weekly)",
+      "Bash(git -C /home/kyle/dev/nascaR.data log --stat -1 0efd98a)",
+      "Bash(git -C /home/kyle/dev/nascaR.data log --all --graph --oneline -15)",
+      "Bash(git -C /home/kyle/dev/nascaR.data log --all --author=\"GitHub Actions\" --oneline)",
+      "Bash(git -C /home/kyle/dev/nascaR.data log --all --author=\"GitHub Actions\" --format=\"%cd\" --date=format:\"%Y-%m-%d\")",
+      "Bash(git branch:*)",
+      "Bash(git checkout:*)",
+      "Bash(Rscript:*)",
+      "Bash(tree:*)",
+      "mcp__claude_ai_Cloudflare_Developer_Platform__accounts_list",
+      "mcp__claude_ai_Cloudflare_Developer_Platform__set_active_account",
+      "mcp__claude_ai_Cloudflare_Developer_Platform__r2_buckets_list",
+      "mcp__claude_ai_Cloudflare_Developer_Platform__r2_bucket_get",
+      "Bash(ls:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}

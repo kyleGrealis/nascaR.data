@@ -10,28 +10,35 @@
 
 ----
 
-> ⚠️ **Version Notice**: The version on CRAN contains race data through the 2025 Nashville race (race number 14). This GitHub version includes automated weekly updates. The updated data is available every Monday during the race season (February through November) on the `main` branch. See below for details on installing and updating.
-
 **nascaR.data** provides historical race results from NASCAR's top three series: Cup (1949-present), Xfinity (1982-present), and Trucks (1995-present). Explore driver, team, and manufacturer performance in a race-by-race, season, or career format. This data has been expertly curated and scraped with permission from [DriverAverages.com](https://www.driveraverages.com).
-
-> ⚠️⚠️ **Deprecating `weekly` branch**: Beginning June 2025, please use the `main` branch for the weekly updates and no longer use the `weekly` branch. The GitHub Action that scrapes the results will push updates to `main`. The `weekly` branch will be removed at the end of the 2025 season. Thank you :)
 
 ## Installation
 
-For the most up-to-date results, install the from the `main` branch. This branch will update every Monday:
-
+Install from CRAN:
 ```r
-remotes::install_github('kyleGrealis/nascaR.data')
+install.packages("nascaR.data")
 ```
 
-Install the stable CRAN version (through Nashville race of the 2025 season):
+Or install the development version from GitHub:
 ```r
-install.packages('nascaR.data')
-# or
-remotes::install_cran('nascaR.data')
+remotes::install_github("kyleGrealis/nascaR.data")
 ```
 
-> Stable CRAN package updates are planned sporadically throughtout the season.
+## Loading Data
+
+All data is served from cloud storage. Use `load_series()` to access race results:
+
+```r
+library(nascaR.data)
+
+cup <- load_series("cup")
+xfinity <- load_series("xfinity")
+truck <- load_series("truck")
+```
+
+Data is cached locally after the first download for instant access. Use `refresh = TRUE` to force a fresh download, or `clear_cache()` to wipe the cache.
+
+Data is updated automatically every Monday during the racing season (February through November).
 
 ---
 
@@ -41,11 +48,11 @@ NASCAR is one of the top-tier racing sports in North America and competes agains
 
 ## Data Structure
 
-The package provides three main datasets:
+Three series are available via `load_series()`:
 
-* `cup_series`: NASCAR Cup Series race results (1949-present)
-* `xfinity_series`: NASCAR Xfinity Series race results (1982-present)
-* `truck_series`: NASCAR Craftsman Truck Series results (1995-present)
+* `load_series("cup")`: NASCAR Cup Series race results (1949-present)
+* `load_series("xfinity")`: NASCAR Xfinity Series race results (1982-present)
+* `load_series("truck")`: NASCAR Craftsman Truck Series results (1995-present)
 
 Each dataset contains detailed race information including:
 
@@ -62,16 +69,6 @@ Load the package:
 
 ```r
 library(nascaR.data)
-```
-
-### Race Data
-
-View the dataset documentation:
-
-```r
-?cup_series
-?xfinity_series
-?truck_series
 ```
 
 ### Driver, Team, & Manufacturer Data
@@ -141,18 +138,11 @@ This package provides rich historical data for:
 
 | Function | Description |
 |----------|-------------|
+| `load_series()` | Load race data from cloud storage (with caching) |
+| `clear_cache()` | Clear cached data from memory and disk |
 | `get_driver_info()` | Obtain race, season, or career performance results |
 | `get_team_info()` | Team-specific race, season, or career results (i.e., Petty Enterprises) |
 | `get_manufacturer_info()` | Ford, Chevy, Toyota, Dodge, even Studebaker |
-
-### Dataset Reference
-
-| Dataset |  |
-|---------|--|
-| `cup_series` | Across the many names from Winston Cup to Sprint Cup and more |
-| `xfinity_series` | Using the current series name (as of Jan. 2025) |
-| `truck_series` | Same as the others. Though names have changed, the passion remains |
-
 
 ## Contributing
 

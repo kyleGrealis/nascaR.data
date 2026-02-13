@@ -1,0 +1,9 @@
+linters: linters_with_defaults(
+    line_length_linter(90),
+    object_name_linter(styles = "snake_case"),
+    pipe_call_linter()
+  )
+exclusions: list(
+    "inst",
+    "vignettes"
+  )

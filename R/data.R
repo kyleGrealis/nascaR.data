@@ -1,6 +1,3 @@
-#' @keywords internal
-"_PACKAGE"
-
 # Declare global variables used in dplyr/tidyr operations
 utils::globalVariables(c(
   "Driver",
@@ -14,98 +11,104 @@ utils::globalVariables(c(
   "Team",
   "Win"
 ))
-#' NASCAR Cup Series Race Data
-#'
-#' Historical race results for NASCAR Cup Series races from 1949-present. Includes finishing position,
-#' driver and car information, track details, and performance metrics for each entry.
-#'
-#' @format A data frame with rows representing each car/driver entry and 19 columns:
-#' \describe{
-#'   \item{Season}{Race season year}
-#'   \item{Race}{Race number within the season}
-#'   \item{Track}{Name of the racetrack}
-#'   \item{Name}{Official race name}
-#'   \item{Length}{Track length in miles}
-#'   \item{Surface}{Track surface type (e.g., "road", "oval")}
-#'   \item{Finish}{Finishing position}
-#'   \item{Start}{Starting position}
-#'   \item{Car}{Car number}
-#'   \item{Driver}{Driver name}
-#'   \item{Team}{Racing team name}
-#'   \item{Make}{Car manufacturer}
-#'   \item{Pts}{Championship points earned}
-#'   \item{Laps}{Number of laps completed}
-#'   \item{Led}{Number of laps led}
-#'   \item{Status}{Race completion status (e.g., "running", "crash")}
-#'   \item{S1}{Segment 1 finish position}
-#'   \item{S2}{Segment 2 finish position}
-#'   \item{Seg Points}{Segment points -- deprecated}
-#'   \item{Rating}{Driver rating for the race}
-#'   \item{Win}{Binary indicator if driver won the race (1 = yes, 0 = no)}
-#' }
-#' @source Data scraped from Driver Averages (https://www.driveraverages.com)
-"cup_series"
 
-#' NASCAR Xfinity Series Race Data
+#' Load NASCAR Series Data
 #'
-#' Historical race results for NASCAR Xfinity Series races from 1982-present. Includes finishing position,
-#' driver and car information, track details, and performance metrics for each entry.
+#' Downloads NASCAR series data from Cloudflare R2 as a parquet file.
+#' Uses two-tier caching (memory + disk) for performance. On first
+#' call, data is downloaded and cached locally. Subsequent calls
+#' return cached data instantly.
 #'
-#' @format A data frame with rows representing each car/driver entry and 19 columns:
-#' \describe{
-#'   \item{Season}{Race season year}
-#'   \item{Race}{Race number within the season}
-#'   \item{Track}{Name of the racetrack}
-#'   \item{Name}{Official race name}
-#'   \item{Length}{Track length in miles}
-#'   \item{Surface}{Track surface type (e.g., "road", "oval")}
-#'   \item{Finish}{Finishing position}
-#'   \item{Start}{Starting position}
-#'   \item{Car}{Car number}
-#'   \item{Driver}{Driver name}
-#'   \item{Team}{Racing team name}
-#'   \item{Make}{Car manufacturer}
-#'   \item{Pts}{Championship points earned}
-#'   \item{Laps}{Number of laps completed}
-#'   \item{Led}{Number of laps led}
-#'   \item{Status}{Race completion status (e.g., "running", "crash")}
-#'   \item{S1}{Segment 1 finish position}
-#'   \item{S2}{Segment 2 finish position}
-#'   \item{Seg Points}{Segment points -- deprecated}
-#'   \item{Rating}{Driver rating for the race}
-#'   \item{Win}{Binary indicator if driver won the race (1 = yes, 0 = no)}
+#' @param series Character. The series to load. One of `"cup"`,
+#'   `"xfinity"`, or `"truck"`.
+#' @param refresh Logical. If `TRUE`, bypass the cache and
+#'   re-download from cloud storage. Default is `FALSE`.
+#'
+#' @return A data frame with race results containing columns:
+#'   Season, Race, Track, Name, Length, Surface, Finish, Start,
+#'   Car, Driver, Team, Make, Pts, Laps, Led, Status, S1, S2,
+#'   Rating, and Win.
+#'
+#' @details
+#' Requires the `arrow` package to read parquet files. If `arrow`
+#' is not installed, you will be prompted to install it.
+#'
+#' ## Caching
+#'
+#' Data is cached in two tiers:
+#' \itemize{
+#'   \item **Memory**: Instant access within the current R session.
+#'   \item **Disk**: Persists across sessions at the CRAN-approved
+#'     location returned by
+#'     `tools::R_user_dir("nascaR.data", which = "cache")`.
 #' }
-#' @source Data scraped from Driver Averages (https://www.driveraverages.com)
-"xfinity_series"
+#'
+#' Use `refresh = TRUE` to force a fresh download, or
+#' [clear_cache()] to remove all cached data.
+#'
+#' @examples
+#' \dontrun{
+#' # Load Cup Series data (downloads on first call, cached after)
+#' cup <- load_series("cup")
+#'
+#' # Load Xfinity Series data
+#' xfinity <- load_series("xfinity")
+#'
+#' # Load Truck Series data
+#' truck <- load_series("truck")
+#'
+#' # Force re-download from cloud storage
+#' cup <- load_series("cup", refresh = TRUE)
+#' }
+#'
+#' @export
+load_series <- function(series = c("cup", "xfinity", "truck"),
+                        refresh = FALSE) {
+  series <- match.arg(series)
+  cache_key <- paste0(series, "_series")
 
-#' NASCAR Truck Series Race Data
-#'
-#' Historical race results for NASCAR Truck Series races from 1995-present. Includes finishing position,
-#' driver and car information, track details, and performance metrics for each entry.
-#'
-#' @format A data frame with rows representing each car/driver entry and 19 columns:
-#' \describe{
-#'   \item{Season}{Race season year}
-#'   \item{Race}{Race number within the season}
-#'   \item{Track}{Name of the racetrack}
-#'   \item{Name}{Official race name}
-#'   \item{Length}{Track length in miles}
-#'   \item{Surface}{Track surface type (e.g., "road", "oval")}
-#'   \item{Finish}{Finishing position}
-#'   \item{Start}{Starting position}
-#'   \item{Car}{Car number}
-#'   \item{Driver}{Driver name}
-#'   \item{Team}{Racing team name}
-#'   \item{Make}{Car manufacturer}
-#'   \item{Pts}{Championship points earned}
-#'   \item{Laps}{Number of laps completed}
-#'   \item{Led}{Number of laps led}
-#'   \item{Status}{Race completion status (e.g., "running", "crash")}
-#'   \item{S1}{Segment 1 finish position}
-#'   \item{S2}{Segment 2 finish position}
-#'   \item{Seg Points}{Segment points -- deprecated}
-#'   \item{Rating}{Driver rating for the race}
-#'   \item{Win}{Binary indicator if driver won the race (1 = yes, 0 = no)}
-#' }
-#' @source Data scraped from Driver Averages (https://www.driveraverages.com)
-"truck_series"
+  # 1. Memory cache (instant, within session)
+  if (!refresh && exists(cache_key, envir = .nascar_cache)) { # nolint
+    return(get(cache_key, envir = .nascar_cache)) # nolint
+  }
+
+  rlang::check_installed("arrow", reason = "to load NASCAR data")
+
+  # 2. Disk cache (persists across sessions)
+  disk_path <- file.path(
+    cache_dir(), # nolint
+    paste0(cache_key, ".parquet")
+  )
+
+  if (!refresh && file.exists(disk_path)) {
+    data <- arrow::read_parquet(disk_path)
+    assign(cache_key, data, envir = .nascar_cache) # nolint
+    return(data)
+  }
+
+  # 3. Download from R2
+  url <- glue(
+    "https://nascar.kylegrealis.com/{cache_key}.parquet"
+  )
+
+  data <- tryCatch(
+    arrow::read_parquet(url),
+    error = function(e) {
+      rlang::abort(c(
+        glue("Failed to load {series} series data."),
+        i = glue("URL: {url}"),
+        i = "Check your internet connection.",
+        i = "If cached data exists, use load_series(refresh = FALSE)."
+      ))
+    }
+  )
+
+  # Save to disk cache
+  dir.create(cache_dir(), recursive = TRUE, showWarnings = FALSE) # nolint
+  arrow::write_parquet(data, disk_path)
+
+  # Save to memory cache
+  assign(cache_key, data, envir = .nascar_cache) # nolint
+
+  data
+}

@@ -77,7 +77,7 @@ smart_match <- function(search_term, data_column, max_results = 5) {
   }
 
   # 6. TYPO/FUZZY MATCHING (lowest priority)
-  # For cases like "earnhart" → "Earnhardt"
+  # For cases like "earnhart" -> "Earnhardt"
   fuzzy_matches <- c()
   if (nchar(search_clean) >= 4) {
     # Only for longer terms
@@ -88,8 +88,9 @@ smart_match <- function(search_term, data_column, max_results = 5) {
         if (nchar(word) >= 4) {
           # Check if most characters match (allowing 1-2 typos)
           similarity <- 1 -
-            (stringdist::stringdist(search_clean, word, method = "lv") /
-              max(nchar(search_clean), nchar(word)))
+            (stringdist::stringdist(
+              search_clean, word, method = "lv"
+            ) / max(nchar(search_clean), nchar(word)))
           if (similarity >= 0.7) {
             # 70% similarity threshold
             fuzzy_matches <- c(fuzzy_matches, i)
@@ -105,7 +106,10 @@ smart_match <- function(search_term, data_column, max_results = 5) {
     starts_with,
     setdiff(contains_term, starts_with),
     setdiff(word_matches, c(starts_with, contains_term)),
-    setdiff(partial_matches, c(starts_with, contains_term, word_matches)),
+    setdiff(
+      partial_matches,
+      c(starts_with, contains_term, word_matches)
+    ),
     setdiff(
       fuzzy_matches,
       c(starts_with, contains_term, word_matches, partial_matches)
@@ -120,7 +124,7 @@ smart_match <- function(search_term, data_column, max_results = 5) {
     return(character(0))
   }
 
-  return(unique_options[final_matches])
+  unique_options[final_matches]
 }
 
 #' Flexible Series Data Handler
@@ -136,13 +140,13 @@ get_series_data <- function(series) {
 
     # Smart series name detection
     if (str_detect(series_clean, "cup")) {
-      return(selected_series_data("cup"))
+      selected_series_data("cup")
     } else if (str_detect(series_clean, "xfinity")) {
-      return(selected_series_data("xfinity"))
+      selected_series_data("xfinity")
     } else if (str_detect(series_clean, "truck")) {
-      return(selected_series_data("truck"))
+      selected_series_data("truck")
     } else if (str_detect(series_clean, "all")) {
-      return(selected_series_data("all"))
+      selected_series_data("all")
     } else {
       # Try the original function for exact matches
       tryCatch(
@@ -150,11 +154,10 @@ get_series_data <- function(series) {
           selected_series_data(series)
         },
         error = function(e) {
-          stop(paste(
-            "Unknown series:",
-            series,
-            "\nValid options: cup, xfinity, truck, all"
-          ))
+          rlang::abort(
+            glue("Unknown series: {series}"),
+            i = "Valid options: cup, xfinity, truck, all"
+          )
         }
       )
     }
@@ -164,13 +167,14 @@ get_series_data <- function(series) {
 
     # Add Series column if missing
     if (!"Series" %in% names(race_data)) {
-      # Try to detect series from common patterns or just mark as "Custom"
       race_data$Series <- "Custom"
     }
 
-    return(race_data)
+    race_data
   } else {
-    stop("series must be either a character string or a data frame")
+    rlang::abort(
+      "series must be either a character string or a data frame"
+    )
   }
 }
 
@@ -215,17 +219,12 @@ find_driver <- function(
   }
 
   if (length(matches) == 1) {
-    return(matches)
+    matches
   } else {
     if (interactive && base::interactive()) {
       # Interactive selection
-      message(paste(
-        "Found ",
-        length(matches),
-        " drivers matching '",
-        search_term,
-        "':",
-        sep = ""
+      message(glue(
+        "Found {length(matches)} drivers matching '{search_term}':"
       ))
       for (i in seq_along(matches)) {
         message(paste(" ", i, "-", matches[i]))
@@ -242,29 +241,26 @@ find_driver <- function(
 
       choice_num <- suppressWarnings(as.numeric(choice))
       if (
-        !is.na(choice_num) && choice_num >= 1 && choice_num <= length(matches)
+        !is.na(choice_num) &&
+          choice_num >= 1 &&
+          choice_num <= length(matches)
       ) {
-        return(matches[choice_num])
+        matches[choice_num]
       } else {
         message("Invalid selection. Returning all matches.")
-        return(matches)
+        matches
       }
     } else {
-      # Non-interactive mode - return list with helpful message
-      message(paste(
-        "Found ",
-        length(matches),
-        " drivers matching '",
-        search_term,
-        "':",
-        sep = ""
+      # Non-interactive mode
+      message(glue(
+        "Found {length(matches)} drivers matching '{search_term}':"
       ))
       message("To get specific driver data, use exact name from:")
       for (i in seq_along(matches)) {
         message(paste(" ", i, "-", matches[i]))
       }
       message("")
-      return(matches)
+      matches
     }
   }
 }
@@ -310,23 +306,20 @@ find_team <- function(
   }
 
   if (length(matches) == 1) {
-    return(matches)
+    matches
   } else {
     if (interactive && base::interactive()) {
       # Interactive selection
-      message(paste(
-        "Found ",
-        length(matches),
-        " teams matching '",
-        search_term,
-        "':",
-        sep = ""
+      message(glue(
+        "Found {length(matches)} teams matching '{search_term}':"
       ))
       for (i in seq_along(matches)) {
         message(paste(" ", i, "-", matches[i]))
       }
 
-      choice <- readline("Select team number (or press Enter to return all): ")
+      choice <- readline(
+        "Select team number (or press Enter to return all): "
+      )
       choice <- str_trim(choice)
 
       if (choice == "") {
@@ -335,29 +328,26 @@ find_team <- function(
 
       choice_num <- suppressWarnings(as.numeric(choice))
       if (
-        !is.na(choice_num) && choice_num >= 1 && choice_num <= length(matches)
+        !is.na(choice_num) &&
+          choice_num >= 1 &&
+          choice_num <= length(matches)
       ) {
-        return(matches[choice_num])
+        matches[choice_num]
       } else {
         message("Invalid selection. Returning all matches.")
-        return(matches)
+        matches
       }
     } else {
-      # Non-interactive mode - return list with helpful message
-      message(paste(
-        "Found ",
-        length(matches),
-        " teams matching '",
-        search_term,
-        "':",
-        sep = ""
+      # Non-interactive mode
+      message(glue(
+        "Found {length(matches)} teams matching '{search_term}':"
       ))
       message("To get specific team data, use exact name from:")
       for (i in seq_along(matches)) {
         message(paste(" ", i, "-", matches[i]))
       }
       message("")
-      return(matches)
+      matches
     }
   }
 }
@@ -408,17 +398,13 @@ find_manufacturer <- function(
   }
 
   if (length(matches) == 1) {
-    return(matches)
+    matches
   } else {
     if (interactive && base::interactive()) {
       # Interactive selection
-      message(paste(
-        "Found ",
-        length(matches),
-        " manufacturers matching '",
-        search_term,
-        "':",
-        sep = ""
+      message(glue(
+        "Found {length(matches)} manufacturers ",
+        "matching '{search_term}':"
       ))
       for (i in seq_along(matches)) {
         message(paste(" ", i, "-", matches[i]))
@@ -435,29 +421,29 @@ find_manufacturer <- function(
 
       choice_num <- suppressWarnings(as.numeric(choice))
       if (
-        !is.na(choice_num) && choice_num >= 1 && choice_num <= length(matches)
+        !is.na(choice_num) &&
+          choice_num >= 1 &&
+          choice_num <= length(matches)
       ) {
-        return(matches[choice_num])
+        matches[choice_num]
       } else {
         message("Invalid selection. Returning all matches.")
-        return(matches)
+        matches
       }
     } else {
-      # Non-interactive mode - return list with helpful message
-      message(paste(
-        "Found ",
-        length(matches),
-        " manufacturers matching '",
-        search_term,
-        "':",
-        sep = ""
+      # Non-interactive mode
+      message(glue(
+        "Found {length(matches)} manufacturers ",
+        "matching '{search_term}':"
       ))
-      message("To get specific manufacturer data, use exact name from:")
+      message(
+        "To get specific manufacturer data, use exact name from:"
+      )
       for (i in seq_along(matches)) {
         message(paste(" ", i, "-", matches[i]))
       }
       message("")
-      return(matches)
+      matches
     }
   }
 }
@@ -465,8 +451,10 @@ find_manufacturer <- function(
 #' Enhanced Get Driver Info with Smart Matching
 #'
 #' @param driver Character string of driver name to search for
-#' @param series Either character string ("cup", "xfinity", "truck", "all") or data frame
-#' @param type Character string specifying return type ("summary", "season", "all")
+#' @param series Either character string
+#'   ("cup", "xfinity", "truck", "all") or data frame
+#' @param type Character string specifying return type
+#'   ("summary", "season", "all")
 #' @param interactive Logical. Is the session interactive?
 #' @return Tibble with driver statistics or NULL if no exact match
 #' @examples
@@ -474,16 +462,12 @@ find_manufacturer <- function(
 #' # Get Christopher Bell's career summary
 #' get_driver_info("Christopher Bell")
 #'
-#' # Handle misspelling - will prompt for selection
-#' get_driver_info("cristopher bell")
-#' # Found 1 drivers matching 'cristopher bell':
-#' #  1 - Christopher Bell
-#' # Select driver number: 1
-#' # Driver: Christopher Bell
-#' # Returns summary table
-#'
 #' # Get season-by-season data for Cup series only
-#' get_driver_info("Christopher Bell", series = "cup", type = "season")
+#' get_driver_info(
+#'   "Christopher Bell",
+#'   series = "cup",
+#'   type = "season"
+#' )
 #' }
 #' @export
 get_driver_info <- function(
@@ -494,17 +478,21 @@ get_driver_info <- function(
 ) {
   # Input validation
   if (is.null(driver) || is.null(series) || is.null(type)) {
-    stop("Please enter correct values. See ?get_driver_info")
+    rlang::abort(
+      "Please enter correct values. See ?get_driver_info"
+    )
   }
   if (!str_to_lower(type) %in% c("summary", "season", "all")) {
-    stop("Invalid type. Must be: summary, season, or all")
+    rlang::abort("Invalid type. Must be: summary, season, or all")
   }
 
   # Get race data
   race_data <- get_series_data(series)
 
   # Find driver matches
-  driver_matches <- smart_match(driver, race_data$Driver, max_results = 10)
+  driver_matches <- smart_match(
+    driver, race_data$Driver, max_results = 10
+  )
 
   if (length(driver_matches) == 0) {
     message(paste("No drivers found matching:", driver))
@@ -517,20 +505,18 @@ get_driver_info <- function(
   } else {
     if (interactive && base::interactive()) {
       # Interactive selection
-      message(paste(
-        "Found ",
-        length(driver_matches),
-        " drivers matching '",
-        driver,
-        "':",
-        sep = ""
+      message(glue(
+        "Found {length(driver_matches)} drivers ",
+        "matching '{driver}':"
       ))
       for (i in seq_along(driver_matches)) {
         message(paste(" ", i, "-", driver_matches[i]))
       }
 
       choice <- readline("Select driver number: ")
-      choice_num <- suppressWarnings(as.numeric(str_trim(choice)))
+      choice_num <- suppressWarnings(
+        as.numeric(str_trim(choice))
+      )
 
       if (
         !is.na(choice_num) &&
@@ -539,23 +525,24 @@ get_driver_info <- function(
       ) {
         selected_driver <- driver_matches[choice_num]
       } else {
-        message("Invalid selection. Using first match:", driver_matches[1])
+        message(
+          "Invalid selection. Using first match:",
+          driver_matches[1]
+        )
         selected_driver <- driver_matches[1]
       }
     } else {
       # Non-interactive mode - use first match but warn user
-      message(paste(
-        "Multiple drivers found matching '",
-        driver,
-        "':",
-        sep = ""
+      message(glue(
+        "Multiple drivers found matching '{driver}':"
       ))
       for (i in seq_along(driver_matches)) {
         message(paste(" ", i, "-", driver_matches[i]))
       }
       message("\nUsing first match:", driver_matches[1])
       message(
-        "For other drivers, use more specific search terms or set interactive = TRUE"
+        "For other drivers, use more specific ",
+        "search terms or set interactive = TRUE"
       )
       selected_driver <- driver_matches[1]
     }
@@ -569,7 +556,7 @@ get_driver_info <- function(
 
   # Return results based on type
   if (type == "season") {
-    driver_table <- race_results |>
+    race_results |>
       group_by(Series, Season) |>
       summarize(
         Races = n_distinct(Name),
@@ -580,9 +567,8 @@ get_driver_info <- function(
         `Laps Led` = sum(Led, na.rm = TRUE),
         .groups = "drop"
       )
-    return(driver_table)
   } else if (type == "summary") {
-    driver_table <- race_results |>
+    race_results |>
       group_by(Series) |>
       summarize(
         Seasons = n_distinct(Season),
@@ -594,17 +580,18 @@ get_driver_info <- function(
         `Laps Led` = sum(Led, na.rm = TRUE),
         .groups = "drop"
       )
-    return(driver_table)
   } else if (type == "all") {
-    return(race_results)
+    race_results
   }
 }
 
 #' Enhanced Get Team Info with Smart Matching
 #'
 #' @param team Character string of team name to search for
-#' @param series Either character string ("cup", "xfinity", "truck", "all") or data frame
-#' @param type Character string specifying return type ("summary", "season", "all")
+#' @param series Either character string
+#'   ("cup", "xfinity", "truck", "all") or data frame
+#' @param type Character string specifying return type
+#'   ("summary", "season", "all")
 #' @param interactive Logical. Is the session interactive?
 #' @return Tibble with team statistics or NULL if no exact match
 #' @examples
@@ -612,16 +599,12 @@ get_driver_info <- function(
 #' # Get Joe Gibbs Racing career summary
 #' get_team_info("Joe Gibbs Racing")
 #'
-#' # Handle partial name - will prompt for selection
-#' get_team_info("joe gib racing")
-#' # Found 1 teams matching 'joe gib racing':
-#' #  1 - Joe Gibbs Racing
-#' # Select team number: 1
-#' # Team: Joe Gibbs Racing
-#' # Returns summary table
-#'
 #' # Get season-by-season data for Cup series only
-#' get_team_info("Joe Gibbs Racing", series = "cup", type = "season")
+#' get_team_info(
+#'   "Joe Gibbs Racing",
+#'   series = "cup",
+#'   type = "season"
+#' )
 #' }
 #' @export
 get_team_info <- function(
@@ -632,17 +615,21 @@ get_team_info <- function(
 ) {
   # Input validation
   if (is.null(team) || is.null(series) || is.null(type)) {
-    stop("Please enter correct values. See ?get_team_info")
+    rlang::abort(
+      "Please enter correct values. See ?get_team_info"
+    )
   }
   if (!str_to_lower(type) %in% c("summary", "season", "all")) {
-    stop("Invalid type. Must be: summary, season, or all")
+    rlang::abort("Invalid type. Must be: summary, season, or all")
   }
 
   # Get race data
   race_data <- get_series_data(series)
 
   # Find team matches
-  team_matches <- smart_match(team, race_data$Team, max_results = 10)
+  team_matches <- smart_match(
+    team, race_data$Team, max_results = 10
+  )
 
   if (length(team_matches) == 0) {
     message(paste("No teams found matching:", team))
@@ -655,20 +642,18 @@ get_team_info <- function(
   } else {
     if (interactive && base::interactive()) {
       # Interactive selection
-      message(paste(
-        "Found ",
-        length(team_matches),
-        " teams matching '",
-        team,
-        "':",
-        sep = ""
+      message(glue(
+        "Found {length(team_matches)} teams ",
+        "matching '{team}':"
       ))
       for (i in seq_along(team_matches)) {
         message(paste(" ", i, "-", team_matches[i]))
       }
 
       choice <- readline("Select team number: ")
-      choice_num <- suppressWarnings(as.numeric(str_trim(choice)))
+      choice_num <- suppressWarnings(
+        as.numeric(str_trim(choice))
+      )
 
       if (
         !is.na(choice_num) &&
@@ -677,18 +662,24 @@ get_team_info <- function(
       ) {
         selected_team <- team_matches[choice_num]
       } else {
-        message("Invalid selection. Using first match:", team_matches[1])
+        message(
+          "Invalid selection. Using first match:",
+          team_matches[1]
+        )
         selected_team <- team_matches[1]
       }
     } else {
       # Non-interactive mode - use first match but warn user
-      message(paste("Multiple teams found matching '", team, "':", sep = ""))
+      message(glue(
+        "Multiple teams found matching '{team}':"
+      ))
       for (i in seq_along(team_matches)) {
         message(paste(" ", i, "-", team_matches[i]))
       }
       message("\nUsing first match:", team_matches[1])
       message(
-        "For other teams, use more specific search terms or set interactive = TRUE"
+        "For other teams, use more specific ",
+        "search terms or set interactive = TRUE"
       )
       selected_team <- team_matches[1]
     }
@@ -702,7 +693,7 @@ get_team_info <- function(
 
   # Return results based on type
   if (type == "season") {
-    team_table <- race_results |>
+    race_results |>
       group_by(Series, Season) |>
       summarize(
         Races = n_distinct(Name),
@@ -714,9 +705,8 @@ get_team_info <- function(
         `Laps Led` = sum(Led, na.rm = TRUE),
         .groups = "drop"
       )
-    return(team_table)
   } else if (type == "summary") {
-    team_table <- race_results |>
+    race_results |>
       group_by(Series) |>
       summarize(
         Seasons = n_distinct(Season),
@@ -729,34 +719,31 @@ get_team_info <- function(
         `Laps Led` = sum(Led, na.rm = TRUE),
         .groups = "drop"
       )
-    return(team_table)
   } else if (type == "all") {
-    return(race_results)
+    race_results
   }
 }
 
 #' Enhanced Get Manufacturer Info with Smart Matching
 #'
-#' @param manufacturer Character string of manufacturer name to search for
-#' @param series Either character string ("cup", "xfinity", "truck", "all") or data frame
-#' @param type Character string specifying return type ("summary", "season", "all")
+#' @param manufacturer Character string of manufacturer name
+#' @param series Either character string
+#'   ("cup", "xfinity", "truck", "all") or data frame
+#' @param type Character string specifying return type
+#'   ("summary", "season", "all")
 #' @param interactive Logical. Is the session interactive?
-#' @return Tibble with manufacturer statistics or NULL if no exact match
+#' @return Tibble with manufacturer statistics or NULL
 #' @examples
 #' \dontrun{
 #' # Get Toyota career summary
 #' get_manufacturer_info("Toyota")
 #'
-#' # Handle misspelling - will prompt for selection
-#' get_manufacturer_info("toyoda")
-#' # Found 1 manufacturers matching 'toyoda':
-#' #  1 - Toyota
-#' # Select manufacturer number: 1
-#' # Manufacturer: Toyota
-#' # Returns summary table
-#'
 #' # Get season-by-season data for Cup series only
-#' get_manufacturer_info("Toyota", series = "cup", type = "season")
+#' get_manufacturer_info(
+#'   "Toyota",
+#'   series = "cup",
+#'   type = "season"
+#' )
 #' }
 #' @export
 get_manufacturer_info <- function(
@@ -767,17 +754,21 @@ get_manufacturer_info <- function(
 ) {
   # Input validation
   if (is.null(manufacturer) || is.null(series) || is.null(type)) {
-    stop("Please enter correct values. See ?get_manufacturer_info")
+    rlang::abort(
+      "Please enter correct values. See ?get_manufacturer_info"
+    )
   }
   if (!str_to_lower(type) %in% c("summary", "season", "all")) {
-    stop("Invalid type. Must be: summary, season, or all")
+    rlang::abort("Invalid type. Must be: summary, season, or all")
   }
 
   # Get race data
   race_data <- get_series_data(series)
 
   # Find manufacturer matches
-  mfg_matches <- smart_match(manufacturer, race_data$Make, max_results = 10)
+  mfg_matches <- smart_match(
+    manufacturer, race_data$Make, max_results = 10
+  )
 
   if (length(mfg_matches) == 0) {
     message(paste("No manufacturers found matching:", manufacturer))
@@ -790,20 +781,18 @@ get_manufacturer_info <- function(
   } else {
     if (interactive && base::interactive()) {
       # Interactive selection
-      message(paste(
-        "Found ",
-        length(mfg_matches),
-        " manufacturers matching '",
-        manufacturer,
-        "':",
-        sep = ""
+      message(glue(
+        "Found {length(mfg_matches)} manufacturers ",
+        "matching '{manufacturer}':"
       ))
       for (i in seq_along(mfg_matches)) {
         message(paste(" ", i, "-", mfg_matches[i]))
       }
 
       choice <- readline("Select manufacturer number: ")
-      choice_num <- suppressWarnings(as.numeric(str_trim(choice)))
+      choice_num <- suppressWarnings(
+        as.numeric(str_trim(choice))
+      )
 
       if (
         !is.na(choice_num) &&
@@ -812,23 +801,25 @@ get_manufacturer_info <- function(
       ) {
         selected_mfg <- mfg_matches[choice_num]
       } else {
-        message("Invalid selection. Using first match:", mfg_matches[1])
+        message(
+          "Invalid selection. Using first match:",
+          mfg_matches[1]
+        )
         selected_mfg <- mfg_matches[1]
       }
     } else {
       # Non-interactive mode - use first match but warn user
-      message(paste(
-        "Multiple manufacturers found matching '",
-        manufacturer,
-        "':",
-        sep = ""
+      message(glue(
+        "Multiple manufacturers found ",
+        "matching '{manufacturer}':"
       ))
       for (i in seq_along(mfg_matches)) {
         message(paste(" ", i, "-", mfg_matches[i]))
       }
       message("\nUsing first match:", mfg_matches[1])
       message(
-        "For other manufacturers, use more specific search terms or set interactive = TRUE"
+        "For other manufacturers, use more specific ",
+        "search terms or set interactive = TRUE"
       )
       selected_mfg <- mfg_matches[1]
     }
@@ -842,7 +833,7 @@ get_manufacturer_info <- function(
 
   # Return results based on type
   if (type == "season") {
-    mfg_table <- race_results |>
+    race_results |>
       group_by(Series, Season) |>
       summarize(
         Races = n_distinct(Name),
@@ -853,9 +844,8 @@ get_manufacturer_info <- function(
         `Laps Led` = sum(Led, na.rm = TRUE),
         .groups = "drop"
       )
-    return(mfg_table)
   } else if (type == "summary") {
-    mfg_table <- race_results |>
+    race_results |>
       group_by(Series) |>
       summarize(
         Seasons = n_distinct(Season),
@@ -867,8 +857,7 @@ get_manufacturer_info <- function(
         `Laps Led` = sum(Led, na.rm = TRUE),
         .groups = "drop"
       )
-    return(mfg_table)
   } else if (type == "all") {
-    return(race_results)
+    race_results
   }
 }

@@ -174,3 +174,7 @@ cran-comments*
 CRAN-SUBMISSION*
 inst/extdata/debug/
 ..Rcheck
+
+**/*.quarto_ipynb
+.claude/
+CLAUDE.md
