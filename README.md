@@ -86,13 +86,13 @@ get_driver_info("Christopher Bell")
 ```
 
 ```
-Christopher Bell
+Driver: Christopher Bell
 # A tibble: 3 × 8
-  Series  Seasons `Career Races`  Wins `Best Finish` `Avg Finish` `Laps Raced` `Laps Led`
-  <chr>     <int>          <int> <dbl>         <int>        <dbl>        <int>      <int>
-1 Cup           5            180     9             1         15.1        45321       2435
-2 Truck         6             57     7             1          8.5         8132       1216
-3 NXS           6             79    19             1          9.8        12909       3245
+  Series Seasons `Career Races`  Wins `Best Finish` `Avg Finish` `Laps Raced` `Laps Led`
+  <chr>    <int>          <int> <dbl>         <int>        <dbl>        <int>      <int>
+1 Cup          6            216    13             1         14.5        54607       2717
+2 NXS          7             81    19             1         10.3        13092       3272
+3 Truck        7             58     7             1          8.4         8213       1246
 ```
 
 ```r
@@ -101,28 +101,30 @@ get_driver_info("Christopher Bell", type = "season")
 ```
 
 ```
-Christopher Bell
-# A tibble: 17 × 8
-# Groups:   Series [3]
-   Series  Season Races  Wins `Best Finish` `Avg Finish` `Laps Raced` `Laps Led`
-   <chr>    <int> <int> <dbl>         <int>        <dbl>        <int>      <int>
- 1 Cup       2020    36     0             3         20.2         9428         18
- 2 Cup       2021    36     1             1         15.8         8911        100
- 3 Cup       2022    36     3             1         13.8         8816        573
- 4 Cup       2023    36     2             1         12.9         8868        599
- 5 Cup       2024    35     3             1         12.8         9298       1145
- 6 Truck     2015     7     1             1         11.9         1018        111
- 7 Truck     2016    23     1             1          9.5         3237        197
- 8 Truck     2017    23     5             1          5.7         3247        875
- 9 Truck     2018     1     0            28         28            184         31
-10 Truck     2023     2     0             4         10            312          0
-11 Truck     2024     1     0             5          5            134          2
-12 NXS       2017     8     1             1         11.5         1423        156
-13 NXS       2018    32     7             1         11.1         5112        759
-14 NXS       2019    31     8             1          9.1         5574       2005
-15 NXS       2021     2     1             1          3.5          300        174
-16 NXS       2022     1     0             7          7            147          0
-17 NXS       2024     2     2             1          1            353        151
+Driver: Christopher Bell
+# A tibble: 20 × 8
+   Series Season Races  Wins `Best Finish` `Avg Finish` `Laps Raced` `Laps Led`
+   <chr>   <int> <int> <dbl>         <int>        <dbl>        <int>      <int>
+ 1 Cup      2020    36     0             3         20.2         9428         18
+ 2 Cup      2021    36     1             1         15.8         8911        100
+ 3 Cup      2022    36     3             1         13.8         8816        573
+ 4 Cup      2023    36     2             1         12.9         8868        599
+ 5 Cup      2024    35     3             1         12.8         9298       1145
+ 6 Cup      2025    35     4             1         11.2         9286        282
+ 7 NXS      2017     8     1             1         11.5         1423        156
+ 8 NXS      2018    32     7             1         11.1         5112        759
+ 9 NXS      2019    31     8             1          9.1         5574       2005
+10 NXS      2021     2     1             1          3.5          300        174
+11 NXS      2022     1     0             7          7            147          0
+12 NXS      2024     2     2             1          1            353        151
+13 NXS      2025     2     0            25         32            183         27
+14 Truck    2015     7     1             1         11.9         1018        111
+15 Truck    2016    23     1             1          9.5         3237        197
+16 Truck    2017    23     5             1          5.7         3247        875
+17 Truck    2018     1     0            28         28            184         31
+18 Truck    2023     2     0             4         10            312          0
+19 Truck    2024     1     0             5          5            134          2
+20 Truck    2025     1     0             4          4             81         30
 ```
 
 Or search by race team or manufacturer:
@@ -162,6 +164,3 @@ We're open to suggestions! If you have ideas for new features, please open an is
 ---
 
 Developed by [Kyle Grealis](https://github.com/kyleGrealis)
-
-
-
