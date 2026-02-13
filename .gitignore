@@ -178,3 +178,4 @@ inst/extdata/debug/
 **/*.quarto_ipynb
 .claude/
 CLAUDE.md
+data/
