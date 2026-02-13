@@ -4,35 +4,43 @@
 \alias{load_series}
 \title{Load NASCAR Series Data}
 \usage{
-load_series(series = c("cup", "xfinity", "truck"), refresh = FALSE)
+load_series(series = c("cup", "nxs", "truck"), refresh = FALSE)
 }
 \arguments{
 \item{series}{Character. The series to load. One of \code{"cup"},
-\code{"xfinity"}, or \code{"truck"}.}
+\code{"nxs"}, or \code{"truck"}.}
 
 \item{refresh}{Logical. If \code{TRUE}, bypass the cache and
 re-download from cloud storage. Default is \code{FALSE}.}
 }
 \value{
-A data frame with race results containing columns:
+A data frame with 21 columns of race results:
 Season, Race, Track, Name, Length, Surface, Finish, Start,
 Car, Driver, Team, Make, Pts, Laps, Led, Status, S1, S2,
-Rating, and Win.
+S3, Rating, and Win.
 }
 \description{
-Downloads NASCAR series data from Cloudflare R2 as a parquet file.
-Uses two-tier caching (memory + disk) for performance. On first
-call, data is downloaded and cached locally. Subsequent calls
-return cached data instantly.
+Downloads NASCAR series data from Cloudflare R2 as a parquet
+file. Uses two-tier caching (memory + disk) for performance.
+On first call, data is downloaded and cached locally.
+Subsequent calls return cached data instantly.
 }
 \details{
-Requires the \code{arrow} package to read parquet files. If \code{arrow}
-is not installed, you will be prompted to install it.
+\subsection{Why "nxs"?}{
+
+NASCAR's NXS uses the sponsor-neutral identifier \code{"nxs"}
+rather than a sponsor name. The series has been sponsored by
+Busch (1984-2007), Nationwide (2008-2014), Xfinity
+(2015-2025), and O'Reilly Auto Parts (2026-present). Using
+\code{"nxs"} keeps the identifier stable across sponsor changes.
+}
+
 \subsection{Caching}{
 
 Data is cached in two tiers:
 \itemize{
-\item \strong{Memory}: Instant access within the current R session.
+\item \strong{Memory}: Instant access within the current R
+session.
 \item \strong{Disk}: Persists across sessions at the CRAN-approved
 location returned by
 \code{tools::R_user_dir("nascaR.data", which = "cache")}.
@@ -43,12 +51,12 @@ Use \code{refresh = TRUE} to force a fresh download, or
 }
 }
 \examples{
-\dontrun{
+\donttest{
 # Load Cup Series data (downloads on first call, cached after)
 cup <- load_series("cup")
 
-# Load Xfinity Series data
-xfinity <- load_series("xfinity")
+# Load NXS data
+nxs <- load_series("nxs")
 
 # Load Truck Series data
 truck <- load_series("truck")
@@ -57,4 +65,9 @@ truck <- load_series("truck")
 cup <- load_series("cup", refresh = TRUE)
 }
 
+}
+\seealso{
+\link{series_data} for column descriptions,
+\code{\link[=clear_cache]{clear_cache()}} for cache management,
+\code{\link[=get_driver_info]{get_driver_info()}} for driver statistics.
 }

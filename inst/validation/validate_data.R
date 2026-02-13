@@ -32,7 +32,7 @@ format_msg <- function(type, msg) {
 #' Main validation function that runs all validation checks on series data.
 #'
 #' @param data A data frame containing NASCAR series data.
-#' @param series_name Character. One of 'cup', 'xfinity', or 'truck'.
+#' @param series_name Character. One of 'cup', 'nxs', or 'truck'.
 #' @param track_info A data frame containing track reference information.
 #'
 #' @return Logical. TRUE if all validations pass, otherwise stops with error.
@@ -70,8 +70,8 @@ check_schema <- function(data, series_name) {
   required_cols <- c(
     "Season", "Race", "Track", "Name", "Length", "Surface",
     "Finish", "Start", "Car", "Driver", "Make", "Pts",
-    "Laps", "Led", "Status", "Team", "S1", "S2",
-    "Rating", "Win", "Seg Points"
+    "Laps", "Led", "Status", "Team", "S1", "S2", "S3",
+    "Rating", "Win"
   )
 
   expected_types <- list(
@@ -93,9 +93,9 @@ check_schema <- function(data, series_name) {
     Team = "character",
     S1 = "integer",
     S2 = "integer",
+    S3 = "integer",
     Rating = "numeric",
-    Win = "numeric",
-    "Seg Points" = "integer"
+    Win = "numeric"
   )
 
   # Check for missing required columns
@@ -115,22 +115,26 @@ check_schema <- function(data, series_name) {
     actual_type <- class(data[[col]])[1]
     expected_type <- expected_types[[col]]
 
-    if (!actual_type %in% c(expected_type, "numeric")) {
-      # Allow numeric for integer columns (R sometimes converts)
-      if (!(expected_type == "integer" && actual_type == "numeric")) {
-        stop(
-          paste0(
-            'Column "', col, '" has incorrect type in ', series_name, " series. ",
-            "Expected: ", expected_type, ", Got: ", actual_type
-          ),
-          call. = FALSE
-        )
-      }
+    type_ok <- actual_type == expected_type ||
+      (expected_type == "integer" && actual_type == "numeric")
+    if (!type_ok) {
+      stop(
+        paste0(
+          'Column "', col, '" has incorrect type in ', series_name, " series. ",
+          "Expected: ", expected_type, ", Got: ", actual_type
+        ),
+        call. = FALSE
+      )
     }
   }
 
   # Check for completely empty columns (all NA)
+  # S1, S2, S3, and Rating are era/series-dependent (legitimately
+  # all-NA for early seasons or non-Cup series for S3)
+  allowed_all_na <- c("S1", "S2", "S3", "Rating")
+
   for (col in required_cols) {
+    if (col %in% allowed_all_na) next
     if (all(is.na(data[[col]]))) {
       stop(
         paste0(
@@ -215,12 +219,16 @@ check_integrity <- function(data, series_name) {
     )
   }
 
-  # Check seasons are reasonable (>= 1949, <= current year + 1)
+  # Check seasons are reasonable (series-specific minimums, <= current year + 1)
+  min_season <- c(cup = 1949, nxs = 1982, truck = 1995)
+  series_min <- min_season[series_name]
+  if (is.na(series_min)) series_min <- 1949
+
   current_year <- as.integer(format(Sys.Date(), "%Y"))
   max_allowed_season <- current_year + 1
 
   invalid_seasons <- data |>
-    dplyr::filter(Season < 1949 | Season > max_allowed_season) |>
+    dplyr::filter(Season < series_min | Season > max_allowed_season) |>
     dplyr::select(Season) |>
     dplyr::distinct()
 
@@ -229,7 +237,7 @@ check_integrity <- function(data, series_name) {
       paste0(
         "Found invalid seasons in ", series_name, " series: ",
         paste(invalid_seasons$Season, collapse = ", "),
-        ". Seasons must be >= 1949 and <= ", max_allowed_season
+        ". Seasons must be >= ", series_min, " and <= ", max_allowed_season
       ),
       call. = FALSE
     )
@@ -261,6 +269,20 @@ check_integrity <- function(data, series_name) {
       paste0(
         "Found ", invalid_start, " invalid start positions in ",
         series_name, " series. Start must be non-negative integers or NA."
+      ),
+      call. = FALSE
+    )
+  }
+
+  # Check minimum row count (catch catastrophic data loss)
+  min_rows <- c(cup = 100000, nxs = 50000, truck = 30000)
+  expected_min <- min_rows[series_name]
+  if (!is.na(expected_min) && nrow(data) < expected_min) {
+    stop(
+      paste0(
+        "Row count for ", series_name, " series is suspiciously low: ",
+        format(nrow(data), big.mark = ","), " rows. ",
+        "Expected at least ", format(expected_min, big.mark = ","), "."
       ),
       call. = FALSE
     )
@@ -356,6 +378,25 @@ check_values <- function(data, series_name) {
         "Found rows with invalid driver names (NA or empty) in ",
         series_name, " series. Sample:\n",
         paste(capture.output(print(invalid_drivers)), collapse = "\n")
+      ),
+      call. = FALSE
+    )
+  }
+
+  # Check Win column matches Finish == 1
+  win_mismatch <- data |>
+    dplyr::filter(
+      (!is.na(Win) & !is.na(Finish)) &
+        ((Finish == 1 & Win != 1) | (Finish != 1 & Win == 1))
+    ) |>
+    nrow()
+
+  if (win_mismatch > 0) {
+    stop(
+      paste0(
+        "Found ", win_mismatch, " rows where Win column ",
+        "does not match Finish == 1 in ",
+        series_name, " series."
       ),
       call. = FALSE
     )

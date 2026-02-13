@@ -23,21 +23,15 @@
 #' @keywords internal
 #' @noRd
 nascar_r2_upload <- function(x, name, bucket = "nascar-data") {
-  if (!requireNamespace("arrow", quietly = TRUE)) {
-    stop(
-      "Package 'arrow' is required for R2 upload.\n",
-      "Install with: install.packages('arrow')",
-      call. = FALSE
-    )
-  }
+  rlang::check_installed(
+    "arrow",
+    reason = "to write parquet files for R2 upload."
+  )
 
-  if (!requireNamespace("paws.storage", quietly = TRUE)) {
-    stop(
-      "Package 'paws.storage' is required for R2 upload.\n",
-      "Install with: install.packages('paws.storage')",
-      call. = FALSE
-    )
-  }
+  rlang::check_installed(
+    "paws.storage",
+    reason = "to upload files to Cloudflare R2."
+  )
 
   # Check for required environment variables
   required_vars <- c(
@@ -54,11 +48,11 @@ nascar_r2_upload <- function(x, name, bucket = "nascar-data") {
   ]
 
   if (length(missing_vars) > 0) {
-    stop(
-      "Missing R2 environment variables: ",
-      paste(missing_vars, collapse = ", "),
-      call. = FALSE
-    )
+    rlang::abort(c(
+      "Missing R2 environment variables.",
+      x = paste(missing_vars, collapse = ", "),
+      i = "Set these in .Renviron or as GitHub Secrets."
+    ))
   }
 
   # Write to temp parquet file
@@ -96,11 +90,10 @@ nascar_r2_upload <- function(x, name, bucket = "nascar-data") {
       message("Uploaded ", key_name, " to ", bucket)
     },
     error = function(e) {
-      stop(
-        "Failed to upload ", key_name, " to R2: ",
-        conditionMessage(e),
-        call. = FALSE
-      )
+      rlang::abort(c(
+        paste0("Failed to upload ", key_name, " to R2."),
+        x = conditionMessage(e)
+      ))
     }
   )
 

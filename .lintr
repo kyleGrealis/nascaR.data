@@ -4,6 +4,8 @@ linters: linters_with_defaults(
     pipe_call_linter()
   )
 exclusions: list(
-    "inst",
-    "vignettes"
+    "inst/",
+    "vignettes/",
+    "R/data.R" = list(object_usage_linter = Inf),
+    "R/utils.R" = list(object_usage_linter = Inf)
   )

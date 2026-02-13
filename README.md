@@ -1,8 +1,8 @@
-# nascaR.data <a href="https://www.kyleGrealis.com/nascaR.data/"><img src="man/figures/logo.svg" align="right" height="139" alt="nascaR.data website" /></a>
+# nascaR.data <a href="https://www.kylegrealis.com/nascaR.data/"><img src="man/figures/logo.svg" align="right" height="139" alt="nascaR.data website" /></a>
 
 
-[![R-CMD-check](https://img.shields.io/badge/R--CMD--check-passing-brightgreen)](https://github.com/kyleGrealis/nascaR.data/actions)
-[![Lifecycle: stable](https://img.shields.io/badge/lifecycle-experimental-orange.svg)](https://lifecycle.r-lib.org/articles/stages.html#stable)
+[![R-CMD-check](https://github.com/kyleGrealis/nascaR.data/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/kyleGrealis/nascaR.data/actions/workflows/R-CMD-check.yaml)
+[![Lifecycle: stable](https://img.shields.io/badge/lifecycle-stable-brightgreen.svg)](https://lifecycle.r-lib.org/articles/stages.html#stable)
 [![CRAN status](https://www.r-pkg.org/badges/version/nascaR.data)](https://CRAN.R-project.org/package=nascaR.data)
 [![CRAN downloads](https://cranlogs.r-pkg.org/badges/grand-total/nascaR.data)](https://cran.r-project.org/package=nascaR.data)
 [![NASCAR Data Update](https://github.com/kyleGrealis/nascaR.data/actions/workflows/weekly-nascar-update.yml/badge.svg)](https://github.com/kyleGrealis/nascaR.data/actions/workflows/weekly-nascar-update.yml)
@@ -10,7 +10,10 @@
 
 ----
 
-**nascaR.data** provides historical race results from NASCAR's top three series: Cup (1949-present), Xfinity (1982-present), and Trucks (1995-present). Explore driver, team, and manufacturer performance in a race-by-race, season, or career format. This data has been expertly curated and scraped with permission from [DriverAverages.com](https://www.driveraverages.com).
+**nascaR.data** provides historical race results from NASCAR's top three series: Cup (1949-present), NXS (1982-present), and Trucks (1995-present). Explore driver, team, and manufacturer performance in a race-by-race, season, or career format. This data has been expertly curated and scraped with permission from [DriverAverages.com](https://www.driveraverages.com).
+
+> **Note for v3.0.0:** The second-tier series identifier has changed from
+> `"xfinity"` to `"nxs"`. See `vignette("migrating-to-nxs")` for details.
 
 ## Installation
 
@@ -24,6 +27,8 @@ Or install the development version from GitHub:
 remotes::install_github("kyleGrealis/nascaR.data")
 ```
 
+**Note:** This package requires the `arrow` package for reading parquet data from cloud storage. It will be installed automatically.
+
 ## Loading Data
 
 All data is served from cloud storage. Use `load_series()` to access race results:
@@ -32,7 +37,7 @@ All data is served from cloud storage. Use `load_series()` to access race result
 library(nascaR.data)
 
 cup <- load_series("cup")
-xfinity <- load_series("xfinity")
+nxs <- load_series("nxs")
 truck <- load_series("truck")
 ```
 
@@ -51,7 +56,7 @@ NASCAR is one of the top-tier racing sports in North America and competes agains
 Three series are available via `load_series()`:
 
 * `load_series("cup")`: NASCAR Cup Series race results (1949-present)
-* `load_series("xfinity")`: NASCAR Xfinity Series race results (1982-present)
+* `load_series("nxs")`: NASCAR NXS (second-tier) race results (1982-present)
 * `load_series("truck")`: NASCAR Craftsman Truck Series results (1995-present)
 
 Each dataset contains detailed race information including:
@@ -73,7 +78,7 @@ library(nascaR.data)
 
 ### Driver, Team, & Manufacturer Data
 
-Use the suite of `get_*_info()` functions to examine specific performace results on a race-by-race, season, or career level.
+Use the suite of `get_*_info()` functions to examine specific performance results on a race-by-race, season, or career level.
 
 ```r
 # Career results across all series
@@ -87,7 +92,7 @@ Christopher Bell
   <chr>     <int>          <int> <dbl>         <int>        <dbl>        <int>      <int>
 1 Cup           5            180     9             1         15.1        45321       2435
 2 Truck         6             57     7             1          8.5         8132       1216
-3 Xfinity       6             79    19             1          9.8        12909       3245
+3 NXS           6             79    19             1          9.8        12909       3245
 ```
 
 ```r
@@ -112,12 +117,12 @@ Christopher Bell
  9 Truck     2018     1     0            28         28            184         31
 10 Truck     2023     2     0             4         10            312          0
 11 Truck     2024     1     0             5          5            134          2
-12 Xfinity   2017     8     1             1         11.5         1423        156
-13 Xfinity   2018    32     7             1         11.1         5112        759
-14 Xfinity   2019    31     8             1          9.1         5574       2005
-15 Xfinity   2021     2     1             1          3.5          300        174
-16 Xfinity   2022     1     0             7          7            147          0
-17 Xfinity   2024     2     2             1          1            353        151
+12 NXS       2017     8     1             1         11.5         1423        156
+13 NXS       2018    32     7             1         11.1         5112        759
+14 NXS       2019    31     8             1          9.1         5574       2005
+15 NXS       2021     2     1             1          3.5          300        174
+16 NXS       2022     1     0             7          7            147          0
+17 NXS       2024     2     2             1          1            353        151
 ```
 
 Or search by race team or manufacturer:

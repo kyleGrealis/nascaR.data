@@ -1,23 +1,23 @@
 #' Update NASCAR Series Data
 #'
-#' Consolidated scraper for all three NASCAR series (Cup, Xfinity, Truck).
+#' Consolidated scraper for all three NASCAR series (Cup, NXS, Truck).
 #' Downloads current data from R2, scrapes new races from DriverAverages.com,
 #' combines the results, and uploads back to R2.
 #'
 #' Uses httr2 for HTTP requests with built-in retry logic, placeholder
 #' detection, and track info merging.
 #'
-#' @param series Character. One of "cup", "xfinity", or "truck".
+#' @param series Character. One of "cup", "nxs", or "truck".
 #'
 #' @return Invisible NULL. Uploads updated data to R2 as side effect.
 
 update_nascar_series <- function(series) {
   # Validate series parameter
   series <- tolower(series)
-  if (!series %in% c("cup", "xfinity", "truck")) {
+  if (!series %in% c("cup", "nxs", "truck")) {
     stop(
       "Invalid series '", series,
-      "'. Must be one of: 'cup', 'xfinity', 'truck'"
+      "'. Must be one of: 'cup', 'nxs', 'truck'"
     )
   }
 
@@ -30,12 +30,12 @@ update_nascar_series <- function(series) {
       track_object = "cup_track_info",
       series_name = "Cup"
     ),
-    xfinity = list(
+    nxs = list(
       base_url = "https://www.driveraverages.com/nascar_xfinityseries/",
-      r2_key = "xfinity_series",
-      track_info_file = "inst/updates/xfinity_track_info.rda",
-      track_object = "xfinity_track_info",
-      series_name = "Xfinity"
+      r2_key = "nxs_series",
+      track_info_file = "inst/updates/nxs_track_info.rda",
+      track_object = "nxs_track_info",
+      series_name = "NXS"
     ),
     truck = list(
       base_url = "https://www.driveraverages.com/nascar_truckseries/",
@@ -57,6 +57,7 @@ update_nascar_series <- function(series) {
           httr2::req_user_agent(
             "nascaR.data R package (https://github.com/kyleGrealis/nascaR.data)"
           ) |>
+          httr2::req_timeout(30) |>
           httr2::req_retry(
             max_tries = 5,
             backoff = ~ 3 * 1.5^.x
@@ -134,9 +135,8 @@ update_nascar_series <- function(series) {
       Race == last_completed_race
     )
 
-  is_placeholder <- nrow(placeholder_check) == 1 ||
-    (nrow(placeholder_check) > 0 &&
-      all(is.na(placeholder_check$Laps) | placeholder_check$Laps == 0))
+  is_placeholder <- nrow(placeholder_check) == 1 &&
+    (all(is.na(placeholder_check$Laps) | placeholder_check$Laps == 0))
 
   if (is_placeholder) {
     existing_data <- existing_data |>
@@ -153,7 +153,7 @@ update_nascar_series <- function(series) {
   new_links <- get_page(season_url) |>
     rvest::html_elements("div#Div2Nav ul a") |>
     rvest::html_attr("href") |>
-    purrr::keep(~ stringr::str_detect(., "race.php?"))
+    purrr::keep(~ stringr::str_detect(., stringr::fixed("race.php?")))
 
   message(
     "Found ", length(new_links), " total ", cfg$series_name,
@@ -182,73 +182,108 @@ update_nascar_series <- function(series) {
 
   # Process each new race with rate limiting and proper indexing
   new_results <- purrr::imap_dfr(new_links, function(link, race_index) {
-    race_number <- as.integer(last_completed_race + race_index)
+    tryCatch({
+      race_number <- as.integer(last_completed_race + race_index)
 
-    # Rate limiting: small delay between requests
-    Sys.sleep(0.5)
+      # Rate limiting: small delay between requests
+      Sys.sleep(0.5)
 
-    page <- get_page(paste0(cfg$base_url, link))
+      page <- get_page(paste0(cfg$base_url, link))
 
-    # Extract race details
-    details <- page |>
-      rvest::html_element("td.td-left span.td-bold") |>
-      rvest::html_text2()
+      # Extract race details
+      details <- page |>
+        rvest::html_element("td.td-left span.td-bold") |>
+        rvest::html_text2()
 
-    parts <- stringr::str_split(details, "\n")[[1]]
-    race_name <- parts[1]
-    track_name <- parts[2]
+      parts <- stringr::str_split(details, "\n")[[1]]
+      race_name <- parts[1]
+      track_name <- parts[2]
 
-    message(
-      "  [Race ", race_number, "] Processing: ",
-      track_name
-    )
+      message(
+        "  [Race ", race_number, "] Processing: ",
+        track_name
+      )
 
-    # Extract race table
-    race_table <- page |>
-      rvest::html_table(header = TRUE) |>
-      purrr::pluck(3)
+      # Extract race table
+      race_table <- page |>
+        rvest::html_table(header = TRUE) |>
+        purrr::pluck(3)
 
-    if (is.null(race_table) || nrow(race_table) == 0) {
+      # Validate extracted table has expected columns
+      if (!is.null(race_table) && nrow(race_table) > 0) {
+        expected <- c("Finish", "Start", "Driver")
+        if (!all(expected %in% names(race_table))) {
+          message(
+            "  [Race ", race_number,
+            "] Skipping: unexpected table structure"
+          )
+          return(NULL)
+        }
+      }
+
+      if (is.null(race_table) || nrow(race_table) == 0) {
+        message(
+          "  [Race ", race_number,
+          "] Skipping: empty or missing table"
+        )
+        return(NULL)
+      }
+
+      # Clean and format data with explicit type coercion
+      # S3 is Cup-only (2024+); NXS/Truck don't have it
+      has_s3 <- "S3" %in% names(race_table)
+
+      result <- race_table |>
+        {\(d) {
+          if ("#" %in% names(d)) d <- dplyr::rename(d, Car = `#`)
+          d
+        }}() |>
+        dplyr::mutate(
+          Season = current_year,
+          Race = race_number,
+          Car = stringr::str_remove(Car, "#"),
+          Track = track_name,
+          Name = race_name,
+          Finish = as.integer(Finish),
+          Start = as.integer(Start),
+          Pts = as.integer(Pts),
+          Laps = as.integer(Laps),
+          Led = as.integer(Led),
+          S1 = as.integer(S1),
+          S2 = as.integer(S2),
+          S3 = if (has_s3) as.integer(S3) else NA_integer_,
+          Rating = as.numeric(Rating),
+          Win = dplyr::if_else(Finish == 1L, 1, 0)
+        ) |>
+        dplyr::left_join(
+          track_info |> dplyr::select(Track, Length, Surface),
+          by = "Track"
+        ) |>
+        dplyr::select(
+          Season, Race, Track, Name, Length, Surface,
+          Finish, Start, Car, Driver, Make, Pts,
+          Laps, Led, Status, Team, S1, S2, S3,
+          Rating, Win
+        )
+
+      # Warn about missing track info
+      if (is.na(result$Length[1]) || is.na(result$Surface[1])) {
+        message(
+          "  [Race ", race_number,
+          "] WARNING: '", track_name,
+          "' not in track_info (Length/Surface are NA)"
+        )
+      }
+
+      message("  Processed ", nrow(result), " driver results")
+      result
+    }, error = function(e) {
       message(
         "  [Race ", race_number,
-        "] Skipping: empty or missing table"
+        "] ERROR: ", conditionMessage(e)
       )
-      return(NULL)
-    }
-
-    # Clean and format data with explicit type coercion
-    result <- race_table |>
-      dplyr::rename(Car = `#`) |>
-      dplyr::mutate(
-        Season = current_year,
-        Race = race_number,
-        Car = stringr::str_remove(Car, "#"),
-        Track = track_name,
-        Name = race_name,
-        Finish = as.integer(Finish),
-        Start = as.integer(Start),
-        Pts = as.integer(Pts),
-        Laps = as.integer(Laps),
-        Led = as.integer(Led),
-        S1 = as.integer(S1),
-        S2 = as.integer(S2),
-        Rating = as.numeric(Rating),
-        Win = dplyr::if_else(Finish == 1L, 1, 0),
-        `Seg Points` = as.integer(`Seg Points`)
-      ) |>
-      dplyr::left_join(
-        track_info |> dplyr::select(Track, Length, Surface),
-        by = "Track"
-      ) |>
-      dplyr::select(
-        Season, Race, Track, Name, Length, Surface,
-        Finish, Start, Car, Driver, Make, Pts,
-        Laps, Led, Status, Team, S1, S2,
-        Rating, Win, `Seg Points`
-      )
-
-    message("  Processed ", nrow(result), " driver results")
-    result
+      NULL
+    })
   })
 
   # Combine and upload to R2
@@ -261,6 +296,15 @@ update_nascar_series <- function(series) {
       "Added ", n_new_races, " new race(s) with ",
       n_new_results, " total results"
     )
+
+    # Sanity check before upload
+    if (nrow(updated_data) < nrow(existing_data)) {
+      stop(
+        "[", cfg$series_name,
+        "] Data shrunk from ", nrow(existing_data),
+        " to ", nrow(updated_data), " rows. Aborting upload."
+      )
+    }
 
     # Upload combined data to R2
     message("Uploading ", cfg$r2_key, " to R2...")

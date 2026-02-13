@@ -8,29 +8,38 @@ NULL
 #' Filter race data by series
 #'
 #' @param the_series A string specifying the race series. Must be one of
-#'   'cup', 'xfinity', 'truck', or 'all'.
+#'   'cup', 'nxs', 'truck', or 'all'.
 #' @return A tibble containing race results for the specified series.
 #' @keywords internal
+#' @noRd
 selected_series_data <- function(the_series) {
-  all_race_results <- bind_rows(
-    load_series("cup") |> mutate(Series = "Cup"), # nolint
-    load_series("xfinity") |> mutate(Series = "Xfinity"), # nolint
-    load_series("truck") |> mutate(Series = "Truck") # nolint
+  series_key <- switch(str_to_lower(the_series),
+    cup = "cup",
+    nxs = "nxs",
+    truck = "truck",
+    all = "all",
+    NULL
   )
 
-  selected <- str_to_title(the_series)
-
-  if (selected == "All") {
-    all_race_results
-  } else if (selected %in% c("Cup", "Xfinity", "Truck")) {
-    all_race_results |>
-      filter(Series == selected)
-  } else {
+  if (is.null(series_key)) {
     rlang::abort(
-      message = paste(str_to_title(the_series), "series does not exist."),
+      message = paste(the_series, "series does not exist."),
       class = "nascaR_invalid_series",
       series = the_series,
-      valid_series = c("cup", "xfinity", "truck", "all")
+      valid_series = c("cup", "nxs", "truck", "all")
     )
+  }
+
+  series_label_map <- c(cup = "Cup", nxs = "NXS", truck = "Truck")
+
+  if (series_key == "all") {
+    bind_rows(
+      load_series("cup") |> mutate(Series = "Cup"),
+      load_series("nxs") |> mutate(Series = "NXS"),
+      load_series("truck") |> mutate(Series = "Truck")
+    )
+  } else {
+    load_series(series_key) |>
+      mutate(Series = series_label_map[[series_key]])
   }
 }
