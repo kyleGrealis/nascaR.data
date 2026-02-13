@@ -93,7 +93,6 @@ cup_series |>
 
 ```{r}
 #| echo: false
-#| warning: false
 
 driver_colors <- c(
   "Richard Petty" = "#04aeec",
