@@ -2,7 +2,7 @@
 
 ## Authors
 
-- **Kyle Grealis**. Author, maintainer.
+- **[Kyle Grealis](https://www.kylegrealis.com)**. Author, maintainer.
   [](https://orcid.org/0000-0002-9223-8854)
 
 - **Nick Triplett**. Contributor.
@@ -13,7 +13,7 @@
 ## Citation
 
 Source:
-[`inst/CITATION`](https://github.com/kyleGrealis/nascaR.data/blob/main/inst/CITATION)
+[`inst/CITATION`](https://github.com/kyleGrealis/nascaR.data/blob/HEAD/inst/CITATION)
 
 Grealis K (2026). *nascaR.data: NASCAR Race Data*. R package version
 3.0.0, <https://www.kylegrealis.com/nascaR.data/>.

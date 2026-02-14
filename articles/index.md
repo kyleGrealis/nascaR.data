@@ -1,6 +1,6 @@
 # Articles
 
-### Green Flag
+### Get Started
 
 - [A Race Winning
   Strategy](https://www.kylegrealis.com/nascaR.data/articles/a-race-winning-strategy.md):
