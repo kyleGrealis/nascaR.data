@@ -1,4 +1,15 @@
 url: https://www.kylegrealis.com/nascaR.data/
+
+development:
+  mode: auto
+
+repo:
+  url:
+    home: https://github.com/kyleGrealis/nascaR.data/
+    source: https://github.com/kyleGrealis/nascaR.data/blob/HEAD/
+    issue: https://github.com/kyleGrealis/nascaR.data/issues/
+    user: https://github.com/
+
 template:
   bootstrap: 5
   light-switch: true
@@ -7,8 +18,33 @@ template:
     border-radius: 0.5rem
     btn-border-radius: 0.25rem
 
+home:
+  sidebar:
+    structure: [links, license, community, citation, authors, dev]
+
+navbar:
+  structure:
+    left: [intro, reference, articles, news]
+    right: [search, lightswitch, github]
+  components:
+    intro:
+      text: Get Started
+      href: articles/a-race-winning-strategy.html
+    articles:
+      text: Articles
+      menu:
+        - text: Migrating to NXS (v3.0.0)
+          href: articles/migrating-to-nxs.html
+    news:
+      text: Changelog
+      href: news/index.html
+    github:
+      icon: fab fa-github fa-lg
+      href: https://github.com/kyleGrealis/nascaR.data
+      aria-label: GitHub
+
 articles:
-  - title: Green Flag
+  - title: Get Started
     navbar: ~
     contents:
       - a-race-winning-strategy
@@ -23,7 +59,6 @@ reference:
       - series_data
       - load_series
       - clear_cache
-
   - title: "Explorer functions"
     desc: "Find race performance results"
     contents:
@@ -31,3 +66,13 @@ reference:
       - get_team_info
       - get_manufacturer_info
 
+footer:
+  structure:
+    left: developed_by
+    right: built_with
+
+authors:
+  Kyle Grealis:
+    href: https://www.kylegrealis.com
+  sidebar:
+    roles: [aut, cre]
