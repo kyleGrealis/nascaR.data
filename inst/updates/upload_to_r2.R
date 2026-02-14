@@ -49,7 +49,7 @@ if (file.exists(checksum_file)) {
 
 series_list <- list(
   list(name = "cup_series", file = "data/cup_series.rda"),
-  list(name = "xfinity_series", file = "data/xfinity_series.rda"),
+  list(name = "nxs_series", file = "data/nxs_series.rda"),
   list(name = "truck_series", file = "data/truck_series.rda")
 )
 

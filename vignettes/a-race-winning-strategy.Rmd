@@ -19,13 +19,22 @@ knitr:
 ---
 
 ```{r}
+#| label: setup
+#| include: false
+# Guard against offline builds (CRAN)
+knitr::opts_chunk$set(eval = curl::has_internet())
+```
+
+```{r}
 #| label: load_packages
 #| echo: false
-library(conflicted)
-library(ggtext)
-library(glue)
-library(nascaR.data)
-library(tidyverse)
+suppressPackageStartupMessages({
+  library(conflicted)
+  library(ggtext)
+  library(glue)
+  library(nascaR.data)
+  library(tidyverse)
+})
 
 conflicted::conflict_prefer("filter", "dplyr")
 # suppress "`summarise()` has grouped output by " messages
@@ -39,11 +48,11 @@ cup_series <- load_series("cup")
 
 NASCAR is one of the top-tier racing sports in North America and competes against F1 and IndyCar for the top viewership spot. Approximately 3.22 million people watch a race on any given weekend throughout the season. The `nascaR.data` package is the result of wanting to share a passion for the sport and provide an option to the typical go-to packages when learning new data visualization tools.
 
-`nascaR.data` is packed full of NASCAR results dating back to the first Daytona Beach race in 1949! Use this package to discover race trends across the NASCAR Cup Series, Xfinity Series, and Craftsman Truck Series. Answer questions like "which driver has the best average finish at short tracks?", "how has a team's performance changed over time?", or see which manufacturer has dominated which series in a certain season. It's all here, so let's strap in to our race seats, fire up those engines, and let's take some warm-up laps.
+`nascaR.data` is packed full of NASCAR results dating back to the first Daytona Beach race in 1949! Use this package to discover race trends across the NASCAR Cup Series, NXS (formerly Xfinity Series), and Craftsman Truck Series. Answer questions like "which driver has the best average finish at short tracks?", "how has a team's performance changed over time?", or see which manufacturer has dominated which series in a certain season. It's all here, so let's strap in to our race seats, fire up those engines, and let's take some warm-up laps.
 
 ## Warming up the tires
 
-`nascaR.data` provides access to 3 datasets with race-by-race results for each NASCAR series, plus 6 helper functions to make exploring the data easier. Let's check our gauges and see what's under the hood:
+`nascaR.data` provides access to 3 datasets with race-by-race results for each NASCAR series, plus 3 helper functions to make exploring the data easier. Let's check our gauges and see what's under the hood:
 
 ```{r}
 #| echo: true
@@ -55,14 +64,13 @@ cup_series <- load_series("cup")
 
 The package provides data for three series via `load_series()`:
 - `load_series("cup")`: NASCAR Cup Series races from 1949-present
-- `load_series("xfinity")`: NASCAR Xfinity Series races from 1982-present
+- `load_series("nxs")`: NASCAR NXS races from 1982-present
 - `load_series("truck")`: NASCAR Truck Series races from 1995-present
 
-Each dataset contains race results with 19 columns including driver, team, manufacturer, finishing position, laps led, and more. Use `?load_series` to view a complete list of variable descriptions.
+Each dataset contains race results with 21 columns including driver, team, manufacturer, finishing position, laps led, and more. Use `?load_series` to view a complete list of variable descriptions.
 
-The package also provides helper functions to quickly find and analyze drivers, teams, and manufacturers:  
-- `find_driver()`, `find_team()`, `find_manufacturer()`: Search for exact names  
-- `get_driver_info()`, `get_team_info()`, `get_manufacturer_info()`: Get career statistics  
+The package also provides helper functions with built-in fuzzy matching to quickly analyze drivers, teams, and manufacturers:
+* `get_driver_info()`, `get_team_info()`, `get_manufacturer_info()`: Get career statistics  
 
 ## Green Flag!
 
@@ -85,7 +93,6 @@ cup_series |>
 
 ```{r}
 #| echo: false
-#| warning: false
 
 driver_colors <- c(
   "Richard Petty" = "#04aeec",
@@ -243,7 +250,7 @@ cup_series |>
     wins = sum(Win, na.rm = TRUE)
   ) |>
   ggplot(aes(Season, avg_finish)) +
-  geom_line(color = "#fb9f00", size = 1.2) +
+  geom_line(color = "#fb9f00", linewidth = 1.2) +
   geom_point(aes(size = wins), color = "#fb9f00") +
   scale_y_reverse() +
   theme_minimal()
@@ -259,7 +266,7 @@ cup_series |>
     wins = sum(Win, na.rm = TRUE)
   ) |>
   ggplot(aes(Season, avg_finish)) +
-  geom_line(color = "#fb9f00", size = 1.2) +
+  geom_line(color = "#fb9f00", linewidth = 1.2) +
   geom_point(aes(size = wins), color = "#fb9f00", alpha = 0.7) +
   scale_y_reverse(limits = c(20, 5)) +
   scale_size_continuous(range = c(3, 8)) +
@@ -280,7 +287,7 @@ cup_series |>
   )
 ```
 
-The trend shows consistent improvement, with better average finishes in recent seasons. Lower numbers are better — a reversed y-axis makes this clearer.
+The trend shows consistent improvement, with better average finishes in recent seasons. Lower numbers are better, so a reversed y-axis makes this clearer.
 
 ## The Garage Area
 
@@ -315,7 +322,7 @@ cup_series |>
   group_by(Season, Make) |>
   summarize(avg_finish = mean(Finish, na.rm = TRUE), .groups = "drop") |>
   ggplot(aes(Season, avg_finish, group = Make, color = Make)) +
-  geom_line(alpha = 0.8, size = 1) +
+  geom_line(alpha = 0.8, linewidth = 1) +
   geom_point(size = 2) +
   scale_y_reverse() +
   theme_minimal() +
@@ -366,28 +373,19 @@ Joe Gibbs Racing switched to Toyota in 2008, and the performance data tells the 
 
 The `nascaR.data` package includes helper functions to make data exploration easier. These functions handle fuzzy matching, so you don't need to type exact names.
 
-### Finding drivers and getting their statistics
+### Getting driver statistics
 
 ```{r}
 #| echo: true
 #| eval: false
-# Find a driver (handles partial matching)
-find_driver("bell")
+# Get comprehensive driver statistics (handles fuzzy matching)
+get_driver_info("bell", series = "cup", type = "summary")
 ```
 
-The `find_driver()` function returns exact matches if available, or suggests close matches if your search term is ambiguous.
-
-```{r}
-#| echo: true
-#| eval: false
-# Get comprehensive driver statistics
-get_driver_info("Christopher Bell", series = "cup", type = "summary")
-```
-
-The `get_driver_info()` function provides three types of output:  
-- `'summary'`: Career totals by series  
-- `'season'`: Season-by-season breakdown  
-- `'all'`: Complete race-by-race results  
+The `get_driver_info()` function provides three types of output:
+* `'summary'`: Career totals by series
+* `'season'`: Season-by-season breakdown
+* `'all'`: Complete race-by-race results
 
 ```{r}
 #| echo: true
@@ -403,16 +401,10 @@ The same helper functions work for teams and manufacturers:
 ```{r}
 #| echo: true
 #| eval: false
-# Find team (handles partial names)
-find_team("gibbs")
+# Get team statistics (fuzzy matching built in)
+get_team_info("gibbs", series = "cup", type = "summary")
 
-# Get team statistics
-get_team_info("Joe Gibbs Racing", series = "cup", type = "summary")
-
-# Find manufacturer
-find_manufacturer("toyota")
-
-# Get manufacturer performance
+# Get manufacturer performance across all series
 get_manufacturer_info("Toyota", series = "all", type = "season")
 ```
 
@@ -450,7 +442,7 @@ This comparison shows how different drivers perform at the same track, accountin
 
 ## The Backstretch
 
-This vignette gives you a foundation for exploring NASCAR data with the `nascaR.data` package. Use `load_series()` to access comprehensive race results for all three series, while the helper functions (`find_driver()`, `get_driver_info()`, and their team/manufacturer equivalents) make data exploration straightforward.
+This vignette gives you a foundation for exploring NASCAR data with the `nascaR.data` package. Use `load_series()` to access comprehensive race results for all three series, while the `get_*_info()` helper functions make data exploration straightforward with built-in fuzzy matching.
 
 There's plenty of opportunity to further analyze the data:  
 - Compare performance at different track types (oval, road course, superspeedway)  

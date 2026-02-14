@@ -1,4 +1,4 @@
-url: https://www.kyleGrealis.com/nascaR.data/
+url: https://www.kylegrealis.com/nascaR.data/
 template:
   bootstrap: 5
   light-switch: true
@@ -12,26 +12,22 @@ articles:
     navbar: ~
     contents:
       - a-race-winning-strategy
+  - title: Upgrading
+    contents:
+      - migrating-to-nxs
 
 reference:
-  - title: "Data"
-    desc: "nascaR.data available datasets"
+  - title: "Data access"
+    desc: "Load and manage NASCAR race data"
     contents:
-      - cup_series
-      - xfinity_series
-      - truck_series
-  
+      - series_data
+      - load_series
+      - clear_cache
+
   - title: "Explorer functions"
     desc: "Find race performance results"
     contents:
       - get_driver_info
       - get_team_info
       - get_manufacturer_info
-  
-  - title: "Helper functions"
-    desc: "Get correct spellings of drivers, teams, or manufacturers"
-    contents:
-      - find_driver
-      - find_team
-      - find_manufacturer
 

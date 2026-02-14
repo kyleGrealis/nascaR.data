@@ -51,7 +51,7 @@ Rscript inst/updates/upload_to_r2.R --dry-run
 source("R/r2_upload.R")
 source("inst/updates/scraper.R")
 update_nascar_series("cup")
-update_nascar_series("xfinity")
+update_nascar_series("nxs")
 update_nascar_series("truck")
 ```
 
@@ -60,7 +60,7 @@ update_nascar_series("truck")
 - **Bucket**: `nascar-data`
 - **Region**: WNAM
 - **Custom domain**: `nascar.kylegrealis.com`
-- **Files**: `cup_series.parquet`, `xfinity_series.parquet`, `truck_series.parquet`
+- **Files**: `cup_series.parquet`, `nxs_series.parquet`, `truck_series.parquet`
 
 ## Adding Track Info
 
@@ -68,8 +68,10 @@ When new tracks are added to the NASCAR schedule:
 1. Update the relevant `inst/updates/*_track_info.rda` file
 2. Include: Track name (must match DriverAverages.com), Length, Surface
 
-## Xfinity Series Naming
+## NXS Series Naming
 
-The dataset uses `xfinity_series` regardless of future sponsor changes.
-If renamed post-2026, add a backward-compatible alias so both names work,
-then sunset the old name after the transition season.
+The dataset uses `nxs_series` as the identifier for NASCAR's second-tier
+series. "NXS" is NASCAR's own sponsor-neutral abbreviation. The series has
+changed title sponsors four times (Busch, Nationwide, Xfinity, O'Reilly Auto
+Parts), so a stable abbreviation prevents the codebase from going stale with
+each sponsor change.

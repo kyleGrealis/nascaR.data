@@ -24,3 +24,6 @@ cup <- load_series("cup")
 }
 
 }
+\seealso{
+\code{\link[=load_series]{load_series()}} for data access.
+}

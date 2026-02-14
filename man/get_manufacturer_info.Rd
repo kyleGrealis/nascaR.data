@@ -2,7 +2,7 @@
 % Please edit documentation in R/find.R
 \name{get_manufacturer_info}
 \alias{get_manufacturer_info}
-\title{Enhanced Get Manufacturer Info with Smart Matching}
+\title{Get Manufacturer Info with Smart Matching}
 \usage{
 get_manufacturer_info(
   manufacturer,
@@ -12,32 +12,51 @@ get_manufacturer_info(
 )
 }
 \arguments{
-\item{manufacturer}{Character string of manufacturer name}
+\item{manufacturer}{Character string of the manufacturer name
+to search for.}
 
-\item{series}{Either character string
-("cup", "xfinity", "truck", "all") or data frame}
+\item{series}{Character string (\code{"cup"}, \code{"nxs"}, \code{"truck"},
+\code{"all"}) or a pre-loaded data frame. Default is \code{"all"}.}
 
-\item{type}{Character string specifying return type
-("summary", "season", "all")}
+\item{type}{Character string specifying the return format:
+\describe{
+\item{\code{"summary"}}{Career totals grouped by series
+(Seasons, Races, Wins, Best Finish, Avg Finish,
+Laps Raced, Laps Led).}
+\item{\code{"season"}}{Season-by-season breakdown
+(Races, Wins, Best Finish, Avg Finish, Laps Raced,
+Laps Led).}
+\item{\code{"all"}}{Complete race-by-race results.}
+}}
 
-\item{interactive}{Logical. Is the session interactive?}
+\item{interactive}{Logical. When \code{TRUE} (default) and the R
+session is interactive, prompts the user to select from
+multiple matches. When \code{FALSE}, silently uses the first
+match.}
 }
 \value{
-Tibble with manufacturer statistics or NULL
+A tibble of manufacturer statistics (format depends on
+\code{type}), or \code{invisible(NULL)} if no match is found.
 }
 \description{
-Enhanced Get Manufacturer Info with Smart Matching
+Search for a manufacturer by name and return performance
+statistics. Uses fuzzy matching to handle partial names,
+typos, and case-insensitive searches.
 }
 \examples{
-\dontrun{
-# Get Toyota career summary
+\donttest{
+# Career summary across all series
 get_manufacturer_info("Toyota")
 
-# Get season-by-season data for Cup series only
+# Season-by-season Cup data
 get_manufacturer_info(
   "Toyota",
   series = "cup",
   type = "season"
 )
 }
+}
+\seealso{
+\code{\link[=get_driver_info]{get_driver_info()}}, \code{\link[=get_team_info]{get_team_info()}},
+\code{\link[=load_series]{load_series()}}, \link{series_data}
 }

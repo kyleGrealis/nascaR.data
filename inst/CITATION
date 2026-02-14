@@ -1,0 +1,14 @@
+bibentry(
+  bibtype = "Manual",
+  title = "nascaR.data: NASCAR Race Data",
+  author = c(
+    person("Kyle", "Grealis",
+      email = "kylegrealis@proton.me",
+      role = c("aut", "cre"),
+      comment = c(ORCID = "0000-0002-9223-8854")
+    )
+  ),
+  year = "2026",
+  note = "R package version 3.0.0",
+  url = "https://www.kylegrealis.com/nascaR.data/"
+)

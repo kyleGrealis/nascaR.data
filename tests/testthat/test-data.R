@@ -12,26 +12,48 @@ test_that("load_series() returns cup data with correct structure", {
   expected_cols <- c(
     "Season", "Race", "Track", "Name", "Length", "Surface",
     "Finish", "Start", "Car", "Driver", "Team", "Make",
-    "Pts", "Laps", "Led", "Status", "Win"
+    "Pts", "Laps", "Led", "Status", "S1", "S2", "S3",
+    "Rating", "Win"
   )
   expect_true(all(expected_cols %in% names(cup)))
+
+  # 21 columns in the current schema
+  expect_equal(ncol(cup), 21)
+
+  # Column type assertions
+  expect_type(cup$Season, "integer")
+  expect_type(cup$Race, "integer")
+  expect_type(cup$Track, "character")
+  expect_type(cup$Name, "character")
+  expect_type(cup$Length, "double")
+  expect_type(cup$Surface, "character")
+  expect_type(cup$Finish, "integer")
+  expect_type(cup$Start, "integer")
+  expect_type(cup$Car, "character")
+  expect_type(cup$Driver, "character")
+  expect_type(cup$Team, "character")
+  expect_type(cup$Make, "character")
+  expect_type(cup$Laps, "integer")
+  expect_type(cup$Led, "integer")
+  expect_type(cup$Status, "character")
+  expect_type(cup$Win, "double")
 })
 
-test_that("load_series() returns xfinity data with correct structure", {
+test_that("load_series() returns NXS data with correct structure", {
   skip_on_cran()
   skip_if_offline()
 
-  xfinity <- load_series("xfinity")
+  nxs <- load_series("nxs")
 
-  expect_s3_class(xfinity, "data.frame")
-  expect_true(nrow(xfinity) > 0)
+  expect_s3_class(nxs, "data.frame")
+  expect_true(nrow(nxs) > 0)
 
   expected_cols <- c(
     "Season", "Race", "Track", "Name", "Length", "Surface",
     "Finish", "Start", "Car", "Driver", "Team", "Make",
     "Pts", "Laps", "Led", "Status", "Win"
   )
-  expect_true(all(expected_cols %in% names(xfinity)))
+  expect_true(all(expected_cols %in% names(nxs)))
 })
 
 test_that("load_series() returns truck data with correct structure", {
@@ -81,24 +103,24 @@ test_that("cup data has reasonable values", {
   expect_lt(violations / sum(valid_rows), 0.0001)
 })
 
-test_that("xfinity data has reasonable values", {
+test_that("NXS data has reasonable values", {
   skip_on_cran()
   skip_if_offline()
 
-  xfinity <- load_series("xfinity")
+  nxs <- load_series("nxs")
 
-  expect_true(all(xfinity$Season >= 1982, na.rm = TRUE))
-  expect_true(all(xfinity$Season <= as.numeric(format(Sys.Date(), "%Y")),
+  expect_true(all(nxs$Season >= 1982, na.rm = TRUE))
+  expect_true(all(nxs$Season <= as.numeric(format(Sys.Date(), "%Y")),
     na.rm = TRUE
   ))
 
-  finish_values <- xfinity$Finish[!is.na(xfinity$Finish)]
+  finish_values <- nxs$Finish[!is.na(nxs$Finish)]
   expect_true(all(finish_values > 0))
 
-  win_values <- xfinity$Win[!is.na(xfinity$Win)]
+  win_values <- nxs$Win[!is.na(nxs$Win)]
   expect_true(all(win_values %in% c(0, 1)))
 
-  laps_values <- xfinity$Laps[!is.na(xfinity$Laps)]
+  laps_values <- nxs$Laps[!is.na(nxs$Laps)]
   expect_true(all(laps_values >= 0))
 })
 
@@ -172,6 +194,62 @@ test_that("load_series() refresh parameter bypasses cache", {
   # Data should still be identical (same R2 source)
   expect_equal(nrow(cup1), nrow(cup2))
   expect_equal(ncol(cup1), ncol(cup2))
+})
+
+test_that("load_series(\"xfinity\") gives helpful migration error", {
+  expect_error(
+    load_series("xfinity"),
+    "nxs"
+  )
+  expect_error(
+    load_series("xfinity"),
+    "v3.0.0"
+  )
+})
+
+test_that("load_series(refresh) validates logical input", {
+  expect_error(
+    load_series("cup", refresh = "yes"),
+    "must be TRUE or FALSE"
+  )
+
+  expect_error(
+    load_series("cup", refresh = c(TRUE, FALSE)),
+    "must be TRUE or FALSE"
+  )
+})
+
+test_that("load_series() disk cache file exists after loading", {
+  skip_on_cran()
+  skip_if_offline()
+
+  clear_cache()
+
+  cup <- load_series("cup")
+
+  disk_path <- file.path(
+    tools::R_user_dir("nascaR.data", which = "cache"),
+    "cup_series.parquet"
+  )
+
+  expect_true(file.exists(disk_path))
+})
+
+test_that("clear_cache() empties memory cache and emits message", {
+  skip_on_cran()
+  skip_if_offline()
+
+  load_series("cup")
+
+  expect_true(
+    exists("cup_series", envir = nascaR.data:::.nascar_cache)
+  )
+
+  expect_message(clear_cache(), "cache cleared")
+
+  expect_false(
+    exists("cup_series", envir = nascaR.data:::.nascar_cache)
+  )
 })
 
 test_that("clear_cache() runs without error", {

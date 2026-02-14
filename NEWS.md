@@ -7,18 +7,25 @@
   is now served from Cloudflare R2. Use `load_series()` to access data:
   ```r
   cup <- load_series("cup")
-  xfinity <- load_series("xfinity")
+  nxs <- load_series("nxs")
   truck <- load_series("truck")
   ```
 
 * **`arrow` is now a required dependency** (moved from Suggests to Imports)
   since all data access goes through parquet files on R2.
 
+* **`"xfinity"` series renamed to `"nxs"`.** The second-tier series has changed
+  title sponsors four times: Busch (1984-2007), Nationwide (2008-2014), Xfinity
+  (2015-2025), and O'Reilly Auto Parts (2026-present). The identifier `"nxs"`
+  is NASCAR's own sponsor-neutral abbreviation, so it will never go stale.
+  Replace `load_series("xfinity")` with `load_series("nxs")`.
+
+* **`find_driver()`, `find_team()`, `find_manufacturer()` removed.** The
+  `get_*_info()` functions already include fuzzy matching and return actual data.
+  Use `get_driver_info("bell")` instead of `find_driver("bell")`.
+
 * **`data("cup_series")` no longer works.** Replace all `data()` calls with
   `load_series()`. The old lazy-loaded dataset names are gone.
-
-* **Migrated from `httr` to `httr2`** for HTTP requests. The scraper now
-  uses `httr2::request()` with built-in retry logic (`req_retry()`).
 
 ## New Features
 
@@ -34,6 +41,9 @@
   No local rda files are generated or committed.
 
 ## Improvements
+
+* Migrated from `httr` to `httr2` for HTTP requests. The scraper now
+  uses `httr2::request()` with built-in retry logic (`req_retry()`).
 
 * Consolidated web scraping with `httr2`, `imap_dfr()` indexing, explicit
   column type coercion, placeholder detection, and empty table guards.
@@ -126,7 +136,7 @@ remotes::install_github("kyleGrealis/nascaR.data") # please do not use "@weekly"
 * Updated `S1` & `S2` documentation.
 
 
-# nascar.data 2.1.0
+# nascaR.data 2.1.0
 
 ## Enhancements
 

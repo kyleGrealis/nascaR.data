@@ -31,6 +31,8 @@ cache_dir <- function() {
 #'
 #' @return Invisibly returns `NULL`.
 #'
+#' @seealso [load_series()] for data access.
+#'
 #' @examples
 #' \dontrun{
 #' # Clear all cached data
