@@ -1,15 +1,5 @@
 # nascaR.data
 
-[![R-CMD-check](https://github.com/kyleGrealis/nascaR.data/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/kyleGrealis/nascaR.data/actions/workflows/R-CMD-check.yaml)
-[![Lifecycle:
-stable](https://img.shields.io/badge/lifecycle-stable-brightgreen.svg)](https://lifecycle.r-lib.org/articles/stages.html#stable)
-[![CRAN
-status](https://www.r-pkg.org/badges/version/nascaR.data)](https://CRAN.R-project.org/package=nascaR.data)
-[![CRAN
-downloads](https://cranlogs.r-pkg.org/badges/grand-total/nascaR.data)](https://cran.r-project.org/package=nascaR.data)
-[![NASCAR Data
-Update](https://github.com/kyleGrealis/nascaR.data/actions/workflows/weekly-nascar-update.yml/badge.svg)](https://github.com/kyleGrealis/nascaR.data/actions/workflows/weekly-nascar-update.yml)
-
 ------------------------------------------------------------------------
 
 **nascaR.data** provides historical race results from NASCAR’s top three
