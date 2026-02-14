@@ -13,15 +13,15 @@
 ## Citation
 
 Source:
-[`DESCRIPTION`](https://github.com/kyleGrealis/nascaR.data/blob/main/DESCRIPTION)
+[`inst/CITATION`](https://github.com/kyleGrealis/nascaR.data/blob/main/inst/CITATION)
 
-Grealis K (2025). *nascaR.data: NASCAR Race Data*. R package version
-2.2.3, <https://www.kyleGrealis.com/nascaR.data/>.
+Grealis K (2026). *nascaR.data: NASCAR Race Data*. R package version
+3.0.0, <https://www.kylegrealis.com/nascaR.data/>.
 
     @Manual{,
       title = {nascaR.data: NASCAR Race Data},
       author = {Kyle Grealis},
-      year = {2025},
-      note = {R package version 2.2.3},
-      url = {https://www.kyleGrealis.com/nascaR.data/},
+      year = {2026},
+      note = {R package version 3.0.0},
+      url = {https://www.kylegrealis.com/nascaR.data/},
     }

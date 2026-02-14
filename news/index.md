@@ -1,5 +1,77 @@
 # Changelog
 
+## nascaR.data 3.0.0
+
+### Breaking Changes
+
+- **Bundled data removed.** The `cup_series`, `xfinity_series`, and
+  `truck_series` datasets are no longer shipped with the package. All
+  data is now served from Cloudflare R2. Use
+  [`load_series()`](https://www.kylegrealis.com/nascaR.data/reference/load_series.md)
+  to access data:
+
+  ``` r
+  cup <- load_series("cup")
+  nxs <- load_series("nxs")
+  truck <- load_series("truck")
+  ```
+
+- **`arrow` is now a required dependency** (moved from Suggests to
+  Imports) since all data access goes through parquet files on R2.
+
+- **`"xfinity"` series renamed to `"nxs"`.** The second-tier series has
+  changed title sponsors four times: Busch (1984-2007), Nationwide
+  (2008-2014), Xfinity (2015-2025), and O’Reilly Auto Parts
+  (2026-present). The identifier `"nxs"` is NASCAR’s own sponsor-neutral
+  abbreviation, so it will never go stale. Replace
+  `load_series("xfinity")` with `load_series("nxs")`.
+
+- **`find_driver()`, `find_team()`, `find_manufacturer()` removed.** The
+  `get_*_info()` functions already include fuzzy matching and return
+  actual data. Use `get_driver_info("bell")` instead of
+  `find_driver("bell")`.
+
+- **`data("cup_series")` no longer works.** Replace all
+  [`data()`](https://rdrr.io/r/utils/data.html) calls with
+  [`load_series()`](https://www.kylegrealis.com/nascaR.data/reference/load_series.md).
+  The old lazy-loaded dataset names are gone.
+
+### New Features
+
+- **[`load_series()`](https://www.kylegrealis.com/nascaR.data/reference/load_series.md)**:
+  Two-tier caching (memory + disk). First call downloads from R2 and
+  caches locally. Subsequent calls are instant. Use `refresh = TRUE` to
+  force re-download.
+
+- **[`clear_cache()`](https://www.kylegrealis.com/nascaR.data/reference/clear_cache.md)**:
+  New exported function to wipe cached data from memory and disk. Disk
+  cache uses the CRAN-approved
+  [`tools::R_user_dir()`](https://rdrr.io/r/tools/userdir.html)
+  location.
+
+- **R2-canonical pipeline**: The weekly GitHub Actions scraper now reads
+  existing data from R2, appends new races, and uploads back to R2. No
+  local rda files are generated or committed.
+
+### Improvements
+
+- Migrated from `httr` to `httr2` for HTTP requests. The scraper now
+  uses
+  [`httr2::request()`](https://httr2.r-lib.org/reference/request.html)
+  with built-in retry logic (`req_retry()`).
+
+- Consolidated web scraping with `httr2`, `imap_dfr()` indexing,
+  explicit column type coercion, placeholder detection, and empty table
+  guards.
+
+- Data validation framework for schema, integrity, and value checks.
+
+- Code quality enforced with `styler` and `lintr` (zero warnings).
+
+- All [`stop()`](https://rdrr.io/r/base/stop.html) calls in package code
+  replaced with
+  [`rlang::abort()`](https://rlang.r-lib.org/reference/abort.html).
+
 ## nascaR.data 2.2.3
 
 CRAN release: 2025-09-11
@@ -10,8 +82,8 @@ CRAN release: 2025-09-11
 
 CRAN release: 2025-06-02
 
-> Deprecating the `weekly` branch! Weekly race results will be added to
-> the `main` branch. CRAN-stable version is available via CRAN:
+Deprecating the `weekly` branch! Weekly race results will be added to
+the `main` branch. CRAN-stable version is available via CRAN:
 
 ``` r
 install.packages("nascaR.data")
@@ -24,17 +96,23 @@ remotes::install_github("kyleGrealis/nascaR.data") # please do not use "@weekly"
 
 - **Interactive driver/team/manufacturer selection**: When multiple
   matches are found, users can now select from a numbered list
+
 - **Intelligent fuzzy matching**: Dramatically improved search algorithm
   that handles typos, partial names, and word boundaries
-  - `find_driver("kyle")` → returns Kyle Busch, Kyle Larson, Kyle Petty,
-    etc.
-  - `find_team("gibbs")` → finds Joe Gibbs Racing
-  - `find_driver("earnhart")` → correctly finds Earnhardt family drivers
+
+  - `find_driver("kyle")` -\> returns Kyle Busch, Kyle Larson, Kyle
+    Petty, etc.
+  - `find_team("gibbs")` -\> finds Joe Gibbs Racing
+  - `find_driver("earnhart")` -\> correctly finds Earnhardt family
+    drivers
+
 - **Flexible series input**: All functions now accept both character
   strings AND data frames
-  - `get_driver_info("kyle", "cup")` ✓
-  - `get_driver_info("kyle", "Cup Series")` ✓  
-  - `get_driver_info("kyle", cup_series)` ✓
+
+  - `get_driver_info("kyle", "cup")` check
+  - `get_driver_info("kyle", "Cup Series")` check
+  - `get_driver_info("kyle", cup_series)` check
+
 - **Smart string matching**: Handles variations like “cup”, “Cup
   Series”, “xfinity”, “Xfinity Series” automatically
 
@@ -42,33 +120,42 @@ remotes::install_github("kyleGrealis/nascaR.data") # please do not use "@weekly"
 
 - **Consolidated codebase**: Replaced three separate fuzzy matching
   files with one unified system
+
 - **Priority-based matching**: Exact matches \> starts with \> contains
   \> word boundaries \> fuzzy similarity
+
 - **Non-interactive mode**: Dashboard/script developers can set
   `interactive = FALSE` to get list returns
+
 - **Removed dependency on problematic Levenshtein distance
   calculations**
+
 - **Eliminated interactive prompts that broke in non-interactive
   environments**
 
 #### User Experience
 
 - **Typo tolerance**: Common misspellings now find correct matches
+
 - **One-step workflow**: Search and select in the same function call
+
 - **Clear feedback**: Better messaging when multiple options are
   available
 
 #### Breaking Changes
 
 - None! All existing function calls continue to work as before
+
 - New `interactive` parameter defaults to `TRUE` for better user
   experience
 
 #### Bug Fixes
 
 - Fixed fuzzy matching returning irrelevant results
+
 - Resolved cases where obvious matches weren’t found due to strict
   string matching
+
 - Eliminated interactive readline prompts that failed in scripts and R
   Markdown
 
@@ -81,8 +168,10 @@ CRAN release: 2025-05-15
 - Added missing races. The Cup Series season finale was omitted for a
   number of years from 2002 to 2022. Thank you to Nick Triplett for the
   catching the mistake!
+
 - `Seg Points` has been removed. Instead, `S1` & `S2` variables
   correspond to the driver’s finishing position during each segment.
+
 - Updated missing track information (length, surface type) for 32 Cup
   races with varying years, mostly pre-2000s.
 
@@ -90,7 +179,7 @@ CRAN release: 2025-05-15
 
 - Updated `S1` & `S2` documentation.
 
-## nascar.data 2.1.0
+## nascaR.data 2.1.0
 
 CRAN release: 2025-01-21
 
@@ -98,8 +187,10 @@ CRAN release: 2025-01-21
 
 - `dev` branch will be updated with the most recent racing results every
   Monday at 10AM during the race season (February through November).
+
 - New `get_*_info()` functions provide summary statistics on a by-race,
   season, or career format.
+
 - Fuzzy matching has been included to search across the database in the
   respective series
 
@@ -119,14 +210,13 @@ CRAN release: 2025-01-21
   “recognizing” that as having been a completed race. The oversight has
   been addressed by removing that (essentially) blank row, decreasing
   the index, and continuing to scrape for new race data.
+
 - Fuzzy finding is used within the functions returning the driver, team,
   or manufacturer information. There is room for improvement: “Chris
   Bell” would find “Christopher Bell” instead of “Chris Miller” as it
   does now. Improvements would include a stronger focus on the driver or
   owner’s last name, but this will take some trial and error to really
   dial in.
-
-------------------------------------------------------------------------
 
 ## nascaR.data 2.0.0
 

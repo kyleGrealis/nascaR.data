@@ -1,8 +1,10 @@
 pandoc: 3.1.11
 pkgdown: 2.2.0
 pkgdown_sha: ~
-articles: {}
-last_built: 2025-11-15T22:11Z
+articles:
+  a-race-winning-strategy: a-race-winning-strategy.html
+  migrating-to-nxs: migrating-to-nxs.html
+last_built: 2026-02-14T00:21Z
 urls:
-  reference: https://kylegrealis.github.io/nascaR.data/reference
-  article: https://kylegrealis.github.io/nascaR.data/articles
+  reference: https://www.kylegrealis.com/nascaR.data/reference
+  article: https://www.kylegrealis.com/nascaR.data/articles
