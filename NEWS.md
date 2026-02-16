@@ -1,3 +1,10 @@
+# nascaR.data 3.0.1
+
+* **Removed disk cache.** The on-disk cache from v3.0.0 silently
+  served stale data across R sessions. `load_series()` now downloads
+  fresh data from R2 once per session (in-memory cache only).
+
+
 # nascaR.data 3.0.0
 
 ## Breaking Changes
@@ -29,12 +36,11 @@
 
 ## New Features
 
-* **`load_series()`**: Two-tier caching (memory + disk). First call downloads
-  from R2 and caches locally. Subsequent calls are instant. Use
+* **`load_series()`**: Downloads series data from R2 and caches in memory.
+  Subsequent calls within the same session are instant. Use
   `refresh = TRUE` to force re-download.
 
-* **`clear_cache()`**: New exported function to wipe cached data from memory
-  and disk. Disk cache uses the CRAN-approved `tools::R_user_dir()` location.
+* **`clear_cache()`**: New exported function to reset the in-memory cache.
 
 * **R2-canonical pipeline**: The weekly GitHub Actions scraper now reads
   existing data from R2, appends new races, and uploads back to R2.

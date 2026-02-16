@@ -84,35 +84,26 @@ required to read this data efficiently.
 **Action required:** None. The `arrow` package will be installed automatically
 when you install nascaR.data v3.0.0.
 
-## New caching system
-
-**What changed:** v3.0.0 introduces a two-tier caching system (memory + disk).
+## Caching
 
 **How it works:**
 
-1. **First call:** Downloads data from R2 and caches in memory and on disk
+1. **First call in a session:** Downloads data from R2 and caches in memory
 2. **Subsequent calls in same session:** Instant retrieval from memory cache
-3. **Subsequent calls in new sessions:** Fast retrieval from disk cache
+3. **New R session:** Downloads fresh data from R2 automatically
 
-**Disk cache location:** Uses CRAN-approved `tools::R_user_dir()` path:
-
-```{r, eval = FALSE}
-# View cache location
-tools::R_user_dir("nascaR.data", which = "cache")
-```
+Each new R session fetches the latest data, so you always have up-to-date
+race results without any manual intervention.
 
 **Managing the cache:**
 
 ```{r, eval = FALSE}
-# Force fresh download
+# Force fresh download within a session
 cup <- load_series("cup", refresh = TRUE)
 
-# Clear all cached data (memory + disk)
+# Reset the in-memory cache
 clear_cache()
 ```
-
-**Why:** Caching dramatically improves performance. After the first download,
-data loads instantly without network requests.
 
 ## find_*() functions removed
 

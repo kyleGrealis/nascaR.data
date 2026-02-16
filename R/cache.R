@@ -1,8 +1,8 @@
-#' Cache infrastructure for nascaR.data
+#' In-memory cache for nascaR.data
 #'
-#' Two-tier caching: in-memory (per R session) and on-disk
-#' (persists across sessions) using the CRAN-approved
-#' `tools::R_user_dir()` location.
+#' Caches downloaded series data for the current R session to
+#' avoid redundant downloads when `load_series()` is called
+#' multiple times. Resets automatically when the session ends.
 #'
 #' @name nascaR.data-cache
 #' @keywords internal
@@ -12,22 +12,12 @@ NULL
 # Package-level in-memory cache (resets each R session)
 .nascar_cache <- new.env(parent = emptyenv())
 
-#' Get the disk cache directory path
-#'
-#' Uses `tools::R_user_dir()` for CRAN-compliant storage.
-#'
-#' @return Character string with the cache directory path.
-#' @keywords internal
-#' @noRd
-cache_dir <- function() {
-  tools::R_user_dir("nascaR.data", which = "cache")
-}
-
 #' Clear Cached NASCAR Data
 #'
-#' Removes all cached NASCAR series data from both memory and
-#' disk. The next call to [load_series()] will re-download
-#' data from cloud storage.
+#' Clears the in-memory cache so the next call to
+#' [load_series()] will re-download from cloud storage.
+#' Also removes any leftover disk cache from previous
+#' package versions.
 #'
 #' @return Invisibly returns `NULL`.
 #'
@@ -35,10 +25,10 @@ cache_dir <- function() {
 #'
 #' @examples
 #' \dontrun{
-#' # Clear all cached data
+#' # Clear in-memory cache
 #' clear_cache()
 #'
-#' # Force fresh download
+#' # Next call downloads fresh data
 #' cup <- load_series("cup")
 #' }
 #'
@@ -46,11 +36,17 @@ cache_dir <- function() {
 clear_cache <- function() {
   rm(list = ls(.nascar_cache), envir = .nascar_cache)
 
-  dir <- cache_dir()
+  # Clean up disk cache from v3.0.0 if it exists
+  dir <- tools::R_user_dir("nascaR.data", which = "cache")
   if (dir.exists(dir)) {
     unlink(dir, recursive = TRUE)
+    message(
+      "nascaR.data cache cleared ",
+      "(legacy disk cache removed)."
+    )
+  } else {
+    message("nascaR.data cache cleared.")
   }
 
-  message("nascaR.data cache cleared.")
   invisible(NULL)
 }

@@ -15,14 +15,14 @@ utils::globalVariables(c(
 #' Load NASCAR Series Data
 #'
 #' Downloads NASCAR series data from Cloudflare R2 as a parquet
-#' file. Uses two-tier caching (memory + disk) for performance.
-#' On first call, data is downloaded and cached locally.
-#' Subsequent calls return cached data instantly.
+#' file. Data is cached in memory for the current R session so
+#' repeated calls are instant. Each new R session downloads
+#' fresh data, ensuring you always have the latest results.
 #'
 #' @param series Character. The series to load. One of `"cup"`,
 #'   `"nxs"`, or `"truck"`.
-#' @param refresh Logical. If `TRUE`, bypass the cache and
-#'   re-download from cloud storage. Default is `FALSE`.
+#' @param refresh Logical. If `TRUE`, bypass the in-memory cache
+#'   and re-download from cloud storage. Default is `FALSE`.
 #'
 #' @return A data frame with 21 columns of race results:
 #'   Season, Race, Track, Name, Length, Surface, Finish, Start,
@@ -40,17 +40,12 @@ utils::globalVariables(c(
 #'
 #' ## Caching
 #'
-#' Data is cached in two tiers:
-#' \itemize{
-#'   \item **Memory**: Instant access within the current R
-#'     session.
-#'   \item **Disk**: Persists across sessions at the CRAN-approved
-#'     location returned by
-#'     `tools::R_user_dir("nascaR.data", which = "cache")`.
-#' }
+#' Data is cached in memory for the current R session. Repeated
+#' calls return instantly without re-downloading. Starting a new
+#' R session always fetches the latest data from R2.
 #'
-#' Use `refresh = TRUE` to force a fresh download, or
-#' [clear_cache()] to remove all cached data.
+#' Use `refresh = TRUE` to force a re-download within a session,
+#' or [clear_cache()] to reset the in-memory cache.
 #'
 #' @seealso [series_data] for column descriptions,
 #'   [clear_cache()] for cache management,
@@ -98,24 +93,12 @@ load_series <- function(series = c("cup", "nxs", "truck"),
   series <- match.arg(series)
   cache_key <- paste0(series, "_series")
 
-  # 1. Memory cache (instant, within session)
+  # Memory cache (instant, within session)
   if (!refresh && exists(cache_key, envir = .nascar_cache)) {
     return(get(cache_key, envir = .nascar_cache))
   }
 
-  # 2. Disk cache (persists across sessions)
-  disk_path <- file.path(
-    cache_dir(),
-    paste0(cache_key, ".parquet")
-  )
-
-  if (!refresh && file.exists(disk_path)) {
-    data <- arrow::read_parquet(disk_path)
-    assign(cache_key, data, envir = .nascar_cache)
-    return(data)
-  }
-
-  # 3. Download from R2
+  # Download from R2
   url <- glue(
     "https://nascar.kylegrealis.com/{cache_key}.parquet"
   )
@@ -126,30 +109,8 @@ load_series <- function(series = c("cup", "nxs", "truck"),
       rlang::abort(c(
         glue("Failed to load {series} series data."),
         i = glue("URL: {url}"),
-        i = "Check your internet connection.",
-        i = paste(
-          "If cached data exists, use",
-          "load_series(refresh = FALSE)."
-        )
+        i = "Check your internet connection."
       ))
-    }
-  )
-
-  # Save to disk cache (non-fatal if write fails)
-  tryCatch(
-    {
-      dir.create(
-        cache_dir(),
-        recursive = TRUE,
-        showWarnings = FALSE
-      )
-      arrow::write_parquet(data, disk_path)
-    },
-    error = function(e) {
-      message(
-        "Note: Could not write to disk cache. ",
-        "Data is available in memory only."
-      )
     }
   )
 

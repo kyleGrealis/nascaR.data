@@ -10,8 +10,8 @@ load_series(series = c("cup", "nxs", "truck"), refresh = FALSE)
 \item{series}{Character. The series to load. One of \code{"cup"},
 \code{"nxs"}, or \code{"truck"}.}
 
-\item{refresh}{Logical. If \code{TRUE}, bypass the cache and
-re-download from cloud storage. Default is \code{FALSE}.}
+\item{refresh}{Logical. If \code{TRUE}, bypass the in-memory cache
+and re-download from cloud storage. Default is \code{FALSE}.}
 }
 \value{
 A data frame with 21 columns of race results:
@@ -21,9 +21,9 @@ S3, Rating, and Win.
 }
 \description{
 Downloads NASCAR series data from Cloudflare R2 as a parquet
-file. Uses two-tier caching (memory + disk) for performance.
-On first call, data is downloaded and cached locally.
-Subsequent calls return cached data instantly.
+file. Data is cached in memory for the current R session so
+repeated calls are instant. Each new R session downloads
+fresh data, ensuring you always have the latest results.
 }
 \details{
 \subsection{Why "nxs"?}{
@@ -37,17 +37,12 @@ Busch (1984-2007), Nationwide (2008-2014), Xfinity
 
 \subsection{Caching}{
 
-Data is cached in two tiers:
-\itemize{
-\item \strong{Memory}: Instant access within the current R
-session.
-\item \strong{Disk}: Persists across sessions at the CRAN-approved
-location returned by
-\code{tools::R_user_dir("nascaR.data", which = "cache")}.
-}
+Data is cached in memory for the current R session. Repeated
+calls return instantly without re-downloading. Starting a new
+R session always fetches the latest data from R2.
 
-Use \code{refresh = TRUE} to force a fresh download, or
-\code{\link[=clear_cache]{clear_cache()}} to remove all cached data.
+Use \code{refresh = TRUE} to force a re-download within a session,
+or \code{\link[=clear_cache]{clear_cache()}} to reset the in-memory cache.
 }
 }
 \examples{

@@ -10,16 +10,17 @@ clear_cache()
 Invisibly returns \code{NULL}.
 }
 \description{
-Removes all cached NASCAR series data from both memory and
-disk. The next call to \code{\link[=load_series]{load_series()}} will re-download
-data from cloud storage.
+Clears the in-memory cache so the next call to
+\code{\link[=load_series]{load_series()}} will re-download from cloud storage.
+Also removes any leftover disk cache from previous
+package versions.
 }
 \examples{
 \dontrun{
-# Clear all cached data
+# Clear in-memory cache
 clear_cache()
 
-# Force fresh download
+# Next call downloads fresh data
 cup <- load_series("cup")
 }
 

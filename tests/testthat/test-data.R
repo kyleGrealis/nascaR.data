@@ -219,22 +219,6 @@ test_that("load_series(refresh) validates logical input", {
   )
 })
 
-test_that("load_series() disk cache file exists after loading", {
-  skip_on_cran()
-  skip_if_offline()
-
-  clear_cache()
-
-  cup <- load_series("cup")
-
-  disk_path <- file.path(
-    tools::R_user_dir("nascaR.data", which = "cache"),
-    "cup_series.parquet"
-  )
-
-  expect_true(file.exists(disk_path))
-})
-
 test_that("clear_cache() empties memory cache and emits message", {
   skip_on_cran()
   skip_if_offline()

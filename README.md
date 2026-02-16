@@ -43,7 +43,7 @@ nxs <- load_series("nxs")
 truck <- load_series("truck")
 ```
 
-Data is cached locally after the first download for instant access. Use `refresh = TRUE` to force a fresh download, or `clear_cache()` to wipe the cache.
+Data is cached in memory for the current R session. Each new session downloads fresh data automatically. Use `refresh = TRUE` to force a re-download within a session.
 
 Data is updated automatically every Monday during the racing season (February through November).
 
@@ -148,7 +148,7 @@ This package provides rich historical data for:
 | Function | Description |
 |----------|-------------|
 | `load_series()` | Load race data from cloud storage (with caching) |
-| `clear_cache()` | Clear cached data from memory and disk |
+| `clear_cache()` | Clear in-memory cached data |
 | `get_driver_info()` | Obtain race, season, or career performance results |
 | `get_team_info()` | Team-specific race, season, or career results (i.e., Petty Enterprises) |
 | `get_manufacturer_info()` | Ford, Chevy, Toyota, Dodge, even Studebaker |
