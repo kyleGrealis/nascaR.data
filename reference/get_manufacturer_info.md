@@ -72,9 +72,9 @@ get_manufacturer_info("Toyota")
 #> # A tibble: 3 × 8
 #>   Series Seasons Races  Wins `Best Finish` `Avg Finish` `Laps Raced` `Laps Led`
 #>   <chr>    <int> <int> <dbl>         <int>        <dbl>        <int>      <int>
-#> 1 Cup         19  5924   203             1         21.3      1494811      61365
-#> 2 NXS         19  5050   218             1         19         766890      41073
-#> 3 Truck       22  5148   248             1         14.9       728526      35684
+#> 1 Cup         20  5935   204             1         21.3      1496985      61468
+#> 2 NXS         20  5056   218             1         19         767375      41075
+#> 3 Truck       23  5155   248             1         14.9       729239      35709
 
 # Season-by-season Cup data
 get_manufacturer_info(
@@ -83,7 +83,7 @@ get_manufacturer_info(
   type = "season"
 )
 #> Manufacturer: Toyota
-#> # A tibble: 19 × 8
+#> # A tibble: 20 × 8
 #>    Series Season Races  Wins `Best Finish` `Avg Finish` `Laps Raced` `Laps Led`
 #>    <chr>   <int> <int> <dbl>         <int>        <dbl>        <int>      <int>
 #>  1 Cup      2007    36     0             3         29          42296        166
@@ -105,5 +105,6 @@ get_manufacturer_info(
 #> 17 Cup      2023    36    10             1         14.8        54220       3365
 #> 18 Cup      2024    35     9             1         17.8        78058       3832
 #> 19 Cup      2025    35    14             1         17.4        83862       3091
+#> 20 Cup      2026     1     1             1         22.5         2174        103
 # }
 ```

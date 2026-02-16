@@ -207,7 +207,7 @@ performance across different track types to see where he excels.</p>
 <span><span class="co">##   <span style="color: #949494; font-style: italic;">&lt;chr&gt;</span>   <span style="color: #949494; font-style: italic;">&lt;int&gt;</span>      <span style="color: #949494; font-style: italic;">&lt;dbl&gt;</span> <span style="color: #949494; font-style: italic;">&lt;dbl&gt;</span>    <span style="color: #949494; font-style: italic;">&lt;int&gt;</span></span></span>
 <span><span class="co">## <span style="color: #BCBCBC;">1</span> road       31       13.4     3      121</span></span>
 <span><span class="co">## <span style="color: #BCBCBC;">2</span> dirt        3       14       1      100</span></span>
-<span><span class="co">## <span style="color: #BCBCBC;">3</span> paved     180       14.7     9     <span style="text-decoration: underline;">2</span>492</span></span>
+<span><span class="co">## <span style="color: #BCBCBC;">3</span> paved     181       14.8     9     <span style="text-decoration: underline;">2</span>501</span></span>
 <span><span class="co">## <span style="color: #BCBCBC;">4</span> <span style="color: #BB0000;">NA</span>          2       16       0        4</span></span></code></pre>
 <p>Road courses show a strong average finish, but let’s visualize
 performance trends over time to see the full picture.</p>
@@ -225,9 +225,9 @@ performance trends over time to see the full picture.</p>
 <span>  <span class="fu">geom_point</span><span class="op">(</span><span class="fu">aes</span><span class="op">(</span>size <span class="op">=</span> <span class="va">wins</span><span class="op">)</span>, color <span class="op">=</span> <span class="st">"#fb9f00"</span><span class="op">)</span> <span class="op">+</span></span>
 <span>  <span class="fu">scale_y_reverse</span><span class="op">(</span><span class="op">)</span> <span class="op">+</span></span>
 <span>  <span class="fu">theme_minimal</span><span class="op">(</span><span class="op">)</span></span></code></pre></div>
-<pre><code><span><span class="co">## Warning: Removed 1 row containing missing values or values outside the scale range</span></span>
+<pre><code><span><span class="co">## Warning: Removed 2 rows containing missing values or values outside the scale range</span></span>
 <span><span class="co">## (`geom_line()`).</span></span></code></pre>
-<pre><code><span><span class="co">## Warning: Removed 1 row containing missing values or values outside the scale range</span></span>
+<pre><code><span><span class="co">## Warning: Removed 2 rows containing missing values or values outside the scale range</span></span>
 <span><span class="co">## (`geom_point()`).</span></span></code></pre>
 <p><img src="a-race-winning-strategy_files/figure-html/unnamed-chunk-10-1.png" class="r-plt" alt="" width="700"></p>
 <p>The trend shows consistent improvement, with better average finishes
@@ -275,7 +275,7 @@ Toyota.</p>
 <span>    .groups <span class="op">=</span> <span class="st">"drop"</span></span>
 <span>  <span class="op">)</span> <span class="op">|&gt;</span></span>
 <span>  <span class="fu">select</span><span class="op">(</span><span class="va">Season</span>, <span class="va">Make</span>, <span class="va">races</span>, <span class="va">wins</span>, <span class="va">avg_finish</span><span class="op">)</span></span></code></pre></div>
-<pre><code><span><span class="co">## <span style="color: #949494;"># A tibble: 26 × 5</span></span></span>
+<pre><code><span><span class="co">## <span style="color: #949494;"># A tibble: 27 × 5</span></span></span>
 <span><span class="co">##    Season Make      races  wins avg_finish</span></span>
 <span><span class="co">##     <span style="color: #949494; font-style: italic;">&lt;int&gt;</span> <span style="color: #949494; font-style: italic;">&lt;chr&gt;</span>     <span style="color: #949494; font-style: italic;">&lt;int&gt;</span> <span style="color: #949494; font-style: italic;">&lt;dbl&gt;</span>      <span style="color: #949494; font-style: italic;">&lt;dbl&gt;</span></span></span>
 <span><span class="co">## <span style="color: #BCBCBC;"> 1</span>   <span style="text-decoration: underline;">2</span>000 Pontiac      68    10        9.9</span></span>
@@ -288,7 +288,7 @@ Toyota.</p>
 <span><span class="co">## <span style="color: #BCBCBC;"> 8</span>   <span style="text-decoration: underline;">2</span>007 Chevrolet   109     4       16.8</span></span>
 <span><span class="co">## <span style="color: #BCBCBC;"> 9</span>   <span style="text-decoration: underline;">2</span>008 Toyota      109    10       14.5</span></span>
 <span><span class="co">## <span style="color: #BCBCBC;">10</span>   <span style="text-decoration: underline;">2</span>009 Toyota      111     9       16.5</span></span>
-<span><span class="co">## <span style="color: #949494;"># ℹ 16 more rows</span></span></span></code></pre>
+<span><span class="co">## <span style="color: #949494;"># ℹ 17 more rows</span></span></span></code></pre>
 <p>Joe Gibbs Racing switched to Toyota in 2008, and the performance data
 tells the story of that partnership’s success over the following
 years.</p>

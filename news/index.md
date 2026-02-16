@@ -2,6 +2,8 @@
 
 ## nascaR.data 3.0.0
 
+CRAN release: 2026-02-14
+
 ### Breaking Changes
 
 - **Bundled data removed.** The `cup_series`, `xfinity_series`, and

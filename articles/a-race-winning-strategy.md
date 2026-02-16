@@ -142,7 +142,7 @@ cup_series |>
     ##   <chr>   <int>      <dbl> <dbl>    <int>
     ## 1 road       31       13.4     3      121
     ## 2 dirt        3       14       1      100
-    ## 3 paved     180       14.7     9     2492
+    ## 3 paved     181       14.8     9     2501
     ## 4 NA          2       16       0        4
 
 Road courses show a strong average finish, but let’s visualize
@@ -164,10 +164,10 @@ cup_series |>
   theme_minimal()
 ```
 
-    ## Warning: Removed 1 row containing missing values or values outside the scale range
+    ## Warning: Removed 2 rows containing missing values or values outside the scale range
     ## (`geom_line()`).
 
-    ## Warning: Removed 1 row containing missing values or values outside the scale range
+    ## Warning: Removed 2 rows containing missing values or values outside the scale range
     ## (`geom_point()`).
 
 ![](a-race-winning-strategy_files/figure-html/unnamed-chunk-10-1.png)
@@ -219,7 +219,7 @@ cup_series |>
   select(Season, Make, races, wins, avg_finish)
 ```
 
-    ## # A tibble: 26 × 5
+    ## # A tibble: 27 × 5
     ##    Season Make      races  wins avg_finish
     ##     <int> <chr>     <int> <dbl>      <dbl>
     ##  1   2000 Pontiac      68    10        9.9
@@ -232,7 +232,7 @@ cup_series |>
     ##  8   2007 Chevrolet   109     4       16.8
     ##  9   2008 Toyota      109    10       14.5
     ## 10   2009 Toyota      111     9       16.5
-    ## # ℹ 16 more rows
+    ## # ℹ 17 more rows
 
 Joe Gibbs Racing switched to Toyota in 2008, and the performance data
 tells the story of that partnership’s success over the following years.

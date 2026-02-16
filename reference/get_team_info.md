@@ -69,8 +69,8 @@ get_team_info("Joe Gibbs Racing")
 #> # A tibble: 3 × 9
 #>   Series Seasons `Career Races` `# of Drivers`  Wins `Best Finish` `Avg Finish`
 #>   <chr>    <int>          <int>          <int> <dbl>         <int>        <dbl>
-#> 1 Cup         34           3315             29   227             1         14.4
-#> 2 NXS         29           2340             78   221             1         12.8
+#> 1 Cup         35           3319             29   227             1         14.5
+#> 2 NXS         30           2344             79   221             1         12.9
 #> 3 Truck        4             66              3     0             2         16.5
 #> # ℹ 2 more variables: `Laps Raced` <int>, `Laps Led` <int>
 
@@ -81,7 +81,7 @@ get_team_info(
   type = "season"
 )
 #> Team: Joe Gibbs Racing
-#> # A tibble: 34 × 9
+#> # A tibble: 35 × 9
 #>    Series Season Races `# of Drivers`  Wins `Best Finish` `Avg Finish`
 #>    <chr>   <int> <int>          <int> <dbl>         <int>        <dbl>
 #>  1 Cup      1992    28              1     0             2         17.8
@@ -94,7 +94,7 @@ get_team_info(
 #>  8 Cup      1999    34              2     8             1          9.6
 #>  9 Cup      2000    34              2    10             1          9.9
 #> 10 Cup      2001    36              2     5             1         13.3
-#> # ℹ 24 more rows
+#> # ℹ 25 more rows
 #> # ℹ 2 more variables: `Laps Raced` <int>, `Laps Led` <int>
 # }
 ```

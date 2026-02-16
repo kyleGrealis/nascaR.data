@@ -68,7 +68,7 @@ get_driver_info("Christopher Bell")
 #> # A tibble: 3 × 8
 #>   Series Seasons `Career Races`  Wins `Best Finish` `Avg Finish` `Laps Raced`
 #>   <chr>    <int>          <int> <dbl>         <int>        <dbl>        <int>
-#> 1 Cup          6            216    13             1         14.5        54607
+#> 1 Cup          7            217    13             1         14.6        54798
 #> 2 NXS          7             81    19             1         10.3        13092
 #> 3 Truck        7             58     7             1          8.4         8213
 #> # ℹ 1 more variable: `Laps Led` <int>
@@ -80,7 +80,7 @@ get_driver_info(
   type = "season"
 )
 #> Driver: Christopher Bell
-#> # A tibble: 6 × 8
+#> # A tibble: 7 × 8
 #>   Series Season Races  Wins `Best Finish` `Avg Finish` `Laps Raced` `Laps Led`
 #>   <chr>   <int> <int> <dbl>         <int>        <dbl>        <int>      <int>
 #> 1 Cup      2020    36     0             3         20.2         9428         18
@@ -89,5 +89,6 @@ get_driver_info(
 #> 4 Cup      2023    36     2             1         12.9         8868        599
 #> 5 Cup      2024    35     3             1         12.8         9298       1145
 #> 6 Cup      2025    35     4             1         11.2         9286        282
+#> 7 Cup      2026     1     0            35         35            191          9
 # }
 ```
