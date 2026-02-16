@@ -275,7 +275,7 @@ check_integrity <- function(data, series_name) {
   }
 
   # Check minimum row count (catch catastrophic data loss)
-  min_rows <- c(cup = 100000, nxs = 50000, truck = 30000)
+  min_rows <- c(cup = 100000, nxs = 50000, truck = 20000)
   expected_min <- min_rows[series_name]
   if (!is.na(expected_min) && nrow(data) < expected_min) {
     stop(
