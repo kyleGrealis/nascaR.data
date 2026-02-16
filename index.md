@@ -45,10 +45,9 @@ nxs <- load_series("nxs")
 truck <- load_series("truck")
 ```
 
-Data is cached locally after the first download for instant access. Use
-`refresh = TRUE` to force a fresh download, or
-[`clear_cache()`](https://www.kylegrealis.com/nascaR.data/reference/clear_cache.md)
-to wipe the cache.
+Data is cached in memory for the current R session. Each new session
+downloads fresh data automatically. Use `refresh = TRUE` to force a
+re-download within a session.
 
 Data is updated automatically every Monday during the racing season
 (February through November).
@@ -162,7 +161,7 @@ This package provides rich historical data for:
 | Function                                                                                                | Description                                                             |
 |---------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------|
 | [`load_series()`](https://www.kylegrealis.com/nascaR.data/reference/load_series.md)                     | Load race data from cloud storage (with caching)                        |
-| [`clear_cache()`](https://www.kylegrealis.com/nascaR.data/reference/clear_cache.md)                     | Clear cached data from memory and disk                                  |
+| [`clear_cache()`](https://www.kylegrealis.com/nascaR.data/reference/clear_cache.md)                     | Clear in-memory cached data                                             |
 | [`get_driver_info()`](https://www.kylegrealis.com/nascaR.data/reference/get_driver_info.md)             | Obtain race, season, or career performance results                      |
 | [`get_team_info()`](https://www.kylegrealis.com/nascaR.data/reference/get_team_info.md)                 | Team-specific race, season, or career results (i.e., Petty Enterprises) |
 | [`get_manufacturer_info()`](https://www.kylegrealis.com/nascaR.data/reference/get_manufacturer_info.md) | Ford, Chevy, Toyota, Dodge, even Studebaker                             |

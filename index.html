@@ -28,7 +28,7 @@
 
     <a class="navbar-brand me-2" href="index.html">nascaR.data</a>
 
-    <small class="nav-text text-muted me-auto" data-bs-toggle="tooltip" data-bs-placement="bottom" title="Released version">3.0.0</small>
+    <small class="nav-text text-muted me-auto" data-bs-toggle="tooltip" data-bs-placement="bottom" title="Released version">3.0.1</small>
 
 
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbar" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
@@ -101,7 +101,7 @@
 <span><span class="va">cup</span> <span class="op">&lt;-</span> <span class="fu"><a href="reference/load_series.html">load_series</a></span><span class="op">(</span><span class="st">"cup"</span><span class="op">)</span></span>
 <span><span class="va">nxs</span> <span class="op">&lt;-</span> <span class="fu"><a href="reference/load_series.html">load_series</a></span><span class="op">(</span><span class="st">"nxs"</span><span class="op">)</span></span>
 <span><span class="va">truck</span> <span class="op">&lt;-</span> <span class="fu"><a href="reference/load_series.html">load_series</a></span><span class="op">(</span><span class="st">"truck"</span><span class="op">)</span></span></code></pre></div>
-<p>Data is cached locally after the first download for instant access. Use <code>refresh = TRUE</code> to force a fresh download, or <code><a href="reference/clear_cache.html">clear_cache()</a></code> to wipe the cache.</p>
+<p>Data is cached in memory for the current R session. Each new session downloads fresh data automatically. Use <code>refresh = TRUE</code> to force a re-download within a session.</p>
 <p>Data is updated automatically every Monday during the racing season (February through November).</p>
 <hr>
 </div>
@@ -212,7 +212,7 @@
 </tr>
 <tr class="even">
 <td><code><a href="reference/clear_cache.html">clear_cache()</a></code></td>
-<td>Clear cached data from memory and disk</td>
+<td>Clear in-memory cached data</td>
 </tr>
 <tr class="odd">
 <td><code><a href="reference/get_driver_info.html">get_driver_info()</a></code></td>

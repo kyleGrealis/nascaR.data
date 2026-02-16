@@ -1,9 +1,9 @@
 # Load NASCAR Series Data
 
-Downloads NASCAR series data from Cloudflare R2 as a parquet file. Uses
-two-tier caching (memory + disk) for performance. On first call, data is
-downloaded and cached locally. Subsequent calls return cached data
-instantly.
+Downloads NASCAR series data from Cloudflare R2 as a parquet file. Data
+is cached in memory for the current R session so repeated calls are
+instant. Each new R session downloads fresh data, ensuring you always
+have the latest results.
 
 ## Usage
 
@@ -19,8 +19,8 @@ load_series(series = c("cup", "nxs", "truck"), refresh = FALSE)
 
 - refresh:
 
-  Logical. If `TRUE`, bypass the cache and re-download from cloud
-  storage. Default is `FALSE`.
+  Logical. If `TRUE`, bypass the in-memory cache and re-download from
+  cloud storage. Default is `FALSE`.
 
 ## Value
 
@@ -40,16 +40,13 @@ changes.
 
 ### Caching
 
-Data is cached in two tiers:
+Data is cached in memory for the current R session. Repeated calls
+return instantly without re-downloading. Starting a new R session always
+fetches the latest data from R2.
 
-- **Memory**: Instant access within the current R session.
-
-- **Disk**: Persists across sessions at the CRAN-approved location
-  returned by `tools::R_user_dir("nascaR.data", which = "cache")`.
-
-Use `refresh = TRUE` to force a fresh download, or
+Use `refresh = TRUE` to force a re-download within a session, or
 [`clear_cache()`](https://www.kylegrealis.com/nascaR.data/reference/clear_cache.md)
-to remove all cached data.
+to reset the in-memory cache.
 
 ## See also
 

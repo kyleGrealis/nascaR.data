@@ -1,9 +1,9 @@
 # Clear Cached NASCAR Data
 
-Removes all cached NASCAR series data from both memory and disk. The
-next call to
+Clears the in-memory cache so the next call to
 [`load_series()`](https://www.kylegrealis.com/nascaR.data/reference/load_series.md)
-will re-download data from cloud storage.
+will re-download from cloud storage. Also removes any leftover disk
+cache from previous package versions.
 
 ## Usage
 
@@ -24,10 +24,10 @@ for data access.
 
 ``` r
 if (FALSE) { # \dontrun{
-# Clear all cached data
+# Clear in-memory cache
 clear_cache()
 
-# Force fresh download
+# Next call downloads fresh data
 cup <- load_series("cup")
 } # }
 ```

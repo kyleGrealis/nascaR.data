@@ -25,7 +25,7 @@
 
     <a class="navbar-brand me-2" href="../index.html">nascaR.data</a>
 
-    <small class="nav-text text-muted me-auto" data-bs-toggle="tooltip" data-bs-placement="bottom" title="Released version">3.0.0</small>
+    <small class="nav-text text-muted me-auto" data-bs-toggle="tooltip" data-bs-placement="bottom" title="Released version">3.0.1</small>
 
 
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbar" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
@@ -137,37 +137,29 @@ package will be installed automatically when you install nascaR.data
 v3.0.0.</p>
 </div>
 <div class="section level2">
-<h2 id="new-caching-system">New caching system<a class="anchor" aria-label="anchor" href="#new-caching-system"></a>
+<h2 id="caching">Caching<a class="anchor" aria-label="anchor" href="#caching"></a>
 </h2>
-<p><strong>What changed:</strong> v3.0.0 introduces a two-tier caching
-system (memory + disk).</p>
 <p><strong>How it works:</strong></p>
 <ol style="list-style-type: decimal">
 <li>
-<strong>First call:</strong> Downloads data from R2 and caches in
-memory and on disk</li>
+<strong>First call in a session:</strong> Downloads data from R2 and
+caches in memory</li>
 <li>
 <strong>Subsequent calls in same session:</strong> Instant retrieval
 from memory cache</li>
 <li>
-<strong>Subsequent calls in new sessions:</strong> Fast retrieval
-from disk cache</li>
+<strong>New R session:</strong> Downloads fresh data from R2
+automatically</li>
 </ol>
-<p><strong>Disk cache location:</strong> Uses CRAN-approved
-<code><a href="https://rdrr.io/r/tools/userdir.html" class="external-link">tools::R_user_dir()</a></code> path:</p>
-<div class="sourceCode" id="cb5"><pre class="downlit sourceCode r">
-<code class="sourceCode R"><span><span class="co"># View cache location</span></span>
-<span><span class="fu">tools</span><span class="fu">::</span><span class="fu"><a href="https://rdrr.io/r/tools/userdir.html" class="external-link">R_user_dir</a></span><span class="op">(</span><span class="st">"nascaR.data"</span>, which <span class="op">=</span> <span class="st">"cache"</span><span class="op">)</span></span></code></pre></div>
+<p>Each new R session fetches the latest data, so you always have
+up-to-date race results without any manual intervention.</p>
 <p><strong>Managing the cache:</strong></p>
-<div class="sourceCode" id="cb6"><pre class="downlit sourceCode r">
-<code class="sourceCode R"><span><span class="co"># Force fresh download</span></span>
+<div class="sourceCode" id="cb5"><pre class="downlit sourceCode r">
+<code class="sourceCode R"><span><span class="co"># Force fresh download within a session</span></span>
 <span><span class="va">cup</span> <span class="op">&lt;-</span> <span class="fu"><a href="../reference/load_series.html">load_series</a></span><span class="op">(</span><span class="st">"cup"</span>, refresh <span class="op">=</span> <span class="cn">TRUE</span><span class="op">)</span></span>
 <span></span>
-<span><span class="co"># Clear all cached data (memory + disk)</span></span>
+<span><span class="co"># Reset the in-memory cache</span></span>
 <span><span class="fu"><a href="../reference/clear_cache.html">clear_cache</a></span><span class="op">(</span><span class="op">)</span></span></code></pre></div>
-<p><strong>Why:</strong> Caching dramatically improves performance.
-After the first download, data loads instantly without network
-requests.</p>
 </div>
 <div class="section level2">
 <h2 id="find_-functions-removed">find_*() functions removed<a class="anchor" aria-label="anchor" href="#find_-functions-removed"></a>
@@ -176,11 +168,11 @@ requests.</p>
 <code>find_team()</code>, and <code>find_manufacturer()</code> have been
 removed.</p>
 <p><strong>Before (v2.x):</strong></p>
-<div class="sourceCode" id="cb7"><pre class="downlit sourceCode r">
+<div class="sourceCode" id="cb6"><pre class="downlit sourceCode r">
 <code class="sourceCode R"><span><span class="fu">find_driver</span><span class="op">(</span><span class="st">"bell"</span><span class="op">)</span></span>
 <span><span class="fu"><a href="../reference/get_driver_info.html">get_driver_info</a></span><span class="op">(</span><span class="st">"Christopher Bell"</span><span class="op">)</span></span></code></pre></div>
 <p><strong>After (v3.0.0):</strong></p>
-<div class="sourceCode" id="cb8"><pre class="downlit sourceCode r">
+<div class="sourceCode" id="cb7"><pre class="downlit sourceCode r">
 <code class="sourceCode R"><span><span class="co"># Just use get_*_info() directly</span></span>
 <span><span class="fu"><a href="../reference/get_driver_info.html">get_driver_info</a></span><span class="op">(</span><span class="st">"bell"</span><span class="op">)</span></span></code></pre></div>
 <p><strong>Why:</strong> The <code>get_*_info()</code> functions already
