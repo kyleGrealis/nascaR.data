@@ -191,26 +191,20 @@ update_nascar_series <- function(series) {
       page <- get_page(xml2::url_absolute(link, cfg$base_url))
 
       # Extract race details
-      # Site redesign: race name in <h4>, track in <dd> after "Race Track:"
+      # Site structure: race name in <h3> inside .sub-banner-box,
+      # track after <strong>Race Track:</strong> in same container
       race_name <- page |>
-        rvest::html_element("h4") |>
+        rvest::html_element(".sub-banner-box h3") |>
         rvest::html_text2()
 
-      # Extract track from <dt>Race Track:</dt><dd>...</dd> pattern
-      track_name <- page |>
-        xml2::xml_find_first("//dt[contains(text(),'Race Track')]/following-sibling::dd[1]") |>
+      # Track name follows "Race Track:" <strong> tag in a <p>
+      track_text <- page |>
+        rvest::html_element(".sub-banner-box p") |>
         rvest::html_text2()
-
-      # Fallback: try legacy selector
-      if (is.na(race_name) || is.na(track_name)) {
-        details <- page |>
-          rvest::html_element("td.td-left span.td-bold") |>
-          rvest::html_text2()
-        if (!is.na(details)) {
-          parts <- stringr::str_split(details, "\n")[[1]]
-          if (is.na(race_name)) race_name <- parts[1]
-          if (is.na(track_name)) track_name <- parts[2]
-        }
+      track_name <- if (!is.na(track_text)) {
+        stringr::str_extract(track_text, "(?<=Race Track:\\s).*?(?=\\n|$)")
+      } else {
+        NA_character_
       }
 
       message(
@@ -218,22 +212,26 @@ update_nascar_series <- function(series) {
         track_name
       )
 
-      # Extract race table -- find by column content, not index
-      all_tables <- page |>
-        rvest::html_table(header = TRUE)
+      # Extract race results table by CSS class to avoid wrapper tables
+      # that cause "variable names limited to 10000 bytes" errors.
+      # Results table has class "table-large"; season history does not.
+      table_node <- page |>
+        rvest::html_element("table.tabledata-nascar.table-large")
 
-      race_table <- NULL
-      for (tbl in all_tables) {
-        if ("Driver" %in% names(tbl) && any(c("Fin", "Finish") %in% names(tbl))) {
-          race_table <- tbl
-          break
-        }
-      }
-
-      if (is.null(race_table) || nrow(race_table) == 0) {
+      if (is.null(table_node) || inherits(table_node, "xml_missing")) {
         message(
           "  [Race ", race_number,
           "] Skipping: no results table found"
+        )
+        return(NULL)
+      }
+
+      race_table <- rvest::html_table(table_node, header = TRUE)
+
+      if (nrow(race_table) == 0) {
+        message(
+          "  [Race ", race_number,
+          "] Skipping: results table is empty"
         )
         return(NULL)
       }
