@@ -2,6 +2,8 @@
 
 ## nascaR.data 3.0.1
 
+CRAN release: 2026-02-16
+
 - **Removed disk cache.** The on-disk cache from v3.0.0 silently served
   stale data across R sessions.
   [`load_series()`](https://www.kylegrealis.com/nascaR.data/reference/load_series.md)
@@ -21,6 +23,7 @@ CRAN release: 2026-02-14
   to access data:
 
   ``` r
+
   cup <- load_series("cup")
   nxs <- load_series("nxs")
   truck <- load_series("truck")
@@ -93,6 +96,7 @@ Deprecating the `weekly` branch! Weekly race results will be added to
 the `main` branch. CRAN-stable version is available via CRAN:
 
 ``` r
+
 install.packages("nascaR.data")
 remotes::install_github("kyleGrealis/nascaR.data") # please do not use "@weekly"
 ```

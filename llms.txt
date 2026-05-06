@@ -19,12 +19,14 @@ curated and scraped with permission from
 Install from CRAN:
 
 ``` r
+
 install.packages("nascaR.data")
 ```
 
 Or install the development version from GitHub:
 
 ``` r
+
 remotes::install_github("kyleGrealis/nascaR.data")
 ```
 
@@ -38,6 +40,7 @@ All data is served from cloud storage. Use
 to access race results:
 
 ``` r
+
 library(nascaR.data)
 
 cup <- load_series("cup")
@@ -90,6 +93,7 @@ automatically updated every Monday at 5AM EST during the racing season
 Load the package:
 
 ``` r
+
 library(nascaR.data)
 ```
 
@@ -99,6 +103,7 @@ Use the suite of `get_*_info()` functions to examine specific
 performance results on a race-by-race, season, or career level.
 
 ``` r
+
 # Career results across all series
 get_driver_info("Christopher Bell")
 ```
@@ -112,6 +117,7 @@ get_driver_info("Christopher Bell")
     3 Truck        7             58     7             1          8.4         8213       1246
 
 ``` r
+
 # Season results across all series
 get_driver_info("Christopher Bell", type = "season")
 ```
@@ -144,6 +150,7 @@ get_driver_info("Christopher Bell", type = "season")
 Or search by race team or manufacturer:
 
 ``` r
+
 get_team_info("Joe Gibbs Racing")
 get_manufacturer_info("Toyota")
 ```
@@ -158,13 +165,13 @@ This package provides rich historical data for:
 
 ### Functions Reference
 
-| Function                                                                                                | Description                                                             |
-|---------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------|
-| [`load_series()`](https://www.kylegrealis.com/nascaR.data/reference/load_series.md)                     | Load race data from cloud storage (with caching)                        |
-| [`clear_cache()`](https://www.kylegrealis.com/nascaR.data/reference/clear_cache.md)                     | Clear in-memory cached data                                             |
-| [`get_driver_info()`](https://www.kylegrealis.com/nascaR.data/reference/get_driver_info.md)             | Obtain race, season, or career performance results                      |
-| [`get_team_info()`](https://www.kylegrealis.com/nascaR.data/reference/get_team_info.md)                 | Team-specific race, season, or career results (i.e., Petty Enterprises) |
-| [`get_manufacturer_info()`](https://www.kylegrealis.com/nascaR.data/reference/get_manufacturer_info.md) | Ford, Chevy, Toyota, Dodge, even Studebaker                             |
+| Function | Description |
+|----|----|
+| [`load_series()`](https://www.kylegrealis.com/nascaR.data/reference/load_series.md) | Load race data from cloud storage (with caching) |
+| [`clear_cache()`](https://www.kylegrealis.com/nascaR.data/reference/clear_cache.md) | Clear in-memory cached data |
+| [`get_driver_info()`](https://www.kylegrealis.com/nascaR.data/reference/get_driver_info.md) | Obtain race, season, or career performance results |
+| [`get_team_info()`](https://www.kylegrealis.com/nascaR.data/reference/get_team_info.md) | Team-specific race, season, or career results (i.e., Petty Enterprises) |
+| [`get_manufacturer_info()`](https://www.kylegrealis.com/nascaR.data/reference/get_manufacturer_info.md) | Ford, Chevy, Toyota, Dodge, even Studebaker |
 
 ## Contributing
 

@@ -5,6 +5,7 @@
 ### Local Setup
 
 ``` r
+
 # Add to .Renviron (NEVER commit this file)
 R2_ACCOUNT_ID="your_account_id"
 R2_ACCESS_KEY_ID="your_access_key_id"
@@ -51,6 +52,7 @@ Rscript inst/updates/upload_to_r2.R --dry-run
 ### Local Full Update
 
 ``` r
+
 # Requires R2 credentials in .Renviron + paws.storage, arrow, httr2
 source("R/r2_upload.R")
 source("inst/updates/scraper.R")

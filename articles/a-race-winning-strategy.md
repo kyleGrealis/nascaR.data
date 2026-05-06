@@ -28,6 +28,7 @@ for each NASCAR series, plus 3 helper functions to make exploring the
 data easier. Let’s check our gauges and see what’s under the hood:
 
 ``` r
+
 library(nascaR.data)
 
 # Load data from cloud storage
@@ -62,6 +63,7 @@ drivers, and feed the data into a horizontal bar chart (some other
 tweaks will be applied to enhance the visual output).
 
 ``` r
+
 cup_series |>
   group_by(Driver) |>
   summarize(career_wins = sum(Win, na.rm = TRUE)) |>
@@ -81,6 +83,7 @@ competed in. What if we compare these same five drivers by win
 percentage?
 
 ``` r
+
 cup_series |>
   group_by(Driver) |>
   summarize(
@@ -109,6 +112,7 @@ column in our datasets makes it easy to filter for race victories and
 analyze performance trends.
 
 ``` r
+
 # Get all wins for a specific driver
 bell_wins <- cup_series |>
   filter(Driver == "Christopher Bell", Win == 1) |>
@@ -124,6 +128,7 @@ Christopher Bell has 13 Cup Series victories. Let’s compare his
 performance across different track types to see where he excels.
 
 ``` r
+
 # Average finish by track surface
 cup_series |>
   filter(Driver == "Christopher Bell", Season >= 2020) |>
@@ -140,15 +145,16 @@ cup_series |>
     ## # A tibble: 4 × 5
     ##   Surface races avg_finish  wins laps_led
     ##   <chr>   <int>      <dbl> <dbl>    <int>
-    ## 1 road       31       13.4     3      121
+    ## 1 road       32       13       3      121
     ## 2 dirt        3       14       1      100
-    ## 3 paved     181       14.8     9     2501
-    ## 4 NA          2       16       0        4
+    ## 3 paved     185       14.6     9     2708
+    ## 4 NA          3       17.7     0       13
 
 Road courses show a strong average finish, but let’s visualize
 performance trends over time to see the full picture.
 
 ``` r
+
 # Visualize season-by-season performance
 cup_series |>
   filter(Driver == "Christopher Bell", Season >= 2020) |>
@@ -164,10 +170,10 @@ cup_series |>
   theme_minimal()
 ```
 
-    ## Warning: Removed 2 rows containing missing values or values outside the scale range
+    ## Warning: Removed 1 row containing missing values or values outside the scale range
     ## (`geom_line()`).
 
-    ## Warning: Removed 2 rows containing missing values or values outside the scale range
+    ## Warning: Removed 1 row containing missing values or values outside the scale range
     ## (`geom_point()`).
 
 ![](a-race-winning-strategy_files/figure-html/unnamed-chunk-10-1.png)
@@ -185,6 +191,7 @@ the Cup Series. We’ll look at average finish position to get a
 comprehensive view of performance.
 
 ``` r
+
 cup_series |>
   filter(Season >= 2010) |>
   group_by(Season, Make) |>
@@ -207,6 +214,7 @@ How do top teams compare when driving for different manufacturers? Let’s
 look at Joe Gibbs Racing’s transition from Chevrolet to Toyota.
 
 ``` r
+
 cup_series |>
   filter(Team == "Joe Gibbs Racing", Season >= 2000) |>
   group_by(Season, Make) |>
@@ -246,6 +254,7 @@ need to type exact names.
 ### Getting driver statistics
 
 ``` r
+
 # Get comprehensive driver statistics (handles fuzzy matching)
 get_driver_info("bell", series = "cup", type = "summary")
 ```
@@ -257,6 +266,7 @@ by series \* `'season'`: Season-by-season breakdown \* `'all'`: Complete
 race-by-race results
 
 ``` r
+
 # Season-by-season performance
 get_driver_info("Christopher Bell", series = "cup", type = "season")
 ```
@@ -266,6 +276,7 @@ get_driver_info("Christopher Bell", series = "cup", type = "season")
 The same helper functions work for teams and manufacturers:
 
 ``` r
+
 # Get team statistics (fuzzy matching built in)
 get_team_info("gibbs", series = "cup", type = "summary")
 
@@ -282,6 +293,7 @@ Let’s use the helper functions to compare several drivers’ performance
 at a specific track.
 
 ``` r
+
 # Compare drivers at Martinsville (short track)
 drivers_to_compare <- c("Christopher Bell", "Kyle Larson", "William Byron")
 
@@ -307,9 +319,9 @@ martinsville_comparison
     ## # A tibble: 3 × 6
     ##   Driver           races  wins avg_finish avg_start laps_led
     ##   <chr>            <int> <dbl>      <dbl>     <dbl>    <int>
-    ## 1 Kyle Larson         10     1        6.2       7        332
-    ## 2 William Byron       12     3       10.5      10.7      664
-    ## 3 Christopher Bell    12     1       14.8      15.2      184
+    ## 1 Kyle Larson         11     1        6.5       7.5      332
+    ## 2 William Byron       13     3       10.1      10        670
+    ## 3 Christopher Bell    13     1       14.2      14.9      184
 
 This comparison shows how different drivers perform at the same track,
 accounting for starting position, finishing position, and laps led.
@@ -339,6 +351,6 @@ package has you covered.
 
 ## Toolbox
 
-`nascaR.data` was built with R version 4.5.2 with the `tidyverse`
+`nascaR.data` was built with R version 4.6.0 with the `tidyverse`
 (2.0.0) and `ggtext` (0.1.2) packages used to preprocess and summarize
 data.

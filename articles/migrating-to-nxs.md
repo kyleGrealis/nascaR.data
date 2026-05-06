@@ -13,6 +13,7 @@ from Cloudflare R2.
 **Before (v2.x):**
 
 ``` r
+
 data("cup_series")
 data("xfinity_series")
 data("truck_series")
@@ -21,6 +22,7 @@ data("truck_series")
 **After (v3.0.0):**
 
 ``` r
+
 cup <- load_series("cup")
 nxs <- load_series("nxs")
 truck <- load_series("truck")
@@ -38,6 +40,7 @@ provides faster updates and smaller package downloads.
 **Before (v2.x):**
 
 ``` r
+
 xfinity <- load_series("xfinity")
 get_driver_info("bell", series = "xfinity")
 ```
@@ -45,6 +48,7 @@ get_driver_info("bell", series = "xfinity")
 **After (v3.0.0):**
 
 ``` r
+
 nxs <- load_series("nxs")
 get_driver_info("bell", series = "nxs")
 ```
@@ -85,6 +89,7 @@ up-to-date race results without any manual intervention.
 **Managing the cache:**
 
 ``` r
+
 # Force fresh download within a session
 cup <- load_series("cup", refresh = TRUE)
 
@@ -100,6 +105,7 @@ clear_cache()
 **Before (v2.x):**
 
 ``` r
+
 find_driver("bell")
 get_driver_info("Christopher Bell")
 ```
@@ -107,6 +113,7 @@ get_driver_info("Christopher Bell")
 **After (v3.0.0):**
 
 ``` r
+
 # Just use get_*_info() directly
 get_driver_info("bell")
 ```
