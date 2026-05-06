@@ -188,44 +188,72 @@ update_nascar_series <- function(series) {
       # Rate limiting: small delay between requests
       Sys.sleep(0.5)
 
-      # page <- get_page(paste0(cfg$base_url, link))
       page <- get_page(xml2::url_absolute(link, cfg$base_url))
 
       # Extract race details
-      details <- page |>
-        rvest::html_element("td.td-left span.td-bold") |>
+      # Site redesign: race name in <h4>, track in <dd> after "Race Track:"
+      race_name <- page |>
+        rvest::html_element("h4") |>
         rvest::html_text2()
 
-      parts <- stringr::str_split(details, "\n")[[1]]
-      race_name <- parts[1]
-      track_name <- parts[2]
+      # Extract track from <dt>Race Track:</dt><dd>...</dd> pattern
+      track_name <- page |>
+        xml2::xml_find_first("//dt[contains(text(),'Race Track')]/following-sibling::dd[1]") |>
+        rvest::html_text2()
+
+      # Fallback: try legacy selector
+      if (is.na(race_name) || is.na(track_name)) {
+        details <- page |>
+          rvest::html_element("td.td-left span.td-bold") |>
+          rvest::html_text2()
+        if (!is.na(details)) {
+          parts <- stringr::str_split(details, "\n")[[1]]
+          if (is.na(race_name)) race_name <- parts[1]
+          if (is.na(track_name)) track_name <- parts[2]
+        }
+      }
 
       message(
         "  [Race ", race_number, "] Processing: ",
         track_name
       )
 
-      # Extract race table
-      race_table <- page |>
-        rvest::html_table(header = TRUE) |>
-        purrr::pluck(3)
+      # Extract race table -- find by column content, not index
+      all_tables <- page |>
+        rvest::html_table(header = TRUE)
 
-      # Validate extracted table has expected columns
-      if (!is.null(race_table) && nrow(race_table) > 0) {
-        expected <- c("Finish", "Start", "Driver")
-        if (!all(expected %in% names(race_table))) {
-          message(
-            "  [Race ", race_number,
-            "] Skipping: unexpected table structure"
-          )
-          return(NULL)
+      race_table <- NULL
+      for (tbl in all_tables) {
+        if ("Driver" %in% names(tbl) && any(c("Fin", "Finish") %in% names(tbl))) {
+          race_table <- tbl
+          break
         }
       }
 
       if (is.null(race_table) || nrow(race_table) == 0) {
         message(
           "  [Race ", race_number,
-          "] Skipping: empty or missing table"
+          "] Skipping: no results table found"
+        )
+        return(NULL)
+      }
+
+      # Normalize column names (site changed Finish->Fin, Start->St)
+      col_renames <- c(Finish = "Fin", Start = "St")
+      for (new_nm in names(col_renames)) {
+        old_nm <- col_renames[[new_nm]]
+        if (old_nm %in% names(race_table) && !new_nm %in% names(race_table)) {
+          names(race_table)[names(race_table) == old_nm] <- new_nm
+        }
+      }
+
+      # Validate expected columns after renaming
+      expected <- c("Finish", "Start", "Driver")
+      if (!all(expected %in% names(race_table))) {
+        message(
+          "  [Race ", race_number,
+          "] Skipping: unexpected table structure. ",
+          "Columns: ", paste(names(race_table), collapse = ", ")
         )
         return(NULL)
       }
@@ -311,8 +339,16 @@ update_nascar_series <- function(series) {
     message("Uploading ", cfg$r2_key, " to R2...")
     nascar_r2_upload(updated_data, cfg$r2_key)
     message("  -> uploaded ", cfg$r2_key, ".parquet to R2")
+  } else if (length(new_links) > 0) {
+    # Had new race links but scraped zero results -- something is wrong
+    stop(
+      "[", cfg$series_name,
+      "] Found ", length(new_links),
+      " new race link(s) but failed to scrape any data. ",
+      "The source site structure may have changed."
+    )
   } else {
-    message("No new ", cfg$series_name, " race data found")
+    message(cfg$series_name, " Series is up-to-date")
   }
 
   invisible()
