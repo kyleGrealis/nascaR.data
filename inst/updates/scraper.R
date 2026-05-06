@@ -188,7 +188,8 @@ update_nascar_series <- function(series) {
       # Rate limiting: small delay between requests
       Sys.sleep(0.5)
 
-      page <- get_page(paste0(cfg$base_url, link))
+      # page <- get_page(paste0(cfg$base_url, link))
+      page <- get_page(xml2::url_absolute(link, cfg$base_url))
 
       # Extract race details
       details <- page |>
