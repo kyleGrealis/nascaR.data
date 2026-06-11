@@ -55,10 +55,13 @@ nascar_r2_upload <- function(x, name, bucket = "nascar-data") {
     ))
   }
 
-  # Write to temp parquet file
-  temp_file <- tempfile(fileext = ".parquet")
-  on.exit(unlink(temp_file), add = TRUE)
-  arrow::write_parquet(x, temp_file)
+  # Write to temp files
+  temp_file_parquet <- tempfile(fileext = ".parquet")
+  temp_file_csv <- tempfile(fileext = ".csv")
+  on.exit(unlink(c(temp_file_parquet, temp_file_csv)), add = TRUE)
+
+  arrow::write_parquet(x, temp_file_parquet)
+  utils::write.csv(x, temp_file_csv, row.names = FALSE)
 
   # Configure S3 client for R2
   s3 <- paws.storage::s3(
@@ -78,20 +81,40 @@ nascar_r2_upload <- function(x, name, bucket = "nascar-data") {
   )
 
   # Upload to bucket root
-  key_name <- paste0(name, ".parquet")
+  key_name_parquet <- paste0(name, ".parquet")
+  key_name_csv <- paste0(name, ".csv")
 
+  # Upload parquet
   tryCatch(
     {
       s3$put_object(
         Bucket = bucket,
-        Key = key_name,
-        Body = temp_file
+        Key = key_name_parquet,
+        Body = temp_file_parquet
       )
-      message("Uploaded ", key_name, " to ", bucket)
+      message("Uploaded ", key_name_parquet, " to ", bucket)
     },
     error = function(e) {
       rlang::abort(c(
-        paste0("Failed to upload ", key_name, " to R2."),
+        paste0("Failed to upload ", key_name_parquet, " to R2."),
+        x = conditionMessage(e)
+      ))
+    }
+  )
+
+  # Upload CSV
+  tryCatch(
+    {
+      s3$put_object(
+        Bucket = bucket,
+        Key = key_name_csv,
+        Body = temp_file_csv
+      )
+      message("Uploaded ", key_name_csv, " to ", bucket)
+    },
+    error = function(e) {
+      rlang::abort(c(
+        paste0("Failed to upload ", key_name_csv, " to R2."),
         x = conditionMessage(e)
       ))
     }

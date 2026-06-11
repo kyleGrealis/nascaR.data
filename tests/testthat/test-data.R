@@ -239,3 +239,39 @@ test_that("clear_cache() empties memory cache and emits message", {
 test_that("clear_cache() runs without error", {
   expect_no_error(clear_cache())
 })
+
+test_that("export_series() writes CSV and Parquet files correctly", {
+  skip_on_cran()
+  skip_if_offline()
+
+  # Create temp files
+  tmp_csv <- tempfile(fileext = ".csv")
+  tmp_parquet <- tempfile(fileext = ".parquet")
+  tmp_invalid <- tempfile(fileext = ".txt")
+  on.exit(unlink(c(tmp_csv, tmp_parquet, tmp_invalid)), add = TRUE)
+
+  # Export CSV
+  expect_no_error(export_series("cup", tmp_csv))
+  expect_true(file.exists(tmp_csv))
+  csv_data <- utils::read.csv(tmp_csv)
+  expect_s3_class(csv_data, "data.frame")
+  expect_true(nrow(csv_data) > 0)
+
+  # Export Parquet
+  expect_no_error(export_series("cup", tmp_parquet))
+  expect_true(file.exists(tmp_parquet))
+  parquet_data <- arrow::read_parquet(tmp_parquet)
+  expect_s3_class(parquet_data, "data.frame")
+  expect_true(nrow(parquet_data) > 0)
+
+  # Test format guess fails on unknown extension
+  expect_error(export_series("cup", tmp_invalid), "Could not determine format")
+
+  # Test format override with unknown extension
+  expect_no_error(export_series("cup", tmp_invalid, format = "csv"))
+  expect_true(file.exists(tmp_invalid))
+
+  # Input validation
+  expect_error(export_series("cup"), "`path` must be a single character string")
+  expect_error(export_series("cup", tmp_csv, format = "invalid"), "must be either")
+})

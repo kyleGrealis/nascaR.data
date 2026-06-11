@@ -20,6 +20,6 @@
 ^\.pre-commit-config\.yaml$
 ^\.checksums\.json$
 ^MAINTAINER\.md$
-^CLAUDE\.md$
-^\.claude$
+^GEMINI\.md$
+^\.gemini$
 ^data$

@@ -1,3 +1,18 @@
+# nascaR.data 3.1.0
+
+* **New exported function `export_series()`.** Allows exporting loaded NASCAR
+  series data to local CSV or Parquet files, with automatic file type guessing
+  based on file extension.
+* **Support for CSV uploads to Cloudflare R2.** The data pipeline now writes
+  and uploads both Parquet and CSV files for all series, enabling direct CSV
+  access for non-R users.
+* **New `ingesting-nascar-data` vignette.** Documents direct access URLs,
+  command-line download instructions, and details on correctly parsing
+  car numbers (preserving leading zeros) in R and Python.
+* **Package installation updates.** The documentation now recommends `pak::pak()`
+  for installing the package from CRAN and GitHub.
+
+
 # nascaR.data 3.0.1
 
 * **Removed disk cache.** The on-disk cache from v3.0.0 silently

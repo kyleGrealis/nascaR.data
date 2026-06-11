@@ -25,9 +25,9 @@ docs
 /.quarto/
 **/*.quarto_ipynb
 
-# Claude Code
-.claude/
-CLAUDE.md
+# Gemini / Antigravity
+.gemini/
+GEMINI.md
 
 # Data backups (excluded from package build)
 data/

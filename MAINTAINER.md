@@ -32,13 +32,13 @@ Manual trigger: Actions tab > Weekly NASCAR Data Update > Run workflow.
 
 1. `scraper.R` downloads existing data from R2
 2. Scrapes new races from DriverAverages.com
-3. Combines old + new and uploads back to R2
+3. Combines old + new and uploads both Parquet and CSV formats back to R2
 4. `validate_data.R` downloads from R2 and validates
 5. Commits `.checksums.json` to main
 
 ### Manual Seed/Re-upload
 ```bash
-# Upload local rda files to R2 as parquet (one-time or recovery)
+# Upload local rda files to R2 as both parquet and csv formats (one-time or recovery)
 Rscript inst/updates/upload_to_r2.R
 
 # Dry run (no actual upload)
@@ -60,7 +60,10 @@ update_nascar_series("truck")
 - **Bucket**: `nascar-data`
 - **Region**: WNAM
 - **Custom domain**: `nascar.kylegrealis.com`
-- **Files**: `cup_series.parquet`, `nxs_series.parquet`, `truck_series.parquet`
+- **Files**: Both `.parquet` and `.csv` formats are uploaded for each series:
+  - `cup_series.parquet` & `cup_series.csv`
+  - `nxs_series.parquet` & `nxs_series.csv`
+  - `truck_series.parquet` & `truck_series.csv`
 
 ## Adding Track Info
 
