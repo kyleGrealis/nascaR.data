@@ -8,6 +8,8 @@ Load and manage NASCAR race data
   : NASCAR Series Data
 - [`load_series()`](https://www.kylegrealis.com/nascaR.data/reference/load_series.md)
   : Load NASCAR Series Data
+- [`export_series()`](https://www.kylegrealis.com/nascaR.data/reference/export_series.md)
+  : Export NASCAR Series Data
 - [`clear_cache()`](https://www.kylegrealis.com/nascaR.data/reference/clear_cache.md)
   : Clear Cached NASCAR Data
 

@@ -69,8 +69,8 @@ get_team_info("Joe Gibbs Racing")
 #> # A tibble: 3 × 9
 #>   Series Seasons `Career Races` `# of Drivers`  Wins `Best Finish` `Avg Finish`
 #>   <chr>    <int>          <int>          <int> <dbl>         <int>        <dbl>
-#> 1 Cup         35           3343             29   228             1         14.4
-#> 2 NXS         30           2372             80   222             1         12.9
+#> 1 Cup         35           3375             29   231             1         14.4
+#> 2 NXS         30           2404             80   223             1         12.9
 #> 3 Truck        4             66              3     0             2         16.5
 #> # ℹ 2 more variables: `Laps Raced` <int>, `Laps Led` <int>
 

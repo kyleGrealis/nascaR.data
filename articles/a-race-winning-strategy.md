@@ -145,9 +145,9 @@ cup_series |>
     ## # A tibble: 4 × 5
     ##   Surface races avg_finish  wins laps_led
     ##   <chr>   <int>      <dbl> <dbl>    <int>
-    ## 1 road       32       13       3      121
+    ## 1 road       33       13.3     3      121
     ## 2 dirt        3       14       1      100
-    ## 3 paved     185       14.6     9     2708
+    ## 3 paved     192       14.8     9     2881
     ## 4 NA          3       17.7     0       13
 
 Road courses show a strong average finish, but let’s visualize

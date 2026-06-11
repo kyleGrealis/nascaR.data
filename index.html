@@ -12,8 +12,8 @@
 <link rel="icon" sizes="any" href="favicon.ico">
 <link rel="manifest" href="site.webmanifest">
 <script src="lightswitch.js"></script><script src="deps/jquery-3.6.0/jquery-3.6.0.min.js"></script><meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-<link href="deps/bootstrap-5.3.1/bootstrap.min.css" rel="stylesheet">
-<script src="deps/bootstrap-5.3.1/bootstrap.bundle.min.js"></script><link href="deps/font-awesome-6.5.2/css/all.min.css" rel="stylesheet">
+<link href="deps/bootstrap-5.3.8/bootstrap.min.css" rel="stylesheet">
+<script src="deps/bootstrap-5.3.8/bootstrap.bundle.min.js"></script><link href="deps/font-awesome-6.5.2/css/all.min.css" rel="stylesheet">
 <link href="deps/font-awesome-6.5.2/css/v4-shims.min.css" rel="stylesheet">
 <script src="deps/headroom-0.11.0/headroom.min.js"></script><script src="deps/headroom-0.11.0/jQuery.headroom.min.js"></script><script src="deps/bootstrap-toc-1.0.1/bootstrap-toc.min.js"></script><script src="deps/clipboard.js-2.0.11/clipboard.min.js"></script><script src="deps/search-1.0.0/autocomplete.jquery.min.js"></script><script src="deps/search-1.0.0/fuse.min.js"></script><script src="deps/search-1.0.0/mark.min.js"></script><!-- pkgdown --><script src="pkgdown.js"></script><meta property="og:title" content="NASCAR Race Data">
 <meta name="description" content="A collection of NASCAR race, driver, owner and manufacturer data across the three major NASCAR divisions: NASCAR Cup Series, NXS, and NASCAR Craftsman Truck Series. The curated data begins with the 1949 season and is updated weekly during the racing season. Explore race, season, or career performance for drivers, teams, and manufacturers throughout NASCAR's history. Data was sourced with permission from DriverAverages.com.">
@@ -28,7 +28,7 @@
 
     <a class="navbar-brand me-2" href="index.html">nascaR.data</a>
 
-    <small class="nav-text text-muted me-auto" data-bs-toggle="tooltip" data-bs-placement="bottom" title="Released version">3.0.1</small>
+    <small class="nav-text text-muted me-auto" data-bs-toggle="tooltip" data-bs-placement="bottom" title="Released version">3.1.0</small>
 
 
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbar" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
@@ -42,7 +42,8 @@
 <li class="nav-item dropdown">
   <button class="nav-link dropdown-toggle" type="button" id="dropdown-articles" data-bs-toggle="dropdown" aria-expanded="false" aria-haspopup="true">Articles</button>
   <ul class="dropdown-menu" aria-labelledby="dropdown-articles">
-<li><a class="dropdown-item" href="articles/migrating-to-nxs.html">Migrating to NXS (v3.0.0)</a></li>
+<li><a class="dropdown-item" href="articles/ingesting-nascar-data.html">Ingesting NASCAR Data</a></li>
+    <li><a class="dropdown-item" href="articles/migrating-to-nxs.html">Migrating to NXS (v3.0.0)</a></li>
   </ul>
 </li>
 <li class="nav-item"><a class="nav-link" href="news/index.html">Changelog</a></li>
@@ -85,10 +86,10 @@
 </h2>
 <p>Install from CRAN:</p>
 <div class="sourceCode" id="cb1"><pre class="downlit sourceCode r">
-<code class="sourceCode R"><span><span class="fu"><a href="https://rdrr.io/r/utils/install.packages.html" class="external-link">install.packages</a></span><span class="op">(</span><span class="st">"nascaR.data"</span><span class="op">)</span></span></code></pre></div>
+<code class="sourceCode R"><span><span class="fu">pak</span><span class="fu">::</span><span class="fu"><a href="https://pak.r-lib.org/reference/pak.html" class="external-link">pak</a></span><span class="op">(</span><span class="st">"nascaR.data"</span><span class="op">)</span></span></code></pre></div>
 <p>Or install the development version from GitHub:</p>
 <div class="sourceCode" id="cb2"><pre class="downlit sourceCode r">
-<code class="sourceCode R"><span><span class="fu">remotes</span><span class="fu">::</span><span class="fu">install_github</span><span class="op">(</span><span class="st">"kyleGrealis/nascaR.data"</span><span class="op">)</span></span></code></pre></div>
+<code class="sourceCode R"><span><span class="fu">pak</span><span class="fu">::</span><span class="fu"><a href="https://pak.r-lib.org/reference/pak.html" class="external-link">pak</a></span><span class="op">(</span><span class="st">"kyleGrealis/nascaR.data"</span><span class="op">)</span></span></code></pre></div>
 <p><strong>Note:</strong> This package requires the <code>arrow</code> package for reading parquet data from cloud storage. It will be installed automatically.</p>
 </div>
 <div class="section level2">
@@ -101,9 +102,55 @@
 <span><span class="va">cup</span> <span class="op">&lt;-</span> <span class="fu"><a href="reference/load_series.html">load_series</a></span><span class="op">(</span><span class="st">"cup"</span><span class="op">)</span></span>
 <span><span class="va">nxs</span> <span class="op">&lt;-</span> <span class="fu"><a href="reference/load_series.html">load_series</a></span><span class="op">(</span><span class="st">"nxs"</span><span class="op">)</span></span>
 <span><span class="va">truck</span> <span class="op">&lt;-</span> <span class="fu"><a href="reference/load_series.html">load_series</a></span><span class="op">(</span><span class="st">"truck"</span><span class="op">)</span></span></code></pre></div>
-<p>Data is cached in memory for the current R session. Each new session downloads fresh data automatically. Use <code>refresh = TRUE</code> to force a re-download within a session.</p>
+<p><strong>Data is cached in memory for the current R session.</strong> Each new session downloads fresh data automatically. Use <code>refresh = TRUE</code> to force a re-download within a session.</p>
 <p>Data is updated automatically every Monday during the racing season (February through November).</p>
 <hr>
+</div>
+<div class="section level2">
+<h2 id="exporting-data">Exporting Data<a class="anchor" aria-label="anchor" href="#exporting-data"></a>
+</h2>
+<p>If you need to export NASCAR results to a local file (e.g. for use in spreadsheet applications or external scripts), you can use <code><a href="reference/export_series.html">export_series()</a></code> to write the data to CSV or Parquet format:</p>
+<div class="sourceCode" id="cb4"><pre class="downlit sourceCode r">
+<code class="sourceCode R"><span><span class="kw"><a href="https://rdrr.io/r/base/library.html" class="external-link">library</a></span><span class="op">(</span><span class="va"><a href="https://www.kylegrealis.com/nascaR.data/">nascaR.data</a></span><span class="op">)</span></span>
+<span></span>
+<span><span class="co"># Export Cup Series data to CSV (automatically guesses format from extension)</span></span>
+<span><span class="fu"><a href="reference/export_series.html">export_series</a></span><span class="op">(</span><span class="st">"cup"</span>, <span class="st">"cup_series.csv"</span><span class="op">)</span></span>
+<span></span>
+<span><span class="co"># Export NXS data to Parquet</span></span>
+<span><span class="fu"><a href="reference/export_series.html">export_series</a></span><span class="op">(</span><span class="st">"nxs"</span>, <span class="st">"nxs_series.parquet"</span><span class="op">)</span></span></code></pre></div>
+<hr>
+</div>
+<div class="section level2">
+<h2 id="command-line--direct-data-access-non-r-users">Command-Line &amp; Direct Data Access (Non-R Users)<a class="anchor" aria-label="anchor" href="#command-line--direct-data-access-non-r-users"></a>
+</h2>
+<p>The race results data is hosted publicly on Cloudflare R2 and can be downloaded directly in CSV or Parquet format using standard command-line tools like <code>curl</code> or <code>wget</code>. No R installation is required.</p>
+<p>See <code><a href="articles/ingesting-nascar-data.html">vignette("ingesting-nascar-data")</a></code> (or the <a href="https://www.kylegrealis.com/nascaR.data/articles/ingesting-nascar-data.html">online documentation</a>) for more detailed ingestion guides, direct download URLs, and critical warnings on correctly ingesting NASCAR car numbers to preserve leading zeros.</p>
+<div class="section level3">
+<h3 id="download-csv-files">Download CSV files:<a class="anchor" aria-label="anchor" href="#download-csv-files"></a>
+</h3>
+<div class="sourceCode" id="cb5"><pre class="sourceCode bash"><code class="sourceCode bash"><span id="cb5-1"><a href="#cb5-1" tabindex="-1"></a><span class="co"># Cup Series (1949-present)</span></span>
+<span id="cb5-2"><a href="#cb5-2" tabindex="-1"></a><span class="ex">curl</span> <span class="at">-O</span> https://nascar.kylegrealis.com/cup_series.csv</span>
+<span id="cb5-3"><a href="#cb5-3" tabindex="-1"></a></span>
+<span id="cb5-4"><a href="#cb5-4" tabindex="-1"></a><span class="co"># NXS Series (1982-present)</span></span>
+<span id="cb5-5"><a href="#cb5-5" tabindex="-1"></a><span class="ex">curl</span> <span class="at">-O</span> https://nascar.kylegrealis.com/nxs_series.csv</span>
+<span id="cb5-6"><a href="#cb5-6" tabindex="-1"></a></span>
+<span id="cb5-7"><a href="#cb5-7" tabindex="-1"></a><span class="co"># Truck Series (1995-present)</span></span>
+<span id="cb5-8"><a href="#cb5-8" tabindex="-1"></a><span class="ex">curl</span> <span class="at">-O</span> https://nascar.kylegrealis.com/truck_series.csv</span></code></pre></div>
+</div>
+<div class="section level3">
+<h3 id="download-parquet-files">Download Parquet files:<a class="anchor" aria-label="anchor" href="#download-parquet-files"></a>
+</h3>
+<div class="sourceCode" id="cb6"><pre class="sourceCode bash"><code class="sourceCode bash"><span id="cb6-1"><a href="#cb6-1" tabindex="-1"></a><span class="co"># Cup Series</span></span>
+<span id="cb6-2"><a href="#cb6-2" tabindex="-1"></a><span class="ex">curl</span> <span class="at">-O</span> https://nascar.kylegrealis.com/cup_series.parquet</span>
+<span id="cb6-3"><a href="#cb6-3" tabindex="-1"></a></span>
+<span id="cb6-4"><a href="#cb6-4" tabindex="-1"></a><span class="co"># NXS Series</span></span>
+<span id="cb6-5"><a href="#cb6-5" tabindex="-1"></a><span class="ex">curl</span> <span class="at">-O</span> https://nascar.kylegrealis.com/nxs_series.parquet</span>
+<span id="cb6-6"><a href="#cb6-6" tabindex="-1"></a></span>
+<span id="cb6-7"><a href="#cb6-7" tabindex="-1"></a><span class="co"># Truck Series</span></span>
+<span id="cb6-8"><a href="#cb6-8" tabindex="-1"></a><span class="ex">curl</span> <span class="at">-O</span> https://nascar.kylegrealis.com/truck_series.parquet</span></code></pre></div>
+<p>These files are updated every Monday morning at 5AM EST during the racing season (February through November).</p>
+<hr>
+</div>
 </div>
 <div class="section level2">
 <h2 id="in-the-pits">In the Pits<a class="anchor" aria-label="anchor" href="#in-the-pits"></a>
@@ -135,13 +182,13 @@
 <h2 id="usage">Usage<a class="anchor" aria-label="anchor" href="#usage"></a>
 </h2>
 <p>Load the package:</p>
-<div class="sourceCode" id="cb4"><pre class="downlit sourceCode r">
+<div class="sourceCode" id="cb7"><pre class="downlit sourceCode r">
 <code class="sourceCode R"><span><span class="kw"><a href="https://rdrr.io/r/base/library.html" class="external-link">library</a></span><span class="op">(</span><span class="va"><a href="https://www.kylegrealis.com/nascaR.data/">nascaR.data</a></span><span class="op">)</span></span></code></pre></div>
 <div class="section level3">
 <h3 id="driver-team--manufacturer-data">Driver, Team, &amp; Manufacturer Data<a class="anchor" aria-label="anchor" href="#driver-team--manufacturer-data"></a>
 </h3>
 <p>Use the suite of <code>get_*_info()</code> functions to examine specific performance results on a race-by-race, season, or career level.</p>
-<div class="sourceCode" id="cb5"><pre class="downlit sourceCode r">
+<div class="sourceCode" id="cb8"><pre class="downlit sourceCode r">
 <code class="sourceCode R"><span><span class="co"># Career results across all series</span></span>
 <span><span class="fu"><a href="reference/get_driver_info.html">get_driver_info</a></span><span class="op">(</span><span class="st">"Christopher Bell"</span><span class="op">)</span></span></code></pre></div>
 <pre><code>Driver: Christopher Bell
@@ -151,7 +198,7 @@
 1 Cup          6            216    13             1         14.5        54607       2717
 2 NXS          7             81    19             1         10.3        13092       3272
 3 Truck        7             58     7             1          8.4         8213       1246</code></pre>
-<div class="sourceCode" id="cb7"><pre class="downlit sourceCode r">
+<div class="sourceCode" id="cb10"><pre class="downlit sourceCode r">
 <code class="sourceCode R"><span><span class="co"># Season results across all series</span></span>
 <span><span class="fu"><a href="reference/get_driver_info.html">get_driver_info</a></span><span class="op">(</span><span class="st">"Christopher Bell"</span>, type <span class="op">=</span> <span class="st">"season"</span><span class="op">)</span></span></code></pre></div>
 <pre><code>Driver: Christopher Bell
@@ -179,7 +226,7 @@
 19 Truck    2024     1     0             5          5            134          2
 20 Truck    2025     1     0             4          4             81         30</code></pre>
 <p>Or search by race team or manufacturer:</p>
-<div class="sourceCode" id="cb9"><pre class="downlit sourceCode r">
+<div class="sourceCode" id="cb12"><pre class="downlit sourceCode r">
 <code class="sourceCode R"><span><span class="fu"><a href="reference/get_team_info.html">get_team_info</a></span><span class="op">(</span><span class="st">"Joe Gibbs Racing"</span><span class="op">)</span></span>
 <span><span class="fu"><a href="reference/get_manufacturer_info.html">get_manufacturer_info</a></span><span class="op">(</span><span class="st">"Toyota"</span><span class="op">)</span></span></code></pre></div>
 </div>
@@ -209,6 +256,10 @@
 <tr>
 <td><code><a href="reference/load_series.html">load_series()</a></code></td>
 <td>Load race data from cloud storage (with caching)</td>
+</tr>
+<tr>
+<td><code><a href="reference/export_series.html">export_series()</a></code></td>
+<td>Export race data to a local CSV or Parquet file</td>
 </tr>
 <tr>
 <td><code><a href="reference/clear_cache.html">clear_cache()</a></code></td>

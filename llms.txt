@@ -20,14 +20,14 @@ Install from CRAN:
 
 ``` r
 
-install.packages("nascaR.data")
+pak::pak("nascaR.data")
 ```
 
 Or install the development version from GitHub:
 
 ``` r
 
-remotes::install_github("kyleGrealis/nascaR.data")
+pak::pak("kyleGrealis/nascaR.data")
 ```
 
 **Note:** This package requires the `arrow` package for reading parquet
@@ -48,12 +48,77 @@ nxs <- load_series("nxs")
 truck <- load_series("truck")
 ```
 
-Data is cached in memory for the current R session. Each new session
+**Data is cached in memory for the current R session.** Each new session
 downloads fresh data automatically. Use `refresh = TRUE` to force a
 re-download within a session.
 
 Data is updated automatically every Monday during the racing season
 (February through November).
+
+------------------------------------------------------------------------
+
+## Exporting Data
+
+If you need to export NASCAR results to a local file (e.g. for use in
+spreadsheet applications or external scripts), you can use
+[`export_series()`](https://www.kylegrealis.com/nascaR.data/reference/export_series.md)
+to write the data to CSV or Parquet format:
+
+``` r
+
+library(nascaR.data)
+
+# Export Cup Series data to CSV (automatically guesses format from extension)
+export_series("cup", "cup_series.csv")
+
+# Export NXS data to Parquet
+export_series("nxs", "nxs_series.parquet")
+```
+
+------------------------------------------------------------------------
+
+## Command-Line & Direct Data Access (Non-R Users)
+
+The race results data is hosted publicly on Cloudflare R2 and can be
+downloaded directly in CSV or Parquet format using standard command-line
+tools like `curl` or `wget`. No R installation is required.
+
+See
+[`vignette("ingesting-nascar-data")`](https://www.kylegrealis.com/nascaR.data/articles/ingesting-nascar-data.md)
+(or the [online
+documentation](https://www.kylegrealis.com/nascaR.data/articles/ingesting-nascar-data.html))
+for more detailed ingestion guides, direct download URLs, and critical
+warnings on correctly ingesting NASCAR car numbers to preserve leading
+zeros.
+
+### Download CSV files:
+
+``` bash
+# Cup Series (1949-present)
+curl -O https://nascar.kylegrealis.com/cup_series.csv
+
+# NXS Series (1982-present)
+curl -O https://nascar.kylegrealis.com/nxs_series.csv
+
+# Truck Series (1995-present)
+curl -O https://nascar.kylegrealis.com/truck_series.csv
+```
+
+### Download Parquet files:
+
+``` bash
+# Cup Series
+curl -O https://nascar.kylegrealis.com/cup_series.parquet
+
+# NXS Series
+curl -O https://nascar.kylegrealis.com/nxs_series.parquet
+
+# Truck Series
+curl -O https://nascar.kylegrealis.com/truck_series.parquet
+```
+
+These files are updated every Monday morning at 5AM EST during the
+racing season (February through November).
 
 ------------------------------------------------------------------------
 
@@ -168,6 +233,7 @@ This package provides rich historical data for:
 | Function | Description |
 |----|----|
 | [`load_series()`](https://www.kylegrealis.com/nascaR.data/reference/load_series.md) | Load race data from cloud storage (with caching) |
+| [`export_series()`](https://www.kylegrealis.com/nascaR.data/reference/export_series.md) | Export race data to a local CSV or Parquet file |
 | [`clear_cache()`](https://www.kylegrealis.com/nascaR.data/reference/clear_cache.md) | Clear in-memory cached data |
 | [`get_driver_info()`](https://www.kylegrealis.com/nascaR.data/reference/get_driver_info.md) | Obtain race, season, or career performance results |
 | [`get_team_info()`](https://www.kylegrealis.com/nascaR.data/reference/get_team_info.md) | Team-specific race, season, or career results (i.e., Petty Enterprises) |
@@ -199,6 +265,8 @@ Load and manage NASCAR race data
   : NASCAR Series Data
 - [`load_series()`](https://www.kylegrealis.com/nascaR.data/reference/load_series.md)
   : Load NASCAR Series Data
+- [`export_series()`](https://www.kylegrealis.com/nascaR.data/reference/export_series.md)
+  : Export NASCAR Series Data
 - [`clear_cache()`](https://www.kylegrealis.com/nascaR.data/reference/clear_cache.md)
   : Clear Cached NASCAR Data
 
@@ -219,6 +287,11 @@ Find race performance results
 
 - [A Race Winning
   Strategy](https://www.kylegrealis.com/nascaR.data/articles/a-race-winning-strategy.md):
+
+### Ingesting & Exporting Data
+
+- [Ingesting NASCAR
+  Data](https://www.kylegrealis.com/nascaR.data/articles/ingesting-nascar-data.md):
 
 ### Upgrading
 
