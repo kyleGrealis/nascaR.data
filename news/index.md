@@ -2,6 +2,8 @@
 
 ## nascaR.data 3.1.0
 
+CRAN release: 2026-06-11
+
 - **New exported function
   [`export_series()`](https://www.kylegrealis.com/nascaR.data/reference/export_series.md).**
   Allows exporting loaded NASCAR series data to local CSV or Parquet

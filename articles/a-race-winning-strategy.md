@@ -145,10 +145,10 @@ cup_series |>
     ## # A tibble: 4 × 5
     ##   Surface races avg_finish  wins laps_led
     ##   <chr>   <int>      <dbl> <dbl>    <int>
-    ## 1 road       33       13.3     3      121
+    ## 1 road       34       13       3      121
     ## 2 dirt        3       14       1      100
-    ## 3 paved     192       14.8     9     2881
-    ## 4 NA          3       17.7     0       13
+    ## 3 paved     193       14.9     9     2899
+    ## 4 NA          4       23       0       13
 
 Road courses show a strong average finish, but let’s visualize
 performance trends over time to see the full picture.
@@ -351,6 +351,6 @@ package has you covered.
 
 ## Toolbox
 
-`nascaR.data` was built with R version 4.6.0 with the `tidyverse`
+`nascaR.data` was built with R version 4.6.1 with the `tidyverse`
 (2.0.0) and `ggtext` (0.1.2) packages used to preprocess and summarize
 data.

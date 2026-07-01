@@ -1,5 +1,12 @@
 # nascaR.data
 
+[![CRAN
+status](https://www.r-pkg.org/badges/version/nascaR.data)](https://CRAN.R-project.org/package=nascaR.data)
+[![CRAN
+downloads](https://cranlogs.r-pkg.org/badges/nascaR.data)](https://cran.r-project.org/package=nascaR.data)
+[![CRAN
+downloads](https://cranlogs.r-pkg.org/badges/grand-total/nascaR.data)](https://cran.r-project.org/package=nascaR.data)
+
 ------------------------------------------------------------------------
 
 **nascaR.data** provides historical race results from NASCAR’s top three
