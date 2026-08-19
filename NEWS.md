@@ -1,3 +1,11 @@
+# nascaR.data (development version)
+
+* **Restored 2025 stage data (`S1`, `S2`).** Resolved an issue where 2025
+  stage point data was missing across Cup, NXS, and Truck series due to a
+  legacy transform in the 2025 update pipeline. Thanks to `@bolantej` for
+  reporting (#41).
+
+
 # nascaR.data 3.1.0
 
 * **New exported function `export_series()`.** Allows exporting loaded NASCAR

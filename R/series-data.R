@@ -67,12 +67,12 @@
 #'   \item{Led}{Integer. Number of laps led.}
 #'   \item{Status}{Character. Race completion status
 #'     (e.g., `"Running"`, `"Crash"`, `"Engine"`).}
-#'   \item{S1}{Numeric. Stage 1 points (2017--present,
+#'   \item{S1}{Numeric. Stage 1 finishing position (2017--present,
 #'     `NA` for earlier seasons).}
-#'   \item{S2}{Numeric. Stage 2 points (2017--present,
+#'   \item{S2}{Numeric. Stage 2 finishing position (2017--present,
 #'     `NA` for earlier seasons).}
-#'   \item{S3}{Numeric. Stage 3 points. Cup Series only,
-#'     2024--present (`NA` for NXS, Truck, and pre-2024 Cup).}
+#'   \item{S3}{Numeric. Stage 3 finishing position where applicable
+#'     (`NA` where unavailable).}
 #'   \item{Rating}{Numeric. Driver/loop rating for the race
 #'     (`NA` where unavailable).}
 #'   \item{Win}{Integer. Win indicator (`1` = won, `0` = did not win).}

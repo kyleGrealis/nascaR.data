@@ -15,7 +15,7 @@ export_series(series = c("cup", "nxs", "truck"), path, format = NULL, ...)
 \item{format}{Character. Output format: \code{"csv"}, \code{"parquet"}, or \code{NULL}.
 If \code{NULL} (default), the format is guessed from the file extension of \code{path}.}
 
-\item{...}{Additional arguments passed to \code{\link[utils:write.table]{utils::write.csv()}} (for CSV) or
+\item{...}{Additional arguments passed to \code{\link[utils:write.csv]{utils::write.csv()}} (for CSV) or
 \code{\link[arrow:write_parquet]{arrow::write_parquet()}} (for Parquet).}
 }
 \value{
