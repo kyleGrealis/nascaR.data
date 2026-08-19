@@ -113,16 +113,18 @@ All three series share the same column structure:
 
 - S1:
 
-  Numeric. Stage 1 points (2017–present, `NA` for earlier seasons).
+  Numeric. Stage 1 finishing position (2017–present, `NA` for earlier
+  seasons).
 
 - S2:
 
-  Numeric. Stage 2 points (2017–present, `NA` for earlier seasons).
+  Numeric. Stage 2 finishing position (2017–present, `NA` for earlier
+  seasons).
 
 - S3:
 
-  Numeric. Stage 3 points. Cup Series only, 2024–present (`NA` for NXS,
-  Truck, and pre-2024 Cup).
+  Numeric. Stage 3 finishing position where applicable (`NA` where
+  unavailable).
 
 - Rating:
 

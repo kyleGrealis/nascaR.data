@@ -1,5 +1,13 @@
 # Changelog
 
+## nascaR.data (development version)
+
+- **Restored 2025 stage data (`S1`, `S2`).** Resolved an issue where
+  2025 stage point data was missing across Cup, NXS, and Truck series
+  due to a legacy transform in the 2025 update pipeline. Thanks to
+  [@bolantej](https://github.com/bolantej) for reporting
+  ([\#41](https://github.com/kyleGrealis/nascaR.data/issues/41)).
+
 ## nascaR.data 3.1.0
 
 CRAN release: 2026-06-11

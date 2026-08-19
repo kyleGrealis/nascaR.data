@@ -145,10 +145,10 @@ cup_series |>
     ## # A tibble: 4 × 5
     ##   Surface races avg_finish  wins laps_led
     ##   <chr>   <int>      <dbl> <dbl>    <int>
-    ## 1 road       34       13       3      121
+    ## 1 road       35       12.7     3      125
     ## 2 dirt        3       14       1      100
-    ## 3 paved     193       14.9     9     2899
-    ## 4 NA          4       23       0       13
+    ## 3 paved     198       14.7     9     3041
+    ## 4 NA          4       20.2     0       10
 
 Road courses show a strong average finish, but let’s visualize
 performance trends over time to see the full picture.
