@@ -31,7 +31,8 @@ update_nascar_series <- function(series) {
       series_name = "Cup"
     ),
     nxs = list(
-      base_url = "https://www.driveraverages.com/nascar_xfinityseries/",
+      # DriverAverages rebranded the secondary series endpoint
+      base_url = "https://www.driveraverages.com/nascar_secondseries/",
       r2_key = "nxs_series",
       track_info_file = "inst/updates/nxs_track_info.rda",
       track_object = "nxs_track_info",
