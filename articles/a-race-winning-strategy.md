@@ -122,9 +122,9 @@ bell_wins <- cup_series |>
 nrow(bell_wins)
 ```
 
-    ## [1] 13
+    ## [1] 14
 
-Christopher Bell has 13 Cup Series victories. Let’s compare his
+Christopher Bell has 14 Cup Series victories. Let’s compare his
 performance across different track types to see where he excels.
 
 ``` r
@@ -147,7 +147,7 @@ cup_series |>
     ##   <chr>   <int>      <dbl> <dbl>    <int>
     ## 1 road       35       12.7     3      125
     ## 2 dirt        3       14       1      100
-    ## 3 paved     198       14.7     9     3041
+    ## 3 paved     201       14.6    10     3087
     ## 4 NA          4       20.2     0       10
 
 Road courses show a strong average finish, but let’s visualize
@@ -352,5 +352,5 @@ package has you covered.
 ## Toolbox
 
 `nascaR.data` was built with R version 4.6.1 with the `tidyverse`
-(2.0.0) and `ggtext` (0.1.2) packages used to preprocess and summarize
+(2.0.0) and `ggtext` (0.2.0) packages used to preprocess and summarize
 data.
