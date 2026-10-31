@@ -147,7 +147,7 @@ cup_series |>
     ##   <chr>   <int>      <dbl> <dbl>    <int>
     ## 1 road       35       12.7     3      125
     ## 2 dirt        3       14       1      100
-    ## 3 paved     201       14.6    10     3087
+    ## 3 paved     207       14.4    10     3274
     ## 4 NA          4       20.2     0       10
 
 Road courses show a strong average finish, but let’s visualize
@@ -351,6 +351,6 @@ package has you covered.
 
 ## Toolbox
 
-`nascaR.data` was built with R version 4.6.1 with the `tidyverse`
+`nascaR.data` was built with R version 4.6.2 with the `tidyverse`
 (2.0.0) and `ggtext` (0.2.0) packages used to preprocess and summarize
 data.
